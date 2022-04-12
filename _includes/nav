@@ -1,6 +1,9 @@
 <div id="nav">
 <ul>
-<li><a href="/nations">Nations</a></li>
-<li><a href="/dossiers">Dossiers</a></li>
+<li><a href="{{site.baseurl}}/dossiers">Dossiers</a></li>
+<li><a href="{{site.baseurl}}/locales">Locales</a></li>
+<li><a href="{{site.baseurl}}/orgs">Organizations</a></li>
+<li><a href="{{site.baseurl}}/reliquaries">Reliquaries</a></li>
+<li><a href="{{site.baseurl}}/timeline">Timeline</a></li>
 </ul>
 </div>

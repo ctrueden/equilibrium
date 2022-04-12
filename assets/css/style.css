@@ -31,12 +31,18 @@ h1 {
   text-align: center;
 }
 
+ul {
+  list-style-position: inside;
+}
+
 #menu {
   float: left;
   border: 1px solid darkgray;
   background: #eee;
   box-shadow: 4px 4px 4px lightgray;
   margin: 1em;
+  margin: 0 1em 1em 1em;
+  font-size: x-small;
 }
 
 #menu ul {
@@ -46,12 +52,31 @@ h1 {
 }
 
 #content {
-  float: left;
+  width: calc(100% - 1em);
 }
 
 .gm {
   border: 1px solid darkgray;
   color: #333;
   background-color: #eee;
-  padding-right: 1em;
+  margin: 0 0 0 1em;
+  padding: 0 1em;
+  width: calc(100% - 3em);
+}
+
+.statbox {
+  border: 1px solid gray;
+  max-width: 20%;
+  float: right;
+  margin: 0 -2px 0 0;
+}
+
+.statbox img {
+  width: 100%;
+}
+
+.statbox .source-link {
+  text-align: right;
+  font-size: x-small;
+  margin: -1em 1em -1em 0;
 }

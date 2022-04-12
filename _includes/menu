@@ -24,7 +24,7 @@ A list of links to pages in the current directory.
   {%- assign title = p.nav-title | default: p.title
     | replace: " ", "&nbsp;" | replace: "-", "&#8209;" -%}
   {%- capture link -%}
-    <li><a href="{{p.url}}">{{title}}</a></li>
+    <li><a href="{{site.baseurl}}{{p.url}}">{{title}}</a></li>
   {%- endcapture -%}
   {%- unless links == "" -%}
     {%- assign links = links | append: "|" -%}
@@ -38,7 +38,7 @@ A list of links to pages in the current directory.
 {%- assign sorted-links = links | split: "|" | sort -%}
 
 <div id="menu"><ul>
-  {%- capture page-ref -%} <a href="{{page.url}}"> {%- endcapture -%}
+  {%- capture page-ref -%} <a href="{{site.baseurl}}{{page.url}}"> {%- endcapture -%}
   {%- for link in sorted-links -%}
     {%- comment -%} NB: Loop vars are immutable! O_O {%- endcomment -%}
     {%- assign l = link | replace: "/!index", "/index" -%}

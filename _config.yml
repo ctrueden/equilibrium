@@ -2,6 +2,7 @@ name: Equilibrium D&D
 title: Equilibrium D&D
 description: A D&D5E game.
 markdown: kramdown
+baseurl: /equilibrium
 kramdown:
   syntax_highlighter: rogue
 plugins:

@@ -1,0 +1,33 @@
+{%- capture name -%} {%- include pathname path=page.url -%} {%- endcapture -%}
+{%- capture dir -%} {%- include pathdir path=page.url -%} {%- endcapture -%}
+{%- assign media-dir = "{{site.baseurl}}/assets/images" | append: dir | append: "/" -%}
+{%- assign default-prefixes = "|" | append: media-dir | append: "|{{site.baseurl}}/assets/images/" | split: "|" -%}
+{%- assign default-suffixes = "|.svg|.png|.gif|.jpg" | split: "|" -%}
+
+{%- assign path = include.path | default: name -%}
+{%- assign prefixes = include.prefixes | default: include.prefix | default: default-prefixes -%}
+{%- assign suffixes = include.suffixes | default: include.suffix | default: default-suffixes -%}
+
+{%- assign match = nil -%}
+{%- for prefix in prefixes -%}
+  {%- for suffix in suffixes -%}
+    {%- assign candidate = prefix | append: path | append: suffix -%}
+    {%- comment -%}
+      Even though the where filter does not terminate upon finding
+      a match, it is still much faster than explicitly looping on
+      site.static_files and breaking upon finding the first match.
+    {%- endcomment -%}
+    {%- assign hits = site.static_files | where: "path", candidate -%}
+    {%- if hits.size > 0 -%}
+      {%- assign match = candidate -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if match -%} {%- break -%} {%- endif -%}
+{%- endfor -%}
+
+{{- match -}}
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

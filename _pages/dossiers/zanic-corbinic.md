@@ -1,0 +1,13 @@
+---
+title: Zanic Corbinic
+statbox:
+  race: half-dwarf/half-githzerai
+  gender: male
+  profession: writer
+---
+
+Zanic was a writer who believed that dwarven law is exploitative of the masses in favor of the Seven Clans, and wanted equality for everyone across the Mountain and the Veldt. He was anti-patriarchy, anti-slavery and anti-monarchy. Zanic sought to dissolve the Seven Clans in favor of an all-inclusive democratic assembly, by launching a movement called the Free Dwarven Society.
+
+Zanic was Rubinia Elka's second in the secret necromancer cabal Esprit Repose, until she expelled him for seditious activity. Zanic believed his expulsion was orchestrated by Bronce Aldrimor “whispering in Rubinia’s ear” and executed his vengeance against Clan Aldrimor accordingly, by zombifying Gurin, in order to shame the clan and ruin their reputation.
+
+In the course of the investigation, Zanic’s disembodied hand was torn to shreds by wild dogs and set on fire by a wild halfling, at which point he promptly died.
