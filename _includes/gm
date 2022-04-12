@@ -1,0 +1,11 @@
+{%- assign gm-path = "/gm" | append: page.url -%}
+{%- assign gm-pages = site.pages | where: "url", gm-path -%}
+{% for p in gm-pages %}
+<div class="gm">
+{{p.content | markdownify}}
+</div>
+{% endfor %}
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

@@ -1,0 +1,18 @@
+name: Equilibrium D&D
+title: Equilibrium D&D
+description: A D&D5E game.
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rogue
+plugins:
+  - jekyll-sitemap
+collections:
+  pages:
+    output: true
+    permalink: /:path
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: page

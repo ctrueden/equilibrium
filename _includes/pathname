@@ -1,0 +1,15 @@
+{%- comment -%}
+Extracts the name part of a file path. E.g.:
+  /var/log/apache2/access.log returns access.log
+{%- endcomment -%}
+
+{%- assign path = include.path -%}
+{%- capture slash -%}
+  {%- include rindex string=path fragment='/' -%}
+{%- endcapture -%}
+{%- assign start = slash | plus: 1 -%}
+{{- path | slice: start, path.size -}}
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}
