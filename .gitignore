@@ -1,10 +1,5 @@
-*.swp
-*~
-.idea/
 /.jekyll-cache/
 /.jekyll-metadata
-/.tweet-cache
 /Gemfile.lock
-/_pages/gm
+/_pages/gm/
 /_site/
-__pycache__/
