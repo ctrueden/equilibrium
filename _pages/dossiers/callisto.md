@@ -5,28 +5,29 @@ statbox:
   gender: male
   class: barbarian/rogue
 magic-items:
-  - name: whip of rescue
-    source: Aboleth adventure
-    value: priceless (10000)
-  - name: Sword of the Arkenstone (+2 Sun Blade)
+  - name: Whip of Rescue
+    source: "Case 11: Hardships and Homecomings"
+    value: 20000
+    rarity: legendary (unique)
+    page: N/A
+  - name: Arkenstab (+2 Sun Blade)
     source: Hyperion
-    value: priceless
+    value: 16000 (sun blade is 12000, staff of fire is 16000)
+    rarity: artifact (unique)
+    link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Sun_Blade
   - name: Mithral Chain Shirt
+    source: "Zanqaa the Devoted - Boon of TODO: TODO"
     value: 800
+    rarity: uncommon (major)
     page: 182
-    rarity: uncommon
-    source: Zanqaa the Devoted
+    link: TODO
   - name: Ring of the Ram
-    source: Zanqaa the Devoted
+    source: "Zanqaa the Devoted - Boon of TODO: TODO"
     value: 5000
+    rarity: rare (major)
     page: 193
-    rarity: rare
-  - name: Tattoo of Vigor (purple)
-    source: Kavaki and Sabrina
+    link: https://www.5esrd.com/gamemastering/magic-items/magic-rings/#Ring_of_the_Ram
 ---
-15800gp
-
-+10200
 
 A stout halfling outlander with “nowhere else to go” who seems uncomfortable in the city. Hates undead even more than most.
 

@@ -10,22 +10,26 @@ magic-items:
     source: "Zanqaa the Devoted - Boon of Arms: Vengeance"
     value: 3500
     page: 183
-    rarity: very rare
+    rarity: very rare (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Oathbow
   - name: Ring of Jumping
     source: "Zanqaa the Devoted - Boon of Prowess: Agility"
     value: 2500
     page: 191
-    rarity: uncommon
+    rarity: uncommon (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/magic-rings/#Ring_of_Mind_Shielding
   - name: Cloak of Elvenkind
     source: "Zanqaa the Devoted - Boon of Aegis: Stealth"
     value: 5000
     page: 158
-    rarity: uncommon
+    rarity: uncommon (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items#TOC-Cloak-of-Elvenkind
   - name: Quiver of Ehlonna
     source: ???
     value: 1000
     page: 189
-    rarity: uncommon
+    rarity: uncommon (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Efficient_Quiver
 ---
 12000gp
 

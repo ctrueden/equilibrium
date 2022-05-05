@@ -7,34 +7,26 @@ statbox:
 magic-items:
   - name: Hornblade (+3 Wounding, Sharpness)
     origin: crazy ghost lady
-    value: 20000 (16000 for +3, 2000 for wounding, 1700 for sharpness, rounded up)
+    value: 20000 (16000 for +3, 2000 for wounding, 1700 for sharpness)
+    rarity: artifact (unique)
   - name: Ring of Jumping
     origin: "Zanqaa the Devoted - Boon of Prowess: Agility"
     value: 2500
     page: 191
-    rarity: uncommon
+    rarity: uncommon (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/magic-rings/#Ring_of_Mind_Shielding
   - name: Dagger of Venom
     origin: "Zanqaa the Devoted - Boon of Arms: Venom"
     value: 2500
     page: 160
-    rarity: rare
-  - name: "Cloak of Elvenkind - Boon of Aegis: Stealth"
-    origin: Zanqaa the Devoted
+    rarity: rare (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons#TOC-Dagger-of-Venom
+  - name: Cloak of Elvenkind
+    origin: "Zanqaa the Devoted - Boon of Aegis: Stealth"
     value: 5000
     page: 158
-    rarity: uncommon
+    rarity: uncommon (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items#TOC-Cloak-of-Elvenkind
 ---
-30000gp
 
 A curious and impulsive halfling rogue.
-
-Items of interest to Nate:
-
-| Item | Value | Page | Rarity |
-|------|-------|------|--------|
-| [Amulet of Health](https://www.dndbeyond.com/magic-items/4568-amulet-of-health) | 8000gp | p. 150 | Rare |
-| [Glamoured Studded Leather](https://roll20.net/compendium/dnd5e/Glamoured%20Studded%20Leather#content) | 2000gp | p. 172 | Rare |
-| [Ioun Stone of Mastery](https://www.dndbeyond.com/magic-items/4938-ioun-stone-of-mastery) | 15000gp | p. 177 | Legendary |
-| [Boots of Speed](https://roll20.net/compendium/dnd5e/Boots%20of%20Speed#content) | 4000gp | p. 155 | Rare |
-
-TODO

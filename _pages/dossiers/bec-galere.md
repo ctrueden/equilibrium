@@ -9,18 +9,21 @@ magic-items:
     source: "Zanqaa the Devoted - Boon of Aegis: Mind"
     value: 12000
     page: 174
-    rarity: Uncommon
+    rarity: uncommon (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items#TOC-Helm-of-Telepathy
   - name: Ring of Resistance
     source: "Zanqaa the Devoted - Boon of Prowess: Resistance"
     notes: Can choose element for half damage
     value: 6000
     page: 192
-    rarity: Rare
+    rarity: rare (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/magic-rings#TOC-Ring-of-Resistance
   - name: Mace of Disruption
     source: "Zanqaa the Devoted - Boon of Arms: Disruption"
     value: 8000
     page: 179
-    rarity: Rare
+    rarity: rare (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Mace_of_Disruption
 ---
 26000gp
 
