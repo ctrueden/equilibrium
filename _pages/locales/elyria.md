@@ -1,18 +1,30 @@
 ---
 nav-title: Elyria
-title: Elves - Elyria
+title: Elyria
+statbox:
+  races:
+  - elves
+  regions:
+  - estanesse
+  - "[Yggdrasil](/reliquaries/yggdrasil)"
+  deities:
+  - sehanine
+  - corellon
+  neighbors:
+  - N: flux
+  - NE: rup
+  - E: selva
+  - S: deepwood
+  - W: arallu
+  - NW: ocean
 ---
 
-**Elyria.** In the deep south lies a sprawling forest, home to the [elven people](https://en.wikipedia.org/wiki/Elf_(Dungeons_%26_Dragons)) and many other sylvan races. The forest’s crowning feature is the Yggdrasil, the World Tree, said to have been planted at the dawn of time by the gods themselves.
+In the deep south lies a sprawling forest, home to the [elven people](/races/elves) and many other sylvan races. The forest’s crowning feature is the Yggdrasil, the World Tree, said to have been planted at the dawn of time by the gods themselves.
 
 * **Population:** The elves are skilled, wise, and few in number. But the great forest of Elyria is home to more than just elves: it is the realm of the [fey](https://en.wikipedia.org/wiki/Fey_(Dungeons_%26_Dragons)). And the deeper into the woods one travels, the more strange and powerful the fey residents become.
 * **Government:** [Matriarchal](https://en.wikipedia.org/wiki/Matriarchy) [monarchy](https://en.wikipedia.org/wiki/Monarchy). The elven queen rules—and is bonded to—the Faerie Court, consisting of representatives from many sylvan races. Two factions exist within the Court, Seelie and Unseelie, and the Court’s makeup sways the queen’s disposition accordingly. In this way, she is a direct manifestation of the Court’s will.
 * **Cities and culture:** Elves are very philosophical, and believe in a balance of all things. They strive to live in harmony with their environment and each other. Their Seelie aspect seeks to promote peace and tranquility, while their Unseelie aspect seeks to stamp out threats and disruptions to the balance of existence. As such, they hold a particular hatred for their neighbors on both sides: the undead to the west, and the orcs to the east.
   * Estanesse is said to be the first and most grand elven city, nestled near the Yggdrasil at the border of the Deepwood.
-* **Deities worshipped:**
-  * [Sehanine](https://en.wikipedia.org/wiki/Sehanine_Moonbow) (CG; Nature, Trickery): goddess of the moon
-  * [Corellon](https://en.wikipedia.org/wiki/Corellon_Larethian) (CG; Nature, Light): deity of magic and the arts
-* **Neighbors:** W: Arallu, E: Selva, N: Flux, S: The Deepwood.
 
 The elves were slow to enter the War of Countless Deaths. Historically, Elyria had been highly homogeneous, their isolationist politics a reflection of their long lives in the shadow of the ancient, unknown powers of the Deepwood. With little concern for short-term goals, conflict between the lesser races in the north simply wasn’t a priority. After all, the Elves had a higher calling: protecting the Yggdrasil from disease and incursion, for should it die, the world would surely die with it.
 

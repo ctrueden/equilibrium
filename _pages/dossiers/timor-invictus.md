@@ -1,7 +1,7 @@
 ---
 title: Timor Invictus
 statbox:
-  race: human (lich)
+  race: "[human](/races/human) ([lich](/races/undead#lich))"
   gender: male
   class: wizard
   case: 07

@@ -1,9 +1,28 @@
 ---
 nav-title: Zephyr
-title: Dragonborn - The Zephyr Federation
+title: The Zephyr Federation
+statbox:
+  races:
+  - dragonborn
+  - dragons
+  cities:
+  - dono
+  - prendo
+  - aether
+  neighbors:
+    N: skyrealm
+    E: rup
+    SE: mountain
+    S: flux
+    SW: ocean
+    W: trell
+  deities:
+  - "[Tiamat](https://en.wikipedia.org/wiki/Tiamat_(Dungeons_%26_Dragons)) (LE; Trickery, War): goddess of wealth, greed and vengeance"
+  - "[Bahamut](https://en.wikipedia.org/wiki/Bahamut_(Dungeons_%26_Dragons)) (LG; Life, War): god of justice and nobility"
+  - "[Sardior](https://en.wikipedia.org/wiki/Sardior) (LN; Knowledge, Trickery): deity of night, psionics and secrets."
 ---
 
-***The Zephyr Federation.*** At the northern edge of the world stand the Cliffs of Transcendence, a mountain range beyond which there is nothing but an open expanse of sky. Masses of earth dot the skies beyond that, though; the largest of these “sky islands” is Aether, the Azure City. South of the cliffs lies the Ventosa Flatland, a windy steppe, home to the two largest cities of Zephyr: Dono and Prendo.
+At the northern edge of the world stand the Cliffs of Transcendence, a mountain range beyond which there is nothing but an open expanse of sky. Masses of earth dot the skies beyond that, though; the largest of these “sky islands” is Aether, the Azure City. South of the cliffs lies the Ventosa Flatland, a windy steppe, home to the two largest cities of Zephyr: Dono and Prendo.
 
 * **Population:** The most numerous citizens of this land are the [dragonborn](https://en.wikipedia.org/wiki/Dragonborn), a race of dragon humanoids. Dragons dwell here too as a ruling class, but are nonetheless incredibly rare, numbering in the hundreds at most.
 * Government: [Confederacy](https://en.wikipedia.org/wiki/Confederation). Fifteen city-states, each governed by a [great wyrm](https://en.wikipedia.org/wiki/Dragon_(Dungeons_%26_Dragons)#Dragon_classification).
@@ -12,11 +31,6 @@ title: Dragonborn - The Zephyr Federation
   * Prendo is harsher with a martial atmosphere, and home to [chromatic](https://en.wikipedia.org/wiki/Chromatic_dragon) dragonborn. It lies on the north bank of the great lake Placitum.
   * Porta is a city built into the Cliffs of Transcendance, home to various dragonborn and many avian creatures.
   * Aether, the Azure City in the sky, is more mysterious—few land-dwellers have ever set foot there. It is rumored to be home to rare [gem dragons](https://en.wikipedia.org/wiki/Gem_dragon) and dragonborn with strange mental powers.
-* **Deities worshipped:**
-  * [Tiamat](https://en.wikipedia.org/wiki/Tiamat_(Dungeons_%26_Dragons)) (LE; Trickery, War): goddess of wealth, greed and vengeance
-  * [Bahamut](https://en.wikipedia.org/wiki/Bahamut_(Dungeons_%26_Dragons)) (LG; Life, War): god of justice and nobility
-  * [Sardior](https://en.wikipedia.org/wiki/Sardior) (LN; Knowledge, Trickery): deity of night, psionics and secrets.
-* **Neighbors:** W: Trell, E: RUP, N: (Air), S: Flux, N: Skyrealm.
 
 ### Society
 

@@ -1,9 +1,11 @@
 ---
-title: Yondalla ("YON-dah-lah")
+nav-title: Yondalla
+title: Yondalla, Goddess of the Forgotten ("YON-dah-lah")
 statbox:
-  race: halfling
+  race: "[eternal](/races/eternals) ([halfling](/races/halflings)"
   gender: female
-  profession: god
+  alignment: lawful good
 ---
 
-TODO
+* [Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Yondalla)
+* [Greyhawk](https://ghwiki.greyparticle.com/index.php/Yondalla)

@@ -1,9 +1,13 @@
 ---
-title: Moradin
+nav-title: Moradin
+title: Moradin, God of Creation
 statbox:
-  race: dwarf
+  race: "[eternal](/races/eternals) ([dwarf](/races/dwarves))"
   gender: male
-  profession: god
+  alignment: lawful good
+  domains:
+  - Knowledge
+  - War
 ---
 
-TODO
+[Moradin](https://en.wikipedia.org/wiki/Moradin)

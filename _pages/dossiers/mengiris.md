@@ -2,8 +2,8 @@
 title: Mengiris
 statbox:
   race: golem
-  gender: N/A
   profession: bodyguard
+  tribe: "[Malosi](../orgs/malosi)"
 ---
 
 TODO

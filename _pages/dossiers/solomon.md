@@ -1,7 +1,7 @@
 ---
 title: Solomon
 statbox:
-  race: yikarian
+  race: "[yikarian](/races/yikarians)"
   gender: male
   case: 06
 ---
