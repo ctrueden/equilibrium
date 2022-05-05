@@ -2,4 +2,4 @@
 title: Equilibrium
 ---
 
-Hello, world.
+<img src="assets/images/aecus-map.jpg" style="max-width: 100%">
