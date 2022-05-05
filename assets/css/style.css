@@ -80,3 +80,17 @@ ul {
   font-size: x-small;
   margin: -1em 1em -1em 0;
 }
+
+table tr:nth-child(odd) {
+  background: #ccc;
+}
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 1em;
+}
+
+table td {
+  border: 1px solid darkgray;
+  padding: 0.15em 0.25em;
+}
