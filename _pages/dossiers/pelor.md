@@ -5,9 +5,30 @@ statbox:
   race: "[eternal](/races/eternals) ([human](/races/human))"
   gender: male
   alignment: neutral good
+  month: "[Solis](/calendar)"
   domains:
   - Life
   - Light
+  portfolio:
+  - Hope
+  - Life
+  - Sun
+  - Agriculture
+  - Time
+  - Summer
+  allies:
+  - "[Erathis](erathis)"
+  enemies:
+  - "[Nerull](nerull)"
+  quote: "THE FUTURE IS YOURS TO SHAPE."
 ---
 
 [Pelor](https://en.wikipedia.org/wiki/Pelor)
+
+https://dnd4.fandom.com/wiki/Pelor
+
+## Precepts
+
+* Alleviate suffering wherever you find it.
+* Bring Pelor’s light into places of darkness, showing kindness, mercy, and compassion.
+* Be watchful against evil.

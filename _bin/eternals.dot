@@ -1,0 +1,157 @@
+graph {
+  overlap=scale;
+  node [style=filled];
+
+  Asmodeus [fillcolor=gray URL="/dossiers/asmodeus"];
+  Avandra [fillcolor=lightgray URL="/dossiers/avandra"];
+  Bahamut [fillcolor=lightyellow URL="/dossiers/bahamut"];
+  Corellon [fillcolor=lightgray URL="/dossiers/corellon"];
+  Erathis [fillcolor=lightgray URL="/dossiers/erathis"];
+  Gruumsh [fillcolor=gray URL="/dossiers/gruumsh"];
+  Ioun [fillcolor=lightgray URL="/dossiers/ioun"];
+  Kord [fillcolor=lightgray URL="/dossiers/kord"];
+  Melora [fillcolor=lightgray URL="/dossiers/melora"];
+  Moradin [fillcolor=lightyellow URL="/dossiers/moradin"];
+  Nerull [fillcolor=lightgray URL="/dossiers/nerull"];
+  Pelor [fillcolor=lightyellow URL="/dossiers/pelor"];
+  Sardior [fillcolor=lightgray URL="/dossiers/sardior"];
+  Sehanine [fillcolor=lightgray URL="/dossiers/sehanine"];
+  Tiamat [fillcolor=gray URL="/dossiers/tiamat"];
+  Vecna [fillcolor=gray URL="/dossiers/vecna"];
+  Yondalla [fillcolor=black URL="/dossiers/yondalla"];
+
+  Asmodeus -- Avandra [color=red];
+  //Asmodeus -- Bahamut [color=none];
+  //Asmodeus -- Corellon [color=none];
+  Asmodeus -- Erathis [color=blue];
+  //Asmodeus -- Gruumsh [color=none];
+  //Asmodeus -- Ioun [color=none];
+  Asmodeus -- Kord [color=blue];
+  //Asmodeus -- Melora [color=none];
+  //Asmodeus -- Moradin [color=none];
+  Asmodeus -- Nerull [color=red];
+  //Asmodeus -- Pelor [color=none];
+  //Asmodeus -- Sardior [color=none];
+  Asmodeus -- Sehanine [color=red];
+  //Asmodeus -- Tiamat [color=none];
+  //Asmodeus -- Vecna [color=none];
+
+  //Avandra -- Bahamut [color=none];
+  //Avandra -- Corellon [color=none];
+  Avandra -- Erathis [color=blue];
+  //Avandra -- Gruumsh [color=none];
+  Avandra -- Ioun [color=blue];
+  //Avandra -- Kord [color=none];
+  //Avandra -- Melora [color=none];
+  //Avandra -- Moradin [color=none];
+  //Avandra -- Nerull [color=none];
+  //Avandra -- Pelor [color=none];
+  //Avandra -- Sardior [color=none];
+  Avandra -- Sehanine [color=blue];
+  //Avandra -- Tiamat [color=none];
+  //Avandra -- Vecna [color=none];
+
+  //Bahamut -- Corellon [color=none];
+  //Bahamut -- Erathis [color=none];
+  //Bahamut -- Gruumsh [color=none];
+  //Bahamut -- Ioun [color=none];
+  //Bahamut -- Kord [color=none];
+  //Bahamut -- Melora [color=none];
+  //Bahamut -- Moradin [color=none];
+  //Bahamut -- Nerull [color=none];
+  //Bahamut -- Pelor [color=none];
+  //Bahamut -- Sardior [color=none];
+  Bahamut -- Sehanine [color=red];
+  //Bahamut -- Tiamat [color=none];
+  //Bahamut -- Vecna [color=none];
+
+  //Corellon -- Erathis [color=none];
+  Corellon -- Gruumsh [color=red];
+  //Corellon -- Ioun [color=none];
+  //Corellon -- Kord [color=none];
+  //Corellon -- Melora [color=none];
+  //Corellon -- Moradin [color=none];
+  //Corellon -- Nerull [color=none];
+  //Corellon -- Pelor [color=none];
+  //Corellon -- Sardior [color=none];
+  Corellon -- Sehanine [color=blue];
+  //Corellon -- Tiamat [color=none];
+  //Corellon -- Vecna [color=none];
+
+  //Erathis -- Gruumsh [color=none];
+  Erathis -- Ioun [color=blue];
+  //Erathis -- Kord [color=none];
+  //Erathis -- Melora [color=none];
+  //Erathis -- Moradin [color=none];
+  //Erathis -- Nerull [color=none];
+  Erathis -- Pelor [color=blue];
+  //Erathis -- Sardior [color=none];
+  //Erathis -- Sehanine [color=none];
+  //Erathis -- Tiamat [color=none];
+  //Erathis -- Vecna [color=none];
+
+  //Gruumsh -- Ioun [color=none];
+  Gruumsh -- Kord [color=blue];
+  //Gruumsh -- Melora [color=none];
+  //Gruumsh -- Moradin [color=none];
+  //Gruumsh -- Nerull [color=none];
+  //Gruumsh -- Pelor [color=none];
+  //Gruumsh -- Sardior [color=none];
+  Gruumsh -- Sehanine [color=red];
+  //Gruumsh -- Tiamat [color=none];
+  //Gruumsh -- Vecna [color=none];
+
+  //Ioun -- Kord [color=none];
+  //Ioun -- Melora [color=none];
+  //Ioun -- Moradin [color=none];
+  //Ioun -- Nerull [color=none];
+  //Ioun -- Pelor [color=none];
+  //Ioun -- Sardior [color=none];
+  //Ioun -- Sehanine [color=none];
+  //Ioun -- Tiamat [color=none];
+  Ioun -- Vecna [color=red];
+
+  //Kord -- Melora [color=none];
+  //Kord -- Moradin [color=none];
+  //Kord -- Nerull [color=none];
+  //Kord -- Pelor [color=none];
+  //Kord -- Sardior [color=none];
+  //Kord -- Sehanine [color=none];
+  //Kord -- Tiamat [color=none];
+  //Kord -- Vecna [color=none];
+
+  //Melora -- Moradin [color=none];
+  Melora -- Nerull [color=blue];
+  //Melora -- Pelor [color=none];
+  //Melora -- Sardior [color=none];
+  //Melora -- Sehanine [color=none];
+  //Melora -- Tiamat [color=none];
+  //Melora -- Vecna [color=none];
+
+  //Moradin -- Nerull [color=none];
+  //Moradin -- Pelor [color=none];
+  //Moradin -- Sardior [color=none];
+  //Moradin -- Sehanine [color=none];
+  //Moradin -- Tiamat [color=none];
+  //Moradin -- Vecna [color=none];
+
+  Nerull -- Pelor [color=red];
+  //Nerull -- Sardior [color=none];
+  Nerull -- Sehanine [color=blue];
+  //Nerull -- Tiamat [color=none];
+  Nerull -- Vecna [color=red];
+
+  //Pelor -- Sardior [color=none];
+  Pelor -- Sehanine [color=red];
+  //Pelor -- Tiamat [color=none];
+  Pelor -- Vecna [color=red];
+
+  //Sardior -- Sehanine [color=none];
+  //Sardior -- Tiamat [color=none];
+  //Sardior -- Vecna [color=none];
+
+  //Sehanine -- Tiamat [color=none];
+  //Sehanine -- Vecna [color=none];
+
+  //Tiamat -- Vecna [color=none];
+}
