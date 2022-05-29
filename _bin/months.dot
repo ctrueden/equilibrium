@@ -1,0 +1,32 @@
+digraph {
+  overlap=scale;
+  //splines=curved;
+  layout=neato;
+  sep=0.5;
+  pad=0.5; // border around the outside edge of the graph
+  01 [label="01 🌒 Gyrus" style=filled];
+  02 [label="02 🌒 Fons" style=filled];
+  03 [label="03 🌒 Solis" style=filled];
+  04 [label="04 🌒 Cudo" style=filled];
+  05 [label="05 🌔 Rixa" style=filled];
+  06 [label="06 🌔 Vis" style=filled];
+  07 [label="07 🌔 Avium" style=filled];
+  08 [label="08 🌖 Luna" style=filled];
+  09 [label="09 🌖 Casus" style=filled];
+  10 [label="10 🌘 Fatum" style=filled];
+  11 [label="11 🌘 Mysteria" style=filled];
+  12 [label="12 🌘 Idea" style=filled];
+           /* day | degree */
+  01 -> 02 /*   0 |    315 */ [label="🧊\nGlacian\nApex"];
+  02 -> 03 /*  30 |      0 */ [label="🌊\nAquan\nApex"];
+  03 -> 04 /*  60 |     45 */ [label="🌀\nProcellan\nApex"];
+  04 -> 05 /*  90 |    ~67 */ [label="🌓\nWaxing\nHalf-Moon"];
+  05 -> 06 /* 120 |     90 */ [label="🌪\nAuran\nApex"];
+  06 -> 07 /* 150 |    135 */ [label="⏳\nArenan\nApex"];
+  07 -> 08 /* 180 |   ~157 */ [label="🌕\nFull\nMoon"];
+  08 -> 09 /* 210 |    180 */ [label="🔥\nIgnan\nApex"];
+  09 -> 10 /* 240 |   ~202 */ [label="🌗\nWaning\nHalf-Moon"];
+  10 -> 11 /* 270 |    225 */ [label="🌋\nMagman\nApex"];
+  11 -> 12 /* 300 |    270 */ [label="🌳\nTerran\nApex"];
+  12 -> 01 /* 330 |   ~292 */ [label="🌑\nNew\nMoon"];
+}
