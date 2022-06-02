@@ -1,7 +1,7 @@
 ---
 title: Priscilla Stormcloud
 statbox:
-  race: "[elf](../races/elves)? [halfling](../races/halfling)? [balor](../races/demon#balor)?"
+  race: "[elf](../races/elves)? [halfling](../races/halflings)? [balor](../races/demons#balor)?"
   gender: female
   case: [07, 09]
 ---

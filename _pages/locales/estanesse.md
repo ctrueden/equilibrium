@@ -8,4 +8,4 @@ image3-up-high: https://i.pinimg.com/originals/e7/7f/9c/e77f9c261951cc0285a33f30
 image3-up-high-source: https://www.pinterest.com/pin/424886546076873590/
 ---
 
-Capital city of [Elyria](estanesse).
+Capital city of [Elyria](elyria).
