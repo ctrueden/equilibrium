@@ -4,10 +4,10 @@
 
 {% if image or statbox %}
 <figure class="statbox">
-  <img src="{{image}}" alt="TODO">
   {%- if image-source -%}
     <div class="source-link"><a href="{{image-source}}">[Source]</a></div>
   {%- endif -%}
+  <img src="{{image}}" alt="TODO">
   {%- if statbox -%}
     <figcaption>
       <table>
