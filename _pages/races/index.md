@@ -1,5 +1,5 @@
 ---
-title: Locales
+title: Races
 ---
 
 {% include gallery %}
