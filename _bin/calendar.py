@@ -1,5 +1,10 @@
 import itertools
 
+"""
+This script generates a calendar where the RUP has the longest summer and
+shortest winter, with elemental apexes otherwise spread evenly between months.
+"""
+
 def mid(day1, day2):
     if (day2 < day1): day2 += 360
     return ((day1 + day2) // 2) % 360

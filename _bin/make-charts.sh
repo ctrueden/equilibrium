@@ -1,6 +1,6 @@
 #!/bin/sh
 cd "$(dirname "$0")"
-targetDir=../_site/assets/images
+targetDir=../assets/images
 mkdir -p "$targetDir"
 for dot in *.dot
 do
