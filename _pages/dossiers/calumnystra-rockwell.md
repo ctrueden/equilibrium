@@ -29,9 +29,6 @@ magic-items:
     link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items#TOC-Cloak-of-Protection
 
 ---
-20300gp
-
-+4700
 
 A well-off gnome who is “not the muscle,” specializes in ancient and mystical objects, and is “sometimes clairvoyant.”
 

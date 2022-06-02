@@ -1,5 +1,7 @@
 ---
 title: Brian the Elder Brain
+image: https://img3.wikia.nocookie.net/__cb20111007143138/forgottenrealms/images/a/a5/Tn_52059_CN_jpg.jpg
+image-source: https://forgottenrealms.fandom.com/wiki/Elder_brain
 statbox:
   race: elder brain
   case: 04

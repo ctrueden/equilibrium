@@ -31,9 +31,6 @@ magic-items:
     rarity: uncommon (major)
     link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Efficient_Quiver
 ---
-12000gp
-
-+14000
 
 A bounty hunter who venerates nature and despises magic. He prowls the selva & the jungle, seeking prey.
 

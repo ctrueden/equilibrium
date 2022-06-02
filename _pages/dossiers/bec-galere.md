@@ -25,9 +25,6 @@ magic-items:
     rarity: rare (major)
     link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Mace_of_Disruption
 ---
-26000gp
-
-+0
 
 An enchantress seeking to further her mastery of magic, and to find out what happened to her father.
 
