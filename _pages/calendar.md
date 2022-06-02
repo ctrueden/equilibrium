@@ -2,73 +2,88 @@
 title: Calendar
 ---
 
+<figure style="float: right">
+<a href="assets/images/aecus-annum-cycle.svg"><img src="assets/images/aecus-annum-cycle.svg" style="max-width: 100%; max-height: 500px"></a>
+<figcaption style="text-align: center">The Aecus Concord calendar, month by month</figcaption>
+</figure>
+
 Before the Flux, every nation had its own languages, and own way of tracking time.
 When the Aecus Concord was founded, a common language was established, and a
 common calendar was founded which honored all the major religions.
 
 The sun and moon move in tandem, somehow linked. But while the sun rises around
 different elemental poles over the course of the year, creating seasons that
-differ by region, the moon looks the same to everyone worldwide. And so the
-new moon was chosen as the hallmark of a new lunar year.
+differ by region, the phase of the moon looks the same to everyone worldwide.
+And so the new moon was chosen as the hallmark of a new lunar year.
 
-Is there a sun?
-- Yep, one. Solar cycle = lunar cycle = annual cycle.
-Is there a moon?
-- Yep, one. Lunar cycle = solar cycle = annual cycle.
-Is there weather?
-- Yes, there are seasons. Caused by the sun's rotation around the elemental poles.
-- The sun rise counterclockwise of the current elemental tide.
-- The sun would set clockwise of the current elemental tide.
+## Months of the year
 
-Ley lines pulsing with elemental power?
+A year in Aecus consists of 368 days: 12 months of 30 days each, plus 8
+dedicated days for each of the elemental apexes (i.e. summer solstices), when
+the sun sits highest in the sky centered at one of eight aligned elemental
+orientations.
 
+|  # | Month        | Deity Honored                 | Domains          | Legend                                                             |
+|---:|--------------|-------------------------------|------------------|--------------------------------------------------------------------|
+| 01 | Gyrus        | [Io](dossiers/io)             | All              | In the beginning was Io, origin of all that is divine.             |
+| 02 | Fons         | [Corellon](dossiers/corellon) | Nature, Light    | Corellon sowed the seeds of nature, nourishing them with magic.    |
+| 03 | Solis        | [Pelor](dossiers/pelor)       | Life, Light      | Pelor gave life to mortalkind, and reaped what Corellon sowed.     |
+| 04 | Cudo         | [Moradin](dossiers/moradin)   | Light, War       | Moradin taught mortalkind to forge tools.                          |
+| 05 | Rixa         | [Gruumsh](dossiers/gruumsh)   | War, Tempest     | But with resources came conflict and destruction.                  |
+| 06 | Vis          | [Kord](dossiers/kord)         | Tempest          | The strong survived, weathering the storms.                        |
+| 07 | Avium        | [Melora](dossiers/melora)     | Tempest, Nature  | And the wilderness endured, defiant and untamed.                   |
+| 08 | Luna         | [Sehanine](dossiers/sehanine) | Nature, Trickery | Mortalkind learned to thrive in harmony with the natural world.    |
+| 09 | Casus        | [Avandra](dossiers/avandra)   | Trickery         | As their luck changed, they began new journeys.                    |
+| 10 | Fatum        | [Nerull](dossiers/nerull)     | Trickery, Death  | But all journeys end with death's embrace.                         |
+| 11 | Mysteria     | [Vecna](dossiers/vecna)       | Death, Knowledge | Is there a secret way to cheat fate?                               |
+| 12 | Idea         | [Erathis](dossiers/erathis)   | Knowledge        | As secrets are revealed, can Aecans build a better world together? |
+
+## The solar and lunar cycle
+
+A curious feature of Aecus's solar/lunar annual cycle is that the sun does not
+move at a constant speed around the elemental poles, but rather spends more
+time each year near the Arenan quadrant. Some scholars believe this is due to
+[Pelor](dossiers/pelor)'s affinity for the elements of Air and Fire. As a
+consequence, some nations have an imbalance of seasons, as noted in the
+following table.
+
+Furthermore, the moon does move through its phases evenly throughout the year,
+but rather spends substantially more time waxing than waning, reaching its
+fullest at the midpoint between the Arenan and Ignan solar apexes, and its
+newest at the midpoint between the Terran and Glacian solar apexes.
+
+|  When | Event               | Element(s)  | Summer<br>Solstice           | Autumn<br>Equinox            | Winter<br>Solstice           | Spring<br>Equinox            |
+|------:|---------------------|-------------|------------------------------|------------------------------|------------------------------|------------------------------|
+| 12-01 | 🌑 New Moon         |             |                              |                              |                              |                              |
+| 01-02 | 🧊 Glacian Apex     | Earth+Water | [Arallu](locales/arallu)^    | [Selva](locales/selva)^      | [RUP](locales/rup)^          | [Trell](locales/trell)^      |
+| 02-03 | 🌊 Aquan Apex       | Water       | [Ocean](locales/cognitutus)  | [Elyria](locales/elyria)     | [Mountain](locales/mountain) | [Zephyr](locales/zephyr)     |
+| 03-04 | 🌀 Procellan Apex   | Water+Air   | [Trell](locales/trell)       | [Arallu](locales/arallu)     | [Selva](locales/selva)       | [RUP](locales/rup)           |
+| 04-05 | 🌓 Waxing Half-Moon |             |                              |                              |                              |                              |
+| 05-06 | 🌪 Auran Apex       | Air         | [Zephyr](locales/zephyr)     | [Ocean](locales/cognitutus)  | [Elyria](locales/elyria)     | [Mountain](locales/mountain) |
+| 06-07 | ⏳ Arenan Apex      | Air+Fire    | [RUP](locales/rup)\*         | [Trell](locales/trell)\*     | [Arallu](locales/arallu)\*   | [Selva](locales/selva)\*     |
+| 07-08 | 🌕 Full Moon        |             |                              |                              |                              |                              |
+| 08-09 | 🔥 Ignan Apex       | Fire        | [Mountain](locales/mountain) | [Zephyr](locales/zephyr)     | [Ocean](locales/cognitutus)  | [Elyria](locales/elyria)     |
+| 09-10 | 🌗 Waning Half-Moon |             |                              |                              |                              |                              |
+| 10-11 | 🌋 Magman Apex      | Fire+Earth  | [Selva](locales/selva)       | [RUP](locales/rup)           | [Trell](locales/trell)       | [Arallu](locales/arallu)     |
+| 11-12 | 🌳 Terran Apex      | Earth       | [Elyria](locales/elyria)     | [Mountain](locales/mountain) | [Zephyr](locales/zephyr)     | [Ocean](locales/cognitutus)  |
+
+^ Short season: 61 days rather than the usual 92 in other regions.  
+\* Long season: 122 days rather than the usual 92 in other regions.
+
+See the
 [Equilibrium calendar spreadsheet](https://docs.google.com/spreadsheets/d/1nPtq4H6Hc4krrQXcpF5PJNLf2_-q9p11HShezd5jquc/edit)
-
-### Months
-
-| ## | Month    | Deity Honored                  | Domains          | Legend                                                             |
-|----|----------|--------------------------------|------------------|--------------------------------------------------------------------|
-| 01 | Gyrus    | [Io](/dossiers/io)             | All              | In the beginning was Io, origin of all that is divine.             |
-| 02 | Fons     | [Corellon](/dossiers/corellon) | Nature, Light    | Corellon sowed the seeds of nature, nourishing them with magic.    |
-| 03 | Solis    | [Pelor](/dossiers/pelor)       | Life, Light      | Pelor gave life to mortalkind, and reaped what Corellon sowed.     |
-| 04 | Cudo     | [Moradin](/dossiers/moradin)   | Light, War       | Moradin taught mortalkind to forge tools.                          |
-| 05 | Rixa     | [Gruumsh](/dossiers/gruumsh)   | War, Tempest     | But with resources came conflict and destruction.                  |
-| 06 | Vis      | [Kord](/dossiers/kord)         | Tempest          | The strong survived, weathering the storms.                        |
-| 07 | Avium    | [Melora](/dossiers/melora)     | Tempest, Nature  | And the wilderness endured, defiant and untamed.                   |
-| 08 | Luna     | [Sehanine](/dossiers/sehanine) | Nature, Trickery | Mortalkind learned to thrive in harmony with the natural world.    |
-| 09 | Casus    | [Avandra](/dossiers/avandra)   | Trickery         | As their luck changed, they began new journeys.                    |
-| 10 | Fatum    | [Nerull](/dossiers/nerull)     | Trickery, Death  | But all journeys end with death's embrace.                         |
-| 11 | Mysteria | [Vecna](/dossiers/vecna)       | Death, Knowledge | Is there a secret way to cheat fate?                               |
-| 12 | Idea     | [Erathis](/dossiers/erathis)   | Knowledge        | As secrets are revealed, can Aecans build a better world together? |
-
-### Times of the day
-
-* Dawn - The time around sunrise.
-* Morning - The time between sunrise and highsun.
-* Highsun - When the sun was directly overhead; also called "noon" or "twelve bells".
-* Afternoon - The time after noon.
-* Dusk - The time before sunset.
-* Sunset - The time around sunset.
-* Evening - The time after sunset.
-* Midnight - The time roughly 12 hours after noon; also called "twelve bells".
-* Moondark - The darkest part of night; also called "night's heart".
-* Night's end - The time before sunrise.
-
-Also:
-* Godswake - The time before dawn.
-* Harbright - From dawn to highsun.
-* Elsun - The latter hours of morning.
-* Thulsun - The early hours of afternoon.
-* Tharsun - The latter hours of afternoon.
-* Eventide - Same as evening, twilight, or gloaming.
-* Nightfall - Same as dusk.
-* Gateclose- The hour at which a city's gates close for the night; the exact time could vary from city to city.
-* Night - The hours of darkness.
-* Deepnight - Same as midnight.
+for a full breakdown of the Aecus Concord calendar, and how it
+aligns with the various regional calendars discussed below.
 
 ## Regional calendars
 
+Even with a common calendar system, many regions also use their own calendars
+colloquially. The following calendars are still in use in certain regions.
+
 ### Aquan
+
+The Auran year is divided into 13 months of 28 days each,
+with an additional festival day for each of the four seasons.
 
 | ## | Month     | Season           | Symbol      | Notes                           |
 |----|-----------|------------------|-------------|---------------------------------|
@@ -90,14 +105,17 @@ Also:
 |  - | Winterday | Early winter     |             | Festival day celebrating winter |
 | 00 | Xendrik   | Mid winter       | Death       | Waning half moon on Xendrik 27  |
 
-Days of the week:
-* 1 - Sul
-* 2 - Mol
-* 3 - Zol
-* 4 - Wir
-* 5 - Zor
-* 6 - Far
-* 7 - Sar
+The first of the month is always called Sul, and the rest follow as shown below:
+
+* Sul is always on the 1st, 8th, 15th, and 22nd of the month.
+* Mol is always on the 2nd, 9th, 16th, and 23rd of the month.
+* Zol is always on the 3rd, 10th, 17th, and 24th of the month.
+* Wir is always on the 4th, 11th, 18th, and 25th of the month.
+* Zor is always on the 5th, 12th, 19th, and 26th of the month.
+* Far is always on the 6th, 13th, 20th, and 27th of the month.
+* Sar is always on the 7th, 14th, 21st, and 28th of the month.
+
+Springday, Summerday, Autumnday, and Winterday are always referred to by name.
 
 GM's note: the Aquan calendar was adapted from the
 [Eberron calendar](https://eberron.fandom.com/wiki/Calendar).
@@ -107,10 +125,9 @@ GM's note: the Aquan calendar was adapted from the
 Before the Flux, the Radiant Union of Pelor and the dwarves of the Mountain
 shared a calendar aligned to their weather.
 
-The Ignan year consists of 368 days, split into twelve months of twenty-eight
-days each, and four eight-day festivals, each placed at three-month intervals.
-The months and festivals are commonly referred to as the Dozenmonth of Luna
-and the Four Festivals. 
+The Ignan year is split into 12 months of 28 days each, and four eight-day
+festivals, each placed at three-month intervals. The months and festivals are
+commonly referred to as the Dozenmonth of Luna and the Four Festivals. 
 
 | Month | Common     | Elven       | Nomads   | Season      |
 |-------|------------|-------------|----------|-------------|
@@ -141,22 +158,24 @@ The first of the month is always a Starday, and the rest follow as shown below:
 * Earthday is always on the 6th, 13th, 20th, and 27th of the month.
 * Freeday is always on the 7th, 14th, 21st, and 28th of the month.
 
+The festivals use the same day names as regular months for the first 7 days,
+with the 8th and final day of each festival called Festday.
+
 GM's note: the Ignan calendar was adapted from the
 [Greyhawk calendar](https://calendars.fandom.com/wiki/Greyhawk_Calendar).
 
 ## Elyria
 
-Notice that the elves don't celebrate extremes, like when solstices occur, but
-rather seasonal midpoints, illustrative of their philosophy of balance.
+Like the Aecan calendar, the fey calendar is divided into 12 months of 30 days
+each, plus 8 special days. But unlike others, the elves celebrate moderation
+rather than extremes. As such, rather than marking when solstices occur, they
+celebrate seasonal midpoints, illustrative of their philosophy of balance.
 
-Years are counted from the last planting of the World Tree. Cycles are counted.
-E.g. Year 985, Cycle 37.
+Years are counted since the last planting of the World Tree, with each
+planting referred to as a Cycle&mdash;e.g. Year 985, Cycle 37.
 
-30 * 12 = 360 days
-+8 days, corresponding to moon peaks and midpoints
-weeks are 10 days
-no names for each day
-21 Hammer = 1st day of 3rd tenday
+Months are divided into 10-day segments known as tendays, with no names per
+day. For example, 21 Hammer is the 1st day of the 3rd tenday of Hammer.
 
 | ## | Month             | Meaning                     | Notes                                     |
 |----|-------------------|-----------------------------|-------------------------------------------|
@@ -186,7 +205,9 @@ GM's note: the Elyrian calendar was adapted from
 
 ### The Selva
 
-Selvan tribes count time in sixteen groups of 23 days:
+Selvan tribes count time in sixteen groups of 23 days each.
+There are no special festival days, nor breakdown into week days;
+every day is a good day to be alive.
 
 | ## | Name    | Notes                                    |
 |----|---------|------------------------------------------|
@@ -212,6 +233,14 @@ calendar](https://pathfinderwiki.com/wiki/Moon_(Golarion)#Lunar_calendar).
 
 ### Trell
 
+On the islands of Trell, the year is sorted into 12 months of varying length:
+29 to 31 days, depending on the month. There are also two special days
+highlighting the days before the winter and summer solstices respectively.
+
+The months are named according to infernal ideals, with each month having
+an associated Asmodeal lesson known as a *slogan*, which are taught to
+Trell children to foster self-improvement and success as they develop.
+
 | Month          | Days | Season                | Objective | Slogan                                                   | Connotations                                                               |
 |----------------|------|-----------------------|-----------|----------------------------------------------------------|----------------------------------------------------------------------------|
 | Ursa           |    1 | Eve of winter         |           |                                                          |                                                                            |
@@ -229,15 +258,9 @@ calendar](https://pathfinderwiki.com/wiki/Moon_(Golarion)#Lunar_calendar).
 | Neth           |   30 | Mid-late autumn       | Subsume   | Incorporate fear and despair into holistic understanding | magic, duality, madness, creation & destruction, omniscience, surrender    |
 | Kuthona        |   31 | Late autumn           | Detach    | Make rational decisions by insulating from emotion       | darkness, envy, loss, pain, torture, murder                                |
 
-Days of the week:
-- Moonday
-- Toilday
-- Wealday
-- Oathday
-- Fireday
-- Starday
-- Sunday
+The seven days of the week are Moonday, Toilday, Wealday, Oathday,
+Fireday, Starday, and Sunday. But which week days fall on which
+days of the year varies year by year (sound familiar?).
 
 GM's note: the Trell calendar was adapted from [Golarion's Absalom
 Reckoning](https://pathfinderwiki.com/wiki/Absalom_Reckoning).
-
