@@ -94,3 +94,15 @@ table td {
   border: 1px solid darkgray;
   padding: 0.15em 0.25em;
 }
+
+.gallery div {
+  display: inline-block;
+  border: 1px solid lightgray;
+  margin-bottom: 0.5em;
+  padding: 0.4em;
+  text-align: center;
+}
+
+.gallery div img {
+  height: 10em;
+}

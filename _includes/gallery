@@ -1,0 +1,48 @@
+{%- comment -%}
+A gallery of images linked to pages in the current directory.
+{%- endcomment -%}
+
+{%- capture page-dir -%} {%- include pathdir path=page.url -%} {%- endcapture -%}
+{%- assign candidates = site.pages | where_exp: "p", "p.url contains page-dir" -%}
+
+{%- comment -%}
+  We build up the list of links as a big string, because Jekyll 3.9
+  pukes when sorting the pages array by title using where_exp:
+    jekyll/filters.rb:304:in `sort!': Liquid error: comparison
+    of Array with Array failed included (Liquid::ArgumentError)
+{%- endcomment -%}
+{%- assign links = "" -%}
+{%- for p in candidates -%}
+  {%- capture p-dir -%} {%- include pathdir path=p.url -%} {%- endcapture -%}
+  {%- if p-dir != page-dir -%} {%- continue -%} {%- endif -%}
+  {%- capture p-name -%} {%- include pathname path=p.url -%} {%- endcapture -%}
+  {%- if p-name == 'index' -%} {%- continue -%} {%- endif -%}
+
+  {%- assign title = p.nav-title | default: p.title
+    | replace: " ", "&nbsp;" | replace: "-", "&#8209;" -%}
+  {%- capture link -%}
+    <div><a href="{{site.baseurl}}{{p.url}}">
+    {%- if p.image -%} <img src="{{p.image}}"><br> {%- endif -%}
+    {{title}}
+    </a></div>
+  {%- endcapture -%}
+  {%- unless links == "" -%}
+    {%- assign links = links | append: "|" -%}
+  {%- endunless -%}
+  {%- assign links = links | append: link -%}
+{%- endfor -%}
+
+{%- comment -%}
+  Doing a split+sort ends up with links sorted by URL, which is OK enough.
+{%- endcomment -%}
+{%- assign sorted-links = links | split: "|" | sort -%}
+
+<div class="gallery">
+{%- for link in sorted-links %}
+        {{link}}
+{%- endfor -%}
+</div>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

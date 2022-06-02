@@ -1,5 +1,7 @@
 ---
 title: Zanic Corbinic
+image: https://i.pinimg.com/originals/8b/c7/c1/8bc7c1ede04c5662352a3ecf71b085af.png
+image-source: https://www.pinterest.com/pin/11329436553304569/
 statbox:
   race: half-dwarf/half-githzerai
   gender: male

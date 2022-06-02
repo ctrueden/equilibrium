@@ -1,5 +1,7 @@
 ---
 title: Anne "Bonny" Qin
+image: https://i.pinimg.com/originals/43/cb/84/43cb84243fbb1a4f78679dc9e644a332.jpg
+image-source: https://www.pinterest.com/pin/276760339585192519/
 statbox:
   race: tiefling
   gender: female

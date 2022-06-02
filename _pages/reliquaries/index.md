@@ -1,3 +1,5 @@
 ---
 title: Reliquaries
 ---
+
+{% include gallery %}

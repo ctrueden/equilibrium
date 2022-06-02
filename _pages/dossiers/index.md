@@ -2,4 +2,4 @@
 title: Dossiers
 ---
 
-.
+{% include gallery %}
