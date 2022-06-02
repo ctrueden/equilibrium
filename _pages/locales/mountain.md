@@ -1,6 +1,8 @@
 ---
 nav-title: The Mountain
 title: The Mountain and the Veldt
+image: https://i.ytimg.com/vi/u7Yl6RDDfIY/maxresdefault.jpg
+image-source: https://chroniclesrp.net/Folklore/Kal-Palthras
 statbox:
   races:
   - dwarves
