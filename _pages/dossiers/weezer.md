@@ -1,5 +1,7 @@
 ---
 title: Weezer
+image: https://static.wikia.nocookie.net/forgottenrealms/images/b/b8/Kenku_5e.jpg
+image-source: https://forgottenrealms.fandom.com/wiki/Kenku
 statbox:
   race: "[kenku](../races/kenku)"
   gender: "male (he/him/his)"

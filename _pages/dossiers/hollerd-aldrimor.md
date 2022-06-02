@@ -1,5 +1,7 @@
 ---
 title: Hollerd Aldrimor
+image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2b464ae9-bbde-42a4-b043-47d23dfc9953/d7uj4kg-0db93ec0-f0cf-4525-8ae6-7475f544a0c0.png/v1/fill/w_1024,h_1132,strp/dwarf_farmer_by_gansone89_d7uj4kg-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzMiIsInBhdGgiOiJcL2ZcLzJiNDY0YWU5LWJiZGUtNDJhNC1iMDQzLTQ3ZDIzZGZjOTk1M1wvZDd1ajRrZy0wZGI5M2VjMC1mMGNmLTQ1MjUtOGFlNi03NDc1ZjU0NGEwYzAucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.tXSp4K3W-QH_3Kx2OTUVSK7dGEOsxeB5lNFPD6jDgPE
+image-source: https://www.deviantart.com/gansone89/art/Dwarf-farmer-474544096
 statbox:
   race: dwarf
   gender: male

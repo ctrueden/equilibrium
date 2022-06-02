@@ -1,5 +1,7 @@
 ---
 title: Rollomorphus "Rollo" Rockwell
+image: https://ghwiki.greyparticle.com/images/f/fd/Garl.jpg
+image-source: https://ghwiki.greyparticle.com/index.php/Garl_Glittergold
 statbox:
   race: gnome
   gender: male

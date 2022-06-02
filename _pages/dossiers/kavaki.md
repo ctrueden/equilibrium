@@ -1,5 +1,13 @@
 ---
 title: Kavaki
+image: https://i.pinimg.com/originals/37/79/0c/37790cf2a7ed481d8000c8dbbfd7ab50.png
+image-source: https://www.pinterest.com/pin/11047961575541800/
+image-hammer: https://c1.staticflickr.com/5/4144/5414721081_ef48f30e0b_b.jpg
+image-hammer-source: https://www.flickr.com/photos/49260334@N08/5414721081/in/photostream/
+image-greatsword: https://i.pinimg.com/originals/3a/ab/83/3aab83a12f708671463100519c98981c.jpg
+image-greatsword-source: https://www.pinterest.ca/pin/416864509255059494/
+image-whip: https://i.pinimg.com/originals/ee/8b/08/ee8b087df38fb8daf5471bc52363401e.jpg
+image-whip-source: https://www.pinterest.com/pin/493073859201697806/
 ---
 
 * Kavaki tells them she was not in control of her body. She was a helpless witness to her own actions.

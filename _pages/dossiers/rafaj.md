@@ -1,5 +1,7 @@
 ---
 title: Ra'faj
+image: https://i.pinimg.com/originals/54/50/f2/5450f279ba9fc8d2d82a6a21daeacbee.png
+image-source: https://www.pinterest.com/pin/190488259216685808/
 statbox:
   race: dragonborn (red)
   gender: male
