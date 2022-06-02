@@ -6,4 +6,4 @@ statbox:
   profession: political advisor
 ---
 
-Callie's mother. She is stern, the "bad cop" of the family, but ultimately has a kind heart.
+Callie's mother. She is stern, the "bad cop" of the family, but ultimately has a kind heart. She is a political advisor.

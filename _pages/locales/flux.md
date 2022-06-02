@@ -35,4 +35,4 @@ Mallory tells the party that several new areas of Flux have emerged, including o
 
 ## The Crystalline Flux
 
-See Case 09
+A surreal realm of structured chaos. See Case 09.
