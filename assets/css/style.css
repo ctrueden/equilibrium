@@ -95,6 +95,8 @@ table td {
   padding: 0.15em 0.25em;
 }
 
+/* -- Index pages with gallery navigation -- */
+
 .gallery div {
   display: inline-block;
   border: 1px solid lightgray;
