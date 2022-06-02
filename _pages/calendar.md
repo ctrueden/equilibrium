@@ -38,6 +38,17 @@ orientations.
 | 11 | Mysteria     | [Vecna](dossiers/vecna)       | Death, Knowledge | Is there a secret way to cheat fate?                               |
 | 12 | Idea         | [Erathis](dossiers/erathis)   | Knowledge        | As secrets are revealed, can Aecans build a better world together? |
 
+## Days of the week
+
+The Aecus common calendar uses five-day weeks, with six weeks per month:
+
+* Skyday is always on the 1st, 6th, 11th, 16th, 21st, and 26th of the month.
+* Forgeday is always on the 2nd, 7th, 12th, 17th, 22nd, and 27th of the month.
+* Woodsday is always on the 3rd, 8th, 13th, 18th, 23rd, and 28th of the month.
+* Kinsday is always on the 4th, 9th, 14th, 19th, 24th, and 29th of the month.
+* Evensday is always on the 5th, 10th, 15th, 20th, 25th, and 30th of the month.
+* Apexday is used to refer to the days of the eight elemental apexes.
+
 ## The solar and lunar cycle
 
 A curious feature of Aecus's solar/lunar annual cycle is that the sun does not
