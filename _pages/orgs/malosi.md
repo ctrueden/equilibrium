@@ -1,4 +1,5 @@
 ---
+nav-title: Malosi
 title: The Malosi
 ---
 

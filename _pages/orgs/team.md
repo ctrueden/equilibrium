@@ -1,4 +1,5 @@
 ---
+nav-title: TEAM
 title: Trade, Enforcement, Arbitration and Mediation (TEAM)
 ---
 

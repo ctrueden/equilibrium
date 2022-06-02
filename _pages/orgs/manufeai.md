@@ -1,4 +1,5 @@
 ---
+nav-title: Manufeai
 title: The Manufeai
 ---
 

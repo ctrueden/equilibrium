@@ -1,4 +1,5 @@
 ---
+nav-title: Blackscales
 title: The Blackscales
 ---
 

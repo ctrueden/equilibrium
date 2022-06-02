@@ -1,4 +1,5 @@
 ---
+nav-title: MAD
 title: Military Aid and Defense (MAD)
 ---
 
