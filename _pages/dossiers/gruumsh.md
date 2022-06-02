@@ -2,7 +2,7 @@
 nav-title: Gruumsh
 title: Gruumsh, God of War and Conquest
 statbox:
-  race: "[eternal](/races/eternals) ([orc](/races/orcs))"
+  race: "[eternal](../races/eternals) ([orc](../races/orcs))"
   gender: "male (he/him/his)"
   alignment: lawful evil
   domains:

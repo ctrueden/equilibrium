@@ -2,7 +2,7 @@
 nav-title: Melora
 title: Melora, Goddess of the Sea
 statbox:
-  race: "[eternal](/races/eternals) (?)"
+  race: "[eternal](../races/eternals) (?)"
   gender: "female (she/her)"
   alignment: neutral
   domains:

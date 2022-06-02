@@ -3,7 +3,7 @@ title: Solomon
 image: https://64.media.tumblr.com/4c5a4367b327f40025b6891012215e89/tumblr_inline_pgxgf09FuH1rkapbx_400.gifv
 image-source: https://thecreaturecodex.tumblr.com/post/179328383703/yikaria-yak-folk
 statbox:
-  race: "[yikarian](/races/yikarians)"
+  race: "[yikarian](../races/yikarians)"
   gender: male
   case: 06
 ---

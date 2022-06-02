@@ -2,10 +2,10 @@
 nav-title: Moradin
 title: Moradin, God of Creation
 statbox:
-  race: "[eternal](/races/eternals) ([dwarf](/races/dwarves))"
+  race: "[eternal](../races/eternals) ([dwarf](../races/dwarves))"
   gender: "male (he/him/his)"
   alignment: lawful good
-  month: "[Lux](/calendar)"
+  month: "[Lux](../calendar)"
   domains:
   - Light
   - War

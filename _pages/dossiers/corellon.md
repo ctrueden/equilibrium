@@ -2,10 +2,10 @@
 nav-title: Corellon
 title: Corellon, Deity of Magic and Artistry
 statbox:
-  race: "[eternal](/races/eternals) ([elf](/races/elves))"
+  race: "[eternal](../races/eternals) ([elf](../races/elves))"
   gender: "? (they/them/their)"
   alignment: unaligned
-  month: "[Fons](/calendar)"
+  month: "[Fons](../calendar)"
   domains:
   - Nature
   - Light

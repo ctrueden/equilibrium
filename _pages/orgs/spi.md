@@ -4,12 +4,12 @@ title: SPI
 
 ## PC agents
 
-* [Bec Galere](/dossiers/bec)
-* [Callisto](/dossiers/cal)
-* [Calumnystra Rockwell](/dossiers/callie)
-* [Freki](/dossiers/freki)
-* [Vondal](/dossiers/vondal)
-* [Ghensh](/dossiers/ghensh)
+* [Bec Galere](../dossiers/bec)
+* [Callisto](../dossiers/cal)
+* [Calumnystra Rockwell](../dossiers/callie)
+* [Freki](../dossiers/freki)
+* [Vondal](../dossiers/vondal)
+* [Ghensh](../dossiers/ghensh)
 * Sima
 * Tybalt
 * Audreth
@@ -20,5 +20,5 @@ title: SPI
 
 ## Management
 
-* [Mallory](/dossiers/mallory)
-* [Cassandra](/dossiers/cassandra)
+* [Mallory](../dossiers/mallory)
+* [Cassandra](../dossiers/cassandra)

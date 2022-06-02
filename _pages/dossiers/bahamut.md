@@ -4,7 +4,7 @@ title: Bahamut, God of Justice
 image: https://vignette.wikia.nocookie.net/wolfpack-legends-dd/images/d/df/Bahamut.jpg
 image-source: https://wolfpack-legends-dd.fandom.com/wiki/Bahamut
 statbox:
-  race: "[eternal](/races/eternals) ([dragon](/races/dragons))"
+  race: "[eternal](../races/eternals) ([dragon](../races/dragons))"
   gender: "male (he/him/his)"
   alignment: lawful good
   domains:

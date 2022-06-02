@@ -4,7 +4,7 @@ title: Sehanine, Goddess of the Moon
 image: https://www.worldanvil.com/uploads/images/383415107890b336ef73a9263553b858.jpg
 image-source: https://www.worldanvil.com/w/abios-SirElghinn/a/sehanine-moonbow-article
 statbox:
-  race: "[eternal](/races/eternals) ([elf](/races/elves))"
+  race: "[eternal](../races/eternals) ([elf](../races/elves))"
   gender: "female (she/her)"
   alignment: unaligned
   domains:

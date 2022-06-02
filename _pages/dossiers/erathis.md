@@ -4,7 +4,7 @@ title: Erathis, Goddess of Civilization and Invention
 image: https://i.pinimg.com/originals/83/1e/bb/831ebbd47e4ca31137e281796c352857.jpg
 image-source: https://www.pinterest.com/pin/384283780693644105/
 statbox:
-  race: "[eternal](/races/eternals) ([gnome](/races/gnomes))"
+  race: "[eternal](../races/eternals) ([gnome](../races/gnomes))"
   gender: "female (she/her)"
   alignment: lawful neutral
   domains:

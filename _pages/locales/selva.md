@@ -16,12 +16,12 @@ statbox:
     NW: flux
     SE: jungle
 ---
-[Orcish](/races/orcs) tribes that vie for control of rainforest territory. Deep in the jungle to the southeast, it is said that monstrous [aberrations](https://en.wikipedia.org/wiki/Aberration_(Dungeons_%26_Dragons)) and even [abominations](https://en.wikipedia.org/wiki/Abomination_(Dungeons_%26_Dragons)) rampage freely.
+[Orcish](../races/orcs) tribes that vie for control of rainforest territory. Deep in the jungle to the southeast, it is said that monstrous [aberrations](https://en.wikipedia.org/wiki/Aberration_(Dungeons_%26_Dragons)) and even [abominations](https://en.wikipedia.org/wiki/Abomination_(Dungeons_%26_Dragons)) rampage freely.
 
-* **Population:** Many of the races traditionally referred to as “[monstrous](https://en.wikipedia.org/wiki/Monstrous_humanoid)” by the more [civilized folk](https://en.wikipedia.org/wiki/Humanoid_(Dungeons_%26_Dragons)) dwell in the Selva. The most prominent races are [orcs](/races/orcs) and [lizardfolk](/races/lizardfolk), though [goblinoids](https://en.wikipedia.org/wiki/Goblinoid) and [kobolds](/races/kobolds) claim substantial territory as well.
+* **Population:** Many of the races traditionally referred to as “[monstrous](https://en.wikipedia.org/wiki/Monstrous_humanoid)” by the more [civilized folk](https://en.wikipedia.org/wiki/Humanoid_(Dungeons_%26_Dragons)) dwell in the Selva. The most prominent races are [orcs](../races/orcs) and [lizardfolk](../races/lizardfolk), though [goblinoids](https://en.wikipedia.org/wiki/Goblinoid) and [kobolds](../races/kobolds) claim substantial territory as well.
 * **Government:** Tribal [gerontocracy](https://en.wikipedia.org/wiki/Gerontocracy), though the specifics vary by tribe.
 * **Cities and culture:** The Selva are heterogenous, with tribes permanently at odds. There are many tribal encampments, but rarely any “cities” as such, as tribes tend to move around to hunt, gather and seize tactical advantage against their enemies. War is the status quo, with battles fought for spoils as well as to gauge respective tribal strength. After the fighting is the only time tribes bond—there is fleeting celebration and feasting together to honor the dead and show respect for the prowess of all who fought. During this time, tribes may trade with one another, although there is little negotiation: the victors set the terms.
-* **Deities worshipped:** Many. Most popular are [Kord](/dossiers/kord) and [Gruumsh](/dossiers/gruumsh).
+* **Deities worshipped:** Many. Most popular are [Kord](../dossiers/kord) and [Gruumsh](../dossiers/gruumsh).
 
 ## Xaos
 

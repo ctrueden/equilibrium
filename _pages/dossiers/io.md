@@ -2,10 +2,10 @@
 nav-title: Io
 title: Io, Deity of Balance and Peace
 statbox:
-  race: "[eternal](/races/eternals) ([dragon](/races/dragon))"
+  race: "[eternal](../races/eternals) ([dragon](../races/dragon))"
   gender: none
   alignment: unaligned
-  month: "[Gyrus](/calendar)"
+  month: "[Gyrus](../calendar)"
   domains:
   - Knowledge
   - War

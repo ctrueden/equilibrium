@@ -2,7 +2,7 @@
 nav-title: Ioun
 title: Ioun, Goddess of Knowledge, Prophecy, and Skill
 statbox:
-  race: "[eternal](/races/eternals) ([gnome](/races/gnomes))"
+  race: "[eternal](../races/eternals) ([gnome](../races/gnomes))"
   gender: "female (she/her)"
   alignment: neutral
   domains:

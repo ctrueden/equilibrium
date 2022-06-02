@@ -4,7 +4,7 @@ title: Asmodeus, the Archfiend
 image: https://i.pinimg.com/originals/e4/70/06/e47006fd46898d34fad1763d3983dfde.jpg
 image-source: https://www.pinterest.com/pin/805299977093629132/
 statbox:
-  race: "[devil](/races/devils)"
+  race: "[devil](../races/devils)"
   gender: "male (he/him/his)"
   alignment: lawful evil
   values:

@@ -4,10 +4,10 @@ title: Pelor, God of the Sun and Agriculture
 image: https://static.wikia.nocookie.net/greyhawk-chronicles/images/a/a9/Symbol-of-pelor.png
 image-source: https://worldofeletale.fandom.com/wiki/Pelor
 statbox:
-  race: "[eternal](/races/eternals) ([human](/races/human))"
+  race: "[eternal](../races/eternals) ([human](../races/human))"
   gender: male
   alignment: neutral good
-  month: "[Solis](/calendar)"
+  month: "[Solis](../calendar)"
   domains:
   - Life
   - Light

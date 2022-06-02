@@ -21,7 +21,7 @@ statbox:
 
 ---
 
-[Dwarves](/races/dwarves) dwell beneath a colossal volcano they uncreatively call the Great Mountain, and farm the surrounding Veldt lands. Actually, the dwarves have had quite a few names for their mountain throughout history, but as clans rose and fell, the name kept being changed. Now it is a sore point for the dwarves—so as a compromise, most simply call it “the Mountain” to avoid incurring the ire of their fellows. Plus, foreigners always mangle dwarven pronunciation anyway.
+[Dwarves](../races/dwarves) dwell beneath a colossal volcano they uncreatively call the Great Mountain, and farm the surrounding Veldt lands. Actually, the dwarves have had quite a few names for their mountain throughout history, but as clans rose and fell, the name kept being changed. Now it is a sore point for the dwarves—so as a compromise, most simply call it “the Mountain” to avoid incurring the ire of their fellows. Plus, foreigners always mangle dwarven pronunciation anyway.
 
 * **Population:** The dwarves are hardy, practical, and many in number. Non-dwarves sometimes join dwarven farming communities, but very rarely make their home in the tunnels of the Mountain itself.
 * **Government:** [Patriarchal](https://en.wikipedia.org/wiki/Patriarchy) [monarchy](https://en.wikipedia.org/wiki/Monarchy). The King of the Dwarves rules justly, with seven High Clans serving as his advisers and implementers of dwarven law. (In dwarven society, any adult member of each Clan can act as legal representative for that Clan; those who bring dishonor upon their clan are excommunicated.)

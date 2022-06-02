@@ -2,8 +2,8 @@
 title: Demons
 ---
 
-They emerge from [the Flux](/locales/flux) sometimes.
+They emerge from [the Flux](../locales/flux) sometimes.
 
 ## Balor
 
-See [Priscilla Stormcloud](/dossiers/priscilla-stormcloud).
+See [Priscilla Stormcloud](../dossiers/priscilla-stormcloud).
