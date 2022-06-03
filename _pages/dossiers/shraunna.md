@@ -5,4 +5,5 @@ statbox:
   gender: female
 ---
 
-TODO
+Together with [Filiandra](filiandra), Shraunna is
+one of the best friends of [Princess Chrandria](chrandria).

@@ -8,4 +8,7 @@ statbox:
   profession: king
 ---
 
-TODO
+One of the kings of [Antigua](../locales/antigua), with his brother
+[King Harnaqua](harnaqua).
+
+Father to the princess [Chrandria](chrandria).
