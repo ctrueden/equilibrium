@@ -1,6 +1,9 @@
 ---
 nav-title: Moradin
 title: Moradin, God of Creation
+image: https://cdn.obsidianportal.com/assets/249283/Moradin_Symbol.jpg
+image-source: https://tales-of-the-eternal-kingdoms.obsidianportal.com/wikis/moradin
+image2: https://cdn.obsidianportal.com/assets/249282/Moradin.jpg
 statbox:
   race: "[eternal](../races/eternals) ([dwarf](../races/dwarves))"
   gender: "male (he/him/his)"
