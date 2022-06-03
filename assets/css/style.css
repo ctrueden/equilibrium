@@ -35,22 +35,6 @@ ul {
   list-style-position: inside;
 }
 
-#menu {
-  float: left;
-  border: 1px solid darkgray;
-  background: #eee;
-  box-shadow: 4px 4px 4px lightgray;
-  margin: 1em;
-  margin: 0 1em 1em 1em;
-  font-size: x-small;
-}
-
-#menu ul {
-  list-style-type: none;
-  padding: 1em;
-  margin: 0;
-}
-
 #content {
   width: calc(100% - 1em);
 }
