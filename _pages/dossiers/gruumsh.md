@@ -1,6 +1,8 @@
 ---
 nav-title: Gruumsh
 title: Gruumsh, God of War and Conquest
+image: https://static.wikia.nocookie.net/forgottenrealms/images/4/4a/Gruumsh_p72.jpg
+image-source: https://forgottenrealms.fandom.com/wiki/Gruumsh
 statbox:
   race: [eternal, orc]
   gender: male

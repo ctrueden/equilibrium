@@ -1,6 +1,8 @@
 ---
 nav-title: Corellon
 title: Corellon, Deity of Magic and Artistry
+image: https://static.wikia.nocookie.net/dnd4/images/c/c6/Corellon.jpg
+image-source: https://dnd4.fandom.com/wiki/Corellon
 statbox:
   race: [eternal, elf]
   gender: "? (they/them/their)"
