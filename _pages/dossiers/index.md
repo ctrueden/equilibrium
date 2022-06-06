@@ -18,18 +18,18 @@ title: Dossiers
     <label for="case">Case</label>
     <select id="case" name="case" onchange="refreshVisibleItems()">
       <option value="all">All</option>
-      <option value="01">[01] Petrification and Putrifaction</option>
-      <option value="02">[02] Exchange and Extortion</option>
-      <option value="03">[03] Punctuality and Perpetuity</option>
-      <option value="04">[04] Ingestion and Incoherency</option>
-      <option value="05">[05] Tumbling and Transcendence</option>
-      <option value="06">[06] Mutilation and Metamorphosis</option>
-      <option value="07">[07] Hazards and Harbingers</option>
-      <option value="08">[08] Revelry and Revenge</option>
-      <option value="09">[09] Amalgamation and Anathema</option>
-      <option value="10">[10] Capers and Calamity</option>
-      <option value="11">[11] Hardships and Homecomings</option>
-      <option value="12">[12] Burglary and Blight</option>
+      <option value="01">[01] Petrification and Putrifaction (RUP: Haven)</option>
+      <option value="02">[02] Exchange and Extortion (RUP: Haven)</option>
+      <option value="03">[03] Punctuality and Perpetuity (Mountain)</option>
+      <option value="04">[04] Ingestion and Incoherency (Trell: Euphoria)</option>
+      <option value="05">[05] Tumbling and Transcendence (Zephyr: Porta)</option>
+      <option value="06">[06] Mutilation and Metamorphosis (Selva)</option>
+      <option value="07">[07] Hazards and Harbingers (Arallu)</option>
+      <option value="08">[08] Revelry and Revenge (RUP)</option>
+      <option value="09">[09] Amalgamation and Anathema (Flux)</option>
+      <option value="10">[10] Capers and Calamity (RUP: Oasis)</option>
+      <option value="11">[11] Hardships and Homecomings (Cognitutus)</option>
+      <option value="12">[12] Burglary and Blight (Elyria)</option>
     </select>
   </span>
   <span class="item">
