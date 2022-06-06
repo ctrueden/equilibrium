@@ -15,10 +15,10 @@ magic-items:
     value: 16000 (sun blade is 12000, staff of fire is 16000)
     rarity: artifact (unique)
     link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Sun_Blade
-  - name: Mithral Chain Shirt
+  - name: Shirt of Terran Power (12 base AC)
     source: "Zanqaa the Devoted - Boon of TODO: TODO"
-    value: 800
-    rarity: uncommon (major)
+    value: 2000
+    rarity: legendary (unique)
     page: 182
     link: TODO
   - name: Ring of the Ram
