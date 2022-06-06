@@ -3,6 +3,7 @@ title: Princess Chrandria
 statbox:
   race: merfolk
   gender: female
+  case: "11"
 ---
 
 Princess of the [Waters of Antigua](../locales/antigua).

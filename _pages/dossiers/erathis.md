@@ -4,22 +4,18 @@ title: Erathis, Goddess of Civilization and Invention
 image: https://i.pinimg.com/originals/83/1e/bb/831ebbd47e4ca31137e281796c352857.jpg
 image-source: https://www.pinterest.com/pin/384283780693644105/
 statbox:
-  race: "[eternal](../races/eternals) ([gnome](../races/gnomes))"
-  gender: "female (she/her)"
+  race: [eternal, gnome]
+  gender: female
   alignment: lawful neutral
   domains:
   - Knowledge
   allies:
-  - "[Avandra](avandra)"
-  - "[Asmodeus](asmodeus)"
-  - "[Pelor](pelor)"
+  - Avandra
+  - Asmodeus
+  - Pelor
   enemies:
   - TODO
 ---
-
-[Erathis](https://dungeonsdragons.fandom.com/wiki/Erathis)
-
-https://dnd4.fandom.com/wiki/Erathis
 
 ## Precepts
 

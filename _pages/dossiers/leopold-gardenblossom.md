@@ -11,9 +11,10 @@ image4-source: https://www.pinterest.com/pin/31525266129598794/
 statbox:
   race: gnome
   gender: male
-  cases: [03, 09, 10, 11]
+  case: ["03", "09", "10", "11"]
+  profession: professor of the arcane arts
 ---
 
-From Case 03, a gnomish professor of magical theory. He’s the one who made Gurin Aldrimor’s life clock. 
+From [Case 03](../events/case-03), a gnomish professor of magical theory. He’s the one who made [Gurin Aldrimor](gurin-aldrimor)'s life clock. 
 
-Now a member of MAD for some reason.
+Now a member of [MAD](../orgs/mad) for some reason.

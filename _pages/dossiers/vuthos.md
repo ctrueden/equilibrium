@@ -7,7 +7,7 @@ statbox:
   class: barbarian
   alignment: chaotic neutral
   tribe: Blood Hand Orcs
-  case: 06
+  case: "06"
 ---
 
 TODO

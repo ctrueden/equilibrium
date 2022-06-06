@@ -2,8 +2,8 @@
 nav-title: Ioun
 title: Ioun, Goddess of Knowledge, Prophecy, and Skill
 statbox:
-  race: "[eternal](../races/eternals) ([gnome](../races/gnomes))"
-  gender: "female (she/her)"
+  race: [eternal, gnome]
+  gender: female
   alignment: neutral
   domains:
   - Knowledge
@@ -12,10 +12,10 @@ statbox:
   - Prophecy and fate
   - Skill
   allies:
-  - "[Avandra](avandra)"
-  - "[Erathis](erathis)"
+  - Avandra
+  - Erathis
   enemies:
-  - "[Vecna](vecna)"
+  - Vecna
 ---
-[Ioun](https://en.wikipedia.org/wiki/Ioun)
-https://dnd4.fandom.com/wiki/Ioun
+
+TODO

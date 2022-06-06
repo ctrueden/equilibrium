@@ -8,7 +8,8 @@ image3-source: https://www.pinterest.com/pin/850969292063546540/
 statbox:
   race: golem
   profession: bodyguard
-  tribe: "[Malosi](../orgs/malosi)"
+  tribe: Malosi
+  case: "06"
 ---
 
 TODO

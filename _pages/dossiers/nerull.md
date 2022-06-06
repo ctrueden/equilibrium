@@ -4,8 +4,8 @@ title: Nerull, Goddess of Darkness, Death, and Doom
 image: https://cdn.obsidianportal.com/assets/129176/Azmoriel.gif
 image-source: https://a-world-of-blood-and-darkness.obsidianportal.com/wikis/the-pantheon
 statbox:
-  race: "[eternal](../races/eternals) (?)"
-  gender: "female (she/her)"
+  race: eternal
+  gender: female
   alignment: unaligned
   domains:
   - Death
@@ -17,15 +17,15 @@ statbox:
   - Winter
   aliases:
   - The Raven Queen
-  - "Tharizdun ([4E](https://dnd4.fandom.com/wiki/Tharizdun), [Wikipedia](https://en.wikipedia.org/wiki/Tharizdun))"
+  - Tharizdun
   - Aurom
   allies:
-  - "[Sehanine](sehanine)"
-  - "[Melora](melora)"
+  - Sehanine
+  - Melora
   enemies:
-  - "[Asmodeus](asmodeus)"
-  - "[Pelor](pelor)"
-  - "[Vecna](vecna)"
+  - Asmodeus
+  - Pelor
+  - Vecna
 ---
 
 ## Precepts

@@ -5,10 +5,10 @@ image-source: https://dnd.dragonmag.com/2020/01/30/community-poll-lich-phylacter
 image2: https://static.wikia.nocookie.net/forgottenrealms/images/9/98/Monster_Manual_5e_-_Lich_-_p202.jpg
 image2-source: https://forgottenrealms.fandom.com/wiki/Lich
 statbox:
-  race: "[human](../races/humans) ([lich](../races/undead#lich))"
+  race: [human, lich]
   gender: male
   class: wizard
-  case: 07
+  case: "07"
 ---
 
-The dread necromancer. One of the unholy triumvariate of Arallu.
+The dread necromancer. One of the unholy triumvariate of [Arallu](../locales/arallu).

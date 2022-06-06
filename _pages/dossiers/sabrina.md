@@ -15,6 +15,7 @@ statbox:
   gender: female
   class: psion
   tribe: Malosi
+  case: "06"
 ---
 
 TODO

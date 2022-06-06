@@ -5,10 +5,10 @@ image-source: https://www.pinterest.com/pin/387802217883821028/
 image2-source: https://www.pinterest.com/pin/588423507557778383/
 image-captain-spaulding-source: https://www.pinterest.com/pin/470485492330101722/
 statbox:
-  race: undead clown
-  gender: "male (he/him/his)"
+  race: undead (clown)
+  gender: male
   profession: circus clown and ringmaster
-  case: 08
+  case: "08"
 ---
 
 Zombozo is the ringmaster of the Zombozo circus. He also serves as one of two
@@ -18,4 +18,4 @@ He sustains his unlife by feeding on the laughter of living beings. While he is
 capable of draining people's life force, he refrains from doing so in favor of
 entertaining crowds at the circus. As such, his unlife literally depends on his
 comic delivery: if he's dying on stage, he's *really dying on stage*,
-knowwhatI'msaying?
+know-what-I-mean?

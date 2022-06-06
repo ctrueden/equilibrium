@@ -1,7 +1,9 @@
 ---
 title: Crae
 statbox:
-  race: "[lizardfolk](../races/lizardfolk)"
+  race: lizardfolk
+  gender: female
+  case: "06"
 ---
 
 Leader of the [Blackscales](../orgs/blackscales).

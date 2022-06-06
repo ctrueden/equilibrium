@@ -8,6 +8,7 @@ statbox:
   race: beholder
   gender: male
   profession: cult leader
+  case: "01"
 ---
 
 TODO

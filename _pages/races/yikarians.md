@@ -1,6 +1,6 @@
 ---
 nav-title: Yikarians
-title: Yikarians (Yakfolk)
+title: Yikarians (Yak-folk)
 ---
 
-[Yak-folk](http://forgottenrealms.wikia.com/wiki/Yak_folk)
+[Yak-folk](https://forgottenrealms.wikia.com/wiki/Yak_folk)

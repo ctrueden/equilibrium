@@ -1,7 +1,7 @@
 ---
 title: Ghensh Faass
 statbox:
-  race: dragonborn
+  race: dragonborn (gold)
   gender: male
   class: bard
 ---

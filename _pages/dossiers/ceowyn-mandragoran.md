@@ -2,8 +2,9 @@
 title: Ceowyn Mandragoran
 statbox:
   race: elf (wood)
+  gender: male
   profession: monk (Master of Earth)
-  cases: [05, 07, 09, 10, 11]
+  case: ["05", "07", "09", "10", "11"]
 ---
 
 "It is not our place to stop those who jump willingly."

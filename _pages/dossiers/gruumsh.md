@@ -2,8 +2,8 @@
 nav-title: Gruumsh
 title: Gruumsh, God of War and Conquest
 statbox:
-  race: "[eternal](../races/eternals) ([orc](../races/orcs))"
-  gender: "male (he/him/his)"
+  race: [eternal, orc]
+  gender: male
   alignment: lawful evil
   domains:
   - Tempest
@@ -14,13 +14,13 @@ statbox:
   - Territory
   - Resolve
   aliases:
-  - "Gruumsh One-Eye ([4E](https://dnd4.fandom.com/wiki/Gruumsh), [D&D wiki](https://dungeonsdragons.fandom.com/wiki/Gruumsh), [Greyhawk](https://greyhawkonline.com/greyhawkwiki/Gruumsh))"
-  - "Bane ([4E](https://dnd4.fandom.com/wiki/Bane_(deity)))"
+  - Gruumsh One-Eye
+  - Bane
   allies:
-  - "[Asmodeus](asmodeus)"
-  - "[Kord](kord)"
+  - Asmodeus
+  - Kord
   enemies:
-  - "[Corellon](corellon)"
+  - Corellon
 
 ---
 

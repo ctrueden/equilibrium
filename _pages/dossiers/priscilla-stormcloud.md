@@ -7,7 +7,7 @@ image2-source: https://www.pinterest.com/pin/641411171920146100/
 statbox:
   race: elf
   gender: female
-  case: [07, 09]
+  case: ["07", "09"]
   quote: "[written on an invitation sent to the SPI, visible only with detect magic] You possess an object of sufficient power to be of interest. You are cordially invited to participate in an Auction of Divine Potential at the sanctum of the esteemed T. Invictus, His Dreaded Excellency. Be at the 4th Circle of Estanesse at twilight on Evensday. Rest assured that all manner of precautions are being taken to protect all involved parties. Yours sincerely, P. Stormcloud, MAI, MHA. (MAI=Master of Arcane Invocations, MHA=Master of the Historical Arts.)"
 ---
 

@@ -6,6 +6,7 @@ statbox:
   race: orc
   gender: male
   tribe: blood-hand-orcs
+  case: "06"
 ---
 
 Leader of the Blood Hand Orcs. Said to be ruthless and unforgiving.

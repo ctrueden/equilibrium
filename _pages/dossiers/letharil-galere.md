@@ -1,5 +1,10 @@
 ---
 title: Letharil Galere
+statbox:
+  race: [elf, treemerged]
+  gender: male
+  profession: holy sorcerer
+  case: ["11", "12"]
 ---
 
-TODO
+Father of [Bec Galere](bec-galere).

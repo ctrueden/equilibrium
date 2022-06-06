@@ -1,10 +1,11 @@
 ---
 title: Contessa Alyssa Morvain
 statbox:
-  race: dragonborn
+  race: dragonborn (black)
   gender: female
   class: wizard (enchanter)
   profession: noble
+  case: ["01", "02"]
 ---
 
 Morvain is a noblewoman in the city of Haven, blackmailed into inadvertently killing Dominic Tremere, a rich dealer of antiquities.

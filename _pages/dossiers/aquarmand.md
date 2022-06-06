@@ -6,6 +6,7 @@ statbox:
   race: merfolk
   gender: male
   profession: king
+  case: "11"
 ---
 
 One of the kings of [Antigua](../locales/antigua), with his brother

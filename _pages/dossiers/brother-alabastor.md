@@ -2,9 +2,9 @@
 title: Brother Alabastor
 statbox:
   race: human
-  gender: "male (he/him/his)"
+  gender: male
   class: cleric
-  case: 08
+  case: "08"
 ---
 
 Brother Alabastor is a mild-mannered, friendly and bookish cleric.

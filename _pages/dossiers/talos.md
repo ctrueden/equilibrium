@@ -7,8 +7,8 @@ image2-source: https://www.deviantart.com/sigbjornpedersen/art/Centaur-Warlord-2
 statbox:
   race: centaur
   gender: male
-  class: ???
   tribe: Malosi
+  case: "06"
 ---
 
-Leader of the Malosi tribe.
+Leader of the [Malosi](../orgs/malosi) tribe.

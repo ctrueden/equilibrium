@@ -6,7 +6,7 @@ statbox:
   race: elf (high)
   gender: male
   class: holy sorcerer
-  cases: [07, 12]
+  case: ["07", "12"]
 ---
 
 TODO

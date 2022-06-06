@@ -1,9 +1,9 @@
 ---
 title: Bec Galere
 statbox:
-  race: half-elf
+  race: [elf, human]
   gender: female
-  class: wizard (enchantress)
+  class: wizard (enchanter)
 magic-items:
   - name: Helm of Telepathy
     source: "Zanqaa the Devoted - Boon of Aegis: Mind"

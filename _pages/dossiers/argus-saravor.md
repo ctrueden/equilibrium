@@ -3,6 +3,7 @@ title: Argus Saravor
 statbox:
   race: green dragonborn
   gender: male
+  case: "01"
 ---
 
 * Monster trainer and handler.

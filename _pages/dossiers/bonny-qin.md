@@ -5,7 +5,7 @@ image-source: https://www.pinterest.com/pin/276760339585192519/
 statbox:
   race: tiefling
   gender: female
-  case: [09, 10]
+  case: ["09", "10"]
   pronunciation: "KEEN"
 ---
 

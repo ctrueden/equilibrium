@@ -4,7 +4,7 @@ image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb89d252-88ec-4
 image-source: https://www.deviantart.com/dessindu43/art/Pixie-453175600
 statbox:
   race: pixie
-  case: 08
+  case: "08"
 ---
 
 The pixie gang are a group of ten pixies who work as a team in the [Zombozo](zombozo) circus.

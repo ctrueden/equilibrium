@@ -3,7 +3,7 @@ title: Callisto
 statbox:
   race: halfling (stout)
   gender: male
-  class: barbarian/rogue
+  class: [barbarian, rogue]
 magic-items:
   - name: Whip of Rescue
     source: "Case 11: Hardships and Homecomings"

@@ -4,8 +4,8 @@ title: Avandra, Goddess of Change, Luck, Trade, and Travel
 image: https://i.pinimg.com/originals/c2/34/f6/c234f661a4a3558be2680032c8a1f741.png
 image-source: https://www.pinterest.com/pin/365987907217621825/
 statbox:
-  race: "[eternal](../races/eternals) ([gnome](../races/gnomes))"
-  gender: "female (she/her)"
+  race: [eternal, gnome]
+  gender: female
   alignment: chaotic neutral
   domains:
   - Trickery
@@ -20,9 +20,9 @@ statbox:
   - "Fharlangn ([Greyhawk](https://greyhawkonline.com/greyhawkwiki/Fharlanghn))"
   - "Olidammara ([Greyhawk](https://greyhawkonline.com/greyhawkwiki/Olidammara))"
   allies:
-  - "[Erathis](erathis)"
+  - Erathis
   enemies:
-  - "[Asmodeus](asmodeus)"
+  - Asmodeus
 ---
 
 [Avandra](https://en.wikipedia.org/wiki/Avandra)

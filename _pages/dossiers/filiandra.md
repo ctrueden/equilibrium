@@ -3,6 +3,7 @@ title: Filiandra
 statbox:
   race: merfolk
   gender: female
+  case: "11"
 ---
 
 Together wWith [Shraunna](shraunna), Filiandra is

@@ -5,6 +5,7 @@ image-source: https://glimpses-of-adventure.obsidianportal.com/wiki_pages/half-o
 statbox:
   race: orc
   gender: male
+  case: ["03", "06"]
 ---
 
 Former Aldrimor clan slave, along with [Stave](stave). Friend of the [Blood Hand Orcs](../orgs/blood-hand-orcs); lives in Xaos now.

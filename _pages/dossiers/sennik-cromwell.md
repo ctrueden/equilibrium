@@ -6,7 +6,8 @@ statbox:
   race: human
   gender: male
   class: paladin (vengeance)
-  cases: [01, 09, 10]
+  case: ["01", "09", "10"]
 ---
 
-Grizzled but fatherly Luminous Defender, a paladin of vengeance. Now a member of MAD.
+Grizzled but fatherly Luminous Defender, a paladin of vengeance.
+Now a member of [MAD](../orgs/mad).

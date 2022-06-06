@@ -9,6 +9,12 @@ magic-items:
     origin: crazy ghost lady
     value: 20000 (16000 for +3, 2000 for wounding, 1700 for sharpness)
     rarity: artifact (unique)
+  - name: Cloak of Elvenkind
+    origin: "Zanqaa the Devoted - Boon of Aegis: Stealth"
+    value: 5000
+    page: 158
+    rarity: uncommon (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items#TOC-Cloak-of-Elvenkind
   - name: Ring of Jumping
     origin: "Zanqaa the Devoted - Boon of Prowess: Agility"
     value: 2500
@@ -21,12 +27,6 @@ magic-items:
     page: 160
     rarity: rare (major)
     link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons#TOC-Dagger-of-Venom
-  - name: Cloak of Elvenkind
-    origin: "Zanqaa the Devoted - Boon of Aegis: Stealth"
-    value: 5000
-    page: 158
-    rarity: uncommon (major)
-    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items#TOC-Cloak-of-Elvenkind
 ---
 
 A curious and impulsive halfling rogue.

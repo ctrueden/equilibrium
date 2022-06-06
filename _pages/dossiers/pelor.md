@@ -4,10 +4,10 @@ title: Pelor, God of the Sun and Agriculture
 image: https://static.wikia.nocookie.net/greyhawk-chronicles/images/a/a9/Symbol-of-pelor.png
 image-source: https://worldofeletale.fandom.com/wiki/Pelor
 statbox:
-  race: "[eternal](../races/eternals) ([human](../races/humans))"
+  race: [eternal, human]
   gender: male
   alignment: neutral good
-  month: "[Solis](../calendar)"
+  month: Solis
   domains:
   - Life
   - Light
@@ -19,9 +19,9 @@ statbox:
   - Time
   - Summer
   allies:
-  - "[Erathis](erathis)"
+  - Erathis
   enemies:
-  - "[Nerull](nerull)"
+  - Nerull
   quote: "THE FUTURE IS YOURS TO SHAPE."
 ---
 

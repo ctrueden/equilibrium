@@ -7,6 +7,7 @@ image2-source: https://www.reddit.com/r/DnD/comments/932cty/ocartagarotha_halfor
 statbox:
   race: orc
   gender: male
+  case: "03"
 ---
 
 TODO

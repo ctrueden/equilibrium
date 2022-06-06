@@ -7,7 +7,7 @@ statbox:
   gender: male
   class: wizard
   age: 105 years old
-  case: 03
+  case: "03"
 ---
 
 Youngest nephew of Gurin Aldrimor. A self-proclaimed wordsmith, he illicitly practiced necromancy as a member of Esprit Repose.

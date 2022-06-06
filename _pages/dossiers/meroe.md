@@ -3,11 +3,11 @@ title: Meroe
 image: https://i.pinimg.com/736x/69/1f/89/691f89b48dd06e27c89f8fee8bed92fc--rogue-character-character-ideas.jpg
 image-source: https://www.pinterest.com/pin/267612402840633339/
 statbox:
-  race: "half-[human](../races/humans), half-[night hag](../races/night-hags)"
-  gender: "female (she/her/hers)"
-  class: alchemist/wizard
+  race: [human, night hag]
+  gender: female
+  class: [alchemist, wizard]
   profession: pyrotechnician
-  cases: [08, 09, 10]
+  case: ["08", "09", "10"]
 ---
 
 Meroe was an alchemist wizard, and pyrotechnician of the [Zombozo](zombozo)

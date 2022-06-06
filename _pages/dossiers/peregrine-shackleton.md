@@ -6,6 +6,7 @@ statbox:
   race: gnome
   gender: male
   class: alchemist
+  case: "12"
 ---
 
 Who is this guy?

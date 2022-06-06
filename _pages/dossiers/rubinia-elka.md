@@ -5,6 +5,7 @@ statbox:
   race: dwarf
   gender: female
   class: wizard (necromancer)
+  case: "03"
 image-source: https://funnyjunk.com/channel/dungeons-n-drags/Dwarf+character+art/ukukLhx/
 image: https://loginportal.funnyjunk.com/pictures/Dwarf_78c1ac_6011154.jpg
 ---

@@ -4,8 +4,8 @@ title: OMG, a balor!
 image: https://static.wikia.nocookie.net/pathfinder/images/5/53/Balor.jpg
 image-source: https://pathfinder.fandom.com/wiki/Balor
 statbox:
-  race: "[elf](../races/elves)? [halfling](../races/halflings)? [balor](../races/demons#balor)?"
-  case: 09
+  race: [elf, halfing, demon (balor)]
+  case: "09"
 ---
 
 During the events of [Amalgamation and Anathema](../events/case-09), an insane

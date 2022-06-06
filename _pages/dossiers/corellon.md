@@ -2,10 +2,10 @@
 nav-title: Corellon
 title: Corellon, Deity of Magic and Artistry
 statbox:
-  race: "[eternal](../races/eternals) ([elf](../races/elves))"
+  race: [eternal, elf]
   gender: "? (they/them/their)"
   alignment: unaligned
-  month: "[Fons](../calendar)"
+  month: Fons
   domains:
   - Nature
   - Light
@@ -17,11 +17,12 @@ statbox:
   - Elves and other feyfolk
   - The forest
   aliases:
-  - "Corellon Larethian ([4E](https://dnd4.fandom.com/wiki/Corellon), [D&D wiki](https://dungeonsdragons.fandom.com/wiki/Corellon_Larethian), [Greyhawk](https://greyhawkonline.com/greyhawkwiki/Corellon_Larethian), [Wikipedia](https://en.wikipedia.org/wiki/Corellon_Larethian))"
+  - Corellon Larethian
+  - Boccob
   allies:
-  - "[Sehanine](sehanine)"
+  - Sehanine
   enemies:
-  - "[Gruumsh](gruumsh)"
+  - Gruumsh
 ---
 
 

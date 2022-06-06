@@ -8,10 +8,10 @@ image4-source: https://www.pinterest.com/pin/21814379436708602/
 image5-source: https://www.pinterest.com/pin/1477812368251501/
 image6-source: https://www.pinterest.com/pin/328199891607419832/
 statbox:
-  race: elf (ghost)
+  race: [elf, undead (ghost)]
   gender: male
   class: psion
-  case: 07
+  case: "07"
 ---
 
 The vengeful ghost. One of the unholy triumvariate of Arallu.

@@ -4,5 +4,8 @@ image: https://3.bp.blogspot.com/-PITdgDvcs-A/XMJZvXOGz4I/AAAAAAAAC2c/triv-3jnCZ
 image-source: https://www.remixesandrevelations.com/2019/04/osr-elemental-courts-of-water.html
 statbox:
   race: genie (marid)
+  gender: female
+  case: "11"
 ---
 
+TODO

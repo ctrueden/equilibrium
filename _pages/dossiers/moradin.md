@@ -5,18 +5,14 @@ image: https://cdn.obsidianportal.com/assets/249283/Moradin_Symbol.jpg
 image-source: https://tales-of-the-eternal-kingdoms.obsidianportal.com/wikis/moradin
 image2: https://cdn.obsidianportal.com/assets/249282/Moradin.jpg
 statbox:
-  race: "[eternal](../races/eternals) ([dwarf](../races/dwarves))"
-  gender: "male (he/him/his)"
+  race: [eternal, dwarf]
+  gender: male
   alignment: lawful good
-  month: "[Lux](../calendar)"
+  month: Lux
   domains:
   - Light
   - War
 ---
-
-[Moradin](https://en.wikipedia.org/wiki/Moradin)
-
-https://dnd4.fandom.com/wiki/Moradin
 
 ## Precepts
 

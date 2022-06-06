@@ -9,7 +9,8 @@ image3-source: https://www.pinterest.com/pin/16607092367956241/
 statbox:
   race: dragonborn (red)
   gender: female
-  profession: valkyrie/monk (master of fire)
+  profession: [valkyrie, monk (master of fire)]
+  case: "05"
 ---
 
-Master of Fire at the Progression of Symmetry.
+Master of Fire at the [Progression of Symmetry](../orgs/progression-of-symmetry).
