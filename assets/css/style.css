@@ -102,7 +102,7 @@ table td {
 
 /* -- Index pages with gallery navigation -- */
 
-.gallery div {
+#gallery div {
   display: inline-block;
   border: 1px solid lightgray;
   margin-bottom: 0.5em;
@@ -110,6 +110,6 @@ table td {
   text-align: center;
 }
 
-.gallery div img {
+#gallery div img {
   height: 10em;
 }

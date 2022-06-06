@@ -21,7 +21,7 @@ A gallery of images linked to pages in the current directory.
   {%- assign title = p.nav-title | default: p.title
     | replace: " ", "&nbsp;" | replace: "-", "&#8209;" -%}
   {%- capture link -%}
-    <div><a href="{{site.baseurl}}{{p.url}}">
+    <div data-title="{{p.nav-title | default: p.title | slugify}}" class="{% include statbox-classes p=p %}"><a href="{{site.baseurl}}{{p.url}}">
     {%- if p.image -%} <img src="{{p.image}}"><br> {%- endif -%}
     {{title}}
     </a></div>
@@ -32,12 +32,9 @@ A gallery of images linked to pages in the current directory.
   {%- assign links = links | append: link -%}
 {%- endfor -%}
 
-{%- comment -%}
-  Doing a split+sort ends up with links sorted by URL, which is OK enough.
-{%- endcomment -%}
 {%- assign sorted-links = links | split: "|" | sort -%}
 
-<div class="gallery">
+<div id="gallery">
 {%- for link in sorted-links %}
         {{link}}
 {%- endfor -%}
