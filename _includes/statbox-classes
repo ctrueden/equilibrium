@@ -1,0 +1,41 @@
+{%- comment -%}
+Produces slugified class names from a given page's statbox entries.
+{%- endcomment -%}
+
+{%- assign p = include.p -%}
+
+{%- if p.statbox -%}
+  {%- assign classes = "" -%}
+  {%- for stat in p.statbox -%}
+    {%- capture key -%} {{- stat[0] -}} {%- endcapture -%}
+    {%- if stat[1].first -%}
+      {%- comment -%} Value is a list; use it as is. {%- endcomment -%}
+      {%- assign vals = stat[1] -%}
+    {%- else -%}
+      {%- comment -%} Value is a scalar; convert to a single-element list. {%- endcomment -%}
+
+      {%- comment -%} Coerce value to string. {%- endcomment -%}
+      {%- capture val -%} {{- stat[1] -}} {%- endcapture -%}
+
+      {%- assign vals = val | split: "SIR-NOT-APPEARING-IN-THIS-FILM" -%}
+    {%- endif -%}
+    {%- for val in vals -%}
+      {%- comment -%} Coerce value to string. {%- endcomment -%}
+      {%- capture v -%} {{- val -}} {%- endcapture -%}
+
+      {%- comment -%} Convert key/value pair to web-case class name. {%- endcomment -%}
+      {%- capture class -%} {{key | slugify}}-{{v | slugify}} {%- endcapture -%}
+
+      {%- comment -%} Append the result to the list of classes. {%- endcomment -%}
+      {%- unless classes == "" -%}
+        {%- assign classes = classes | append: " " -%}
+      {%- endunless -%}
+      {%- assign classes = classes | append: class -%}
+    {%- endfor -%}
+  {%- endfor -%}
+  {{- classes -}}
+{%- endif -%}
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}
