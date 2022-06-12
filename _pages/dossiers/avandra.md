@@ -17,9 +17,10 @@ statbox:
   - Frontier
   - Luck
   aliases:
-  - "Fharlangn ([Greyhawk](https://greyhawkonline.com/greyhawkwiki/Fharlanghn))"
-  - "Olidammara ([Greyhawk](https://greyhawkonline.com/greyhawkwiki/Olidammara))"
+  - Fharlangn
+  - Olidammara
   allies:
+  - Brandobaris
   - Erathis
   enemies:
   - Asmodeus
