@@ -6,8 +6,6 @@ statbox:
   case: "01"
 ---
 
-* Classes = :: {% include statbox-classes p=page %} ::
-
 Competitor at the Beastly Arena in Haven.
 
 * tattoos, punk attitude
