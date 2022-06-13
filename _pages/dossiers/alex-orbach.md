@@ -1,5 +1,9 @@
 ---
 title: Alex Orbach
+image: https://i.pinimg.com/originals/d6/91/73/d69173cbc40b4a3dd3201c83fdcedd65.png
+image-source: https://www.pinterest.com/pin/37717715621164296/
+image-hooded: https://i.pinimg.com/originals/af/0b/b1/af0bb197779b2a84c88d5f168274f75f.jpg
+image-hooded-source: https://www.pinterest.com/pin/590745676096998507/
 statbox:
   race: human
   gender: male

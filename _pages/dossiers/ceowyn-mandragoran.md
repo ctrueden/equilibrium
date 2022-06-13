@@ -1,5 +1,7 @@
 ---
 title: Ceowyn Mandragoran
+image: https://i.pinimg.com/originals/89/40/25/8940254f4891a4292c0127c30ea23113.jpg
+image-source: https://www.pinterest.com/pin/16747829856979959/
 statbox:
   race: elf (wood)
   gender: male

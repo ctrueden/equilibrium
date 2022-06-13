@@ -1,5 +1,7 @@
 ---
 title: Pulchritudinous Euryale
+image: https://i.pinimg.com/originals/68/88/eb/6888eb29f965be18e2c068d6f93f4576.png
+image-source: https://www.pinterest.com/pin/51228514499147176/
 statbox:
   class: [human, medusa (former)]
   gender: female

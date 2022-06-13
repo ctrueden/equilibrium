@@ -1,5 +1,11 @@
 ---
 title: Freki Sarin
+image: https://i.imgur.com/psSqYk0.jpg
+image-source: https://www.nonfictiongaming.com/2021/01/14/not-all-who-wander-are-lost-a-rangers-guide/
+image-beast: https://i.pinimg.com/originals/84/84/29/848429b7e078c252073beb4511d79b8d.png
+image-beast-source: https://www.pinterest.com/pin/645562927835781072/
+image-shifter: https://static.wikia.nocookie.net/evenfall/images/7/76/Shifter_%282%29.jpg
+image-shifter-source: https://evenfall.fandom.com/wiki/Shifter
 statbox:
   race: [elf (wood), lycan]
   gender: male

@@ -1,5 +1,7 @@
 ---
 title: Contessa Alyssa Morvain
+image: https://4.bp.blogspot.com/-zXyztwBfL_M/UrhyR9tn-1I/AAAAAAAACDA/CpxXpcYHsbE/s1600/excerpts_1109.jpg
+image-source: https://punverse.blogspot.com/2013/12/30-day-d-challenge-day-twenty-one.html
 statbox:
   race: dragonborn (black)
   gender: female
