@@ -15,6 +15,7 @@ statbox:
   - Psionics
   - Secrets
   allies:
+  - Io
   - Sehanine
   - Vecna
 ---

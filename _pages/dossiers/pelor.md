@@ -21,15 +21,14 @@ statbox:
   aliases:
   - Amaunator
   allies:
+  - Corellon
   - Erathis
+  - Moradin
   enemies:
-  - Nerull
+  - Sehanine
+  - Vecna
   quote: "THE FUTURE IS YOURS TO SHAPE."
 ---
-
-[Pelor](https://en.wikipedia.org/wiki/Pelor)
-
-https://dnd4.fandom.com/wiki/Pelor
 
 ## Precepts
 

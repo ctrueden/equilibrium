@@ -4,5 +4,5 @@ targetDir=../assets/images
 mkdir -p "$targetDir"
 for dot in *.dot
 do
-  neato "$dot" -Tsvg > "$targetDir/${dot%.dot}.svg"
+  dot "$dot" -Tsvg > "$targetDir/${dot%.dot}.svg"
 done

@@ -11,6 +11,7 @@ statbox:
   - Death
   - Trickery
   portfolio:
+  - Death
   - Darkness
   - Fate/Doom
   - Underworld
@@ -20,11 +21,11 @@ statbox:
   - Tharizdun
   - Aurom
   allies:
-  - Sehanine
+  - Corellon
   - Melora
+  - Sehanine
   enemies:
   - Asmodeus
-  - Pelor
   - Vecna
 ---
 

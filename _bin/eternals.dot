@@ -2,32 +2,34 @@ graph {
   overlap=scale;
   node [style=filled];
 
-  Asmodeus [fillcolor=gray URL="/dossiers/asmodeus"];
-  Avandra [fillcolor=lightgray URL="/dossiers/avandra"];
-  Bahamut [fillcolor=lightyellow URL="/dossiers/bahamut"];
-  Corellon [fillcolor=lightgray URL="/dossiers/corellon"];
-  Erathis [fillcolor=lightgray URL="/dossiers/erathis"];
-  Gruumsh [fillcolor=gray URL="/dossiers/gruumsh"];
-  Ioun [fillcolor=lightgray URL="/dossiers/ioun"];
-  Kord [fillcolor=lightgray URL="/dossiers/kord"];
-  Melora [fillcolor=lightgray URL="/dossiers/melora"];
-  Moradin [fillcolor=lightyellow URL="/dossiers/moradin"];
-  Nerull [fillcolor=lightgray URL="/dossiers/nerull"];
-  Pelor [fillcolor=lightyellow URL="/dossiers/pelor"];
-  Sardior [fillcolor=lightgray URL="/dossiers/sardior"];
-  Sehanine [fillcolor=lightgray URL="/dossiers/sehanine"];
-  Tiamat [fillcolor=gray URL="/dossiers/tiamat"];
-  Vecna [fillcolor=gray URL="/dossiers/vecna"];
-  Yondalla [fillcolor=black URL="/dossiers/yondalla"];
+  Asmodeus [fillcolor=gray URL="../../dossiers/asmodeus"];
+  Avandra [fillcolor=lightgray URL="../../dossiers/avandra"];
+  Bahamut [fillcolor=lightyellow URL="../../dossiers/bahamut"];
+  Corellon [fillcolor=lightgray URL="../../dossiers/corellon"];
+  Erathis [fillcolor=lightgray URL="../../dossiers/erathis"];
+  Gruumsh [fillcolor=gray URL="../../dossiers/gruumsh"];
+  Io [fillcolor=lightgray URL="../../dossiers/io"];
+  Ioun [fillcolor=lightgray URL="../../dossiers/ioun"];
+  Kord [fillcolor=lightgray URL="../../dossiers/kord"];
+  Melora [fillcolor=lightgray URL="../../dossiers/melora"];
+  Moradin [fillcolor=lightyellow URL="../../dossiers/moradin"];
+  Nerull [fillcolor=lightgray URL="../../dossiers/nerull"];
+  Pelor [fillcolor=lightyellow URL="../../dossiers/pelor"];
+  Sardior [fillcolor=lightgray URL="../../dossiers/sardior"];
+  Sehanine [fillcolor=lightgray URL="../../dossiers/sehanine"];
+  Tiamat [fillcolor=gray URL="../../dossiers/tiamat"];
+  Vecna [fillcolor=gray URL="../../dossiers/vecna"];
+  Yondalla [fillcolor=black URL="../../dossiers/yondalla"];
 
   Asmodeus -- Avandra [color=red];
   //Asmodeus -- Bahamut [color=none];
   //Asmodeus -- Corellon [color=none];
   Asmodeus -- Erathis [color=blue];
-  //Asmodeus -- Gruumsh [color=none];
+  Asmodeus -- Gruumsh [color=blue];
+  //Asmodeus -- Io [color=none];
   //Asmodeus -- Ioun [color=none];
-  Asmodeus -- Kord [color=blue];
-  //Asmodeus -- Melora [color=none];
+  //Asmodeus -- Kord [color=none];
+  Asmodeus -- Melora [color=red];
   //Asmodeus -- Moradin [color=none];
   Asmodeus -- Nerull [color=red];
   //Asmodeus -- Pelor [color=none];
@@ -37,13 +39,14 @@ graph {
   //Asmodeus -- Vecna [color=none];
 
   //Avandra -- Bahamut [color=none];
-  //Avandra -- Corellon [color=none];
+  Avandra -- Corellon [color=blue];
   Avandra -- Erathis [color=blue];
   //Avandra -- Gruumsh [color=none];
+  //Avandra -- Io [color=none];
   Avandra -- Ioun [color=blue];
   //Avandra -- Kord [color=none];
-  //Avandra -- Melora [color=none];
-  //Avandra -- Moradin [color=none];
+  Avandra -- Melora [color=blue];
+  Avandra -- Moradin [color=blue];
   //Avandra -- Nerull [color=none];
   //Avandra -- Pelor [color=none];
   //Avandra -- Sardior [color=none];
@@ -54,35 +57,38 @@ graph {
   //Bahamut -- Corellon [color=none];
   //Bahamut -- Erathis [color=none];
   //Bahamut -- Gruumsh [color=none];
+  Bahamut -- Io [color=blue];
   //Bahamut -- Ioun [color=none];
   //Bahamut -- Kord [color=none];
   //Bahamut -- Melora [color=none];
-  //Bahamut -- Moradin [color=none];
+  Bahamut -- Moradin [color=blue];
   //Bahamut -- Nerull [color=none];
   //Bahamut -- Pelor [color=none];
   //Bahamut -- Sardior [color=none];
   Bahamut -- Sehanine [color=red];
-  //Bahamut -- Tiamat [color=none];
+  Bahamut -- Tiamat [color=red];
   //Bahamut -- Vecna [color=none];
 
   //Corellon -- Erathis [color=none];
   Corellon -- Gruumsh [color=red];
-  //Corellon -- Ioun [color=none];
-  //Corellon -- Kord [color=none];
-  //Corellon -- Melora [color=none];
-  //Corellon -- Moradin [color=none];
-  //Corellon -- Nerull [color=none];
-  //Corellon -- Pelor [color=none];
+  //Corellon -- Io [color=none];
+  Corellon -- Ioun [color=blue];
+  Corellon -- Kord [color=blue];
+  Corellon -- Melora [color=blue];
+  Corellon -- Moradin [color=blue];
+  Corellon -- Nerull [color=blue];
+  Corellon -- Pelor [color=blue];
   //Corellon -- Sardior [color=none];
   Corellon -- Sehanine [color=blue];
   //Corellon -- Tiamat [color=none];
-  //Corellon -- Vecna [color=none];
+  Corellon -- Vecna [color=red];
 
   //Erathis -- Gruumsh [color=none];
+  //Erathis -- Io [color=none];
   Erathis -- Ioun [color=blue];
   //Erathis -- Kord [color=none];
-  //Erathis -- Melora [color=none];
-  //Erathis -- Moradin [color=none];
+  Erathis -- Melora [color=red];
+  Erathis -- Moradin [color=blue];
   //Erathis -- Nerull [color=none];
   Erathis -- Pelor [color=blue];
   //Erathis -- Sardior [color=none];
@@ -90,10 +96,11 @@ graph {
   //Erathis -- Tiamat [color=none];
   //Erathis -- Vecna [color=none];
 
+  //Gruumsh -- Io [color=none];
   //Gruumsh -- Ioun [color=none];
   Gruumsh -- Kord [color=blue];
   //Gruumsh -- Melora [color=none];
-  //Gruumsh -- Moradin [color=none];
+  Gruumsh -- Moradin [color=blue];
   //Gruumsh -- Nerull [color=none];
   //Gruumsh -- Pelor [color=none];
   //Gruumsh -- Sardior [color=none];
@@ -101,11 +108,22 @@ graph {
   //Gruumsh -- Tiamat [color=none];
   //Gruumsh -- Vecna [color=none];
 
+  //Io -- Ioun [color=none];
+  //Io -- Kord [color=none];
+  //Io -- Melora [color=none];
+  //Io -- Moradin [color=none];
+  //Io -- Nerull [color=none];
+  //Io -- Pelor [color=none];
+  Io -- Sardior [color=blue];
+  //Io -- Sehanine [color=none];
+  Io -- Tiamat [color=blue];
+  //Io -- Vecna [color=none];
+
   //Ioun -- Kord [color=none];
   //Ioun -- Melora [color=none];
   //Ioun -- Moradin [color=none];
   //Ioun -- Nerull [color=none];
-  //Ioun -- Pelor [color=none];
+  Ioun -- Pelor [color=blue];
   //Ioun -- Sardior [color=none];
   //Ioun -- Sehanine [color=none];
   //Ioun -- Tiamat [color=none];
@@ -116,7 +134,7 @@ graph {
   //Kord -- Nerull [color=none];
   //Kord -- Pelor [color=none];
   //Kord -- Sardior [color=none];
-  //Kord -- Sehanine [color=none];
+  Kord -- Sehanine [color=blue];
   //Kord -- Tiamat [color=none];
   //Kord -- Vecna [color=none];
 
@@ -124,18 +142,18 @@ graph {
   Melora -- Nerull [color=blue];
   //Melora -- Pelor [color=none];
   //Melora -- Sardior [color=none];
-  //Melora -- Sehanine [color=none];
+  Melora -- Sehanine [color=blue];
   //Melora -- Tiamat [color=none];
   //Melora -- Vecna [color=none];
 
   //Moradin -- Nerull [color=none];
-  //Moradin -- Pelor [color=none];
+  Moradin -- Pelor [color=blue];
   //Moradin -- Sardior [color=none];
-  //Moradin -- Sehanine [color=none];
+  Moradin -- Sehanine [color=blue];
   //Moradin -- Tiamat [color=none];
   //Moradin -- Vecna [color=none];
 
-  Nerull -- Pelor [color=red];
+  //Nerull -- Pelor [color=none];
   //Nerull -- Sardior [color=none];
   Nerull -- Sehanine [color=blue];
   //Nerull -- Tiamat [color=none];
@@ -146,12 +164,12 @@ graph {
   //Pelor -- Tiamat [color=none];
   Pelor -- Vecna [color=red];
 
-  //Sardior -- Sehanine [color=none];
+  Sardior -- Sehanine [color=blue];
   //Sardior -- Tiamat [color=none];
-  //Sardior -- Vecna [color=none];
+  Sardior -- Vecna [color=blue];
 
-  //Sehanine -- Tiamat [color=none];
-  //Sehanine -- Vecna [color=none];
+  Sehanine -- Tiamat [color=red];
+  Sehanine -- Vecna [color=red];
 
   //Tiamat -- Vecna [color=none];
 }

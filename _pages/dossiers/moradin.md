@@ -12,6 +12,20 @@ statbox:
   domains:
   - Light
   - War
+  portfolio:
+  - Creation
+  - Family
+  - Community
+  allies:
+  - Avandra
+  - Bahamut
+  - Corellon
+  - Erathis
+  - Pelor
+  - Sehanine
+  enemies:
+  - Gruumsh
+  - Hyperion
 ---
 
 ## Precepts

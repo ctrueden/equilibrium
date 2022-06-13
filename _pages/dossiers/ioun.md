@@ -11,11 +11,15 @@ statbox:
   - Knowledge
   portfolio:
   - Knowledge
-  - Prophecy and fate
+  - Prophecy
   - Skill
+  - Study
+  - The mind
   allies:
   - Avandra
+  - Corellon
   - Erathis
+  - Pelor
   enemies:
   - Vecna
 ---

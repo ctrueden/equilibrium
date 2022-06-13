@@ -15,6 +15,8 @@ statbox:
   - Wealth
   - Greed
   - Vengeance
+  allies:
+  - Io
   enemies:
   - Bahamut
 ---

@@ -15,7 +15,10 @@ statbox:
   - Erathis
   - Gruumsh
   enemies:
+  - Avandra
+  - Melora
   - Nerull
+  - Sehanine
 ---
 
 Wannabe deity.

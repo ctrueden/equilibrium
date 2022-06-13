@@ -16,8 +16,12 @@ statbox:
   - Athletics
   - Sports
   - Brawling
+  - Battle
   allies:
+  - Corellon
   - Gruumsh
+  - Hyperion
+  - Sehanine
 ---
 
 "The strong and fit should lead the weaker. Bravery is the greatest quality in any ruler. Scorn cowardice."

@@ -10,11 +10,13 @@ statbox:
   domains:
   - Knowledge
   allies:
-  - Avandra
   - Asmodeus
+  - Avandra
+  - Ioun
+  - Moradin
   - Pelor
   enemies:
-  - TODO
+  - Melora
 ---
 
 ## Precepts

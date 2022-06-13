@@ -16,6 +16,10 @@ statbox:
   - Peace
   aliases:
   - Asgorath
+  allies:
+  - Bahamut
+  - Sardior
+  - Tiamat
 ---
 
 The greater deity and primordial of all dragonkind as well as balance and

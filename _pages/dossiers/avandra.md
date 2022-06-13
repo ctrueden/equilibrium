@@ -21,7 +21,12 @@ statbox:
   - Olidammara
   allies:
   - Brandobaris
+  - Corellon
   - Erathis
+  - Ioun
+  - Melora
+  - Moradin
+  - Sehanine
   enemies:
   - Asmodeus
 ---

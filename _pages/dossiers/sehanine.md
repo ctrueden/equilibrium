@@ -20,7 +20,10 @@ statbox:
   allies:
   - Avandra
   - Corellon
+  - Kord
   - Melora
+  - Moradin
+  - Nerull
   enemies:
   - Asmodeus
   - Bahamut

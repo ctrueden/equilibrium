@@ -15,7 +15,11 @@ statbox:
   - Hope
   - Justice
   - Protection
+  allies:
+  - Io
+  - Moradin
   enemies:
+  - Sehanine
   - Tiamat
 ---
 

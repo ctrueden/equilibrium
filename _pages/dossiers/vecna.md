@@ -15,11 +15,13 @@ statbox:
   - Undead
   - Necromancy
   allies:
-  - TODO
+  - Sardior
   enemies:
+  - Corellon
   - Ioun
   - Nerull
   - Pelor
+  - Sehanine
 
 ---
 

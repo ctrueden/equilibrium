@@ -13,8 +13,8 @@ statbox:
   - Light
   portfolio:
   - Spring
-  - The arts
-  - Arcane magic
+  - Art
+  - Magic
   - Beauty
   - Elves and other feyfolk
   - The forest
@@ -22,9 +22,17 @@ statbox:
   - Corellon Larethian
   - Boccob
   allies:
+  - Avandra
+  - Ioun
+  - Kord
+  - Melora
+  - Moradin
+  - Nerull
+  - Pelor
   - Sehanine
   enemies:
   - Gruumsh
+  - Vecna
 ---
 
 
