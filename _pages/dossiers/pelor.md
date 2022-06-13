@@ -18,6 +18,8 @@ statbox:
   - Agriculture
   - Time
   - Summer
+  aliases:
+  - Amaunator
   allies:
   - Erathis
   enemies:
