@@ -9,3 +9,7 @@ the cacophony of hawking vendors, barking dogs, bleating sheep, and the cries
 of street urchins. When mimicking voices, they can only repeat words and
 phrases they have heard, not create new sentences. To converse with a kenku is
 to witness a performance of imitated sounds and almost nonsensical verse.
+
+### List of kenku
+
+{% include charlist race="kenku" %}

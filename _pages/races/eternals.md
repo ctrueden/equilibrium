@@ -30,3 +30,7 @@ The eternals, commonly worshipped as deities, are the beings that built the mode
 <a href="../assets/images/eternals.svg"><img src="../assets/images/eternals.svg" style="max-width: 100%; max-height: 500px"></a>
 <figcaption style="text-align: center">Alliances and rivalries</figcaption>
 </figure></center>
+
+### List of eternals
+
+{% include charlist race="eternal" %}

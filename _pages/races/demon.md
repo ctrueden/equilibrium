@@ -4,6 +4,6 @@ title: Demons
 
 They emerge from [the Flux](../locales/flux) sometimes.
 
-## Balor
+### List of demons
 
-See [Priscilla Stormcloud](../dossiers/priscilla-stormcloud).
+{% include charlist race="demon" %}

@@ -1,0 +1,26 @@
+{%- comment -%}
+Lists characters of a particular race.
+{%- endcomment -%}
+
+{%- assign race = include.race -%}
+<ul>
+{%- for p in site.pages -%}
+  {%- if p.statbox.race.first -%}
+    {%- comment -%} Value is a list; use it as is. {%- endcomment -%}
+    {%- assign races = p.statbox.race -%}
+  {%- else -%}
+    {%- comment -%} Value is a scalar; convert to a single-element list. {%- endcomment -%}
+    {%- assign races = p.statbox.race | split: "SIR-NOT-APPEARING-IN-THIS-FILM" -%}
+  {%- endif -%}
+  {%- for r in races -%}
+    {%- assign subrace-prefix = race | append: " (" -%}
+    {%- if r == race or r contains subrace-prefix -%}
+      <li><a href="{{site.baseurl}}{{p.url}}">{{p.title}}</a></li>
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+</ul>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}
