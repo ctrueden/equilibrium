@@ -1,5 +1,7 @@
 ---
 title: Kenku
+image: https://static.wikia.nocookie.net/forgottenrealms/images/7/73/Kenku_by_Dave_Allsop.jpg
+image-source: https://forgottenrealms.fandom.com/wiki/Kenku
 ---
 
 The kenku are a humanoid race reminiscent of magpies. They can mimic the sound

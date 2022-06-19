@@ -1,6 +1,8 @@
 ---
 nav-title: Yikarians
 title: Yikarians (Yak-folk)
+image: https://static.wikia.nocookie.net/forgottenrealms/images/e/ef/Yikaria.jpg
+image-source: https://forgottenrealms.fandom.com/wiki/Yak_folk
 ---
 
 [Yak-folk](https://forgottenrealms.wikia.com/wiki/Yak_folk)

@@ -1,5 +1,7 @@
 ---
 title: Eternals
+image: https://static.wikia.nocookie.net/forgottenrealms/images/f/f2/Mulhorandi_pantheon_I.jpg
+image-source: https://forgottenrealms.fandom.com/wiki/Deity
 ---
 
 The eternals, commonly worshipped as deities, are the beings that built the modern world. Many continue to participate in its growth and development. Some are newcomers seeking to claim a place amongst the divinity.

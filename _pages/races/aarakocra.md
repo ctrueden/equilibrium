@@ -1,4 +1,7 @@
 ---
+title: Aarakocra
+image: https://static.wikia.nocookie.net/forgottenrealms/images/2/27/Monster_Manual_5e_-_Aarakocra_-_Christopher_burdett_-_p12.jpg
+image-source: https://forgottenrealms.fandom.com/wiki/Aarakocra
 ---
 
 TODO
