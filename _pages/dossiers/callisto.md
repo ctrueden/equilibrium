@@ -5,28 +5,28 @@ statbox:
   gender: male
   class: [barbarian, rogue]
 magic-items:
+  - name: Arkenstab (+2 Sun Blade)
+    source: "Hyperion; Zanqaa the Devoted - Boon of Arms: Light"
+    value: 16000 (sun blade is 12000, staff of fire is 16000)
+    rarity: artifact (unique)
+    link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Sun_Blade
+  - name: Ring of the Ram
+    source: "Zanqaa the Devoted - Boon of Prowess: Assault"
+    value: 5000
+    rarity: rare (major)
+    page: 193
+    link: https://www.5esrd.com/gamemastering/magic-items/magic-rings/#Ring_of_the_Ram
+  - name: Shirt of Terran Power (12 base AC)
+    source: "Zanqaa the Devoted - Boon of Aegis: Defense"
+    value: 2000
+    rarity: legendary (unique)
+    page: 182
+    link: TODO
   - name: Whip of Rescue
     source: "Case 11: Hardships and Homecomings"
     value: 20000
     rarity: legendary (unique)
     page: N/A
-  - name: Arkenstab (+2 Sun Blade)
-    source: Hyperion
-    value: 16000 (sun blade is 12000, staff of fire is 16000)
-    rarity: artifact (unique)
-    link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Sun_Blade
-  - name: Shirt of Terran Power (12 base AC)
-    source: "Zanqaa the Devoted - Boon of TODO: TODO"
-    value: 2000
-    rarity: legendary (unique)
-    page: 182
-    link: TODO
-  - name: Ring of the Ram
-    source: "Zanqaa the Devoted - Boon of TODO: TODO"
-    value: 5000
-    rarity: rare (major)
-    page: 193
-    link: https://www.5esrd.com/gamemastering/magic-items/magic-rings/#Ring_of_the_Ram
 ---
 
 A stout halfling outlander with “nowhere else to go” who seems uncomfortable in the city. Hates undead even more than most.
