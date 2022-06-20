@@ -15,15 +15,32 @@ eight nations hanging in the balance.
 **Setting.** I decided not to set in an existing D&D campaign world (Forgotten
 Realms, Greyhawk, etc.), but have reused many aspects of them for pragmatic
 reasons. The political landscape is rather important to the culture that has
-enabled a dedicated supernatural crime-solving organization to exist. See below
-for further details on the setting.
+enabled a dedicated supernatural crime-solving organization to exist.
+See [below](#setting) for further details on the setting.
 
 **Rules.** We'll use the shiny new D&D 5E rules.
 * Check the D&D5E Player's Handbook for details.
 * You can also find the basic rules [online for free](https://dnd.wizards.com/what-is-dnd/basic-rules).
 * And a larger subset of the core rules are also online at https://www.5esrd.com/.
 
-**Characters.** See SPI dossiers and Characters table.
+**Characters.** The player characters are:
+
+| Character | Race | Class(es) | Alignment |
+|-----------|------|-----------|-----------|
+{% assign chars = "bec|cal|callie|freki|oz|vondal" | split: "|" -%}
+{%- for p in site.pages -%}
+{%- for char in chars -%}
+{%- assign char-url = "/dossiers/" | append: char -%}
+{%- if p.url == char-url -%}
+{%- assign char-race = p.statbox.race | join: ", " -%}
+{%- assign char-class = p.statbox.class | join: ", " -%}
+| [{{p.title}}]({{site.baseurl}}{{p.url}}) | {{char-race}} | {{char-class}} | {{p.statbox.alignment}} |
+{% comment -%} {%- endcomment -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endfor %}
+
+For all characters in the story including NPCs, see the [Dossiers](dossiers).
 
 Main points of character creation:
 * Try to hail from a unique territory and/or race. This helps diversity and world-building.
