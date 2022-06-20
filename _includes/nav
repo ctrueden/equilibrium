@@ -1,11 +1,11 @@
 <div id="nav">
-<ul>
-<li><a href="{{site.baseurl}}/">Summary</a></li>
-<li><a href="{{site.baseurl}}/events">Events</a></li>
-<li><a href="{{site.baseurl}}/dossiers">Dossiers</a></li>
-<li><a href="{{site.baseurl}}/locales">Locales</a></li>
-<li><a href="{{site.baseurl}}/orgs">Organizations</a></li>
-<li><a href="{{site.baseurl}}/races">Races</a></li>
-<li><a href="{{site.baseurl}}/reliquaries">Reliquaries</a></li>
-</ul>
-</div>
+      <ul>
+        <li><a href="{{site.baseurl}}/">Summary</a></li>
+        <li><a href="{{site.baseurl}}/events">Events</a></li>
+        <li><a href="{{site.baseurl}}/dossiers">Dossiers</a></li>
+        <li><a href="{{site.baseurl}}/locales">Locales</a></li>
+        <li><a href="{{site.baseurl}}/orgs">Organizations</a></li>
+        <li><a href="{{site.baseurl}}/races">Races</a></li>
+        <li><a href="{{site.baseurl}}/reliquaries">Reliquaries</a></li>
+      </ul>
+    </div>
