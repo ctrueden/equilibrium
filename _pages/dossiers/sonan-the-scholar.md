@@ -12,6 +12,6 @@ statbox:
 Former Master of Water at the
 [Progression of Symmetry](../orgs/progression-of-symmetry). Now deceased.
 He died saving the lives of
-[Vondal of the South Fireforges](vondal-of-the-south-fireforges),
+[Vondal of the South Fireforges](vondal),
 [Kara Halfdandottir, the Master of Fire](kara-halfdandottir),
 and her daughter Mishaal.

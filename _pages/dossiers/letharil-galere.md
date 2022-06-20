@@ -7,4 +7,4 @@ statbox:
   case: ["11", "12"]
 ---
 
-Father of [Bec Galere](bec-galere).
+Father of [Bec Galere](bec).

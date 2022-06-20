@@ -9,7 +9,7 @@ statbox:
   case: "11"
 ---
 
-[Callie](calumnystra-rockwell)'s father, and husband of
+[Callie](callie)'s father, and husband of
 [Lini](linistreya-rockwell). Easygoing, friendly, creative, eccentric, playful,
 a bit rash. He loves Callie very much and spoils her. Hard for him to say no.
 He is an alchemist by training.

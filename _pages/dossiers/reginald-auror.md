@@ -15,7 +15,7 @@ statbox:
 
 A "security specialist" contractor who worked alone, now deceased. He had been
 hired by the Rockwell family to secure their home after
-[Callie](calumnystra-rockwell) dumped the
+[Callie](callie) dumped the
 [Cornucopia of Life](../reliquaries/cornucopia) into their foyer.
 
 Reginald had dark, beady eyes and a shaved head. He was quite concerned about

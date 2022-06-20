@@ -11,22 +11,22 @@ for some additional notes and details.
 
 ### PC agents
 
-* [Bec Galere](../dossiers/bec-galere)
-* [Callisto](../dossiers/callisto)
-* [Calumnystra Rockwell](../dossiers/calumnystra-rockwell)
-* [Freki Sarin](../dossiers/freki-sarin)
-* [Ozborn Underfoot](../dossiers/ozborn-underfoot)
-* [Vondal of the South Fireforges](../dossiers/vondal-of-the-south-fireforges)
+* [Bec Galere](../dossiers/bec)
+* [Callisto](../dossiers/cal)
+* [Calumnystra Rockwell](../dossiers/callie)
+* [Freki Sarin](../dossiers/freki)
+* [Ozborn Underfoot](../dossiers/oz)
+* [Vondal of the South Fireforges](../dossiers/vondal)
 
 ### Former agents
 
-* [Sima Cordelia](../dossiers/sima-cordelia)
-* [Tybalt Nightbreeze](../dossiers/tybalt-nightbreeze)
-* [Ghensh Faass](../dossiers/ghensh-faass){:style="opacity:0.1"}
+* [Sima Cordelia](../dossiers/sima)
+* [Tybalt Nightbreeze](../dossiers/tybalt)
+* [Ghensh Faass](../dossiers/ghensh){:style="opacity:0.1"}
 
 ### Management
 
-* [Rufus Mallory](../dossiers/rufus-mallory)
+* [Rufus Mallory](../dossiers/mallory)
 * [Cassandra](../dossiers/cassandra)
 
 ### NPC agents

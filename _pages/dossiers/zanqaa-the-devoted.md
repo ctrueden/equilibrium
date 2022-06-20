@@ -7,5 +7,5 @@ statbox:
 ---
 
 Formerly sworn to [Solomon](solomon)'s service.
-Now willingly hangs around with [Vondal](vondal-of-the-south-fireforges)'s
+Now willingly hangs around with [Vondal](vondal)'s
 [SPI](../orgs/spi) team.
