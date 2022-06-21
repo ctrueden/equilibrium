@@ -16,4 +16,9 @@ cases: [01, 02, 05, 10, 12]
 
 R. Martine Andrews, Dominic Tremere's former butler and iron woman.
 
-Discovered by Dominic Tremere on an archeological dig decades ago, Andrews was Tremere’s personal assistant and butler until recently. But she has now abandoned her role in favor of hunting down [Isis Ra’ksh](../dossiers/isis-raksh), who she believes possesses the Necronomicon, a mystical book of great destructive power.
+Discovered by [Dominic Tremere](../dossiers/dominic-tremere) on an
+archeological dig decades ago, Andrews was Tremere's personal assistant and
+butler until recently. But she has now abandoned her role in favor of hunting
+down [Isis Ra'ksh](../dossiers/isis-raksh), who she believes possesses the
+[Necronomicon](../reliquaries/necronomicon), a mystical book of great
+destructive power.
