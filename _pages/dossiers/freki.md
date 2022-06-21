@@ -1,11 +1,11 @@
 ---
 title: Freki Sarin
-image: https://i.imgur.com/psSqYk0.jpg
-image-source: https://www.nonfictiongaming.com/2021/01/14/not-all-who-wander-are-lost-a-rangers-guide/
+image: https://static.wikia.nocookie.net/evenfall/images/7/76/Shifter_%282%29.jpg
+image-source: https://evenfall.fandom.com/wiki/Shifter
 image-beast: https://i.pinimg.com/originals/84/84/29/848429b7e078c252073beb4511d79b8d.png
 image-beast-source: https://www.pinterest.com/pin/645562927835781072/
-image-shifter: https://static.wikia.nocookie.net/evenfall/images/7/76/Shifter_%282%29.jpg
-image-shifter-source: https://evenfall.fandom.com/wiki/Shifter
+image-broken: https://i.imgur.com/psSqYk0.jpg
+image-broken-source: https://www.nonfictiongaming.com/2021/01/14/not-all-who-wander-are-lost-a-rangers-guide/
 statbox:
   race: [elf (wood), lycan]
   gender: male
@@ -50,11 +50,6 @@ magic-items:
     link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Bracers_of_Archery
 ---
 
-A bounty hunter who venerates nature and despises magic. He prowls the selva & the jungle, seeking prey.
-
-- Seeker's Compass
-- https://www.dandwiki.com/wiki/Seeker%27s_Compass_(5e_Equipment)
-
-Freki is a werewolf bounty hunter, who venerates nature. He prowls the [Selva](../locales/selva), seeking prey.
+Freki is a bounty hunter who venerates nature and despises magic. He prowls the [Selva](../locales/selva), seeking prey.
 
 ***Animal instinct (Survival).*** You smell emotions, even as they fade, and can even track people by the "emotional trail" they leave.
