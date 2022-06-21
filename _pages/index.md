@@ -18,12 +18,21 @@ reasons. The political landscape is rather important to the culture that has
 enabled a dedicated supernatural crime-solving organization to exist.
 See [below](#setting) for further details on the setting.
 
-**Rules.** We'll use the shiny new D&D 5E rules.
+**Rules.** We'll use the shiny new (as of 2014 😜) D&D 5E rules.
 * Check the D&D5E Player's Handbook for details.
 * You can also find the basic rules [online for free](https://dnd.wizards.com/what-is-dnd/basic-rules).
-* And a larger subset of the core rules are also online at https://www.5esrd.com/.
+* And a larger subset of the core rules are also online at [5esrd.com](https://www.5esrd.com/).
 
-**Characters.** The player characters are:
+**Characters.** Main points of character creation:
+* Try to hail from a unique territory and/or race. This helps diversity and world-building.
+* Have a reason in mind for why you are part of (or being recruited for) the SPI.
+* Have an unsolved mystery in your backstory.
+* SPI agents are currently 8th level. Anything in the 5E Player's Handbook or
+  [Xanathar's Guide to
+  Everything](https://www.amazon.com/Xanathars-Guide-Everything-Wizards-Team/dp/0786966114)
+  is fair game.
+
+The current player characters are:
 
 | Character | Race | Class(es) | Alignment |
 |-----------|------|-----------|-----------|
@@ -40,16 +49,9 @@ See [below](#setting) for further details on the setting.
 {%- endfor -%}
 {%- endfor %}
 
-For all characters in the story including NPCs, see the [Dossiers](dossiers).
+For sweet sweet loot, see [Gear](gear).
 
-Main points of character creation:
-* Try to hail from a unique territory and/or race. This helps diversity and world-building.
-* Have a reason in mind for why you are part of (or being recruited for) the SPI.
-* Have an unsolved mystery in your backstory.
-* SPI agents are currently 8th level. Anything in the 5E Player's Handbook or
-  [Xanathar's Guide to
-  Everything](https://www.amazon.com/Xanathars-Guide-Everything-Wizards-Team/dp/0786966114)
-  is fair game.
+For all characters in the story including NPCs, see the [Dossiers](dossiers).
 
 ## Setting
 
