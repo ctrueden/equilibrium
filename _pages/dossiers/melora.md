@@ -2,7 +2,7 @@
 nav-title: Melora
 image: https://static.wikia.nocookie.net/dnd4/images/e/e5/Melora.jpg
 image-source: https://dnd4.fandom.com/wiki/Melora
-title: Melora, Goddess of the Sea
+title: Melora, Goddess of the Sea and the Wilds
 statbox:
   race: eternal
   gender: female
@@ -13,6 +13,8 @@ statbox:
   portfolio:
   - Wilderness
   - The Sea
+  aliases:
+  - Ehlonna
   allies:
   - Avandra
   - Corellon
