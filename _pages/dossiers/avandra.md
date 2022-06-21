@@ -31,6 +31,4 @@ statbox:
   - Asmodeus
 ---
 
-[Avandra](https://en.wikipedia.org/wiki/Avandra)
-
-https://dnd4.fandom.com/wiki/Avandra
+[Avandra](https://dnd4.fandom.com/wiki/Avandra)

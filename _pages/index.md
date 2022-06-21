@@ -78,7 +78,7 @@ exception.
   A volcano and surrounding lands where [dwarves](races/dwarves) dwell.
 * \[NE\] [The Radiant Union of Pelor (RUP)](locales/rup) -
   Inhospitable desert lands in the northeast governed by a benevolent
-  [paladin](https://en.wikipedia.org/wiki/Paladin_%28Dungeons_%26_Dragons%29)
+  [paladin](https://dungeonsdragons.fandom.com/wiki/Paladin)
   order known as the Luminous Defenders.
 * \[W\] [Cognitutus](locales/cognitutus) -
   A great [gnomish](races/gnomes) city, which disappeared during the

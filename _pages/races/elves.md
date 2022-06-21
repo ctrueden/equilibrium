@@ -4,7 +4,7 @@ image: https://static.wikia.nocookie.net/forgottenrealms/images/6/6f/Elves_-_Wil
 image-source: https://forgottenrealms.fandom.com/wiki/Elf
 ---
 
-[elven people](https://en.wikipedia.org/wiki/Elf_(Dungeons_%26_Dragons))
+[elven people](https://dungeonsdragons.fandom.com/wiki/Elf)
 
 ### List of elves
 

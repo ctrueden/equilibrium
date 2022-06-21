@@ -4,7 +4,7 @@ image: https://static.wikia.nocookie.net/forgottenrealms/images/4/43/4e_dwarves.
 image-source: https://forgottenrealms.fandom.com/wiki/Dwarf
 ---
 
-[Dwarves](https://en.wikipedia.org/wiki/Dwarf_(Dungeons_%26_Dragons))
+[Dwarves](https://dungeonsdragons.fandom.com/wiki/Dwarf)
 
 ### List of dwarves
 
