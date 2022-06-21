@@ -170,7 +170,9 @@ The first of the month is always a Starday, and the rest follow as shown below:
 * Freeday is always on the 7th, 14th, 21st, and 28th of the month.
 
 The festivals use the same day names as regular months for the first 7 days,
-with the 8th and final day of each festival called Festday.
+with the 8th and final day of each festival known as Festday, as well as
+given a season-specific name: Winterday, Greenday, Moonpeak, and Feastday
+for Needfest, Growfest, Richfest, and Brewfest respectively.
 
 GM's note: the Ignan calendar was adapted from the
 [Greyhawk calendar](https://calendars.fandom.com/wiki/Greyhawk_Calendar).
