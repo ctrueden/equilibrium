@@ -1,5 +1,7 @@
 ---
 title: Princess Chrandria
+image: https://i.pinimg.com/originals/ce/b2/d6/ceb2d6f6cd63e06c218a0e5e706673f9.jpg
+image-source: https://www.pinterest.com/pin/2322237297630669/
 statbox:
   race: merfolk
   gender: female
