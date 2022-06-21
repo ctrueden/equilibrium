@@ -11,7 +11,7 @@ statbox:
 
 An acolyte of the [Progression of Symmetry](../orgs/progression-of-symmetry)
 who manipulated people into jumping from the Zenithal Summit for reasons not
-wholly understood. The [SPI](../orgs/spi) now believes that Ra’faj used a
+wholly understood. The [SPI](../orgs/spi) now believes that Ra'faj used a
 magical artifact called the
 [Lamp of Seeming](../reliquaries/lamp-of-seeming)&mdash;now in the SPI's
 possession&mdash;to somehow manipulate people into jumping from the Summit.

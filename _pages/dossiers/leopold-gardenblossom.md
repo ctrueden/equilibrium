@@ -15,6 +15,6 @@ statbox:
   profession: professor of the arcane arts
 ---
 
-From [Case 03](../events/case-03), a gnomish professor of magical theory. He’s the one who made [Gurin Aldrimor](gurin-aldrimor)'s life clock. 
+From [Case 03](../events/case-03), a gnomish professor of magical theory. He's the one who made [Gurin Aldrimor](gurin-aldrimor)'s life clock. 
 
 Now a member of [MAD](../orgs/mad) for some reason.

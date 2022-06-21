@@ -12,5 +12,5 @@ and writing its name in the book curses them to die.
 Once locked in the treasure vault of
 [Dominic Tremere](../dossiers/dominic-tremere), then arranged to be stolen by
 the medusa [Pulchritudinous Euryale](../dossiers/pulchritudinous-euryale),
-given to the ex-druid [Isis Ra’ksh](../dossiers/isis-raksh) in exchange for
+given to the ex-druid [Isis Ra'ksh](../dossiers/isis-raksh) in exchange for
 a potion to restore her humanity.

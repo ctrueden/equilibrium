@@ -28,7 +28,7 @@ magic-items:
     page: N/A
 ---
 
-A stout halfling outlander with “nowhere else to go” who seems uncomfortable in the city. Hates undead even more than most.
+A stout halfling outlander with "nowhere else to go" who seems uncomfortable in the city. Hates undead even more than most.
 
 ***Healthy skepticism (Perception).*** You notice something subtly out of place, which everyone else is taking for granted.
 

@@ -22,7 +22,7 @@ statbox:
   - "[Sardior](../dossiers/sardior) (LN; Knowledge, Trickery): deity of night, psionics and secrets."
 ---
 
-At the northern edge of the world stand the Cliffs of Transcendence, a mountain range beyond which there is nothing but an open expanse of sky. Masses of earth dot the skies beyond that, though; the largest of these “sky islands” is Aether, the Azure City. South of the cliffs lies the Ventosa Flatland, a windy steppe, home to the two largest cities of Zephyr: Dono and Prendo.
+At the northern edge of the world stand the Cliffs of Transcendence, a mountain range beyond which there is nothing but an open expanse of sky. Masses of earth dot the skies beyond that, though; the largest of these "sky islands" is Aether, the Azure City. South of the cliffs lies the Ventosa Flatland, a windy steppe, home to the two largest cities of Zephyr: Dono and Prendo.
 
 * **Population:** The most numerous citizens of this land are the [dragonborn](../races/dragonborn), a race of dragon humanoids. Dragons dwell here too as a ruling class, but are nonetheless incredibly rare, numbering in the hundreds at most.
 * Government: [Confederacy](https://en.wikipedia.org/wiki/Confederation). Fifteen city-states, each governed by a [great wyrm](../races/dragons).
@@ -54,7 +54,7 @@ Zephyr is a martial society, divided into 16 clans, which are often in conflict 
   * Sapphire (panicking sound) - militaristic and territorial
   * Topaz (dehydration cone) - isolationist and xenophobic
   * Amethyst (force line) - detached and arrogant
-* Motley - those who cannot fit into one of the “pure” clans.
+* Motley - those who cannot fit into one of the "pure" clans.
 
 There are also rarer dragon types, which do not have dedicated clans:
 

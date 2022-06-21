@@ -33,5 +33,5 @@ statbox:
 ## Precepts
 
 * Alleviate suffering wherever you find it.
-* Bring Pelor’s light into places of darkness, showing kindness, mercy, and compassion.
+* Bring Pelor's light into places of darkness, showing kindness, mercy, and compassion.
 * Be watchful against evil.

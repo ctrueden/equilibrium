@@ -14,4 +14,4 @@ statbox:
 Master of Earth at the Progression of Symmetry.
 
 Case 09:
-* He was present during “the Incident,” and left with Mallory to get help.
+* He was present during "the Incident," and left with Mallory to get help.

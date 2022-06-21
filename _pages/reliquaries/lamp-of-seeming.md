@@ -8,4 +8,4 @@ Name as indicated in [Ra'faj](../dossiers/rafaj)'s diary.
 Currently in the SPI's possession.
 
 Preliminary research suggests that it grants wishes
-tainted by the wielder’s heart.
+tainted by the wielder's heart.

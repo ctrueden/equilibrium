@@ -27,7 +27,7 @@ The inhospitable desert lands in the northeast are governed by a [paladin](https
 * **Population:** The RUP is perhaps 70% [human](../races/humans), 15% [halfling](../races/halflings), 10% [dwarf](../races/dwarves), and 5% other [humanoid](https://dungeonsdragons.fandom.com/wiki/Humanoid) races.
 * **Government:** [Theocracy](https://en.wikipedia.org/wiki/Theocracy). The High Defender is chosen by Pelor and speaks with his voice. Several other high-ranking members of the LD offer their counsel but the High Defender has ultimate authority as long as she can demonstrate the granted powers of the deity.
 * **Cities and culture:**
-  * Haven is the northernmost city of the RUP, home to a substantial portion of the Union’s military. It is known for its elite cavalry. It also has a sizeable population of halflings.
+  * Haven is the northernmost city of the RUP, home to a substantial portion of the Union's military. It is known for its elite cavalry. It also has a sizeable population of halflings.
   * Sanctum is the capital of the Radiant Union, and seat of the High Defender.
   * Oasis, deep in the Desert of Ruin, is the only habitable place within a hundred miles, thanks to the Cornucopia of Life: a divine artifact which infuses the city with bountiful food and water.
   * Triumph is a city bordering the Flux, which has been warded by divine magic against its instability. Mages and priests of Pelor study the Flux there in an effort to banish it from the land.

@@ -34,7 +34,7 @@ for some additional notes and details.
 * [Audreth](../dossiers/audreth)
 * [Victor Rocksmith](../dossiers/victor-rocksmith)
 * [Lawrence Feathersworth](../dossiers/lawrence-feathersworth)
-* [Hengelimsh “Squeaks” McKraken](../dossiers/squeaks-mckraken)
+* [Hengelimsh "Squeaks" McKraken](../dossiers/squeaks-mckraken)
 
 ### Allies and informants
 

@@ -10,7 +10,7 @@ statbox:
   profession: SPI admin
 ---
 
-Mallory’s administrative assistant with a dry sense of humor. Seems to be a divine caster of some sort, as well as a crafter of magical items.
+Mallory's administrative assistant with a dry sense of humor. Seems to be a divine caster of some sort, as well as a crafter of magical items.
 
 * Human female SPI assistant to the chief
 * Shoulder length brown hair

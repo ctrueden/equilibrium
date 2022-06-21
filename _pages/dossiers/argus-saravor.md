@@ -7,5 +7,5 @@ statbox:
 ---
 
 * Monster trainer and handler.
-* Works in [Darkshield](rowena-darkshield)’s arena.
+* Works in [Darkshield](rowena-darkshield)'s arena.
 * His monster is Panoptes, a basilisk

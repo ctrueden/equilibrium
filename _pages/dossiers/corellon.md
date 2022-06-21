@@ -40,6 +40,6 @@ https://dnd4.fandom.com/wiki/Corellon
 
 ## Precepts
 
-* Cultivate beauty in all that you do, whether you’re casting a spell, composing a saga, strumming a lute, or practicing the arts of war.
+* Cultivate beauty in all that you do, whether you're casting a spell, composing a saga, strumming a lute, or practicing the arts of war.
 * Seek out lost magic items, forgotten rituals, and ancient works of art.
 * At every opportunity, thwart those who would pervert or destroy natural beauty.

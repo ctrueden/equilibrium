@@ -45,4 +45,4 @@ A bounty hunter who venerates nature and despises magic. He prowls the selva & t
 
 Freki is a werewolf bounty hunter, who venerates nature. He prowls the [Selva](../locales/selva), seeking prey.
 
-***Animal instinct (Survival).*** You smell emotions, even as they fade, and can even track people by the “emotional trail” they leave.
+***Animal instinct (Survival).*** You smell emotions, even as they fade, and can even track people by the "emotional trail" they leave.
