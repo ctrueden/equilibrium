@@ -7,6 +7,7 @@ statbox:
   gender: female
   profession: dealer in information
   case: "02"
+  pronunciation: "yer-AYE-uh-lee"
 ---
 
 Euryale was a "dealer in information"&mdash;i.e., a blackmailer&mdash;who posed
