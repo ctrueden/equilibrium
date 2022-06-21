@@ -93,7 +93,7 @@ colloquially. The following calendars are still in use in certain regions.
 
 ### Aquan
 
-The Auran year is divided into 13 months of 28 days each,
+The Aquan year is divided into 13 months of 28 days each,
 with an additional festival day for each of the four seasons.
 
 | ## | Month     | Season           | Symbol      | Notes                           |
@@ -111,10 +111,10 @@ with an additional festival day for each of the four seasons.
 | 00 | Rhaan     | Late summer      | Scribing    | Autumn equinox on Rhaan 19      |
 |  - | Autumnday |                  |             | Festival day celebrating autumn |
 | 00 | Sypheros  | Early autumn     | Shadow      |                                 |
-| 00 | Aryth     | Mid-autumn       | Passage     | Full moon on Aryth 23           |
+| 00 | Aryth     | Mid autumn       | Passage     | Full moon on Aryth 23           |
 | 00 | Vult      | Late autumn      | Warding     | Winter solstice on Vult 26      |
-|  - | Winterday | Early winter     |             | Festival day celebrating winter |
-| 00 | Xendrik   | Mid winter       | Death       | Waning half moon on Xendrik 27  |
+|  - | Winterday |                  |             | Festival day celebrating winter |
+| 00 | Xendrik   | Early winter     | Death       | Waning half moon on Xendrik 27  |
 
 The first of the month is always called Sul, and the rest follow as shown below:
 
