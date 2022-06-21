@@ -24,7 +24,7 @@ title: Gear
   <th>Owner</th>
   <th>Rarity</th>
   <th>Value</th>
-  <th>Rules</th>
+  <th>Page</th>
 </tr>
 </thead>
 <tbody>
@@ -37,7 +37,7 @@ title: Gear
   <td><a href="{{site.baseurl}}{{p.url}}">{{p.title}}</a></td>
   <td>{{m.rarity}}</td>
   <td>{{m.value}}</td>
-  <td>DMG {{m.page}}</td>
+  <td>{{m.page}}</td>
 </tr>
 {% endfor -%}
 {%- endfor -%}

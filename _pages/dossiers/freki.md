@@ -12,6 +12,12 @@ statbox:
   class: ranger (lycan)
   profession: bounty hunter
 magic-items:
+  - name: Quiver of Ehlonna
+    source: family heirloom
+    value: 1000
+    page: 189
+    rarity: uncommon (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Efficient_Quiver
   - name: Cloak of Elvenkind
     source: "Zanqaa the Devoted - Boon of Aegis: Stealth"
     value: 5000
@@ -30,12 +36,18 @@ magic-items:
     page: 191
     rarity: uncommon (major)
     link: https://www.5esrd.com/gamemastering/magic-items/magic-rings/#Ring_of_Mind_Shielding
-  - name: Quiver of Ehlonna
-    source: ???
-    value: 1000
-    page: 189
+  - name: Glamoured Studded Leather
+    source: Estanesse palace treasury
+    value: 2000
+    page: 172
+    rarity: rare (major)
+    link: https://roll20.net/compendium/dnd5e/Glamoured%20Studded%20Leather#content
+  - name: Bracers of Archery
+    source: Estanesse palace treasury
+    value: 1500
+    page: 156
     rarity: uncommon (major)
-    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Efficient_Quiver
+    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Bracers_of_Archery
 ---
 
 A bounty hunter who venerates nature and despises magic. He prowls the selva & the jungle, seeking prey.

@@ -5,6 +5,11 @@ statbox:
   gender: male
   class: sorcerer (wild mage)
 magic-items:
+  - name: Sending Stone
+    source: SPI
+    rarity: uncommon (minor)
+    value: 500
+    page: N/A
   - name: Ring of Spell Storing
     source: "Zanqaa the Devoted - Boon of Prowess: Magic"
     value: 24000
@@ -21,6 +26,7 @@ magic-items:
     source: "Zanqaa the Devoted - Boon of Arms: Wild"
     value: 4800+???
     rarity: rare (major)
+    page: ???
     link: https://www.5esrd.com/gamemastering/magic-items/rods-staves-wands#Wand_of_Wonder
 ---
 

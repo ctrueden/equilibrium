@@ -9,6 +9,7 @@ magic-items:
     source: "Hyperion; Zanqaa the Devoted - Boon of Arms: Light"
     value: 16000 (sun blade is 12000, staff of fire is 16000)
     rarity: artifact (unique)
+    page: 205
     link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Sun_Blade
   - name: Ring of the Ram
     source: "Zanqaa the Devoted - Boon of Prowess: Assault"

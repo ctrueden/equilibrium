@@ -24,6 +24,12 @@ magic-items:
     page: 179
     rarity: rare (major)
     link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Mace_of_Disruption
+  - name: Boots of Elvenkind
+    source: Estanesse palace treasury
+    value: 2500
+    page: 155
+    rarity: uncommon (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Boots_of_Elvenkind
 ---
 
 An enchantress seeking to further her mastery of magic, and to find out what happened to her father.

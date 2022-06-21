@@ -27,7 +27,18 @@ magic-items:
     page: 209
     rarity: uncommon (major)
     link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Trident_of_Fish_Command
-
+  - name: Amulet of Health
+    source: Estanesse palace treasury
+    value: 8000
+    page: 150
+    rarity: rare (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Amulet_of_Health
+  - name: Boots of Elvenkind
+    source: Estanesse palace treasury
+    value: 2500
+    page: 155
+    rarity: uncommon (major)
+    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Boots_of_Elvenkind
 ---
 
 A well-off gnome who is "not the muscle," specializes in ancient and mystical objects, and is "sometimes clairvoyant."
