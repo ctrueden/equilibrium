@@ -9,7 +9,7 @@ do
   page=${line%%:*}
   match=${line#*:}
   # format of each match is [label](link)
-  link=${match#*\(}
+  link=${match##*\(}
   link=${link%\)}
   link=${link%#*} # strip anchors
   case "$link" in

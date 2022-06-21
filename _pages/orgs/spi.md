@@ -33,8 +33,8 @@ for some additional notes and details.
 
 * [Audreth](../dossiers/audreth)
 * [Victor Rocksmith](../dossiers/victor-rocksmith)
-* [Lawrence Feathersworth](lawrence-feathersworth)
-* [Hengelimsh “Squeaks” McKraken](squeaks-mckraken)
+* [Lawrence Feathersworth](../dossiers/lawrence-feathersworth)
+* [Hengelimsh “Squeaks” McKraken](../dossiers/squeaks-mckraken)
 
 ### Allies and informants
 
@@ -46,10 +46,10 @@ and mysterious forces.
 Still, the SPI agents are working to rebuild this network of informants, who
 include:
 
-* [Contessa Alyssa Morvain](../dossiers/contessa-alyssa-morvain)
+* [Contessa Alyssa Morvain](../dossiers/contessa-morvain)
 * [Rubinia Elka](../dossiers/rubinia-elka)
 * [Rollomorphus Rockwell](../dossiers/rollomorphus-rockwell)
-* [Linistreya Grumbletuft](../dossiers/linistreya-grumbletuft)
+* [Linistreya Rockwell](../dossiers/linistreya-rockwell)
 
 **Cognitutus Board of Regents.** The current Board consists of
 [Garl Glittergold](../dossiers/garl-glittergold),

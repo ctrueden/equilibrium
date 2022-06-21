@@ -12,6 +12,6 @@ statbox:
   case: "05"
 ---
 
-Grandmaster of Winds at the [Progression of Symmetry](../locales/progression-of-symmetry).
+Grandmaster of Winds at the [Progression of Symmetry](../orgs/progression-of-symmetry).
 
 Ou-sh- is the one who called in the [SPI](../orgs/spi) for the [Tumbling and Transcendance](../events/case-05) case.
