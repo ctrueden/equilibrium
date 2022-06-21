@@ -21,7 +21,6 @@ magic-items:
     value: 2000
     rarity: legendary (unique)
     page: 182
-    link: TODO
   - name: Whip of Rescue
     source: "Case 11: Hardships and Homecomings"
     value: 20000
