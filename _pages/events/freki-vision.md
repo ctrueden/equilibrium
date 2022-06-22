@@ -1,6 +1,7 @@
 ---
 title: "Freki's vision"
-when: during case 05
+datestamp: 50-04-07/5b
+when: during case 06
 ---
 
 Munin pecks Freki's eye. Freki has a vision:

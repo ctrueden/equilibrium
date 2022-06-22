@@ -1,0 +1,62 @@
+{%- comment -%}
+A timeline of images linked to pages in the current directory.
+
+Adapted from css-timeline-with-curves:
+https://alvarotrigo.com/blog/html-css-timelines/
+https://codepen.io/alvarotrigo/pen/BawBzjM
+{%- endcomment -%}
+
+{%- capture page-dir -%} {%- include pathdir path=page.url -%} {%- endcapture -%}
+{%- assign events = site.pages | where_exp: "p", "p.url contains '/events/'" -%}
+
+{%- comment -%}
+  We build up the list of cards as a big string, because Jekyll 3.9
+  pukes when sorting the pages array by title using where_exp:
+    jekyll/filters.rb:304:in `sort!': Liquid error: comparison
+    of Array with Array failed included (Liquid::ArgumentError)
+{%- endcomment -%}
+{%- assign cards = "" -%}
+{%- for p in events -%}
+  {%- capture p-dir -%} {%- include pathdir path=p.url -%} {%- endcapture -%}
+  {%- if p-dir != '/events' -%} {%- continue -%} {%- endif -%}
+  {%- capture p-name -%} {%- include pathname path=p.url -%} {%- endcapture -%}
+  {%- if p-name == 'index' -%} {%- continue -%} {%- endif -%}
+
+  {%- assign title = p.nav-title | default: p.title
+    | replace: " ", "&nbsp;" | replace: "-", "&#8209;" -%}
+  {%- capture card -%}
+    <span class="sortstamp">{{p.datestamp | default: p.url}}</span>
+              <details>
+                <summary>
+                  <h3 class="date">{{p.when}}</h3>
+                  <h3 class="title"><a href="{{site.baseurl}}{{p.url}}">{{p.title}}</a></h3>
+                </summary>
+                {{ p.content | markdownify -}}
+{{}}              </details>
+  {%- endcapture -%}
+  {%- unless cards == "" -%}
+    {%- assign cards = cards | append: "|" -%}
+  {%- endunless -%}
+  {%- assign cards = cards | append: card -%}
+{%- endfor -%}
+
+{%- comment -%}
+  Doing a split+sort ends up with cards sorted by URL, which is OK enough.
+{%- endcomment -%}
+{%- assign sorted-cards = cards | split: "|" | sort | reverse -%}
+
+<div class="timeline">
+        <div class="outer">
+          {%- for card in sorted-cards %}
+          <div class="card">
+            <div class="info">
+              {{card}}
+            </div>
+          </div>
+          {%- endfor -%}
+        </div>
+    </div>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

@@ -45,8 +45,8 @@ h1 {
   text-align: center;
 }
 
-ul {
-  list-style-position: inside;
+ul, ol {
+  padding-left: 1.5em;
 }
 
 #content {
@@ -112,4 +112,124 @@ table td {
 
 #gallery div img {
   height: 10em;
+}
+
+/* -- Timeline -- */
+
+/*
+ * Adapted from css-timeline-with-curves:
+ * https://alvarotrigo.com/blog/html-css-timelines/
+ * https://codepen.io/alvarotrigo/pen/BawBzjM
+ */
+
+:root {
+  --timeline-line-padding: 12px;
+  --timeline-card-margin: -47px;
+  --timeline-line-color: sandybrown;
+  --timeline-text-color: #444;
+  --timeline-background-color: #ddd;
+}
+
+/* Timeline Container */
+.timeline {
+  margin: var(--timeline-line-padding) auto;
+  padding: var(--timeline-line-padding);
+  display: flex;
+  justify-content: center;
+  font-size: small;
+}
+
+.timeline .outer {
+  left: auto;
+  right: auto;
+  width: calc(min(50em, max(80%, min(600px, 100%))));
+}
+
+/* Card container */
+.timeline .card {
+  position: relative;
+}
+
+/* setting padding */
+.timeline .card {
+  padding: 5px 0 5px 8px;
+  border-left: 10px solid var(--timeline-line-color);
+}
+
+/* Make timeline extend upward off the top. */
+.timeline .card:first-child {
+  padding-top: 200px;
+  margin-top: -200px;
+}
+
+/* Make timeline extend downward off the bottom. */
+.timeline .card:last-child {
+  padding-bottom: 30px;
+  margin-bottom: -30px;
+}
+
+.timeline .card summary h3 {
+  display: inline-block;
+  padding-right: 1em;
+}
+
+/* Information about the timeline */
+.timeline .info {
+  display: flex;
+  flex-direction: column;
+  background: var(--timeline-background-color);
+  color: var(--timeline-text-color);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+/* Title and date of the card. */
+.timeline h3 {
+  margin: 0;
+}
+
+/* Title of the card */
+.timeline .title {
+  color: var(--timeline-line-color);
+  position: relative;
+  border-bottom: 1px solid lightgray;
+}
+
+/* Timeline dot  */
+.timeline .title::before {
+  content: "";
+  position: absolute;
+  width: var(--timeline-line-padding);
+  height: var(--timeline-line-padding);
+  margin-left: var(--timeline-card-margin);
+  background: white;
+  border-radius: 999px;
+  border: 3px solid var(--timeline-line-color);
+}
+
+/* datestamp for sorting. */
+.timeline .sortstamp {
+  display: none;
+}
+
+/* floating dates to the opposite side */
+.timeline .date {
+  height: 0;
+  float: right;
+}
+
+@media screen and (max-width: 36em) {
+  .timeline h3 { font-size: 0.9em; }
+}
+@media screen and (max-width: 30em) {
+  .timeline h3 { font-size: 0.8em; }
+}
+@media screen and (max-width: 27em) {
+  .timeline h3 { font-size: 0.7em; }
+}
+@media screen and (max-width: 24em) {
+  .timeline h3 { font-size: 0.6em; }
+}
+@media screen and (max-width: 22em) {
+  .timeline h3 { font-size: 0.5em; }
 }
