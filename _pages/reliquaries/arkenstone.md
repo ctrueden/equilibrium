@@ -6,7 +6,7 @@ image-round: https://i.pinimg.com/236x/65/e5/ab/65e5ab14876b1b237099b817976e2921
 image-round-source: https://www.pinterest.com/pin/29906785017371239/
 ---
 
-A stone sacred to the [dwarven people](../races/dwarves).
+A stone sacred to the [dwarven people](../creatures/dwarves).
 
 Legend says it was forged by [Moradin](../dossiers/moradin), god of dwarves,
 and used to fuel the fire at the heart of the Great Mountain.

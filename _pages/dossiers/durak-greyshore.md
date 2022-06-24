@@ -10,4 +10,4 @@ statbox:
   case: "03"
 ---
 
-King of the [dwarves](../races/dwarves) under the [Mountain](../locales/mountain). Husband of [Brie Fireforge](brie-fireforge).
+King of the [dwarves](../creatures/dwarves) under the [Mountain](../locales/mountain). Husband of [Brie Fireforge](brie-fireforge).

@@ -63,33 +63,33 @@ increasing inhospitality of the environment.
 
 There are several countries which have enjoyed an uneasy peace for the past
 half century. One of D&D's primary conceits is that there are [many intelligent
-life forms](races), which tend to differ culturally, not always getting along.
+life forms](creatures), which tend to differ culturally, not always getting along.
 As such, territories are often divided on racial lines, and this campaign is no
 exception.
 
 * \[N\] [The Zephyr Federation](locales/zephyr) -
   A windy and increasingly mountainous region to the north, inhabited by
-  diverse [dragonborn](races/dragonborn) races. Further north,
-  [dragons](races/dragons) dwell in the endless sky.
+  diverse [dragonborn](creatures/dragonborn) races. Further north,
+  [dragons](creatures/dragons) dwell in the endless sky.
 * \[S\] [Elyria](locales/elyria) -
-  A sprawling forest in the deep south, home to [elves](races/elves) and other
+  A sprawling forest in the deep south, home to [elves](creatures/elves) and other
   sylvan races.
 * \[E\] [The Mountain and the Veldt](locales/mountain) -
-  A volcano and surrounding lands where [dwarves](races/dwarves) dwell.
+  A volcano and surrounding lands where [dwarves](creatures/dwarves) dwell.
 * \[NE\] [The Radiant Union of Pelor (RUP)](locales/rup) -
   Inhospitable desert lands in the northeast governed by a benevolent
   [paladin](https://dungeonsdragons.fandom.com/wiki/Paladin)
   order known as the Luminous Defenders.
 * \[W\] [Cognitutus](locales/cognitutus) -
-  A great [gnomish](races/gnomes) city, which disappeared during the
+  A great [gnomish](creatures/gnomes) city, which disappeared during the
   [War of Countless Dead](events/war-of-countless-dead).
 * \[SE\] [The Selva Tribes](locales/selva) -
-  [Orcish](races/orcs) tribes that vie for control of southeast rainforest
+  [Orcish](creatures/orcs) tribes that vie for control of southeast rainforest
   territory.
 * \[NW\] [The Archipelago of Trell](locales/trell) -
-  A [fiendish](races/devils) island territory off the northwestern coast.
+  A [fiendish](creatures/devils) island territory off the northwestern coast.
 * \[SW\] [Arallu](locales/arallu) -
-  A terrifying [undead](races/undead) realm to the southwest, about which
+  A terrifying [undead](creatures/undead) realm to the southwest, about which
   little is known.
 * [The Flux](locales/flux) - An uninhabitable zone bordering the nations.
 

@@ -9,7 +9,7 @@ statbox:
 ---
 
 Elder of the [Stormherd](../orgs/stormherd) tribe of
-[yak-folk](../races/yikarians), and a powerful diviner. As he approached death,
+[yak-folk](../creatures/yikarians), and a powerful diviner. As he approached death,
 he concocted a plot to create and steal a weapon made of Karach, the only
 substance known to resist the [Flux](../locales/flux). With the help of
 spiritual essence from the

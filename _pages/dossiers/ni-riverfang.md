@@ -11,4 +11,4 @@ statbox:
   case: "06"
 ---
 
-Ni is a [gnoll](../races/gnolls) witch doctor, is the sole remaining member of her clan, the [Manufeai](../orgs/manufeai). The others were all killed by the [Flux](../locales/flux).
+Ni is a [gnoll](../creatures/gnolls) witch doctor, is the sole remaining member of her clan, the [Manufeai](../orgs/manufeai). The others were all killed by the [Flux](../locales/flux).

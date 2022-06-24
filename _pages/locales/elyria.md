@@ -19,7 +19,7 @@ statbox:
   - NW: ocean
 ---
 
-In the deep south lies a sprawling forest, home to the [elven people](../races/elves) and many other sylvan races. The forest's crowning feature is the Yggdrasil, the World Tree, said to have been planted at the dawn of time by the gods themselves.
+In the deep south lies a sprawling forest, home to the [elven people](../creatures/elves) and many other sylvan races. The forest's crowning feature is the Yggdrasil, the World Tree, said to have been planted at the dawn of time by the gods themselves.
 
 * **Population:** The elves are skilled, wise, and few in number. But the great forest of Elyria is home to more than just elves: it is the realm of the [fey](https://dungeonsdragons.fandom.com/wiki/Fey). And the deeper into the woods one travels, the more strange and powerful the fey residents become.
 * **Government:** [Matriarchal](https://en.wikipedia.org/wiki/Matriarchy) [monarchy](https://en.wikipedia.org/wiki/Monarchy). The elven queen rules—and is bonded to—the Faerie Court, consisting of representatives from many sylvan races. Two factions exist within the Court, Seelie and Unseelie, and the Court's makeup sways the queen's disposition accordingly. In this way, she is a direct manifestation of the Court's will.
