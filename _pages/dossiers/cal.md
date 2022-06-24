@@ -5,6 +5,11 @@ statbox:
   gender: male
   class: [barbarian, rogue]
 magic-items:
+  - name: Net of Entanglement
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
   - name: Arkenstab (+2 Sun Blade)
     source: "Hyperion; Zanqaa the Devoted - Boon of Arms: Light"
     value: 16000 (sun blade is 12000, staff of fire is 16000)

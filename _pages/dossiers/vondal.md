@@ -5,6 +5,16 @@ statbox:
   gender: male
   class: sorcerer (wild mage)
 magic-items:
+  - name: Luckstone
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
+  - name: Portable Hole
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
   - name: Sending Stone
     source: SPI
     rarity: uncommon (minor)

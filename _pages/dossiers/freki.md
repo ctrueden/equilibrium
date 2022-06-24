@@ -12,6 +12,17 @@ statbox:
   class: ranger (lycan)
   profession: bounty hunter
 magic-items:
+  - name: Arrows of Tidal Force x3
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
+  - name: Unbreakable Arrows
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
+    notes: Mysterious unbreakable metal
   - name: Quiver of Ehlonna
     source: family heirloom
     value: 1000

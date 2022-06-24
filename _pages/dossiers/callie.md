@@ -9,6 +9,16 @@ statbox:
   gender: female
   class: cleric
 magic-items:
+  - name: Clam of Protection
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
+  - name: Underwater candles x10
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
   - name: Ring of Mind Shielding
     source: "Zanqaa the Devoted - Boon of Prowess: Mind"
     value: 16000

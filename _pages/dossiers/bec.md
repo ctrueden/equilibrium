@@ -5,6 +5,22 @@ statbox:
   gender: female
   class: wizard (enchanter)
 magic-items:
+  - name: Hat of Wizardry
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
+  - name: Magic Emerald of Spell Focus
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
+  - name: Enduring Spellbook of Kelp
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
+    notes: dancing lights, true strike, color spray, expeditious retreat, longstrider, fog cloud
   - name: Helm of Telepathy
     source: "Zanqaa the Devoted - Boon of Aegis: Mind"
     value: 12000

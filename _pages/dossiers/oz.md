@@ -5,6 +5,16 @@ statbox:
   gender: male
   class: rogue
 magic-items:
+  - name: Billowing Cloak
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
+  - name: Decanter of Endless Water
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
   - name: Hornblade (+3 Wounding, Sharpness)
     source: Cornucopia + crazy ghost lady
     value: 20000 (16000 for +3, 2000 for wounding, 1700 for sharpness)
