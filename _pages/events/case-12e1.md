@@ -1,9 +1,13 @@
 ---
-title: "[12e1] TODO"
+title: "[12e1] Burglary at SPI HQ!"
 datestamp: 50-05-23/1
 when: 50 Rixa 23
+session-number: 46
+session-date: 2022-04-15
 ---
 
-Secured SPI HQ; went with Sartus to Estanesse
+The agents return to SPI HQ to find that [Cal](../dossiers/cal)'s sword, the [Arkenstab](../relics/arkenstone), has been *stolen*! And someone repaired the [crystalline flux](../locales/flux#crystalline-flux) rift with karach! And where did this monkey come from?!
 
-See [SPI case file 12](https://docs.google.com/document/d/1ZBq8NvJuY40O4KA1M9oqnbB9zFjo_Ot3IUUYMtz2jhw/edit) for details.
+The decide to secure SPI HQ by changing the proverbial locks—i.e. the teleportation sigil sequence. At the same time, the meet with [Sartus Morningdew](../dossiers/sartus-morningdew), who is waiting anxiously at an SPI contact circle in Estanesse.
+
+TODO: Flesh out these notes in more detail.

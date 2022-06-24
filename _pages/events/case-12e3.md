@@ -1,9 +1,9 @@
 ---
-title: "[12e3] TODO"
+title: "[12e3] The Golden Path"
 datestamp: 50-05-24/3
 when: 50 Rixa 24
+session-number: 48
+session-date: 2022-06-03
 ---
 
-Began climbing the World Tree; found a blighted area.
-
-See [SPI case file 12](https://docs.google.com/document/d/1ZBq8NvJuY40O4KA1M9oqnbB9zFjo_Ot3IUUYMtz2jhw/edit) for details.
+With [Sartus Morningdew](../dossiers/sartus-morningdew), the agents start climbing the [World Tree](../relics/yggdrasil), staying together. They climb up a 60-foot area. They find the Tree's immature “golden path” of trees above. Then they find a blighted zone. Inside one of the dead trees are some beetles roving in a circle; in another, a sleeping sprite, which [Ozborn](../dossiers/oz) wakes up. The sprite sleepily climbs out of the tree, spies the agents, and screams an ear-splitting shriek!
