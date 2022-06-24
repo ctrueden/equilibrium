@@ -1,5 +1,5 @@
 ---
-title: Races
+title: Creatures
 ---
 
 {% include gallery %}
