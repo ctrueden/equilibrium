@@ -7,4 +7,4 @@ statbox:
   case: "10"
 ---
 
-Pirate crewmate on the [Tempest](../reliquaries/tempest). The SPI encountered Katcht'tika climbing the crow's nest and peering through a spyglass of *true seeing*.
+Pirate crewmate on the [Tempest](../relics/tempest). The SPI encountered Katcht'tika climbing the crow's nest and peering through a spyglass of *true seeing*.

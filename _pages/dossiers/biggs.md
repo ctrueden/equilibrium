@@ -10,5 +10,5 @@ statbox:
 ---
 
 Biggs is a paladin who was present at the
-[heist](../events/case-10) of the [Cornucopia](../reliquaries/cornucopia),
+[heist](../events/case-10) of the [Cornucopia](../relics/cornucopia),
 along with [Wedge](wedge).

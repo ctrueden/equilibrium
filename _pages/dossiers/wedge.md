@@ -10,7 +10,7 @@ statbox:
 ---
 
 Wedge is a paladin who was present at the
-[heist](../events/case-10) of the [Cornucopia](../reliquaries/cornucopia),
+[heist](../events/case-10) of the [Cornucopia](../relics/cornucopia),
 along with [Biggs](biggs).
 
 He touched [Meroe](meroe) and she disintegrated.

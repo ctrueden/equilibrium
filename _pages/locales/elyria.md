@@ -6,7 +6,7 @@ statbox:
   - elves
   regions:
   - estanesse
-  - "[Yggdrasil](../reliquaries/yggdrasil)"
+  - "[Yggdrasil](../relics/yggdrasil)"
   deities:
   - sehanine
   - corellon

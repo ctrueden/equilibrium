@@ -20,5 +20,5 @@ Discovered by [Dominic Tremere](../dossiers/dominic-tremere) on an
 archeological dig decades ago, Andrews was Tremere's personal assistant and
 butler until recently. But she has now abandoned her role in favor of hunting
 down [Isis Ra'ksh](../dossiers/isis-raksh), who she believes possesses the
-[Necronomicon](../reliquaries/necronomicon), a mystical book of great
+[Necronomicon](../relics/necronomicon), a mystical book of great
 destructive power.

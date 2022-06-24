@@ -13,7 +13,7 @@ statbox:
 Euryale was a "dealer in information"&mdash;i.e., a blackmailer&mdash;who posed
 as an art dealer living near the city of [Haven](../locales/haven). She
 desperately wanted to be free from her medusa's curse. She stole a book of
-immense evil power, the [Necronomicon](../reliquaries/necronomicon), from the
+immense evil power, the [Necronomicon](../relics/necronomicon), from the
 vault of [Dominic Tremere](dominic-tremere), who had in turn liberated it
 decades ago from [Arallu](../locales/arallu), the land of the undead. Euryale
 then traded the book to an ex-druid named [Isis Ra'ksh](isis-raksh), in

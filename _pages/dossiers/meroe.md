@@ -20,5 +20,5 @@ murder the SPI investigators using explosives and the circus monsters.
 After being exposed to a pathogen circa the time of travel within the
 [crystalline Flux](../locales/flux), Meroe became increasingly ill, eventually
 transforming into a shell of her former self. She disintegrated into dust just
-before she reached the [Cornucopia's of Life](../reliquaries/cornucopia)'s
+before she reached the [Cornucopia's of Life](../relics/cornucopia)'s
 sacred waters of healing.

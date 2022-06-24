@@ -6,6 +6,6 @@
         <li><a href="{{site.baseurl}}/creatures">Creatures</a></li>
         <li><a href="{{site.baseurl}}/locales">Locales</a></li>
         <li><a href="{{site.baseurl}}/orgs">Organizations</a></li>
-        <li><a href="{{site.baseurl}}/reliquaries">Reliquaries</a></li>
+        <li><a href="{{site.baseurl}}/relics">Relics</a></li>
       </ul>
     </div>

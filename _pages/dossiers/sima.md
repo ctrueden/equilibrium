@@ -9,11 +9,11 @@ statbox:
 
 A dwarven ranger with an affinity for animals, who "is the muscle" and believes
 her gifts should be shared with the world.
-[Martine Andrews](../reliquaries/warforged),
+[Martine Andrews](../relics/warforged),
 [Dominic Tremere](dominic-tremere)'s former robot butler, called her the
 "Bringer of War" and implored her to join a quest to hunt down
 [Isis Ra'ksh](isis-raksh), an ex-druid believed to possess the
-[Necronomicon](../reliquaries/necronomicon), an exceedingly dangerous magical
+[Necronomicon](../relics/necronomicon), an exceedingly dangerous magical
 artifact.
 
 Sima's dogs are:

@@ -25,7 +25,7 @@ which point the SPI agents took Panthea and Meroe with them
 ([Amalgamation and Anathema](../events/case-09)).
 
 When the SPI then decided to assist [Bonny Qin](bonny-qin) with a heist of
-the [Cornucopia of Life](../reliquaries/cornucopia), Panthea and Meroe joined
+the [Cornucopia of Life](../relics/cornucopia), Panthea and Meroe joined
 them in the hope of drinking from the water to get cured
 ([Capers and Calamity](../events/case-10)). While Panthea was ultimately able
 to drink from the water, she faced the judgment of [Pelor](pelor), who struck

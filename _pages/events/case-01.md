@@ -66,7 +66,7 @@ A human woman named **[Cassandra](../dossiers/cassandra)**, who seems to be Mall
   * **Walter Vahid**
 * Has fired several prior accountants, but was pleased with Sartan; apparently unaware that Sartan was cooking the books
 
-**[R. Martine Andrews](../reliquaries/warforged)** (robot?, "female")
+**[R. Martine Andrews](../relics/warforged)** (robot?, "female")
 * Butler of Dominic Tremere
 * Appears sentient, but without emotion
 

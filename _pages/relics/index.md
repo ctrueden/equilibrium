@@ -1,5 +1,5 @@
 ---
-title: Reliquaries
+title: Relics
 ---
 
 {% include gallery %}
