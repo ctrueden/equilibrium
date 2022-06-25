@@ -5,6 +5,11 @@ statbox:
   gender: male
   class: sorcerer (wild mage)
 magic-items:
+  - name: Wand of Healing
+    source: Cassandra
+    rarity: TODO
+    value: TODO
+    page: TODO
   - name: Luckstone
     source: Merfolk treasure
     rarity: TODO
@@ -53,3 +58,8 @@ Wand of Wonder
   (OR: subtract only? OR: spend sorcery points to roll multiple times?)
 * In addition, while holding the wand, Vondal gains a +2 bonus to spell attack
   rolls, and ignores half cover when making a spell attack, with wild magic.
+
+Wand of Healing
+* 7 charges
+* regain 1d4 charges every dawn
+* 1 charge = Cure Wounds level 1
