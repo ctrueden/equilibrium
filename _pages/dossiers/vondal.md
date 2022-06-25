@@ -63,3 +63,6 @@ Wand of Healing
 * 7 charges
 * regain 1d4 charges every dawn
 * 1 charge = Cure Wounds level 1
+
+Rules:
+* [Wild Magic](http://dnd5e.wikidot.com/sorcerer:wild-magic)
