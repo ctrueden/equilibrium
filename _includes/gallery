@@ -1,9 +1,13 @@
 {%- comment -%}
-A gallery of images linked to pages in the current directory.
+A gallery of images linked to pages in the current (or any) directory.
 {%- endcomment -%}
 
-{%- capture page-dir -%} {%- include pathdir path=page.url -%} {%- endcapture -%}
-{%- assign candidates = site.pages | where_exp: "p", "p.url contains page-dir" -%}
+{%- assign dir = include.dir -%}
+{%- unless dir -%}
+{%- capture dir -%} {%- include pathdir path=page.url -%} {%- endcapture -%}
+{%- endunless -%}
+
+{%- assign candidates = site.pages | where_exp: "p", "p.url contains dir" -%}
 
 {%- comment -%}
   We build up the list of links as a big string, because Jekyll 3.9
@@ -14,7 +18,7 @@ A gallery of images linked to pages in the current directory.
 {%- assign links = "" -%}
 {%- for p in candidates -%}
   {%- capture p-dir -%} {%- include pathdir path=p.url -%} {%- endcapture -%}
-  {%- if p-dir != page-dir -%} {%- continue -%} {%- endif -%}
+  {%- if p-dir != dir -%} {%- continue -%} {%- endif -%}
   {%- capture p-name -%} {%- include pathname path=p.url -%} {%- endcapture -%}
   {%- if p-name == 'index' -%} {%- continue -%} {%- endif -%}
 
