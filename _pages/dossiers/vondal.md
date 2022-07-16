@@ -1,5 +1,6 @@
 ---
 title: Vondal of the South Fireforges
+image: /equilibrium/assets/images/vondal.jpg
 statbox:
   race: [human, dwarf (slight ancestry)]
   gender: male
