@@ -46,7 +46,7 @@ When she lowers her hood, they get a better look at her:
 
 [![](https://i.pinimg.com/originals/7c/2c/a7/7c2ca7c156f4374967a619235d148cd4.jpg){:style="width:200px"}](https://www.pinterest.com/pin/406379566372036066/)
 
-But when her mood changes for the better, her appearance changes:
+But when her mood changes for the better, her appearance transforms:
 
 [![](https://i.pinimg.com/originals/30/c3/29/30c3294db371313914549193db4b429c.jpg){:style="width:200px"}](https://www.pinterest.com/pin/421227371404839716/)
 
@@ -58,9 +58,9 @@ She offers the assistance of the Seelie and Unseelie Courts if they agree to swe
 Alternately, when Sartus requests an alternate bargain, the voices of the Courts suggested for the feytouched to bond with the court, to gain its power but participate in its politics.
 
 Osborn swears: "The sun in your kingdom shall not shine again upon this face"
-With Janus Ilaris representing the Unseelie Court, summoned by the queen in flesh and blood.
+With [Janus Ilaris](../dossiers/janus-ilaris) representing the Unseelie Court, summoned by the queen in flesh and blood.
 
-Cal swears the oath of exile, with Orsob the satyr representing the Seelie Court:
+Cal swears the oath of exile, with [Orsob](../dossiers/orsob), a satyr, representing the Seelie Court:
 
 [![](https://i.pinimg.com/originals/1f/7e/aa/1f7eaa8b1691a657d36bcc7ab02ede8a.png){:style="width:200px"}](https://www.pinterest.com/pin/803118546049660952/)
 
