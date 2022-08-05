@@ -1,5 +1,6 @@
 ---
 title: Bec Galere
+image: /equilibrium/assets/images/bec.jpg
 statbox:
   race: [elf, human]
   gender: female
