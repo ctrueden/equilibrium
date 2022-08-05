@@ -27,7 +27,7 @@ See [below](#setting) for further details on the setting.
 * Try to hail from a unique territory and/or race. This helps diversity and world-building.
 * Have a reason in mind for why you are part of (or being recruited for) the SPI.
 * Have an unsolved mystery in your backstory.
-* SPI agents are currently 8th level. Anything in the 5E Player's Handbook or
+* SPI agents are currently 9th level. Anything in the 5E Player's Handbook or
   [Xanathar's Guide to
   Everything](https://www.amazon.com/Xanathars-Guide-Everything-Wizards-Team/dp/0786966114)
   is fair game.
