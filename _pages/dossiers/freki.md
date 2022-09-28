@@ -4,13 +4,19 @@ image: https://static.wikia.nocookie.net/evenfall/images/7/76/Shifter_%282%29.jp
 image-source: https://evenfall.fandom.com/wiki/Shifter
 image-beast: https://i.pinimg.com/originals/84/84/29/848429b7e078c252073beb4511d79b8d.png
 image-beast-source: https://www.pinterest.com/pin/645562927835781072/
-image-broken: https://i.imgur.com/psSqYk0.jpg
-image-broken-source: https://www.nonfictiongaming.com/2021/01/14/not-all-who-wander-are-lost-a-rangers-guide/
+image-elf: https://i.imgur.com/psSqYk0.jpg
+image-elf-source: https://www.nonfictiongaming.com/2021/01/14/not-all-who-wander-are-lost-a-rangers-guide/
 statbox:
+  hometown: Deepwood/Selva
   race: [elf (wood), lycan]
   gender: male
   class: ranger (lycan)
+  background: outlander?
   profession: bounty hunter
+  alignment: chaotic good
+  ideal: nature above all
+  bond: slain family
+  flaw: slow to trust
 magic-items:
   - name: Arrows of Tidal Force x3
     source: Merfolk treasure

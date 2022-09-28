@@ -2,9 +2,16 @@
 title: Vondal of the South Fireforges
 image: /equilibrium/assets/images/vondal.jpg
 statbox:
+  hometown: Triumph (originally from the Veldt)
   race: [human, dwarf (slight ancestry)]
   gender: male
   class: sorcerer (wild mage)
+  background: sage
+  profession: SPI agent
+  alignment: lawful good
+  ideal: lawful peace
+  bond: SPI
+  flaw: bad at secrets
 magic-items:
   - name: Wand of Healing
     source: Cassandra

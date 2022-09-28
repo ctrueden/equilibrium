@@ -2,9 +2,15 @@
 title: Bec Galere
 image: /equilibrium/assets/images/bec.jpg
 statbox:
+  hometown: Reena'seere
   race: [elf, human]
   gender: female
   class: wizard (enchanter)
+  background: sage
+  alignment: chaotic good
+  ideal: infinite possibility
+  bond: lost family
+  flaw: craves information
 magic-items:
   - name: Hat of Wizardry
     source: Merfolk treasure

@@ -5,9 +5,16 @@ image-source: https://www.deviantart.com/bombab/art/Gnome-Wizard-442673218
 image2: https://i.pinimg.com/736x/83/1e/bb/831ebbd47e4ca31137e281796c352857--fantasy-artwork-fantasy-images.jpg
 image2-source: https://www.pinterest.com/pin/384283780693644105/
 statbox:
+  hometown: Cognitutus
   race: gnome (rock)
   gender: female
   class: cleric (knowledge/trickery)
+  background: charlatan
+  profession: loafer
+  alignment: chaotic good
+  ideal: sharing knowledge
+  bond: Gavin Pepperpotts
+  flaw: past victims
 magic-items:
   - name: Clam of Protection
     source: Merfolk treasure

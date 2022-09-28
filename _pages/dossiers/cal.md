@@ -1,9 +1,15 @@
 ---
 title: Callisto
 statbox:
+  hometown: Frozen Wastes
   race: halfling (stout)
   gender: male
   class: [barbarian (totem warrior), rogue (undead exterminator)]
+  background: outlander
+  alignment: lawful neutral
+  ideal: discovery
+  bond: family
+  flaw: racist to undead
 magic-items:
   - name: Net of Entanglement
     source: Merfolk treasure

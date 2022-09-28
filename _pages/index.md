@@ -37,16 +37,22 @@ See [below](#setting) for further details on the setting.
 
 The current player characters are:
 
-| Character | Race | Class(es) | Alignment |
-|-----------|------|-----------|-----------|
+| Character | Hometown | Race(s) | Class(es) | Background | Alignment | Ideal | Bond | Flaw |
+|-----------|----------|---------|-----------|------------|-----------|-------|------|------|
 {% assign chars = "bec|cal|callie|freki|oz|vondal" | split: "|" -%}
 {%- for p in site.pages -%}
 {%- for char in chars -%}
 {%- assign char-url = "/dossiers/" | append: char -%}
 {%- if p.url == char-url -%}
+{%- assign char-hometown = p.statbox.hometown | join: ", " -%}
 {%- assign char-race = p.statbox.race | join: ", " -%}
 {%- assign char-class = p.statbox.class | join: ", " -%}
-| [{{p.title}}]({{site.baseurl}}{{p.url}}) | {{char-race}} | {{char-class}} | {{p.statbox.alignment}} |
+{%- assign char-bg = p.statbox.background | join: ", " -%}
+{%- assign char-align = p.statbox.alignment | join: ", " -%}
+{%- assign char-ideal = p.statbox.ideal | join: ", " -%}
+{%- assign char-bond = p.statbox.bond | join: ", " -%}
+{%- assign char-flaw = p.statbox.flaw | join: ", " -%}
+| [{{p.title}}]({{site.baseurl}}{{p.url}}) | {{char-hometown}} | {{char-race}} | {{char-class}} | {{char-bg}} | {{char-align}} | {{char-ideal}} | {{char-bond}} | {{char-flaw}} |
 {% comment -%} {%- endcomment -%}
 {%- endif -%}
 {%- endfor -%}
