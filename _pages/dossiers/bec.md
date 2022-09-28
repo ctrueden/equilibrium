@@ -53,4 +53,6 @@ An enchantress seeking to further her mastery of magic, and to find out what hap
 
 Bec is an enchantress. She has joined the SPI to learn more magic, and to find out what happened to her father.
 
+### Tapestry of Fate
+
 ***Prevailing truth (Arcana, History, Nature, Religion).*** The tree of infinite possibility appears before you, you see branches which must be eliminated—and a powerful truth remains.

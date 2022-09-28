@@ -63,4 +63,10 @@ magic-items:
 
 Freki is a bounty hunter who venerates nature and despises magic. He prowls the [Selva](../locales/selva), seeking prey.
 
+### Tapestry of Fate
+
 ***Animal instinct (Survival).*** You smell emotions, even as they fade, and can even track people by the "emotional trail" they leave.
+
+### Ranger Archetype: Lycan
+
+See [Michael Notes](https://docs.google.com/document/d/1jW6C18YXFjFbQLlxqswN5RtnKNhwHLTKqb9xgJ6qwSA/edit) (private).

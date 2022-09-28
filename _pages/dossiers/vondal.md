@@ -46,10 +46,18 @@ magic-items:
     link: https://www.5esrd.com/gamemastering/magic-items/rods-staves-wands#Wand_of_Wonder
 ---
 
-A veteran wild mage who's been working with the [SPI](../orgs/spi) for decades,
+A veteran [wild mage who's been working with the [SPI](../orgs/spi) for decades,
 but seems to be afflicted by some sort of malignant chronomancy.
 
+### Tapestry of Fate
+
 ***Lucid memory (Luck).*** You remember something from the past which is relevant.
+
+### Class Archetype
+
+* [Wild Magic](http://dnd5e.wikidot.com/sorcerer:wild-magic)
+
+### Magic items
 
 Wand of Wonder
 * Thanks to his experience with wild magic, Vondal has learned to control the
@@ -64,6 +72,3 @@ Wand of Healing
 * 7 charges
 * regain 1d4 charges every dawn
 * 1 charge = Cure Wounds level 1
-
-Rules:
-* [Wild Magic](http://dnd5e.wikidot.com/sorcerer:wild-magic)

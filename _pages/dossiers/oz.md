@@ -54,3 +54,29 @@ magic-items:
 ---
 
 A curious and impulsive halfling rogue.
+
+### Tapestry of Fate
+
+None‽
+
+### Class Archetype
+
+* [Swashbuckler](http://dnd5e.wikidot.com/rogue:swashbuckler)
+
+### Artifacts
+
+#### Hornblade +3
+
+Transformed from the [Cornucopia](../relics/cornucopia) by a creepy-goth halfling ghost, and seized by Oz at her behest, during [Case 11](../events/case-11).
+
+* **Sharpness**
+  * When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
+  * When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 4d6 slashing damage. Then roll another d20. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the GM. If the creature has no limb to sever, you lop off a portion of its body instead.
+  * In addition, you can speak the sword's command word to cause the blade to shed bright light in a 10- foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.
+* **Wounding**
+  * Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
+  * Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes 1d4 necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom (Medicine) check, ending the effect of such wounds on it on a success.
+
+#### Celestial Monkey Statue
+
+Discovered at SPI HQ, in the wake of an apparent burglary+repair effort. See [Case 12, Part 1](../events/case-12e1).
