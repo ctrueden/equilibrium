@@ -22,6 +22,9 @@ See [below](#setting) for further details on the setting.
 * Check the D&D5E Player's Handbook for details.
 * You can also find the basic rules [online for free](https://dnd.wizards.com/what-is-dnd/basic-rules).
 * And a larger subset of the core rules are also online at [5esrd.com](https://www.5esrd.com/).
+* Finally, the [DND 5th Edition community wiki](https://dnd5e.wikidot.com/)
+  includes even more rules, including from splat books, such as the class
+  archetypes from *Xanathar's Guide to Everything*.
 
 **Characters.** Main points of character creation:
 * Try to hail from a unique territory and/or race. This helps diversity and world-building.
