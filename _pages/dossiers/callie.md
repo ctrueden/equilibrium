@@ -7,7 +7,7 @@ image2-source: https://www.pinterest.com/pin/384283780693644105/
 statbox:
   race: gnome (rock)
   gender: female
-  class: cleric
+  class: cleric (knowledge/trickery)
 magic-items:
   - name: Clam of Protection
     source: Merfolk treasure

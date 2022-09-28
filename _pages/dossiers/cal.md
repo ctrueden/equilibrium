@@ -3,7 +3,7 @@ title: Callisto
 statbox:
   race: halfling (stout)
   gender: male
-  class: [barbarian, rogue]
+  class: [barbarian (totem warrior), rogue (undead exterminator)]
 magic-items:
   - name: Net of Entanglement
     source: Merfolk treasure

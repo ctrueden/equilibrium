@@ -3,7 +3,7 @@ title: Ozborn Underfoot
 statbox:
   race: halfling (lightfoot)
   gender: male
-  class: rogue
+  class: rogue (swashbuckler)
 magic-items:
   - name: Billowing Cloak
     source: Merfolk treasure
