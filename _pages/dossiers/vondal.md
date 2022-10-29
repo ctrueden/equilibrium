@@ -47,9 +47,9 @@ magic-items:
     link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Cape_of_the_Mountebank
   - name: Wand of Wonder
     source: "Zanqaa the Devoted - Boon of Arms: Wild"
-    value: 4800+???
+    value: "4800+???"
     rarity: rare (major)
-    page: ???
+    page: "???"
     link: https://www.5esrd.com/gamemastering/magic-items/rods-staves-wands#Wand_of_Wonder
 ---
 
