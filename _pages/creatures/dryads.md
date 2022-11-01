@@ -2,7 +2,7 @@
 title: Dryads
 ---
 
-Dryads are [fey](creatures/fey) creatures of the forest, each bonded to a specific tree.
+Dryads are [fey](fey) creatures of the forest, each bonded to a specific tree.
 
 ## Hamadryads
 
