@@ -7,3 +7,5 @@ session-date: 2022-10-29
 ---
 
 TBD
+
+[![](https://3.bp.blogspot.com/-NZhXneP2ebs/WqGsLjOZsDI/AAAAAAAAV54/trjq-bZb6nI2yVtYfMxgWGptn7L8AAdtwCK4BGAYYCw/s1600/druid-2.jpg)](http://www.castlemacdnd.com/2018/03/lost-mine-of-phandelver-character.html)
