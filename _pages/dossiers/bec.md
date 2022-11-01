@@ -59,6 +59,15 @@ An enchantress seeking to further her mastery of magic, and to find out what hap
 
 Bec is an enchantress. She has joined the SPI to learn more magic, and to find out what happened to her father.
 
+## Rules
+
+[School of Enchantment](http://dnd5e.wikidot.com/wizard:enchantment):
+* [2nd] Enchantment Savant
+* [2nd] Hypnotic Gaze
+* [6th] Instinctive Charm
+* [10th] Split Enchantment
+* [14th] Alter Memories
+
 ### Tapestry of Fate
 
 ***Prevailing truth (Arcana, History, Nature, Religion).*** The tree of infinite possibility appears before you, you see branches which must be eliminated—and a powerful truth remains.
