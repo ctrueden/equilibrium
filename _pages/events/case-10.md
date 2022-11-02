@@ -4,6 +4,20 @@ datestamp: 50-04-26/0
 when: 50 Cudo 26 - Rixa 10
 ---
 
-Amazing things happened.
+What‽ A case where the ***[SPI](../orgs/spi)*** are the culprits‽
 
-See [SPI case file 10](https://docs.google.com/document/d/1bFcyQ_CyjOfxFyk81IX4171ti6_rvCIj2BjJy9q_GgQ/edit) for details.
+### Location
+
+Beyond [Oasis](../locales/oasis), [Radiant Union of Pelor](../locales/rup)
+
+### Patrons
+
+[Meroe](../dossiers/meroe) and [Panthea](../dossiers/panthea); [Seiyre Qin](../dossiers/seiyre-qin)
+
+### Victims
+
+[Pelor](../dossiers/pelor), and the people of the [R.U.P.](../locales/rup)
+
+### Crime scene
+
+The [Cornucopia of Life](../relics/cornucopia).

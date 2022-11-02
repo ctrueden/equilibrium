@@ -4,6 +4,22 @@ datestamp: 50-04-19/A
 when: 50 Cudo 19-26
 ---
 
-Weird things happened.
+### Location
 
-See [SPI case file 09](https://docs.google.com/document/d/1bFcyQ_CyjOfxFyk81IX4171ti6_rvCIj2BjJy9q_GgQ/edit) for details.
+The clouds atop the Vondalstalk.
+
+### Patron
+
+None
+
+### Victim
+
+[Alex Orbach](../dossiers/alex-orbach), disgraced magical researcher and alleged killer of [Dominic Tremere](../dossiers/dominic-tremere).
+
+### Crime scene
+
+The [crystalline flux](../locales/flux#crystalline-flux), a surreal realm of structured chaos.
+
+### Persons of interest
+
+**[Priscilla Stormcloud](../dossiers/priscilla-stormcloud)**(?), once a noted historian, now apparently an insane animalistic creature and/or [balor demon](../dossiers/balor).
