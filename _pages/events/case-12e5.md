@@ -4,6 +4,7 @@ datestamp: 50-05-24/5
 when: 50 Rixa 24-25
 session-number: 50
 session-date: 2022-07-16
+session-event: https://www.facebook.com/events/797001894791959/
 ---
 
 > Nate: When we saw something shiny in the tree before -- was it the sprite?\\

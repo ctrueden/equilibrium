@@ -4,6 +4,7 @@ datestamp: 50-05-25/6
 when: 50 Rixa 25
 session-number: 51
 session-date: 2022-08-19
+session-event: https://www.facebook.com/events/608990207490711/
 ---
 
 STAY TUNED

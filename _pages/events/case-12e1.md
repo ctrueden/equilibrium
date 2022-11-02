@@ -4,6 +4,7 @@ datestamp: 50-05-23/1
 when: 50 Rixa 23
 session-number: 46
 session-date: 2022-04-15
+session-event: https://www.facebook.com/events/717379965919961/
 ---
 
 The agents return to SPI HQ to find that [Cal](../dossiers/cal)'s sword, the [Arkenstab](../relics/arkenstone), has been *stolen*! And someone repaired the [crystalline flux](../locales/flux#crystalline-flux) rift with karach! And where did this monkey come from?!

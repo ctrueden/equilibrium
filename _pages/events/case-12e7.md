@@ -4,6 +4,7 @@ datestamp: 50-05-25/7
 when: 50 Rixa 25
 session-number: 52
 session-date: 2022-09-03
+session-event: https://www.facebook.com/events/3098841137000207/
 image-heart: https://i.pinimg.com/originals/db/6a/eb/db6aeb6a09364184dbb3deb9cb4566ed.png
 image-heart-source: https://www.pinterest.com/pin/heart-of-the-forest-by-jkroots-on-deviantart--551409548100086588/
 ---

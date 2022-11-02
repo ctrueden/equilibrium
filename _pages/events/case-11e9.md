@@ -4,6 +4,7 @@ datestamp: 50-05-21/9
 when: 50 Rixa 21-23
 session-number: 45
 session-date: 2022-03-18
+session-event: https://www.facebook.com/events/1549366645445718/
 ---
 
 The party floats in void goo, suffocating. What do you do? Where do your thoughts go?
