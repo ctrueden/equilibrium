@@ -5,7 +5,7 @@ title: Lycan Ranger
 The lycan ranger is a hunter from the Selva wilderness with fearsome shapeshifting abilities.
 
 | Level | Proficiency Bonus | Features |
-|-------|-------------------|:---------|
+|:-----:|:-----------------:|:---------|
 |  1st  |        +2         | Beast Form, Natural Explorer |
 |  2nd  |        +2         | Fighting Style, Special Arrows, Innate Natural Abilities |
 |  3rd  |        +2         | Beast Companion, Primeval Awareness |
