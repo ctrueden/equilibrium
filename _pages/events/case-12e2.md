@@ -11,7 +11,7 @@ The party divvies up the merpeople treasure. They decide to store the treasure c
 
 When they get to the elven dwelling in the tree, everybody eats dinner and then they all go to bed. We are soooo tired!
 
-Bec is woken up right at the beginning of her rest by <strike>some bastard</strike>[Tybalt](../dossiers/tybalt). She comes out of her room and discovers the *tree-melded*. These elves are being absorbed by the tree, supplying their own life force to keep the tree alive. Her father is one of them! Every day one of these tree-melded gives up their own life so the tree doesn't die. So far it hasn't been him, but it could be any time.
+Bec is woken up right at the beginning of her rest by ~~some bastard~~[Tybalt](../dossiers/tybalt). She comes out of her room and discovers the *tree-melded*. These elves are being absorbed by the tree, supplying their own life force to keep the tree alive. Her father is one of them! Every day one of these tree-melded gives up their own life so the tree doesn't die. So far it hasn't been him, but it could be any time.
 
 Bec's father says that it is a great honor to be joined with the tree, and it would have been a dishonor if he refused, so he did it and didn't tell his family in case seeing them broke his resolve. He points out that [Sartus](../dossiers/sartus-morningdew)'s plan will end up killing the tree, and the tree-melded along with it. The tree will be reborn, but there would be destruction in the meantime. This is why the Queen and most of the elves favor stopping the Druid and taking the Necronomicon back.
 
