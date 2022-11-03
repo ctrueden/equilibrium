@@ -1,0 +1,6 @@
+---
+title: Rules
+---
+
+{% include gallery %}
+
