@@ -12,7 +12,7 @@ Fey creatures are diverse and include, but are not limited to:
 * [Dryads](dryads)
 * [Satyrs](satyrs)
 * [Sprites](sprites)
+* [Pixies](pixies)
 * Brownies
 * Grigs
-* Pixies
 * Unique creatures, e.g. [Enoki the Mushroom Druid](../dossiers/enoki)
