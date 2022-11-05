@@ -7,7 +7,17 @@ session-date: 2022-08-19
 session-event: https://www.facebook.com/events/608990207490711/
 ---
 
-STAY TUNED
+TODO
+
+[ANNA] We woke up covered in mushrooms aaaaaaaaaaaaaaaaaahhhhh
+
+[ANNA] But we did have a long rest, so we are refreshed.
+
+[ANNA] Also, it seems the mushrooms are some kind of illusion, although they do really hurt.
+
+[ANNA] I heal Oz with Cure Wounds at level 2 for 10 HP restoration.
+
+[ANNA] I took 5 damage from a weird feeling of being STABBED IN THE SOUL BY PURE DEATH AND EVIL
 
 callie, bec, freki realize mushrooms aren't real. just psychic residue.
 sartus and bec dispel oz and cal's effects.

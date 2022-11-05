@@ -7,4 +7,4 @@ session-date: 2022-06-24
 session-event: https://www.facebook.com/events/1010196216317168/
 ---
 
-STAY TUNED
+Battle with [murder sprite](../creatures/sprites#murder-sprite).

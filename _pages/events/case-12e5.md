@@ -21,6 +21,17 @@ That evening, the party stops at beautiful tree:
 
 As the sun sets, the fruit begins to glow, captivating everyone.
 
+[ANNA] We rested underneath a Dormina tree. Oz ate a fruit right away and fell
+asleep. I also had a bite of a fruit and took one with me.
+
+[ANNA] ~LONG REST~
+
+[ANNA] Got my spell slots back!
+
+[ANNA] I dream of going on all kinds of adventures with all the people I've known. I'm digging a hole with Tybalt and playing cards with Sima. She tells me she can't pay because she's locked up.
+
+[ANNA] Sima is chained up inside a cave. I get swallowed by a plant creature and the whole party ends up in the same plant-y dreamscape.
+
 Sartus says it is a dormina tree, which he has never seen in person before, but the fruit of which will send anyone who eats it into a euphoric slumber.
 
 Oz and Callie eat of the fruit, and have euphoric experiences! They quickly fall blissfully asleep.
