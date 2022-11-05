@@ -2,8 +2,9 @@
 {%- assign gm-pages = site.pages | where: "url", gm-path -%}
 {% for p in gm-pages %}
 <div class="gm">
+<details><summary style="font-weight: bold; height: 1.5em; margin: 1em 0 1em 0; border-bottom: 1px solid black">GM notes</summary>
 {{p.content | markdownify}}
-</div>
+</details></div>
 {% endfor %}
 
 {%- comment -%}
