@@ -9,63 +9,72 @@ image-heart: https://i.pinimg.com/originals/db/6a/eb/db6aeb6a09364184dbb3deb9cb4
 image-heart-source: https://www.pinterest.com/pin/heart-of-the-forest-by-jkroots-on-deviantart--551409548100086588/
 ---
 
-[ANNA] A creature formed from a swarm of locusts called Issham (sp?) appears and offers to take us where we're going. He says our means of travel will take too long. 
+[Eixam](../dossiers/eixam) claims they want to help stop the destruction of the Tree (*GM's note: "they" is Eixam's pronoun*), and says that the party's current means of travel will take too long to reach the Fruit. They offer to take the party there more quickly.
 
-[ANNA] Inochi the mushroom lord HATES the locust guy because locusts eat his mushroom pals. He flat refuses to go with Issham.
+The party is cautiously interested in learning more about Eixam's proposal, although they can sense that Eixam is full of malice. Eixam suggest a convoluted plan to travel via getting into a portable hole, which is an extradimensional space that can be folded up and carried by Eixam, who will fly directly to the Fruit.
 
-[ANNA] The party comes up with a convoluted plan to travel via getting into a portable hole. Unfortunately, Freki's discomfort with magic causes him to panic when he gets in the hole and go into wolf form.
+Unfortunately, [Enoki](../dossiers/enoki) *hates* Eixam because locusts eat his mushroom pals. "They insatiably devour whole fields. Out of balance." He flat refuses to go with Eixam. So the SPI agents decline Eixam's help, who buzzes off.
 
-The SPI agents decline [Eixam](../dossiers/eixam)'s help. They buzz off.
+Enoki offers to carry them in the portable hole instead, after chastising them for not telling him about it before.
 
-[Enoki](../dossiers/enoki) offers to carry them in the portable hole instead, now that he knows they have one.
+The party's plan: [Callie](../dossiers/callie) will levitate using her tattoo and be pulled by [Cal](../dossiers/cal), who along with [Oz](../dossiers/oz) will be carried by Oz's mysterious new winged monkey companion. [Sartus](../dossiers/sartus-morningdew) will cast *fly* and keep pace, carrying the folded up portable hole. The remaining members will enter the portable hole and ride inside.
 
-[Bec](../dossiers/bec) casts rope trick inside the portable hole, so they have 1 hour of air.
+[Bec](../dossiers/bec) casts rope trick inside the portable hole, so they have 1 hour of air. Then [Freki](../dossiers/freki), [Vondal](../dossiers/vondal), and Murky also climb into the hole-inside-a-hole. Unfortunately, Freki's discomfort with magic causes him to panic when he gets in the hole; Freki wolfs out and tries to escape, but the hole is rather deep. Vondal cleverly casts *banishment* on Freki to boot him from the extradimensional space, and Callie calms emotions.
 
-[Freki](../dossiers/freki), [Vondal](../dossiers/vondal), Murky are also in the hole-inside-a-hole.
+Callie begins levitating, towed by Freki, who is now flying thanks to another *fly* spell from Sartus.
 
-Freki wolfs out and tries to escape the hole. Vondal casts *banishment* on him to boot him from the extradimensional space. [Callie](../dossiers/callie) calms emotions.
-
-Callie levitates using her tattoo, towed by Freki, who is now flying from [Sartus](../dossiers/sartus-morningdew)'s spell. Sartus also flying.
-
-Monkey grows huge divine wings after having trouble carrying Oz and Cal for 20 minutes. Oz has vision of a woman in a dark cloak, face down, turning... on the other side, a red-haired woman in a green and yellow dress:
+For the first 20 minutes, the monkey struggles to carry both Oz and Cal at the same time. But then out of nowhere, she grows *huge divine wings*! Oz has vision of a woman in a dark cloak, face down, turning... on the other side, a red-haired woman in a green and yellow dress:
 
 [![](https://ghwiki.greyparticle.com/images/4/46/Yondalla.jpg)](https://ghwiki.greyparticle.com/index.php/File:Yondalla.jpg)
 
-Ten minutes later, sending from Tybalt to Cal: "Found druid's lair. Yaara'tal Yggdrasil cave near elderly tree-melded. Sima dead, chained inside. Other Sima captured. Infected Queen awakening, spells doom. Hurry!"
+The next ten minutes are easier going, although the agents hear continual buzzing in the distance, and surmise that Eixam must be shadowing them. Freki's ravens confirm this fact.
 
-Cal's response: "Holy crap. Enoki leading us to Fruit. 30 minutes away. Eixam, locust thing, hovering nearby. Friend or foe? Two Simas?"
+Then Cal receives a *sending* from [Tybalt](../dossiers/tybalt):
 
-Tybalt: "Heard of a creature of vermin, evil being. Be wary. Glad but surprised Enoki helps. Yes two Simas, one must be imposter. Will find out."
-Cal: "Will update as soon as something changes."
+* **Tybalt:** Found druid's lair. Yaara'tal [Yggdrasil](../relics/yggdrasil) cave near elderly [tree-melded](../creatures/tree-melded). [Sima](../dossiers/sima) dead, chained inside. Other Sima captured. Infected [Queen](../dossiers/ambriel-estanesse) awakening, spells doom. Hurry!
+* **Cal**: Holy crap. Enoki leading us to Fruit. 30 minutes away. Eixam, locust thing, hovering nearby. Friend or foe? Two Simas?
 
-[ANNA] Eventually, we come to a place where there is a thick mist. Something called a hamadryad (https://www.5esrd.com/database/creature/hamadryad/) by the name of Phoebe emerges from the mist. Inochi recognizes her and says, "Your Grace? What are you doing here?" Cal recognizes her too! She seems to recognize him, but he seems a little suspicious of her. He asks her directly if she knows Hyperion. I recall that Hyperion is the name of a titan.
+Another *sending* follows shortly thereafter:
 
-[ANNA] Issham seems to hate the hamadryad! He tells her she shouldn't be here. Bec asks immediately why. He lies, "because it is not safe."
+* **Tybalt:** Heard of a creature of vermin, evil being. Be wary. Glad but surprised Enoki helps. Yes two Simas, one must be imposter. Will find out.
+* **Cal:** Will update as soon as something changes.
 
-[ANNA] Phoebe takes us through the tree into a very, very beautiful place. There is the fruit that we've been looking for! It's way too big to put in the portable hole or otherwise transport. Bec and Sartus warn the party that there is a powerful illusion magic happening. Issham agrees, "Yes, this is wrong."
+Soon, the party reaches a place where there is a thick mist around a large branch of the Tree. The party has a sense that something of import is happening, as the mist parts and a regal tree-like creature emerges from the tree trunk:
 
-[ANNA] Phoebe starts walking toward the fruit, transfixed.
+[![](https://i.pinimg.com/236x/3d/f0/5c/3df05c2b56886d9caf8dd5f895b10b4c.jpg)](../dossiers/phoebe)
 
-[ANNA] Sartus says, "Your Grace, it is not real." But she keeps walking.
+Some agents identify her as a creature called a [hamadryad](../races/dryad#hamadryad), a powerful dryad bonded not to a single tree, but rather an entire forest.
 
-[ANNA] Vondal casts Wall of Fire between Phoebe and the fruit.
+Enoki recognizes this woman and, bowing respectfully, says, "Your Grace? What are you doing here?"
 
-[ANNA] The fire burns away the mist and the glamour with it. The mist flows into Vondal's mouth. Beyond the glamour, the tree ends. If Phoebe had kept walking, she would have fallen off it. She snaps out of her trance.
+Cal recognizes her too, and refers to her as [Phoebe](../dossiers/phoebe). But he seems surprised that she does not appear to recognize him in return. Cal asks her directly if she knows [Hyperion](../dossiers/hyperion). Callie recalls that Hyperion is the name of a [titan](../creatures/titans). After some short exchanges, Phoebe confesses that the Tree's sickness is affecting her mind, and she is having trouble with her memory.
 
-[ANNA] Confused, she says, "But I brought us to the fruit. We are here, at the heart of it."
+Eixam buzzes over, radiating even more fury and hatred than usual. They tell the hamadryad she shouldn't be here. Bec asks immediately why not; Eixam responds with a lie: "Because it is not safe."
 
-[ANNA] Bec asks Issham whether that's true. He answers, "perhaps."
+"I can take you directly to the Fruit of Life," she responds, "There is not much time left." She explains that her ability to *tree stride* can take others along with her, as long as everyone links hands. After a short discussion, the agents accept her aid.
 
-[ANNA] Inochi scouts and then reports, "There, I see it! That way!"
+Phoebe takes everyone, including Eixam, through the tree trunk to a very beautiful place. They see the Fruit they've been looking for!
 
-[ANNA] The party follows where he's pointing. It looks like a dead end. It looks like he's flying through the trunk. Another illusion?
+[![](https://i.pinimg.com/originals/db/6a/eb/db6aeb6a09364184dbb3deb9cb4566ed.png){:style="width:200px"}](https://www.pinterest.com/pin/heart-of-the-forest-by-jkroots-on-deviantart--551409548100086588/)
 
-[ANNA] Freki goes through it and sees the true heart in the distance, surrounded by a huge amount of thorns. He hears Inochi cry out in fear. (The rest of the party is still on the other side of whatever border this is, so they don't hear it.)
+Unfortunately, it's way too big to put in the portable hole or otherwise transport.
 
-Marching order when tree striding with the hamadryad:
-* Right hand: Cal, Sartus (Enoki&Moth on Sartus's shoe), Oz (Dr. Z in live form on his shoulder), Vondal (Murky in spider form on his head) -> Eixam
-* Left hand: Freki, Bec, Callie, Vondal (Murky in spider form on his head) -> Eixam
+Bec and Sartus warn the party that there is a powerful illusion magic happening. Eixam agrees, "Yes, this is wrong."
 
-They get there.. but something is not right! The Fruit is an illusion!
+Nonetheless, Phoebe starts walking toward the fruit, transfixed.
 
-Beyond the illusion's bounds: Enoki is trapped in a huge thicket of thorns, which are supernaturally surging toward the party!
+Sartus says, "Your Grace, it is not real." But she keeps walking.
+
+Vondal casts *wall of fire* between Phoebe and the fruit.
+
+The fire burns away the mist and the glamour with it. The mist flows into Vondal's mouth. Beyond the glamour, the Tree ends. If Phoebe had kept walking, she would have fallen off it. She snaps out of her trance.
+
+Confused, she says, "But I brought us to the fruit. We are here, at the heart of it."
+
+Bec asks Eixam whether that's true. "Perhaps," they answer.
+
+Enoki scouts and then reports, "There, I see it! That way!"
+
+The party follows where he's pointing. It looks like a dead end&mdash;like he's flying through the trunk. Another illusion?
+
+Freki goes through it and sees the true heart in the distance, surrounded by a huge amount of thorns. He (and he alone&mdash;the rest of the party is still on the other side of the illusory border) hears Enoki cry out in fear, and sees the poor little guy trapped in the huge thicket of thorns, which supernaturally surge toward the party!
