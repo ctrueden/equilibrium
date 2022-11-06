@@ -13,8 +13,8 @@ session-event: https://www.facebook.com/events/1589437974695524/
 4. Cal was itchy from the vargouille.
 5. Callie paid Freki 5 gold to help find some plants to cure the itching.
 6. Callie and Bec used the sending stone to Mallory:
-  * [TO] Flux-based weapon in hands of Malosi goliath. Client wants revenge, also weapon. Cal itchy. Poisoned?? Abandoned by guides 4 days from city.
-  * [FROM] Malosi exceptionally formidable. Gather more intel. Make a solid plan. Definitely capture that weapon. Why itchy? Plant? Poison? Spell? Cure him ASAP. Hire new guide.
+  * **Callie:** Flux-based weapon in hands of Malosi goliath. Client wants revenge, also weapon. Cal itchy. Poisoned?? Abandoned by guides 4 days from city.
+  * **Mallory:** Malosi exceptionally formidable. Gather more intel. Make a solid plan. Definitely capture that weapon. Why itchy? Plant? Poison? Spell? Cure him ASAP. Hire new guide.
 7. Ni and Freki exchanged tokens: he gave her a special arrow, and she gave him one of her jingly bells. She said he is now bound to help, and he said she is bound to use the weapon for good. She promised to only slay those who deserve it.
 8. Ni left, saying she will await news from them regarding the incident. She seemed to believe that some of her tribe may have lived (in a sense) through this ordeal, and made stronger.
 9. Freki gathered more herbs and various plant stuff, to restock arrows, and get Itchy some more cold cream.
