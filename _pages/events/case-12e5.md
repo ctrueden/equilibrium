@@ -31,19 +31,24 @@ Oz and Callie have euphoric experiences!
 
 Callie has visions of adventures with all the people she's known. She digs a hole with [Tybalt Nightbreeze](../dossiers/tybalt), then plays dragon poker with [Sima Cordelia](../dossiers/sima) and wins! But Sima says she cannot pay Callie what she owes until she is freed from her captivity&mdash;and Callie realizes that Sima is chained to a wall in a cave. She hears a voice asking, in an unfriendly tone: "Who are you? How did you get here?", turns around, and sees a person with an eyeless mushroom face! Who then swallows her!
 
-[![](https://i.pinimg.com/originals/cb/db/f9/cbdbf9b97b1fce10e06e99847c1a758f.png)](https://www.pinterest.com/pin/206250857927031866/)
+<!-- crop -->
+<div style="width: 200px; height: 170px; overflow: hidden">
+<a href="https://www.pinterest.com/pin/206250857927031866/"><img src="https://i.pinimg.com/originals/cb/db/f9/cbdbf9b97b1fce10e06e99847c1a758f.png" style="width:600px; margin: -100px 0 0 -295px"></a>
+</div>
 
-Oz dreams he's a pirate, raiding pirate ships and fighting pirate battles. While swinging across to a target vessel, he realizes that strangely, the deck is devoid of life. Proceeding below decks to investigate, the stairs down become a tunnel through the trees into the Feywild...
+Oz dreams he's a pirate, raiding pirate ships and fighting pirate battles. While swinging across to a target vessel, he realizes that strangely, the deck is devoid of life. Proceeding below decks to investigate, the stairs down become a tunnel through the trees into the [Feywild](../locales/feywild)...
 
-[Ambriel Estanesse](../dossiers/ambriel-estanesse), Queen of the Seelie and Unseelie Courts, has invaded their dreams! The others&mdash;Bec, [Cal](../dossiers/cal), and Freki&mdash;appear as well. They all find themselves on a forest path, with harmonious dwellings integrated:
+The others&mdash;Callie, Bec, [Cal](../dossiers/cal), and Freki&mdash;appear as well. They all find themselves on a forest path, with harmonious dwellings integrated:
 
 [![](https://i.pinimg.com/originals/23/b5/bb/23b5bb04b7cc095ca2481aac216b3826.jpg){:style="width:200px"}](https://www.pinterest.com/pin/421227371400689300/)
 
 This servant:
 
-[![](https://i.pinimg.com/originals/10/1c/1f/101c1f4aa873409099b855b0d0779eeb.jpg){:style="width:200px"}](https://www.pinterest.com/pin/421227371404839682/)
+[![](https://i.pinimg.com/originals/10/1c/1f/101c1f4aa873409099b855b0d0779eeb.jpg){:style="width:200px"}](../dossiers/rafflesia-wildfall)
 
-emerges from a door and asks them to come inside. Bec dispels her!
+emerges from a door and asks them to come inside. She claims that [Ambriel Estanesse](../dossiers/ambriel-estanesse), Queen of the Seelie and Unseelie Courts, wants to speak with them.
+
+Bec dispels the servant! But they decide to enter the door anyway.
 
 The queen is seated at a long table eating fairy wings:
 
@@ -62,10 +67,9 @@ She offers the assistance of the Seelie and Unseelie Courts if they agree to swe
 - Feytouched swear an *oath of service*: assistance in future for a particular to-be-named task, for no more than a year and a day.
 - Godtouched swear an *oath of exile*: never to return to Elyrian lands.
 
-Alternately, when Sartus requests an alternate bargain, the voices of the Courts suggested for the feytouched to bond with the court, to gain its power but participate in its politics.
+Alternately, when Sartus requests an alternate bargain, the voices of the Courts speak! They suggest for the Feytouched to bond with the court, to gain its power but participate in its politics.
 
-Ozborn swears: "The sun in your kingdom shall not shine again upon this face."
-With [Janus Ilaris](../dossiers/janus-ilaris) representing the Unseelie Court, summoned by the queen in flesh and blood.
+Ozborn swears: "The sun in your kingdom shall not shine again upon this face," the vow sealed by a painful wave of psionic energy from [Janus Ilaris](../dossiers/janus-ilaris) representing the Unseelie Court, summoned by the queen in flesh and blood.
 
 Cal is shocked to see the ghost, and refuses to swear an oath with him. He offers to swear an oath with the Queen, but she smiles sadly and says that in 7 days' time, she will no longer be capable of enforcing such an oath. (The more astute and empathic amongst the SPI infer that the queen thinks she is going to die!) But the queen summons [Orsob](../dossiers/orsob), a satyr, to represent the Seelie Court, and Cal swears the oath of exile by drinking a cup of tea with him:
 
