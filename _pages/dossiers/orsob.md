@@ -7,4 +7,4 @@ statbox:
   gender: male
 ---
 
-A representative of the Seelie Court. [Cal](cal) drank his Oath Tea, vowing never to return to [Elyria](../locales/elyria) after the coming [Auran Apex](../calendar).
+A representative of the Seelie Court. [Cal](cal) drank his Oath Tea, vowing never to return to [Elyria](../locales/elyria) after the coming [Auran Apex](../calendar). Similarly, [Callie](callie) drank an oath swearing a year and a day of service to the Seelie Court.
