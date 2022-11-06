@@ -1,7 +1,7 @@
 ---
 title: Ozborn Underfoot
 statbox:
-  hometown: "???"
+  hometown: "TODO"
   race: halfling (lightfoot)
   gender: male
   class: rogue (swashbuckler)

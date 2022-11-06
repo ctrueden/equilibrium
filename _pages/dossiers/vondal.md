@@ -49,7 +49,7 @@ magic-items:
     source: "Zanqaa the Devoted - Boon of Arms: Wild"
     value: "4800+???"
     rarity: rare (major)
-    page: "???"
+    page: "TODO"
     link: https://www.5esrd.com/gamemastering/magic-items/rods-staves-wands#Wand_of_Wonder
 ---
 
