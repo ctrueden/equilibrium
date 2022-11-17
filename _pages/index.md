@@ -20,8 +20,12 @@ See [below](#setting) for further details on the setting.
 
 **Rules.** We'll use the shiny new (as of 2014 😜) D&D 5E rules.
 * Check the D&D5E Player's Handbook for details.
-* You can also find the basic rules [online for free](https://dnd.wizards.com/what-is-dnd/basic-rules).
-* And a larger subset of the core rules are also online at [5esrd.com](https://www.5esrd.com/).
+* You can also find the basic rules
+  [online for free](https://dnd.wizards.com/what-is-dnd/basic-rules).
+* And the official Wizards site for rules online at
+  [dndbeyond.com](https://www.dndbeyond.com/).
+* And a larger subset of the core rules are online at
+  [5esrd.com](https://www.5esrd.com/).
 * Finally, the [DND 5th Edition community wiki](https://dnd5e.wikidot.com/)
   includes even more rules, including from splat books, such as the class
   archetypes from *Xanathar's Guide to Everything*.
