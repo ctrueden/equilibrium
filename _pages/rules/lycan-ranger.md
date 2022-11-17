@@ -6,30 +6,30 @@ The lycan ranger is a hunter from the Selva wilderness with fearsome shapeshifti
 
 | Level | Proficiency Bonus | Features |
 |:-----:|:-----------------:|:---------|
-|  1st  |        +2         | Beast Form, Natural Explorer |
-|  2nd  |        +2         | Fighting Style, Special Arrows, Innate Natural Abilities |
-|  3rd  |        +2         | Beast Companion, Primeval Awareness |
+|  1st  |        +2         | [Beast Form](#beast-form), [Natural Explorer](https://www.dndbeyond.com/classes/ranger#NaturalExplorer-295) |
+|  2nd  |        +2         | [Fighting Style](https://www.dndbeyond.com/classes/ranger#FightingStyle-296), [Special Arrows](#special-arrows), [Innate Natural Abilities](#innate-special-abilities) |
+|  3rd  |        +2         | [Beast Companion](#beast-companion), [Primeval Awareness](#primeval-awareness) |
 |  4th  |        +2         | Ability Score Improvement |
 |  5th  |        +3         | Extra Attack
-|  6th  |        +3         | Beast Form and Natural Explorer improvements |
-|  7th  |        +3         | Ranger Archetype feature |
-|  8th  |        +3         | Ability Score Improvement, Land's Stride |
+|  6th  |        +3         | [Scent of Blood](#scent-of-blood), [Natural Explorer](https://www.dndbeyond.com/classes/ranger#NaturalExplorer-295) improvement |
+|  7th  |        +3         | Ranger Archetype feature(TODO) |
+|  8th  |        +3         | Ability Score Improvement, [Land's Stride](https://www.dndbeyond.com/classes/ranger#LandsStride-302) |
 |  9th  |        +4         | - |
-| 10th  |        +4         | Natural Explorer improvement, Hide in Plain Sight |
-| 11th  |        +4         | Ranger Archetype feature |
+| 10th  |        +4         | [Natural Explorer](https://www.dndbeyond.com/classes/ranger#NaturalExplorer-295) improvement, [Hide in Plain Sight](https://www.dndbeyond.com/classes/ranger#HideinPlainSight-303) |
+| 11th  |        +4         | Ranger Archetype feature(TODO) |
 | 12th  |        +4         | Ability Score Improvement |
 | 13th  |        +5         | - |
-| 14th  |        +5         | Beast Form improvement, Vanish |
-| 15th  |        +5         | Ranger Archetype feature |
+| 14th  |        +5         | Beast Form improvement(TODO), [Vanish](https://www.dndbeyond.com/classes/ranger#Vanish-304) |
+| 15th  |        +5         | Ranger Archetype feature(TODO) |
 | 16th  |        +5         | Ability Score Improvement |
 | 17th  |        +6         | - |
-| 18th  |        +6         | Feral Senses |
+| 18th  |        +6         | [Feral Senses](https://www.dndbeyond.com/classes/ranger#FeralSenses-305) |
 | 19th  |        +6         | Ability Score Improvement |
-| 20th  |        +6         | Legendary Hunter |
+| 20th  |        +6         | [Legendary Hunter](#legendary-hunter) |
 
 ## Beast Form
 
-*This ability replaces the standard ranger's Favored Enemy.*
+*This ability replaces the [standard ranger's Favored Enemy](https://www.dndbeyond.com/classes/ranger#FavoredEnemy-294).*
 
 You have an animal within, which manifests under certain conditions such as during a full moon, in times of high emotional stress, physical trauma, or other triggers.
 * The GM may call for a Wisdom saving throw (DC based on circumstances) to resist transforming.
@@ -57,7 +57,7 @@ TODO
 
 ## Special Arrows
 
-*Together with Innate Natural Abilities, this ability replaces the standard ranger's Spellcasting.*
+*Together with Innate Natural Abilities, this ability replaces the [standard ranger's Spellcasting](https://www.dndbeyond.com/classes/ranger#Spellcasting-297).*
 
 * At 2nd level, you learn to create unique types of arrows, made from natural flora and fauna of the jungle or other region(s). He knows how to craft a number of arrow types as follows: L2:2, L3-4:3, L5-6:4, L7-8:5, etc.
   1. Work with the GM to create each arrow type. As a rule of thumb, choose either: A) a ranger spell that makes sense as an arrow, of a level a standard ranger could normally cast; or B) an arrow type listed in the [arcane archer arcane shot options](http://dnd5e.wikidot.com/fighter:arcane-archer).
@@ -69,46 +69,46 @@ TODO
 
 ## Innate Natural Abilities
 
-*Together with Special Arrows, this ability replaces the standard ranger's Spellcasting.*
+*Together with Special Arrows, this ability replaces the [standard ranger's Spellcasting](https://www.dndbeyond.com/classes/ranger#Spellcasting-297).*
 
 * The ranger has a number of abilities equal to the number of ranger “spells known”
 * The player should work with the GM to create abilities. Each ability needs some animalistic tie or justification to fit the theme. As a rule of thumb, choose a ranger spell that makes sense as an innate ability. The ability may need adjustment to fit as an innate ability rather than a spell.
 
 ## Beast Companion
 
-*This ability replaces the standard ranger's 3rd level archetype ability. See also the Ranger’s Companion ability of the Beast Master ranger archetype.*
+*This ability replaces the [standard ranger's 3rd level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability. See also the [Ranger’s Companion](http://dnd5e.wikidot.com/ranger:beast-master#toc0) and [Primal Companion](dnd5e.wikidot.com/ranger:beast-master#toc1) options of the Beast Master ranger archetype.*
 
 At 3rd level, you become bonded to mystic spirit animals of unknown origin. They are loyal, but not beholden, to you.
 
-TODO flesh out these rules more
+TODO flesh out these rules more -- Can adapt the Beast of the Sky option from Primal Companion.
 
 ## Primeval Awareness
 
-*This ability replaces the standard ranger's Primeval Awareness.*
+*This ability replaces the [standard ranger's Primeval Awareness](https://www.dndbeyond.com/classes/ranger#PrimevalAwareness-299).*
 
 Beginning at 3rd level, you can use your action to focus your awareness on the region around you. For 1 minute, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestiais, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures’ exact location or number, but does suggest an approximate strength of presence, which is affected by the creatures’ quantity, force of will and distance. Use of this ability is regained with a long rest.
 
 ## Focused Shot
 
-*This ability replaces the standard ranger's 7th level archetype ability.*
+*This ability replaces the [standard ranger's 7th level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability.*
 
-* Starting at 7th level, you can focus your concentration when attacking at range. As an action while no enemy threatens you in melee, you make one ranged attack with advantage on the roll.
+* Starting at 7th level, you can focus your concentration when attacking at range. As an action while no enemy threatens you in melee, you make one ranged attack with advantage, and add your Wisdom modifier to the attack roll.
 
 ## L11 TBD
 
-*This ability replaces the standard ranger's 11th level archetype ability.*
+*This ability replaces the [standard ranger's 11th level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability.*
 
 Michael & Curtis TODO - more mental control over beast form -- reduced stat penalties?
 
 ## L15 TBD
 
-*This ability replaces the standard ranger's 15th level archetype ability.*
+*This ability replaces the [standard ranger's 15th level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability.*
 
 Michael & Curtis TODO
 
 ## Legendary Hunter
 
-*This ability replaces the standard ranger's Foe Slayer.*
+*This ability replaces the [standard ranger's Foe Slayer](https://www.dndbeyond.com/classes/ranger#FoeSlayer-306).*
 
 At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your marked enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied. While in beast form, you may activate this ability versus any enemy (though still only once per turn).
 
