@@ -69,6 +69,10 @@ magic-items:
 
 Freki is a bounty hunter who venerates nature and despises magic. He prowls the [Selva](../locales/selva), seeking prey.
 
+| Elfin | Hybrid | Beast |
+|-------|--------|-------|
+| [![Elfin](https://i.pinimg.com/originals/bf/6c/32/bf6c32901d1a100a8f1d2b47068dae67.jpg){:style="height: 250px"}](https://www.pinterest.com/pin/545498573597388522/) | [![Hybrid](https://static.wikia.nocookie.net/evenfall/images/7/76/Shifter_%282%29.jpg){:style="height: 250px"}](https://evenfall.fandom.com/wiki/Shifter) | [![Beast](https://i.pinimg.com/originals/84/84/29/848429b7e078c252073beb4511d79b8d.png){:style="height: 250px"}](https://www.pinterest.com/pin/645562927835781072/) |
+
 ## Rules
 
 ### Tapestry of Fate
