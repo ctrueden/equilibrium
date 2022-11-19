@@ -41,7 +41,7 @@ Freki tells the SPI that several tribes frequent this area of the Jungle near [X
 * Claims to have witnessed the massacre.
 
 **[Bruck](../dossiers/bruck)** (male, orc, middle aged)
-* Orc former slave (see case [03](https://docs.google.com/document/d/1ZlbFWYoPGjTVhZNyKgPrPm3gXClVqlQcoFloUPbCu_A)), friend to the Blood Hand Orcs.
+* Orc former slave (see case [03](case-03)), friend to the Blood Hand Orcs.
 * Helped guide the SPI from Xaos to the site of the Manufeai massacre.
 
 **[Vuthos](../dossiers/vuthos)** (male, orc, young adult)

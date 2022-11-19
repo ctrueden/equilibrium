@@ -44,7 +44,7 @@ when: 50 Cudo 11-13
 **[Dominic Tremere](../dossiers/dominic-tremere)** (male, human, adult)
 
 * A dealer in antiquities from Refuge, RUP.
-* Patron of [Case 01](https://docs.google.com/document/d/1DqBJcmzQxA_t_CNuUUL4O2lc9baZBWeJO9DoWxaRSLw/edit), and victim of [Case 02](https://docs.google.com/document/d/1mK75IptgDAnj2oNsZszR-w7NVldmF3ToXz4--mXj74k/edit).
+* Patron of [Case 01](case-01), and victim of [Case 02](case-02).
 * Returned to life as a young man via a clone in his vault.
 * Needs to wear a periapt of health at all times.
 * Formerly in possession of the Necronomicon and Warforged.

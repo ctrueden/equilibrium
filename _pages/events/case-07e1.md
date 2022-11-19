@@ -21,11 +21,11 @@ session-event: https://www.facebook.com/events/318963628545414/
   * Callie and Bec knew the name P. Stormcloud: she is a historian, author of “The Aecus Concord and the War of Countless Deaths,” the definitive history of the events leading up to the cataclysm and reformation 50 years ago.
   * MAI = Master of Arcane Invocations; MHA = Master of the Historical Arts.
 
-* Mallory briefed the team on known artifacts likely to be on par with the lamp. These objects might (or might not) be part of this auction. The artifacts in the file include: 1) the Necronomicon, 2) the Arkenstone; 3) the Cornucopia of Life; 4) Yggdrasil, the World Tree; and 5) the Lamp of Seeming. After hearing about the artifacts, it occurred to Bec that each one seemed to be aligned with a different divine domain! See “Items of Interest” above for details.
+* Mallory briefed the team on known artifacts likely to be on par with the lamp. These objects might (or might not) be part of this auction. The artifacts in the file include: 1) the Necronomicon, 2) the Arkenstone; 3) the Cornucopia of Life; 4) Yggdrasil, the World Tree; and 5) the Lamp of Seeming. After hearing about the artifacts, it occurred to Bec that each one seemed to be aligned with a different divine domain! See [Items of Interest](case-07#items-of-interest) from the case 07 file for details.
 
 * In the 24 hours before the meeting time, Bec, Callie, and Vondal investigated possible artifacts for the remaining domains:
   * Knowledge: Callie had a hunch about what it might be! But she did not share.
   * Tempest: Callie summoned Belifax so that she and Bec could ask him about Melora, the goddess of the sea who the citizens of Trell are forbidden to worship. When they dropped her name, Belifax whispered the legend: Melora lives in the eye of the Relentless Hurricane, at the helm of a mighty vessel which she built using her own two hands. Many in Trell do not believe it, and in fact, Melora worship is sometimes punished by sending the offenders into the hurricane. Belifax then offered them some freshly baked blood cookies.
   * War: No ideas yet!
-* Meanwhile, Freki scouted out the 4th Circle of Estanesse, and found it looks like this: He staked out the place for 24 hours. As the time of the meeting neared, several colorful characters emerged—see “Persons of Interest” above for details.
+* Meanwhile, Freki scouted out the 4th Circle of Estanesse, and found it looks like this: He staked out the place for 24 hours. As the time of the meeting neared, several colorful characters emerged—see [Persons of Interest](case-07#persons-of-interest) from the case 07 file for details.
 * Timor Invictus appeared at the circle, and demanded everyone produce their invitations.
