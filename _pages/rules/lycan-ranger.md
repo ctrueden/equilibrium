@@ -29,7 +29,7 @@ The lycan ranger is a hunter from the Selva wilderness with fearsome shapeshifti
 
 ## Beast Form
 
-*This ability replaces the [standard ranger's Favored Enemy](https://www.dndbeyond.com/classes/ranger#FavoredEnemy-294).*
+*This ability replaces the [standard ranger's Favored Enemy](https://www.dndbeyond.com/classes/ranger#FavoredEnemy-294). See also [werewolf rules](https://www.dndbeyond.com/monsters/17057-werewolf) and [The Complete Guide to Lycanthropy in D&D 5e](https://halflinghobbies.com/the-complete-guide-to-lycanthropy-in-dd-5e/), which would be good to integrate more consistently with the below (TODO).*
 
 You have an animal within, which manifests under certain conditions such as during a full moon, in times of high emotional stress, physical trauma, or other triggers.
 * The GM may call for a Wisdom saving throw (DC based on circumstances) to resist transforming.
