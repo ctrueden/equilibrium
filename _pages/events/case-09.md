@@ -1,5 +1,6 @@
 ---
 title: "[Case 09] Amalgamation and Anathema"
+description: The SPI agents find themselves in a bizarre realm of unreality, from which they must escape. But along the way, they stumble across the corpse of someone they know.
 datestamp: 50-04-19/A
 when: 50 Cudo 19-26
 ---

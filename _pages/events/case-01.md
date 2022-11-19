@@ -1,5 +1,6 @@
 ---
 title: "[Case 01] Petrification and Putrifaction"
+description: A petrified accountant triggers a cascade of events.
 datestamp: 50-03-10/0
 when: 50 Solis 10
 ---

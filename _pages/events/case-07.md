@@ -1,5 +1,6 @@
 ---
 title: "[Case 07] Hazards and Harbingers"
+description: "Whodunnit mystery in a spooky manor. Auction for a vial of divine essence is interrupted by MURDER!"
 datestamp: 50-04-11/0
 when: 50 Cudo 11-13
 ---

@@ -1,5 +1,7 @@
 ---
 title: "[Case 11] Hardships and Homecomings"
+description: >-
+  Aboleths infiltrate Callie's family, and want the Cornucopia for their nefarious purposes!
 datestamp: 50-05-10/0
 when: 50 Rixa 10-23
 ---

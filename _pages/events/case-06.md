@@ -1,5 +1,6 @@
 ---
 title: "[Case 06] Mutilation and Metamorphosis"
+description: "TODO"
 datestamp: 50-03-24/0
 when: 50 Solis 24 - Cudo 07
 ---

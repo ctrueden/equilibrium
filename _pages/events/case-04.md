@@ -1,5 +1,6 @@
 ---
 title: "[Case 04] Ingestion and Incoherency"
+description: TODO
 datestamp: 50-03-16/0
 when: 50 Solis 16
 ---
