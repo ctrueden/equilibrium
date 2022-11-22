@@ -18,17 +18,17 @@ reasons. The political landscape is rather important to the culture that has
 enabled a dedicated supernatural crime-solving organization to exist.
 See [below](#setting) for further details on the setting.
 
-**Rules.** We'll use the shiny new (as of 2014 😜) D&D 5E rules.
-* Check the D&D5E Player's Handbook for details.
-* You can also find the basic rules
-  [online for free](https://dnd.wizards.com/what-is-dnd/basic-rules).
-* And the official Wizards site for rules online at
-  [dndbeyond.com](https://www.dndbeyond.com/).
-* And a larger subset of the core rules are online at
-  [5esrd.com](https://www.5esrd.com/).
-* Finally, the [DND 5th Edition community wiki](https://dnd5e.wikidot.com/)
-  includes even more rules, including from splat books, such as the class
-  archetypes from *Xanathar's Guide to Everything*.
+**Rules.** We use the Dungeons & Dragons Fifth Edition (D&D5E) rules,
+which are available online:
+* [5e.tools](https://5e.tools) &ndash;
+  A wealth of D&D5E rules in one place.
+* [dndbeyond.com](https://www.dndbeyond.com/) &ndash;
+  The official Wizards site for D&D5E rules.
+* [5esrd.com](https://www.5esrd.com/) &ndash;
+  A large subset of the core rules plus third party materials.
+* [dnd5e.wikidot.com](https://dnd5e.wikidot.com/) &ndash; The DND 5th Edition
+  community wiki, with even more rules, including from splat books, such as the
+  class archetypes from *Xanathar's Guide to Everything*.
 
 **Characters.** Main points of character creation:
 * Try to hail from a unique territory and/or race. This helps diversity and world-building.
