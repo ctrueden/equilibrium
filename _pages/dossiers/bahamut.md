@@ -21,6 +21,14 @@ statbox:
   enemies:
   - Sehanine
   - Tiamat
+links:
+- 4E|https://dnd4.fandom.com/wiki/Bahamut
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Bahamut
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Bahamut
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Bahamut
+- Evenfall|https://evenfall.fandom.com/wiki/Bahamut
+- Critical Role|https://criticalrole.fandom.com/wiki/Bahaamut
+- Wikipedia|https://en.wikipedia.org/wiki/Bahamut_%28Dungeons_%26_Dragons%29
 ---
 
 ## Precepts

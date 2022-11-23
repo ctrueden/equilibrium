@@ -19,6 +19,13 @@ statbox:
   - Io
   enemies:
   - Bahamut
+links:
+- 4E|https://dnd4.fandom.com/wiki/Tiamat
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Tiamat
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Tiamat
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Tiamat
+- Critical Role|https://criticalrole.fandom.com/wiki/Tiamat
+- Wikipedia|https://en.wikipedia.org/wiki/Tiamat_%28Dungeons_%26_Dragons%29
 ---
 
 ## Precepts

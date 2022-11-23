@@ -7,10 +7,9 @@ statbox:
   race: [eternal, dragon]
   gender: none
   alignment: unaligned
-  month: Gyrus
+  month: "01 Gyrus"
   domains:
-  - Knowledge
-  - War
+  - All
   porfolio:
   - Balance
   - Peace
@@ -20,6 +19,11 @@ statbox:
   - Bahamut
   - Sardior
   - Tiamat
+links:
+- 4E|https://dnd4.fandom.com/wiki/Io
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Io
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Io
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Asgorath
 ---
 
 The greater deity and primordial of all dragonkind as well as balance and

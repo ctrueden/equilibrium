@@ -7,6 +7,7 @@ statbox:
   race: [eternal, gnome]
   gender: female
   alignment: chaotic neutral
+  month: "09 Casus"
   domains:
   - Trickery
   portfolio:
@@ -29,6 +30,10 @@ statbox:
   - Sehanine
   enemies:
   - Asmodeus
+links:
+- 4E|https://dnd4.fandom.com/wiki/Avandra
+- Evenfall|https://evenfall.fandom.com/wiki/Avandra
+- Critical Role|https://criticalrole.fandom.com/wiki/Avandra
 ---
 
 [Avandra](https://dnd4.fandom.com/wiki/Avandra)

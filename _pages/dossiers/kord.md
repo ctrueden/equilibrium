@@ -7,6 +7,7 @@ statbox:
   race: eternal
   gender: male
   alignment: unaligned
+  month: "06 Vis"
   domains:
   - Tempest
   portfolio:
@@ -22,6 +23,16 @@ statbox:
   - Gruumsh
   - Hyperion
   - Sehanine
+links:
+- 4E|https://dnd4.fandom.com/wiki/Kord
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Kord
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Kord
+- Evenfall|https://evenfall.fandom.com/wiki/Kord
+- Critical Role|https://criticalrole.fandom.com/wiki/Kord
 ---
 
-"The strong and fit should lead the weaker. Bravery is the greatest quality in any ruler. Scorn cowardice."
+## Precepts
+
+* The strong and fit should lead the weaker.
+* Bravery is the greatest quality in any ruler.
+* Scorn cowardice.

@@ -7,6 +7,7 @@ statbox:
   race: [eternal, orc]
   gender: male
   alignment: lawful evil
+  month: "05 Rixa"
   domains:
   - Tempest
   - War
@@ -23,7 +24,12 @@ statbox:
   - Kord
   enemies:
   - Corellon
-
+links:
+- 4E|https://dnd4.fandom.com/wiki/Gruumsh
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Gruumsh
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Gruumsh
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Gruumsh
+- Critical Role|https://criticalrole.fandom.com/wiki/Gruumsh
 ---
 
 ## Precepts

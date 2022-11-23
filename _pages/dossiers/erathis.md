@@ -7,6 +7,7 @@ statbox:
   race: [eternal, gnome]
   gender: female
   alignment: lawful neutral
+  month: "12 Idea"
   domains:
   - Knowledge
   allies:
@@ -17,6 +18,11 @@ statbox:
   - Pelor
   enemies:
   - Melora
+links:
+- 4E|https://dnd4.fandom.com/wiki/Erathis
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Erathis
+- Evenfall|https://evenfall.fandom.com/wiki/Erathis
+- Critical Role|https://criticalrole.fandom.com/wiki/Erathis
 ---
 
 ## Precepts

@@ -7,6 +7,7 @@ statbox:
   race: eternal
   gender: female
   alignment: neutral
+  month: "07 Avium"
   domains:
   - Nature
   - Tempest
@@ -23,6 +24,10 @@ statbox:
   enemies:
   - Asmodeus
   - Erathis
+links:
+- 4E|https://dnd4.fandom.com/wiki/Melora
+- Evenfall|https://evenfall.fandom.com/wiki/Melora
+- Critical Role|https://criticalrole.fandom.com/wiki/Melora
 ---
 
 ## Precepts

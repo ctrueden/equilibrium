@@ -22,6 +22,12 @@ statbox:
   - Pelor
   enemies:
   - Vecna
+links:
+- 4E|https://dnd4.fandom.com/wiki/Ioun
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Ioun
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Congenio_Ioun
+- Evenfall|https://evenfall.fandom.com/wiki/Ioun
+- Critical Role|https://criticalrole.fandom.com/wiki/Ioun
 ---
 
 TODO

@@ -8,7 +8,7 @@ statbox:
   race: [eternal, dwarf]
   gender: male
   alignment: lawful good
-  month: Lux
+  month: "02 Lux"
   domains:
   - Light
   - War
@@ -26,6 +26,14 @@ statbox:
   enemies:
   - Gruumsh
   - Hyperion
+links:
+- 4E|https://dnd4.fandom.com/wiki/Moradin
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Moradin
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Moradin
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Moradin
+- Evenfall|https://evenfall.fandom.com/wiki/Moradin
+- Critical Role|https://criticalrole.fandom.com/wiki/Moradin
+- Wikipedia|https://en.wikipedia.org/wiki/Moradin
 ---
 
 ## Precepts

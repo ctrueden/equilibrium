@@ -7,7 +7,7 @@ statbox:
   race: [eternal, human]
   gender: male
   alignment: neutral good
-  month: Solis
+  month: "04 Solis"
   domains:
   - Life
   - Light
@@ -28,6 +28,13 @@ statbox:
   - Sehanine
   - Vecna
   quote: "THE FUTURE IS YOURS TO SHAPE."
+links:
+- 4E|https://dnd4.fandom.com/wiki/Pelor
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Pelor
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Pelor
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Amaunator
+- Evenfall|https://evenfall.fandom.com/wiki/Pelor
+- Critical Role|https://criticalrole.fandom.com/wiki/Pelor
 ---
 
 ## Precepts

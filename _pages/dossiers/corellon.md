@@ -7,7 +7,7 @@ statbox:
   race: [eternal, elf]
   gender: "? (they/them/their)"
   alignment: unaligned
-  month: Fons
+  month: "03 Fons"
   domains:
   - Nature
   - Light
@@ -33,6 +33,14 @@ statbox:
   enemies:
   - Gruumsh
   - Vecna
+links:
+- 4E|https://dnd4.fandom.com/wiki/Corellon
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Corellon_Larethian
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Corellon_Larethian
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Corellon
+- Evenfall|https://evenfall.fandom.com/wiki/Corellon
+- Critical Role|https://criticalrole.fandom.com/wiki/Corellon
+- Wikipedia|https://en.wikipedia.org/wiki/Corellon_Larethian
 ---
 
 

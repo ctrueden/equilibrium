@@ -7,6 +7,7 @@ statbox:
   race: eternal
   gender: female
   alignment: unaligned
+  month: "10 Fatum"
   domains:
   - Death
   - Trickery
@@ -27,6 +28,13 @@ statbox:
   enemies:
   - Asmodeus
   - Vecna
+links:
+- 4E|https://dnd4.fandom.com/wiki/Nerull
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Nerull
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Nerull
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Raven_Queen
+- Evenfall|https://evenfall.fandom.com/wiki/Raven_Queen
+- Critical Role|https://criticalrole.fandom.com/wiki/Raven_Queen
 ---
 
 ## Precepts

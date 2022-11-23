@@ -7,6 +7,7 @@ statbox:
   race: [eternal, elf (drow)]
   gender: female
   alignment: unaligned
+  month: "08 Luna"
   domains:
   - Nature
   - Trickery
@@ -31,6 +32,13 @@ statbox:
   - Pelor
   - Tiamat
   - Vecna
+links:
+- 4E|https://dnd4.fandom.com/wiki/Sehanine
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Sehanine_Moonbow
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Sehanine_Moonbow
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Sehanine_Moonbow
+- Evenfall|https://evenfall.fandom.com/wiki/Sehanine
+- Critical Role|https://criticalrole.fandom.com/wiki/Sehanine
 ---
 
 ## Precepts

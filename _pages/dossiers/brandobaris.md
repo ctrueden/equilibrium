@@ -21,6 +21,11 @@ statbox:
   - Avandra
   enemies:
   - TODO
+links:
+- 4E|https://dnd4.fandom.com/wiki/Bahamut
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Brandobaris
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Brandobaris
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Brandobaris
 ---
 
 [Brandobaris](https://wewererogue.tumblr.com/post/188179601981/brandobaris-a-patron-deity-for-thieves-from)

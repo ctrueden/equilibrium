@@ -10,6 +10,12 @@ statbox:
   gender: female
   alignment: lawful good
   pronunciation: "YON-dah-lah"
+  domains:
+  - Unknown
+links:
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Yondalla
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Yondalla
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Yondalla
 ---
 
 ...
