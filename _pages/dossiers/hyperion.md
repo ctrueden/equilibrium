@@ -1,7 +1,10 @@
 ---
-title: Hyperion
+title: Hyperion, Titan of Light
 statbox:
-  race: titan
+  race: [titan, giant]
+  gender: male
+links:
+  - Wikipedia|https://en.wikipedia.org/wiki/Hyperion_(Titan)
 ---
 
-A [titan](../creatures/titans) known by [Cal](../dossiers/cal) and [Phoebe](../dossiers/phoebe).
+A [titan](../creatures/titans) known by [Cal](../dossiers/cal) and [Phoebe](../dossiers/phoebe). Consort of [Theia](theia).
