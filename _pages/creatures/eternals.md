@@ -6,6 +6,8 @@ image-source: https://forgottenrealms.fandom.com/wiki/Deity
 
 The eternals, commonly worshipped as deities, are the beings that built the modern world. Many continue to participate in its growth and development. Some are newcomers seeking to claim a place amongst the divinity.
 
+## Table of eternals
+
 {% assign link-sites = "4E|D&D wiki|Greyhawk|Forgotten Realms|Evenfall|Critical Role|Wikipedia" | split: "|" -%}
 
 <style>
@@ -58,6 +60,8 @@ th.rotate > div {
 {%- endfor -%}
 </tbody>
 </table>
+
+### Allegiances
 
 <center><figure>
 <a href="../assets/images/eternals.svg"><img src="../assets/images/eternals.svg" style="max-width: 100%; max-height: 500px"></a>
