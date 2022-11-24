@@ -10,8 +10,8 @@ statbox:
   alignment: lawful good
   month: "02 Lux"
   domains:
+  - Knowledge
   - Light
-  - War
   portfolio:
   - Creation
   - Family
