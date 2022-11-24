@@ -1,5 +1,7 @@
 ---
 title: Titans
+image: https://i.pinimg.com/originals/bb/93/37/bb9337e3c7adab6142576ea18352f559.png
+image-source: https://www.pinterest.com/pin/985231160206081/
 ---
 
 The titans are a legendary group of twelve powerful entities that some say gave rise to [the gods](eternals) themselves. How much of that story is really true is a source of frequent debate amongst religious scholars.
