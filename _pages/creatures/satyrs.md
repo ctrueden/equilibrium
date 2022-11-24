@@ -5,3 +5,7 @@ image-source: https://www.pinterest.com/pin/421227371403508078/
 ---
 
 TODO
+
+### List of satyrs
+
+{% include charlist race="satyr" %}

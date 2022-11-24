@@ -19,3 +19,7 @@ Giants belong to a caste structure called the ordning. Based on social class and
 At the highest level of the ordning, the races of the giants are also ranked according to status. Storm giants are the highest in the ordning, followed by cloud giants, fire giants, frost giants, stone giants, hill giants, and finally giant kin such as fomorians, ettins, and ogres. Regardless of a giant's rank among its own race, the chief of a hill giant tribe is inferior to the most common of stone giants. The lowest ranked giant of any type is superior to the highest ranked giant of an inferior type. It isn't considered evil to disrespect or even betray a giant of another type, merely rude.
 
 The [Titans](titans) exist at the very highest level of the Ordning, revered by giants as the pinnacle of form. Unlike giants, titans are immortal, with some believing them to be descended from—or otherwise related to—the gods themselves.
+
+## List of giants
+
+{% include charlist race="giant" %}

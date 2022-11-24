@@ -5,3 +5,7 @@ image-source: https://www.pinterest.com/pin/506866133061119876/
 ---
 
 TODO
+
+## List of pixies
+
+{% include charlist race="pixie" %}

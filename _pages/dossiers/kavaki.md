@@ -9,7 +9,7 @@ image-greatsword-source: https://www.pinterest.ca/pin/416864509255059494/
 image-whip: https://i.pinimg.com/originals/ee/8b/08/ee8b087df38fb8daf5471bc52363401e.jpg
 image-whip-source: https://www.pinterest.com/pin/493073859201697806/
 statbox:
-  race: goliath
+  race: giant (goliath)
   gender: female
   tribe: Malosi
   case: "06"

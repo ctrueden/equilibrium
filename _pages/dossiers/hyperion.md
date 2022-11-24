@@ -1,7 +1,7 @@
 ---
 title: Hyperion, Titan of Light
 statbox:
-  race: [titan, giant]
+  race: [titan, giant (frost)]
   gender: male
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Hyperion_(Titan)

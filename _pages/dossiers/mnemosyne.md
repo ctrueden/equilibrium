@@ -1,7 +1,7 @@
 ---
 title: Mnemosyne, Titan of Memory
 statbox:
-  race: [titan, dryad]
+  race: [titan]
   gender: female
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Mnemosyne

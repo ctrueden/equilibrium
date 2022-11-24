@@ -5,3 +5,7 @@ image-source: https://www.pinterest.com/pin/37506609387360721/
 ---
 
 TODO
+
+### List of tieflings
+
+{% include charlist race="tiefling" %}
