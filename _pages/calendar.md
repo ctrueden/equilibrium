@@ -58,10 +58,10 @@ time each year near the Arenan quadrant. Some scholars believe this is due to
 consequence, some nations have an imbalance of seasons, as noted in the
 following table.
 
-Furthermore, the moon does move through its phases evenly throughout the year,
-but rather spends substantially more time waxing than waning, reaching its
-fullest at the midpoint between the Arenan and Ignan solar apexes, and its
-newest at the midpoint between the Terran and Glacian solar apexes.
+Furthermore, the moon does not move through its phases evenly throughout the
+year, but rather spends substantially more time waxing than waning, reaching
+its fullest at the midpoint between the Arenan and Ignan solar apexes, and
+its newest at the midpoint between the Terran and Glacian solar apexes.
 
 |  When | Event               | Element(s)  | Summer<br>Solstice           | Autumn<br>Equinox            | Winter<br>Solstice           | Spring<br>Equinox            |
 |------:|---------------------|-------------|------------------------------|------------------------------|------------------------------|------------------------------|
@@ -98,23 +98,23 @@ with an additional festival day for each of the four seasons.
 
 | ## | Month     | Season           | Symbol      | Notes                           |
 |----|-----------|------------------|-------------|---------------------------------|
-| 00 | Zarantyr  | Mid winter       | Storm       |                                 |
-| 00 | Olarune   | Late winter      | Sentinel    |                                 |
+| 01 | Zarantyr  | Mid winter       | Storm       |                                 |
+| 02 | Olarune   | Late winter      | Sentinel    |                                 |
 |  - | Springday |                  |             | Festival day celebrating spring |
-| 00 | Therendor | Early spring     | Healing     | Spring equinox on Therendor 4   |
-| 00 | Eyre      | Mid spring       | Making      | New moon on Eyre 6              |
-| 00 | Dravago   | Late spring      | Handling    |                                 |
+| 03 | Therendor | Early spring     | Healing     | Spring equinox on Therendor 4   |
+| 04 | Eyre      | Mid spring       | Making      | New moon on Eyre 6              |
+| 05 | Dravago   | Late spring      | Handling    |                                 |
 |  - | Summerday |                  |             | Festival day celebrating summer |
-| 00 | Nymm      | Early summer     | Hospitality | Summer solstice on Nymm 11      |
-| 00 | Lharvion  | Early-mid summer | Detection   |                                 |
-| 00 | Barrakas  | Late-mid summer  | Finding     | Waxing half moon on Barrakas 16 |
-| 00 | Rhaan     | Late summer      | Scribing    | Autumn equinox on Rhaan 19      |
+| 06 | Nymm      | Early summer     | Hospitality | Summer solstice on Nymm 11      |
+| 07 | Lharvion  | Early-mid summer | Detection   |                                 |
+| 08 | Barrakas  | Late-mid summer  | Finding     | Waxing half moon on Barrakas 16 |
+| 09 | Rhaan     | Late summer      | Scribing    | Autumn equinox on Rhaan 19      |
 |  - | Autumnday |                  |             | Festival day celebrating autumn |
-| 00 | Sypheros  | Early autumn     | Shadow      |                                 |
-| 00 | Aryth     | Mid autumn       | Passage     | Full moon on Aryth 23           |
-| 00 | Vult      | Late autumn      | Warding     | Winter solstice on Vult 26      |
+| 10 | Sypheros  | Early autumn     | Shadow      |                                 |
+| 11 | Aryth     | Mid autumn       | Passage     | Full moon on Aryth 23           |
+| 12 | Vult      | Late autumn      | Warding     | Winter solstice on Vult 26      |
 |  - | Winterday |                  |             | Festival day celebrating winter |
-| 00 | Xendrik   | Early winter     | Death       | Waning half moon on Xendrik 27  |
+| 13 | Xendrik   | Early winter     | Death       | Waning half moon on Xendrik 27  |
 
 The first of the month is always called Sul, and the rest follow as shown below:
 
@@ -256,13 +256,13 @@ Trell children to foster self-improvement and success as they develop.
 
 | Month          | Days | Season                | Objective | Slogan                                                   | Connotations                                                               |
 |----------------|------|-----------------------|-----------|----------------------------------------------------------|----------------------------------------------------------------------------|
-| Ursa           |    1 | Eve of winter         |           |                                                          |                                                                            |
+| Ursa           |    1 | Eve of winter         |           |                                                          | market and seasonal contraction and scarcity                               |
 | Abadius        |   31 | Early winter          | Plan      | Bargain shrewdly with others toward common goals         | preparation, civilization, law, transaction, patience, neutrality          |
 | Calistril      |   29 | Mid winter            | Grasp     | Seize sudden opportunities at crucial moments            | desire, confidence, revenge, duplicity, emotion                            |
 | Pharast        |   31 | Late winter (gusty)   | Rely      | Build around the stable foundation of what is certain    | soul, birth, death, fate, prophecy, cycle                                  |
 | Gozran         |   30 | Early spring (storms) | Insure    | Manage areas of high risk during volatile periods        | wildness of nature, storm & sky, wave & surf, fury, wrath, fickleness      |
 | Desnus         |   31 | Late spring (mild)    | Explore   | Seek new resources exposed by changing circumstances     | heavens, dreams, luck, stars, travel, exploration                          |
-| Taurus         |    1 | Eve of summer         |           |                                                          |                                                                            |
+| Taurus         |    1 | Eve of summer         |           |                                                          | market and seasonal growth and abundance                                   |
 | Sarenith       |   30 | Early summer (warmer) | Assess    | Reevaluate assets and take pride in accomplishments      | sun, redemption, honesty, healing, temperance, patience, compassion, peace |
 | Erastus        |   31 | Mid summer            | Exploit   | Leverage areas of strength for maximum impact            | family, farming, hunting, trading, good deeds, growth                      |
 | Arodus         |   31 | Late summer           | Study     | Observe others and learn from their successes            | innovation, history, culture, destiny, glory                               |
