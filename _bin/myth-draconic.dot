@@ -1,0 +1,15 @@
+digraph {
+  overlap=scale;
+  //splines=curved;
+  layout=neato;
+  sep=0.2;
+  pad=0.2;
+  Io -> Bahamut
+  Io -> Tiamat
+  Bahamut -> Earth
+  Bahamut -> Sky
+  Bahamut -> Sea
+  Tiamat -> Night
+  Tiamat -> Darkness
+  Tiamat -> Abyss
+}
