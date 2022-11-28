@@ -8,7 +8,7 @@ statbox:
   gender: female
   alignment: lawful evil
   domains:
-  - Trickery
+  - Death
   - War
   portfolio:
   - Chromatic dragons
@@ -26,6 +26,8 @@ links:
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Tiamat
 - Critical Role|https://criticalrole.fandom.com/wiki/Tiamat
 - Wikipedia|https://en.wikipedia.org/wiki/Tiamat_%28Dungeons_%26_Dragons%29
+- 5E Dawn War|https://5e.tools/deities.html#tiamat_dawn%20war_dmg
+- 5E Exandria|https://5e.tools/deities.html#tiamat_exandria_egw
 ---
 
 ## Precepts

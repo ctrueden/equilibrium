@@ -9,13 +9,15 @@ statbox:
   alignment: neutral
   month: "07 Avium"
   domains:
-  - Nature
   - Tempest
+  - Nature
   portfolio:
   - Wilderness
   - The Sea
   aliases:
   - Ehlonna
+  - Ehlenestra
+  - Umberlee
   allies:
   - Avandra
   - Corellon
@@ -26,8 +28,11 @@ statbox:
   - Erathis
 links:
 - 4E|https://dnd4.fandom.com/wiki/Melora
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Umberlee
 - Evenfall|https://evenfall.fandom.com/wiki/Melora
 - Critical Role|https://criticalrole.fandom.com/wiki/Melora
+- 5E Dawn War|https://5e.tools/deities.html#melora_dawn%20war_dmg
+- 5E Exandria|https://5e.tools/deities.html#melora_exandria_egw
 ---
 
 ## Precepts

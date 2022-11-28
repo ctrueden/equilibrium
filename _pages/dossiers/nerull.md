@@ -10,7 +10,7 @@ statbox:
   month: "10 Fatum"
   domains:
   - Death
-  - Trickery
+  - Life
   portfolio:
   - Death
   - Darkness
@@ -19,6 +19,7 @@ statbox:
   - Winter
   aliases:
   - The Raven Queen
+  - Wee Jas
   - Tharizdun
   - Aurom
   allies:
@@ -35,6 +36,10 @@ links:
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Raven_Queen
 - Evenfall|https://evenfall.fandom.com/wiki/Raven_Queen
 - Critical Role|https://criticalrole.fandom.com/wiki/Raven_Queen
+- 5E Greyhawk|https://5e.tools/deities.html#nerull_greyhawk_phb
+- 5E Dawn War|https://5e.tools/deities.html#raven%20queen_dawn%20war_dmg
+- 5E Exandria|https://5e.tools/deities.html#the%20raven%20queen_exandria_egw
+- 5E Greek|https://5e.tools/deities.html#hades_greek_phb
 ---
 
 ## Precepts

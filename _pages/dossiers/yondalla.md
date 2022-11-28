@@ -11,11 +11,16 @@ statbox:
   alignment: lawful good
   pronunciation: "YON-dah-lah"
   domains:
-  - Unknown
+  - Life
+  - Nature
 links:
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Yondalla
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Yondalla
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Yondalla
+- 5E Racial|https://5e.tools/deities.html#yondalla_halfling_mtf
+- 5E Greek|https://5e.tools/deities.html#hestia_greek_phb
+- 5E Greek 2|https://5e.tools/deities.html#demeter_greek_phb
+- 5E Greek 3|https://5e.tools/deities.html#hera_greek_phb
 ---
 
 ...

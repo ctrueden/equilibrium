@@ -10,6 +10,7 @@ statbox:
   month: "12 Idea"
   domains:
   - Knowledge
+  - War
   allies:
   - Asmodeus
   - Avandra
@@ -18,11 +19,15 @@ statbox:
   - Pelor
   enemies:
   - Melora
+  - Vecna
 links:
 - 4E|https://dnd4.fandom.com/wiki/Erathis
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Erathis
 - Evenfall|https://evenfall.fandom.com/wiki/Erathis
 - Critical Role|https://criticalrole.fandom.com/wiki/Erathis
+- 5E Dawn War|https://5e.tools/deities.html#erathis_dawn%20war_dmg
+- 5E Exandria|https://5e.tools/deities.html#erathis_exandria_egw
+- 5E Greek|https://5e.tools/deities.html#athena_greek_phb
 ---
 
 ## Precepts

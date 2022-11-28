@@ -9,8 +9,8 @@ statbox:
   alignment: lawful evil
   month: "05 Rixa"
   domains:
-  - Tempest
   - War
+  - Nature
   portfolio:
   - Conquest
   - Survival
@@ -30,6 +30,11 @@ links:
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Gruumsh
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Gruumsh
 - Critical Role|https://criticalrole.fandom.com/wiki/Gruumsh
+- 5E Exandria|https://5e.tools/deities.html#gruumsh_exandria_egw
+- 5E Racial|https://5e.tools/deities.html#gruumsh_orc_vgm
+- 5E Greek|https://5e.tools/deities.html#ares_greek_phb
+- 5E Exandria 2|https://5e.tools/deities.html#bane_exandria_egw
+- 5E Faerun|https://5e.tools/deities.html#bane_faer%c3%bbnian_scag
 ---
 
 ## Precepts

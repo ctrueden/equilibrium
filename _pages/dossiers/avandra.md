@@ -10,7 +10,11 @@ statbox:
   month: "09 Casus"
   domains:
   - Trickery
+  - Life
   portfolio:
+  - Revels
+  - Wine
+  - Humor
   - Freedom
   - Trade
   - Travel
@@ -18,8 +22,8 @@ statbox:
   - Frontier
   - Luck
   aliases:
-  - Fharlangn
   - Olidammara
+  - Fharlangn
   allies:
   - Brandobaris
   - Corellon
@@ -32,8 +36,18 @@ statbox:
   - Asmodeus
 links:
 - 4E|https://dnd4.fandom.com/wiki/Avandra
+- D&D wiki|https://dungeonsdragons.fandom.com/wiki/Olidammara
+- D&D wiki 2|https://dungeonsdragons.fandom.com/wiki/Fharlanghn
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Olidammara
+- Greyhawk 2|https://greyhawkonline.com/greyhawkwiki/Fharlanghn
 - Evenfall|https://evenfall.fandom.com/wiki/Avandra
 - Critical Role|https://criticalrole.fandom.com/wiki/Avandra
+- Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Olidammara
+- Wikipedia 2|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Fharlanghn
+- 5E Dawn War|https://5e.tools/deities.html#avandra_dawn%20war_dmg
+- 5E Exandria|https://5e.tools/deities.html#avandra_exandria_egw
+- 5E Greyhawk|https://5e.tools/deities.html#olidammara_greyhawk_phb
+- 5E Greek|https://5e.tools/deities.html#dionysus_greek_phb
 ---
 
 [Avandra](https://dnd4.fandom.com/wiki/Avandra)

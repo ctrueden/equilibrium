@@ -20,7 +20,6 @@ statbox:
   - The forest
   aliases:
   - Corellon Larethian
-  - Boccob
   allies:
   - Avandra
   - Ioun
@@ -41,6 +40,9 @@ links:
 - Evenfall|https://evenfall.fandom.com/wiki/Corellon
 - Critical Role|https://criticalrole.fandom.com/wiki/Corellon
 - Wikipedia|https://en.wikipedia.org/wiki/Corellon_Larethian
+- 5E Exandria|https://5e.tools/deities.html#corellon_exandria_egw
+- 5E Racial|https://5e.tools/deities.html#corellon%20larethian_elven_mtf
+- 5E Greek|https://5e.tools/deities.html#apollo_greek_phb
 ---
 
 

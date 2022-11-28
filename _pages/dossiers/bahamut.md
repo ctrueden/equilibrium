@@ -29,6 +29,8 @@ links:
 - Evenfall|https://evenfall.fandom.com/wiki/Bahamut
 - Critical Role|https://criticalrole.fandom.com/wiki/Bahaamut
 - Wikipedia|https://en.wikipedia.org/wiki/Bahamut_%28Dungeons_%26_Dragons%29
+- 5E Dawn War|https://5e.tools/deities.html#bahamut_dawn%20war_dmg
+- 5E Exandria|https://5e.tools/deities.html#bahamut_exandria_egw
 ---
 
 ## Precepts

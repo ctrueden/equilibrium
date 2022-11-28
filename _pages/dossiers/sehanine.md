@@ -18,6 +18,8 @@ statbox:
   aliases:
   - Sehanine Moonbow
   - The Goddess
+  - Selûne
+  - Eilistraee
   allies:
   - Avandra
   - Corellon
@@ -39,6 +41,13 @@ links:
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Sehanine_Moonbow
 - Evenfall|https://evenfall.fandom.com/wiki/Sehanine
 - Critical Role|https://criticalrole.fandom.com/wiki/Sehanine
+- 5E Exandria|https://5e.tools/deities.html#sehanine_exandria_egw
+- 5E Racial|https://5e.tools/deities.html#sehanine%20moonbow_elven_mtf
+- 5E Faerun|https://5e.tools/deities.html#sel%c3%bbne_faer%c3%bbnian_scag
+- 5E Greek|https://5e.tools/deities.html#artemis_greek_phb
+- 5E Racial 2|https://5e.tools/deities.html#eilistraee_drow_mtf
+- Forgotten Realms 2|https://forgottenrealms.fandom.com/wiki/Eilistraee
+- Forgotten Realms 3|https://forgottenrealms.fandom.com/wiki/Sel%C3%BBne
 ---
 
 ## Precepts

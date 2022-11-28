@@ -34,6 +34,9 @@ links:
 - Evenfall|https://evenfall.fandom.com/wiki/Moradin
 - Critical Role|https://criticalrole.fandom.com/wiki/Moradin
 - Wikipedia|https://en.wikipedia.org/wiki/Moradin
+- 5E Exandria|https://5e.tools/deities.html#moradin_exandria_egw
+- 5E Racial|https://5e.tools/deities.html#moradin_dwarven_mtf
+- 5E Greek|https://5e.tools/deities.html#hephaestus_greek_phb
 ---
 
 ## Precepts

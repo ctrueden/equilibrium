@@ -9,14 +9,14 @@ statbox:
   alignment: chaotic good
   domains:
   - Trickery
+  - Tempest
   portfolio:
   - Thievery
   - Stealth
   - Curiosity
   - Challenge
   - Charm / Wit
-  aliases:
-  - Olidammara
+  - Adventure
   allies:
   - Avandra
   enemies:
@@ -26,6 +26,8 @@ links:
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Brandobaris
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Brandobaris
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Brandobaris
+- 5E Racial|https://5e.tools/deities.html#brandobaris_halfling_mtf
+- 5E Greek|https://5e.tools/deities.html#hermes_greek_phb
 ---
 
 [Brandobaris](https://wewererogue.tumblr.com/post/188179601981/brandobaris-a-patron-deity-for-thieves-from)

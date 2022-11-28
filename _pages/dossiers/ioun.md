@@ -9,25 +9,31 @@ statbox:
   alignment: neutral
   domains:
   - Knowledge
+  - Trickery
   portfolio:
   - Knowledge
   - Prophecy
   - Skill
   - Study
-  - The mind
+  - Truth
+  - Thought
+  aliases:
+  - Istus
   allies:
   - Avandra
   - Corellon
   - Erathis
   - Pelor
-  enemies:
-  - Vecna
 links:
 - 4E|https://dnd4.fandom.com/wiki/Ioun
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Ioun
+- Greyhawk|https://greyhawkonline.com/greyhawkwiki/Istus
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Congenio_Ioun
 - Evenfall|https://evenfall.fandom.com/wiki/Ioun
 - Critical Role|https://criticalrole.fandom.com/wiki/Ioun
+- 5E Dawn War|https://5e.tools/deities.html#ioun_dawn%20war_dmg
+- 5E Exandria|https://5e.tools/deities.html#ioun_exandria_egw
+- 5E Greyhawk|https://5e.tools/deities.html#istus_greyhawk_phb
 ---
 
 TODO

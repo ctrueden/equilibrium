@@ -8,7 +8,7 @@ The eternals, commonly worshipped as deities, are the beings that built the mode
 
 ## Table of eternals
 
-{% assign link-sites = "4E|D&D wiki|Greyhawk|Forgotten Realms|Evenfall|Critical Role|Wikipedia" | split: "|" -%}
+{% assign link-sites = "4E|D&D wiki|Greyhawk|Forgotten Realms|Evenfall|Critical Role|Wikipedia|5E Exandria|5E Exandria 2|5E Racial|5E Dawn War|5E Greyhawk|5E Faerun|5E Greek|5E Greek 2|5E Greek 3" | split: "|" -%}
 
 <style>
 th.rotate {
@@ -61,6 +61,19 @@ th.rotate > div {
 </tbody>
 </table>
 
+### Domains
+
+|           | Knowledge | Tempest       | Trickery   | Life       | Light      | War       | Nature    | Death     |
+|-----------|-----------|---------------|------------|------------|------------|-----------|-----------|-----------|
+| Knowledge | -         | -             | -          | -          | -          | -         | -         | -         |
+| Tempest   | ...       | -             | -          | -          | -          | -         | -         | -         |
+| Trickery  | [Ioun]    | [Brandobaris] | -          | -          | -          | -         | -         | -         |
+| Life      | ...       | ...           | [Avandra]  | -          | -          | -         | -         | -         |
+| Light     | [Moradin] | ...           | ...        | [Pelor]    | -          | -         | -         | -         |
+| War       | [Erathis] | [Kord]        | [Lolth]    | [Bahamut]  | [Sune]     | -         | -         | -         |
+| Nature    | ...       | [Melora]      | [Sehanine] | [Yondalla] | [Corellon] | [Gruumsh] | -         | -         |
+| Death     | [Vecna]   | ...           | ...        | [Nerull]   | ...        | [Tiamat]  | ...       | -         |
+
 ### Allegiances
 
 <center><figure>
@@ -71,3 +84,26 @@ th.rotate > div {
 ### List of eternals
 
 {% include charlist race="eternal" %}
+
+----------------------------------------
+
+[Avandra]: ../dossiers/avandra
+[Bahamut]: ../dossiers/bahamut
+[Brandobaris]: ../dossiers/brandobaris
+[Corellon]: ../dossiers/corellon
+[Erathis]: ../dossiers/erathis
+[Gruumsh]: ../dossiers/gruumsh
+[Ioun]: ../dossiers/ioun
+[Kord]: ../dossiers/kord
+[Lolth]: ../dossiers/lolth
+[Melora]: ../dossiers/melora
+[Moradin]: ../dossiers/moradin
+[Nerull]: ../dossiers/nerull
+[Pelor]: ../dossiers/pelor
+[Raven Queen]: ../dossiers/nerull
+[Sardior]: ../dossiers/sardior
+[Sehanine]: ../dossiers/sehanine
+[Sune]: ../dossiers/sune
+[Tiamat]: ../dossiers/tiamat
+[Vecna]: ../dossiers/vecna
+[Yondalla]: ../dossiers/yondalla
