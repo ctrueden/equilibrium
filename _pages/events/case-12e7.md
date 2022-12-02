@@ -55,7 +55,7 @@ Eixam buzzes over, radiating even more fury and hatred than usual. They tell the
 
 Phoebe takes everyone, including Eixam, through the tree trunk to a very beautiful place. They see the Fruit they've been looking for!
 
-[![](https://i.pinimg.com/originals/db/6a/eb/db6aeb6a09364184dbb3deb9cb4566ed.png){:style="width:200px"}](https://www.pinterest.com/pin/heart-of-the-forest-by-jkroots-on-deviantart--551409548100086588/)
+[![](https://i.pinimg.com/originals/db/6a/eb/db6aeb6a09364184dbb3deb9cb4566ed.png){:style="width:400px"}](https://www.pinterest.com/pin/551409548100086588/)
 
 Unfortunately, it's way too big to put in the portable hole or otherwise transport.
 
