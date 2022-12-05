@@ -1,5 +1,5 @@
 ---
-title: "[12e10] WELCOME TO YOUR DOOM"
+title: "[12e10] Passerby Were Amazed by the Unusually Large Amounts of Blood"
 datestamp: 50-05-25/10
 when: 50 Rixa 25
 session-number: 55
