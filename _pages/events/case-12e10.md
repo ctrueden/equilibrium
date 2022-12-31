@@ -33,24 +33,22 @@ Oz readies to stab Isis if she takes any hostile action against his friends.
 
 Bec asks Isis what the hell is going on with this blood guy.
 
-Isis: "
+Isis pleads: "Please put him down, and I'll explain everything."
 
 Bec: "I'd rather him in Freki's 'gentle' grasp, then who knows... all those things on his belt. One of those potions could make him RUN AWAY, just DISAPPEAR."
 
-Sartus: "I share Bec's concern. We need to be extraordianariliy cautious. We cannot fully trust you [Isis]."
+Sartus (to Isis): "I share Bec's concern. We need to be extraordianariliy cautious. We cannot fully trust you."
 
-Cal to Phoebe: Are you OK?
+Cal to Phoebe: "Are you OK?"
 Phoebe's head slowly turns, in a daze, toward Cal.
-She slowly sits up, anmd Cal helps her to her feet.
-Phoebe looks Cal straight in the eyes: "Where is he?" she utters.
+She slowly sits up, and Cal helps her to her feet.
+Phoebe looks Cal straight in the eyes: "Where is he?" she utters darkly.
 
-Michael rolls a 32 on perception for Freki to sense exactly what parts of the gnome are in his mouth the most. And that the gnome is BARELY asleep.
-
-Due to Freki's close bodily contact with the gnome, Freki can sense that the gnome is *barely* unconscious. Any little thing would awaken him. So Freki shakes him awake!
+Michael rolls a 32 on perception for Freki to sense exactly what parts of the gnome are in his mouth the most. Due to Freki's close bodily contact with the gnome, Freki can sense that the gnome is *barely* unconscious. Any little thing would awaken him. So Freki shakes him awake!
 
 The gnome startles. "Ahgh!" And then when he realizes his predicament: "Put me down at once! I'm being oppressed!"
 
-Bec: "Not until you explain what you were doing with the hamadryad. Or IN. That's not a normal place for a gnome."
+Bec: "Not until you explain what you were doing with the hamadryad. Or *in*. That's not a normal place for a gnome."
 
 Meanwhile, Phoebe has come to her senses, and Cal has helped her to her feet. As she turns toward the gnome, her eyes fill with lightning, and more lightning begins to crackle from her fingers.
 
@@ -62,11 +60,11 @@ Freki is also struck, his jaw clenching as he refuses to let go of the gnome (ev
 
 "No!" cries Isis. "It's my fault, not his! Everything he did is because of me!" Callie and others can sense that Isis is lying, trying to cover for his behavior, because she has strong feelings for him.
 
-Oz, sensing that the storm would only grow more dire from there, looks at Cal: "We're about to get wet; we might as well SWIM." And he stabs Isis with the [Hornblade](../relics/cornucopia), with secondary fire damage burning the gnome. Then he fancy footworks away, sauntering over to Cal.
+Oz, sensing that the storm would only grow more dire from there, looks at Cal: "We're about to get wet; we might as well *swim*." And he stabs Isis with the [Hornblade](../relics/cornucopia), with secondary fire damage burning the gnome. Then he fancy footworks away, sauntering over to Cal.
 
 "Please, stop!" cries the gnome. "We had good reasons for everything we did!" But no one is convinced.
 
-Bec decides to jump into action, casting *confusion* on everyone except Freki and herself. Callie, Cal, and Oz all resist the effect, as do Phoebe and Sartus, but Isis and the gnome both become utterly confused!
+Bec decides to jump into action, casting [*confusion*](https://5e.tools/spells.html#confusion_phb) on everyone except Freki and herself. Callie, Cal, and Oz all resist the effect, as do Phoebe and Sartus, but Isis and the gnome both become utterly confused!
 
 In the last moment before confusion overcomes her, Isis lunges toward the gnome, touching him as she casts *plane shift*. The gnome has *just* enough presence of mind before madness overtakes him to acquiesce to the magical effect, and reality warps around him, bending him away to who-knows-where. In the moment, Bec knows enough about planar magic to recognize that Isis *might* have been able to include herself in the escape attempt, had she been able to join hands with the gnome... but she failed to do so due to his flailing around from being electrocuted and on fire.
 
@@ -129,9 +127,9 @@ Cal argues that we outnumber Tybalt, and should find him first.
 
 Callie expresses concern that Tybalt also could be a doppelganger.
 
-Bec: "I think we really need to save the Tree."
+Bec: "I think we really need to save the [Tree](../relics/yggdrasil)."
 
-Callie suggests using a *sending* to Tybalt. She thinks the risk is low that it get intercepted by a false/doppel version of Tybalt&mdash;that it will likely go to the Tybalt they have been interacting with.
+Callie suggests using a [*sending*](https://5e.tools/spells.html#sending_phb) to Tybalt. She thinks the risk is low that it get intercepted by a false/doppel version of Tybalt&mdash;that it will likely go to the Tybalt they have been interacting with.
 
 The agents discuss this idea, but Sartus suggests to be very careful what they say to him.
 
