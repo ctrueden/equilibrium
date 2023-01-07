@@ -11,7 +11,7 @@ statbox:
   race: [elf, undead (ghost)]
   gender: male
   class: psion
-  case: "07"
+  case: ["07", "12"]
 ---
 
 The vengeful ghost. One of the unholy triumvariate of Arallu.
