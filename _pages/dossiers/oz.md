@@ -1,5 +1,6 @@
 ---
 title: Ozborn Underfoot
+image: /equilibrium/assets/images/oz3.jpg
 statbox:
   hometown: "TODO"
   race: halfling (lightfoot)
