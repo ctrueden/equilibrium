@@ -154,6 +154,7 @@ They decide not to cast *sending*, and go straight to the vault. It's an hour's 
 
 They reach the treasury building, situated on a tree branch such that there is only one accessible entrance and exit. The entryway has a high vaulted ceiling with a walkway of quite some length, beyond which is the treasure room proper, protected by several elite elven guards.
 
-[![Estanesse palace treasure room](https://i.pinimg.com/originals/bc/6e/c2/bc6ec292572e527c28adafbd19c3f7c0.jpg){:style="max-width: 300px"}](https://www.pinterest.com/pin/145522631701247945/)
+[![Estanesse palace treasury exterior](https://i.pinimg.com/originals/87/31/de/8731de778fd477cc4f3283effec3f80c.png){:style="max-width: 300px"}](https://www.pinterest.com/pin/515591857352151979/)
+[![Estanesse palace treasury entryway](https://i.pinimg.com/originals/bc/6e/c2/bc6ec292572e527c28adafbd19c3f7c0.jpg){:style="max-width: 300px"}](https://www.pinterest.com/pin/145522631701247945/)
 
 At the building's entrance, a figure stands with his back turned. As the party approaches, he turns around&mdash;it is Tybalt. He looks angrily at Sartus. "I *knew* you wouldn't listen to me."
