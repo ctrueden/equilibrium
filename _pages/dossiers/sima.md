@@ -1,6 +1,8 @@
 ---
 title: Sima Cordelia
-maybe-image-source: https://www.pinterest.com/pin/70437478866800/
+image: https://i.pinimg.com/originals/08/12/a7/0812a754a955c82b78899d8f0b2451b1.png
+image-source: https://www.pinterest.com/pin/6122149479546790/
+image-with-doggies-source: https://www.pinterest.com/pin/70437478866800/
 statbox:
   race: dwarf
   gender: female
