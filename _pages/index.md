@@ -34,29 +34,21 @@ which are available online:
 * Try to hail from a unique territory and/or race. This helps diversity and world-building.
 * Have a reason in mind for why you are part of (or being recruited for) the SPI.
 * Have an unsolved mystery in your backstory.
-* SPI agents are currently 9th level. Anything in the 5E Player's Handbook or
+* SPI agents are currently 10th level. Anything in the 5E Player's Handbook or
   [Xanathar's Guide to
   Everything](https://www.amazon.com/Xanathars-Guide-Everything-Wizards-Team/dp/0786966114)
   is fair game.
 
 The current player characters are:
 
-| Character | Hometown | Race(s) | Class(es) | Background | Alignment | Ideal | Bond | Flaw |
-|-----------|----------|---------|-----------|------------|-----------|-------|------|------|
 {% assign chars = "bec|cal|callie|freki|oz|vondal" | split: "|" -%}
 {%- for p in site.pages -%}
 {%- for char in chars -%}
 {%- assign char-url = "/dossiers/" | append: char -%}
 {%- if p.url == char-url -%}
-{%- assign char-hometown = p.statbox.hometown | join: ", " -%}
-{%- assign char-race = p.statbox.race | join: ", " -%}
-{%- assign char-class = p.statbox.class | join: ", " -%}
-{%- assign char-bg = p.statbox.background | join: ", " -%}
-{%- assign char-align = p.statbox.alignment | join: ", " -%}
-{%- assign char-ideal = p.statbox.ideal | join: ", " -%}
-{%- assign char-bond = p.statbox.bond | join: ", " -%}
-{%- assign char-flaw = p.statbox.flaw | join: ", " -%}
-| [{{p.title}}]({{site.baseurl}}{{p.url}}) | {{char-hometown}} | {{char-race}} | {{char-class}} | {{char-bg}} | {{char-align}} | {{char-ideal}} | {{char-bond}} | {{char-flaw}} |
+<div style="display: inline-block; max-width: 128px; padding-right: 1em; text-align: center; vertical-align: top" markdown=1>
+[![{{p.title}}]({{p.image}}){:style="max-height: 128px"}<br>{{p.title}}]({{site.baseurl}}{{p.url}})
+</div>
 {% comment -%} {%- endcomment -%}
 {%- endif -%}
 {%- endfor -%}
