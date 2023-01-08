@@ -11,5 +11,5 @@ session-event: https://www.facebook.com/events/670150321336704/
 
 The Queen is chained to the throne with roots wrapped in cold iron:
 
-![Chained queen](assets/images/queen-chained.png){:style="max-width: 300px"}
+![Chained queen](../assets/images/queen-chained.png){:style="max-width: 300px"}
 
