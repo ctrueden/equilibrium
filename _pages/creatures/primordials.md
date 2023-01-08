@@ -27,7 +27,7 @@ There are variations of this myth amongst dragonkind:
 
 * Some followers of Sardior elevate It to the prime position of importance, believing that Sardior represents the pinnacle of the cosmos's evolution: a being of perfection sculpted from the cosmic genesis. In this view, Sardior represents the ultimate in personal apotheosis, a balanced and self-reliant power. But many dragons find this perspective to be heretical, reserving their primary reverence for the most ancient powers.
 
-* A common belief among dragons is that the goddess [Ioun](ioun) is the personification of divine Causality, and secretly a dragon herself, making her worthy of draconic reverence.
+* A common belief among dragons is that the goddess [Ioun](../dossiers/ioun) is the personification of divine Causality, and secretly a dragon herself, making her worthy of draconic reverence.
 
 One thing most dragons *do* agree on is that the three (or four, counting Ioun) draconic deities are the only true gods: the others are younger, lesser powers that emerged from the world itself, of little concern to dragonkind. Some even go so far as to claim that the other gods commonly worshipped throughout the world are nothing more than aspects of Bahamut, Tiamat, Sardior, Ioun, or some combination thereof.
 
