@@ -8,6 +8,7 @@ statbox:
   gender: female
   class: ranger
   pronunciation: "SHE-ma"
+  case: ["01", "02", "03", "04", "05", "12"]
 ---
 
 A dwarven ranger with an affinity for animals, who "is the muscle" and believes
