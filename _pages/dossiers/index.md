@@ -48,6 +48,7 @@ title: Dossiers
       <option value="human">Human</option>
       <option value="lizardfolk">Lizardfolk</option>
       <option value="orc">Orc</option>
+      <option value="titan">Titan</option>
       <option value="undead">Undead</option>
       <option value="other">Other</option>
     </select>
