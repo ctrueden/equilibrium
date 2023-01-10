@@ -7,6 +7,8 @@ image-dual: https://cdn.obsidianportal.com/assets/98280/halflings.jpg
 image-dual-source: https://the-mithril-portals.obsidianportal.com/wikis/main-page
 image2: https://i.pinimg.com/originals/8f/de/08/8fde08bb93c9b7a60fdb29a0fa20e88d.png
 image2-source: https://www.pinterest.com/pin/9570217948349819/
+image3: https://www.pinterest.com/pin/596234438153244010/
+image3-source: https://i.pinimg.com/originals/e3/bf/c5/e3bfc5317e3713e79a9e153544796022.jpg
 statbox:
   race: [eternal, halfling]
   gender: female
