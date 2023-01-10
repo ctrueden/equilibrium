@@ -1,6 +1,8 @@
 ---
 nav-title: Yondalla
 title: Yondalla, Goddess of the Forgotten
+image: https://i.pinimg.com/originals/ed/89/5a/ed895a3e8d41428709cccaac388c5a09.jpg
+image-source: https://www.pinterest.com/pin/511369732666951915/
 image-dual: https://cdn.obsidianportal.com/assets/98280/halflings.jpg
 image-dual-source: https://the-mithril-portals.obsidianportal.com/wikis/main-page
 image2: https://i.pinimg.com/originals/8f/de/08/8fde08bb93c9b7a60fdb29a0fa20e88d.png
