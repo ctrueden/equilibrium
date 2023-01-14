@@ -24,7 +24,7 @@ statbox:
 
 The inhospitable desert lands in the northeast are governed by a [paladin](https://dungeonsdragons.fandom.com/wiki/Paladin) order known as the Luminous Defenders pledged to preserve and protect all life.
 
-* **Population:** The RUP is perhaps 70% [human](../creatures/humans), 15% [halfling](../creatures/halflings), 10% [dwarf](../creatures/dwarves), and 5% other [humanoid](https://dungeonsdragons.fandom.com/wiki/Humanoid) races.
+* **Population:** The RUP is perhaps 70% [human](../creatures/humans), 15% [halfling](../creatures/halflings), 10% [dwarf](../creatures/dwarves), and 5% other [bipedal](../glossary#bipedal) races.
 * **Government:** [Theocracy](https://en.wikipedia.org/wiki/Theocracy). The High Defender is chosen by Pelor and speaks with his voice. Several other high-ranking members of the LD offer their counsel but the High Defender has ultimate authority as long as she can demonstrate the granted powers of the deity.
 * **Cities and culture:**
   * Haven is the northernmost city of the RUP, home to a substantial portion of the Union's military. It is known for its elite cavalry. It also has a sizeable population of halflings.

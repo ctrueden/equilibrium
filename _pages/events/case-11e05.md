@@ -18,7 +18,7 @@ session-event: https://www.facebook.com/events/2400128636928068/
 3. Swarms of creatures, and electrical firestorm/battle at the main gate. To avoid that, as well as the “poop tubes,” we decide to use the passwall module. We are sure it will be fine—but Callie gives Oz her inspiration and Vondal uses magic to boost his skill so we don’t all die.
 4. We barely make it to the water.
 5. Some sort of evil mental tendril is leading us to our doom. The End of All Things.
-6. After several days in the sub, a large bluish floating humanoid-ish being appears — a Water Genie (Marid), who warns us to turn back or DIE!!!
+6. After several days in the sub, a large bluish floating [bipedal](../glossary#bipedal) being appears — a Water Genie (Marid), who warns us to turn back or DIE!!!
 7. After being informed the party carries the Hornblade, Benirree the Elegant says it has no choice but to help, giving Vondal and Callie detect evil and good at will; Callie invisibility 1/day; Vondal control water 1/day. Benirree plane shifts away.
 8. The party continues on their ill-advised journey for 12 more hours, till the water becomes more sludgelike, more difficult to navigate. Aurora’s continued sanity seems questionable.
 9. Bec ventures out in the Crab, hits the flamethrower and sees the void of nothing.

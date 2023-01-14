@@ -35,7 +35,7 @@ You have an animal within, which manifests under certain conditions such as duri
 
 **Keen Hearing and Smell.** You have advantage on Wisdom (Perception) checks that rely primarily on hearing or smell.
 
-**Shapeshift.** You can use your action to transform into a beast, a beast-humanoid hybrid, or back into your humanoid form. Your statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+**Shapeshift.** You can use your action to transform into a beast, a [bipedal](../glossary#bipedal) beast hybrid, or back into your natural form. Your statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 
 In these alternate forms, your statistics are adjusted as follows:
   * Beast: +4 Str, +2 Dex, +4 Con, -4 Int, -4 Wis, +20 speed.
@@ -43,7 +43,7 @@ In these alternate forms, your statistics are adjusted as follows:
 
 In beast form, your limbs become too unwieldy to manipulate weapons and other tools, whereas in hybrid form, you can continue to use such items normally.
 
-In difficult or extraordinary circumstances, the GM may call for a Wisdom saving throw to resist transforming, or to succeed in reverting to humanoid form.
+In difficult or extraordinary circumstances, the GM may call for a Wisdom saving throw to resist transforming, or to succeed in reverting to natural form.
 
 While in these alternate forms, you gain the following natural weapon attack options:
 
@@ -51,13 +51,13 @@ While in these alternate forms, you gain the following natural weapon attack opt
 
 * **Bite.** 1d8 + Str piercing damage.
   * If you successfully hit a target one size larger than you or smaller, you can use a bonus action to attempt to grapple. Make an opposed Strength (athletics) check. If successful, the creature is [grappled](https://5e.tools/conditionsdiseases.html#grappled_phb) by you.
-  * If the target is a humanoid, it must succeed on a Constitution saving throw (DC 8 + proficiency bonus + Con modifier) or be cursed with lycanthropy.
+  * If the target is a [bipedal](../glossary#bipedal) creature, it must succeed on a Constitution saving throw (DC 8 + proficiency bonus + Con modifier) or be cursed with lycanthropy.
 
 * **Multiattack.** When you take the Attack action you can attack multiple times: once with a claw, and once with a bite.
 
 ### Extra Attack
 
-Beginning at 5th level, you can make an additional attack whenever you take the Attack action on your turn. In beast or hybrid form, this attack takes the form of a second claw attack, whereas in humanoid form this attack is typically a second weapon attack.
+Beginning at 5th level, you can make an additional attack whenever you take the Attack action on your turn. In beast or hybrid form, this attack takes the form of a second claw attack, whereas in natural form this attack is typically a second weapon attack.
 
 ### Improved Beast Form
 

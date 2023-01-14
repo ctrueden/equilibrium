@@ -9,7 +9,7 @@ statbox:
 ---
 
 Squatch is the strong man of the [Zombozo](zombozo) circus. He is also a flesh
-golem: a grisly assortment of humanoid body parts stitched and bolted together
+golem: a grisly assortment of body parts stitched and bolted together
 into a muscled brute imbued with formidable strength. His brain is capable of
 simple reason, though his thoughts are no more sophisticated than those of a
 young child. The golem's muscle tissue responds to the power of lightning,

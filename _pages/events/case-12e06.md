@@ -54,6 +54,6 @@ They follow Enoki for several hours. With Freki's survival skills and everyone's
 
 Until...
 
-They hear a buzzing sound in the distance. It grows increasinly loud, and after a few minutes a small swarm of locusts comes into view. It seems to be heading for an area just ahead of the party. They reorient themselves into a defensive position as the locusts keep moving, settle into the trunk 50 feet in front of the party, and coelesce into a humanoid shape.
+They hear a buzzing sound in the distance. It grows increasinly loud, and after a few minutes a small swarm of locusts comes into view. It seems to be heading for an area just ahead of the party. They reorient themselves into a defensive position as the locusts keep moving, settle into the trunk 50 feet in front of the party, and coelesce into a [bipedal](../glossary#bipedal) shape.
 
 The being speaks in a droning mass of sound: "We are [Eixam](../dossiers/eixam) (ee-SHAHM), and we have come to help."

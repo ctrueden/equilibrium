@@ -24,7 +24,7 @@ statbox:
 
 At the northern edge of the world stand the Cliffs of Transcendence, a mountain range beyond which there is nothing but an open expanse of sky. Masses of earth dot the skies beyond that, though; the largest of these "sky islands" is Aether, the Azure City. South of the cliffs lies the Ventosa Flatland, a windy steppe, home to the two largest cities of Zephyr: Dono and Prendo.
 
-* **Population:** The most numerous citizens of this land are the [dragonborn](../creatures/dragonborn), a race of dragon humanoids. Dragons dwell here too as a ruling class, but are nonetheless incredibly rare, numbering in the hundreds at most.
+* **Population:** The most numerous citizens of this land are the [dragonborn](../creatures/dragonborn), a race of dragon-like [bipeds](../glossary#bipedal). Dragons dwell here too as a ruling class, but are nonetheless incredibly rare, numbering in the hundreds at most.
 * Government: [Confederacy](https://en.wikipedia.org/wiki/Confederation). Fifteen city-states, each governed by a [great wyrm](../creatures/dragons).
 * **Cities and culture:**
   * Dono is the bastion of the [metallic](../creatures/dragons#metallic) dragonborn, tolerant of outsiders.

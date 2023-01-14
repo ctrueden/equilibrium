@@ -77,10 +77,10 @@ Oz, dissatisfied with his squishy existence, decides to end it all by declining 
 
 Enoki completes his spell, and a buttload of mushrooms spring up from the tree trunk floor in a huge radius around him. He commands them to push back against the thornbush, and its sharp vines begin to recede.
 
-Freki exercises his conscious will, takes control of the beast, and reverts to his humanoid form. He then kills jelly Oz, causing him to return to his humanoid form also.
+Freki exercises his conscious will, takes control of the beast, and reverts to his elfin form. He then kills jelly Oz, causing him to return to his natural form also.
 
 The faerie dragon, from higher up in the air above the edge of the thornbush, offers to parlay in a cute and resounding voice: "You don't have to do this. It's not too late to talk."
 
-After some appeals from Vondal that the SPI needs the Fruit to **Save the World!™**, with the dragon seeming unconvinced, the party reluctantly agrees to parlay. Even Eixam seems willing to talk, as they regain control of themselves enough to reform into a humanoid shape.
+After some appeals from Vondal that the SPI needs the Fruit to **Save the World!™**, with the dragon seeming unconvinced, the party reluctantly agrees to parlay. Even Eixam seems willing to talk, as they regain control of themselves enough to reform into a [bipedal](../glossary#bipedal) shape.
 
 The dragon appears with Isis still slumped across his back. "You're being dumb, you know. The real threat is down there."

@@ -32,7 +32,7 @@ A fiendish island territory off the northwestern coast.
 
 * **Population:** Trell has a mixed population with an extreme degree of [class inequality](https://en.wikipedia.org/wiki/Class_conflict).
 * **Government:** [Military autocracy](https://en.wikipedia.org/wiki/Military_dictatorship). Trell has nine islands, each of which is ruled by an archfiend, with the largest island occupied by the archfiend [Asmodeus](../dossiers/asmodeus).
-* **Cities and culture:** While the government of Trell is oppressive by the standards of most other nations, it is nonetheless a haven for tieflings (a humanoid race cursed by an ancient contract with fiends). The warlocks of Trell, who have made pacts with the archdevils who rule the islands, enforce the law. The nine city-state islands are:
+* **Cities and culture:** While the government of Trell is oppressive by the standards of most other nations, it is nonetheless a haven for tieflings (a [bipedal](../glossary#bipedal) race cursed by an ancient contract with fiends). The warlocks of Trell, who have made pacts with the archdevils who rule the islands, enforce the law. The nine city-state islands are:
   * Avernus, ruled by [Zariel](https://dungeonsdragons.fandom.com/wiki/Zariel).
   * Dis, ruled by Dispater.
   * Minauros, ruled by Mammon.
