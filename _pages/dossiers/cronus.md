@@ -1,4 +1,5 @@
 ---
+nav-title: Cronus
 title: Cronus, Titan of Reaping
 statbox:
   race: [titan, undead (vampire)]
