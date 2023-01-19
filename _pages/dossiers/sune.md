@@ -38,3 +38,12 @@ links:
 - 5E Faerun|https://5e.tools/deities.html#sune_faer%c3%bbnian_scag
 - 5e Greek|https://5e.tools/deities.html#aphrodite_greek_phb
 ---
+
+## Precepts
+
+* Follow your heart to your true destination.
+* Believe in romance, as true love will win over all.
+* Perform a loving act each day, and seek to awaken love in others.
+* Love none more than yourself except Sune, and lose yourself in love of the Lady Firehair.
+* Cultivate pleasing variety so as to move others with love and desire.
+* Encourage beauty wherever you find it.

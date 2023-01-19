@@ -39,4 +39,9 @@ links:
 - 5E Greek|https://5e.tools/deities.html#hecate_greek_phb
 ---
 
-TODO
+## Precepts
+
+* Guard your secrets zealously, for they are the purest form of power.
+* Seek out lost arcana so that you alone may exploit it for your benefit.
+* Power exists to be wielded freely; do not let anyone tell you otherwise.
+* To give a gift is the height of foolishness&mdash;share only in furtherance of your goals.
