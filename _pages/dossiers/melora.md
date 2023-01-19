@@ -15,8 +15,6 @@ statbox:
   - Wilderness
   - The Sea
   aliases:
-  - Ehlonna
-  - Ehlenestra
   - Umberlee
   allies:
   - Avandra
@@ -31,8 +29,11 @@ links:
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Umberlee
 - Evenfall|https://evenfall.fandom.com/wiki/Melora
 - Critical Role|https://criticalrole.fandom.com/wiki/Melora
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=109
+- Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=41
 - 5E Dawn War|https://5e.tools/deities.html#melora_dawn%20war_dmg
 - 5E Exandria|https://5e.tools/deities.html#melora_exandria_egw
+- 5E Greek|https://5e.tools/deities.html#poseidon_greek_phb
 ---
 
 ## Precepts

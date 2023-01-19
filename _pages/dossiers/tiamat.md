@@ -24,7 +24,9 @@ links:
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Tiamat
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Tiamat
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Tiamat
+- FRC|https://frc.fandom.com/wiki/Tiamat
 - Critical Role|https://criticalrole.fandom.com/wiki/Tiamat
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=20
 - Wikipedia|https://en.wikipedia.org/wiki/Tiamat_%28Dungeons_%26_Dragons%29
 - 5E Dawn War|https://5e.tools/deities.html#tiamat_dawn%20war_dmg
 - 5E Exandria|https://5e.tools/deities.html#tiamat_exandria_egw

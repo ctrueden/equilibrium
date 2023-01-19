@@ -36,6 +36,10 @@ links:
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Raven_Queen
 - Evenfall|https://evenfall.fandom.com/wiki/Raven_Queen
 - Critical Role|https://criticalrole.fandom.com/wiki/Raven_Queen
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=15
+- Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=22
+- Thieves Guild 3|https://www.thievesguild.cc/gods/god?godid=225
+- Thieves Guild 4|https://www.thievesguild.cc/gods/god?godid=32
 - 5E Greyhawk|https://5e.tools/deities.html#nerull_greyhawk_phb
 - 5E Dawn War|https://5e.tools/deities.html#raven%20queen_dawn%20war_dmg
 - 5E Exandria|https://5e.tools/deities.html#the%20raven%20queen_exandria_egw

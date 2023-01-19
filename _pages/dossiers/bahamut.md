@@ -28,6 +28,7 @@ links:
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Bahamut
 - Evenfall|https://evenfall.fandom.com/wiki/Bahamut
 - Critical Role|https://criticalrole.fandom.com/wiki/Bahaamut
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=1
 - Wikipedia|https://en.wikipedia.org/wiki/Bahamut_%28Dungeons_%26_Dragons%29
 - 5E Dawn War|https://5e.tools/deities.html#bahamut_dawn%20war_dmg
 - 5E Exandria|https://5e.tools/deities.html#bahamut_exandria_egw

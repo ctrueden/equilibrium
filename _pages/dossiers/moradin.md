@@ -31,8 +31,11 @@ links:
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Moradin
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Moradin
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Moradin
+- FRC|https://frc.fandom.com/wiki/Moradin
 - Evenfall|https://evenfall.fandom.com/wiki/Moradin
 - Critical Role|https://criticalrole.fandom.com/wiki/Moradin
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=14
+- Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=34
 - Wikipedia|https://en.wikipedia.org/wiki/Moradin
 - 5E Exandria|https://5e.tools/deities.html#moradin_exandria_egw
 - 5E Racial|https://5e.tools/deities.html#moradin_dwarven_mtf

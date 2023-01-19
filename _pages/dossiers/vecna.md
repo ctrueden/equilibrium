@@ -31,6 +31,8 @@ links:
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Vecna
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Vecna
 - Critical Role|https://criticalrole.fandom.com/wiki/Vecna
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=21
+- Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=33
 - Wikipedia|https://en.wikipedia.org/wiki/Vecna
 - 5E Dawn War|https://5e.tools/deities.html#vecna_dawn%20war_dmg
 - 5E Exandria|https://5e.tools/deities.html#vecna_exandria_egw

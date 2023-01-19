@@ -21,6 +21,11 @@ links:
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Yondalla
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Yondalla
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Yondalla
+- FRC|https://frc.fandom.com/wiki/Yondalla
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=180
+- Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=38
+- Thieves Guild 3|https://www.thievesguild.cc/gods/god?godid=30
+- Thieves Guild 4|https://www.thievesguild.cc/gods/god?godid=35
 - 5E Racial|https://5e.tools/deities.html#yondalla_halfling_mtf
 - 5E Greek|https://5e.tools/deities.html#hestia_greek_phb
 - 5E Greek 2|https://5e.tools/deities.html#demeter_greek_phb

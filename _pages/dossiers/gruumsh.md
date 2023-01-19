@@ -29,7 +29,12 @@ links:
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Gruumsh
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Gruumsh
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Gruumsh
+- FRC|https://frc.fandom.com/wiki/Gruumsh
+- FRC 2|https://frc.fandom.com/wiki/Bane
 - Critical Role|https://criticalrole.fandom.com/wiki/Gruumsh
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=192
+- Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=84
+- Thieves Guild 3|https://www.thievesguild.cc/gods/god?godid=27
 - 5E Exandria|https://5e.tools/deities.html#gruumsh_exandria_egw
 - 5E Racial|https://5e.tools/deities.html#gruumsh_orc_vgm
 - 5E Greek|https://5e.tools/deities.html#ares_greek_phb

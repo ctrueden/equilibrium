@@ -31,6 +31,7 @@ links:
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Congenio_Ioun
 - Evenfall|https://evenfall.fandom.com/wiki/Ioun
 - Critical Role|https://criticalrole.fandom.com/wiki/Ioun
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=214
 - 5E Dawn War|https://5e.tools/deities.html#ioun_dawn%20war_dmg
 - 5E Exandria|https://5e.tools/deities.html#ioun_exandria_egw
 - 5E Greyhawk|https://5e.tools/deities.html#istus_greyhawk_phb

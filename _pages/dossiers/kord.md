@@ -30,6 +30,8 @@ links:
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Kord
 - Evenfall|https://evenfall.fandom.com/wiki/Kord
 - Critical Role|https://criticalrole.fandom.com/wiki/Kord
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=11
+- Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=39
 - 5E Dawn War|https://5e.tools/deities.html#kord_dawn%20war_dmg
 - 5E Exandria|https://5e.tools/deities.html#kord_exandria_egw
 - 5E Greek|https://5e.tools/deities.html#nike_greek_phb

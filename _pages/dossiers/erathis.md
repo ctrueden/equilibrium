@@ -25,6 +25,7 @@ links:
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Erathis
 - Evenfall|https://evenfall.fandom.com/wiki/Erathis
 - Critical Role|https://criticalrole.fandom.com/wiki/Erathis
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=29
 - 5E Dawn War|https://5e.tools/deities.html#erathis_dawn%20war_dmg
 - 5E Exandria|https://5e.tools/deities.html#erathis_exandria_egw
 - 5E Greek|https://5e.tools/deities.html#athena_greek_phb

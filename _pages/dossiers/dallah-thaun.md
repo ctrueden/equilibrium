@@ -4,6 +4,9 @@ statbox:
   race: [ghost, halfling]
   gender: female
   case: [11, 12]
+links:
+- Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Dallah_Thaun
+- FRC|https://frc.fandom.com/wiki/Dallah_Thaun
 ---
 
 <!-- crop -->

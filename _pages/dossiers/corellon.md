@@ -37,8 +37,11 @@ links:
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Corellon_Larethian
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Corellon_Larethian
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Corellon
+- FRC|https://frc.fandom.com/wiki/Corellon_Larethian
 - Evenfall|https://evenfall.fandom.com/wiki/Corellon
 - Critical Role|https://criticalrole.fandom.com/wiki/Corellon
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=3
+- Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=26
 - Wikipedia|https://en.wikipedia.org/wiki/Corellon_Larethian
 - 5E Exandria|https://5e.tools/deities.html#corellon_exandria_egw
 - 5E Racial|https://5e.tools/deities.html#corellon%20larethian_elven_mtf

@@ -28,7 +28,9 @@ links:
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Lolth
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Lolth
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Lolth
+- FRC|https://frc.fandom.com/wiki/Lolth
 - Critical Role|https://criticalrole.fandom.com/wiki/Lolth
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=13
 - Wikipedia|https://en.wikipedia.org/wiki/Drow#Lolth
 - 5E Exandria|https://5e.tools/deities.html#lolth_exandria_egw
 - 5E Racial|https://5e.tools/deities.html#lolth_drow_mtf

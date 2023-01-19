@@ -42,6 +42,9 @@ links:
 - Greyhawk 2|https://greyhawkonline.com/greyhawkwiki/Fharlanghn
 - Evenfall|https://evenfall.fandom.com/wiki/Avandra
 - Critical Role|https://criticalrole.fandom.com/wiki/Avandra
+- Thieves Guild|https://www.thievesguild.cc/gods/god?godid=17
+- Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=6
+- Thieves Guild 3|https://www.thievesguild.cc/gods/god?godid=31
 - Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Olidammara
 - Wikipedia 2|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Fharlanghn
 - 5E Dawn War|https://5e.tools/deities.html#avandra_dawn%20war_dmg

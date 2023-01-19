@@ -29,6 +29,8 @@ links:
   - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Asmodeus
   - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Asmodeus
   - Critical Role|https://criticalrole.fandom.com/wiki/Asmodeus
+  - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=208
+  - Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=24
   - Wikipedia|https://en.wikipedia.org/wiki/Devil_%28Dungeons_%26_Dragons%29#Asmodeus
   - 5E Exandria|https://5e.tools/deities.html#asmodeus_exandria_egw
   - 5E Faerun|https://5e.tools/deities.html#asmodeus_faer%c3%bbnian_scag
