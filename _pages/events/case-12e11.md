@@ -17,7 +17,7 @@ Tybalt: "It's doesn't matter whether *I* am here... what matters is that *he* is
 
 Freki: "They're not real!" and shoots an arrow at Tybalt's eyepatch, thinking it will go through... but it thunks! Then he shoots another one, and it's deflected by some invisible shield.
 
-Oz (bluffing): "Apologies, we're still not used to these forms... We've taken the forms we believe to be most beneficial to our cause..." Trying to convey that they are actually [doppelgangers](../creatures/doppels). 32 persuasion.
+Oz (bluffing): "Apologies, we're still not used to these forms... We've taken the forms we believe to be most beneficial to our cause..." Trying to convey that they are actually [doppelgangers](../creatures/changelings). 32 persuasion.
 
 Janus raises an eyebrow, seemingly unconvinced and ignorant: "What nonsense is this?"
 
