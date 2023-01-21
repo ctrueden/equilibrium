@@ -1,0 +1,24 @@
+{%- comment -%}
+Embeds an image thumbnail as an inline block.
+{%- endcomment -%}
+
+{%- assign src = include.src -%}
+{%- assign link = include.link -%}
+{%- assign title = include.title -%}
+{%- assign width = include.width -%}
+{%- assign height = include.height | default: "200px" -%}
+
+<div style="display: inline-block">
+{% if link -%}<a href="{{link}}">{% endif -%}
+<img
+{% if src %}  src="{{src}}" {% endif %}
+{% if title %}  title="{{title}}" alt="{{title}}" {% elsif src %} alt="{{src}}" {% endif %}
+{% if width or height %}  style="{% if width %} max-width:{{width}}{% elsif height %} max-height:{{height}}{% endif %}"{% endif %}
+>
+{% if link %}</a>{% endif %}
+{% if title %}<br>{{title}}{% endif %}
+</div>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}
