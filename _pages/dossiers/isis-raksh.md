@@ -3,7 +3,7 @@ title: Isis Ra'ksh
 image: https://i.pinimg.com/originals/2f/b5/d0/2fb5d05ce538861218a9618d13f1da32.png
 image-source: https://www.pinterest.com/pin/3659243437521066/
 statbox:
-  race: [elf (wood), changeling]
+  race: [changeling, elf (wood)]
   gender: female
   profession: druid
   case: ["02", "12"]
