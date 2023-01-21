@@ -6,6 +6,6 @@ image-source: https://www.pinterest.com/pin/317785317439793443/
 
 Scary creatures that take the shape of other beings! Aaaahhh!
 
-### List of doppels
+### List of changelings
 
 {% include charlist race="changeling" %}
