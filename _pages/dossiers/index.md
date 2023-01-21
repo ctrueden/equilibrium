@@ -30,12 +30,14 @@ title: Dossiers
       <option value="10">[10] Capers and Calamity | RUP: Oasis</option>
       <option value="11">[11] Hardships and Homecomings | Cognitutus</option>
       <option value="12">[12] Burglary and Blight | Elyria</option>
+      <option value="13">[13] Facts and Facsimiles | Selva/Veldt</option>
     </select>
   </span>
   <span class="item">
     <label for="race">Race</label>
     <select id="race" name="race" onchange="refreshVisibleItems()">
       <option value="all">All</option>
+      <option value="changeling">Changeling</option>
       <option value="dragon">Dragon</option>
       <option value="dragonborn">Dragonborn</option>
       <option value="dwarf">Dwarf</option>
