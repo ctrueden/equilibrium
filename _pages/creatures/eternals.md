@@ -85,8 +85,6 @@ th.rotate > div {
 
 {% include charlist race="eternal" %}
 
-----------------------------------------
-
 [Avandra]: ../dossiers/avandra
 [Bahamut]: ../dossiers/bahamut
 [Brandobaris]: ../dossiers/brandobaris
