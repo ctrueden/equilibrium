@@ -18,6 +18,7 @@ statbox:
   - Undead
   - Necromancy
   allies:
+  - Asmodeus
   - Sardior
   enemies:
   - Corellon

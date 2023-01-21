@@ -16,6 +16,7 @@ statbox:
   allies:
   - Erathis
   - Gruumsh
+  - Vecna
   enemies:
   - Avandra
   - Melora
