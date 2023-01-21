@@ -24,4 +24,4 @@ The titans are a legendary group of twelve powerful entities that some say gave 
 
 ### List of titans
 
-{% include charlist race="titan" %}
+{% include charlist race="titan (sky)" %}

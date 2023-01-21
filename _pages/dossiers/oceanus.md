@@ -6,7 +6,7 @@ image-source: https://www.pinterest.com/pin/672514156872524146/
 image2: https://i.pinimg.com/videos/thumbnails/originals/1d/00/96/1d00965305d49529c1e09405fbdf2881.0000000.jpg
 image2-source: https://www.pinterest.com/pin/608619337160677305/
 statbox:
-  race: [titan]
+  race: titan (sky)
   gender: male
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Oceanus

@@ -4,7 +4,7 @@ title: Themis, Titan of Karma
 image: https://i.pinimg.com/originals/45/0e/53/450e539c00e2f50c00af3326527a54fd.jpg
 image-source: https://www.pinterest.com/pin/774124927701377/
 statbox:
-  race: [titan]
+  race: titan (sky)
   gender: female
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Themis

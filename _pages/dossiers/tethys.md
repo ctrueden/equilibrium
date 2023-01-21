@@ -6,7 +6,7 @@ image-source: https://www.pinterest.com/pin/535013630738128476/
 image2: https://i.pinimg.com/originals/94/e0/ef/94e0ef7525a199e41f096199556630c0.jpg
 image2-source: https://www.pinterest.com/pin/113504853094444151/
 statbox:
-  race: [titan]
+  race: titan (sky)
   gender: female
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Tethys_(mythology)

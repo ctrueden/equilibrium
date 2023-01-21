@@ -6,7 +6,7 @@ image-source: https://www.pinterest.com/pin/509329039122102438/
 image2: https://i.pinimg.com/originals/01/d5/ca/01d5ca1a717e0ff6ba03fb7940ecec27.jpg
 image2-source: https://www.pinterest.com/pin/789818853414244330/
 statbox:
-  race: [titan]
+  race: titan (sky)
   gender: male
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Coeus
