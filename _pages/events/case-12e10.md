@@ -80,7 +80,7 @@ Isis falls to the floor, her skin sloughing off, and she looks [like THIS](https
 
 ![](https://www.dndbeyond.com/avatars/thumbnails/26290/412/1000/1000/637900601272139887.jpeg){:style="width: 300px"}
 
-Bec recognizes the creature as a [doppelganger](../creatures/doppelgangers)! She wasn't even sure they were real, or how many of the various conflicting stories are true. But here it is.
+Bec recognizes the creature as a [doppelganger](../creatures/doppels)! She wasn't even sure they were real, or how many of the various conflicting stories are true. But here it is.
 
 Bec wants to keep part of the body and starts sawing it. Oz stabs it again to make sure it's really dead (it is).
 
