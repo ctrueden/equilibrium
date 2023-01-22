@@ -8,7 +8,7 @@ title: Spells
 
 **Casting Time:** 1 minute  
 **Range:** Special  
-**Components:** V, S, M (a piece of blank parchment, or a book with blank pages, and a drop of black ink)
+**Components:** V, S, M (a piece of blank parchment, or a book with blank pages, and a drop of black ink)  
 **Duration:** Instantaneous
 
 Copy enables you to make a perfect copy of a map, letter, or any other written or drawn document. You must have a blank parchment or a book with blank pages of sufficient size to hold the copy. You hold the blank object over the object to be copied, then cast the spell; the copy immediately appears on the formerly blank object. The copy is permanent and is a perfect duplicate of the original.
@@ -24,10 +24,10 @@ https://adnd2e.fandom.com/wiki/Copy
 
 *2nd level enchantment/transmutation*
 
-**Casting Time:** 10 minutes
-**Range:** Touch
-**Target:** 1 garment
-**Components:** V, S, M (tiny golden needle and a strip of fine cloth)
+**Casting Time:** 10 minutes  
+**Range:** Touch  
+**Target:** 1 garment  
+**Components:** V, S, M (tiny golden needle and a strip of fine cloth)  
 **Duration:** 12 hrs. + 1 hr./level
 
 This spell enables you to specially prepare a garment so as to hold far more than it normally could. A finely sewn gown or robe of high quality material (at least 50 gp value) is fashioned so as to contain numerous hand-sized pockets. One dozen is the minimum number.
@@ -45,11 +45,11 @@ https://adnd2e.fandom.com/wiki/Deeppockets
 
 *4th level enchantment*
 
-**Range:** 60 feet
-**Area:** 30-foot-radius sphere
-**Components:** V
-**Casting Time:** 1 action
-**Duration:** 2 rounds/level
+**Range:** 60 feet  
+**Area:** 30-foot-radius sphere  
+**Components:** V  
+**Casting Time:** 1 action  
+**Duration:** 2 rounds/level  
 **Saving Throw:** None
 
 This spell allows you to adversely affect all the saving throws of your enemies. Opponents under the influence of this spell make all saving throws at a penalty of -2.
