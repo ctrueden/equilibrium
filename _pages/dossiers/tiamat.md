@@ -7,9 +7,7 @@ statbox:
   race: [eternal, dragon]
   gender: female
   alignment: lawful evil
-  domains:
-  - Death
-  - War
+  domains: [Death, War]
   portfolio:
   - Chromatic dragons
   - Wealth

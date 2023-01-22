@@ -2,6 +2,7 @@
 title: Bram the Blithe
 image: https://i.pinimg.com/originals/4f/5d/8c/4f5d8cd3d7f53dd6b74d4b979dc02988.png
 image-source: https://www.pinterest.com/pin/52917364362383494/
+domains: [Tempest, Death]
 statbox:
   race: "human(?)"
   gender: male

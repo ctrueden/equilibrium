@@ -8,9 +8,7 @@ statbox:
   gender: male
   alignment: unaligned
   month: "06 Vis"
-  domains:
-  - Tempest
-  - War
+  domains: [Tempest, War]
   portfolio:
   - Strength
   - Storms

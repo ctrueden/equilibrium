@@ -4,6 +4,7 @@ image: https://i.pinimg.com/originals/33/40/c4/3340c4159aa75b35346eaca17a5f4db8.
 image-source: https://www.pinterest.com/pin/91268329936856834/
 image2: https://static.wikia.nocookie.net/forgottenrealms/images/9/98/Monster_Manual_5e_-_Lich_-_p202.jpg
 image2-source: https://forgottenrealms.fandom.com/wiki/Lich
+domains: [Darkness, Tempest]
 statbox:
   race: [undead (lich)]
   gender: male

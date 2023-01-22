@@ -7,9 +7,7 @@ statbox:
   race: [eternal, dragon]
   gender: male
   alignment: lawful good
-  domains:
-  - Life
-  - War
+  domains: [Life, War]
   portfolio:
   - Metallic dragons
   - Hope

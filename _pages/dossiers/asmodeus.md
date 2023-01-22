@@ -22,8 +22,7 @@ statbox:
   - Melora
   - Nerull
   - Sehanine
-  domains:
-  - None
+  domains: None
 links:
   - 4E|https://dnd4.fandom.com/wiki/Asmodeus
   - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Asmodeus

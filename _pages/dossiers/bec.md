@@ -1,6 +1,7 @@
 ---
 title: Bec Galere
 image: /equilibrium/assets/images/bec.jpg
+domains: [Knowledge, Nature]
 statbox:
   hometown: Reena'seere
   race: [elf, human]

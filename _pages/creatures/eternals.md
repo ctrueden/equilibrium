@@ -63,16 +63,20 @@ th.rotate > div {
 
 ### Domains
 
-|           | Knowledge | Tempest       | Trickery   | Life       | Light      | War       | Nature    | Death     |
-|-----------|-----------|---------------|------------|------------|------------|-----------|-----------|-----------|
-| Knowledge | -         | -             | -          | -          | -          | -         | -         | -         |
-| Tempest   | ...       | -             | -          | -          | -          | -         | -         | -         |
-| Trickery  | [Ioun]    | [Brandobaris] | -          | -          | -          | -         | -         | -         |
-| Life      | ...       | ...           | [Avandra]  | -          | -          | -         | -         | -         |
-| Light     | [Moradin] | ...           | ...        | [Pelor]    | -          | -         | -         | -         |
-| War       | [Erathis] | [Kord]        | [Lolth]    | [Bahamut]  | [Sune]     | -         | -         | -         |
-| Nature    | ...       | [Melora]      | [Sehanine] | [Yondalla] | [Corellon] | [Gruumsh] | -         | -         |
-| Death     | [Vecna]   | ...           | ...        | [Nerull]   | ...        | [Tiamat]  | ...       | -         |
+Each eternal sits at the intersection of two of the eight domains:
+
+|        Domain | Knowledge         | Tempest       | Trickery          | Life       | Light      | War       | Nature     | Death     |
+|--------------:|:-----------------:|:-------------:|:-----------------:|:----------:|:----------:|:---------:|:----------:|:---------:|
+| **Knowledge** | -                 | ?             | [Ioun], [Sardior] | ?          | [Moradin]  | [Erathis] | ?          | [Vecna]   |
+|   **Tempest** | ?                 | -             | [Brandobaris]     | ?          | ?          | [Kord]    | [Melora]   | ?         |
+|  **Trickery** | [Ioun], [Sardior] | [Brandobaris] | -                 | [Avandra]  | ?          | [Lolth]   | [Sehanine] | ?         |
+|      **Life** | ?                 | ?             | [Avandra]         | -          | [Pelor]    | [Bahamut] | [Yondalla] | [Nerull]  |
+|     **Light** | [Moradin]         | ?             | ?                 | [Pelor]    | -          | [Sune]    | [Corellon] | ?         |
+|       **War** | [Erathis]         | [Kord]        | [Lolth]           | [Bahamut]  | [Sune]     | -         | [Gruumsh]  | [Tiamat]  |
+|    **Nature** | ?                 | [Melora]      | [Sehanine]        | [Yondalla] | [Corellon] | [Gruumsh] | -          | ?         |
+|     **Death** | [Vecna]           | ?             | ?                 | [Nerull]   | ?          | [Tiamat]  | ?          | -         |
+
+Religious scholars postulate that deities gravitate toward their distinct niches, because multiple eternals occupying the same combination of domains could produce deific friction, or even an erosion of the distinctions between them in the minds of their worshippers.
 
 ### Allegiances
 

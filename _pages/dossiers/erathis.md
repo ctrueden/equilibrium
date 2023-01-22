@@ -8,9 +8,7 @@ statbox:
   gender: female
   alignment: lawful neutral
   month: "12 Idea"
-  domains:
-  - Knowledge
-  - War
+  domains: [Knowledge, War]
   allies:
   - Asmodeus
   - Avandra

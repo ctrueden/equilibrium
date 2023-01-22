@@ -7,9 +7,7 @@ statbox:
   race: [eternal, halfling]
   gender: male
   alignment: chaotic good
-  domains:
-  - Trickery
-  - Tempest
+  domains: [Trickery, Tempest]
   portfolio:
   - Thievery
   - Stealth

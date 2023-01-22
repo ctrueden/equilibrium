@@ -8,8 +8,7 @@ statbox:
   gender: none
   alignment: unaligned
   month: "01 Gyrus"
-  domains:
-  - All
+  domains: All
   porfolio:
   - Balance
   - Peace

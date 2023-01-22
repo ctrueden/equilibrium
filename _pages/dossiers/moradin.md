@@ -9,9 +9,7 @@ statbox:
   gender: male
   alignment: lawful good
   month: "02 Lux"
-  domains:
-  - Knowledge
-  - Light
+  domains: [Knowledge, Light]
   portfolio:
   - Creation
   - Family

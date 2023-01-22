@@ -8,18 +8,16 @@ image2-source: https://www.pinterest.com/pin/329185054018044518/
 image3: https://i.pinimg.com/originals/51/74/4a/51744a3de8788e74337824496d8c310a.png
 image3-source: https://www.pinterest.com/pin/24769866691752368/
 statbox:
-  race: [eternal, elf]
+  race: [eternal, elf (drow)]
   gender: female
   alignment: chaotic evil
-  domains:
-  - Trickery
-  - War
+  domains: [Trickery, War]
   portfolio:
   - Deceit
   - Shadows
   - Spiders
   allies:
-  - TODO
+  - Asteria
   enemies:
   - Corellon
   - Sehanine

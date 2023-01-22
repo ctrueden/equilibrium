@@ -6,6 +6,7 @@ image-source: https://www.pinterest.com/pin/62417144827058381/
 statbox:
   race: titan (astral)
   gender: male
+  domains: Tempest
 ---
 
 ...

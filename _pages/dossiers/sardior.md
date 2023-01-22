@@ -7,9 +7,7 @@ statbox:
   race: [eternal, dragon]
   gender: genderless (It/Its)
   alignment: neutral
-  domains:
-  - Knowledge
-  - Trickery
+  domains: [Knowledge, Trickery]
   portfolio:
   - Gem dragons
   - Night

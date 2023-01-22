@@ -2,6 +2,7 @@
 title: Calumnystra "Callie" Rockwell
 image: https://img00.deviantart.net/da68/i/2014/083/2/0/gnome_wizard_by_bombab-d7bk0ua.png
 image-source: https://www.deviantart.com/bombab/art/Gnome-Wizard-442673218
+domains: [Tempest, Life]
 statbox:
   hometown: Cognitutus
   race: gnome (rock)

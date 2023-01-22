@@ -10,9 +10,7 @@ statbox:
   gender: male
   alignment: neutral good
   month: "04 Solis"
-  domains:
-  - Life
-  - Light
+  domains: [Life, Light]
   portfolio:
   - Hope
   - Life

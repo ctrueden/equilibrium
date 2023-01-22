@@ -19,9 +19,7 @@ statbox:
   race: [eternal, human]
   gender: female
   alignment: chaotic neutral
-  domains:
-  - Light
-  - War
+  domains: [Light, War]
   portfolio:
   - Love
   - Beauty

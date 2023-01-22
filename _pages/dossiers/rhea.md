@@ -6,6 +6,7 @@ title: Rhea, Titan of Bounty
 statbox:
   race: titan (sky)
   gender: female
+  domains: Life
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Rhea_(mythology)
 ---

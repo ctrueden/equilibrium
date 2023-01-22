@@ -8,9 +8,7 @@ statbox:
   gender: female
   alignment: neutral
   month: "07 Avium"
-  domains:
-  - Tempest
-  - Nature
+  domains: [Tempest, Nature]
   portfolio:
   - Wilderness
   - The Sea

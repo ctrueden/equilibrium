@@ -8,6 +8,8 @@ image2-source: https://www.pinterest.com/pin/608619337160677305/
 statbox:
   race: titan (sky)
   gender: male
+  domains: Knowledge
+  aspect: Ocean
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Oceanus
 ---

@@ -6,6 +6,7 @@ image-source: https://www.pinterest.com/pin/326229566762977676/
 statbox:
   race: titan (sky)
   gender: male
+  aspect: Stars
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Crius
 ---

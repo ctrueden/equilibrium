@@ -8,9 +8,7 @@ statbox:
   gender: female
   alignment: chaotic neutral
   month: "09 Casus"
-  domains:
-  - Trickery
-  - Life
+  domains: [Trickery, Life]
   portfolio:
   - Revels
   - Wine

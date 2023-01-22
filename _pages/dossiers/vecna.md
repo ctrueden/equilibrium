@@ -10,9 +10,7 @@ statbox:
   gender: female
   alignment: neutral evil
   month: "11 Mysteria"
-  domains:
-  - Death
-  - Knowledge
+  domains: [Death, Knowledge]
   portfolio:
   - Secrets
   - Undead

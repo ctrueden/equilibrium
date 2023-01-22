@@ -6,6 +6,7 @@ image-beast: https://i.pinimg.com/originals/84/84/29/848429b7e078c252073beb4511d
 image-beast-source: https://www.pinterest.com/pin/645562927835781072/
 image-elf: https://i.imgur.com/psSqYk0.jpg
 image-elf-source: https://www.nonfictiongaming.com/2021/01/14/not-all-who-wander-are-lost-a-rangers-guide/
+domains: [Nature, Death]
 statbox:
   hometown: Deepwood/Selva
   race: [elf (wood), lycan]

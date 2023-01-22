@@ -8,9 +8,7 @@ statbox:
   gender: "? (they/them/their)"
   alignment: unaligned
   month: "03 Fons"
-  domains:
-  - Nature
-  - Light
+  domains: [Nature, Light]
   portfolio:
   - Spring
   - Art

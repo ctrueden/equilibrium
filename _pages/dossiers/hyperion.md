@@ -6,6 +6,7 @@ image-source: https://www.pinterest.com/pin/183873597270591273/
 statbox:
   race: [titan (sky), giant (frost)]
   gender: male
+  domains: Light
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Hyperion_(Titan)
 ---

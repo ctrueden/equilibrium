@@ -14,9 +14,7 @@ statbox:
   gender: female
   alignment: lawful good
   pronunciation: "YON-dah-lah"
-  domains:
-  - Life
-  - Nature
+  domains: [Life, Nature]
 links:
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Yondalla
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Yondalla

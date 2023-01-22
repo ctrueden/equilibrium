@@ -6,6 +6,7 @@ image-source: https://www.pinterest.com/pin/746049494538382652/
 statbox:
   race: titan (astral)
   gender: male
+  domains: War
 ---
 
 ...

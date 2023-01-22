@@ -8,9 +8,7 @@ statbox:
   gender: female
   alignment: unaligned
   month: "10 Fatum"
-  domains:
-  - Death
-  - Life
+  domains: [Death, Life]
   portfolio:
   - Death
   - Darkness

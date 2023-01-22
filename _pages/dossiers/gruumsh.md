@@ -8,9 +8,7 @@ statbox:
   gender: male
   alignment: lawful evil
   month: "05 Rixa"
-  domains:
-  - War
-  - Nature
+  domains: [War, Nature]
   portfolio:
   - Conquest
   - Survival

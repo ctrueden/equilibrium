@@ -10,9 +10,7 @@ statbox:
   gender: female
   alignment: unaligned
   month: "08 Luna"
-  domains:
-  - Nature
-  - Trickery
+  domains: [Nature, Trickery]
   portfolio:
   - The Moon
   - The Hunt

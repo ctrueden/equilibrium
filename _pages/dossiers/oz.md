@@ -1,6 +1,7 @@
 ---
 title: Ozborn Underfoot
 image: /equilibrium/assets/images/oz3.jpg
+domains: [Trickery, Death]
 statbox:
   hometown: "TODO"
   race: halfling (lightfoot)

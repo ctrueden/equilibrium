@@ -1,6 +1,7 @@
 ---
 title: Vondal of the South Fireforges
 image: /equilibrium/assets/images/vondal.jpg
+domains: [Knowledge, Tempest]
 statbox:
   hometown: Triumph (originally from the Veldt)
   race: [human, dwarf (slight ancestry)]

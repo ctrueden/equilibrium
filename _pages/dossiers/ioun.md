@@ -7,9 +7,7 @@ statbox:
   race: [eternal, gnome]
   gender: female
   alignment: neutral
-  domains:
-  - Knowledge
-  - Trickery
+  domains: [Knowledge, Trickery]
   portfolio:
   - Knowledge
   - Prophecy
