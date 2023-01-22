@@ -1,7 +1,7 @@
 ---
 title: "[Case 05] Tumbling and Transcendence"
 description: "An increasing flow of people are jumping from the Zenithal Summit of the Cliffs of Transcendence. Each longing for his wish to be granted. Each plummeting downward, never seen again..."
-datestamp: 50-03-19/0
+datestamp: 50-03-19/00
 when: 50 Solis 19
 ---
 

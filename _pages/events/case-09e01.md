@@ -1,6 +1,6 @@
 ---
 title: "[09e01] TODO"
-datestamp: 50-04-19/05
+datestamp: 50-04-19/C
 when: 50 Cudo 19-25
 session-number: 27
 session-date: 2018-07-27

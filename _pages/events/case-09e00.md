@@ -1,6 +1,6 @@
 ---
 title: "[09e00] 1UP!"
-datestamp: 50-04-19/04
+datestamp: 50-04-19/B
 when: "-"
 session-number: 1UP
 session-date: 2018-06-29

@@ -1,7 +1,7 @@
 ---
 title: "[Case 02] Exchange and Extortion"
 description: A rich man dies of a rapid wasting disease.
-datestamp: 50-03-11/0
+datestamp: 50-03-11/00
 when: 50 Solis 11-12
 ---
 

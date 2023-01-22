@@ -2,7 +2,7 @@
 title: "[Case 10] Capers and Calamity"
 description: >-
   A "time traveler" needs the SPI's help to "secure" the Cornucopia. But what are her true motivations?
-datestamp: 50-04-26/0
+datestamp: 50-04-26/00
 when: 50 Cudo 26 - Rixa 10
 ---
 
