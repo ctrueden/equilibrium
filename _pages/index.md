@@ -84,7 +84,7 @@ exception.
 * \[NE\] [The Radiant Union of Pelor (RUP)](locales/rup) -
   Inhospitable desert lands in the northeast governed by a benevolent
   [paladin](https://dungeonsdragons.fandom.com/wiki/Paladin)
-  order known as the Luminous Defenders.
+  order known as the [Luminous Defenders](orgs/luminous-defenders).
 * \[W\] [Cognitutus](locales/cognitutus) -
   A great [gnomish](creatures/gnomes) city, which disappeared during the
   [War of Countless Dead](events/war-of-countless-dead).
