@@ -90,7 +90,7 @@ Callie casts *speak with dead* on Isis. Oz, because he killed Isis, is banished 
 
 1. What is your mission? *To protect the world from another Vanishing.*
 
-2. Where do you come from? *Alye'adu.* (which Bec translates from elven as something like "together double")
+2. Where do you come from? *[Alye'adu](../locales/alyeadu).* (which Bec translates from elven as something like "together double")
 
 3. How did you get here? *I was stabbed by an artifact.*
 
