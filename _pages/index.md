@@ -100,18 +100,20 @@ exception.
 
 ## The War of Countless Dead, and the Aecus Concord
 
-For decades, the world was at war. The initial cause of the conflict is a topic
-of frequent historical debate&mdash;every nation tells it differently. After
-all, every country has reasons they hate the others&mdash;especially their
-neighbors. But there are a few facts upon which everyone agrees:
+For decades, [the world was at war](events/war-of-countless-dead). The initial
+cause of the conflict is a topic of frequent historical debate&mdash;every
+nation tells it differently. After all, every country has reasons they hate the
+others&mdash;especially their neighbors. But there are a few facts upon which
+everyone agrees:
 
 * All the nations of the world were involved.
 * No one's hands were clean.
 * The death toll was immeasurable.
 
-Fifty years ago, the war ended&mdash;suddenly. All the soldiers fighting on the
-warfront vanished without a trace, never to be seen again. After that, the
-whole area became warped and twisted, resulting in what is now called the Flux.
+Fifty years ago, [the war ended&mdash;suddenly](events/the-vanishing). All the
+soldiers fighting on the warfront vanished without a trace, never to be seen
+again. After that, the whole area became warped and twisted, resulting in what
+is now called the Flux.
 
 With no armies left to deploy, the war was effectively over. The seven nations
 still standing quickly met to sign a monumental peace treaty, the Aecus
@@ -159,18 +161,19 @@ often unaffected, perhaps because it was their will manifest.
 
 As such, magic and spellcasters are highly distrusted by most people. So much
 so, that when something magical is going on, the local authorities almost never
-want to deal with it. That's where the SPI comes in: an international, elite
-team of agents with unique magical skills and know-how. Leading the team is
-Mallory, the hard-boiled boss who's been running the operation for decades. The
-way he tells it, the SPI never used to get any respect, but he's worked very
-hard for a long time to change that. Finally, people are starting to take them
-seriously.
+want to deal with it. That's where the [SPI](orgs/spi) comes in: an
+international, elite team of agents with unique magical skills and know-how.
+Leading the team is [Mallory](dossiers/mallory), the hard-boiled boss who's
+been running the operation for decades. The way he tells it, the SPI never used
+to get any respect, but he's worked very hard for a long time to change that.
+Finally, people are starting to take them seriously.
 
 Unfortunately, a few weeks ago, all veteran SPI teams disappeared during their
-respective missions. All resurrection attempts fail. And meanwhile, the SPI
-headquarters in the Mountain was obliterated by fire, destroying their files.
-Most of the existing SPI staff escaped, but it was a close call. Mallory and
-the remaining staff do know something about previous investigations, but with
-magic involved, it's always tough to remember the details. The SPI is
-recruiting new investigators now, and operating from a temporary but secure
-location until something more permanent can be reestablished.
+respective missions. All resurrection attempts fail. And meanwhile, [the SPI
+headquarters in the Mountain was obliterated by fire](events/spi-fire),
+destroying their files. Most of the existing SPI staff escaped, but it was a
+close call. Mallory and the remaining staff do know something about previous
+investigations, but with magic involved, it's always tough to remember the
+details. The SPI is recruiting new investigators now, and operating from a
+temporary but secure location until something more permanent can be
+reestablished.
