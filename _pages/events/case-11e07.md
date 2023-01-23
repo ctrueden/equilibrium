@@ -1,7 +1,7 @@
 ---
 title: "[11e07] TODO"
 datestamp: 50-05-21/07
-when: 50 Rixa 21
+when: AC50 Rixa 21
 session-number: 43
 session-date: 2019-11-15
 session-event: https://www.facebook.com/events/804508853297012/

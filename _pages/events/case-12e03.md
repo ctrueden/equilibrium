@@ -1,7 +1,7 @@
 ---
 title: "[12e03] The Golden Path"
 datestamp: 50-05-24/03
-when: 50 Rixa 24
+when: AC50 Rixa 24
 session-number: 48
 session-date: 2022-06-03
 session-event: https://www.facebook.com/events/4357338237702844/

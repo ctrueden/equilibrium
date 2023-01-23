@@ -1,7 +1,7 @@
 ---
 title: "[10e02] TODO"
 datestamp: 50-04-26/02
-when: 50 Cudo 26 - Rixa 02
+when: AC50 Cudo 26 - Rixa 02
 session-number: 32
 session-date: TODO
 session-event: TODO

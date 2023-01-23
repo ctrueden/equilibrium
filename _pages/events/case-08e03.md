@@ -1,7 +1,7 @@
 ---
 title: "[08e03] TODO"
 datestamp: 50-04-19/03
-when: 50 Cudo 19
+when: AC50 Cudo 19
 session-number: TODO
 session-date: TODO
 session-event: TODO

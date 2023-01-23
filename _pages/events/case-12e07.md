@@ -1,7 +1,7 @@
 ---
 title: "[12e07] Dickery in the Hickory"
 datestamp: 50-05-25/07
-when: 50 Rixa 25
+when: AC50 Rixa 25
 session-number: 52
 session-date: 2022-09-03
 session-event: https://www.facebook.com/events/3098841137000207/

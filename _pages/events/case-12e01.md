@@ -1,7 +1,7 @@
 ---
 title: "[12e01] Burglary at SPI HQ!"
 datestamp: 50-05-23/01
-when: 50 Rixa 23
+when: AC50 Rixa 23
 session-number: 46
 session-date: 2022-04-15
 session-event: https://www.facebook.com/events/717379965919961/

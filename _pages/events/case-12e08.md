@@ -1,7 +1,7 @@
 ---
 title: "[12e08] Thrilla in the Willa"
 datestamp: 50-05-25/08
-when: 50 Rixa 25
+when: AC50 Rixa 25
 session-number: 53
 session-date: 2022-10-29
 session-event: https://www.facebook.com/events/1299318844229169/

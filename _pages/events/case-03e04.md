@@ -1,7 +1,7 @@
 ---
 title: "[03e04] TODO"
 datestamp: 50-03-14/04
-when: 50 Solis 14
+when: AC50 Solis 14
 session-number: 7
 session-date: 2015-12-12
 session-event: https://www.facebook.com/events/1684637685110960/

@@ -1,7 +1,7 @@
 ---
 title: "[12e10] Passerby Were Amazed by the Unusually Large Amounts of Blood"
 datestamp: 50-05-25/10
-when: 50 Rixa 25
+when: AC50 Rixa 25
 session-number: 55
 session-date: 2022-12-02
 session-event: https://www.facebook.com/events/881611359667217/

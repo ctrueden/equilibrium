@@ -3,7 +3,7 @@ title: "[Case 08] Revelry and Revenge"
 description: >-
   Spooky circus! A wealthy couple have "laughed to death" during a performance.
 datestamp: 50-04-19/00
-when: 50 Cudo 19
+when: AC50 Cudo 19
 ---
 
 ### Location

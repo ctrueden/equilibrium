@@ -1,7 +1,7 @@
 ---
 title: "[01e01] The Ultimate Showdown of Stone"
 datestamp: 50-03-10/01
-when: 50 Solis 10
+when: AC50 Solis 10
 session-number: 1
 session-date: 2015-05-15
 session-event: https://www.facebook.com/events/1578105459109405/

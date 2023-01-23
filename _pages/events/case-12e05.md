@@ -1,7 +1,7 @@
 ---
 title: "[12e05] You never said your tiny hut had a floor"
 datestamp: 50-05-24/05
-when: 50 Rixa 24-25
+when: AC50 Rixa 24-25
 session-number: 50
 session-date: 2022-07-16
 session-event: https://www.facebook.com/events/797001894791959/

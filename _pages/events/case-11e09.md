@@ -1,7 +1,7 @@
 ---
 title: "[11e09] The Frekoning"
 datestamp: 50-05-21/09
-when: 50 Rixa 21-23
+when: AC50 Rixa 21-23
 session-number: 45
 session-date: 2022-03-18
 session-event: https://www.facebook.com/events/1549366645445718/

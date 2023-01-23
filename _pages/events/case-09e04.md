@@ -1,7 +1,7 @@
 ---
 title: "[09e04] TODO"
 datestamp: 50-04-25/04
-when: 50 Cudo 25-26
+when: AC50 Cudo 25-26
 session-number: 30
 session-date: 2018-10-05
 session-event: TODO

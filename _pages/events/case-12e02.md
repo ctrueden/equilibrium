@@ -1,7 +1,7 @@
 ---
 title: "[12e02] The Tree-melded"
 datestamp: 50-05-23/02
-when: 50 Rixa 23-24
+when: AC50 Rixa 23-24
 session-number: 47
 session-date: 2022-04-22
 session-event: https://www.facebook.com/events/363875282348022/

@@ -1,7 +1,7 @@
 ---
 title: "[07e01] TODO"
 datestamp: 50-04-11/01
-when: 50 Cudo 11-13
+when: AC50 Cudo 11-13
 session-number: 18
 session-date: 2017-07-14
 session-event: https://www.facebook.com/events/318963628545414/

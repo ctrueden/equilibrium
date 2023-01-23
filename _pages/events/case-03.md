@@ -2,7 +2,7 @@
 title: "[Case 03] Punctuality and Perpetuity"
 description: An elderly dwarf's clock stops at the moment of his death. But something is not quite right...
 datestamp: 50-03-14/00
-when: 50 Solis 14
+when: AC50 Solis 14
 ---
 
 ### Patron

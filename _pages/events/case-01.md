@@ -2,7 +2,7 @@
 title: "[Case 01] Petrification and Putrifaction"
 description: A petrified accountant triggers a cascade of events.
 datestamp: 50-03-10/00
-when: 50 Solis 10
+when: AC50 Solis 10
 ---
 
 Some weeks after SPI HQ burns to the ground, and all field agents have gone missing, four new recruits apply to join the SPI on the same day.
