@@ -33,10 +33,10 @@ orientations.
 | 06 | Vis          | [Kord](dossiers/kord)         | Tempest          | The strong survived, weathering the storms.                        |
 | 07 | Avium        | [Melora](dossiers/melora)     | Tempest, Nature  | And the wilderness endured, defiant and untamed.                   |
 | 08 | Luna         | [Sehanine](dossiers/sehanine) | Nature, Trickery | Mortalkind learned to thrive in harmony with the natural world.    |
-| 09 | Casus        | [Avandra](dossiers/avandra)   | Trickery         | As their luck changed, they began new journeys.                    |
+| 09 | Casus        | [Avandra](dossiers/avandra)   | Trickery, Life   | As their luck changed, they began new journeys.                    |
 | 10 | Fatum        | [Nerull](dossiers/nerull)     | Trickery, Death  | But all journeys end with death's embrace.                         |
 | 11 | Mysteria     | [Vecna](dossiers/vecna)       | Death, Knowledge | Is there a secret way to cheat fate?                               |
-| 12 | Idea         | [Erathis](dossiers/erathis)   | Knowledge        | As secrets are revealed, can Aecans build a better world together? |
+| 12 | Idea         | [Erathis](dossiers/erathis)   | Knowledge, War   | As secrets are revealed, can Aecans build a better world together? |
 
 ## Days of the week
 
