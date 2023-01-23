@@ -1,5 +1,5 @@
 ---
-title: "[12e10] Passerby Were Amazed by the Unusually Large Amounts of Blood"
+title: "[12e10] ...Unusually Large Amounts of Blood"
 datestamp: 50-05-25/10
 when: AC50 Rixa 25
 session-number: 55
