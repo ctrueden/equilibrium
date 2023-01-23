@@ -1,7 +1,7 @@
 ---
 title: "[13e02] Adieu to Alye'adu"
 datestamp: 50-05-30/02
-when: AC50 Rixa 30
+when: AC50 Auran Apex
 session-number: 59
 session-date: 2023-02-03
 session-event: https://www.facebook.com/events/846270163301081/
