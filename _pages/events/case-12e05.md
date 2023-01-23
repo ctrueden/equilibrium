@@ -7,9 +7,11 @@ session-date: 2022-07-16
 session-event: https://www.facebook.com/events/797001894791959/
 ---
 
-> Nate: When we saw something shiny in the tree before -- was it the sprite?\\
-> Curt: You think it was some part of the sprite's clothing, like buckles or rings.\\
-> Anna: You got tricked by BUCKLES!
+{% include quote text="
+Nate: When we saw something shiny in the tree before -- was it the sprite?\\
+Curt: You think it was some part of the sprite's clothing, like buckles or rings.\\
+Anna: You got tricked by BUCKLES!
+" %}
 
 [Sartus](../dossiers/sartus-morningdew) casts *polymorph* and *animal messenger* on the elephant to turn it into a crow and then sends it to the Queen with a message: "Our journey continues, and all is well."
 

@@ -19,7 +19,7 @@ After that, things happen fast&mdash;very fast.
 
 "I agree," Vondal says, "We have to secure that guy immediately." He points his fingers at the gnome and casts a spell, but it fizzles out, with Vondal poofing out in a puff of feathers!
 
-> Michael: "I like to think that Curtis just *winged* that."
+{% include quote text="I like to think that Curtis just *winged* that." source="Michael" %}
 
 [Callie](../dossiers/callie) casts *cure wounds* on Phoebe. It is super effective! She feels not only the presence of the [dual goddesses](../rules/dual-goddesses), but also less familiar divine presence, as Feymist coalesces from around the area and infuses itself into her hand as she touches the hamadryad. Phoebe's wounds close, and her eyes begin to flutter.
 
@@ -108,9 +108,10 @@ In actuality, Oz wants to test who will refuse to do the test. Everyone except F
 
 Phoebe suggests that the test actually works, and that any liquid will do, which gives Oz momentary pause.
 
-> Michael [because the doppelganger doesn't have a mouth]: "Does it have a butthole?"
->
-> Curtis [answering without consulting the rules]: "It does not have a butthole."
+{% include quote text='
+Michael [because the doppelganger does not have a mouth]: "Does it have a butthole?"  
+Curtis [answering without consulting the rules]: "It does not have a butthole."
+' %}
 
 Phoebe looks at Sartus and asks him whether he really wants to proceed with his plan. Sartus answers earnestly that he does, and Phoebe agrees to help him. The exchange seems uncomfortably intense.
 
@@ -133,7 +134,7 @@ Callie suggests using a [*sending*](https://5e.tools/spells.html#sending_phb) to
 
 The agents discuss this idea, but Sartus suggests to be very careful what they say to him.
 
-> Michael [about people's consternation over the doppelganger]: "How is this any different than the dragon that winked in and out of existence! Or the hive of bees that was a person! Or the six-foot shrikes! Oh, *this* is the line! Your weird-shit-o-meter is not calibrated the way mine is, that's all!"
+{% include quote text="How is this any different than the dragon that winked in and out of existence! Or the hive of bees that was a person! Or the six-foot shrikes! Oh, *this* is the line! Your weird-shit-o-meter is not calibrated the way mine is, that's all!" source="Michael [about people's consternation over the doppelganger]" %}
 
 Cal: "If you guys don't want to go there, we should at least warn him."
 

@@ -13,9 +13,9 @@ The Tree is rumbling.
 
 [Bec](../dossiers/bec): "We have to get out of here."
 
-[Oz](../dossiers/oz) (adamantly): "Yes, we should go check on the queen immediatelyl, posthaste."
+[Oz](../dossiers/oz) (adamantly): "Yes, we should go check on the queen immediately, posthaste."
 
-[Vondal](../dossiers/vondal) quickly tells [Rain](../dossiers/rain): We blew up, I'm good, everybody else question marks, welcome back, hi, and now the tree that holds all of existence of dying.
+[Vondal](../dossiers/vondal) quickly tells [Rain](../dossiers/rain): "We blew up, I'm good, everybody else question marks, welcome back, hi, and now the tree that holds all of existence of dying."
 
 [Cal](../dossiers/cal) beckons Oz over to talk to him. He wants Oz to stab the [Book](../relics/necronomicon).
 
@@ -124,13 +124,15 @@ As this happens, Bec reflexively drops the Book (which she was still holding wit
 
 Vondal, concerned he might have been created by the Book, or even be an aspect of the Book itself, tries to channel luck to protect it using Lucky (which normally can only be used to protect himself)... but it doesn't work. Whew!
 
-> Time slows to a stop for Freki, as his ravens appear spectrally, one on each of his shoulders.
->
-> Hugin: "The veil between life and death grows thin."  
-> Munin: "The Lady will be very displeased."  
-> Hugin: "Do we let this happen?"
->
-> Freki feels great respect for the elves, and for the Tree, which is the closest thing he has to a religion. He decides he cannot let this happen, and resolves to intervene. Time resumes, and Freki leaps with supernatural speed, bolstered by the fleeting image of a giant spectral raven around him, on top of the Book.
+{% include quote text='
+Time slows to a stop for Freki, as his ravens appear spectrally, one on each of his shoulders.
+
+Hugin: "The veil between life and death grows thin."  
+Munin: "The Lady will be very displeased."  
+Hugin: "Do we let this happen?"
+
+Freki feels great respect for the elves, and for the Tree, which is the closest thing he has to a religion. He decides he cannot let this happen, and resolves to intervene. Time resumes, and Freki leaps with supernatural speed, bolstered by the fleeting image of a giant spectral raven around him, on top of the Book.
+' %}
 
 ...and the Hornblade pierces Freki straight through the back.
 

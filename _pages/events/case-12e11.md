@@ -43,13 +43,13 @@ Freki transforms into hybrid form, and moves up to the ghost and owlbear.
 
 Oz attacks Janus with his dagger of venom, misses, and fancy footworks away from the ghost toward the owlbear samurai. "You're next, you limp-cocked pig rapist!" Oz taunts the dark-Oz-ghost. Then he stabs the Hornblade into the owlbear!
 
-> Nate: The owlbear's an enemy, right? Right?!
+{% include quote text="The owlbear's an enemy, right? Right?!" source="Nate" %}
 
 Owlbear: "Oz! What are you doing, I know I annoy with my spells, but please!"
 
 Bec casts *dispel magic* on Cronus! His conjured will tries to resist but fails, and he dissipates. So does the shadow Letharil, and the residual shadow energy around the owlbear. Bec realizes that all the effects are linked in a chain.
 
-> Anna: "If you can hit that bullseye, the rest of the dominoes will fall like a house of cards. Checkmate!"
+{% include quote text="If you can hit that bullseye, the rest of the dominoes will fall like a house of cards. Checkmate!" source="Anna" %}
 
 Sartus comes back and stands next to Bec. "Thank you, and I'm sorry. But it's all up to you now&mdash;I need to save my magic for when we get the Book." And he draws a longsword.
 

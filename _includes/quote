@@ -1,0 +1,15 @@
+{%- comment -%}
+Quotes someone.
+{%- endcomment -%}
+
+{%- assign text = include.text -%}
+{%- assign source = include.source -%}
+
+<figure>
+  <blockquote>{{text | markdownify}}</blockquote>
+{% if source %}  <figcaption style="margin-top: -0.8em">&mdash;{{source}}</figcaption> {%- endif -%}
+</figure>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}
