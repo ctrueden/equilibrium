@@ -6,6 +6,8 @@ image-source: https://forgottenrealms.fandom.com/wiki/Deity
 
 The eternals, commonly worshipped as deities, are the beings that built the modern world. Many continue to participate in its growth and development. Some are newcomers seeking to claim a place amongst the divinity.
 
+Further reading: https://dungeonsdragons.fandom.com/wiki/Deity
+
 ## Table of eternals
 
 {% assign link-sites = "4E|D&D wiki|Greyhawk|Forgotten Realms|FRC|FRC 2|Evenfall|Critical Role|Thieves Guild|Thieves Guild 2|Thieves Guild 3|Thieves Guild 4|Thieves Guild 5|Wikipedia|5E Exandria|5E Exandria 2|5E Racial|5E Dawn War|5E Greyhawk|5E Faerun|5E Greek|5E Greek 2|5E Greek 3" | split: "|" -%}

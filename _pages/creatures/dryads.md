@@ -4,7 +4,9 @@ image: https://i.pinimg.com/236x/63/cc/ee/63ccee935fd3a41e5e9ad8a871ac4a2a.jpg
 image-source: https://www.pinterest.com/pin/18014467247941239/
 ---
 
-Dryads are [fey](fey) creatures of the forest, each bonded to a specific tree.
+Dryads are [fey](fey) creatures of the forest, each bonded to a specific tree, in the form of beautiful (albeit woody) elfin women who benevolently protect forests and woodlands. 
+
+Further reading: https://dungeonsdragons.fandom.com/wiki/Dryad
 
 ## Hamadryads
 

@@ -4,7 +4,9 @@ image: https://static.wikia.nocookie.net/forgottenrealms/images/5/51/4e_human.jp
 image-source: https://forgottenrealms.fandom.com/wiki/Human
 ---
 
-[human](https://dungeonsdragons.fandom.com/wiki/Human)
+TODO
+
+Further reading: https://dungeonsdragons.fandom.com/wiki/Human
 
 ### List of humans
 

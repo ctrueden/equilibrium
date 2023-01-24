@@ -5,7 +5,9 @@ image-source: https://forgottenrealms.fandom.com/wiki/Aarakocra
 links:
 ---
 
-The aarakocra are a [bipedal](../glossary#bipedal) bird race primarily residing in [Skyrealm](../locales/skyrealm) in cities such as [Aether](../locales/aether) as well as outlying [skylands](../glossary#skyland). As a race they have sworn an oath to protect [Aecus](../locales/aecus) from the threat of [gargoyles](gargoyles) emerging from the [Howling Gyre](../locales/howling-gyre).
+The aarakocra, also known as birdfolk, are avian [bipeds](../glossary#bipedal) primarily residing in the high, mountainous regions of the [Zephyr Federation](../locales/zephyr), as well as outlying [skylands](../glossary#skyland). As a race they have sworn an oath to protect [Aecus](../locales/aecus) from the threat of [gargoyles](gargoyles) emerging from the [Howling Gyre](../locales/howling-gyre). They are strong fliers and capable warriors.
+
+Further reading: https://dungeonsdragons.fandom.com/wiki/Aarakocra
 
 ### List of aarakocra
 
