@@ -1,5 +1,5 @@
 ---
-title: Zaqar the Brucolac
+title: The Brucolac
 image: https://cdn.obsidianportal.com/assets/129173/Tirval.jpg
 image-source: https://a-world-of-blood-and-darkness.obsidianportal.com/wikis/the-pantheon
 image-wizard: https://i.pinimg.com/originals/62/7d/b3/627db3954781d81322a81cf715fdab83.png
