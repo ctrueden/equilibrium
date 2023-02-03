@@ -1,5 +1,7 @@
 ---
 title: Brother Alabastor
+image: https://i.pinimg.com/originals/03/e4/09/03e409bac6321182ecc3fcf5f84ab691.png
+image-source: https://www.pinterest.com/pin/293156257000105286/
 statbox:
   race: human
   gender: male
