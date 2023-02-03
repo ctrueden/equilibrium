@@ -64,7 +64,8 @@ submarine, and Aurora accompanying them as a munitions expert.
 ### Criminals and villains
 
 The SPI has faced many threats throughout its 50 year existence,
-and brought many criminals to justice. Most recently, those include:
+and brought many criminals to justice, while others have escaped
+their just desserts... so far. Most recently, those include:
 
 | Case(s)                                           | Person                                                         |
 |---------------------------------------------------|----------------------------------------------------------------|
@@ -77,10 +78,14 @@ and brought many criminals to justice. Most recently, those include:
 | [06](../events/case-06)                           | [Solomon](../dossiers/solomon)                                 |
 | [07](../events/case-07)                           | [Alex Orbach](../dossiers/alex-orbach)                         |
 | [08](../events/case-08)                           | [Meroe](../dossiers/meroe)                                     |
-| [07](../events/case-07), [09](../events/case-09)  | [Priscilla Stormcloud(?)](../dossiers/priscilla-stormcloud)    |
+| [09](../events/case-09)                           | [The Balor](../dossiers/balor)                                 |
 | [10](../events/case-10)                           | [Anne "Bonny" Qin](../dossiers/bonny-qin)                      |
 | [07](../events/case-07), [10](../events/case-10)  | [Bram the Blithe](../dossiers/bram-the-blithe)                 |
-| [11](../events/case-11)                           | [The Aboleths](../dossiers/aboleths)                           |
+| [11](../events/case-11)                           | [The Aboleths](../creatures/aboleths)                          |
+| [12](../events/case-12)                           | [Isis Ra'ksh](../dossiers/isis-raksh)                          |
+| [12](../events/case-12)                           | [Peregrine Shackleton](../dossiers/peregrine-shackleton)       |
+| [12](../events/case-12)                           | [Eixam](../dossiers/eixam)                                     |
+| [12](../events/case-12)                           | [Zuggtmoy](../dossiers/zuggtmoy)                               |
 
 ## Evidence locker
 
