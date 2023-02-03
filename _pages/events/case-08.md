@@ -14,7 +14,7 @@ Zombozo’s Traveling Circus, outside the big top, on the outskirts of Sanctum, 
 
 [Luminous Defenders](../orgs/luminous-defenders) hired them due to a legal obligation to the accused.
 
-* Brother Alabastor, a mild mannered, friendly and bookish holy man.
+* [Brother Alabastor](../dossiers/alabastor), a mild mannered, friendly and bookish holy man.
 * Zombozo is in custody, but swears he is innocent—he passed a [zone of truth](http://www.5esrd.com/spellcasting/all-spells/z/zone-of-truth/) test.
 * The Luminous Defenders seem biased against Zombozo, because he is undead.
 

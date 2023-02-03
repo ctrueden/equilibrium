@@ -14,7 +14,7 @@ session-event: https://www.facebook.com/events/155732931708617/
   * Mallory said that he does not know the location of any of the others.
 * Mallory gave the agents their next case: murder at the circus!
 * Freki was very disturbed by his vision (or whatever it was). He was fully convinced Cal was dead. But Mallory promised that Cal was just sleeping in his quarters, still recovering from the party’s recent ordeal at the auction. Freki insisted on checking on Cal in his room, where he was indeed found in a deep slumber.
-* Agents went to Sanctum and found the LD chapter house. They met Brother Alabastor.
+* Agents went to Sanctum and found the LD chapter house. They met [Brother Alabastor](../dossiers/alabastor).
   * He led them to Zombozo’s cell. Zombozo told them he didn’t do it.
   * Knock knock! Who’s there? Harry! Harry who? Harry up and get me out of here!
   * Knock knock! Who’s there? Toodle! Toodle who? Buh-bye!

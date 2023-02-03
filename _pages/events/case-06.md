@@ -78,7 +78,7 @@ Freki tells the SPI that several tribes frequent this area of the Jungle near [X
 **[Solomon](../dossiers/solomon)** (male, yikarian, elderly)
 * Ancient leader of the Stormherd, renowned as a powerful diviner.
 
-**[Zanqaa the Devoted](../dossiers/zanqaa-the-devoted)** (male, dao, unknown age)
+**[Zanqaa the Devoted](../dossiers/zanqaa)** (male, dao, unknown age)
 * Solomon’s earth genie servant.
 
 **[Grosh’mog](../dossiers/groshmog)** (male, orc, adult)

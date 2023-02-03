@@ -14,6 +14,6 @@ he concocted a plot to create and steal a weapon made of Karach, the only
 substance known to resist the [Flux](../locales/flux). With the help of
 spiritual essence from the
 slain [Manufeai](../orgs/manufeai) tribe, along with the powers of his earth
-genie [Zanqaa the Devoted](zanqaa-the-devoted), he transformed himself into a
+genie [Zanqaa the Devoted](zanqaa), he transformed himself into a
 monstrous entity. The [SPI](../orgs/spi) slew him, but the stain of the Flux
 persists on the grounds where the events took place.

@@ -1,5 +1,6 @@
 ---
-title: Brie Fireforge
+nav-title: Queen Brie Fireforge
+title: Brie Fireforge, Queen Under the Mountain
 image: https://i.pinimg.com/736x/4c/aa/60/4caa60000391c43edd5e1b2c2d81932c--fantasy-pictures-fantasy-images.jpg
 image-source: https://www.pinterest.com/pin/480266747749475553/
 image2: https://i.pinimg.com/originals/93/43/76/9343769ba380afa6c8c948a61e92d647.jpg

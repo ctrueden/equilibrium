@@ -13,4 +13,4 @@ statbox:
   pronunciation: "MAI-uh-heen"
 ---
 
-Daughter of [Saint Benedor the Luminary](saint-benedor).
+Daughter of [Saint Benedor the Luminary](benedor).
