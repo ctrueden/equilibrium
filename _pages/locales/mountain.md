@@ -37,8 +37,8 @@ There are seven dwarven High Clans:
 
 * **Aldrimor** – Brave, honorable and humble leaders.
 * **Balderk** – Hard-working and productive farmers.
-* **Corbinic** – Sticklers for the law. Previous king Kaladrin came from this clan.
+* **Corbinic** – Sticklers for the law.
 * **Dungart** – Stout and vigorous defenders. Protect Veldt villages; defend the tunnels from threats.
 * **Elka** – Intellectual magicians. Strengthen tunnel integrity, research agriculture gems.
-* **Fireforge** – Smiths and builders.
+* **Fireforge** – Smiths and builders. Previous king [Kaladrin](../dossiers/kaladrin-fireforge) came from this clan.
 * **Greyshore** – Diplomats and mediators. Current king Durak comes from this clan.

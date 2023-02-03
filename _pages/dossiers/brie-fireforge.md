@@ -13,4 +13,4 @@ statbox:
   case: "03"
 ---
 
-Queen of the [dwarves](../creatures/dwarves) under the [Mountain](../locales/mountain). Wife of [Durak Greyshore](durak-greyshore).
+Queen of the [dwarves](../creatures/dwarves) under the [Mountain](../locales/mountain). Wife of [Durak Greyshore](durak-greyshore). Descendant of [Kaladrin Fireforge](kaladrin-fireforge).
