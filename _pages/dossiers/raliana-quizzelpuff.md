@@ -1,5 +1,8 @@
 ---
 title: Raliana Quizzelpuff
+image: https://i.pinimg.com/originals/64/36/b3/6436b38334cc65e3fee6c232a398a549.png
+image-source: https://www.pinterest.com/pin/554716879101287216/
+image2-source: https://www.pinterest.com/pin/550002173249301837/
 statbox:
   race: gnome
   gender: female

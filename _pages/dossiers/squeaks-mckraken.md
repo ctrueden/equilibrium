@@ -1,5 +1,8 @@
 ---
+nav-title: Squeaks McKraken
 title: Hengelimsh "Squeaks" McKraken
+image: https://i.pinimg.com/originals/cc/ff/6c/ccff6c2520fa4da94dc709e7854e0502.png
+image-source: https://www.pinterest.com/pin/306526318367218358/
 statbox:
   race: [human, orc]
   gender: male
