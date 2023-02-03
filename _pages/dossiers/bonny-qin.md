@@ -5,6 +5,7 @@ image-source: https://www.pinterest.com/pin/276760339585192519/
 statbox:
   race: tiefling
   gender: female
+  class: rogue (assassin)
   case: ["09", "10"]
   pronunciation: "KEEN"
 ---

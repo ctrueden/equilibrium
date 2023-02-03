@@ -1,8 +1,11 @@
 ---
 title: Mary Reed
+image: https://i.pinimg.com/originals/5a/b0/f3/5ab0f33da1b3c4f11c3b1d1a64188f2f.jpg
+image-source: https://www.pinterest.com/pin/469922542369579812/
 statbox:
   race: tiefling
   gender: female
+  class: fighter
   case: "09"
 ---
 
