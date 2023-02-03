@@ -9,4 +9,4 @@ statbox:
   case: "03"
 ---
 
-TODO
+Mother of [Gurin](gurin-aldrimor).
