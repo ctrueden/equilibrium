@@ -1,7 +1,7 @@
 ---
 title: Lizardfolk
-image: https://static.wikia.nocookie.net/forgottenrealms/images/d/df/Lizardfolk_-_Steve_Prescott.jpg
-image-source: https://forgottenrealms.fandom.com/wiki/Lizardfolk
+image: https://i.pinimg.com/originals/ed/52/e4/ed52e4517b105956c658dc4f36eb7c54.jpg
+image-source: https://www.pinterest.com/pin/204280533080625401/
 ---
 
 TODO
