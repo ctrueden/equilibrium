@@ -19,6 +19,6 @@ hired by the Rockwell family to secure their home after
 [Cornucopia of Life](../relics/cornucopia) into their foyer.
 
 Reginald had dark, beady eyes and a shaved head. He was quite concerned about
-"horrors from the deep" i.e. [aboleths](aboleths)&mdash;but it turned out that
-aboleths had already driven him mad, and were using his neuroses to control
-him as one of their puppets.
+"horrors from the deep" i.e. [aboleths](../creatures/aboleths)&mdash;but it
+turned out that aboleths had already driven him mad, and were using his
+neuroses to control him as one of their puppets.

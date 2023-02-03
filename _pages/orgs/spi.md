@@ -57,7 +57,7 @@ include:
 [Schnartank Bombardine](../dossiers/schnartank-bombardine), and
 [Aurora Damasca](../dossiers/aurora-damasca). Aside from Bombardine,
 they supported the [SPI's mission to the ocean depths](../events/case-11) to
-confront the [aboleth](../dossiers/aboleths) threat to
+confront the [aboleth](../creatures/aboleths) threat to
 [the city](../locales/cognitutus), with Kwalish lending them her twinked out
 submarine, and Aurora accompanying them as a munitions expert.
 
