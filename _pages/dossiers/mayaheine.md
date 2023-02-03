@@ -10,7 +10,7 @@ statbox:
   race: human
   gender: female
   case: "13"
-  pronunciation: "MAI-uh-heen"
+  pronunciation: "MAI-uh-HEE-nay"
 ---
 
 Daughter of [Saint Benedor the Luminary](benedor).
