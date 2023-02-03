@@ -7,6 +7,7 @@ statbox:
   clan: Greyshore
   gender: male
   profession: king
+  age: 288
   case: "03"
 ---
 

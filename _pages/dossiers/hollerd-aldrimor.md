@@ -5,7 +5,7 @@ image-source: https://www.deviantart.com/gansone89/art/Dwarf-farmer-474544096
 statbox:
   race: dwarf
   gender: male
-  age: 150 years old
+  age: 150
   profession: farmer
   case: "03"
 ---

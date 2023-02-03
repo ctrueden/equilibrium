@@ -6,6 +6,7 @@ statbox:
   race: dwarf
   clan: Aldrimor
   gender: female
+  age: 92
   case: "03"
 ---
 

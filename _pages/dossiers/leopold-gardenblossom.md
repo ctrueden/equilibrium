@@ -12,6 +12,7 @@ statbox:
   race: gnome
   gender: male
   case: ["03", "09", "10", "11"]
+  age: 444
   profession: professor of the arcane arts
 ---
 

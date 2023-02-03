@@ -6,6 +6,7 @@ statbox:
   race: [dwarf, githzerai]
   gender: male
   profession: writer
+  age: 73
   case: "03"
 ---
 

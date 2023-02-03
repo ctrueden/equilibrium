@@ -6,7 +6,7 @@ statbox:
   race: dwarf
   gender: male
   class: wizard
-  age: 105 years old
+  age: 105
   case: "03"
 ---
 

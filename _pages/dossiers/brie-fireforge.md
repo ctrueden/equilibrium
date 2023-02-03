@@ -8,6 +8,7 @@ statbox:
   race: dwarf
   clan: [Fireforge, Greyshore]
   gender: female
+  age: 289
   profession: queen
   case: "03"
 ---
