@@ -148,6 +148,6 @@ As everyone frees the Queen from her chains, an argument can be heard through th
 
 ......................
 
-Six days later, the agents are tracking the [Sima doppelganger](../dossiers/ameesha) east through the Deepwood.
+Six days later, the agents are tracking the [Sima doppelganger](../dossiers/amisa) east through the Deepwood.
 
 And Freki senses that they in turn are being followed...

@@ -21,7 +21,7 @@ At camp the first night, [Freki](../dossiers/freki) confronts Cal about his beha
 Unruly jackals! That's what they are. It's going to take ages to shoo them out. But they'll listen to me. They always do, eventually. *\*brandishes shillelegh\**
 " %}
 
-Where is [doppel-Sima](../dossiers/ameesha) going? Northeast, from Deepwood into [Selva](../locales/selva), toward the dwarven Veldt. General direction of the [Mountain](../locales/mountain).
+Where is [doppel-Sima](../dossiers/amisa) going? Northeast, from Deepwood into [Selva](../locales/selva), toward the dwarven Veldt. General direction of the [Mountain](../locales/mountain).
 
 After six days, Freki is considering scouting ahead to confront the fake Sima.
 
