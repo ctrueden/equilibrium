@@ -121,6 +121,6 @@ See the [lycan ranger](../rules/lycan-ranger) rules.
 
 #### Beast Companions
 
-Freki is bonded to the twin mystic ravens Hugin and Munin. They are loyal to Freki but not beholden to him. Supernatural, of unknown origin.
+Freki is bonded to the twin mystic ravens Hugin and Munin[*](https://en.wikipedia.org/wiki/Huginn_and_Muninn). They are loyal to Freki but not beholden to him. Supernatural, of unknown origin.
 
 See [Beast of the Sky](https://5e.tools/bestiary.html#beast%20of%20the%20sky_tce) for game statistics.
