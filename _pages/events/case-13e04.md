@@ -3,7 +3,7 @@ title: "[13e04] The Malosi Strike Back"
 datestamp: 50-05-30/04
 when: AC50 Auran Apex
 session-number: 61
-session-date: 2023-04-01
+session-date: 2023-04-22
 session-event: https://www.facebook.com/events/210543668305395/
 ---
 
