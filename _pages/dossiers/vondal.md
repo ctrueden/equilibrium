@@ -29,6 +29,11 @@ magic-items:
     rarity: TODO
     value: TODO
     page: TODO
+  - name: Bracers of Defense
+    source: Spoils of war from defeating Talos
+    rarity: TODO
+    value: TODO
+    page: TODO
   - name: Sending Stone
     source: SPI
     rarity: uncommon (minor)
