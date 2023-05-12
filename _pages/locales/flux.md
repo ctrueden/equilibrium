@@ -1,5 +1,11 @@
 ---
 title: The Flux
+image: https://i.pinimg.com/originals/6f/17/84/6f17849499ed65465b5d5e10e9050bf3.jpg
+image-source: https://www.pinterest.com/pin/785948572465860728/
+image2: https://4.bp.blogspot.com/-jYTz7-evQm8/U4hbr5_usSI/AAAAAAAAC-k/ngGhIARzRXU/s1600/b6fd5266d01609240af6abe1d60735fae7cd347c.jpg
+image2-source: https://thetwelvethknight.blogspot.com/2014/05/chaos-matter-tommaso-de-benedictis.html
+image3: https://i.pinimg.com/originals/f6/47/f4/f647f4a099c81e034f8cd3b6cefb75b8.jpg
+image3-source: https://www.pinterest.com/pin/152840981083979714/
 statbox:
   races:
   - aberrations

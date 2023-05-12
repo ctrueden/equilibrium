@@ -1,5 +1,24 @@
 ---
 title: Arallu
+
+image: https://i.pinimg.com/originals/7f/87/d6/7f87d6ffc6a7098c890436481cf9ad1c.jpg
+image-source: https://www.pinterest.com/pin/491455378079397973/
+
+image-city: https://i.pinimg.com/originals/8b/0b/ba/8b0bba01ceac4210776600b9d0e3236e.jpg
+image-city-source: https://www.pinterest.com/pin/30821578683353542/
+
+image-entrance: https://i.pinimg.com/originals/9d/fc/e6/9dfce67bc7731f498bef023acce8f383.jpg
+image-entrance-source: https://www.pinterest.com/pin/406449935097092770/
+
+image-necropolis: https://i.pinimg.com/originals/2a/35/cc/2a35cc96d3dc1b9ffc8451e2ab31fbcb.jpg
+image-necropolis-source: https://www.pinterest.com/pin/155163149637588916/
+
+image-city-streets: https://i.pinimg.com/750x/40/8f/86/408f860baafe26ada03521ad4e71911f.jpg
+image-city-streets-source: https://www.pinterest.com/pin/597008494371542786/
+
+image-spires: https://i.pinimg.com/originals/65/d7/05/65d705f1f48822d52dcbbb03d4544aca.jpg
+image-spires-source: https://www.pinterest.com/pin/38913984273249122/
+
 statbox:
   deities:
   - vecna
