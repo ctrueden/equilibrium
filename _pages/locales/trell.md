@@ -1,5 +1,9 @@
 ---
 nav-title: Trell
+image: https://i.pinimg.com/originals/8e/a5/3f/8ea53f6bd72e7cb1cb92df77622faaac.jpg
+image-source: https://www.pinterest.com/pin/726275877424302645/
+image2: https://i.pinimg.com/originals/e9/5f/97/e95f97752a9a8e7ecaad473bfc72528e.png
+image2-source: https://www.pinterest.com/pin/274578908519205097/
 title: The Trell Archipelago
 statbox:
   races:

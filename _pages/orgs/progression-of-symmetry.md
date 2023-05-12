@@ -1,5 +1,7 @@
 ---
 title: The Progression of Symmetry
+image: https://i.pinimg.com/originals/e4/64/0c/e4640c70177471f7198b9d315ceedf1b.jpg
+image-source: https://www.pinterest.com/pin/689684130409705922/
 ---
 
 The Progression of Symmetry is a monastic order practicing the Way of the Four Elements. There are ~50 initiates who live there, and four masters. The monks believe in keeping a detached perspective from the material world.

@@ -1,10 +1,8 @@
 ---
 nav-title: Zephyr
 title: The Zephyr Federation
-image: https://i.pinimg.com/originals/42/81/0f/42810fdb7c4db8b06576e39678e0ce5d.jpg
-image-source: https://www.pinterest.com/pin/359443614007132732/
-image2: https://i.pinimg.com/originals/8e/7e/31/8e7e315e342ad154ab9faf990066e770.png
-image2-source: https://www.pinterest.com/pin/455426581066768626/
+image: https://i.pinimg.com/originals/6c/e2/28/6ce22892c78338cd7c868460d7422656.jpg
+image-source: https://www.pinterest.com/pin/283375001530435677/
 statbox:
   races:
   - dragonborn
@@ -12,7 +10,6 @@ statbox:
   cities:
   - dono
   - prendo
-  - aether
   neighbors:
     N: skyrealm
     E: rup
@@ -26,7 +23,7 @@ statbox:
   - "[Sardior](../dossiers/sardior) (LN; Knowledge, Trickery): deity of night, psionics and secrets."
 ---
 
-At the northern edge of the world stand the Cliffs of Transcendence, a mountain range beyond which there is nothing but an open expanse of sky. Masses of earth dot the skies beyond that, though; the largest of these "sky islands" is Aether, the Azure City. South of the cliffs lies the Ventosa Flatland, a windy steppe, home to the two largest cities of Zephyr: Dono and Prendo.
+At the northern edge of the world stand the Cliffs of Transcendence, a mountain range beyond which there is no more ground, only an open expanse of sky. Masses of earth dot the skies beyond that, though; the largest of these "sky islands" is Aether, the Azure City. South of the cliffs lies the Ventosa Flatland, a windy steppe, home to the two largest cities of Zephyr: Dono and Prendo.
 
 * **Population:** The most numerous citizens of this land are the [dragonborn](../creatures/dragonborn), a race of dragon-like [bipeds](../glossary#bipedal). Dragons dwell here too as a ruling class, but are nonetheless incredibly rare, numbering in the hundreds at most.
 * Government: [Confederacy](https://en.wikipedia.org/wiki/Confederation). Fifteen city-states, each governed by a [great wyrm](../creatures/dragons).
