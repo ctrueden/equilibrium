@@ -1,5 +1,7 @@
 ---
 title: "[12e02] The Tree-melded"
+description: >-
+  Stayed a night in Estanesse palace
 datestamp: 50-05-23/02
 when: AC50 Rixa 23-24
 session-number: 47

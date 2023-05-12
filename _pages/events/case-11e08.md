@@ -1,5 +1,7 @@
 ---
 title: "[11e08] TODO"
+description: >-
+  Aboleth battle
 datestamp: 50-05-21/08
 when: AC50 Rixa 21
 session-number: 44

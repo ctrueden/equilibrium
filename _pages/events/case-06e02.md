@@ -1,5 +1,7 @@
 ---
 title: "[06e02] TODO"
+description: >-
+  Slew demonic Manufeai reincarnations; met Freki.
 datestamp: 50-03-25/02
 when: AC50 Solis 25
 session-number: 13

@@ -1,5 +1,7 @@
 ---
 title: "[13e02] Adieu to Alye'adu"
+description: >-
+  TODO
 datestamp: 50-05-30/02
 when: AC50 Auran Apex
 session-number: 59

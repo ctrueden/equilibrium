@@ -1,5 +1,7 @@
 ---
 title: "[10e01] TODO"
+description: >-
+  Agents flee to near the old HQ to discuss next steps
 datestamp: 50-04-26/01
 when: AC50 Cudo 26
 session-number: 31

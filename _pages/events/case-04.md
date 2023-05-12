@@ -1,6 +1,7 @@
 ---
 title: "[Case 04] Ingestion and Incoherency"
-description: TODO
+description: >-
+  The entire population of a seaside resort has mysteriously vanished.
 datestamp: 50-03-16/00
 when: AC50 Solis 16
 ---

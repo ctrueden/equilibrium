@@ -1,5 +1,7 @@
 ---
 title: "[12e12] Welcome to your Doom"
+description: >-
+  TODO
 datestamp: 50-05-25/12
 when: AC50 Rixa 25
 session-number: 57

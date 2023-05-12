@@ -1,5 +1,7 @@
 ---
-title: "[02e01] TODO"
+title: "[02e01] I Think I'm a Clone Now"
+description: >-
+  TODO
 datestamp: 50-03-11/01
 when: AC50 Solis 11
 session-number: 2

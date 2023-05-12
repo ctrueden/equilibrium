@@ -1,5 +1,7 @@
 ---
 title: "[12e07] Dickery in the Hickory"
+description: >-
+  Talked to Eixam, met the hamadryad, reached the illusory Fruit
 datestamp: 50-05-25/07
 when: AC50 Rixa 25
 session-number: 52

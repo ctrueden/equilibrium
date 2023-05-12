@@ -1,5 +1,7 @@
 ---
 title: "[07e04] TODO"
+description: >-
+  Investigated Tremere's murder; Tremere's corpse fingers Orbach as the killer.
 datestamp: 50-04-13/04
 when: AC50 Cudo 13
 session-number: 21

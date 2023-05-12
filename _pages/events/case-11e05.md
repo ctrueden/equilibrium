@@ -1,5 +1,7 @@
 ---
 title: "[11e05] TODO"
+description: >-
+  12-day journey on the sub
 datestamp: 50-05-10/05
 when: AC50 Rixa 10-21
 session-number: 41

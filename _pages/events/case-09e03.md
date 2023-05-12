@@ -1,5 +1,7 @@
 ---
 title: "[09e03] TODO"
+description: >-
+  TODO
 datestamp: 50-04-25/03
 when: AC50 Cudo 25
 session-number: 29

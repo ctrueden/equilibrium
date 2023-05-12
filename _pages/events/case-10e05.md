@@ -1,5 +1,7 @@
 ---
 title: "[10e05] TODO"
+description: >-
+  Teleported from the Tempest to SPI HQ; explored it; began fighting the demons; time corruption
 datestamp: 50-05-02/05
 when: AC50 Rixa 02-06
 session-number: 35

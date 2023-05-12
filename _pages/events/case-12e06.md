@@ -1,5 +1,7 @@
 ---
 title: "[12e06] Deep Truffle"
+description: >-
+  Met Enoki, beat back the mushrooms, druid threw away the book, encountered Eixam
 datestamp: 50-05-25/06
 when: AC50 Rixa 25
 session-number: 51

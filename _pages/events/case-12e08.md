@@ -1,5 +1,7 @@
 ---
 title: "[12e08] Thrilla in the Willa"
+description: >-
+  Fought Isis and the Guardian
 datestamp: 50-05-25/08
 when: AC50 Rixa 25
 session-number: 53

@@ -1,6 +1,7 @@
 ---
 title: "[Case 03] Punctuality and Perpetuity"
-description: An elderly dwarf's clock stops at the moment of his death. But something is not quite right...
+description: >-
+  An elderly dwarf's clock stops at the moment of his death. But what's this? He's a zombie now?
 datestamp: 50-03-14/00
 when: AC50 Solis 14
 ---
@@ -71,3 +72,6 @@ Clan Aldrimor
 **[Queen Brie Greyshore](../dossiers/brie-fireforge)** ([dwarf](../creatures/dwarves), female, age 289)
 * Queen under the Mountain
 * Almost married Gurin or Mungus centuries ago
+
+*GM's note: This case was inspired by the song
+[Grandfather's Clock](https://youtu.be/4Tr3TSti1EI).*

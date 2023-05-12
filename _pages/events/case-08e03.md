@@ -1,8 +1,10 @@
 ---
 title: "[08e03] TODO"
+description: >-
+  Fought the circus monsters; escaped by climbing the Vondalstalk
 datestamp: 50-04-19/03
 when: AC50 Cudo 19
-session-number: TODO
+session-number: 26
 session-date: TODO
 session-event: TODO
 ---

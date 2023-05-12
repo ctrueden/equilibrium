@@ -1,5 +1,7 @@
 ---
 title: "[10e02] TODO"
+description: >-
+  Traveled through the desert for 7 days; reached the Cornucopia
 datestamp: 50-04-26/02
 when: AC50 Cudo 26 - Rixa 02
 session-number: 32

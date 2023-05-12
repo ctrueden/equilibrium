@@ -1,5 +1,7 @@
 ---
 title: "[12e11] Feathers, Fun, and Unholy Ghost"
+description: >-
+  Went to the elven vault, overcame the shadow nightmare trap, convinced Lorissa Stormseeker to help them cleanse the Book, and performed the miracle.
 datestamp: 50-05-25/11
 when: AC50 Rixa 25
 session-number: 56

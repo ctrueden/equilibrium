@@ -1,5 +1,7 @@
 ---
 title: "[03e02] TODO"
+description: >-
+  Talked to Gardenblossom at Kham Kuldohr Academy; had lunch; talked to Mungus Wrathborn and his daughter Larsa.
 datestamp: 50-03-14/02
 when: AC50 Solis 14
 session-number: 5

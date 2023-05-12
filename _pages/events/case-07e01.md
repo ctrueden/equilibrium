@@ -1,5 +1,7 @@
 ---
 title: "[07e01] TODO"
+description: >-
+  Scouted and camped the meetup location
 datestamp: 50-04-11/01
 when: AC50 Cudo 11-13
 session-number: 18

@@ -1,5 +1,7 @@
 ---
 title: "[12e01] Burglary at SPI HQ!"
+description: >-
+  Secured HQ; went with Sartus to Estanesse
 datestamp: 50-05-23/01
 when: AC50 Rixa 23
 session-number: 46

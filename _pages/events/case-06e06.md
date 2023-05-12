@@ -1,5 +1,7 @@
 ---
 title: "[06e06] TODO"
+description: >-
+  Solomon battle. Lost time and memories after the Fluxsplosion.
 datestamp: 50-04-07/06
 when: AC50 Cudo 07
 session-number: 17

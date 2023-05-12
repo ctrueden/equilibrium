@@ -1,5 +1,7 @@
 ---
 title: "[11e07] TODO"
+description: >-
+  Fish people
 datestamp: 50-05-21/07
 when: AC50 Rixa 21
 session-number: 43

@@ -1,5 +1,7 @@
 ---
 title: "[07e02] TODO"
+description: >-
+  Checked in to Invictus's manor and got comfortable with the other guests.
 datestamp: 50-04-13/02
 when: AC50 Cudo 13
 session-number: 19

@@ -1,5 +1,7 @@
 ---
 title: "[11e09] The Frekoning"
+description: >-
+  Stayed two nights in Antigua
 datestamp: 50-05-21/09
 when: AC50 Rixa 21-23
 session-number: 45

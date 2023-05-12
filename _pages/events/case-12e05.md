@@ -1,5 +1,7 @@
 ---
 title: "[12e05] You never said your tiny hut had a floor"
+description: >-
+  Dreamt of the Queen and mushrooms
 datestamp: 50-05-24/05
 when: AC50 Rixa 24-25
 session-number: 50

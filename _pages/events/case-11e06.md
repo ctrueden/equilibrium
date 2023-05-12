@@ -1,5 +1,7 @@
 ---
 title: "[11e06] TODO"
+description: >-
+  Shark attack
 datestamp: 50-05-21/06
 when: AC50 Rixa 21
 session-number: 42

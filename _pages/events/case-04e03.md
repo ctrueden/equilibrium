@@ -1,5 +1,7 @@
 ---
 title: "[04e03] TODO"
+description: >-
+  Memory of the following few days are lost to flux poisoning.
 datestamp: 50-03-16/03
 when: AC50 Solis 16
 session-number: 10

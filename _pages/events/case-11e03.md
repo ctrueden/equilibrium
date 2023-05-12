@@ -1,5 +1,7 @@
 ---
 title: "[11e03] TODO"
+description: >-
+  Fought the aboleth in Rockwell manor
 datestamp: 50-05-10/03
 when: AC50 Rixa 10
 session-number: 39

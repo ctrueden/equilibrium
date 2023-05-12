@@ -1,5 +1,7 @@
 ---
 title: "[09e04] TODO"
+description: >-
+  Stayed a night at HQ, during which time Mary Reed was caught stealing and unmasked as Seirye Qin. The next morning, MAD showed up to kick everyone out of HQ.
 datestamp: 50-04-25/04
 when: AC50 Cudo 25-26
 session-number: 30

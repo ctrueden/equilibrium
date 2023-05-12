@@ -1,5 +1,7 @@
 ---
 title: "[12e09] Everybody goes in the hole"
+description: >-
+  Parleyed with the Guardian
 datestamp: 50-05-25/09
 when: AC50 Rixa 25
 session-number: 54

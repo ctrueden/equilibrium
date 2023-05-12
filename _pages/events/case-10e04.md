@@ -1,5 +1,7 @@
 ---
 title: "[10e04] TODO"
+description: >-
+  Teleported Cornucopia to Rockwell manor, and agents to the Tempest; contacted various parties magically
 datestamp: 50-05-02/04
 when: AC50 Rixa 02
 session-number: 34

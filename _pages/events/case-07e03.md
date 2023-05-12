@@ -1,5 +1,7 @@
 ---
 title: "[07e03] TODO"
+description: >-
+  Private interviews. SPI's interview is interrupted by a wave of antimagic. Flameskull battle.
 datestamp: 50-04-13/03
 when: AC50 Cudo 13
 session-number: 20

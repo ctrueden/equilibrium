@@ -1,5 +1,7 @@
 ---
 title: "[11e02] TODO"
+description: >-
+  Investigated the suspicious situation in the manor
 datestamp: 50-05-10/02
 when: AC50 Rixa 10
 session-number: 38

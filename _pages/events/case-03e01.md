@@ -1,5 +1,7 @@
 ---
 title: "[03e01] TODO"
+description: >-
+  Went to Aldrimor manor; met Hollerd; investigated the scene.
 datestamp: 50-03-14/01
 when: AC50 Solis 14
 session-number: 4

@@ -1,5 +1,7 @@
 ---
 title: "[06e03] TODO"
+description: >-
+  Met Semu; traveled to Malosi tribe to seek out Kavaki; encountered Andalla; met Sabrina.
 datestamp: 50-03-25/03
 when: AC50 Solis 25-28
 session-number: 14

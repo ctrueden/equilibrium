@@ -1,5 +1,7 @@
 ---
 title: "[09e00] 1UP!"
+description: >-
+  1UP
 datestamp: 50-04-19/B
 when: "-"
 session-number: 1UP

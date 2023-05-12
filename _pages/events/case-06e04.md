@@ -1,5 +1,7 @@
 ---
 title: "[06e04] TODO"
+description: >-
+  Met Kavaki; headed south for 10 days looking for the place where she was attacked.
 datestamp: 50-03-28/04
 when: AC50 Solis 28 - Cudo 07
 session-number: 15

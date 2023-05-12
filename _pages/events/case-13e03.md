@@ -1,5 +1,7 @@
 ---
 title: "[13e03] TBD"
+description: >-
+  TODO
 datestamp: 50-05-30/03
 when: AC50 Auran Apex
 session-number: 60

@@ -1,5 +1,7 @@
 ---
 title: "[13e01] Flimflam in the Forest"
+description: >-
+  TODO
 datestamp: 50-05-30/01
 when: AC50 Auran Apex
 session-number: 58

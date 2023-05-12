@@ -1,5 +1,7 @@
 ---
 title: "[12e03] The Golden Path"
+description: >-
+  Began climbing the World Tree; found a blighted area
 datestamp: 50-05-24/03
 when: AC50 Rixa 24
 session-number: 48

@@ -1,5 +1,7 @@
 ---
 title: "[09e01] TODO"
+description: >-
+  Agents travel through the crystal flux in their Yachtopus. Time corruption means a few hours' travel for them is a few days on the material plane.
 datestamp: 50-04-19/C
 when: AC50 Cudo 19-25
 session-number: 27

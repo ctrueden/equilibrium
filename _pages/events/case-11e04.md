@@ -1,5 +1,7 @@
 ---
 title: "[11e04] TODO"
+description: >-
+  Secured the sub
 datestamp: 50-05-10/04
 when: AC50 Rixa 10
 session-number: 40

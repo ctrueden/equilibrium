@@ -1,5 +1,7 @@
 ---
 title: "[12e10] ...Unusually Large Amounts of Blood"
+description: >-
+  Confronted Isis and Perrin; decided to pursue the Necronomicon in the Estanesse treasury without telling Tybalt.
 datestamp: 50-05-25/10
 when: AC50 Rixa 25
 session-number: 55

@@ -1,5 +1,7 @@
 ---
 title: "[01e01] The Ultimate Showdown of Stone"
+description: >-
+  TODO
 datestamp: 50-03-10/01
 when: AC50 Solis 10
 session-number: 1

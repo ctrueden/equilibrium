@@ -1,5 +1,7 @@
 ---
 title: "[11e01] TODO"
+description: >-
+  Went to Cognitutus and Rockwell manor
 datestamp: 50-05-10/01
 when: AC50 Rixa 10
 session-number: 37

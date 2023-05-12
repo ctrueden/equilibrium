@@ -1,5 +1,7 @@
 ---
 title: "[09e02] TODO"
+description: >-
+  They fight the balor, and get back into HQ through the wall.
 datestamp: 50-04-25/02
 when: AC50 Cudo 25
 session-number: 28

@@ -1,5 +1,7 @@
 ---
 title: "[07e05] TODO"
+description: >-
+  Heard shrieking in the distance; fought the carnivorous plant; caught Orbach trying to escape.
 datestamp: 50-04-13/05
 when: AC50 Cudo 13
 session-number: 22

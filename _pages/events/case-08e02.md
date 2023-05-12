@@ -1,8 +1,10 @@
 ---
 title: "[08e02] TODO"
+description: >-
+  Oz and Cal meet up with the other agents, and they all continue to investigate the circus incident. They become suspicious of Meroe.
 datestamp: 50-04-19/02
 when: AC50 Cudo 19
-session-number: TODO
+session-number: 25
 session-date: TODO
 session-event: TODO
 ---

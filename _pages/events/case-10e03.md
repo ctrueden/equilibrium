@@ -1,5 +1,7 @@
 ---
 title: "[10e03] TODO"
+description: >-
+  Defeated Cornucopia guardians
 datestamp: 50-05-02/03
 when: AC50 Rixa 02
 session-number: 33

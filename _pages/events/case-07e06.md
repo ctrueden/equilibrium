@@ -1,5 +1,7 @@
 ---
 title: "[07e06] TODO"
+description: >-
+  Divine essence exploded, escaped the manor through the chaos, but it rubbed off on everyone... time corruption and forgotten memories.
 datestamp: 50-04-13/06
 when: AC50 Cudo 13-19
 session-number: 23

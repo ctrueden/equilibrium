@@ -1,5 +1,7 @@
 ---
 title: "[04e02] TODO"
+description: >-
+  TODO
 datestamp: 50-03-16/02
 when: AC50 Solis 16
 session-number: 9

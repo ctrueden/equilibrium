@@ -1,5 +1,7 @@
 ---
 title: "[08e01] TODO"
+description: >-
+  Next case: murder at the circus. Investigation begins.
 datestamp: 50-04-19/01
 when: AC50 Cudo 19
 session-number: 24

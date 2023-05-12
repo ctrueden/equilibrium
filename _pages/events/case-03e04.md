@@ -1,5 +1,7 @@
 ---
 title: "[03e04] TODO"
+description: >-
+  Fought Zanic, got Bronce's confession, apprehended Hollerd on his farm. One day of downtime after this case.
 datestamp: 50-03-14/04
 when: AC50 Solis 14
 session-number: 7

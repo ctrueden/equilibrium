@@ -1,5 +1,7 @@
 ---
 title: "[13e04] The Malosi Strike Back"
+description: >-
+  TODO
 datestamp: 50-05-30/04
 when: AC50 Auran Apex
 session-number: 61
