@@ -8,4 +8,4 @@ statbox:
   case: "01"
 ---
 
-Runs the Beastly Arena in Haven.
+Runs the Beastly Colosseum in Haven.

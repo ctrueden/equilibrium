@@ -8,4 +8,4 @@ statbox:
   case: "01"
 ---
 
-Close confidante and accountant of [Dominic Tremere](dominic-tremere), trusted with his finances. Secretly had a gambling addition betting on Beastly Arena fights with Tremere's money, and was cooking the books to support it. The medusa [Pulchritudinous Euryale](pulchritudinous-euryale) found out and blackmailed him into sneaking a piece of chalk into Tremere's vault, then killed him with her petrifying gaze, damaging his statue afterward to make it look like a monster attack.
+Close confidante and accountant of [Dominic Tremere](dominic-tremere), trusted with his finances. Secretly had a gambling addition betting on Beastly Colosseum fights with Tremere's money, and was cooking the books to support it. The medusa [Pulchritudinous Euryale](pulchritudinous-euryale) found out and blackmailed him into sneaking a piece of chalk into Tremere's vault, then killed him with her petrifying gaze, damaging his statue afterward to make it look like a monster attack.

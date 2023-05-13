@@ -8,7 +8,7 @@ statbox:
   case: "01"
 ---
 
-Competitor at the Beastly Arena in Haven.
+Competitor at the Beastly Colosseum in Haven.
 
 * tattoos, punk attitude
 * Gorgon trainer

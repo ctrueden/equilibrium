@@ -30,7 +30,7 @@ A human woman named **[Cassandra](../dossiers/cassandra)**, who seems to be Mall
   * Lists recent sales of antiquities; one to **[Gavin Pepperpotts](../dossiers/gavin-pepperpotts)**, Callie's executive
   * Two pages (from 3 and 8 weeks ago) torn out
   * Upon close examination, the numbers don't add up—Sartan was skimming
-* Locked chest containing IOUs and losing gambling tickets from the Beastly Coliseum
+* Locked chest containing IOUs and losing gambling tickets from the Beastly Colosseum
 * Sartan was obviously petrified, but how?
   * **Cockatrice** has a petrifying bite, but it wears off after 24 hours.
     * A cockatrice is not strong enough to destroy one of its stone victims. It usually just flees afterwards.
@@ -73,14 +73,14 @@ A human woman named **[Cassandra](../dossiers/cassandra)**, who seems to be Mall
 * Appears sentient, but without emotion
 
 **[Rowena Darkshield](../dossiers/rowena-darkshield)** ([dwarf](../creatures/dwarves), female)
-* Arenamaster of the Beastly Coliseum
+* Arenamaster of the Beastly Colosseum
 * Had motive: Sartan owed her money
-* Claims she has "other ways" to deal with problems, and ensure people pay debts: the Coliseum has a business arrangement with Xaryu's Perfect Order (see below)
+* Claims she has "other ways" to deal with problems, and ensure people pay debts: the Colosseum has a business arrangement with Xaryu's Perfect Order (see below)
 
 **[Argus Saravor](../dossiers/argus-saravor)** (green [dragonborn](../creatures/dragonborn), male) and **Panoptes**, his basilisk
 * Driven basilisk trainer who still lives with his mother
 * According to Bellamy Crue, has a thing for Rowena Darkshield
-* No alibi: took Panoptes for a walk outside the Coliseum three nights ago
+* No alibi: took Panoptes for a walk outside the Colosseum three nights ago
 
 **[Bellamy Crue](../dossiers/bellamy-crue)** ([human](../creatures/humans), female) and **Brutalis**, her gorgon
 * Inquisitive and observant gorgon trainer with a tough attitude
