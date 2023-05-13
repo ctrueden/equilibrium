@@ -1,7 +1,7 @@
 ---
 title: "[09e00] 1UP!"
 description: >-
-  1UP
+  Level up! 4th level spells, here I come!
 datestamp: 50-04-19/B
 when: "-"
 session-number: 1UP

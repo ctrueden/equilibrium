@@ -1,7 +1,7 @@
 ---
-title: "[13e03] TBD"
+title: "[13e03] Arkenstab Reclaimed"
 description: >-
-  TODO
+  Agents learn the true nature of the changelings, and a wild Talos appears.
 datestamp: 50-05-30/03
 when: AC50 Auran Apex
 session-number: 60

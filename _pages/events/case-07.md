@@ -11,7 +11,7 @@ when: AC50 Cudo 11-13
 **[Priscilla Stormcloud](../dossiers/priscilla-stormcloud)** (female, elf, middle aged)
 
 * A noted historian.
-* Has organized an “Auction of Divine Potential.”
+* Has organized an "Auction of Divine Potential."
 
 **[Timor Invictus](../dossiers/timor-invictus)** (male, lich, ancient)
 
@@ -20,7 +20,7 @@ when: AC50 Cudo 11-13
 
 **[Bram the Blithe](../dossiers/bram-the-blithe)** (male, human, adult)
 
-* Captain of Melora’s legendary pirate ship.
+* Captain of Melora's legendary pirate ship.
 
 **[Janus Ilaris](../dossiers/janus-ilaris)** (male, elf/ghost, adult/???)
 
@@ -29,7 +29,7 @@ when: AC50 Cudo 11-13
 
 **[Sartus Morningdew](../dossiers/sartus-morningdew)** (male, elf, adult)
 
-* A wizard of the Holy Sorcerers, the order to which Bec Galere’s father Letharil belongs.
+* A wizard of the Holy Sorcerers, the order to which Bec Galere's father Letharil belongs.
 * Attending the auction on behalf of Titania, Queen of the Fey.
 
 **[Tybalt Nightbreeze](../dossiers/tybalt-nightbreeze)** (male, half-elf, young adult)
@@ -56,7 +56,7 @@ when: AC50 Cudo 11-13
 
 * Anything which touches it is cursed by (un)death.
 * Naming a creature and writing its name in the book curses them to die.
-* The SPI believes the book to be in the possession of the cancer druid Isis Ra’ksh, current whereabouts unknown.
+* The SPI believes the book to be in the possession of the cancer druid Isis Ra'ksh, current whereabouts unknown.
 
 **[Puzzlebox](../relics/puzzlebox)** (Knowledge)
 
@@ -65,12 +65,12 @@ when: AC50 Cudo 11-13
 **[Arkenstone](../relics/arkenstone)** (Light)
 
 * Legend says it was forged by Moradin, god of dwarves, and used to fuel the fire at the heart of the Great Mountain.
-* Two months ago, it was in the SPI’s possession. They were studying it. Then the SPI exploded in flames one night—it may or may not have been the Stone which was responsible… afterward, the Arkenstone was gone.
+* Two months ago, it was in the SPI's possession. They were studying it. Then the SPI exploded in flames one night—it may or may not have been the Stone which was responsible… afterward, the Arkenstone was gone.
 
 **[Cornucopia of Life](../relics/cornucopia) (Life)
 
 * Very large. In Oasis in the R.U.P. on public display.
-* Worthy drinkers receive Pelor’s blessing; unworthy are judged.
+* Worthy drinkers receive Pelor's blessing; unworthy are judged.
 * Would take several strong people to lift it out of its mount.
 
 **[Yggdrasil, the World Tree](../relics/yggdrasil) (Nature)
@@ -84,8 +84,8 @@ when: AC50 Cudo 11-13
 
 **[Lamp of Seeming](../relics/lamp-of-seeming) (Trickery)
 
-* Name as indicated in Ra’faj’s diary. Currently in the SPI evidence locker.
-* Preliminary research suggests that it grants wishes tainted by the wielder’s heart.
+* Name as indicated in Ra'faj's diary. Currently in the SPI evidence locker.
+* Preliminary research suggests that it grants wishes tainted by the wielder's heart.
 
 **[Warforged](../relics/warforged)** (War)
 

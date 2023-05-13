@@ -1,7 +1,7 @@
 ---
 title: "[13e02] Adieu to Alye'adu"
 description: >-
-  TODO
+  Adieu? We just got here! And French isn't even a thing in Aecus!
 datestamp: 50-05-30/02
 when: AC50 Auran Apex
 session-number: 59

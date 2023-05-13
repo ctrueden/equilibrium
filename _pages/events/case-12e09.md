@@ -1,5 +1,5 @@
 ---
-title: "[12e09] Everybody goes in the hole"
+title: "[12e09] Everybody Goes in the Hole"
 description: >-
   Parleyed with the Guardian
 datestamp: 50-05-25/09

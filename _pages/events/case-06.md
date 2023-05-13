@@ -12,7 +12,7 @@ The [Manufeai](../orgs/manufeai), a tribe of [gnolls](../creatures/gnolls) rekno
 
 ### Crime scene
 
-The Manufeai appear to have been killed by some sort of Flux-related event: their bodies are twisted and some look like [demons](../creatures/demons) (Ni: “they grew stronger in death”).
+The Manufeai appear to have been killed by some sort of Flux-related event: their bodies are twisted and some look like [demons](../creatures/demons) (Ni: "they grew stronger in death").
 
 When the SPI arrived, their leader, Rohna (female, gnoll, cleric of Yeenoghu), rose as some kind of demonic entity; other tribe members became [vargouilles](../creatures/vargouilles).
 
@@ -25,7 +25,7 @@ There was a witness: [Freki](../dossiers/freki), a wildling ranger. He awoke dur
 Freki tells the SPI that several tribes frequent this area of the Jungle near [Xaos](../locales/xaos):
 
 * The [Manufeai](../orgs/manufeai), a vicious [gnoll](../creatures/gnolls) tribe.
-* The [Blood Hand Orcs](../orgs/blood-hand-orcs), a nasty band of [orcs](../creatures/orcs) who occasionally won’t kill you on sight.
+* The [Blood Hand Orcs](../orgs/blood-hand-orcs), a nasty band of [orcs](../creatures/orcs) who occasionally won't kill you on sight.
 * The [Malosi](../orgs/malosi), a tribe of outcasts too extreme for the other tribes, who value strength above all else, and have a fearsome reputation to match.
 * The [Blackscales](../orgs/blackscales), a mysterious and xenophobic tribe of [lizardfolk](../creatures/lizardfolk).
 * The [Stormherd](../orgs/stormherd), a tribe of [yikarians](../creatures/yikarians) (a.k.a. yak-folk) feared and hated by all others.
@@ -71,16 +71,16 @@ Freki tells the SPI that several tribes frequent this area of the Jungle near [X
 * Leader of the Malosi.
 * Even the other Malosi speak of him with reverence and fear.
 
-**[Semu’anya](../dossiers/semuanya)** (female, lizardfolk, adult)
+**[Semu'anya](../dossiers/semuanya)** (female, lizardfolk, adult)
 * A scout/ninja warrior of the Blackscales.
-* Tracked down the party on behalf of her tribe’s leader, to lend them a magical item: a compass which points to a member of each tribe. It appears the Blackscales use this to stay one step ahead of the other tribes.
+* Tracked down the party on behalf of her tribe's leader, to lend them a magical item: a compass which points to a member of each tribe. It appears the Blackscales use this to stay one step ahead of the other tribes.
 * Warned that once justice has been served, the SPI needs to return the compass to the shrine of Semuanya in Xaos, or else the Blackscales will be extremely displeased. She also warned the SPI not to seek out the Blackscales, if they value their lives.
 
 **[Solomon](../dossiers/solomon)** (male, yikarian, elderly)
 * Ancient leader of the Stormherd, renowned as a powerful diviner.
 
 **[Zanqaa the Devoted](../dossiers/zanqaa)** (male, dao, unknown age)
-* Solomon’s earth genie servant.
+* Solomon's earth genie servant.
 
-**[Grosh’mog](../dossiers/groshmog)** (male, orc, adult)
+**[Grosh'mog](../dossiers/groshmog)** (male, orc, adult)
 * An oracle of ancestors of the Blood Hand, captured by the Stormherd, and planned to be sacrificed to the Forgotten God.

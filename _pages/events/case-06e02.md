@@ -1,5 +1,5 @@
 ---
-title: "[06e02] TODO"
+title: "[06e02] Freki the Hunter, Freki the Witness"
 description: >-
   Slew demonic Manufeai reincarnations; met Freki.
 datestamp: 50-03-25/02

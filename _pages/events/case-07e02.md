@@ -1,5 +1,5 @@
 ---
-title: "[07e02] TODO"
+title: "[07e02] The Auction Begins"
 description: >-
   Checked in to Invictus's manor and got comfortable with the other guests.
 datestamp: 50-04-13/02
@@ -19,9 +19,9 @@ session-event: https://www.facebook.com/events/1943261149281604/
 * Stormcloud explained that she had a potion that could turn you into a god. But she cannot drink it for reasons.
 * Michael:
   * Does she know which item is the one she needs to study?
-  * If so, what are the rest of us doing here? If not, what’s her plan?
+  * If so, what are the rest of us doing here? If not, what's her plan?
 * Dominic Tremere was the first to enter private negotiations.
-  * Vondal asked Timor if he could use the library. Timor escorts him there, to the west wing, past a hallway of urns labeled with people’s names and slights they committed (presumably against him).
+  * Vondal asked Timor if he could use the library. Timor escorts him there, to the west wing, past a hallway of urns labeled with people's names and slights they committed (presumably against him).
   * Meanwhile, Freki asks Tybalt how he appeared out of thin air, at the transport circle. Tybalt answered that he teleported in while invisible. He explained that he bonded his soul to another in exchange for certain powers. Then they both checked the perimeter like dual Jack Bauers.
   * Cal checked out the zombie kitchen. He found a larder, a wine rack, a freezer, and a bunch of ovens and grills. He met a ghast chef.
 * Tremere emerged seeming very displeased with the session. Alex Orbach was next to go in.

@@ -8,7 +8,7 @@ when: AC50 Cudo 19
 
 ### Location
 
-Zombozo’s Traveling Circus, outside the big top, on the outskirts of Sanctum, capital city of the [Radiant Union of Pelor](../locales/rup).
+Zombozo's Traveling Circus, outside the big top, on the outskirts of Sanctum, capital city of the [Radiant Union of Pelor](../locales/rup).
 
 ### Patron
 
@@ -29,7 +29,7 @@ Vanesse and Bernd Jaglia, young patrons of the arts.
 
 * Happened during the trapeze act and light show.
 * Owlbears smelled the corpses. Weezer heard them snuffling and came over.
-* Bodies found spiritually empty and with wide, bizarre smiles. There aren’t a lot of creatures that can cause that kind of damage.
+* Bodies found spiritually empty and with wide, bizarre smiles. There aren't a lot of creatures that can cause that kind of damage.
 * Bodies had lingering aura of necromancy.
 * Some very large shoe prints (that could be clown shoes) were around the victims.
 

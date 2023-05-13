@@ -9,4 +9,4 @@ session-date: 2023-05-13
 session-event: https://www.facebook.com/events/1191545644865411/
 ---
 
-TBD
+Several weeks have passed since the incident at Alye'adu. The SPI has been working to rebuild its infrastructure and reestablish operations after the Flux incursion into SPI HQ. Little by little, things are returning to normal...

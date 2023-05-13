@@ -26,10 +26,10 @@ The Rockwell family
 
 ### Persons of interest
 
-**[Reginald Auror](../dossiers/reginald-auror)**, newly hired “security specialist,” a contractor who works alone. He has dark, beady eyes and a shaved head. He seems quite concerned about “horrors from the deep.”
+**[Reginald Auror](../dossiers/reginald-auror)**, newly hired "security specialist," a contractor who works alone. He has dark, beady eyes and a shaved head. He seems quite concerned about "horrors from the deep."
 
 **[Raliana Quizzelpuff](../dossiers/raliana-quizzelpuff)**, a long-time cook for the Rockwell family. She is friendly and honest.
 
-**[Rollomorphus (“Rollo”) Rockwell](../dossiers/rollomorphus-rockwell)**, [Callie](../dossiers/callie)’s father. Easygoing, friendly, creative, eccentric, playful, a bit rash. He loves Callie very much and spoils her. Hard for him to say no. He is an alchemist by training.
+**[Rollomorphus ("Rollo") Rockwell](../dossiers/rollomorphus-rockwell)**, [Callie](../dossiers/callie)'s father. Easygoing, friendly, creative, eccentric, playful, a bit rash. He loves Callie very much and spoils her. Hard for him to say no. He is an alchemist by training.
 
-**[Linestreya (“Lini”) Grumbletuft Rockwell](../dossiers/linistreya-rockwell)**, Callie’s mother. She is stern, the “bad cop” of the family, but ultimately has a kind heart. She is a political advisor.
+**[Linestreya ("Lini") Grumbletuft Rockwell](../dossiers/linistreya-rockwell)**, Callie's mother. She is stern, the "bad cop" of the family, but ultimately has a kind heart. She is a political advisor.

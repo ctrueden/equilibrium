@@ -1,5 +1,5 @@
 ---
-title: "[06e01] TODO"
+title: "[06e01] Fate of the Manufeai"
 description: >-
   Traveled to Xaos; met Bruck, who guided them to the Manufeai camp, which took 2 days (1 night's camp).
 datestamp: 50-03-24/01

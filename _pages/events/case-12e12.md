@@ -1,5 +1,5 @@
 ---
-title: "[12e12] Welcome to your Doom"
+title: "[12e12] Confrontation with the Queen"
 description: >-
   TODO
 datestamp: 50-05-25/12
