@@ -177,3 +177,50 @@ investigations, but with magic involved, it's always tough to remember the
 details. The SPI is recruiting new investigators now, and operating from a
 temporary but secure location until something more permanent can be
 reestablished.
+
+## Cases
+
+{% assign candidates = site.pages | where_exp: "p", "p.url contains '/events/case-'" | sort: "datestamp" %}
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Date</th>
+<th>In-Game Dates</th>
+<th>Title</th>
+<!--
+<th>Level</th>
+<th>Location</th>
+<th>Victims</th>
+<th>Creatures</th>
+<th>Culprits</th>
+<th>Relics</th>
+-->
+<th>Plot</th>
+</tr>
+</thead>
+{%- for p in candidates -%}
+{% unless p.description %} {% continue %} {% endunless %}
+<tr>
+{% if p.session-event %}
+{% comment %} Session file {% endcomment %}
+<td><a href="{{p.session-event}}">{{p.session-number}}</a></td>
+<td>{{p.session-date}}</td>
+<td>{{p.when}}</td>
+<td><a href="{{site.baseurl}}{{p.url}}">{{p.title}}</a></td>
+<td>{{p.description}}</td>
+{% else %}
+{% comment %} Case file {% endcomment %}
+<td colspan=5 style="padding-top: 1em; padding-bottom: 1em; background-color: #357; color: white; text-align: center"><a style="color: yellow; font-size: larger; font-variant-caps: small-caps" href="{{site.baseurl}}{{p.url}}">{{p.title}}</a><br><span style="">({{p.when}}) {{p.description}}</span></td>
+{% endif %}
+<!--
+<td>{{p.level}}</td>
+<td>{{p.location}}</td>
+<td>{{p.victims}}</td>
+<td>{{p.creatures}}</td>
+<td>{{p.culprits}}</td>
+<td>{{p.relics}}</td>
+-->
+</tr>
+{% endfor -%}
+</table>
