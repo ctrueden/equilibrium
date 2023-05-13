@@ -112,14 +112,14 @@ Alternately, you may choose two additional abilities from the 6th level [Improve
 
 *Together with Special Arrows, this ability replaces the [standard ranger's Spellcasting](https://www.dndbeyond.com/classes/ranger#Spellcasting-297).*
 
-* The ranger has a number of abilities equal to the number of ranger “spells known”
+* The ranger has a number of abilities equal to the number of ranger "spells known"
 * The player should work with the GM to create abilities. Each ability needs some animalistic tie or justification to fit the theme. As a rule of thumb, choose a ranger spell that makes sense as an innate ability, whose level is less than or equal to what a standard ranger of that level could cast. The ability may need adjustment to fit as an innate ability rather than a spell.
 
 ### Example Innate Natural Abilities
 
 | Min. level | Ability | Description/Notes |
 |:----------:|:--------|:------------------|
-|      2     | [Hunter’s mark](https://5e.tools/spells.html#hunter%27s%20mark_phb) | Once per short rest – but the ability is regained immediately if current target dies. |
+|      2     | [Hunter's mark](https://5e.tools/spells.html#hunter%27s%20mark_phb) | Once per short rest – but the ability is regained immediately if current target dies. |
 |      2     | [Animal friendship](https://5e.tools/spells.html#animal%20friendship_phb) | Cast as a ritual &ndash; takes 5 minutes to bond with an animal. Animal must be neutral or friendly to initiate. |
 |      2     | [Speak with animals](https://5e.tools/spells.html#speak%20with%20animals_phb) | Requires concentration &ndash; uses an action each round of use. |
 |      3     | Swift shot | As a bonus action, draw and fire an arrow at -4 penalty. |
@@ -131,7 +131,7 @@ Alternately, you may choose two additional abilities from the 6th level [Improve
 
 ## Beast Companion
 
-*This ability replaces the [standard ranger's 3rd level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability. See also the [Ranger’s Companion](http://dnd5e.wikidot.com/ranger:beast-master#toc0) and [Primal Companion](dnd5e.wikidot.com/ranger:beast-master#toc1) options of the Beast Master ranger archetype.*
+*This ability replaces the [standard ranger's 3rd level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability. See also the [Ranger's Companion](http://dnd5e.wikidot.com/ranger:beast-master#toc0) and [Primal Companion](dnd5e.wikidot.com/ranger:beast-master#toc1) options of the Beast Master ranger archetype.*
 
 At 3rd level, you become bonded to mystic spirit animals of unknown origin. They are loyal, but not beholden, to you.
 
@@ -139,7 +139,7 @@ At 3rd level, you become bonded to mystic spirit animals of unknown origin. They
 
 *This ability replaces the [standard ranger's Primeval Awareness](https://www.dndbeyond.com/classes/ranger#PrimevalAwareness-299).*
 
-Beginning at 3rd level, you can use your action to focus your awareness on the region around you. For 1 minute, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestiais, dragons, elementals, fey, fiends, and undead. You sense the creatures' approximate direction (but not exact location or number), as well as approximate strength of presence, which is affected by the creatures’ quantity, force of will and distance. Use of this ability is regained with a long rest.
+Beginning at 3rd level, you can use your action to focus your awareness on the region around you. For 1 minute, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestiais, dragons, elementals, fey, fiends, and undead. You sense the creatures' approximate direction (but not exact location or number), as well as approximate strength of presence, which is affected by the creatures' quantity, force of will and distance. Use of this ability is regained with a long rest.
 
 ## Preternatural Reflexes
 

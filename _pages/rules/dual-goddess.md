@@ -2,7 +2,7 @@
 title: Cleric of the Dual Goddess
 ---
 
-The [gnomes](../creatures/gnomes) of [Cognitutus](../locales/cognitutus) revere two goddesses: [Erathis](../dossiers/erathis), goddess of civilization and invention, and [Avandra](../dossiers/avandra), goddess of change, luck, trade, and travel. Gnomes often debate which goddess is the “true face” of divinity, with many believing that gnomish fortunes are best when the two are in balance. Some gnomes even believe them to be two faces of the same greater deity, whom they call [Ioun](../dossiers/ioun), goddess of knowledge, prophecy, and skill.
+The [gnomes](../creatures/gnomes) of [Cognitutus](../locales/cognitutus) revere two goddesses: [Erathis](../dossiers/erathis), goddess of civilization and invention, and [Avandra](../dossiers/avandra), goddess of change, luck, trade, and travel. Gnomes often debate which goddess is the "true face" of divinity, with many believing that gnomish fortunes are best when the two are in balance. Some gnomes even believe them to be two faces of the same greater deity, whom they call [Ioun](../dossiers/ioun), goddess of knowledge, prophecy, and skill.
 
 Clerics who worship these two goddesses while following this philosophy are known as clerics of the dual goddess.
 

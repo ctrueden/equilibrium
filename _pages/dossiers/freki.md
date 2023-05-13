@@ -111,7 +111,7 @@ See the [lycan ranger](../rules/lycan-ranger) rules.
 * \[L2\] [Speak with animals](https://5e.tools/spells.html#speak%20with%20animals_phb). Requires concentration – uses an action each round of use.
 * \[L3\] Swift shot. As a bonus action, draw and fire an arrow at -4 penalty.
 * \[L5\] Beast sense. You use your action to transfer your consciousness to Hugin or Munin. You see through its eyes, and hear what it hears for up to 1 hour, while becoming oblivious to your own usual sight and hearing. Another action returns you to your own body.
-* \[L7\] [Hunter’s mark](https://5e.tools/spells.html#hunter's%20mark_phb). Once per short rest – but note it can be thrown again if first target dies.
+* \[L7\] [Hunter's mark](https://5e.tools/spells.html#hunter's%20mark_phb). Once per short rest – but note it can be thrown again if first target dies.
 * \[L9\] Amphibious nature. Cursed by aboleths, redeemed by Pelor.
 * \[L11\] [Speak with plants](https://5e.tools/spells.html#speak%20with%20plants_phb).
 * \[L13\] [Regeneration](https://5e.tools/spells.html#regenerate_phb). You regain 1 hit point at the start of each of your turns (10 hit points each minute). Severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
