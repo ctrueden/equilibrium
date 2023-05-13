@@ -26,46 +26,47 @@ magic-items:
     page: TODO
   - name: Unbreakable Arrows
     source: Merfolk treasure
-    rarity: TODO
+    rarity: common (minor)
     value: TODO
-    page: TODO
+    page: XGE 139
     notes: Mysterious unbreakable metal
+    link: https://5e.tools/items.html#unbreakable%20arrow_xge
   - name: Quiver of Ehlonna
     source: family heirloom
     value: 1000
-    page: 189
+    page: DMG 189
     rarity: uncommon (major)
-    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Efficient_Quiver
+    link: https://5e.tools/items.html#quiver%20of%20ehlonna_dmg
   - name: Cloak of Elvenkind
     source: "Zanqaa the Devoted - Boon of Aegis: Stealth"
     value: 5000
     page: 158
     rarity: uncommon (major)
-    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items#TOC-Cloak-of-Elvenkind
+    link: https://5e.tools/items.html#cloak%20of%20elvenkind_dmg
   - name: Oathbow
     source: "Zanqaa the Devoted - Boon of Arms: Vengeance"
     value: 3500
-    page: 183
+    page: DMG 183
     rarity: very rare (major)
-    link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Oathbow
+    link: https://5e.tools/items.html#oathbow_dmg
   - name: Ring of Jumping
     source: "Zanqaa the Devoted - Boon of Prowess: Agility"
     value: 2500
     page: 191
     rarity: uncommon (major)
-    link: https://www.5esrd.com/gamemastering/magic-items/magic-rings/#Ring_of_Mind_Shielding
+    link: https://5e.tools/items.html#ring%20of%20jumping_dmg
   - name: Glamoured Studded Leather
     source: Estanesse palace treasury
     value: 2000
-    page: 172
+    page: DMG 172
     rarity: rare (major)
-    link: https://roll20.net/compendium/dnd5e/Glamoured%20Studded%20Leather#content
+    link: https://5e.tools/items.html#glamoured%20studded%20leather_dmg
   - name: Bracers of Archery
     source: Estanesse palace treasury
     value: 1500
-    page: 156
+    page: DMG 156
     rarity: uncommon (major)
-    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Bracers_of_Archery
+    link: https://5e.tools/items.html#bracers%20of%20archery_dmg
 ---
 
 Freki is a bounty hunter who venerates nature and despises magic. He prowls the [Selva](../locales/selva), seeking prey.

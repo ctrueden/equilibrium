@@ -30,31 +30,31 @@ magic-items:
     value: 16000
     page: 174
     rarity: uncommon (major)
-    link: https://www.5esrd.com/gamemastering/magic-items/magic-rings/#Ring_of_Mind_Shielding
+    link: https://5e.tools/items.html#ring%20of%20mind%20shielding_dmg
   - name: Cloak of Protection
     source: "Zanqaa the Devoted - Boon of Aegis: Protection"
     value: 3500
     page: 159
     rarity: uncommon (major)
-    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items#TOC-Cloak-of-Protection
+    link: https://5e.tools/items.html#cloak%20of%20protection_dmg
   - name: Trident of Fish Command
     source: "Zanqaa the Devoted - Boon of Arms: Oceans"
     value: 800
     page: 209
     rarity: uncommon (major)
-    link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Trident_of_Fish_Command
+    link: https://5e.tools/items.html#trident%20of%20fish%20command_dmg
   - name: Amulet of Health
     source: Estanesse palace treasury
     value: 8000
     page: 150
     rarity: rare (major)
-    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Amulet_of_Health
+    link: https://5e.tools/items.html#amulet%20of%20health_dmg
   - name: Boots of Elvenkind
     source: Estanesse palace treasury
     value: 2500
     page: 155
     rarity: uncommon (major)
-    link: https://www.5esrd.com/gamemastering/magic-items/wondrous-items/#Boots_of_Elvenkind
+    link: https://5e.tools/items.html#boots%20of%20elvenkind_dmg
 ---
 
 A well-off gnome who is "not the muscle," specializes in ancient and mystical objects, and is "sometimes clairvoyant."

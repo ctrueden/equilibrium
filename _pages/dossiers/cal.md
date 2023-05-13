@@ -16,26 +16,28 @@ statbox:
 magic-items:
   - name: Net of Entanglement
     source: Merfolk treasure
-    rarity: TODO
+    rarity: rare (major)
     value: TODO
-    page: TODO
+    page: DMG 197
+    link: https://5e.tools/items.html#rope%20of%20entanglement_dmg
   - name: Arkenstab (+2 Sun Blade)
     source: "Hyperion; Zanqaa the Devoted - Boon of Arms: Light"
     value: 16000 (sun blade is 12000, staff of fire is 16000)
     rarity: artifact (unique)
-    page: 205
-    link: https://www.5esrd.com/gamemastering/magic-items/magic-armor-and-weapons/#Sun_Blade
+    page: DMG 201+205
+    link: https://5e.tools/items.html#sun%20blade_dmg
+    link2: https://5e.tools/items.html#staff%20of%20fire_dmg
   - name: Ring of the Ram
     source: "Zanqaa the Devoted - Boon of Prowess: Assault"
     value: 5000
     rarity: rare (major)
-    page: 193
-    link: https://www.5esrd.com/gamemastering/magic-items/magic-rings/#Ring_of_the_Ram
+    page: DMG 193
+    link: https://5e.tools/items.html#ring%20of%20the%20ram_dmg
   - name: Shirt of Terran Power (12 base AC)
     source: "Zanqaa the Devoted - Boon of Aegis: Defense"
     value: 2000
     rarity: legendary (unique)
-    page: 182
+    page: DMG 182
   - name: Whip of Rescue
     source: "Case 11: Hardships and Homecomings"
     value: 20000
