@@ -24,7 +24,7 @@ Leopold's reply:
 >
 > Sure, it's a little faster than scrying, but way less versatile. Back in my day—
 
-The party waits 10 minutes for Gardenblossom to respond again, but he does not. They decide to teleport to the SPI HQ. They dig up a teleport crystal and activate it! The magic feels… sluggish. But it activates. Agents feel like their bodies and souls are being stretched like taffy through the wormhole…
+The party waits 10 minutes for Gardenblossom to respond again, but he does not. They decide to teleport to the [SPI HQ](../locales/spi-hq). They dig up a teleport crystal and activate it! The magic feels… sluggish. But it activates. Agents feel like their bodies and souls are being stretched like taffy through the wormhole…
 
 The party finds a branch that is crying out for water. Callie tries healing it, but it just disintegrates under her touch. Bec discovers that it was undead.
 

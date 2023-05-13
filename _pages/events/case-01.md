@@ -15,7 +15,7 @@ Some weeks after SPI HQ burns to the ground, and all field agents have gone miss
 
 The head of the [SPI](../orgs/spi), **[Mallory](../dossiers/mallory)** ([dwarf](../creatures/dwarves), male), seems to accept them with hardly an interview, and assigns them to a case straight away, urging them to learn to work together as a team.
 
-A human woman named **[Cassandra](../dossiers/cassandra)**, who seems to be Mallory's administrative assistant, gives each recruit a sparse initiation packet, as well as a briefing on the first case. Included in the packets is the sigil sequence to the mysterious new (and windowless) SPI HQ.
+A human woman named **[Cassandra](../dossiers/cassandra)**, who seems to be Mallory's administrative assistant, gives each recruit a sparse initiation packet, as well as a briefing on the first case. Included in the packets is the sigil sequence to the mysterious [new (and windowless) SPI HQ](../locales/spi-hq).
 
 ### Victim
 

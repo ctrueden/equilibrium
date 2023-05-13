@@ -9,7 +9,7 @@ session-date: 2018-04-05
 session-event: https://www.facebook.com/events/2012603059015093/
 ---
 
-* Ozborn wakes up; runs into the Grandmaster of Earth in the SPI HQ. The monk tells him that it is a good thing Ozborn woke up, because he and Callisto are needed by their friends now. "I see the tapestry of fate. If you do not join them, you will not be happy with how matters proceed." Ozborn wakes up Cal, they talk to Mallory, and head out.
+* Ozborn wakes up; runs into the Grandmaster of Earth in the [SPI HQ](../locales/spi-hq). The monk tells him that it is a good thing Ozborn woke up, because he and Callisto are needed by their friends now. "I see the tapestry of fate. If you do not join them, you will not be happy with how matters proceed." Ozborn wakes up Cal, they talk to Mallory, and head out.
 * Ozborn snags a pixie after a slam-dunk hop and hands the pixie to Freki.
 * We pepper the pixies with persistent petitions.
 * Freki freaks and summons his birds. The pixies scatter!

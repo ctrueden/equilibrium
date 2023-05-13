@@ -43,7 +43,7 @@ The SPI meets the mermaid princess [Chrandria](../dossiers/chrandria), and her f
 
 The agents discuss how to get home. They could take the sub home, but it's a 12-day journey. And they would need to leave some munitions behind to make room for Linistreya. Or they could fix the teleportation circle, updating it to modern standards so that they can teleport.
 
-They opt for the latter. Once Vondal has finished perusing the incredible library, and Bec has the teleport circle squared away, they teleport back to SPI HQ, except for Aurora and Lini, who return to Cognitutus to update the Board of Regents and Rollo on what has transpired. Their plan is to send someone back to Antigua later to retrieve the sub.
+They opt for the latter. Once Vondal has finished perusing the incredible library, and Bec has the teleport circle squared away, they teleport back to [SPI HQ](../locales/spi-hq), except for Aurora and Lini, who return to Cognitutus to update the Board of Regents and Rollo on what has transpired. Their plan is to send someone back to Antigua later to retrieve the sub.
 
 ### Case file addendum: What happened in Cognitutus?
 

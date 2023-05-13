@@ -12,4 +12,4 @@ statbox:
 
 Mallory's administrative assistant with a dry sense of humor. Seems to be a divine caster of some sort, as well as a crafter of magical items. Helpful, but a little long-suffering.
 
-Disappeared after the SPI HQ breach. Briefly appeared spiritually superimposed over [Oz](oz)'s monkey companion, during the [*miracle* that cleansed the Necronomicon](../events/case-12e11).
+Disappeared after the [SPI HQ](../locales/spi-hq) breach. Briefly appeared spiritually superimposed over [Oz](oz)'s monkey companion, during the [*miracle* that cleansed the Necronomicon](../events/case-12e11).

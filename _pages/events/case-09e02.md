@@ -13,7 +13,7 @@ session-event: https://www.facebook.com/events/1108757045931616/
 >
 > &mdash;[Ghensh](../dossiers/ghensh)
 
-* They fight [the demon (a balrog? a balor?)](../dossiers/balor), while attempting to penetrate the Zeno's paradox of a barrier into SPI HQ.
+* They fight [the demon (a balrog? a balor?)](../dossiers/balor), while attempting to penetrate the Zeno's paradox of a barrier into [SPI HQ](../locales/spi-hq).
 * The demon seems somehow reluctant (or possibly unable?) to get near Ghensh's carpet. It also is reluctant/unable to enter reality bubbles that people manifested.
 * With Ghensh's efforts, the yachtopus "made port" with the barrier. The party tried various things to penetrate the barrier, without initial success. But eventually, the carpet speared itself through, and unrolled enough to create an opening large enough for the party to beginning slipping through one at a time. [Bec](../dossiers/bec) is the first one through, and quickly informs the NPCs what was going on.
 * [Ceowyn Mandragoran](../dossiers/ceowyn-mandragoran), the Master of Earth, blasted elemental energy through the carpet's opening, splattering a bunch of reality into the chaotic zone. Ceowyn seemed confident, while [Cassandra](../dossiers/cassandra) was more concerned.

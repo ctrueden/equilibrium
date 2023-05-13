@@ -19,9 +19,9 @@ the agents escaped on the Vondalstalk into the [crystal flux](../locales/flux),
 she and her sister became infected with some kind of wild magic disease, which
 began to erode them from the inside.
 
-Panthea was held captive at SPI HQ for a short time until [Military Aid and
-Defense](../orgs/mad) agents showed up to eject them from the premises, at
-which point the SPI agents took Panthea and Meroe with them
+Panthea was held captive at [SPI HQ](../locales/spi-hq) for a short time until
+[Military Aid and Defense](../orgs/mad) agents showed up to eject them from the
+premises, at which point the SPI agents took Panthea and Meroe with them
 ([Amalgamation and Anathema](../events/case-09)).
 
 When the SPI then decided to assist [Bonny Qin](bonny-qin) with a heist of

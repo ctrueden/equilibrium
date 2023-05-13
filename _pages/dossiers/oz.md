@@ -96,4 +96,4 @@ Transformed from the [Cornucopia](../relics/cornucopia) by a creepy-goth halflin
 
 #### Celestial Monkey Statue
 
-Discovered at SPI HQ, in the wake of an apparent burglary+repair effort. See [Case 12, Part 01](../events/case-12e01).
+Discovered at [SPI HQ](../locales/spi-hq), in the wake of an apparent burglary+repair effort. See [Case 12, Part 01](../events/case-12e01).

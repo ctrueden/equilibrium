@@ -16,5 +16,5 @@ session-event: https://www.facebook.com/events/310796676122177/
 * [Freki](../dossiers/freki) intuited that there were two ways out of this place: a "high risk, high reward" direction toward crisis but also salvation; and a "low risk, low reward" direction away from harm, but away from destiny.
 * The party encounters a strange scene: the body of [Alex Orbach](../dossiers/alex-orbach), with his heart cut out in the same manner as [Dominic Tremere](../dossiers/dominic-tremere)'s was&mdash;and a twisted small-sized creature wearing [Priscilla Stormcloud](../dossiers/priscilla-stormcloud)'s clothes eating of it.
 * The creature sees them. Bec sleeps the creature, and they take it with them on the yachtopus, along with Orbach's body.
-* Freki traces the flow of this place to its center, and they see SPI HQ.
+* Freki traces the flow of this place to its center, and they see [SPI HQ](../locales/spi-hq).
 * The creature awakens and transforms into [a huge demon](../dossiers/balor)!

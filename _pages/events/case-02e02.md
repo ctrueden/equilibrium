@@ -9,7 +9,7 @@ session-date: 2015-07-18
 session-event: https://www.facebook.com/events/1467282916915112/
 ---
 
-1. Returned to HQ to speak to Mallory. Discussed the cases and the book. Got some supplies for dealing with petrification.
+1. Returned to [HQ](../locales/spi-hq) to speak to Mallory. Discussed the cases and the book. Got some supplies for dealing with petrification.
 2. With Martine Andrews, traveled to Euryale's villa outside of Haven. From the looks of her villa (underground in some dwarven ruins), they concluded she was very likely a medusa, and probably the culprit.
 3. Spoke to her about petrification under a ruse of Callie's grandmother being afflicted, but made her a little suspicious of their intentions.
 4. Left the villa. After discussion, decided to apprehend her before she could escape.
