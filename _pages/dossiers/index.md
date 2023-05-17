@@ -31,6 +31,7 @@ title: Dossiers
       <option value="11">[11] Hardships and Homecomings | Cognitutus</option>
       <option value="12">[12] Burglary and Blight | Elyria</option>
       <option value="13">[13] Facts and Facsimiles | Selva/Veldt</option>
+      <option value="14">[14] Assemblage and Absolution | SPI HQ</option>
     </select>
   </span>
   <span class="item">
@@ -38,18 +39,22 @@ title: Dossiers
     <select id="race" name="race" onchange="refreshVisibleItems()">
       <option value="all">All</option>
       <option value="changeling">Changeling</option>
+      <option value="devil">Devil</option>
       <option value="dragon">Dragon</option>
       <option value="dragonborn">Dragonborn</option>
       <option value="dwarf">Dwarf</option>
       <option value="elf">Elf</option>
       <option value="eternal">Eternal</option>
+      <option value="fey">Fey</option>
       <option value="githzerai">Githzerai</option>
       <option value="gnoll">Gnoll</option>
       <option value="gnome">Gnome</option>
       <option value="halfling">Halfling</option>
       <option value="human">Human</option>
       <option value="lizardfolk">Lizardfolk</option>
+      <option value="merfolk">Merfolk</option>
       <option value="orc">Orc</option>
+      <option value="tiefling">Tiefling</option>
       <option value="titan">Titan</option>
       <option value="undead">Undead</option>
       <option value="other">Other</option>
@@ -76,6 +81,28 @@ function hasClass(item, cls) {
   return false;
 }
 
+function hasOtherRace(item) {
+  // Build the set of races this item has.
+  var races = new Set();
+  for (var i=0; i<item.classList.length; i++) {
+    var race = item.classList[i];
+    if (!race.startsWith("race-")) continue;
+    race = race.substring(5);
+    var dash = race.indexOf("-");
+    if (dash >= 0) race = race.substring(0, dash);
+    races.add(race);
+  }
+
+  // Remove selectable races from the set.
+  var races_selector = document.getElementById('race');
+  for (var i=0; i<races_selector.children.length; i++) {
+    races.delete(races_selector.children[i].value);
+  }
+
+  // If there are any races left in the set, this item has an "other" race.
+  return races.size > 0;
+}
+
 function refreshVisibleItems() {
   var caseNo = document.getElementById('case').value;
   var race = document.getElementById('race').value;
@@ -88,7 +115,8 @@ function refreshVisibleItems() {
     if (caseNo != 'all' && !hasClass(item, `case-${caseNo}`)) enabled = false;
 
     // filter by race
-    if (race != 'all' && !hasClass(item, `race-${race}`)) enabled = false;
+    if (race != 'all' && race != 'other' && !hasClass(item, `race-${race}`)) enabled = false;
+    if (race == 'other' && !hasOtherRace(item)) enabled = false;
 
     // filter by gender
     var isMale = hasClass(item, 'gender-male');
