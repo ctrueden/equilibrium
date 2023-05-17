@@ -2,7 +2,7 @@
 nav-title: Eirene
 title: Eirene, Horae of Peace
 statbox:
-  race: horae
+  race: eternal (horae)
   gender: female
 ---
 

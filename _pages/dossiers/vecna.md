@@ -6,7 +6,7 @@ image-source: https://www.pinterest.com/pin/431712314295480833/
 image-classic: https://upload.wikimedia.org/wikipedia/en/9/98/Vecna%2C_as_portrayed_in_3rd_Edition.jpg
 image-classic-source: https://en.wikipedia.org/wiki/Vecna
 statbox:
-  race: [eternal, human, lich]
+  race: [eternal, human, undead (lich)]
   gender: female
   alignment: neutral evil
   month: "11 Mysteria"

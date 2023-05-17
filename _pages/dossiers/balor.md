@@ -4,7 +4,7 @@ title: OMG, a balor!
 image: https://static.wikia.nocookie.net/pathfinder/images/5/53/Balor.jpg
 image-source: https://pathfinder.fandom.com/wiki/Balor
 statbox:
-  race: [elf, halfing, demon (balor)]
+  race: [elf (high), halfling, demon (balor)]
   case: "09"
 ---
 

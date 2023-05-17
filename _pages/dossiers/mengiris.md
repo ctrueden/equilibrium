@@ -6,7 +6,7 @@ image2: https://i.pinimg.com/originals/21/27/3e/21273e637e057a20e96e49051dc09c53
 image2-source: https://www.pinterest.com/pin/372884044127214187/
 image3-source: https://www.pinterest.com/pin/850969292063546540/
 statbox:
-  race: golem
+  race: golem (iron)
   profession: bodyguard
   tribe: Malosi
   case: "06"

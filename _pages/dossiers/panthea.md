@@ -1,7 +1,7 @@
 ---
 title: Panthea
 statbox:
-  race: [human, night hag]
+  race: [human, hag (night)]
   gender: female
   profession: acrobat
   case: ["08", "09", "10"]

@@ -3,7 +3,7 @@ title: Squatch
 image-source: https://forums.sufficientvelocity.com/threads/dread-rising-of-pathfinder.21733/page-15
 image: https://adventureaweek.com/wp-content/uploads/2013/12/golem_flesh_no-bg_matt_bulahao.png
 statbox:
-  race: flesh golem
+  race: golem (flesh)
   gender: male
   case: "08"
 ---

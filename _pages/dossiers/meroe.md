@@ -3,7 +3,7 @@ title: Meroe
 image: https://i.pinimg.com/736x/69/1f/89/691f89b48dd06e27c89f8fee8bed92fc--rogue-character-character-ideas.jpg
 image-source: https://www.pinterest.com/pin/267612402840633339/
 statbox:
-  race: [human, night hag]
+  race: [human, hag (night)]
   gender: female
   class: [alchemist, wizard]
   profession: pyrotechnician

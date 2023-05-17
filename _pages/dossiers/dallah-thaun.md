@@ -5,7 +5,7 @@ image-source: https://www.pinterest.com/pin/32862272272908734/
 image2: https://static.wikia.nocookie.net/deepingdale/images/2/2d/DallahThaunsymbol.png
 image3: https://ghwiki.greyparticle.com/images/4/46/Yondalla.jpg
 statbox:
-  race: [ghost, halfling]
+  race: [undead (ghost), halfling]
   gender: female
   case: [11, 12]
 links:
