@@ -1,9 +1,9 @@
 ---
 title: Gráinne
-image: https://i.pinimg.com/originals/14/79/e1/1479e186cf23ad5ef77d21bf4514758a.png
-image-source: https://www.pinterest.com/pin/396457573452053832/
-scary-image2-source: https://www.pinterest.com/pin/211174972373549/
-scary-image4-source: https://www.pinterest.com/pin/480266747770667479/
+image: https://i.pinimg.com/originals/4e/d4/02/4ed402ceb1b351b9f57f3a9e25d4300b.jpg
+image-source: https://www.pinterest.com/pin/432908582942543107/
+scary-image-source: https://www.pinterest.com/pin/211174972373549/
+scary-image2-source: https://www.pinterest.com/pin/480266747770667479/
 statbox:
   race: [hag (night), changeling]
   gender: female

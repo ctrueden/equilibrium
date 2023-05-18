@@ -1,7 +1,7 @@
 ---
 title: Anorje Mistral
-image: https://i.pinimg.com/originals/39/90/21/399021f1394d059241a9ff0ab125e436.jpg
-image-source: https://www.pinterest.com/pin/418201515390010057/
+image: https://i.pinimg.com/originals/14/79/e1/1479e186cf23ad5ef77d21bf4514758a.png
+image-source: https://www.pinterest.com/pin/396457573452053832/
 statbox:
   race: hag (night)
   gender: female

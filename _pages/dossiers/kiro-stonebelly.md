@@ -1,5 +1,5 @@
 ---
-title: Kiro
+title: Kiro Stonebelly
 image: https://i.pinimg.com/originals/48/b7/c2/48b7c225f2c04213d8ce93a2685b80cd.jpg
 image-source: https://www.pinterest.com/pin/422986589979425312/
 statbox:
