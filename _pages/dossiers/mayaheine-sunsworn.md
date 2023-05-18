@@ -10,7 +10,6 @@ statbox:
   race: [human, changeling]
   gender: female
   locale: oasis
-  case: "13"
   pronunciation: "MAI-uh-HEE-nay"
 ---
 

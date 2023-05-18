@@ -7,7 +7,7 @@ statbox:
   gender: female
   locale: alyeadu
   case: "13"
-pronunciation: "sis-AYE"
+  pronunciation: "sis-AYE"
 ---
 
 An [Alye'adu](../locales/alyeadu) villager. Anchor of [Isis Ra'ksh](../dossiers/isis-raksh).

@@ -8,7 +8,6 @@ statbox:
   race: [hag (night), changeling]
   gender: female
   locale: [acrid-marshes, forest-of-shadows]
-  case: "13"
   pronunciation: "GROH-nee-ah"
 ---
 

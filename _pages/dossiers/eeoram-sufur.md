@@ -6,7 +6,6 @@ statbox:
   race: [dwarf, changeling]
   gender: male
   locale: spi-hq
-  case: "13"
   pronunciation: "EE-oh-ram soo-FUR"
 ---
 

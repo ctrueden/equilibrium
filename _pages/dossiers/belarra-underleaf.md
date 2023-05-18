@@ -1,6 +1,6 @@
 ---
 title: Belarra "Bela" Underleaf
-nav-title: Bela Underleaf
+nav-title: Belarra Underleaf
 image: https://i.pinimg.com/originals/4e/00/dd/4e00ddf458125f3c009ece8cc944a236.jpg
 image-source: https://www.pinterest.com/pin/240872280059143685/
 statbox:

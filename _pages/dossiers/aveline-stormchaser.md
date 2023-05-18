@@ -5,7 +5,6 @@ image-source: https://www.pinterest.com/pin/10273905391270748/
 statbox:
   race: [human, elf, changeling]
   gender: female
-  case: "13"
   pronunciation: "AV-uh-leen"
 ---
 

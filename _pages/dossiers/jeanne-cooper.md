@@ -8,8 +8,7 @@ image2-source: https://www.pinterest.com/pin/299278337738084497/
 statbox:
   race: [human, changeling]
   gender: female
-  locale: trell
   case: "13"
 ---
 
-Her anchor is [Neaja Russo](neaja-russo).
+Secretly a [changeling](../creatures/changelings). Her anchor is [Neaja Russo](neaja-russo).
