@@ -1,0 +1,41 @@
+{%- comment -%}
+Adjusts an image link to a scaled resolution if possible.
+
+Currently this supports only adjustment of pinterest image URLs:
+
+  https://i.pinimg.com/originals/xx/yy/zzzz.ext
+
+to:
+
+  https://i.pinimg.com/200x/xx/yy/zzzz.jpg
+
+Where "200x" is the specified scale.
+
+But this is a very common pattern for the site, since many of the
+linked images are from pinterest. We can greatly improve load times
+and reduce bandwidth by making this substitution where applicable.
+
+I have observed the following scale in the wild:
+
+  70x, 170x, 192x, 200x, 222x, 236x, 237x, 290x, 345x,
+  400x, 474x, 550x, 564x, 600x, 640x, 736x, 750x, 1200x
+
+Values other than these may yield an Access Denied error.
+
+400x strikes a nice balance between file size and crispness.
+{%- endcomment -%}
+
+{%- assign src = include.src -%}
+{%- assign scale = include.scale | default: "400x" -%}
+
+{%- assign pinimg-prefix = "//i.pinimg.com/" | append: scale | append: "/" -%}
+{%- assign psrc = src | replace: "//i.pinimg.com/originals/", pinimg-prefix -%}
+{%- if src == psrc -%}
+  {{src}}
+{%- else -%}
+  {{psrc | replace: ".png", ".jpg"}}
+{%- endif -%}
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

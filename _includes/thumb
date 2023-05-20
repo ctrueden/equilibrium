@@ -2,11 +2,12 @@
 Embeds an image thumbnail as an inline block.
 {%- endcomment -%}
 
-{%- assign src = include.src -%}
 {%- assign link = include.link -%}
 {%- assign title = include.title -%}
 {%- assign width = include.width -%}
 {%- assign height = include.height | default: "200px" -%}
+{%- assign scale = height | replace: "px", "x" -%}
+{%- capture src -%} {%- include thumb-src src=include.src scale=scale -%} {%- endcapture -%}
 
 <div style="display: inline-block">
 {% if link -%}<a href="{{link}}">{% endif -%}

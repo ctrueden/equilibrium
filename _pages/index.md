@@ -47,7 +47,7 @@ The current player characters are:
 {%- assign char-url = "/dossiers/" | append: char -%}
 {%- if p.url == char-url -%}
 <div style="display: inline-block; max-width: 128px; padding-right: 1em; text-align: center; vertical-align: top" markdown=1>
-[![{{p.title}}]({{p.image}}){:style="max-height: 128px"}<br>{{p.title}}]({{site.baseurl}}{{p.url}})
+[![{{p.title}}]({% include thumb-src src=p.image %}){:style="max-height: 128px"}<br>{{p.title}}]({{site.baseurl}}{{p.url}})
 </div>
 {% comment -%} {%- endcomment -%}
 {%- endif -%}
