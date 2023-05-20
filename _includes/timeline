@@ -21,11 +21,18 @@ https://codepen.io/alvarotrigo/pen/BawBzjM
   {%- if p-dir != '/events' -%} {%- continue -%} {%- endif -%}
   {%- capture p-name -%} {%- include pathname path=p.url -%} {%- endcapture -%}
   {%- if p-name == 'index' -%} {%- continue -%} {%- endif -%}
+  {%- if p.session-number -%}
+    {%- assign card-class = " sub" -%}
+  {%- else -%}
+    {%- assign card-class = "" -%}
+  {%- endif -%}
 
   {%- assign title = p.nav-title | default: p.title
     | replace: " ", "&nbsp;" | replace: "-", "&#8209;" -%}
   {%- capture card -%}
-    <span class="sortstamp">{{p.datestamp | default: p.url}}</span>
+          <span class="sortstamp">{{p.datestamp | default: p.url}}</span>
+          <div class="card{{card-class}}">
+            <div class="info">
               <details>
                 <summary>
                   <h3 class="date">{{p.when}}</h3>
@@ -33,6 +40,8 @@ https://codepen.io/alvarotrigo/pen/BawBzjM
                 </summary>
                 {{ p.content | markdownify -}}
 {{}}              </details>
+            </div>
+          </div>
   {%- endcapture -%}
   {%- unless cards == "" -%}
     {%- assign cards = cards | append: "|" -%}
@@ -45,14 +54,10 @@ https://codepen.io/alvarotrigo/pen/BawBzjM
 {%- endcomment -%}
 {%- assign sorted-cards = cards | split: "|" | sort | reverse -%}
 
-<div class="timeline">
+    <div class="timeline">
         <div class="outer">
           {%- for card in sorted-cards %}
-          <div class="card">
-            <div class="info">
-              {{card}}
-            </div>
-          </div>
+          {{card}}
           {%- endfor -%}
         </div>
     </div>
