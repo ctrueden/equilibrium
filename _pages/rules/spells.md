@@ -1,5 +1,7 @@
 ---
 title: Spells
+image: https://i.pinimg.com/originals/0f/ec/ce/0feccede3b7b4b18868110d1621bcd88.jpg
+image-source: https://www.pinterest.com/pin/696721004834766761/
 ---
 
 ## Copy (Silver Age)

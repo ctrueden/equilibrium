@@ -2,6 +2,8 @@
 title: Kenku
 image: https://static.wikia.nocookie.net/forgottenrealms/images/7/73/Kenku_by_Dave_Allsop.jpg
 image-source: https://forgottenrealms.fandom.com/wiki/Kenku
+image2: https://i.pinimg.com/originals/48/14/43/4814439882b609c1ad9ea380de328b65.jpg
+image2-source: https://www.pinterest.com/pin/439452876152690277/
 ---
 
 The kenku are a [bipedal](../glossary#bipedal) bird race reminiscent of magpies.

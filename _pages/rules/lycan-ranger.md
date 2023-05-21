@@ -1,5 +1,11 @@
 ---
 title: Lycan Ranger
+image: https://i.pinimg.com/originals/d2/cf/22/d2cf2211905c83c7a2867e5067717982.jpg
+image-source: https://www.pinterest.com/pin/349380883594755087/
+image2: https://i.pinimg.com/originals/38/ea/9a/38ea9ae21ad45450b451b85cdd84f8c1.jpg
+image2-source: https://www.pinterest.com/pin/33988172180894791/
+image3: https://i.pinimg.com/originals/ce/e9/64/cee964bc3b4b19db742cb3f4d012fa64.jpg
+image3-source: https://www.pinterest.com/pin/21040323251990362/
 ---
 
 The lycan ranger is a hunter from the Selva wilderness with fearsome shapeshifting abilities.

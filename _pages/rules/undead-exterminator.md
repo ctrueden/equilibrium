@@ -1,5 +1,9 @@
 ---
 title: Undead Exterminator
+image: https://i.pinimg.com/originals/cf/63/6a/cf636ad93cf5d71d114f49d35c9b83f9.jpg
+image-source: https://www.pinterest.com/pin/3799980924341153/
+image2: https://i.pinimg.com/originals/29/fb/19/29fb1915b4d4611cc5d3323a41eb77b4.jpg
+image2-source: https://www.pinterest.com/pin/914862406501090/
 ---
 
 *GM's note: This rogue archetype is adapted from [Monster Slayer](http://dnd5e.wikidot.com/ranger:monster-slayer) (p43 XGtE) and [Scout](http://dnd5e.wikidot.com/rogue:scout) (p47 XGtE).*
