@@ -11,7 +11,7 @@ session-event: https://www.facebook.com/events/670150321336704/
 
 The Tree is rumbling.
 
-[Stormseeker](../dossiers/lorissa-stormseeker): "Did it work? Is [Sartus](../dossiers/sartus) OK?" She goes over to check him.
+[Stormseeker](../dossiers/lorissa-stormseeker): "Did it work? Is [Sartus](../dossiers/sartus-morningdew) OK?" She goes over to check him.
 
 [Bec](../dossiers/bec): "We have to get out of here."
 
@@ -72,9 +72,9 @@ The [Queen](../dossiers/ambriel-estanesse)/[Zuggtmoy](../dossiers/zuggtmoy) is c
 
 ![Chained queen](../assets/images/queen-chained.png){:style="max-width: 300px"}
 
-[Celes Starfall](../dossiers/celes-starfall) the paladin is there. She is shocked to see them appear, but moves to block them from advancing any closer.
+[Celes Skyfall](../dossiers/celes-skyfall) the paladin is there. She is shocked to see them appear, but moves to block them from advancing any closer.
 
-Starfall: "If you kill her, the Tree dies."
+Skyfall: "If you kill her, the Tree dies."
 
 Vondal remembers that this situation is a lot like that one time with the evil entity possessing that guy... just gotta get it out of there and kill it!
 
@@ -146,7 +146,7 @@ The party quickly acts to heal him:
 
 Celes then inspects the Book and the Queen for lingering traces of evil, but finds none. However, Cal is skeptical, sensing some subconscious doubt in Celes's analysis of the Book, and calls her on it. She looks again at the Book, and now notices a tiny gem of something evil still there. Lorissa casts *remove curse* on the Book, and everyone feels a tiny metaphysical cracking sensation, and Celes believes the Book to be now fully and truly cleansed. At least, Freki's oily hand feels better now!
 
-As everyone frees the Queen from her chains, an argument can be heard through the throne room doors. The [Warforged](../relics/warforged) bursts through the door with two of her elite hunters ([1](../dossiers/caraway-maplehorn) and [2](../dossiers/juniper-tumbleclove)), having pushed past a flustered [Anastasia Starflower](../dossiers/anastastia-starflower).
+As everyone frees the Queen from her chains, an argument can be heard through the throne room doors. The [Warforged](../relics/warforged) bursts through the door with two of her elite hunters ([1](../dossiers/caraway-maplehorn) and [2](../dossiers/juniper-tumbleclove)), having pushed past a flustered [Anastasia Starflower](../dossiers/anastasia-starflower).
 
 ......................
 

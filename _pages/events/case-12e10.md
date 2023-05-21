@@ -23,7 +23,7 @@ After that, things happen fast&mdash;very fast.
 
 {% include quote text="I like to think that Curtis just *winged* that." source="Michael" %}
 
-[Callie](../dossiers/callie) casts *cure wounds* on Phoebe. It is super effective! She feels not only the presence of the [dual goddesses](../rules/dual-goddesses), but also less familiar divine presence, as Feymist coalesces from around the area and infuses itself into her hand as she touches the hamadryad. Phoebe's wounds close, and her eyes begin to flutter.
+[Callie](../dossiers/callie) casts *cure wounds* on Phoebe. It is super effective! She feels not only the presence of the [dual goddesses](../rules/dual-goddess), but also less familiar divine presence, as Feymist coalesces from around the area and infuses itself into her hand as she touches the hamadryad. Phoebe's wounds close, and her eyes begin to flutter.
 
 [Cal](../dossiers/cal) stays near Phoebe, wanting to know if she'll recognize him now, if/when she awakens.
 

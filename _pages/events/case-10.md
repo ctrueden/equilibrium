@@ -14,7 +14,7 @@ Beyond [Oasis](../locales/oasis), [Radiant Union of Pelor](../locales/rup)
 
 ### Patrons
 
-[Meroe](../dossiers/meroe) and [Panthea](../dossiers/panthea); [Seiyre Qin](../dossiers/seiyre-qin)
+[Meroe](../dossiers/meroe) and [Panthea](../dossiers/panthea); [Seirye Qin](../dossiers/seirye-qin)
 
 ### Victims
 

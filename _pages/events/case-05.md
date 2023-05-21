@@ -26,6 +26,6 @@ Meanwhile, one of the acolytes, a young red dragonborn named Ra'faj, ran from th
 
 **[Kára Halfdandóttir](../dossiers/kara-halfdandottir)**, Master of Fire ([dragonborn](../creatures/dragonborn), female, middle aged). A valkyrie. Tried to save her daughter Mishaal from the Summit, but instead they disappeared together.
 
-**[Mishaal Karandóttir](../dossiers/kara-halfdandottir)** (half-[dragonborn](../creatures/dragonborn)/half-[human](../creatures/human), female, young). Daughter of Kára. One of the Summit victims.
+**[Mishaal Karandóttir](../dossiers/kara-halfdandottir)** (half-[dragonborn](../creatures/dragonborn)/half-[human](../creatures/humans), female, young). Daughter of Kára. One of the Summit victims.
 
 **[Ra'faj](../dossiers/rafaj)** (red [dragonborn](../creatures/dragonborn), male, young). Acolyte of the [Progression of Symmetry](../orgs/progression-of-symmetry). Secretly connected to the victims of the Summit. Was in possession of a powerful artifact called the Lamp of Seeming. Transformed himself into a white dragon in retaliation for the SPI disrupting his plans, attacking the agents, but was slain during the battle.

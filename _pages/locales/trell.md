@@ -44,7 +44,7 @@ A fiendish island territory off the northwestern coast.
   * Stygia, ruled by Levistus.
   * Malbolge, ruled by Glasya.
   * Maladomini, ruled by Baalzebul.
-  * Cania, ruled by [Mephistopheles](https://dungeonsdragons.fandom.com/wiki/Mephistopheles).
+  * Cania, ruled by [Mephistopheles](../dossiers/mephistopheles).
   * Nessus, home to Asmodeus's grand citadel of Malsheem.
 * **Deities worshipped:** Religion is forbidden in Trell. But a few illicitly worship:
   * [Melora](../dossiers/melora) (N; Nature, Tempest): goddess of wilderness and the sea

@@ -45,7 +45,7 @@ Soon, the party reaches a place where there is a thick mist around a large branc
 
 [![](https://i.pinimg.com/236x/3d/f0/5c/3df05c2b56886d9caf8dd5f895b10b4c.jpg)](../dossiers/phoebe)
 
-Some agents identify her as a creature called a [hamadryad](../races/dryad#hamadryad), a powerful dryad bonded not to a single tree, but rather an entire forest.
+Some agents identify her as a creature called a [hamadryad](../creatures/dryads#hamadryads), a powerful dryad bonded not to a single tree, but rather an entire forest.
 
 Enoki recognizes this woman and, bowing respectfully, says, "Your Grace? What are you doing here?"
 

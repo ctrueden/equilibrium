@@ -65,7 +65,7 @@ Enoki begins casting a summoning spell...
 
 Meanwhile, the thornbush grows supernaturally fast, straining toward all the interlopers, and twines itself around Isis to form a protective barrier from further attacks. But the swarm of Eixam eats through the bush as fast as it can grow in the area surrounding Isis, and [Sartus](../dossiers/sartus-morningdew) casts *[command plants](https://www.d20pfsrd.com/magic/all-spells/c/command-plants/)* to further interfere with the thornbush's attempts.
 
-Still bleeding profusely, Isis desperately reaches out to touch something unseen next to her as she casts some kind of *giant growth* spell, which radiates outward... A [faeie dragon](../creatures/faerie-dragon) appears next to her, and promptly begins to balloon to a much larger size, along with three remaining shrikes from within the thornbush.
+Still bleeding profusely, Isis desperately reaches out to touch something unseen next to her as she casts some kind of *giant growth* spell, which radiates outward... A [faerie dragon](../creatures/dragons#faerie-dragons) appears next to her, and promptly begins to balloon to a much larger size, along with three remaining shrikes from within the thornbush.
 
 [PSA break!](https://www.youtube.com/watch?v=okQYO10MT3c)
 

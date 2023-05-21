@@ -32,7 +32,7 @@ when: AC50 Cudo 11-13
 * A wizard of the Holy Sorcerers, the order to which Bec Galere's father Letharil belongs.
 * Attending the auction on behalf of Titania, Queen of the Fey.
 
-**[Tybalt Nightbreeze](../dossiers/tybalt-nightbreeze)** (male, half-elf, young adult)
+**[Tybalt Nightbreeze](../dossiers/tybalt)** (male, half-elf, young adult)
 
 * A warlock of the fey, and former SPI team member.
 * Previously called home on elven business by the Fey Queen.

@@ -41,7 +41,7 @@ Vanesse and Bernd Jaglia, young patrons of the arts.
 * Feeds on the laughter of his audience. But he never takes it unwillingly and it doesn't hurt people long-term.
 * He was outside looking for Weezer at crime time.
 
-**[Squatch](../dossiers/squatch)** ([flesh golem](../creatures/flesh-golems)), the strong man.
+**[Squatch](../dossiers/squatch)** ([flesh golem](../creatures/golems)), the strong man.
 * Possesses a child-like mind.
 * Was not seen in the big top at crime time.
 * Bec sensed a lingering illusion aura on him.
