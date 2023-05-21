@@ -1,6 +1,7 @@
 <div id="nav">
       <ul>
         <li><a href="{{site.baseurl}}/">Summary</a></li>
+        <li><a href="{{site.baseurl}}/calendar">Calendar</a></li>
         <li><a href="{{site.baseurl}}/events">Events</a></li>
         <li><a href="{{site.baseurl}}/dossiers">Dossiers</a></li>
         <li><a href="{{site.baseurl}}/creatures">Creatures</a></li>

@@ -3,7 +3,7 @@ title: Calendar
 ---
 
 <figure style="float: right">
-<a href="assets/images/aecus-annum-cycle.svg"><img src="assets/images/aecus-annum-cycle.svg" style="max-width: 100%; max-height: 500px"></a>
+<a href="../assets/images/aecus-annum-cycle.svg"><img src="../assets/images/aecus-annum-cycle.svg" style="max-width: 100%; max-height: 500px"></a>
 <figcaption style="text-align: center">The Aecus Concord calendar, month by month</figcaption>
 </figure>
 
