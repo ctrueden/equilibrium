@@ -11,7 +11,7 @@ session-event: https://www.facebook.com/events/1150757385650969/
 
 (TODO: Clean up and flesh out these very rough notes.)
 
-Andy guest stars as [Erasmus](..dossiers/erasmus), the Faerie Dragon guardian!
+Andy guest stars as [Erasmus](../dossiers/erasmus), the Faerie Dragon guardian!
 
 {% include quote text="
 The dragon introduces itself as Erasmus. He is the guardian of the seed. He tells us he won't let us look at the seed, because it's the guardian. He says we should go fix the queen, because the seed needs 15 more years of growth time.

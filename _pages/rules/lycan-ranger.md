@@ -131,7 +131,7 @@ Alternately, you may choose two additional abilities from the 6th level [Improve
 
 ## Beast Companion
 
-*This ability replaces the [standard ranger's 3rd level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability. See also the [Ranger's Companion](http://dnd5e.wikidot.com/ranger:beast-master#toc0) and [Primal Companion](dnd5e.wikidot.com/ranger:beast-master#toc1) options of the Beast Master ranger archetype.*
+*This ability replaces the [standard ranger's 3rd level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability. See also the [Ranger's Companion](http://dnd5e.wikidot.com/ranger:beast-master#toc0) and [Primal Companion](http://dnd5e.wikidot.com/ranger:beast-master#toc1) options of the Beast Master ranger archetype.*
 
 At 3rd level, you become bonded to mystic spirit animals of unknown origin. They are loyal, but not beholden, to you.
 
