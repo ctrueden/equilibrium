@@ -24,6 +24,7 @@ td {
   position: relative;
   white-space: nowrap;
   width: 10rem;
+  border-color: #555 !important;
 }
 .edge {
   font-size: 0.6rem;
@@ -55,26 +56,31 @@ td {
   top: var(--edge-margin);
   left: var(--edge-margin);
   text-align: right !important;
+  color: gray;
 }
 .ignan {
   top: var(--edge-margin);
   right: var(--edge-margin);
   text-align: right !important;
+  color: gray;
 }
 .aquan {
   bottom: var(--edge-margin);
   left: var(--edge-margin);
   text-align: left !important;
+  color: gray;
 }
 .elyria {
   bottom: var(--edge-margin);
   width: calc(100% - 2*var(--day-margin-lr));
   text-align: center !important;
+  color: gray;
 }
 .selva {
   bottom: var(--edge-margin);
   right: var(--edge-margin);
   text-align: right !important;
+  color: gray;
 }
 
 th {
@@ -889,6 +895,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Eleint 26</div>
 <div class="edge selva">Dark 3</div>
 &nbsp;<br>
+Case <a href="../events/case-01">01</a><br>
 &nbsp;
 </td>
 </tr>
@@ -901,6 +908,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Eleint 27</div>
 <div class="edge selva">Dark 4</div>
 &nbsp;<br>
+Case <a href="../events/case-02">02</a> (pt <a href="../events/case-02e01">01</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -911,6 +919,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Eleint 28</div>
 <div class="edge selva">Dark 5</div>
 &nbsp;<br>
+Case <a href="../events/case-02">02</a> (pt <a href="../events/case-02e02">02</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -931,6 +940,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Eleint 30</div>
 <div class="edge selva">Dark 7</div>
 &nbsp;<br>
+Case <a href="../events/case-03">03</a><br>
 &nbsp;
 </td>
 <td>
@@ -953,6 +963,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Marpenoth 1</div>
 <div class="edge selva">Dark 9</div>
 &nbsp;<br>
+Case <a href="../events/case-04">04</a><br>
 &nbsp;
 </td>
 <td>
@@ -983,6 +994,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Marpenoth 4</div>
 <div class="edge selva">Dark 12</div>
 &nbsp;<br>
+Case <a href="../events/case-05">05</a><br>
 &nbsp;
 </td>
 <td>
@@ -1035,6 +1047,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Marpenoth 9</div>
 <div class="edge selva">Dark 17</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pt <a href="../events/case-06e01">01</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1045,6 +1058,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Marpenoth 10</div>
 <div class="edge selva">Dark 18</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pts <a href="../events/case-06e02">02</a>, <a href="../events/case-06e03">03</a>)<br>
 &nbsp;
 </td>
 </tr>
@@ -1057,6 +1071,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Marpenoth 11</div>
 <div class="edge selva">Dark 19</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pt <a href="../events/case-06e03">03</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1067,6 +1082,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Marpenoth 12</div>
 <div class="edge selva">Dark 20</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pt <a href="../events/case-06e03">03</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1077,6 +1093,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Marpenoth 13</div>
 <div class="edge selva">Dark 21</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pts <a href="../events/case-06e03">03</a>, <a href="../events/case-06e04">04</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1087,6 +1104,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Marpenoth 14</div>
 <div class="edge selva">Dark 22</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pt <a href="../events/case-06e04">04</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1097,6 +1115,7 @@ Winter Solstice (Mountain)
 <div class="edge elyria">Marpenoth 15</div>
 <div class="edge selva">Dark 23</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pt <a href="../events/case-06e04">04</a>)<br>
 &nbsp;
 </td>
 </tr>
@@ -1120,6 +1139,7 @@ Autumn Equinox (Arallu)<br>
 Winter Solstice (Selva)
 </div>
 <div>
+Case <a href="../events/case-06">06</a> (pt <a href="../events/case-06e04">04</a>)<br>
 &nbsp;
 </div>
 </td>
@@ -1137,6 +1157,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Marpenoth 17</div>
 <div class="edge selva">Black 2</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pt <a href="../events/case-06e04">04</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1147,6 +1168,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Marpenoth 18</div>
 <div class="edge selva">Black 3</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pt <a href="../events/case-06e04">04</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1157,6 +1179,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Marpenoth 19</div>
 <div class="edge selva">Black 4</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pt <a href="../events/case-06e04">04</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1167,6 +1190,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Marpenoth 20</div>
 <div class="edge selva">Black 5</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pt <a href="../events/case-06e04">04</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1177,6 +1201,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Marpenoth 21</div>
 <div class="edge selva">Black 6</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pt <a href="../events/case-06e04">04</a>)<br>
 &nbsp;
 </td>
 </tr>
@@ -1189,6 +1214,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Marpenoth 22</div>
 <div class="edge selva">Black 7</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pt <a href="../events/case-06e04">04</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1199,6 +1225,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Marpenoth 23</div>
 <div class="edge selva">Black 8</div>
 &nbsp;<br>
+Case <a href="../events/case-06">06</a> (pts <a href="../events/case-06e04">04</a>, <a href="../events/case-06e05">05</a>, <a href="../events/case-06e06">06</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1241,6 +1268,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Marpenoth 27</div>
 <div class="edge selva">Black 12</div>
 &nbsp;<br>
+Case <a href="../events/case-07">07</a> (pt <a href="../events/case-07e01">01</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1251,6 +1279,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Marpenoth 28</div>
 <div class="edge selva">Black 13</div>
 &nbsp;<br>
+Case <a href="../events/case-07">07</a> (pt <a href="../events/case-07e01">01</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1261,6 +1290,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Marpenoth 29</div>
 <div class="edge selva">Black 14</div>
 &nbsp;<br>
+Case <a href="../events/case-07">07</a> (pts <a href="../events/case-07e01">1</a>, <a href="../events/case-07e02">2</a>, <a href="../events/case-07e03">3</a>, <a href="../events/case-07e04">4</a>, <a href="../events/case-07e05">5</a>, <a href="../events/case-07e06">6</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1323,6 +1353,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Uktar 5</div>
 <div class="edge selva">Black 20</div>
 &nbsp;<br>
+Case <a href="../events/case-08">08</a> (pts <a href="../events/case-08e01">1</a>, <a href="../events/case-08e02">2</a>, <a href="../events/case-08e03">3</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1333,6 +1364,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Uktar 6</div>
 <div class="edge selva">Black 21</div>
 &nbsp;<br>
+Case <a href="../events/case-09">09</a> (pt <a href="../events/case-09e01">1</a>)<br>
 &nbsp;
 </td>
 </tr>
@@ -1345,6 +1377,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Uktar 7</div>
 <div class="edge selva">Black 22</div>
 &nbsp;<br>
+Case <a href="../events/case-09">09</a> (pt <a href="../events/case-09e01">1</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1355,6 +1388,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Uktar 8</div>
 <div class="edge selva">Black 23</div>
 &nbsp;<br>
+Case <a href="../events/case-09">09</a> (pt <a href="../events/case-09e01">1</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1365,6 +1399,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Uktar 9</div>
 <div class="edge selva">Cold 1</div>
 &nbsp;<br>
+Case <a href="../events/case-09">09</a> (pt <a href="../events/case-09e01">1</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1375,6 +1410,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Uktar 10</div>
 <div class="edge selva">Cold 2</div>
 &nbsp;<br>
+Case <a href="../events/case-09">09</a> (pt <a href="../events/case-09e01">1</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1385,6 +1421,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Uktar 11</div>
 <div class="edge selva">Cold 3</div>
 &nbsp;<br>
+Case <a href="../events/case-09">09</a> (pts <a href="../events/case-09e01">1</a>, <a href="../events/case-09e02">2</a>, <a href="../events/case-09e03">3</a>, <a href="../events/case-09e04">4</a>)<br>
 &nbsp;
 </td>
 </tr>
@@ -1397,6 +1434,8 @@ Winter Solstice (Selva)
 <div class="edge elyria">Uktar 12</div>
 <div class="edge selva">Cold 4</div>
 &nbsp;<br>
+Case <a href="../events/case-09">09</a> (pt <a href="../events/case-09e04">4</a>)<br>
+Case <a href="../events/case-10">10</a> (pts <a href="../events/case-10e01">1</a>, <a href="../events/case-10e02">2</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1407,6 +1446,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Uktar 13</div>
 <div class="edge selva">Cold 5</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pt <a href="../events/case-10e02">2</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1417,6 +1457,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Uktar 14</div>
 <div class="edge selva">Cold 6</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pt <a href="../events/case-10e02">2</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1427,6 +1468,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Uktar 15</div>
 <div class="edge selva">Cold 7</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pt <a href="../events/case-10e02">2</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1437,6 +1479,7 @@ Winter Solstice (Selva)
 <div class="edge elyria">Uktar 16</div>
 <div class="edge selva">Cold 8</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pt <a href="../events/case-10e02">2</a>)<br>
 🌓 Waxing Half-Moon<br>
 Ignan Greenday<br>
 &nbsp;
@@ -1455,6 +1498,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 17</div>
 <div class="edge selva">Cold 9</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pt <a href="../events/case-10e02">2</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1465,6 +1509,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 18</div>
 <div class="edge selva">Cold 10</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pts <a href="../events/case-10e02">2</a>, <a href="../events/case-10e03">3</a>, <a href="../events/case-10e04">4</a>, <a href="../events/case-10e05">5</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1475,6 +1520,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 19</div>
 <div class="edge selva">Cold 11</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pt <a href="../events/case-10e05">5</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1485,6 +1531,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 20</div>
 <div class="edge selva">Cold 12</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pt <a href="../events/case-10e05">5</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1495,6 +1542,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 21</div>
 <div class="edge selva">Cold 13</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pt <a href="../events/case-10e05">5</a>)<br>
 &nbsp;
 </td>
 </tr>
@@ -1507,6 +1555,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 22</div>
 <div class="edge selva">Cold 14</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pts <a href="../events/case-10e05">5</a>, <a href="../events/case-10e06">6</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1517,6 +1566,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 23</div>
 <div class="edge selva">Cold 15</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pt <a href="../events/case-10e06">6</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1527,6 +1577,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 24</div>
 <div class="edge selva">Cold 16</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pt <a href="../events/case-10e06">6</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1537,6 +1588,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 25</div>
 <div class="edge selva">Cold 17</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pt <a href="../events/case-10e06">6</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1547,6 +1599,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 26</div>
 <div class="edge selva">Cold 18</div>
 &nbsp;<br>
+Case <a href="../events/case-10">10</a> (pt <a href="../events/case-10e06">6</a>)<br>
 &nbsp;
 </td>
 </tr>
@@ -1559,6 +1612,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 27</div>
 <div class="edge selva">Cold 19</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pts <a href="../events/case-11e01">1</a>, <a href="../events/case-11e02">2</a>, <a href="../events/case-11e03">3</a>, <a href="../events/case-11e04">4</a>, <a href="../events/case-11e05">5</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1569,6 +1623,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 28</div>
 <div class="edge selva">Cold 20</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pt <a href="../events/case-11e05">5</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1579,6 +1634,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 29</div>
 <div class="edge selva">Cold 21</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pt <a href="../events/case-11e05">5</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1589,6 +1645,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Uktar 30</div>
 <div class="edge selva">Cold 22</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pt <a href="../events/case-11e05">5</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1599,6 +1656,7 @@ Ignan Greenday<br>
 <div class="edge elyria"><strong>Moon Feast</strong></div>
 <div class="edge selva">Cold 23</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pt <a href="../events/case-11e05">5</a>)<br>
 &nbsp;
 </td>
 </tr>
@@ -1611,6 +1669,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Nightal 1</div>
 <div class="edge selva">Long 1</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pt <a href="../events/case-11e05">5</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1621,6 +1680,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Nightal 2</div>
 <div class="edge selva">Long 2</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pt <a href="../events/case-11e05">5</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1631,6 +1691,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Nightal 3</div>
 <div class="edge selva">Long 3</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pt <a href="../events/case-11e05">5</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1641,6 +1702,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Nightal 4</div>
 <div class="edge selva">Long 4</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pt <a href="../events/case-11e05">5</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1651,6 +1713,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Nightal 5</div>
 <div class="edge selva">Long 5</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pt <a href="../events/case-11e05">5</a>)<br>
 &nbsp;
 </td>
 </tr>
@@ -1663,6 +1726,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Nightal 6</div>
 <div class="edge selva">Long 6</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pts <a href="../events/case-11e05">5</a>, <a href="../events/case-11e06">6</a>, <a href="../events/case-11e07">7</a>, <a href="../events/case-11e08">8</a>, <a href="../events/case-11e09">9</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1673,6 +1737,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Nightal 7</div>
 <div class="edge selva">Long 7</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pt <a href="../events/case-11e09">9</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1683,6 +1748,8 @@ Ignan Greenday<br>
 <div class="edge elyria">Nightal 8</div>
 <div class="edge selva">Long 8</div>
 &nbsp;<br>
+Case <a href="../events/case-11">11</a> (pt <a href="../events/case-11e09">9</a>)<br>
+Case <a href="../events/case-12">12</a> (pts <a href="../events/case-12e01">1</a>, <a href="../events/case-12e02">2</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1693,6 +1760,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Nightal 9</div>
 <div class="edge selva">Long 9</div>
 &nbsp;<br>
+Case <a href="../events/case-12">12</a> (pts <a href="../events/case-12e02">2</a>, <a href="../events/case-12e03">3</a>, <a href="../events/case-12e04">4</a>, <a href="../events/case-12e05">5</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1703,6 +1771,7 @@ Ignan Greenday<br>
 <div class="edge elyria">Nightal 10</div>
 <div class="edge selva">Long 10</div>
 &nbsp;<br>
+Case <a href="../events/case-12">12</a> (pts <a href="../events/case-12e05">5</a>, <a href="../events/case-12e06">6</a>, <a href="../events/case-12e07">7</a>, <a href="../events/case-12e08">8</a>, <a href="../events/case-12e09">9</a>, <a href="../events/case-12e10">10</a>, <a href="../events/case-12e11">11</a>, <a href="../events/case-12e12">12</a>)<br>
 &nbsp;
 </td>
 </tr>
@@ -1778,6 +1847,7 @@ Autumn Equinox (Ocean)<br>
 Winter Solstice (Elyria)
 </div>
 <div>
+Case <a href="../events/case-13">13</a> (pts <a href="../events/case-13e01">1</a>, <a href="../events/case-13e02">2</a>, <a href="../events/case-13e03">3</a>, <a href="../events/case-13e04">4</a>)<br>
 &nbsp;
 </div>
 </td>
