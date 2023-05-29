@@ -17,6 +17,7 @@ statbox:
   - Io
   enemies:
   - Bahamut
+  - Sehanine
 links:
 - 4E|https://dnd4.fandom.com/wiki/Tiamat
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Tiamat

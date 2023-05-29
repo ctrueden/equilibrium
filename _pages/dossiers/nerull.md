@@ -22,6 +22,7 @@ statbox:
   - Aurom
   allies:
   - Corellon
+  - Ioun
   - Melora
   - Sehanine
   enemies:

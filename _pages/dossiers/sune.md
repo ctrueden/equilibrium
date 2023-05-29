@@ -25,9 +25,12 @@ statbox:
   - Beauty
   - Passion
   allies:
-  - TODO
+  - Corellon
+  - Gruumsh
+  - Ioun
   enemies:
-  - TODO
+  - Moradin
+  - Pelor
 links:
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Sune
 - FRC|https://frc.fandom.com/wiki/Sune

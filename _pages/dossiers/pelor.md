@@ -23,9 +23,11 @@ statbox:
   allies:
   - Corellon
   - Erathis
+  - Ioun
   - Moradin
   enemies:
   - Sehanine
+  - Sune
   - Vecna
   quote: "THE FUTURE IS YOURS TO SHAPE."
 links:

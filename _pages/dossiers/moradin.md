@@ -24,6 +24,7 @@ statbox:
   enemies:
   - Gruumsh
   - Hyperion
+  - Sune
 links:
 - 4E|https://dnd4.fandom.com/wiki/Moradin
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Moradin

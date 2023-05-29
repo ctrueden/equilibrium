@@ -21,6 +21,7 @@ statbox:
   enemies:
   - Corellon
   - Erathis
+  - Ioun
   - Nerull
   - Pelor
   - Sehanine

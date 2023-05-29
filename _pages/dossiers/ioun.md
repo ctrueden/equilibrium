@@ -21,7 +21,12 @@ statbox:
   - Avandra
   - Corellon
   - Erathis
+  - Nerull
   - Pelor
+  - Sune
+  enemies:
+  - Asmodeus
+  - Vecna
 links:
 - 4E|https://dnd4.fandom.com/wiki/Ioun
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Ioun

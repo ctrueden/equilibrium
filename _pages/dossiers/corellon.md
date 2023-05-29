@@ -27,8 +27,10 @@ statbox:
   - Nerull
   - Pelor
   - Sehanine
+  - Sune
   enemies:
   - Gruumsh
+  - Lolth
   - Vecna
 links:
 - 4E|https://dnd4.fandom.com/wiki/Corellon

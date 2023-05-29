@@ -30,10 +30,12 @@ statbox:
   - Melora
   - Moradin
   - Nerull
+  - Sardior
   enemies:
   - Asmodeus
   - Bahamut
   - Gruumsh
+  - Lolth
   - Pelor
   - Tiamat
   - Vecna

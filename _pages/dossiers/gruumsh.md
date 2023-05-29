@@ -20,8 +20,11 @@ statbox:
   allies:
   - Asmodeus
   - Kord
+  - Sune
   enemies:
   - Corellon
+  - Moradin
+  - Sehanine
 links:
 - 4E|https://dnd4.fandom.com/wiki/Gruumsh
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Gruumsh

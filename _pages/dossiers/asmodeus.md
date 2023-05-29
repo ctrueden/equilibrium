@@ -19,6 +19,7 @@ statbox:
   - Vecna
   enemies:
   - Avandra
+  - Ioun
   - Melora
   - Nerull
   - Sehanine
