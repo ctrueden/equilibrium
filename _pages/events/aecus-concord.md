@@ -1,6 +1,6 @@
 ---
 title: The Aecus Concord
-datestamp: 0b
+datestamp: 01-01-01
 when: 50 years ago
 ---
 

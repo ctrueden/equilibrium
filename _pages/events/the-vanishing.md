@@ -1,6 +1,6 @@
 ---
 title: The Vanishing
-datestamp: 0a
+datestamp: 00-05-02
 when: 50 years ago
 ---
 

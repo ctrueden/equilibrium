@@ -1,6 +1,6 @@
 ---
 title: The War of Countless Dead
-timestamp: -100
+datestamp: 00-05-01
 when: 50-100 years before the AC
 ---
 
