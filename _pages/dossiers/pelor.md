@@ -40,6 +40,7 @@ links:
 - 5E Dawn War|https://5e.tools/deities.html#pelor_dawn%20war_dmg
 - 5E Exandria|https://5e.tools/deities.html#pelor_exandria_egw
 - 5E Faerun|https://5e.tools/deities.html#amaunator_faer%c3%bbnian_scag
+- Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Pelor
 ---
 
 ## Precepts

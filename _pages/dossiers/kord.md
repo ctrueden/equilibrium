@@ -33,6 +33,7 @@ links:
 - 5E Dawn War|https://5e.tools/deities.html#kord_dawn%20war_dmg
 - 5E Exandria|https://5e.tools/deities.html#kord_exandria_egw
 - 5E Greek|https://5e.tools/deities.html#nike_greek_phb
+- Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Kord
 ---
 
 ## Precepts

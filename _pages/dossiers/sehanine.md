@@ -61,6 +61,7 @@ links:
 - 5E Racial 2|https://5e.tools/deities.html#eilistraee_drow_mtf
 - Forgotten Realms 2|https://forgottenrealms.fandom.com/wiki/Eilistraee
 - Forgotten Realms 3|https://forgottenrealms.fandom.com/wiki/Sel%C3%BBne
+- Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Ehlonna
 ---
 
 ## Precepts
