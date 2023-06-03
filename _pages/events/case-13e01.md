@@ -33,17 +33,17 @@ Callie casts *seeming* to turn [Bec](../dossiers/bec) into Sima, and [Oz](../dos
 
 Freki feels he is somehow connected to whatever is following them.
 
-Hugen: "Indeed, there is a connection."  
-Munin: "Yes... It is me. I remember... dying."  
+[Hugin](../dossiers/hugin): "Indeed, there is a connection."  
+[Munin](../dossiers/munin): "Yes... It is me. I remember... dying."  
 Munin: "I am me. The other... a facsimile only. With my power."
 Freki: "Is the facsimile bad?"  
 Munin ponders for a moment. "Unclear."  
 Freki (to the rest of the party): "Do not attack my friends the ravens. However, do not trust them either."  
-Hugen: "We protect you, so that you might fulfill your purpose."  
+Hugin: "We protect you, so that you might fulfill your purpose."  
 Freki: "Do you know its intentions?"  
-Hugen: "We do not know this third. It is an other."  
+Hugin: "We do not know this third. It is an other."  
 Freki: "Do you know my purpose? But also: thank you very much for the protection."  
-Hugen: "To devour the world. Or... prevent others from doing so. The choice is yours."  
+Hugin: "To devour the world. Or... prevent others from doing so. The choice is yours."  
 
 Freki remembers that he did see Munin die once. He later had a [vision](freki-vision) of [the dragon shaman that killed Munin](../dossiers/andalla) turning into a raven and flying away.
 

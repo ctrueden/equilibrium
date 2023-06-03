@@ -37,7 +37,7 @@ Callie asks the knight who summoned him, but he ignores everyone's questions and
 
 As soon as the knight discorporates,
 
-Freki's bird companions Hugen and Munin speak in Freki's mind, warning him that there are unseen threats in the Megil'ram (which Freki somehow mentally understands to mean "Thornbush" or literally "Wall of Swords" in elven). They dive from the canopy overhead into the thornbush, and a flock of songbirds (which Freki recognizes as [shrikes](../creatures/shrikes)) burst forth from the bush and fly away in fright.
+Freki's bird companions [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin) speak in Freki's mind, warning him that there are unseen threats in the Megil'ram (which Freki somehow mentally understands to mean "Thornbush" or literally "Wall of Swords" in elven). They dive from the canopy overhead into the thornbush, and a flock of songbirds (which Freki recognizes as [shrikes](../creatures/shrikes)) burst forth from the bush and fly away in fright.
 
 At the same time, a series of mental attacks on Oz commences. Oz feels his body begin to pulse and stretch&mdash;some foul magic is happening to him. Resisting with all his might, the disturbance dies down... and then begins again as strong as ever as a figure concealed head to toe in a cloak of leaves, feathers, and bone appears at the edge of the thornbush, crying out in frustration.
 

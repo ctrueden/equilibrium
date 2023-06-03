@@ -21,7 +21,7 @@ session-event: https://www.facebook.com/events/1589437974695524/
 8. Ni left, saying she will await news from them regarding the incident. She seemed to believe that some of her tribe may have lived (in a sense) through this ordeal, and made stronger.
 9. Freki gathered more herbs and various plant stuff, to restock arrows, and get Itchy some more cold cream.
 10. Callie tried to heal Cal again. She cast Cure Wounds and flushed the taint out of Cal's body.
-11. Freki called out to Hugen to fly cover. He sensed contact and acquiescence.
+11. Freki called out to [Hugin](../dossiers/hugin) to fly cover. He sensed contact and acquiescence.
 12. The party discussed how to find the Malosi, since that seemed to be their best lead.
 13. Bec tried to form an alliance with the taciturn Freki. The SPI wanted to hire him as a guide. Freki said he could do as well as the people that they had. He wanted 11 gold a day, payable upon first access to a teleportation circle.
 14. The party did a round of introductions.

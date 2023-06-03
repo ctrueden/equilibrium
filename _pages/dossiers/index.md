@@ -54,6 +54,7 @@ title: Dossiers
       <option value="lizardfolk">Lizardfolk</option>
       <option value="merfolk">Merfolk</option>
       <option value="orc">Orc</option>
+      <option value="spirit">Spirit</option>
       <option value="tiefling">Tiefling</option>
       <option value="titan">Titan</option>
       <option value="undead">Undead</option>
