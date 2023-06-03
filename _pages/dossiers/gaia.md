@@ -8,6 +8,8 @@ statbox:
   gender: female
   aliases:
   - Terra
+  - Mystra
+  - The Goddess
   domains: Nature
 ---
 

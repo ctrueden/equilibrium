@@ -17,6 +17,7 @@ statbox:
   - Thought
   aliases:
   - Istus
+  - The Goddess
   allies:
   - Avandra
   - Corellon
