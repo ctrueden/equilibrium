@@ -13,7 +13,6 @@ statbox:
   - Thunder and lightning
   - Law and order
 links:
-- Critical Role|https://criticalrole.fandom.com/wiki/Zeus
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=24
 - 5E Greek|https://5e.tools/deities.html#zeus_greek_phb
 - Wikipedia|https://en.wikipedia.org/wiki/Zeus
