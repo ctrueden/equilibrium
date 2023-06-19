@@ -16,14 +16,6 @@ statbox:
   link="https://www.pinterest.com/pin/736268239065338170/"
   width="200px" %}
 {% include thumb
-  src="https://i.pinimg.com/originals/f8/cd/11/f8cd1181698f5a75a2e121fd37f79910.jpg"
-  link="https://www.pinterest.com/pin/1119214944870540035/"
-  width="200px" %}
-{% include thumb
-  src="https://i.pinimg.com/originals/72/7b/3b/727b3b5c01138bd965e7752dd4997d3f.jpg"
-  link="https://www.pinterest.com/pin/1040542688879477516/"
-  width="200px" %}
-{% include thumb
   src="https://i.pinimg.com/originals/e2/1a/fa/e21afa4b8d7907679232836ee7c9c80c.jpg"
   link="https://www.pinterest.com/pin/13018286403746061/"
   width="200px" %}

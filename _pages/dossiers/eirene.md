@@ -1,5 +1,7 @@
 ---
 nav-title: Eirene
+image: https://i.pinimg.com/videos/thumbnails/originals/da/a6/55/daa655856a7c89a2282bad679a528919.0000000.jpg
+image-source: https://www.pinterest.com/pin/1004162048139183796/
 title: Eirene, Horae of Peace
 statbox:
   race: eternal (horae)

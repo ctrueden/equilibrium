@@ -1,5 +1,7 @@
 ---
 title: Panthea
+image: https://i.pinimg.com/originals/d3/ad/51/d3ad5128e6871faff3c5fa0504ce10a4.png
+image-source: https://www.pinterest.com/pin/731623901983278906/
 statbox:
   race: [human, hag (night)]
   gender: female
