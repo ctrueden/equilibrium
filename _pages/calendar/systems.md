@@ -23,20 +23,20 @@ dedicated days for each of the elemental apexes (i.e. summer solstices), when
 the sun sits highest in the sky centered at one of eight aligned elemental
 orientations.
 
-|  # | Month        | Deity Honored                 | Domains          | Legend                                                             |
-|---:|--------------|-------------------------------|------------------|--------------------------------------------------------------------|
-| 01 | Gyrus        | [Io](dossiers/io)             | All              | In the beginning was Io, origin of all that is divine.             |
-| 02 | Fons         | [Corellon](dossiers/corellon) | Nature, Light    | Corellon sowed the seeds of nature, nourishing them with magic.    |
-| 03 | Solis        | [Pelor](dossiers/pelor)       | Life, Light      | Pelor gave life to mortalkind, and reaped what Corellon sowed.     |
-| 04 | Cudo         | [Moradin](dossiers/moradin)   | Light, War       | Moradin taught mortalkind to forge tools.                          |
-| 05 | Rixa         | [Gruumsh](dossiers/gruumsh)   | War, Tempest     | But with resources came conflict and destruction.                  |
-| 06 | Vis          | [Kord](dossiers/kord)         | Tempest          | The strong survived, weathering the storms.                        |
-| 07 | Avium        | [Melora](dossiers/melora)     | Tempest, Nature  | And the wilderness endured, defiant and untamed.                   |
-| 08 | Luna         | [Sehanine](dossiers/sehanine) | Nature, Trickery | Mortalkind learned to thrive in harmony with the natural world.    |
-| 09 | Casus        | [Avandra](dossiers/avandra)   | Trickery, Life   | As their luck changed, they began new journeys.                    |
-| 10 | Fatum        | [Nerull](dossiers/nerull)     | Trickery, Death  | But all journeys end with death's embrace.                         |
-| 11 | Mysteria     | [Vecna](dossiers/vecna)       | Death, Knowledge | Is there a secret way to cheat fate?                               |
-| 12 | Idea         | [Erathis](dossiers/erathis)   | Knowledge, War   | As secrets are revealed, can Aecans build a better world together? |
+|  # | Month        | Deity Honored                    | Domains          | Legend                                                             |
+|---:|--------------|----------------------------------|------------------|--------------------------------------------------------------------|
+| 01 | Gyrus        | [Io](../dossiers/io)             | All              | In the beginning was Io, origin of all that is divine.             |
+| 02 | Fons         | [Corellon](../dossiers/corellon) | Nature, Light    | Corellon sowed the seeds of nature, nourishing them with magic.    |
+| 03 | Solis        | [Pelor](../dossiers/pelor)       | Life, Light      | Pelor gave life to mortalkind, and reaped what Corellon sowed.     |
+| 04 | Cudo         | [Moradin](../dossiers/moradin)   | Light, War       | Moradin taught mortalkind to forge tools.                          |
+| 05 | Rixa         | [Gruumsh](../dossiers/gruumsh)   | War, Tempest     | But with resources came conflict and destruction.                  |
+| 06 | Vis          | [Kord](../dossiers/kord)         | Tempest          | The strong survived, weathering the storms.                        |
+| 07 | Avium        | [Melora](../dossiers/melora)     | Tempest, Nature  | And the wilderness endured, defiant and untamed.                   |
+| 08 | Luna         | [Sehanine](../dossiers/sehanine) | Nature, Trickery | Mortalkind learned to thrive in harmony with the natural world.    |
+| 09 | Casus        | [Avandra](../dossiers/avandra)   | Trickery, Life   | As their luck changed, they began new journeys.                    |
+| 10 | Fatum        | [Nerull](../dossiers/nerull)     | Trickery, Death  | But all journeys end with death's embrace.                         |
+| 11 | Mysteria     | [Vecna](../dossiers/vecna)       | Death, Knowledge | Is there a secret way to cheat fate?                               |
+| 12 | Idea         | [Erathis](../dossiers/erathis)   | Knowledge, War   | As secrets are revealed, can Aecans build a better world together? |
 
 ## Days of the week
 
@@ -54,7 +54,7 @@ The Aecus common calendar uses five-day weeks, with six weeks per month:
 A curious feature of Aecus's solar/lunar annual cycle is that the sun does not
 move at a constant speed around the elemental poles, but rather spends more
 time each year near the Arenan quadrant. Some scholars believe this is due to
-[Pelor](dossiers/pelor)'s affinity for the elements of Air and Fire. As a
+[Pelor](../dossiers/pelor)'s affinity for the elements of Air and Fire. As a
 consequence, some nations have an imbalance of seasons, as noted in the
 following table.
 
@@ -63,20 +63,20 @@ year, but rather spends substantially more time waxing than waning, reaching
 its fullest at the midpoint between the Arenan and Ignan solar apexes, and
 its newest at the midpoint between the Terran and Glacian solar apexes.
 
-|  When | Event               | Element(s)  | Summer<br>Solstice           | Autumn<br>Equinox            | Winter<br>Solstice           | Spring<br>Equinox            |
-|------:|---------------------|-------------|------------------------------|------------------------------|------------------------------|------------------------------|
-| 12-01 | 🌑 New Moon         |             |                              |                              |                              |                              |
-| 01-02 | 🧊 Glacian Apex     | Earth+Water | [Arallu](locales/arallu)^    | [Selva](locales/selva)^      | [RUP](locales/rup)^          | [Trell](locales/trell)^      |
-| 02-03 | 🌊 Aquan Apex       | Water       | [Ocean](locales/cognitutus)  | [Elyria](locales/elyria)     | [Mountain](locales/mountain) | [Zephyr](locales/zephyr)     |
-| 03-04 | 🌀 Procellan Apex   | Water+Air   | [Trell](locales/trell)       | [Arallu](locales/arallu)     | [Selva](locales/selva)       | [RUP](locales/rup)           |
+|  When | Event               | Element(s)  | Summer<br>Solstice              | Autumn<br>Equinox               | Winter<br>Solstice              | Spring<br>Equinox               |
+|------:|---------------------|-------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| 12-01 | 🌑 New Moon         |             |                                 |                                 |                                 |                                 |
+| 01-02 | 🧊 Glacian Apex     | Earth+Water | [Arallu](../locales/arallu)^    | [Selva](../locales/selva)^      | [RUP](../locales/rup)^          | [Trell](../locales/trell)^      |
+| 02-03 | 🌊 Aquan Apex       | Water       | [Ocean](../locales/cognitutus)  | [Elyria](../locales/elyria)     | [Mountain](../locales/mountain) | [Zephyr](../locales/zephyr)     |
+| 03-04 | 🌀 Procellan Apex   | Water+Air   | [Trell](../locales/trell)       | [Arallu](../locales/arallu)     | [Selva](../locales/selva)       | [RUP](../locales/rup)           |
 | 04-05 | 🌓 Waxing Half-Moon |             |                              |                              |                              |                              |
-| 05-06 | 🌪 Auran Apex       | Air         | [Zephyr](locales/zephyr)     | [Ocean](locales/cognitutus)  | [Elyria](locales/elyria)     | [Mountain](locales/mountain) |
-| 06-07 | ⏳ Arenan Apex      | Air+Fire    | [RUP](locales/rup)\*         | [Trell](locales/trell)\*     | [Arallu](locales/arallu)\*   | [Selva](locales/selva)\*     |
+| 05-06 | 🌪 Auran Apex       | Air         | [Zephyr](../locales/zephyr)     | [Ocean](../locales/cognitutus)  | [Elyria](../locales/elyria)     | [Mountain](../locales/mountain) |
+| 06-07 | ⏳ Arenan Apex      | Air+Fire    | [RUP](../locales/rup)\*         | [Trell](../locales/trell)\*     | [Arallu](../locales/arallu)\*   | [Selva](../locales/selva)\*     |
 | 07-08 | 🌕 Full Moon        |             |                              |                              |                              |                              |
-| 08-09 | 🔥 Ignan Apex       | Fire        | [Mountain](locales/mountain) | [Zephyr](locales/zephyr)     | [Ocean](locales/cognitutus)  | [Elyria](locales/elyria)     |
+| 08-09 | 🔥 Ignan Apex       | Fire        | [Mountain](../locales/mountain) | [Zephyr](../locales/zephyr)     | [Ocean](../locales/cognitutus)  | [Elyria](../locales/elyria)     |
 | 09-10 | 🌗 Waning Half-Moon |             |                              |                              |                              |                              |
-| 10-11 | 🌋 Magman Apex      | Fire+Earth  | [Selva](locales/selva)       | [RUP](locales/rup)           | [Trell](locales/trell)       | [Arallu](locales/arallu)     |
-| 11-12 | 🌳 Terran Apex      | Earth       | [Elyria](locales/elyria)     | [Mountain](locales/mountain) | [Zephyr](locales/zephyr)     | [Ocean](locales/cognitutus)  |
+| 10-11 | 🌋 Magman Apex      | Fire+Earth  | [Selva](../locales/selva)       | [RUP](../locales/rup)           | [Trell](../locales/trell)       | [Arallu](../locales/arallu)     |
+| 11-12 | 🌳 Terran Apex      | Earth       | [Elyria](../locales/elyria)     | [Mountain](../locales/mountain) | [Zephyr](../locales/zephyr)     | [Ocean](../locales/cognitutus)  |
 
 ^ Short season: 61 days rather than the usual 92 in other regions.  
 \* Long season: 122 days rather than the usual 92 in other regions.
