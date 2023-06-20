@@ -3,6 +3,8 @@ nav-title: Nerull
 title: Nerull, Goddess of Darkness, Death, and Doom
 image: https://cdn.obsidianportal.com/assets/129176/Azmoriel.gif
 image-source: https://a-world-of-blood-and-darkness.obsidianportal.com/wikis/the-pantheon
+image2: https://i.pinimg.com/originals/09/8e/c3/098ec3a0d78643b147a756933c73f209.jpg
+image2-source: https://www.pinterest.com/pin/121597258677589765/
 statbox:
   race: eternal
   gender: female
