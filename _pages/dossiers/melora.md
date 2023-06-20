@@ -2,6 +2,22 @@
 nav-title: Melora
 image: https://static.wikia.nocookie.net/dnd4/images/e/e5/Melora.jpg
 image-source: https://dnd4.fandom.com/wiki/Melora
+image2: https://i.pinimg.com/originals/75/0d/a3/750da3950b2bc51ac5f1792da16fd22b.jpg
+image2-source: https://www.pinterest.com/pin/357402920402448332/
+image3: https://i.pinimg.com/236x/bb/80/f1/bb80f1c35c547ee79e7348a01faaff69.jpg
+image3-source: https://www.pinterest.com/pin/9218374225747244/
+image4: https://www.worldanvil.com/uploads/images/0db2f226d827ea9c0ae62a0b8b290853.jpg
+image4-source: https://www.worldanvil.com/w/abios-sirelghinn/a/umberlee-article
+image5: https://i.pinimg.com/originals/cb/65/a5/cb65a56df4de0b685cfdf48cf40e594e.jpg
+image5-source: https://www.pinterest.com/pin/519391769518156124/
+image6: https://i.pinimg.com/originals/b1/a5/d3/b1a5d32427f275802d0add94aa9c35b8.jpg
+image6-source: https://www.pinterest.com/pin/563442603375919259/
+image7: https://i.pinimg.com/originals/bd/8f/9f/bd8f9f2545006168c38740751babe28e.jpg
+image7-source: https://www.pinterest.com/pin/1477812358049317/
+image8: https://i.pinimg.com/originals/1d/79/1c/1d791caeac36aa5cdad3730621615ac9.jpg
+image8-source: https://www.pinterest.com/pin/516014069800037736/
+image9: https://i.pinimg.com/originals/f0/87/3e/f0873e3f91e77ee139ad77cf94b8b484.jpg
+image9-source: https://www.pinterest.com/pin/681239881130038859/
 title: Melora, Goddess of the Sea and the Wilds
 statbox:
   race: eternal
