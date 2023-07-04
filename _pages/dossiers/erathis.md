@@ -34,3 +34,5 @@ links:
 * Work with others to achieve your goals. Community and order are always stronger than individuals.
 * Tame the wilderness to make it fit for habitation, and defend the light of civilization against darkness.
 * Seek out new ideas, inventions, lands and wilderness. Build machines, cities and empires.
+* Accumulate, preserve, and distribute knowledge in all forms. Pursue education, build libraries, and seek out lost and ancient lore.
+* Be watchful at all times for those who seek to control knowledge and keep secrets. Oppose their schemes, unmask their secrets, and blind them with the light of truth and reason.

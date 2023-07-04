@@ -39,3 +39,7 @@ No deity declares anything but veneration for Io. although followers of
 [Gruumsh](gruumsh) sometimes express the belief that Io's embodiment of peace
 does not stand in opposition to war&mdash;merely that there is a balance to all
 things, including war and peace.
+
+## Precepts
+
+TODO

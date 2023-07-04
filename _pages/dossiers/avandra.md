@@ -51,4 +51,8 @@ links:
 - 5E Greek|https://5e.tools/deities.html#dionysus_greek_phb
 ---
 
-[Avandra](https://dnd4.fandom.com/wiki/Avandra)
+## Precepts
+
+* Luck favors the bold. Take your fate into your own hands, and Avandra smiles upon you.
+* Strike back against those who would rob you of your freedom and urge others to fight for their own liberty.
+* Change is inevitable, but it takes the work of the faithful to ensure that change is for the better.

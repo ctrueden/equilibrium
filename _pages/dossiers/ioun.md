@@ -42,4 +42,7 @@ links:
 - Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Istus
 ---
 
-TODO
+## Precepts
+
+* Seek the perfection of your mind by bringing reason, perception, and emotion into balance with one another.
+* TODO

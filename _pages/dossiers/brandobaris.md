@@ -32,3 +32,7 @@ links:
 ---
 
 [Brandobaris](https://wewererogue.tumblr.com/post/188179601981/brandobaris-a-patron-deity-for-thieves-from)
+
+## Precepts
+
+TODO

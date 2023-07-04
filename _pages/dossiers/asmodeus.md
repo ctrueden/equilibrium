@@ -39,3 +39,9 @@ links:
 ---
 
 Wannabe deity.
+
+## Precepts
+
+* Live according to your own will&mdash;do not allow others to control you with their supposed rules.
+* Impose your will on those less strong-minded, so that you may achieve the outcomes you seek.
+* Strive to win by any means necessary. Those who do not cheat are destined to lose.
