@@ -1,12 +1,12 @@
 ---
-title: "[14e00] Assemblage and Absolution"
+title: "[14e01] Enigma at Evershroud Manor"
 description: >-
   TODO
-datestamp: 50-06-01/00
-when: AC50 Vis
-session-number: 62
-session-date: 2023-05-13
-session-event: https://www.facebook.com/events/1191545644865411/
+datestamp: 50-06-03/01
+when: AC50 Vis 03
+session-number: 63
+session-date: 2023-07-29
+session-event: https://www.facebook.com/events/285891037420798/
 ---
 
-Several weeks have passed since the incident at Alye'adu. The SPI has been working to rebuild its infrastructure and reestablish operations after the Flux incursion into [SPI HQ](../locales/spi-hq). Little by little, things are returning to normal...
+TBD
