@@ -1,7 +1,7 @@
 ---
-title: Age of Titans
+title: The Age of Titans
 datestamp: 00-01-00
-when: When the world was young
+when: The 1st age
 ---
 
 The Age of Titans was a legendary golden age, when [Aecus](../locales/aecus) was young and still half-formed, and the [Titans](../creatures/titans) ruled the cosmos.

@@ -1,7 +1,7 @@
 ---
-title: Age of Zas
+title: The Age of Zas
 datestamp: 00-02-00
-when: "BAC100000"
+when: The 2nd age
 ---
 
 The Age of Zas is a time long past, when [Aecus](../locales/aecus) was overseen by a benevolent deity called [Zas](../dossiers/zas). It is said that Zas, with the aid of many other eternals, [overthrew the tyranny of the Titans](titanomachy), ushering in a new era of peace and prosperity for mortalkind.

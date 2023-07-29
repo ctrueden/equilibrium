@@ -87,7 +87,7 @@ exception.
   order known as the [Luminous Defenders](orgs/luminous-defenders).
 * \[W\] [Cognitutus](locales/cognitutus) -
   A great [gnomish](creatures/gnomes) city, which disappeared during the
-  [War of Countless Dead](events/war-of-countless-dead).
+  [War of Countless Dead](events/necromachy).
 * \[SE\] [The Selva Tribes](locales/selva) -
   [Orcish](creatures/orcs) tribes that vie for control of southeast rainforest
   territory.
@@ -100,9 +100,9 @@ exception.
 
 ## The War of Countless Dead, and the Aecus Concord
 
-For decades, [the world was at war](events/war-of-countless-dead). The initial
-cause of the conflict is a topic of frequent historical debate&mdash;every
-nation tells it differently. After all, every country has reasons they hate the
+For decades, [the world was at war](events/necromachy). The initial cause
+of the conflict is a topic of frequent historical debate&mdash;every nation
+tells it differently. After all, every country has reasons they hate the
 others&mdash;especially their neighbors. But there are a few facts upon which
 everyone agrees:
 
