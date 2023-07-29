@@ -9,4 +9,4 @@ statbox:
   case: "14"
 ---
 
-A servant of [Lestache de Lyarcourt](lestache-de-lyarcourt).
+A goliath revenant, bodyguard of [Lestache de Lyarcourt](lestache-de-lyarcourt).
