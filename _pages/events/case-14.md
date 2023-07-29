@@ -1,5 +1,5 @@
 ---
-title: "[Case 14] Enigmas and Eternities"
+title: "[Case 14] Animus and Annihilation"
 description: >-
     TODO
 datestamp: 50-06-03/00
