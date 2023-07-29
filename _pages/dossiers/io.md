@@ -3,6 +3,10 @@ nav-title: Io
 title: Io, Deity of Balance and Peace
 image: https://qph.fs.quoracdn.net/main-qimg-41073290295e0fa8c4d83cf5ae02b684
 image-source: https://www.quora.com/Whats-the-strongest-dragon-in-Dungeons-Dragons
+image2: https://i.pinimg.com/originals/6e/48/f6/6e48f648793e4d0a9486fe25fc8efa09.jpg
+image2-source: https://www.pinterest.com/pin/350225308536455437/
+image3: https://i.pinimg.com/originals/90/6b/64/906b64e058bb8c78866aefbce5dc7afb.jpg
+image3-source: https://www.pinterest.com/pin/829366087640184868/
 statbox:
   race: [eternal, dragon]
   gender: none

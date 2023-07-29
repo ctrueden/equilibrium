@@ -40,6 +40,7 @@ links:
 - 5E Exandria|https://5e.tools/deities.html#ioun_exandria_egw
 - 5E Greyhawk|https://5e.tools/deities.html#istus_greyhawk_phb
 - Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Istus
+- Wolfpack Legends|https://wolfpack-legends-dd.fandom.com/wiki/Ioun
 ---
 
 ## Precepts

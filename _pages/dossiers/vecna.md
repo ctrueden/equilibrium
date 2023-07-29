@@ -1,8 +1,10 @@
 ---
 nav-title: Vecna
 title: Vecna, Goddess of Secrets and Undeath
-image: https://i.pinimg.com/originals/dd/fd/d4/ddfdd4408af970f5d7ef7d418cb4fdd8.png
-image-source: https://www.pinterest.com/pin/431712314295480833/
+image: https://i.pinimg.com/originals/94/b7/99/94b7992cc359db3087324f9a4cf66f26.jpg
+image-source: https://www.pinterest.com/pin/314407617711365328/
+image2: https://i.pinimg.com/originals/dd/fd/d4/ddfdd4408af970f5d7ef7d418cb4fdd8.png
+image2-source: https://www.pinterest.com/pin/431712314295480833/
 image-classic: https://upload.wikimedia.org/wikipedia/en/9/98/Vecna%2C_as_portrayed_in_3rd_Edition.jpg
 image-classic-source: https://en.wikipedia.org/wiki/Vecna
 statbox:
@@ -37,6 +39,7 @@ links:
 - 5E Dawn War|https://5e.tools/deities.html#vecna_dawn%20war_dmg
 - 5E Exandria|https://5e.tools/deities.html#vecna_exandria_egw
 - 5E Greek|https://5e.tools/deities.html#hecate_greek_phb
+- Wolfpack Legends|https://wolfpack-legends-dd.fandom.com/wiki/Vecna
 ---
 
 ## Precepts

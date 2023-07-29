@@ -45,6 +45,7 @@ links:
 - 5E Dawn War|https://5e.tools/deities.html#raven%20queen_dawn%20war_dmg
 - 5E Exandria|https://5e.tools/deities.html#the%20raven%20queen_exandria_egw
 - 5E Greek|https://5e.tools/deities.html#hades_greek_phb
+- Wolfpack Legends|https://wolfpack-legends-dd.fandom.com/wiki/Raven_Queen
 ---
 
 ## Precepts
