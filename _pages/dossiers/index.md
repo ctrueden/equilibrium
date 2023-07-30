@@ -31,7 +31,7 @@ title: Dossiers
       <option value="11">[11] Hardships and Homecomings | Cognitutus</option>
       <option value="12">[12] Burglary and Blight | Elyria</option>
       <option value="13">[13] Facts and Facsimiles | Selva/Veldt</option>
-      <option value="14">[14] Assemblage and Absolution | SPI HQ</option>
+      <option value="14">[14] Animus and Annihilation | SPI HQ</option>
     </select>
   </span>
   <span class="item">
