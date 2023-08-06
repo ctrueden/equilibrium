@@ -18,4 +18,4 @@ links:
 - Wikipedia|https://en.wikipedia.org/wiki/Zeus
 ---
 
-Legendary fathergod of [ancient times](../events/age-of-zas). Might be apocryphal.
+Legendary fathergod of [ancient times](../events/age-02). Might be apocryphal.
