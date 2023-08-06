@@ -1,4 +1,4 @@
----
+--
 title: "[14e01] Enigma at Evershroud Manor"
 description: >-
   TODO
@@ -54,3 +54,84 @@ At the all-staff meeting: various agents share information about current events:
 Feathersworth has arranged for the Arallan representatives to meet at the SPI outpost in Reena'seere.
 
 Mallory approves Cal & company's request to join Feathersworth for the Arallu meeting. But he warns them that that there is a very delicate balance of power in Arallu, and that the actions the agents take could disrupt that balance and lead to world instability.
+
+----------------------
+
+## Callie's Journal
+
+*The Hills Have Malachais*
+
+We have some time off! We need to be back for the all-staff meeting on Woodsday the 3rd.
+
+Mallory asks Callie and Bec to help repair the ol' HQ, which is pretty trashed.
+
+Bec goes to see the elves and is presented with the spellbooks of Sartus Morningdew. They think that if anyone can use his books to the best effect, it's Bec. Aww!
+
+Oz decides to go to "Gnome Vegas" to cheat at the casinos. He succeeds! But then Leopold shows up and says "We've been looking for you!" Oz tips the dealer 10% of his winnings and says to always remember the name of Freki the werewolf!
+
+Cal hangs out at HQ to fix up the training room. He also talks to Mallory and spars with Cassandra (who is boosting her AC with magic). She has some cool magic that makes people not want to hit her. She also tells him his sword synergizes with divine casting. Neat!
+
+Callie goes back to see Gavin at the Emporium. She asks whether he has anything that can help repair HQ. Then, holding a bottle of glue that can stick anything to anything (Sovreign Glue) and a Cube of Mending, she has a vision of a door behind which is the promise of infinite, forbidden knowledge. AND a secret that only Callie can know. She could use the items to seal the door forever OR go in there, get the secrets, and THEN seal it! But before she can make a decision, the vision ends. Gavin asks if she saw tomorrow's lottery numbers and suggests that she come back sometime when she doesn't need anything, just to see him. Aww!
+
+### All-Staff Meeting
+
+Rain the Owlbear, Cassandra, Mallory, Squeaks McKraken, Victor Rocksmith, and Lawrence Feathersworth are all there.
+
+Oz comes in late, when we're recapping the World Tree events.
+
+Mallory congratulates us on saving the World Tree and giving the Necronomicon to the elves. Although we did piss off the RUP by stealing their artifact.
+
+Squeaks McKraken opened an outpost under the mountain, not the same one as the old, sealed off outpost. The dwarves refused to reopen that one because there's a flux leak down there. Squeaks thinks the leak originated in the old SPI outpost and is slowly spreading karach.
+
+Victor Rocksmith set up an outpost in Trell, his homeland. St. Benedor has had a vision that a hurricane will come and rejuvenate the desert that we destroyed by stealing their cornucopia. Unfortunately, the dragons of Zephyr plan to stop the hurricane to prevent it from damaging the Sky Realm. Victor investigated the origin of the hurricane and found it emerged from one of the Trell magic lighthouses. They absorb storm energy, but are not supposed to let any out.
+
+Lawrence Feathersworth opened his outpost in his hometown, Reena'seere, a half-elven city that Bec is also from. Some reps from Arallu came out to see him. He arranged a meeting with them for tomorrow over lunch to hear more about their request. Basically, a manor belonging to one of their leaders has begun radiating positive energy and they can't enter it. They need someone living to investigate it.
+
+Bec is interested in Cassandra's lack of shadow. Weird! Cassandra suggests letting the monkey out. The monkey nuzzles Oz, then hops over to Cassandra. The monkey has two shadows!! One of them is Cassandra's shadow. The monkey barks at the shadow and poofs back into the statue.
+
+After the meeting ends, Freki sniffs around to grab any DNA in case he needs to find these people later. He doesn't get any from Mallory or Rain, but he does get a hair from each of the others.
+
+Mallory warns us that the balance of power in Arallu needs to stay balanced. If any of the three factions gains too much power, it could be a disaster.
+
+### Reena'seere
+
+Feathersworth tells us that he has no money (on account of being a statue for centuries), but he has repurposed a B&B for his outpost. He apologizes for the dinginess of the place, and makes us tea! It's slightly chilly, so he starts a fire in the fireplace. He's great!
+
+At noon, three figures teleport inside: Grim Tanzerin, Lestache de Lyarcourt, and Malachai Hawthorne. Bec sees that Lestache has some magical items, Grim's chain is magical, and Malachai is filled with transmutation magic.
+
+Lyarcourt introduces Hawthorne, but Bec has to ask about Grim. Lyarcourt says he's "nobody, protection." Lyarcourt totally has some tea. Cal thinks maybe he has heard of Malachai. Malachai is one of Invictus's top lieutenants. Supposedly Malachai ripped out his own heart and replaced it with a spirit trapped in a gemstone to avoid dying of old age. He isn't exactly undead himself, but this is obviously some real dark magic. Cal thinks Lestache is some kind of vampire nobility.
+
+Malachai was apparently a witness to whatever happened at Evershroud Manor. He says there was an explosion of energy and he barely teleported out in time. He was near the Chamber of Whispers. He thinks the energy came from inside the Chamber. Invictus may or may not have been in the Chamber. 
+
+Lestache says that, according to his sources, the explosion source was the basement. He's going to share everything he knows as a courtesy, so we don't all die. Such a sweetie. It's hard to read whether he's lying or just oily.
+
+Malachai seems to have a deep desire to direct us to the Chamber of Whispers, though why is unclear. Additionally, Callie senses that he is anticipating us going there, so something will happen.
+
+Lestache and Malachai are very not agreed on where they think we should go.
+
+The Triumvirate (https://ctrue.name/equilibrium/creatures/undead):
+ -Timor Invictus is the archmage, he's the one who's missing.
+ -The Brucolac is the head of the vampires. Lestache serves him.
+ -Janus Ilaris is a spirit and head of...spirits? We've seen him around, possessing people at times.
+
+Malachai describes the manor. There's a study where Invictus does divination, some bedrooms, an art gallery. In the gallery is door to the whispering chamber. Malachai says the basement doesn't matter. Lestache wants to talk about the basement! That's where the lich has his crypts and builds his undead horde. Lestache thinks Invictus lost control of one of his magical artifacts and that's what caused the explosion. We'll see about that!
+
+### Evershroud Manor
+
+We are teleported by Malachai. It's a normal teleport, but we won't be able to get back on our own (the spell is too high level for us). When we get there, we feel great from the radiant energy, but the undeads aren't comfy.
+
+Malachai hands Feathersworth a bag and starts casting a spell. Bec realizes that the spell is to turn Feathersworth into a puppet! She tells us that the spell is dangerous and Lestache tries to stop Malachai but Malachai doesn't stop casting.
+
+Cal whips out his sword to slice off Malachai's arm, but before he can move, Oz stabs Malachai in the gut with the hornblade. Malachai stops casting, but doesn't seem all that upset? Then suddenly a creature kind of emerges from Malachai and then his face reassembles. Gross! 
+
+The creature claims that he saw what he saw and is definitely not lying. Bec and Cal are 100% sure he is lying. He didn't see anything, that eyeless bastard! He tries to run away, seeing that we are now hostile, but Freki nabs him with a grapple arrow and Cal incinerates him with his sword.
+
+Lestache says he'll investigate what that whole thing was about. Bec asks him directly if he knows about Totenmasks, but he says he doesn't. Callie thinks he's probably telling the truth, but it's hard to say.
+
+As we approach the entrance, we see that there's no sky. It appears to be inside an enormous dome or maybe underground? This is similar to the dwarf caves, but grander. It looks like outside, but dimmer. Rays of light are shooting out the windows.
+
+Let's go in!
+
+The front door is slightly ajar. Oz and Cal just waltz on in.
+
+A figure appears on the grand staircase with black bird wings. She says, "Halt. Pledge your service to me, leave, or die."

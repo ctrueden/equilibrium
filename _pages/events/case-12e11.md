@@ -99,3 +99,19 @@ Book is encased in translucent crystal.
 TODO -- describe how the party got the Book out of there, and performed the ritual to erase the writings.
 
 Meanwhile, Oz steals the Ioun Stone of Mastery! But he accidentally cracks it when he uses the Hornblade to split the crystal casing. It has 9/10 HP remaining.
+
+---------------------
+
+## Callie's Journal
+
+There is some heavy-duty illusion magic going on here with Dark Oz/Janus/Tybalt. Sartus is totally taken in, maybe because this is what he feared would happen. He yells at us to flee, and runs towards the door himself.
+
+These things are illusory, but whatever they really are, they're sending waves of terror out at us. I cast Calm Emotions at level 2 to try to reduce the effect.
+
+A giant appears and tosses two things out of its pack or pocket: a samurai owlbear and Bec's father, all disconnected from the tree and looking very undead.
+
+I cast Spiritual Weapon at level 4, so damage is 2d8 plus my spellcasting modifier (7).
+
+After the battle, Freki and Vondal were pretty wounded, so I cast Prayer of Healing at level 5. 4+5+4+8+7+(7) = 35
+
+As we all pray/cast ritual magic on the book, I am forced to contribute 3 more spell slots toward the spell. I contribute one level 4, one level 3, and one level 1.
