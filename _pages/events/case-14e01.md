@@ -110,9 +110,9 @@ Malachai seems to have a deep desire to direct us to the Chamber of Whispers, th
 Lestache and Malachai are very not agreed on where they think we should go.
 
 The Triumvirate (https://ctrue.name/equilibrium/creatures/undead):
- -Timor Invictus is the archmage, he's the one who's missing.
- -The Brucolac is the head of the vampires. Lestache serves him.
- -Janus Ilaris is a spirit and head of...spirits? We've seen him around, possessing people at times.
+- Timor Invictus is the archmage, he's the one who's missing.
+- [The Brucolac](../dossiers/brucolac) is the head of the vampires. Lestache serves him.
+- [Janus Ilaris](../dossiers/janus-ilaris) is a spirit and head of...spirits? We've seen him around, possessing people at times.
 
 Malachai describes the manor. There's a study where Invictus does divination, some bedrooms, an art gallery. In the gallery is door to the whispering chamber. Malachai says the basement doesn't matter. Lestache wants to talk about the basement! That's where the lich has his crypts and builds his undead horde. Lestache thinks Invictus lost control of one of his magical artifacts and that's what caused the explosion. We'll see about that!
 
