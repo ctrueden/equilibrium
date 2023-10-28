@@ -130,6 +130,8 @@ Lestache says he'll investigate what that whole thing was about. Bec asks him di
 
 As we approach the entrance, we see that there's no sky. It appears to be inside an enormous dome or maybe underground? This is similar to the dwarf caves, but grander. It looks like outside, but dimmer. Rays of light are shooting out the windows.
 
+[![](https://waddesdon-live.s3-eu-west-1.amazonaws.com/wp-content/uploads/2019/06/Manor-illuminations-Christmas-at-Waddesdon-Yes-Events-2100-1313-2000x1250.jpg){:style="width:400px"}](https://waddesdon.org.uk/special-christmas-packages/)
+
 Let's go in!
 
 The front door is slightly ajar. Oz and Cal just waltz on in.
