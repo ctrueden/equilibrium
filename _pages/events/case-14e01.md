@@ -128,12 +128,22 @@ The creature claims that he saw what he saw and is definitely not lying. Bec and
 
 Lestache says he'll investigate what that whole thing was about. Bec asks him directly if he knows about [totenmaskes](../creatures/totenmaskes), but he says he doesn't. Callie thinks he's probably telling the truth, but it's hard to say.
 
-As we approach the entrance, we see that there's no sky. It appears to be inside an enormous dome or maybe underground? This is similar to the dwarf caves, but grander. It looks like outside, but dimmer. Rays of light are shooting out the windows.
+As we approach the entrance, we see that there's no sky. It appears to be inside an enormous dome or maybe underground? This is similar to the dwarf caves, but grander. It looks like outside, but dimmer.
 
-[![](https://waddesdon-live.s3-eu-west-1.amazonaws.com/wp-content/uploads/2019/06/Manor-illuminations-Christmas-at-Waddesdon-Yes-Events-2100-1313-2000x1250.jpg){:style="width:400px"}](https://waddesdon.org.uk/special-christmas-packages/)
+[![](https://i.pinimg.com/originals/18/96/c3/1896c310050a7c76c10fd741319fb546.jpg)](https://www.pinterest.com/pin/guild-trash-concept-inspo--9218374228663639/)
+
+Rays of light are shooting out the windows. Similar to this:
+
+[![](https://waddesdon-live.s3-eu-west-1.amazonaws.com/wp-content/uploads/2019/06/Manor-illuminations-Christmas-at-Waddesdon-Yes-Events-2100-1313-2000x1250.jpg){:style="max-width:min(100%,400px)"}](https://waddesdon.org.uk/special-christmas-packages/)
 
 Let's go in!
 
 The front door is slightly ajar. Oz and Cal just waltz on in.
 
+[![](https://i.pinimg.com/originals/b4/b1/c2/b4b1c25351a15be463e379bb7a9536ce.png){:style="max-width:min(100%,400px)"}](https://www.pinterest.com/pin/291397038380695823/)
+
 A figure appears on the grand staircase with black bird wings. She says, "Halt. Pledge your service to me, leave, or die."
+
+<!-- [![](https://i.pinimg.com/originals/a5/36/4a/a5364ac55c254a25868bb3ec36f6556e.png){:style="max-width:min(100%,400px)"}](https://www.pinterest.com/pin/330733166390542925/) -->
+[![](https://i.pinimg.com/originals/5a/b4/29/5ab429534737597e0dc7e6b1e0c58d47.jpg){:style="max-width:min(100%,400px)"}](https://www.pinterest.com/pin/19210735885094276/)
+
