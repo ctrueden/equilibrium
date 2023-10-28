@@ -126,7 +126,7 @@ Cal whips out his sword to slice off Malachai's arm, but before he can move, Oz 
 
 The creature claims that he saw what he saw and is definitely not lying. Bec and Cal are 100% sure he is lying. He didn't see anything, that eyeless bastard! He tries to run away, seeing that we are now hostile, but Freki nabs him with a grapple arrow and Cal incinerates him with his sword.
 
-Lestache says he'll investigate what that whole thing was about. Bec asks him directly if he knows about Totenmasks, but he says he doesn't. Callie thinks he's probably telling the truth, but it's hard to say.
+Lestache says he'll investigate what that whole thing was about. Bec asks him directly if he knows about [totenmaskes](../creatures/totenmaskes), but he says he doesn't. Callie thinks he's probably telling the truth, but it's hard to say.
 
 As we approach the entrance, we see that there's no sky. It appears to be inside an enormous dome or maybe underground? This is similar to the dwarf caves, but grander. It looks like outside, but dimmer. Rays of light are shooting out the windows.
 
