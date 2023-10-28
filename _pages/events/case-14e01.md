@@ -97,7 +97,7 @@ Mallory warns us that the balance of power in Arallu needs to stay balanced. If 
 
 Feathersworth tells us that he has no money (on account of being a statue for centuries), but he has repurposed a B&B for his outpost. He apologizes for the dinginess of the place, and makes us tea! It's slightly chilly, so he starts a fire in the fireplace. He's great!
 
-At noon, three figures teleport inside: Grim Tanzerin, Lestache de Lyarcourt, and Malachai Hawthorne. Bec sees that Lestache has some magical items, Grim's chain is magical, and Malachai is filled with transmutation magic.
+At noon, three figures teleport inside: [Grim Tanzerin](../dossiers/grim-tanzerin), [Lestache de Lyarcourt](../dossiers/lestache-de-lyarcourt), and [Malachai Hawthorne](../dossiers/malachai-hawthorne). Bec sees that Lestache has some magical items, Grim's chain is magical, and Malachai is filled with transmutation magic.
 
 Lyarcourt introduces Hawthorne, but Bec has to ask about Grim. Lyarcourt says he's "nobody, protection." Lyarcourt totally has some tea. Cal thinks maybe he has heard of Malachai. Malachai is one of Invictus's top lieutenants. Supposedly Malachai ripped out his own heart and replaced it with a spirit trapped in a gemstone to avoid dying of old age. He isn't exactly undead himself, but this is obviously some real dark magic. Cal thinks Lestache is some kind of vampire nobility.
 
