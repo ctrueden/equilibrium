@@ -1,5 +1,5 @@
 ---
-title: "[14e01] Enigma at Evershroud Manor"
+title: "[14e01] The Hills Have Malachais"
 description: >-
   TODO
 datestamp: 50-06-03/01
@@ -58,8 +58,6 @@ Mallory approves Cal & company's request to join Feathersworth for the Arallu me
 ----------------------
 
 ## Callie's Journal
-
-*The Hills Have Malachais*
 
 We have some time off! We need to be back for the all-staff meeting on Woodsday the 3rd.
 
