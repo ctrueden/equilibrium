@@ -86,13 +86,77 @@ Bec wanders away to look at the portal. She knows a lot about portals and can se
 
 Cal looks at the paper with the figures and notices that all the people represented are the ones invited to the undead party before! Nice one, Cal!
 
-Everyone gathers around and tries to figure out the paper with the tokens and symbols. Vondal figures out that the elements correspond to the magic domains. I'm confused about why Avandra and Erathis are on here under two things, when each represents just one domain. Also, the combined form is also on this chart. What?
+Everyone gathers around and tries to figure out the paper with the tokens and symbols. Vondal figures out that the elements correspond to the magic domains:
+
+* Water -- Knowledge
+* Storm -- Tempest
+* Air -- Trickery
+* Sand -- Life
+* Fire -- Light
+* Magma -- War
+* Earth -- Nature
+* Ice -- Death
+
+I'm confused about why [Avandra](../dossiers/avandra) and [Erathis](../dossiers/erathis) are on here under two things, when each represents just one domain. Also, [the combined form](../dossiers/ioun) is also on this chart. What?
 
 Cal is inspired and getting this thing solved! Freki is also coming in strong on this puzzle! It occurs to Freki that every square is covered and only one god occupies each one. Maybe this is an illustration of the lines of power in the world? 
 
-Munin speaks to Freki and says he needs to activate the portal.
+|               | Water     | Storm         | Air           | Sand          | Fire       | Magma     | Earth      | Ice       |
+|           | Knowledge | Tempest       | Trickery      | Life       | Light      | War       | Nature     | Death     |
+|---------------|-----------|---------------|---------------|---------------|------------|-----------|------------|-----------|
+| **Knowledge** |         ? |
+| **Tempest**   | [Vondal]  |             ? |
+| **Trickery**  | [Ioun]    | [Brandobaris] |             ? |
+| **Life**      | [Sartus]^ | [Callie]      | [Avandra]     |          ?    |
+| **Light**     | [Moradin] | [Invictus]*   | [Tybalt]*     | [Pelor]       | [Hyperion] |
+| **War**       | [Erathis] | [Kord]        | (spider)      | [Bahamut]     | [Sune]     |         ? |
+| **Nature**    | [Bec]     | [Melora]      | [Sehanine]    | (cornucopia@) | [Corellon] | [Gruumsh] | [Gaia]     |
+| **Death**     | [Vecna]   | [Bram]        | [Oz]          | [Nerull]      | [Cal]      | [Tiamat]  | [Freki]    |         ? |
 
-On the Nature/Nature square is a symbol representing the Divine Mother Gaia, perhaps the source of all life. She predates the eternals, according to legend. Cal recognizes the symbol as appearing once on a letter his father got once. He mentions that his dad claimed that he "used to be a god" and talked about things he would do if he still had his full power.
+^ = prone figure  
+\* = darkened square  
+@ = scratched out  
+\+ 8 mystery symbols on the diagonal
+
+We spent quite some time figuring this out!
+
+| Eternals      | Elements         | Domains               |
+|---------------|------------------|-----------------------|
+| Corellon      | Fire + Earth     | Light + Nature        |
+| Avandra       | Sand + Air       | Life + Trickery       |
+| Erathis       | Magma + Water    | War + Knowledge       |
+| Ioun          | Air + Water      | Trickery + Knowledge  |
+| Moradin       | Water + Fire     | Knowledge + Light     |
+| Vecna         | Water + Ice      | Knowledge + Death     |
+| Brandobaris   |
+| Kord          | Magma            |
+| Melora        |
+| (spider)      | Magma + Air      | War + Trickery        |
+| Sehanine      |
+| Pelor         | Fire + Sand      | Light + Life          |
+| Bahamut       | Magma
+| (cornucopia@) | Earth + Sand     | Nature + Life         |
+| Nerull        | Sand + Ice       | Life + Death          |
+| Sune          | Magma            |
+| Gruumsh       |
+| Tiamat        |
+
+| Mortals       | Elements         | Domains               |
+|---------------|------------------|-----------------------|
+| Bec           | Water + Earth    | Knowledge + Nature    |
+| Cal           | Fire + Ice       | Light + Death         |
+| Callie        | Storm + Sand     | Tempest + Life        |
+| Freki         | Earth + Ice      | Nature + Death        |
+| Oz            | Air + Ice        | Trickery + Death      |
+| Vondal        | Water + Storm    | Knowledge + Tempest   |
+| Bram          | Storm + Ice      | 
+| Sartus^       | Water + Sand     | 
+| Tybalt*       | Air + Fire       | Trickery  + Light     |
+| Invictus*     | Fire + Storm     | Light + Tempest       |
+
+[Munin](../dossiers/munin) speaks to Freki and says he needs to activate the portal.
+
+On the Nature/Nature square is a symbol representing the [Divine Mother Gaia](../dossiers/gaia), perhaps the source of all life. She predates the [eternals](../creatures/eternals), according to legend. Cal recognizes the symbol as appearing once on a letter [his father](../creatures/hyperion) got once. He mentions that his dad claimed that he "used to be a god" and talked about things he would do if he still had his full power.
 
 It turns out that when we touch our own symbols, they light up, wow! But before we can activate the portal, Vondal and Cal leave to check out the basement. Down there are servant's quarters, more stairs leading down to the crypt, and a door with some evil-looking glyphs. Vondal thinks it looks like a lock of some kind.
 
@@ -110,7 +174,7 @@ Cal wanders off while Vondal converses with the spirit. Eventually Vondal comes 
 
 Through the portal is a mirror with a cloth on it. Vondal mentioned before that the butler said Invictus could see the future and sometimes the past, when he looked in the mirror. The edges of the room just fade away into nothing, as if we're always in the middle of the room no matter how far we walk.
 
-Oz holds up the hornblade and uses it to cast light around. The room gets bigger, but there doesn't seem to be anyone or anything else there. Munin seemed veiled before but now seems clear. Hugin was clear before and is now veiled. Munin tells Freki to accept his destiny.
+Oz holds up the hornblade and uses it to cast light around. The room gets bigger, but there doesn't seem to be anyone or anything else there. Munin seemed veiled before but now seems clear. [Hugin](../dossiers/hugin) was clear before and is now veiled. Munin tells Freki to accept his destiny.
 
 Vondal yanks the cover off the mirror and Munin is perched atop it! Munin says this is their domain, the domain of memory. Glancing at the mirror, Freki sees flames. Munin says the mirror shows what Freki has forgotten. "This is where my parents died," Freki realizes. But he wasn't there when the village burned, so this can't be his memory.
 
@@ -125,3 +189,35 @@ The last thing Freki sees is Talos landing a finishing blow on his father.
 Vondal looks in the mirror and sees himself having a wild magic surge. All the SPI agents around him get sucked into some kind of singularity produced by the [Arkenstone](../relics/arkenstone). Vondal feels a divine presence and sees a dwarf-size (but metaphysically huge) entity called [Moradin](../dossiers/moradin). Vondal thinks it was a divine intervention that ultimately ended the wild magic surge.
 
 The mirror shatters!
+
+[Bec]: ../dossiers/bec
+[Cal]: ../dossiers/cal
+[Callie]: ../dossiers/callie
+[Freki]: ../dossiers/freki
+[Oz]: ../dossiers/oz
+[Vondal]: ../dossiers/vondal
+
+[Bram]: ../dossiers/bram-the-blithe
+[Sartus]: ../dossiers/sartus-morningdew
+[Tybalt]: ../dossiers/tybalt
+[Invictus]: ../dossiers/timor-invictus
+
+[Avandra]: ../dossiers/avandra
+[Bahamut]: ../dossiers/bahamut
+[Brandobaris]: ../dossiers/brandobaris
+[Corellon]: ../dossiers/corellon
+[Erathis]: ../dossiers/erathis
+[Gruumsh]: ../dossiers/gruumsh
+[Ioun]: ../dossiers/ioun
+[Kord]: ../dossiers/kord
+[Melora]: ../dossiers/melora
+[Moradin]: ../dossiers/moradin
+[Nerull]: ../dossiers/nerull
+[Pelor]: ../dossiers/pelor
+[Sehanine]: ../dossiers/sehanine
+[Sune]: ../dossiers/sune
+[Tiamat]: ../dossiers/tiamat
+[Vecna]: ../dossiers/vecna
+
+[Hyperion]: ../dossiers/hyperion
+[Gaia]: ../dossiers/gaia
