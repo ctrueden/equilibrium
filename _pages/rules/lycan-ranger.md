@@ -18,7 +18,7 @@ The lycan ranger is a hunter from the Selva wilderness with fearsome shapeshifti
 |  4th  |        +2         |               4               | Ability Score Improvement |
 |  5th  |        +3         |               4               | [Extra Attack](#extra-attack)
 |  6th  |        +3         |               5               | [Scent of Blood](#scent-of-blood), [Natural Explorer](https://www.dndbeyond.com/classes/ranger#NaturalExplorer-295) improvement |
-|  7th  |        +3         |               5               | Ranger Archetype feature(TODO) |
+|  7th  |        +3         |               5               | [Preternatual Reflexes](#preternatural-reflexes)
 |  8th  |        +3         |               6               | Ability Score Improvement, [Land's Stride](https://www.dndbeyond.com/classes/ranger#LandsStride-302) |
 |  9th  |        +4         |               6               | - |
 | 10th  |        +4         |               7               | [Natural Explorer](https://www.dndbeyond.com/classes/ranger#NaturalExplorer-295) improvement, [Hide in Plain Sight](https://www.dndbeyond.com/classes/ranger#HideinPlainSight-303) |
