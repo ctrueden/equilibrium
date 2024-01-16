@@ -11,15 +11,15 @@ session-event: https://www.facebook.com/events/2347533262301919/
 
 ## Callie's Journal
 
-Lady Nightshade challenges Callie to drink it again. Callie passes, but only barely and only with Vondal's help, again!
+[Lady Nightshade](../dossiers/ilyana-nightshade) challenges [Callie](../dossiers/callie) to drink it again. Callie passes, but only barely and only with [Vondal](../dossiers/vondal)'s help, again!
 
-Vondal shows her the SPI badge (?). She says, "You are the ones we need." She then swings her scythe and rips a hole in reality through which we can see the pulse of the Flux. She punches into the rift and grabs the Flux. It starts crawling up her arm. Gross! This could [give her immense power](https://youtu.be/1qlegJJ1RTA?t=487). Bec and Callie think that the Flux is using her more than the other way around, though.
+Vondal shows her the SPI badge (?). She says, "You are the ones we need." She then swings her scythe and rips a hole in reality through which we can see the pulse of the [Flux](../locales/flux). She punches into the rift and grabs the Flux. It starts crawling up her arm. Gross! This could [give her immense power](https://youtu.be/1qlegJJ1RTA?t=487). [Bec](../dossiers/bec) and Callie think that the Flux is using her more than the other way around, though.
 
-Freki shoots into the rift with a lightning arrow and the Flux snaps the angel's arm off at the elbow. She's kinda pissed! And also made out of mouths! The mouths shriek, "We will consume you aaaaaalllllll!"
+[Freki](../dossiers/freki) shoots into the rift with a lightning arrow and the Flux snaps the angel's arm off at the elbow. She's kinda pissed! And also made out of mouths! The mouths shriek, "We will consume you aaaaaalllllll!"
 
 [![](https://i.pinimg.com/originals/77/be/6b/77be6be97547963b4cd34e69c637c2a2.jpg){:style="max-height:300px"}](https://www.pinterest.com/pin/454441418662038437/)
 
-"We should kill these people," says Oz.
+"We should kill these people," says [Oz](../dossiers/oz).
 
 "How?!" demands Freki.
 
@@ -164,7 +164,9 @@ She predates the [eternals](../creatures/eternals), according to legend. Cal rec
 
 It turns out that when we touch our own symbols, they light up, wow! But before we can activate the portal, Vondal and Cal leave to check out the basement. Down there are servant's quarters, more stairs leading down to the crypt, and a door with some evil-looking glyphs. Vondal thinks it looks like a lock of some kind.
 
-Something floats out of the servant's quarters while Cal and Vondal are looking at the door. It's a giant neck-head thing followed by a suit. "You won't get in there," he says helpfully.
+Something floats out of the servant's quarters while Cal and Vondal are looking at the door. It's [a giant neck-head thing followed by a suit](../dossiers/roger). "You won't get in there," he says helpfully.
+
+[![](https://i.pinimg.com/originals/4f/29/27/4f292710e7b577e4637622a351ebf9e5.jpg){:style="max-height:300px"}](https://www.pinterest.com/pin/219339444324476393/)
 
 "I believe the Master is expecting us," says Cal ominously.
 
