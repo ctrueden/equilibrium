@@ -1,8 +1,10 @@
 ---
 title: Xoomish
+image: https://i.pinimg.com/originals/4a/5a/80/4a5a801d996837b7a27f664708cfdf6c.jpg
+image-source: https://www.pinterest.com/pin/427067977135999095/
 statbox:
   race: devil (imp)
-  color: red
+  color: green
   case: "04"
 ---
 
