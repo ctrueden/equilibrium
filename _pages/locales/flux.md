@@ -25,21 +25,28 @@ statbox:
 ---
 
 An uninhabitable zone bordering the nations.
-* All nations border the Flux, a nightmarish zone of ever-shifting reality. Those entering the Flux rarely survive, but those that do emerge changed and warped in unpredictable ways.
-* Near the edges, the Flux appears to be a normal scrubland. But as one delves deeper, the earth heaves, air bursts to smoke, the sky rains acid, the night freezes the clouds which fall like boulders, and fires spring to life, coalescing into gargantuan forms. People's minds twist, and as they go mad they physically contort into shapes defying all sanity and reason.
-* Sometimes, demons emerge from the Flux to threaten those foolish enough to have settled nearby.
-* A tower is visible deep within the Flux, nearly touching the sky. Some say it contains vast wealth beyond mortal imaginings, but no one has survived an expedition there.
-* Some sorcerers skirt the edge of the Flux to practice a style of magic known as wild magic. Most others believe them to be insane.
+
+All nations border the Flux, a nightmarish zone of ever-shifting reality. Those entering the Flux rarely survive, but those that do emerge changed and warped in unpredictable ways.
+
+Near the edges, the Flux appears to be a normal scrubland. But as one delves deeper, the earth heaves, air bursts to smoke, the sky rains acid, the night freezes the clouds which fall like boulders, and fires spring to life, coalescing into gargantuan forms. People's minds twist, and as they go mad they physically contort into shapes defying all sanity and reason.
+
+Sometimes, [demons](../creatures/demons) emerge from the Flux to threaten those foolish enough to have settled nearby.
+
+[A tower](tower-of-orsus) is visible deep within the Flux, nearly touching the sky. Some say it contains vast wealth beyond mortal imaginings, but no one has survived an expedition there.
+
+## Wild Magic
+
+Some sorcerers skirt the edge of the Flux to practice a style of magic known as [wild magic](http://dnd5e.wikidot.com/sorcerer:wild-magic). Most others believe them to be insane.
 
 ## Outbreaks
 
-Mallory tells the party that several new areas of Flux have emerged, including one where the Stormherd camp was, and another at the old SPI headquarters under the Mountain. He says that their colleague Audreth has been dispatched to Euphoria to research ways to combat their growth. Mallory stresses that the SPI's new top priority is to *prevent*, or failing that, *contain* explosions of wild magic from now on (e.g., like Cal tried to do by destroying the Flux weapon), until a way is found to reverse the Flux at these hotspots.
+[Mallory](../dossiers/mallory) tells the party that several new areas of Flux have emerged, including one where the [Stormherd](../locales/stormherd) camp was, and another at the old SPI headquarters under [the Mountain](../locales/mountain). He says that their colleague [Audreth](../dossiers/audreth) has been dispatched to [Euphoria](../locales/euphoria) to research ways to combat their growth. Mallory stresses that the [SPI](../orgs/spi)'s new top priority is to *prevent*, or failing that, *contain* explosions of wild magic from now on (e.g., like [Cal](../dossiers/cal) tried to do by destroying the Flux weapon), until a way is found to reverse the Flux at these hotspots.
 
-* (after case 05) The Temple of Symmetry was ultimately sucked into the unstable vortex which was created when Vondal disrupted the Zenithal Summit. Sonan the Scholar is dead, from the wounds he suffered curing Vondal. Ceowyn wants a place where he can meditate in seclusion, as recompense.
-* (after case 04) Growing where Brian was.
-* (discovered during case 03) Where first SPI HQ was.
-* (after case 06) Where Stormherd camp was.
-* (after case 08) Where circus was in the RUP.
+* (after [case 05](../events/case-05)) The [Temple of Symmetry](../locales/progression-of-symmetry) was ultimately sucked into the unstable vortex which was created when [Vondal](../dossiers/vondal) disrupted the Zenithal Summit. [Sonan the Scholar](../dossiers/sonan-the-scholar) is dead, from the wounds he suffered curing Vondal. [Ceowyn](../dossiers/ceowyn-mandragoran) wants a place where he can meditate in seclusion, as recompense.
+* (after [case 04](../events/case-04)) Growing where [Brian](../dossiers/brian-the-elder-brain) was.
+* (discovered during [case 03](../events/case-03)) Where [first SPI HQ was](../events/spi-fire).
+* (after [case 06](../events/case-06)) Where Stormherd camp was.
+* (after [case 08](../events/case-08)) Where circus was in the [RUP](../locales/rup).
 
 ## The Crystalline Flux
 
