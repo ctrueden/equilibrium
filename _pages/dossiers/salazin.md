@@ -9,5 +9,4 @@ statbox:
   case: "04"
 ---
 
-One an employee of BlissCo at the Euphoria resort, Salazin is now the Rockwell
-family imp due to a contract [Callie](callie) signed with him.
+Once an employee of BlissCo at the [Euphoria](../locales/euphoria) resort, Salazin is now the Rockwell family imp due to a contract [Callie](callie) signed with him.

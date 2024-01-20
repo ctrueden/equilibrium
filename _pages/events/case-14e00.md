@@ -17,7 +17,7 @@ Mallory and Cassandra reestablish operations at [SPI HQ](../locales/spi-hq), and
 
 ## Callie's Journal
 
-There is a woman in the village named [Respa](../dossiers/respa-wheatgrinder) (the redhead carrying a bowl of food). I remember her from [a case we were on](case-03). We went to arrest [Hollerd](../dossiers/hollerd-aldrimor), a [dwarf](../creatures/dwarves), on his ranch, for poisoning [his uncle](../dossiers/gurin-aldrimor). There was [a woman on the farm](../dossiers/tasper-ironfoot) who tried to send us away, but we pushed past her and arrested him. Respa looks like that woman.
+There is a woman in the village named [Respa](../dossiers/respa-wheatgrinder) (the redhead carrying a bowl of food). I remember her from [a case we were on](case-03). We went to arrest [Hollerd](../dossiers/hollerd-aldrimor), a [dwarf](../creatures/dwarves), on his ranch, for poisoning [his uncle](../dossiers/gurin-aldrimor). There was [a woman on the farm](../dossiers/tasper-ironroot) who tried to send us away, but we pushed past her and arrested him. Respa looks like that woman.
 
 [Freki](../dossiers/freki) asks if she has seen other people transform the way he does (into a [werewolf](../creatures/lycans)). She says she hasn't, and asks if many people outside the village can do it. He asks if any of them can, and she says no because none of them are tigers, wolves, rats, rhinoceroses, etc.
 
@@ -87,7 +87,7 @@ Squeaks and the other two NPC agents (see [episode 2](../events/case-02)) have e
 
 - Squeaks has been investigating in the city under the mountain, the dwarven lands. Our old friend [Sil](../dossiers/sil-aldrimor) is not in charge anymore. Someone else has called Squeaks to find out what happened in the goblin territory. They seem to have gotten encased in [karach](../relics/karach) or some kind of [crystalline flux](../locales/flux#crystalline-flux).
 
-- [Victor Rocksmith](../dossiers/victor-rocksmith), a hard-drinkin, hard-smokin sailor gnome, has been in the land of [Trell](../locales/trell). He says there's a political situation brewing. A hurricane has emerged from Trell and is heading towards the island-city of [Aether](../locales/aether) in [Skyrealm](../locales/skyrealm). The High Priest of [Pelor](../dossiers/pelor), [St. Benedor](../dossiers/benedor), has invoked the SPI to convince the [dragons](../creatures/dragons) not to dispel the hurricane. Pelor gave him a prophecy that the hurricane will cleanse [the desert lands](../locales/desert-of-ruin) and restore them. The desert has been overly dry since we took the cornucopia, oops.
+- [Victor Rocksmith](../dossiers/victor-rocksmith), a hard-drinkin, hard-smokin sailor gnome, has been in the land of [Trell](../locales/trell). He says there's a political situation brewing. A hurricane has emerged from Trell and is heading towards the island-city of [Aether](../locales/aether) in [Skyrealm](../locales/skyrealm). The High Priest of [Pelor](../dossiers/pelor), [St. Benedor](../dossiers/benedor), has invoked the SPI to convince the [dragons](../creatures/dragons) not to dispel the hurricane. Pelor gave him a prophecy that the hurricane will cleanse [the desert lands](../locales/desert) and restore them. The desert has been overly dry since we took the cornucopia, oops.
 
 - [Lawrence Feathersworth](../dossiers/lawrence-feathersworth) was contacted by an agent of [the vampire](../dossiers/brucolac). They are demanding the SPI's service. Agent went to [Arallu](../locales/arallu) and saw it briefly. They wanted him to enter [the manor](../locales/evershroud-manor) of [the archlich](../dossiers/timor-invictus), which has begun to exude some sort of power and no undead can enter it. Also, the archlich has not attended any meetings of the triumvirate. Where is he?
 
@@ -96,5 +96,5 @@ Squeaks and the other two NPC agents (see [episode 2](../events/case-02)) have e
 - Should we try to recover Sima's body and see if we can revive her? Or will one of us volunteer to be the anchor for Sima's double?
 - Vondal wants to find Mallory's doppelganger.
 - Vondal has a big lead on what happened to the SPI agents, and will want to follow up on it.
-- Freki wants to find out what happened to [Hugen](../dossiers/hugen) and [Munin](../dossiers/munin). They were somehow held at bay during the battle.
+- Freki wants to find out what happened to [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin). They were somehow held at bay during the battle.
 - What was [Talos](../dossiers/talos) talking about?

@@ -10,11 +10,10 @@ statbox:
 ---
 
 Weezer is the monster tamer and trainer for the [Zombozo](zombozo) circus.
-He utilizes his innate kenku ability to mimic any sound to train the monsters more effectively.
+He utilizes his innate [kenku](../creatures/kenku) ability to mimic any sound to train the monsters more effectively.
 
 Like many kenku, he loves shiny things, especially his glittery *hat of disguise*.
 He dislikes the [pixie gang](pixie-gang) because they tend to prank him by
 stealing his shinies.
 
-The show features several monsters that Weezer has trained, including bulettes
-Fair & Foul, manticore Sting, otyugh Glump, and owlbears Fuzzy & Wuzzy.
+The show features several monsters that Weezer has trained, including [bulettes](../creatures/beasts#bulettes) Fair & Foul, [manticore](../creatures/beasts#manticores) Sting, [otyugh](../creatures/beasts#otyughs) Glump, and [owlbears](../creatures/beasts#owlbears) Fuzzy & Wuzzy.

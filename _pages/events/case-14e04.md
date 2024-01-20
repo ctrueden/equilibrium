@@ -29,7 +29,7 @@ Bec looks at the portal and realizes we manifested the plane with our energy. So
 
 Freki tries to track Vondal by scent. Callie uses *guidance* to give him a little extra oomph.
 
-Meanwhile, Vondal has given up some piece of knowledge to discover that Freki is "A pawn of the [Raven Queen](../dossiers/nerull). His [bird](../dossiers/hugen) [companions](../dossiers/munin) are her servants." Vondal knows this means Nerull, one of the gods of death.
+Meanwhile, Vondal has given up some piece of knowledge to discover that Freki is "A pawn of the [Raven Queen](../dossiers/nerull). His [bird](../dossiers/hugin) [companions](../dossiers/munin) are her servants." Vondal knows this means Nerull, one of the gods of death.
 
 When Freki returns with Vondal, we all exit as Bec suggested. It works! We're all okay and not dead or lost!
 
@@ -51,7 +51,7 @@ Freki asked what part of what they've told him is the most important. "Not knowi
 
 Freki tries to pin down the birds about the nature of his power, in an attempt to get at the truth of his lost memory. But Munin seems spooked ("...I can't remember. I should remember...") and the birds fly off and vanish. Huh.
 
-Freki asks Hugen mentally if they need his help, and Hugen says they are OK, but implores Freki: "she is the power of memory. She should remember. Find the truth."
+Freki asks Hugin mentally if they need his help, and Hugin says they are OK, but implores Freki: "she is the power of memory. She should remember. Find the truth."
 
 Callie realizes that the forgetting effect (which is neither a blessing nor a curse, but some kind of anti-divination magic) is from Bec and Vondal offering secrets to Vecna. Dammit! 
 

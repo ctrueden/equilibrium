@@ -65,6 +65,6 @@ Vanesse and Bernd Jaglia, young patrons of the arts.
 * They do their flying light show during the trapeze act.
 
 **[Weezer](../dossiers/weezer)** (male, kenku). Monster tamer and trainer.
-* His owlbears Fuzzy and Wuzzy discovered the bodies.
-* Also manages an [otyugh](../creatures/otyughs), [manticore](../creatures/manticores) and others.
+* His [owlbears](../creatures/beasts#owlbears) Fuzzy and Wuzzy discovered the bodies.
+* Also manages an [otyugh](../creatures/beasts#otyughs), [manticore](../creatures/beasts#manticores) and others.
 * During crime time, was getting ready for his act.

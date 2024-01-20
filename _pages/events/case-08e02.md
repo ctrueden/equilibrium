@@ -20,4 +20,4 @@ session-event: https://www.facebook.com/events/2012603059015093/
 * Callie cuts open the golem and Bec notices that it has a fresh interior wound. Afterwards, Meroe and Panthea come over angry and Callie uses a heal wounds spell to mend the golem. Meroe is reluctantly thankful.
 * The party interviews Panthea and Meroe again in some depth. They suss out that there was a past incident of Zombozo getting "out of control," which Panthea is … TODO
 * [other things that have been forgotten in the mists of time]
-* The party presses Meroe increasingly harder. She becomes agitated, and decided to pull the trigger on her trap: a wired underground infrastructure of bombs. The ground from her desk explodes outward and collapses, exposing the underground lair of the landsharks Fair and Foul.
+* The party presses Meroe increasingly harder. She becomes agitated, and decided to pull the trigger on her trap: a wired underground infrastructure of bombs. The ground from her desk explodes outward and collapses, exposing the underground lair of the [landsharks](../creatures/beasts#bulettes) Fair and Foul.

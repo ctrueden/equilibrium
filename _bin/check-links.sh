@@ -15,6 +15,12 @@ do
   case "$link" in
     http*)
       ;; # external link
+    {*)
+      ;; # Liquid code; too complex to deal with ;-)
+    *assets/*)
+      file="${page%/*}/../$link"
+      test -f "$file" || echo "[ERROR] $page: $link"
+      ;;
     *)
       name="${page%/*}/$link"
       test -f "$name.md" -o -f "$name/index.md" || echo "[ERROR] $page: $link"

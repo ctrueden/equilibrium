@@ -13,7 +13,7 @@ The SPI was on the trail of a [suspected doppelganger](../dossiers/amisa-swiftax
 
 ---------
 
-Freki asks [Hugen](../dossiers/hugen) and [Munin](../dossiers/munin) if they saw where they prey went. They tell Freki:
+Freki asks [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin) if they saw where they prey went. They tell Freki:
 
 {% include quote text="
 She vanished -- one moment there, the next, gone.

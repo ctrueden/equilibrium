@@ -13,7 +13,7 @@ Details of exactly how the world came to be are heavily disputed by scholars of 
 <figcaption style="text-align: center">The primordials according to dragons</figcaption>
 </figure>
 
-According to the [dragons](dragons) and [dragonborn](dragonborn), existing outside time is [Io](../dossiers/io)[\*](https://en.wikipedia.org/wiki/Apeiron) the Infinite, consisting of two aspects: Aion[\*](https://en.wikipedia.org/wiki/Aion_%28deity%29) and Chaos[\*](https://en.wikipedia.org/wiki/Chaos_%28cosmogony%29#Greco-Roman_tradition). The current world of Aecus is but one iteration of the infinite cycle of time. At the beginning of this iteration, Aion's dual aspects of Time[\*](https://en.wikipedia.org/wiki/Chronos) and Causality[\*](https://en.wikipedia.org/wiki/Ananke) created the physical world, including the Sky[\*](https://en.wikipedia.org/wiki/Aether_%28mythology%29), Sea[\*](https://en.wikipedia.org/wiki/Pontus_%28mythology%29), and Earth[\*](https://en.wikipedia.org/wiki/Gaia). Concurrently, from Chaos emerged Night[\*](https://en.wikipedia.org/wiki/Nyx), Darkness[\*](https://en.wikipedia.org/wiki/Erebus), and the Abyss[\*](https://en.wikipedia.org/wiki/Tartarus). The two [deities](eternals) [Bahamut](../dossiers/bahamut) and [Tiamat](../dossiers/tiamat) act as the divine manifestations of Aion and Chaos respectively. Their struggles for power yield the balance needed for the world to continue developing. Finally, a third but lesser dragon deity, [Sardior](../dossiers/sardior), acts as the divine manifestion of Night, a patron for those seeking a third path: one of explicit balance between order and chaos.
+According to the [dragons](creatures/dragons) and [dragonborn](creatures/dragonborn), existing outside time is [Io](dossiers/io)[\*](https://en.wikipedia.org/wiki/Apeiron) the Infinite, consisting of two aspects: Aion[\*](https://en.wikipedia.org/wiki/Aion_%28deity%29) and Chaos[\*](https://en.wikipedia.org/wiki/Chaos_%28cosmogony%29#Greco-Roman_tradition). The current world of Aecus is but one iteration of the infinite cycle of time. At the beginning of this iteration, Aion's dual aspects of Time[\*](https://en.wikipedia.org/wiki/Chronos) and Causality[\*](https://en.wikipedia.org/wiki/Ananke) created the physical world, including the Sky[\*](https://en.wikipedia.org/wiki/Aether_%28mythology%29), Sea[\*](https://en.wikipedia.org/wiki/Pontus_%28mythology%29), and Earth[\*](https://en.wikipedia.org/wiki/Gaia). Concurrently, from Chaos emerged Night[\*](https://en.wikipedia.org/wiki/Nyx), Darkness[\*](https://en.wikipedia.org/wiki/Erebus), and the Abyss[\*](https://en.wikipedia.org/wiki/Tartarus). The two [deities](creatures/eternals) [Bahamut](dossiers/bahamut) and [Tiamat](dossiers/tiamat) act as the divine manifestations of Aion and Chaos respectively. Their struggles for power yield the balance needed for the world to continue developing. Finally, a third but lesser dragon deity, [Sardior](dossiers/sardior), acts as the divine manifestion of Night, a patron for those seeking a third path: one of explicit balance between order and chaos.
 
 There are variations of this myth amongst dragonkind:
 
@@ -23,7 +23,7 @@ There are variations of this myth amongst dragonkind:
 
 * Some followers of Sardior elevate It to the prime position of importance, believing that Sardior represents the pinnacle of the cosmos's evolution: a being of perfection sculpted from the cosmic genesis. In this view, Sardior represents the ultimate in personal apotheosis, a balanced and self-reliant power. But many dragons find this perspective to be heretical, reserving their primary reverence for the most ancient powers.
 
-* A common belief among dragons is that the goddess [Ioun](../dossiers/ioun) is the personification of divine Causality, and secretly a dragon herself, making her worthy of draconic reverence.
+* A common belief among dragons is that the goddess [Ioun](dossiers/ioun) is the personification of divine Causality, and secretly a dragon herself, making her worthy of draconic reverence.
 
 One thing most dragons *do* agree on is that the three (or four, counting Ioun) draconic deities are the only true gods: the others are younger, lesser powers that emerged from the world itself, of little concern to dragonkind. Some even go so far as to claim that the other gods commonly worshipped throughout the world are nothing more than aspects of Bahamut, Tiamat, Sardior, Ioun, or some combination thereof.
 
@@ -47,7 +47,7 @@ One thing most dragons *do* agree on is that the three (or four, counting Ioun) 
 
 ### Arallu
 
-*GM's note: Arallu philosophy and religious tradition is adapted from [tripartite](https://en.wikipedia.org/wiki/Tripartite_%28theology%29) traditions: [triple deity](https://en.m.wikipedia.org/wiki/Triple_deity), [maiden/mother/crone](TODO), [three fates](TODO), etc.*
+*GM's note: Arallu philosophy and religious tradition is adapted from [tripartite](https://en.wikipedia.org/wiki/Tripartite_%28theology%29) traditions: [triple deity](https://en.m.wikipedia.org/wiki/Triple_deity), [maiden/mother/crone](https://en.wikipedia.org/wiki/Triple_Goddess_%28Neopaganism%29), [three fates](https://en.wikipedia.org/wiki/Moirai), etc.*
 
 ### Trell
 

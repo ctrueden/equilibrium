@@ -20,4 +20,4 @@ The agents met three different imps:
 * [Salazin](../dossiers/salazin) - Blue - in contract with Callie - went to "pack his bags" and then contact the founders
 * [Xoomish](../dossiers/xoomish) - Green - GONE - will "get back to you" about undead for Cal?
 
-They also met [Sophie](../dossiers/sophie), a little girl who had tragically been taken over by an intellect devourer.
+They also met Sophie, a little girl who had tragically been taken over by an intellect devourer.

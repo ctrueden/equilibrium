@@ -21,4 +21,4 @@ statbox:
     NE: arallu
 ---
 
-A frozen land deep in the heart of [Arallu](../locales/arallu).
+A frozen land deep in the heart of [Arallu](../locales/arallu). It is very cold and you probably won't like it. I've heard there is a grumpy guy named [Hyperion](../dossiers/hyperion) who lives there.

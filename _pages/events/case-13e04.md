@@ -33,7 +33,7 @@ I attack with Spiritual Weapon! It glances off the demon's thick hide, boo. I mo
 
 The monster lady saves and takes only 5 points of radiant damage from the Spirit Guardians. Then she starts casting a 6th-level divine spell called Blade Barrier that slices through four of us. She is a shaman. She also moves towards everyone.
 
-The centaur turns into a were-tiger-centaur and says "You all stink of the gods. How fortunate for me." Then he does something and we feel a pull at our souls. Bec failed the save, so she feels...depleted in some ineffable, non-numeric kind of way. Everyone else is OK for now. Murky is unaffected. Hugen and Munin are affected somehow, although Freki doesn't find out about that until later.
+The centaur turns into a were-tiger-centaur and says "You all stink of the gods. How fortunate for me." Then he does something and we feel a pull at our souls. Bec failed the save, so she feels...depleted in some ineffable, non-numeric kind of way. Everyone else is OK for now. Murky is unaffected. Hugin and Munin are affected somehow, although Freki doesn't find out about that until later.
 
 Oz feels ice climbing up his legs and needs a strength save. He fails and takes 9 points of cold damage and his speed is reduced.
 
@@ -79,7 +79,7 @@ Freki asks, "Why do you want to kill the gods?"
 
 "Because they deserve it. You could all join me. You are worthy to join the Malosi."
 
-Hugen and Munin land on Freki's shoulders. He feels comforted, aww. He checks in with them. They say something happened to them that they do not understand, but they're OK now.
+Hugin and Munin land on Freki's shoulders. He feels comforted, aww. He checks in with them. They say something happened to them that they do not understand, but they're OK now.
 
 A big suit of armor comes clanking up to us with Sabrina on its shoulder. The orc turns into a raven and flies over to the armor, landing on the other shoulder.
 
@@ -121,4 +121,4 @@ Vondal's magic gets sucked up and woven into a wild magic door. Aina is shocked 
 - What happened to Mallory, and is there anything we can do for him? Vondal wants to find Mallory's doppelganger.
 - What was Talos talking about?
 - Vondal has a big lead on what happened to the SPI agents, and will want to follow up on it.
-- Freki wants to find out what happened to Hugen and Munin. They were somehow held at bay during the battle.
+- Freki wants to find out what happened to Hugin and Munin. They were somehow held at bay during the battle.

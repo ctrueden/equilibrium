@@ -160,7 +160,7 @@ On the Nature/Nature square is a symbol representing the [Divine Mother Gaia](..
 
 [![](https://i.pinimg.com/originals/5d/e1/79/5de17948ce8e608fd3ad5a606cdb9c34.jpg){:style="max-height:300px"}](https://www.pinterest.com/pin/551761391846383889/)
 
-She predates the [eternals](../creatures/eternals), according to legend. Cal recognizes the symbol as appearing once on a letter [his father](../creatures/hyperion) got once. He mentions that his dad claimed that he "used to be a god" and talked about things he would do if he still had his full power.
+She predates the [eternals](../creatures/eternals), according to legend. Cal recognizes the symbol as appearing once on a letter [his father](../dossiers/hyperion) got once. He mentions that his dad claimed that he "used to be a god" and talked about things he would do if he still had his full power.
 
 It turns out that when we touch our own symbols, they light up, wow! But before we can activate the portal, Vondal and Cal leave to check out the basement. Down there are servant's quarters, more stairs leading down to the crypt, and a door with some evil-looking glyphs. Vondal thinks it looks like a lock of some kind.
 
