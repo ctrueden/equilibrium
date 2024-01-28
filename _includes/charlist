@@ -14,7 +14,15 @@ Lists characters of a particular race.
   {%- endif -%}
   {%- for r in races -%}
     {%- assign subrace-prefix = race | append: " (" -%}
-    {%- if r == race or r contains subrace-prefix -%}
+    {%- assign subrace-fragment1 = "(" | append: race | append: ")" -%}
+    {%- assign subrace-fragment2 = "(" | append: race | append: "," -%}
+    {%- assign subrace-fragment3 = ", " | append: race | append: ")" -%}
+    {%- assign subrace-fragment4 = ", " | append: race | append: "," -%}
+    {%- if r == race or r contains subrace-prefix
+                     or r contains subrace-fragment1
+                     or r contains subrace-fragment2
+                     or r contains subrace-fragment3
+                     or r contains subrace-fragment4 -%}
       <li><a href="{{site.baseurl}}{{p.url}}">{{p.title}}</a></li>
     {%- endif -%}
   {%- endfor -%}
