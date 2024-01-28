@@ -1,7 +1,8 @@
 ---
 title: Gurin Aldrimor
-image: https://i.pinimg.com/originals/a8/d2/36/a8d236fd0acfb5d98c3e3fe26414d9c7.jpg
-image-source: https://i.pinimg.com/originals/0a/2a/60/0a2a605ee88fa2b09ff91e4f813ea760.jpg
+image: https://i.pinimg.com/originals/24/74/07/247407cca1fbaee9cbaf8026a5ae2f11.jpg
+image-source: https://www.pinterest.com/pin/675821487802340688/
+image2: https://i.pinimg.com/originals/a8/d2/36/a8d236fd0acfb5d98c3e3fe26414d9c7.jpg
 statbox:
   race: dwarf
   clan: Aldrimor
