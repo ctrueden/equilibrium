@@ -1,6 +1,6 @@
 ---
 title: Malak the Mad
-image: 
+image: https://i.pinimg.com/originals/15/e0/8c/15e08ce1d767154e5a5240b8530834ae.jpg
 image-source: https://www.pinterest.com/pin/661607001522378079/
 statbox:
   race: undead (vampire)
