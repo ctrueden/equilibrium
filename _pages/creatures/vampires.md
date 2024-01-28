@@ -5,3 +5,7 @@ image-source: https://www.pinterest.com/pin/373446994114131178/
 ---
 
 BLAGH!
+
+### List of vampires
+
+{% include charlist race="vampire" %}
