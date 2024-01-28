@@ -1,5 +1,5 @@
 ---
-title: "[14e05] Sepulchralis"
+title: "[14e05] An Embarrassment of Ghouls"
 description: >-
   TODO
 datestamp: 50-06-03/05
@@ -9,179 +9,77 @@ session-date: 2024-01-20
 session-event: https://www.facebook.com/events/1043655976708167/
 ---
 
-## Gallery
+## Callie's Journal
 
-### Sepulchralis
+Possible Session Titles:
+* Ozborn, Underfoot
+* Be a Lycan, Not a Ly-can't
+* Hunka Hunka Burnin' Bec
+* Calsplosion
+* Vondal Shocks the Monkey
 
-{% include thumb
-src="https://i.pinimg.com/736x/1f/d9/09/1fd909667389749909f4c92c2b9914fb.jpg"
-link="https://www.pinterest.com/pin/213076626112688815/"
-title="Lestache's chateau"
-width="200px" %}
+We're outside, but we have no way back since (fake) [Malachai](../dossiers/malachai-hawthorne) brought us here and he's dead(er). A bat flies toward us. Those of us with dark vision can see it. [Oz](../dossiers/oz) takes the opportunity to hide under Malachai's corpse. He is truly the best of us.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/d7/3f/a9/d73fa9ff32a2da60d9c1148ce77b6c61.jpg"
-  link="https://www.pinterest.com/pin/419749627784017352/"
-  width="200px" %}
+Luckily, our old buddy [Lestache](../dossiers/lestache-de-lyarcourt) flaps over in bat form and greets us. He's pretty surprised that we're all still alive. Also, he has a new accent. Never a dull moment!
 
-{% include thumb
-  src="https://i.pinimg.com/736x/41/39/1c/41391c7ab36c9246a4ee9f027cf79e50.jpg"
-  link="https://www.pinterest.com/pin/834362268478598248/"
-  title="TODO"
-  width="200px" %}
+[Callie](../dossiers/callie) tries to remind everyone that [Mallory](../dossiers/mallory) told us we were to avoid unbalancing the powers here in [Arallu](../locales/arallu), but [Vondal](../dossiers/vondal) is here, so that goes nowhere.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/18/2d/0b/182d0b9acbe2a208d7ab8a83d7122e8c.jpg"
-  link="https://www.pinterest.com/pin/137711701095498319/"
-  title="TODO"
-  width="200px" %}
+Vondal explains that we found [the Lich](../dossiers/timor-invictus), but he wasn't exactly himself anymore. Lestache asks how Invictus came to be chained up in his own basement. Vondal explains that we think the [Necronomicon](../relics/necronomicon) was Invictus's phylactery. When the book was cleansed, it cleansed him too. So it's highly unlikely this could happen again.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/de/37/38/de3738a0b3e4619ee97c99889a934d9c.jpg"
-  link="https://www.pinterest.com/pin/492649951606115/"
-  title="TODO"
-  width="200px" %}
+Lestache is relieved that this is a one-time deal. He says "some" in his faction would want to seize power now that Invictus is gone. Not Lestache, though! He finds that tacky. He invites us to his "chateau" for dinner. I can't help noticing he didn't specify what's on the menu.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/13/19/1c/13191cd21dd6f8b05de5068ef8345317.jpg"
-  link="https://www.pinterest.com/pin/14073817578346800/"
-  title="TODO"
-  width="200px" %}
+[Bec](../dossiers/bec) tells him she thinks the effect is contained in [the manor](../locales/evershroud-manor), and also could he call us an Uber or something? When Lestache asks if there's anything else we need to do here, Vondal and Bec have a furious whisper fight over it. Vondal really wants Invictus destroyed, so he's stoked that Lestache seems like he could do it.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/f4/43/ca/f443ca76bfd4b369f0bf69afd62c92a7.jpg"
-  link="https://www.pinterest.com/pin/114208540542003107/"
-  title="TODO"
-  width="200px" %}
+Nobody argues about the dinner invitation, so Lestache leaves to make arrangements. After a few minutes, a formation of five bats flies in. They all land and turn into vampires. The pommel of [Cal's sword](../relics/arkenstone) is glowing in their presence. They do not get too close to the manor, which is still shining.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/6e/df/43/6edf43281ae09a6d29e8a78fc6b204fd.jpg"
-  link="https://www.pinterest.com/pin/156007574564966939/"
-  title="TODO"
-  width="200px" %}
+The vampire who seems to be in charge, [Malak](../dossiers/malak), responds to our questions with some riddle-like non-answers. This doesn't seem like a great start to our relationship. We ready for battle.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/5e/e7/bd/5ee7bd04834a95dcf93e6119cdcf6aa4.jpg"
-  link="https://www.pinterest.com/pin/577445983468402201/"
-  title="TODO"
-  width="200px" %}
+Oz comes out stabbin'! Then he walks away trying to be all cool or something.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/32/ae/9d/32ae9d945934315e8f65513b2de887f3.jpg"
-  link="https://www.pinterest.com/pin/666462444870818396/"
-  title="TODO"
-  width="200px" %}
+The pincushion vampire bites Malachai's body. Its wounds heal from drinking Malachai's blood. Bec, an intellectual, knows that there are vampires and then vampire spawn. Spawn are lower ranking and more animalistic. She thinks most of this group are spawn.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/15/cd/77/15cd775bc94a9e82a5906750a90ab83b.jpg"
-  link="https://www.pinterest.com/pin/16747829857550503/"
-  title="TODO"
-  width="200px" %}
+A vampire spawn attacks [Oz's monkey](../dossiers/monkey) and grievously wounds it! The monkey turns back into a statue and clatters to the ground.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/22/3e/2a/223e2a5926342851cdb67f25ce5593e8.jpg"
-  link="https://www.pinterest.com/pin/486036984797119465/"
-  title="TODO"
-  width="200px" %}
+Malak takes a sack off her back and turns it inside-out. A bunch of things falls out, including a buttload of ghouls and ghasts! "Oh, right, that's what was in there," says Malak. She directs the undead mob at me. Hey, I'm too cute to get eaten alive!
 
-{% include thumb
-  src="https://i.pinimg.com/736x/e5/bc/7d/e5bc7dd6cec775888e124e93f2d31d24.jpg"
-  link="https://www.pinterest.com/pin/330029478955609381/"
-  title="TODO"
-  width="200px" %}
+There are so many creatures they can't all reach me, so some of them attack [Cal](../dossiers/cal). This is quite an onslaught, but Cal is great at resisting this kind of thing. Unlike me; I am not great at resisting. I get paralyzed. At least I'm not dead, thanks to Vondal.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/1f/ba/78/1fba78b9c8068f015cf71e146b28957f.jpg"
-  link="https://www.pinterest.com/pin/356628864235673863/"
-  title="TODO"
-  width="200px" %}
+Cal, having been attacked, is enraged. I mean, I am too, but I can't do anything about it. He ends up taking one out.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/e1/14/cf/e114cf7d2d122acbb014adee128eb830.jpg"
-  link="https://www.pinterest.com/pin/582723639295788797/"
-  title="TODO"
-  width="200px" %}
+Two ghasts attack [Murky](../dossiers/vondal#murky), and one attacks Vondal.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/42/d2/f7/42d2f72961f49b439f855c7618e60a1f.jpg"
-  link="https://www.pinterest.com/pin/11118330326099196/"
-  title="TODO"
-  width="200px" %}
+A vampire in a white dress leaps elegantly at Bec and grapples her in preparation for taking a big ol' bite. Well, as long as they keep it classy.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/78/8d/fe/788dfe3a0c4f6d8803d8ca046a847b3f.jpg"
-  link="https://www.pinterest.com/pin/4362930880231127/"
-  title="TODO"
-  width="200px" %}
+Oz tries to hide behind [Freki](../dossiers/freki). He gets partial cover from that. Freki will need double movement to get off that square, since Ozborn is underfoot. DM: "He's not literally between your legs." Nate: "Respectfully disagree."
 
-{% include thumb
-  src="https://i.pinimg.com/736x/a8/94/8b/a8948b904c393a05ed8655cac403bdb7.jpg"
-  link="https://www.pinterest.com/pin/572449802628423135/"
-  title="TODO"
-  width="200px" %}
+Bec casts *fire shield*.
 
-### Beholders
+Callie casts *bless* at level 4 to bless everybody in our party. Callie also gets attacked for 10 HP.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/c7/a6/89/c7a689ecb631f8e41f1bd615fea61202.jpg"
-  link="https://www.pinterest.com/pin/614459942934510591/"
-  title="TODO"
-  width="200px" %}
+In response to being attacked, Freki feels like clawing it. Huh, what a weird thing to think. He reaches for his sword, but that feels...like, wrong somehow? He attacks with his bow.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/60/d4/87/60d487424187f672355501fbb62f4d2b.jpg"
-  link="https://www.pinterest.com/pin/5136987064426383/"
-  title="TODO"
-  width="200px" %}
+Vondal puts a hand on Callie's shoulder and teleports them both away, back inside the manor, with a swoosh of his cape.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/f1/3c/90/f13c90b9d8d98b2b289a658fc313002b.jpg"
-  link="https://www.pinterest.com/pin/18577417190691037/"
-  title="TODO"
-  width="200px" %}
+Murky tries to pick up the monkey statue. It's a little too heavy, so Murky log-rolls it toward the manor. This attracts the attention of some of the enemies, who kill Murky. RIP, little buddy, it was a good try.
 
-### Spiders
+The red vampire moves into the spot vacated by Callie and attacks Bec. The fire shield burnsssss it preciousssssss. Nice!
 
-{% include thumb
-  src="https://i.pinimg.com/originals/09/50/f0/0950f0545a77e3d0b346659eadc93a61.jpg"
-  link="https://www.pinterest.com/pin/380765343508203198/"
-  title="TODO"
-  width="200px" %}
+Oz stabs to his left. That vamp is looking pretty raggedy, but it's not quite done for.
 
-### Halflings
+Malak points at Oz and says, "You're naughty." He somehow manages to pull out enough wisdom to resist. Malak declares Bec naughty next. She resists too. "You're ESPECIALLY naughty!" she says to Cal. With Vondal and Callie's assorted blessings, he also resists. Stuff's still attacking him, though, so he takes damage.
 
-{% include thumb
-  src="https://i.pinimg.com/originals/a6/b4/93/a6b493332bb09be0706558c935f0a27e.jpg"
-  link="https://www.pinterest.com/pin/11540542787724873/"
-  title="Perimeter Defender"
-  width="200px" %}
+Cal attacks. His sword explodes with radiant light and hits a bunch of the undeads. He defeats one of the vampires, which turns into mist and starts retreating. He destroys a couple of the ghouls/ghasts.
 
-{% include thumb
-  src="https://i.pinimg.com/originals/95/df/3e/95df3e4287c879a1e8a7a0c34be4a137.jpg"
-  link="https://www.pinterest.com/pin/633529872582999818/"
-  title="Creepy AF"
-  width="200px" %}
+Malak looks at Callie through the window of the manor and says, "Peekaboo!" SHE SEES ME! I deflect her mind-magic, though.
 
-{% include thumb
-  src="https://i.pinimg.com/originals/b0/d3/a2/b0d3a28cc66f6a2750a1b5dd92e266e2.png"
-  link="https://www.pinterest.com/pin/377739487491015530/"
-  title="Shady farmer"
-  width="200px" %}
+A vampire attacks Bec and gets burned, haha.
 
-{% include thumb
-  src="https://i.pinimg.com/originals/d5/c1/aa/d5c1aa207d41199a270e6e2fd673d2ef.png"
-  link="https://www.pinterest.com/pin/3237030971603373/"
-  title="Shady rogue"
-  width="200px" %}
+Callie continues concentrating on *bless*, but also blows up the mist vampire with *sacred flame*, then hits Malak with *spiritual weapon* (level 3). The ol' one-two! Hiyah, have at you! Not really though, stop running at me, I'm very uncomfortable!
 
-{% include thumb
-  src="https://i.pinimg.com/originals/ab/21/f6/ab21f6f92e27fd0ca71823b91b5ce8d3.jpg"
-  link="https://www.pinterest.com/pin/547539267199798716/"
-  title="TODO"
-  width="200px" %}
+Freki attacks and does some damage.
 
-{% include thumb
-  src="https://i.pinimg.com/736x/fa/b3/15/fab315a88eaa95010852341188359563.jpg"
-  link="https://www.pinterest.com/pin/642607440561998727/"
-  title="TODO"
-  width="200px" %}
+Vondal uses his Wand of Wonder, so as not to ignite the [Flux](../locales/flux) that this manor is full of. He casts *gust of wind* in Malak's general direction. The window in front of us blows out. The monkey statue blows away. Oh man, Oz is never gonna find that thing.
+
+A vampire grapples Freki, bites him, and drains some of his blood. It awakens the beast within Freki. He can choose to resist or accept it. It feels good and right! But is it the vampire trying to turn him? It doesn't matter, he can't control it....
+
+HE'S A WOOOOOOOOOOLF!
