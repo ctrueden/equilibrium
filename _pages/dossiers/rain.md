@@ -12,6 +12,6 @@ statbox:
 
 One of the SPI agents who disappeared during the [fire at SPI HQ](../events/spi-fire).
 
-After a wild magic hiccup caused [Vondal](vondal) to disappear in a puff of feathers, a nightmare illusion of [the Brucolac](brucolac) unexpectedly pulled a ball of feathers from his *bag of tricks*, which became Rain when he threw it&mdash;more precisely, Vondal in Rain's physical body, mentally conflated with him. After a while, they unfused, leaving Rain fully restored as his own individual...
+After a wild magic hiccup caused [Vondal](vondal) to disappear in a puff of feathers, a nightmare illusion of [the Brucolac](cronus) unexpectedly pulled a ball of feathers from his *bag of tricks*, which became Rain when he threw it&mdash;more precisely, Vondal in Rain's physical body, mentally conflated with him. After a while, they unfused, leaving Rain fully restored as his own individual...
 
 Rain is currently staying at Vondal's house while he gets his affairs in order.

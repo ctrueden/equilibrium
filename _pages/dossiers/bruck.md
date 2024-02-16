@@ -1,7 +1,7 @@
 ---
 title: Bruck
-image: https://cdn.obsidianportal.com/assets/94871/Orc-PZO8503-CaptainDrelm.jpg
-image-source: https://glimpses-of-adventure.obsidianportal.com/wiki_pages/half-orcs
+image: https://i.pinimg.com/736x/17/f1/4d/17f14dc18400c58d8e922eec5819b348.jpg
+image-source: https://www.pinterest.com/pin/576390452296654455/
 statbox:
   race: orc
   gender: male

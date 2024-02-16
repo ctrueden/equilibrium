@@ -6,11 +6,13 @@ image-source: https://www.pinterest.com/pin/18999629670353159/
 statbox:
   race: [titan (sky), undead (vampire)]
   gender: male
+  aliases:
+  - The Brucolac
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Cronus
 ---
 
-One of the 12 [titans](../creatures/titans) from whom the [gods](../creatures/eternals) were born. Once the consort of [Rhea](rhea), now a vampire in the [Brucolac](brucolac)'s undead forces.
+One of the 12 [titans](../creatures/titans) from whom the [gods](../creatures/eternals) were born. Once the consort of [Rhea](rhea), now a vampire lord known as the Brucolac, one of the three leaders of [Arallu](../locales/arallu).
 
 {% include thumb
   src="https://i.pinimg.com/originals/b4/11/3d/b4113d1274248c1f324d46754dd32127.jpg"

@@ -1,7 +1,9 @@
 ---
 title: Bronce Aldrimor
-image: https://cdn.obsidianportal.com/assets/113846/Dwarf_Wizard.jpg
-image-source: https://the-circle-of-light.obsidianportal.com/wikis/dwarf
+image: https://i.pinimg.com/736x/35/8d/f7/358df79ac33df4c5938f9d6d0d6dcb84.jpg
+image-source: https://www.pinterest.com/pin/392868767491454496/
+image2: https://i.pinimg.com/736x/a2/e7/3d/a2e73daca53c49ce5c8c2237d064a405.jpg
+image2-source: https://www.pinterest.com/pin/362962051220579729/
 statbox:
   race: dwarf
   gender: male

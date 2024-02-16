@@ -9,4 +9,4 @@ statbox:
   case: "14"
 ---
 
-A servant of [the Brucolac](brucolac), and leader of the [Toreador](https://whitewolf.fandom.com/wiki/Toreador_%28VTM%29) vampire clan in [Sepulchralis](../locales/sepulchralis).
+A servant of [the Brucolac](cronus), and leader of the [Toreador](https://whitewolf.fandom.com/wiki/Toreador_%28VTM%29) vampire clan in [Sepulchralis](../locales/sepulchralis).

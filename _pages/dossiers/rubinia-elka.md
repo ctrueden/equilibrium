@@ -7,8 +7,8 @@ statbox:
   class: wizard (necromancer)
   age: 186
   case: "03"
-image-source: https://funnyjunk.com/channel/dungeons-n-drags/Dwarf+character+art/ukukLhx/
-image: https://bigmemes99.funnyjunk.com/pictures/Dwarf_78c1ac_6011154.jpg
+image-source: https://www.pinterest.com/pin/705517097865806552/
+image: https://i.pinimg.com/736x/0f/d7/d4/0fd7d4378d7f8adbb7d410b994c12dcc.jpg
 ---
 
 Head of the Dwarven Scholarly Order of Magic at Kham Kuldohr Academy. Advisor to king Durak. Secretly also the leader of Esprit Repose, a necromancer cabal that promises it's totally using these dark powers for the good of the kingdom, and would never do anything evil.
