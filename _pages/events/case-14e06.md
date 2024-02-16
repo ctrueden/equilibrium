@@ -1,5 +1,5 @@
 ---
-title: "[14e06] Sepulchralis"
+title: "[14e06] Le Château de Méchant"
 description: >-
   TODO
 datestamp: 50-06-03/06
