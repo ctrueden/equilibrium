@@ -1,5 +1,5 @@
 ---
-title: The Aboleths
+title: Aboleths
 image: https://i.pinimg.com/originals/e9/63/51/e963513ee26aecfdbdb1189e5e0a0ede.png
 image-source: https://www.pinterest.com/pin/495677502717077107/
 statbox:
