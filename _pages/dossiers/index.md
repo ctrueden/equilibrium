@@ -58,6 +58,7 @@ title: Dossiers
       <option value="tiefling">Tiefling</option>
       <option value="titan">Titan</option>
       <option value="undead">Undead</option>
+      <option value="vampire">Vampire</option>
       <option value="other">Other</option>
     </select>
   </span>
