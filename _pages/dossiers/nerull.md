@@ -7,6 +7,12 @@ image2: https://i.pinimg.com/originals/09/8e/c3/098ec3a0d78643b147a756933c73f209
 image2-source: https://www.pinterest.com/pin/121597258677589765/
 image3: https://cdn.obsidianportal.com/assets/129176/Azmoriel.gif
 image3-source: https://a-world-of-blood-and-darkness.obsidianportal.com/wikis/the-pantheon
+image4: https://i.pinimg.com/736x/fc/fb/4a/fcfb4a3ca2670b7ea8115071eecd8dd3.jpg
+image4-source: https://www.pinterest.com/pin/486107353537064021/
+image5: https://i.pinimg.com/736x/f2/78/d1/f278d136ce420656304b63b90c80b937.jpg
+image5-source: https://www.pinterest.com/pin/334251603565619251/
+image6: https://i.pinimg.com/236x/c9/ee/a1/c9eea134c0c32a62707e07b941fb5df3.jpg
+image6-source: https://www.pinterest.com/pin/44191640087410321/
 statbox:
   race: eternal
   gender: female
