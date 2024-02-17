@@ -9,4 +9,4 @@ statbox:
   case: "14"
 ---
 
-Leader of the [Criptic](https://whitewolf.fandom.com/wiki/Tremere_%28VTM%29) vampire clan in [Sepulchralis](../locales/sepulchralis).
+Leader of the [Crispic](https://whitewolf.fandom.com/wiki/Tremere_%28VTM%29) vampire clan in [Sepulchralis](../locales/sepulchralis).
