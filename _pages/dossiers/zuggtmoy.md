@@ -5,6 +5,7 @@ image-source: https://www.pinterest.com/pin/394698354819255162/
 statbox:
   race: [demon, myconid]
   gender: female
+  case: "12"
 ---
 
 \*ominous music plays\*

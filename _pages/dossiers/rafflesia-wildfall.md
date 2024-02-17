@@ -5,6 +5,7 @@ image-source: https://www.pinterest.com/pin/421227371404839682/
 statbox:
   race: [elf (high), changeling]
   gender: female
+  case: "12"
 ---
 
 A servant who underwent an oath to bind herself to the Feywild alone, to serve [Queen Estanesse](ambriel-estanesse) in dreams. Secretly a [changeling](../creatures/changelings), imprinted on [Aiselfar Starfrost](aiselfar-starfrost).

@@ -8,4 +8,7 @@ statbox:
   race: [human, undead]
   gender: female
   profession: alchemist
+  case: "14"
 ---
+
+...

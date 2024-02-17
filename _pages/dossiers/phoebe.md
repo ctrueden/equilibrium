@@ -6,6 +6,7 @@ image-source: https://www.pinterest.com/pin/53902526781977240/
 statbox:
   race: [titan (sky), fey (dryad)]
   gender: female
+  case: "12"
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Phoebe_(Titaness)
 ---

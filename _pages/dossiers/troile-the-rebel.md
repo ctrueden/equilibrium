@@ -9,5 +9,4 @@ statbox:
   case: "14"
 ---
 
-
 Leader of the [Brujah](https://whitewolf.fandom.com/wiki/Brujah) vampire clan in [Sepulchralis](../locales/sepulchralis).

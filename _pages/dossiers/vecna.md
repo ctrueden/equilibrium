@@ -27,6 +27,7 @@ statbox:
   - Nerull
   - Pelor
   - Sehanine
+  case: "14"
 links:
 - 4E|https://dnd4.fandom.com/wiki/Vecna
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Vecna
