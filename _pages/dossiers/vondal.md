@@ -77,7 +77,7 @@ but seems to be afflicted by some sort of malignant chronomancy.
 
 ### Magic items
 
-Wand of Wonder
+[Wand of Wonder](https://5e.tools/items.html#wand%20of%20wonder_dmg)
 * Thanks to his experience with wild magic, Vondal has learned to control the
   behavior of his Wand of Wonder. When manifesting an effect from the wand, he
   can spend sorcery points to affect the outcome. After rolling the d100, he
@@ -86,7 +86,7 @@ Wand of Wonder
 * In addition, while holding the wand, Vondal gains a +2 bonus to spell attack
   rolls, and ignores half cover when making a spell attack, with wild magic.
 
-Wand of Healing
+[Wand of Healing](https://5e.tools/items.html#wand%20of%20fireballs_dmg)
 * 7 charges
 * regain 1d4 charges every dawn
 * 1 charge = Cure Wounds level 1
