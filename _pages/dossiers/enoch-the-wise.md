@@ -9,4 +9,4 @@ statbox:
   case: "14"
 ---
 
-Leader of the [Ventrue](https://whitewolf.fandom.com/wiki/Ventrue_%28VTM%29) vampire clan in [Sepulchralis](../locales/sepulchralis).
+Leader of the [Ventru](https://whitewolf.fandom.com/wiki/Ventrue_%28VTM%29) vampire clan in [Sepulchralis](../locales/sepulchralis).
