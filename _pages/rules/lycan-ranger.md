@@ -10,32 +10,36 @@ image3-source: https://www.pinterest.com/pin/21040323251990362/
 
 The lycan ranger is a hunter from the Selva wilderness with fearsome shapeshifting abilities.
 
-| Level | Proficiency Bonus | Innate Abilities, Arrow Types | Features |
-|:-----:|:-----------------:|:-----------------------------:|:---------|
-|  1st  |        +2         |               2               | [Beast Form](#beast-form), [Natural Explorer](https://www.dndbeyond.com/classes/ranger#NaturalExplorer-295) |
-|  2nd  |        +2         |               3               | [Fighting Style](https://www.dndbeyond.com/classes/ranger#FightingStyle-296), [Special Arrows](#special-arrows), [Innate Natural Abilities](#innate-special-abilities) |
-|  3rd  |        +2         |               3               | [Beast Companion](#beast-companion), [Primeval Awareness](#primeval-awareness) |
-|  4th  |        +2         |               4               | Ability Score Improvement |
-|  5th  |        +3         |               4               | [Extra Attack](#extra-attack)
-|  6th  |        +3         |               5               | [Scent of Blood](#scent-of-blood), [Natural Explorer](https://www.dndbeyond.com/classes/ranger#NaturalExplorer-295) improvement |
-|  7th  |        +3         |               5               | [Preternatual Reflexes](#preternatural-reflexes)
-|  8th  |        +3         |               6               | Ability Score Improvement, [Land's Stride](https://www.dndbeyond.com/classes/ranger#LandsStride-302) |
-|  9th  |        +4         |               6               | - |
-| 10th  |        +4         |               7               | [Natural Explorer](https://www.dndbeyond.com/classes/ranger#NaturalExplorer-295) improvement, [Hide in Plain Sight](https://www.dndbeyond.com/classes/ranger#HideinPlainSight-303) |
-| 11th  |        +4         |               7               | Ranger Archetype feature(TODO) |
-| 12th  |        +4         |               8               | Ability Score Improvement |
-| 13th  |        +5         |               8               | - |
-| 14th  |        +5         |               9               | Beast Form improvement(TODO), [Vanish](https://www.dndbeyond.com/classes/ranger#Vanish-304) |
-| 15th  |        +5         |               9               | Ranger Archetype feature(TODO) |
-| 16th  |        +5         |              10               | Ability Score Improvement |
-| 17th  |        +6         |              10               | - |
-| 18th  |        +6         |              11               | [Feral Senses](https://www.dndbeyond.com/classes/ranger#FeralSenses-305) |
-| 19th  |        +6         |              11               | Ability Score Improvement |
-| 20th  |        +6         |              12               | [Legendary Hunter](#legendary-hunter) |
+At 2nd level, you learn to create unique types of arrows, made from natural flora and fauna of the jungle or other region(s). You know how to craft a number of arrow types as follows: L2:2, L3-4:3, L5-6:4, L7-8:5, etc.
+
+| Level | Proficiency Bonus | Innate Abilities | Arrow Types | Features |
+|:-----:|:-----------------:|:----------------:|:-----------:|:---------|
+|  1st  |        +2         |         -        |      -      | [Beast Form](#beast-form), [Natural Explorer\*](https://www.dndbeyond.com/classes/ranger#NaturalExplorer-295) |
+|  2nd  |        +2         |         2        |      2      | [Fighting Style\*](https://www.dndbeyond.com/classes/ranger#FightingStyle-296), [Special Arrows](#special-arrows), [Innate Natural Abilities](#innate-special-abilities) |
+|  3rd  |        +2         |         3        |      3      | [Beast Companion](#beast-companion), [Primeval Awareness](#primeval-awareness) |
+|  4th  |        +2         |         3        |      3      | Ability Score Improvement |
+|  5th  |        +3         |         4        |      4      | [Extra Attack](#extra-attack) |
+|  6th  |        +3         |         4        |      4      | [Improved Beast Form](#improved-beast-form), [Natural Explorer\*](https://www.dndbeyond.com/classes/ranger#NaturalExplorer-295) improvement |
+|  7th  |        +3         |         5        |      5      | [Preternatual Reflexes](#preternatural-reflexes)
+|  8th  |        +3         |         5        |      5      | Ability Score Improvement, [Land's Stride\*](https://www.dndbeyond.com/classes/ranger#LandsStride-302) |
+|  9th  |        +4         |         6        |      6      | - |
+| 10th  |        +4         |         6        |      6      | [Natural Explorer\*](https://www.dndbeyond.com/classes/ranger#NaturalExplorer-295) improvement, [Hide in Plain Sight\*](https://www.dndbeyond.com/classes/ranger#HideinPlainSight-303) |
+| 11th  |        +4         |         7        |      7      | [Multiattack](#multiattack) |
+| 12th  |        +4         |         7        |      7      | Ability Score Improvement |
+| 13th  |        +5         |         8        |      8      | - |
+| 14th  |        +5         |         8        |      8      | [Greater Beast Form](#greater-beast-form), [Vanish\*](https://www.dndbeyond.com/classes/ranger#Vanish-304) |
+| 15th  |        +5         |         9        |      9      | [Superior Hunter's Defense](#superior-hunter-s-defense) |
+| 16th  |        +5         |         9        |      9      | Ability Score Improvement |
+| 17th  |        +6         |        10        |     10      | - |
+| 18th  |        +6         |        10        |     10      | [Feral Senses\*](https://www.dndbeyond.com/classes/ranger#FeralSenses-305) |
+| 19th  |        +6         |        11        |     11      | Ability Score Improvement |
+| 20th  |        +6         |        11        |     11      | [Legendary Hunter](#legendary-hunter) |
+
+\* Features marked with an asterisk above are off-site links to the standard ranger rules.
 
 ## Beast Form
 
-*This ability replaces the [standard ranger's Favored Enemy](https://www.dndbeyond.com/classes/ranger#FavoredEnemy-294). It was adapted from the [werewolf rules](https://www.dndbeyond.com/monsters/17057-werewolf) and [The Complete Guide to Lycanthropy in D&D 5e](https://halflinghobbies.com/the-complete-guide-to-lycanthropy-in-dd-5e/), which would be good to integrate more consistently with the below (TODO).*
+*This ability replaces the [standard ranger's Favored Enemy](https://www.dndbeyond.com/classes/ranger#FavoredEnemy-294). It was adapted from the [werewolf rules](https://www.dndbeyond.com/monsters/17057-werewolf) and [The Complete Guide to Lycanthropy in D&D 5e](https://halflinghobbies.com/the-complete-guide-to-lycanthropy-in-dd-5e/).*
 
 You have an animal within, which manifests under certain conditions such as during a full moon, in times of high emotional stress, physical trauma, or other triggers.
 
@@ -67,15 +71,17 @@ Beginning at 5th level, you can make an additional attack whenever you take the 
 
 ### Improved Beast Form
 
-At 6th level, your beast form improves in one of the following ways:
+At 6th level, your beast form grows in power. Choose one of the following abilities:
 
-* **Primal Strike.** Attacks in beast or hybrid count as magical +1.
+* **Damage Resistances.** You are resistant to bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered.
+
+* **Primal Strike.** Natural weapon attacks in beast or hybrid form count as magical +1.
 
 * **Savage Critical.** Your natural weapon attacks score a critical hit on 19 or 20.
 
 * **Scent of Blood.** After damaging an enemy in beast form, you become attuned to the smell their blood. Your attacks versus that target do an additional +2d6 damage, and you always know their exact location&mdash;meaning they don't benefit from concealment&mdash;as long as they are within your reach. Your actions not focused on this specific enemy are at disadvantage as long as you continue to smell its blood.
 
-* **Thrash.** Any successful natural weapon attack also does 1d4 + 1/2 Str claw damage versus another target within your reach.
+* **Thrash.** In lieu of a natural weapon attack, you can smash a grappled creature into the creatures around it. Make a melee weapon attack against each creature adjacent to the grappled creature, treating the grappled creature as an improvised weapon that deals 1d6 + Str bludgeoning damage.
 
 These abilities also become available as [feats](https://www.dndbeyond.com/sources/basic-rules/customization-options#Feats).
 
@@ -83,9 +89,9 @@ These abilities also become available as [feats](https://www.dndbeyond.com/sourc
 
 At 14th level, your beast form reaches its pinnacle. Choose one of the following abilities:
 
-* **Damage Immunities.** You are immune to bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered.
-
 * **At One with the Beast.** You have honed your mental control over your inner beast. You no longer suffer the ability score penalties to Intelligence, Wisdom or Charisma while in beast form, nor do you need to make a saving throw to control your transformations while in extraordinary circumstances.
+
+* **Primordial Strike.** Natural weapon attacks in beast or hybrid form count as magical +2.
 
 * **Extra Natural Attack.** While in beast or hybrid form, you can make an additional natural weapon attack as part of your Multiattack action, either a claw or a bite.
 
@@ -153,22 +159,30 @@ Beginning at 3rd level, you can use your action to focus your awareness on the r
 
 While in your favored terrain, you have advantage on initiative checks.
 
-## L11 TBD
+## Multiattack
 
-*This ability replaces the [standard ranger's 11th level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability.*
+*This ability functions as the [standard ranger's 11th level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability. It is copied verbatim from the [Hunter](https://www.dndbeyond.com/classes/ranger#Hunter) archetype.*
 
-Michael & Curtis TODO - 
+At 11th level, you gain one of the following features of your choice.
 
-## L15 TBD
+* **Volley.** You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
 
-*This ability replaces the [standard ranger's 15th level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability.*
+* **Whirlwind Attack.** You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
 
-Michael & Curtis TODO
+## Superior Hunter’s Defense
+
+*This ability functions as the [standard ranger's 15th level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability. It is copied verbatim from the [Hunter](https://www.dndbeyond.com/classes/ranger#Hunter) archetype.*
+
+At 15th level, you gain one of the following features of your choice.
+
+* **Evasion.** When you are subjected to an effect, such as a red dragon’s fiery breath or a lightning bolt spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+* **Stand Against the Tide.** When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
+
+* **Uncanny Dodge.** When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack’s damage against you.
 
 ## Legendary Hunter
 
 *This ability replaces the [standard ranger's Foe Slayer](https://www.dndbeyond.com/classes/ranger#FoeSlayer-306).*
 
-At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your marked enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied. While in beast form, you may activate this ability versus any enemy (though still only once per turn).
-
-TODO - hunter's mark is an innate natural ability that Freki chose, but is not part of this class in general. Address this discrepancy.
+At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
