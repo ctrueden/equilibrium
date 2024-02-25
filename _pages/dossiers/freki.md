@@ -141,7 +141,7 @@ See [Beast of the Sky](https://5e.tools/bestiary.html#beast%20of%20the%20sky_tce
 #### Build choices
 
 * \[L6\] [Improved Beast Form](../rules/lycan-ranger#improved-beast-form): Scent of Blood
-* \[L10\] (Story) [At One with the Beast](../rules/lycan-ranger#greater-beast-form)
+* \[L10\] (Story) [Accepting the Beast](../rules/lycan-ranger#greater-beast-form): half mental penalties (hybrid: Int/Wis -1; wolf: Int/Wis -2)
 * \[L11\] [Multiattack](../rules/lycan-ranger#multiattack): Volley
 * \[L14\] [Greater Beast Form](../rules/lycan-ranger#greater-beast-form): TBD
 * \[L15\] [Superior Hunter's Defense](../rules/lycan-ranger#superior-hunters-defense): Stand Against the Tide
