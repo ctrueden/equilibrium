@@ -13,6 +13,11 @@ statbox:
   bond: lost family
   flaw: craves information
 magic-items:
+  - name: Celestial Hand
+    source: "Crypts, Evershroud Manor"
+    rarity: artifact (unique)
+    value: TODO
+    page: "N/A"
   - name: Hat of Wizardry
     source: Merfolk treasure
     rarity: TODO

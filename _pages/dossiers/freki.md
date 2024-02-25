@@ -19,6 +19,12 @@ statbox:
   bond: slain family
   flaw: slow to trust
 magic-items:
+  - name: Billowing Cloak
+    source: Merfolk treasure
+    rarity: TODO
+    value: TODO
+    page: TODO
+    link: https://5e.tools/items.html#cloak%20of%20billowing_xge
   - name: Arrows of Tidal Force x3
     source: Merfolk treasure
     rarity: TODO

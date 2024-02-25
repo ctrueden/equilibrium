@@ -13,12 +13,12 @@ statbox:
   bond: old lady who saved him
   flaw: impulsive to a fault
 magic-items:
-  - name: Billowing Cloak
-    source: Merfolk treasure
+  - name: Crystal Ball of Scrying
+    source: "Invictus's Study, Evershroud Manor"
     rarity: TODO
     value: TODO
-    page: TODO
-    link: https://5e.tools/items.html#cloak%20of%20billowing_xge
+    page: 159
+    link: https://5e.tools/items.html#crystal%20ball_dmg
   - name: Decanter of Endless Water
     source: Merfolk treasure
     rarity: TODO
