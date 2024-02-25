@@ -86,89 +86,89 @@ Bec is an enchantress. She has joined the SPI to learn more magic, and to find o
 
 Spell | Level | School | Source
 ------|-------|--------|-------
-[Arcane Eye](https://www.dandwiki.com/wiki/3e_SRD:Arcane_Eye) | 4 | Div | Bronze Age
-[Arcane Mark](https://www.dandwiki.com/wiki/3e_SRD:Arcane_Mark) | 0 | Univ | Bronze Age
-[Cat's Grace](https://www.dandwiki.com/wiki/3e_SRD:Cat%27s_Grace) | 2 | Trans | Bronze Age
+[Arcane Eye](https://www.dandwiki.com/wiki/3e_SRD:Arcane_Eye) | 4 | Div | [Age of Freedom](../events/age-03)
+[Arcane Mark](https://www.dandwiki.com/wiki/3e_SRD:Arcane_Mark) | 0 | Univ | [Age of Freedom](../events/age-03)
+[Cat's Grace](https://www.dandwiki.com/wiki/3e_SRD:Cat%27s_Grace) | 2 | Trans | [Age of Freedom](../events/age-03)
 Copy | 1 | Trans | C.Wiz 3020
-[Dancing Lights](https://www.dandwiki.com/wiki/3e_SRD:Dancing_Lights) | 0 | Evoc [Light] | Bronze Age
+[Dancing Lights](https://www.dandwiki.com/wiki/3e_SRD:Dancing_Lights) | 0 | Evoc [Light] | [Age of Freedom](../events/age-03)
 Delicious Treat | 0 | Conj (Creat) | (original)
-[Detect Psionics](https://www.dandwiki.com/wiki/3e_SRD:Detect_Psionics) | 1 | Div | Bronze Age
-[Detect Scrying](https://www.dandwiki.com/wiki/3e_SRD:Detect_Scrying) | 4 | Div | Bronze Age
-[Dimension Door](https://www.dandwiki.com/wiki/3e_SRD:Dimension_Door) | 4 | Conj (Tele) | Core
-[Disrupt Undead](https://www.dandwiki.com/wiki/3e_SRD:Disrupt_Undead) | 0 | Necro | Core
-[Fabricate](https://www.dandwiki.com/wiki/3e_SRD:Fabricate) | 5 | Trans | Core
-[Feather Fall](https://www.dandwiki.com/wiki/3e_SRD:Feather_Fall) | 1 | Trans {immediate} | Core
-[Flare](https://www.dandwiki.com/wiki/3e_SRD:Flare) | 0 Drd, 0 | Evoc [Light] | Core
-[Gaseous Form](https://www.dandwiki.com/wiki/3e_SRD:Gaseous_Form) | 3 | Trans | Core
-[Ghost Sound](https://www.dandwiki.com/wiki/3e_SRD:Ghost_Sound) | 0 | Illus (Fig) | Core
-[Globe of Invulnerability, Minor](https://www.dandwiki.com/wiki/3e_SRD:Globe_of_Invulnerability,_Minor) | 4 | Abjur | Core
-[Identify](https://www.dandwiki.com/wiki/3e_SRD:Identify) | 1 | Div | Core
-[Invisibility](https://www.dandwiki.com/wiki/3e_SRD:Invisibility) | 2 | Illus (Glam) | Core
-[Knock](https://www.dandwiki.com/wiki/3e_SRD:Knock) | 2 | Trans | Core
-[Locate Creature](https://www.dandwiki.com/wiki/3e_SRD:Locate_Creature) | 4 | Div | Core
-[Mage Hand](https://www.dandwiki.com/wiki/3e_SRD:Mage_Hand) | 0 | Trans | Core
-[Magic Missile](https://www.dandwiki.com/wiki/3e_SRD:Magic_Missile) | 1 | Evoc [Force] | Core
-[Mirage Arcana](https://www.dandwiki.com/wiki/3e_SRD:Mirage_Arcana) | 5 | Illus (Glam) | Core
-[Open/Close](https://www.dandwiki.com/wiki/3e_SRD:Open/Close) | 0 | Trans | Core
-[Permanency](https://www.dandwiki.com/wiki/3e_SRD:Permanency) | 5 | Univ | Core
-[Persistent Image](https://www.dandwiki.com/wiki/3e_SRD:Persistent_Image) | 5 | Illus (Fig) | Core
-[Prestidigitation](https://www.dandwiki.com/wiki/3e_SRD:Prestidigitation) | 0 | Univ | Core
+[Detect Psionics](https://www.dandwiki.com/wiki/3e_SRD:Detect_Psionics) | 1 | Div | [Age of Freedom](../events/age-03)
+[Detect Scrying](https://www.dandwiki.com/wiki/3e_SRD:Detect_Scrying) | 4 | Div | [Age of Freedom](../events/age-03)
+[Dimension Door](https://www.dandwiki.com/wiki/3e_SRD:Dimension_Door) | 4 | Conj (Tele) | [Age of Freedom](../events/age-03)
+[Disrupt Undead](https://www.dandwiki.com/wiki/3e_SRD:Disrupt_Undead) | 0 | Necro | [Age of Freedom](../events/age-03)
+[Fabricate](https://www.dandwiki.com/wiki/3e_SRD:Fabricate) | 5 | Trans | [Age of Freedom](../events/age-03)
+[Feather Fall](https://www.dandwiki.com/wiki/3e_SRD:Feather_Fall) | 1 | Trans {immediate} | [Age of Freedom](../events/age-03)
+[Flare](https://www.dandwiki.com/wiki/3e_SRD:Flare) | 0 Drd, 0 | Evoc [Light] | [Age of Freedom](../events/age-03)
+[Gaseous Form](https://www.dandwiki.com/wiki/3e_SRD:Gaseous_Form) | 3 | Trans | [Age of Freedom](../events/age-03)
+[Ghost Sound](https://www.dandwiki.com/wiki/3e_SRD:Ghost_Sound) | 0 | Illus (Fig) | [Age of Freedom](../events/age-03)
+[Globe of Invulnerability, Minor](https://www.dandwiki.com/wiki/3e_SRD:Globe_of_Invulnerability,_Minor) | 4 | Abjur | [Age of Freedom](../events/age-03)
+[Identify](https://www.dandwiki.com/wiki/3e_SRD:Identify) | 1 | Div | [Age of Freedom](../events/age-03)
+[Invisibility](https://www.dandwiki.com/wiki/3e_SRD:Invisibility) | 2 | Illus (Glam) | [Age of Freedom](../events/age-03)
+[Knock](https://www.dandwiki.com/wiki/3e_SRD:Knock) | 2 | Trans | [Age of Freedom](../events/age-03)
+[Locate Creature](https://www.dandwiki.com/wiki/3e_SRD:Locate_Creature) | 4 | Div | [Age of Freedom](../events/age-03)
+[Mage Hand](https://www.dandwiki.com/wiki/3e_SRD:Mage_Hand) | 0 | Trans | [Age of Freedom](../events/age-03)
+[Magic Missile](https://www.dandwiki.com/wiki/3e_SRD:Magic_Missile) | 1 | Evoc [Force] | [Age of Freedom](../events/age-03)
+[Mirage Arcana](https://www.dandwiki.com/wiki/3e_SRD:Mirage_Arcana) | 5 | Illus (Glam) | [Age of Freedom](../events/age-03)
+[Open/Close](https://www.dandwiki.com/wiki/3e_SRD:Open/Close) | 0 | Trans | [Age of Freedom](../events/age-03)
+[Permanency](https://www.dandwiki.com/wiki/3e_SRD:Permanency) | 5 | Univ | [Age of Freedom](../events/age-03)
+[Persistent Image](https://www.dandwiki.com/wiki/3e_SRD:Persistent_Image) | 5 | Illus (Fig) | [Age of Freedom](../events/age-03)
+[Prestidigitation](https://www.dandwiki.com/wiki/3e_SRD:Prestidigitation) | 0 | Univ | [Age of Freedom](../events/age-03)
 Revert Form | 5 | Abjur
-[Rope Trick](https://www.dandwiki.com/wiki/3e_SRD:Rope_Trick) | 2 | Trans | Core
-[Secret Page](https://www.dandwiki.com/wiki/3e_SRD:Secret_Page) | 3 | Trans | Core
-[See Invisibility](https://www.dandwiki.com/wiki/3e_SRD:See_Invisibility) | 2 | Div | Core
-[Shadow Evocation](https://www.dandwiki.com/wiki/3e_SRD:Shadow_Evocation) | 5 | Illus (Shadow) | Core
-[Shield](https://www.dandwiki.com/wiki/3e_SRD:Shield) | 1 | Abjur [Force] | Core
-[Shrink Item](https://www.dandwiki.com/wiki/3e_SRD:Shield) | 3 | Trans | Core
-[Silent Image](https://www.dandwiki.com/wiki/3e_SRD:Silent_Image) | 1 | Illus (Fig) | Core
-[Telepathic Bond](https://www.dandwiki.com/wiki/3e_SRD:Telepathic_Bond) | 5 | Div | Core
-[Tongues](https://www.dandwiki.com/wiki/3e_SRD:Tongues) | 3 | Div | Core
-[True Strike](https://www.dandwiki.com/wiki/3e_SRD:True_Strike) | 1 | Div | Core
-[Ventriloquism](https://www.dandwiki.com/wiki/3e_SRD:Ventriloquism) | 1 | Illus (Fig) | Core
-[Wall of Force](https://www.dandwiki.com/wiki/3e_SRD:Wall_of_Force) | 5 | Evoc [Force] | Core
+[Rope Trick](https://www.dandwiki.com/wiki/3e_SRD:Rope_Trick) | 2 | Trans | [Age of Freedom](../events/age-03)
+[Secret Page](https://www.dandwiki.com/wiki/3e_SRD:Secret_Page) | 3 | Trans | [Age of Freedom](../events/age-03)
+[See Invisibility](https://www.dandwiki.com/wiki/3e_SRD:See_Invisibility) | 2 | Div | [Age of Freedom](../events/age-03)
+[Shadow Evocation](https://www.dandwiki.com/wiki/3e_SRD:Shadow_Evocation) | 5 | Illus (Shadow) | [Age of Freedom](../events/age-03)
+[Shield](https://www.dandwiki.com/wiki/3e_SRD:Shield) | 1 | Abjur [Force] | [Age of Freedom](../events/age-03)
+[Shrink Item](https://www.dandwiki.com/wiki/3e_SRD:Shield) | 3 | Trans | [Age of Freedom](../events/age-03)
+[Silent Image](https://www.dandwiki.com/wiki/3e_SRD:Silent_Image) | 1 | Illus (Fig) | [Age of Freedom](../events/age-03)
+[Telepathic Bond](https://www.dandwiki.com/wiki/3e_SRD:Telepathic_Bond) | 5 | Div | [Age of Freedom](../events/age-03)
+[Tongues](https://www.dandwiki.com/wiki/3e_SRD:Tongues) | 3 | Div | [Age of Freedom](../events/age-03)
+[True Strike](https://www.dandwiki.com/wiki/3e_SRD:True_Strike) | 1 | Div | [Age of Freedom](../events/age-03)
+[Ventriloquism](https://www.dandwiki.com/wiki/3e_SRD:Ventriloquism) | 1 | Illus (Fig) | [Age of Freedom](../events/age-03)
+[Wall of Force](https://www.dandwiki.com/wiki/3e_SRD:Wall_of_Force) | 5 | Evoc [Force] | [Age of Freedom](../events/age-03)
 
 #### Tád
 
 Spell | Level | School | Source
 ------|-------|--------|-------
-Alarm | 1 | Abjur | Core
-Animate Rope | 1 | Trans | Core
-Color Spray@ | 1 | Illus (Pat) [Mind] | Core
-Disguise Self | 1 | Illus (Glam) | Core
+Alarm | 1 | Abjur | [Age of Freedom](../events/age-03)
+[Animate Rope](https://www.dandwiki.com/wiki/3e_SRD:Animate_Rope) | 1 | Trans | [Age of Freedom](../events/age-03)
+[Color Spray](https://www.dandwiki.com/wiki/3e_SRD:Color_Spray) | 1 | Illus (Pat) [Mind] | [Age of Freedom](../events/age-03)
+[Disguise Self](https://www.dandwiki.com/wiki/3e_SRD:Disguise_Self) | 1 | Illus (Glam) | [Age of Freedom](../events/age-03)
 Distract Assailant | 1 | Ench (Comp) [Mind] | SC 69
-Dream | 5 | Illus (Phant) [Mind] | Core
+[Dream](https://www.dandwiki.com/wiki/3e_SRD:Dream) | 5 | Illus (Phant) [Mind] | [Age of Freedom](../events/age-03)
 Folding | 6 | Trans
-Grease | 1 | Conj (Creat) | Core
-Hold Portal | 1 | Abjur | Core
-Jump | 1 | Trans | Core
-Mage Armor | 1 | Conj (Creat) [Force] | Core
+[Grease](https://www.dandwiki.com/wiki/3e_SRD:Grease) | 1 | Conj (Creat) | [Age of Freedom](../events/age-03)
+[Hold Portal](https://www.dandwiki.com/wiki/3e_SRD:Hold_Portal) | 1 | Abjur | [Age of Freedom](../events/age-03)
+Jump | 1 | Trans | [Age of Freedom](../events/age-03)
+[Mage Armor](https://www.dandwiki.com/wiki/3e_SRD:Mage_Armor) | 1 | Conj (Creat) [Force] | [Age of Freedom](../events/age-03)
 Malison, Greater | 4 | Ench (Charm) | Tome 4409
-Mirror Image | 2 | Illus (Fig) | Core
+[Mirror Image](https://www.dandwiki.com/wiki/3e_SRD:Mirror_Image) | 2 | Illus (Fig) | [Age of Freedom](../events/age-03)
 Monk's Fighting Grace | 2 | Trans | QWiz 78
-Mount | 1 | Conj (Summ) | Core
-Rainbow Pattern | 4 | Illus [Mind] | Core
-Resilient Sphere | 4 | Evoc [Force] | Core
+[Mount](https://www.dandwiki.com/wiki/3e_SRD:Mount) | 1 | Conj (Summ) | [Age of Freedom](../events/age-03)
+[Rainbow Pattern](https://www.dandwiki.com/wiki/3e_SRD:Rainbow_Pattern) | 4 | Illus [Mind] | [Age of Freedom](../events/age-03)
+[Resilient Sphere](https://www.dandwiki.com/wiki/3e_SRD:Resilient_Sphere) | 4 | Evoc [Force] | [Age of Freedom](../events/age-03)
 Suppression | 8 | Abjur
-Unseen Servant | 1 | Conj (Creat) | Core
+[Unseen Servant](https://www.dandwiki.com/wiki/3e_SRD:Unseen_Servant) | 1 | Conj (Creat) | [Age of Freedom](../events/age-03)
 War Mastery | 3 | Div | QWiz 81
 
 #### Neled
 
 Spell | Level | School | Source
 ------|-------|--------|-------
-Antimagic Field | 6 | Abjur | Core
+[Antimagic Field](https://www.dandwiki.com/wiki/3e_SRD:Antimagic_Field) | 6 | Abjur | [Age of Freedom](../events/age-03)
 Antipsionic Field | 7 | Abjur
-Arcane Sight, Greater | 7 | Div | Core
+Arcane Sight, Greater | 7 | Div | [Age of Freedom](../events/age-03)
 Dispel Psionics, Greater | 7 | Abjur
 Glass Strike | 7 | Trans {F} | SC 106
-Mage's Disjunction* | 9 | Abjur | Core
-Meteor Swarm | 9 | Evoc | Core
-Moment of Prescience | 8 | Div | Core
+Mage's Disjunction | 9 | Abjur | [Age of Freedom](../events/age-03)
+[Meteor Swarm](https://www.dandwiki.com/wiki/3e_SRD:Meteor_Swarm) | 9 | Evoc | [Age of Freedom](../events/age-03)
+Moment of Prescience | 8 | Div | [Age of Freedom](../events/age-03)
 Psionic Sight, Greater | 8 | Div
 Replicate Casting* | 9 | Trans | SC 173
-Shrink Item | 3 | Trans | Core
-Stone Shape | 4 | Trans [Earth] | Core
-Stone to Flesh | 6 | Trans | Core
+[Shrink Item](https://www.dandwiki.com/wiki/3e_SRD:Shrink_Item) | 3 | Trans | [Age of Freedom](../events/age-03)
+[Stone Shape](https://www.dandwiki.com/wiki/3e_SRD:Stone_Shape) | 4 | Trans [Earth] | [Age of Freedom](../events/age-03)
+[Stone to Flesh](https://www.dandwiki.com/wiki/3e_SRD:Stone_to_Flesh) | 6 | Trans | [Age of Freedom](../events/age-03)
 Tenacious Dispelling | 3 | Abjur | CM 119
 Wall of Greater Dispel Magic | 8 | Abjur | SC 234
 
@@ -177,21 +177,21 @@ Wall of Greater Dispel Magic | 8 | Abjur | SC 234
 Spell | Level | School | Source
 ------|-------|--------|-------
 Analyze Portal | 3 | Div | SC 10
-Antimagic Field | 6 | Abjur | Core
-Arcane Sight | 3 | Div | Core
-Arcane Sight, Greater | 7 | Div | Core
-Clairaudience/Clairvoyance | 3 | Div (Scry) | Core
-Contingency | 6 | Evoc {F} | Core
-Dimensional Anchor | 4 | Abjur | Core
-Dimensional Lock | 8 | Abjur | Core
-Dispel Magic, Greater | 6 | Abjur | Core
+[Antimagic Field](https://www.dandwiki.com/wiki/3e_SRD:Antimagic_Field) | 6 | Abjur | [Age of Freedom](../events/age-03)
+[Arcane Sight](https://www.dandwiki.com/wiki/3e_SRD:Arcane_Sight) | 3 | Div | [Age of Freedom](../events/age-03)
+Arcane Sight, Greater | 7 | Div | [Age of Freedom](../events/age-03)
+Clairaudience/Clairvoyance | 3 | Div (Scry) | [Age of Freedom](../events/age-03)
+[Contingency](https://www.dandwiki.com/wiki/3e_SRD:Contingency) | 6 | Evoc {F} | [Age of Freedom](../events/age-03)
+[Dimensional Anchor](https://www.dandwiki.com/wiki/3e_SRD:Dimensional_Anchor) | 4 | Abjur | [Age of Freedom](../events/age-03)
+[Dimensional Lock](https://www.dandwiki.com/wiki/SRD:Dimensional_Lock) | 8 | Abjur | [Age of Freedom](../events/age-03)
+Dispel Magic,Greater | 6 | Abjur | [Age of Freedom](../events/age-03)
 Haste | 6 | Trans
-Knock | 2 | Trans | Core
-Legend Lore | 6 | Div | Core
-Mage's Disjunction* | 9 | Abjur | Core
-Magic Circle against Chaos | 3 | Abjur [Law] | Core
-Phantom Steed | 3 | Conj (Creat) | Core
-Sending | 5 | Evoc | Core
-Telekinesis | 5 | Trans | Core
-True Seeing | 6 | Div | Core
-Wall of Force | 5 | Evoc [Force] | Core
+[Knock](https://www.dandwiki.com/wiki/3e_SRD:Knock) | 2 | Trans | [Age of Freedom](../events/age-03)
+[Legend Lore](https://www.dandwiki.com/wiki/3e_SRD:Legend_Lore) | 6 | Div | [Age of Freedom](../events/age-03)
+Mage's Disjunction* | 9 | Abjur | [Age of Freedom](../events/age-03)
+Magic Circle against Chaos | 3 | Abjur [Law] | [Age of Freedom](../events/age-03)
+[Phantom Steed](https://www.dandwiki.com/wiki/3e_SRD:Phantom_Steed) | 3 | Conj (Creat) | [Age of Freedom](../events/age-03)
+[Sending](https://www.dandwiki.com/wiki/3e_SRD:Sending) | 5 | Evoc | [Age of Freedom](../events/age-03)
+[Telekinesis](https://www.dandwiki.com/wiki/3e_SRD:Telekinesis) | 5 | Trans | [Age of Freedom](../events/age-03)
+[True Seeing](https://www.dandwiki.com/wiki/3e_SRD:True_Seeing) | 6 | Div | [Age of Freedom](../events/age-03)
+[Wall of Force](https://www.dandwiki.com/wiki/3e_SRD:Wall_of_Force) | 5 | Evoc [Force] | [Age of Freedom](../events/age-03)
