@@ -86,46 +86,46 @@ Bec is an enchantress. She has joined the SPI to learn more magic, and to find o
 
 Spell | Level | School | Source
 ------|-------|--------|-------
-Arcane Eye | 4 | Div | Core
-Arcane Mark | 0 | Univ | Core
-Cat's Grace | 2 | Trans | Core
+[Arcane Eye](https://www.dandwiki.com/wiki/3e_SRD:Arcane_Eye) | 4 | Div | Bronze Age
+[Arcane Mark](https://www.dandwiki.com/wiki/3e_SRD:Arcane_Mark) | 0 | Univ | Bronze Age
+[Cat's Grace](https://www.dandwiki.com/wiki/3e_SRD:Cat%27s_Grace) | 2 | Trans | Bronze Age
 Copy | 1 | Trans | C.Wiz 3020
-Dancing Lights | 0 | Evoc [Light] | Core
-Delicious Treat | 0 | Conj (Creat)
-Detect Psionics | 1 | Div
-Detect Scrying | 4 | Div | Core
-Dimension Door | 4 | Conj (Tele) | Core
-Disrupt Undead | 0 | Necro | Core
-Fabricate | 5 | Trans | Core
-Feather Fall | 1 | Trans {immediate} | Core
-Flare | 0 Drd, 0 | Evoc [Light] | Core
-Gaseous Form | 3 | Trans | Core
-Ghost Sound | 0 | Illus (Fig) | Core
-Globe of Invulnerability, Lesser | 4 | Abjur | Core
-Identify | 1 | Div | Core
-Invisibility | 2 | Illus (Glam) | Core
-Knock | 2 | Trans | Core
-Locate Creature | 4 | Div | Core
-Mage Hand | 0 | Trans | Core
-Magic Missile | 1 | Evoc [Force] | Core
-Mirage Arcana@ | 5 | Illus (Glam) | Core
-Open/Close | 0 | Trans | Core
-Permanency | 5 | Univ | Core
-Persistent Image | 5 | Illus (Fig) | Core
-Prestidigitation | 0 | Univ | Core
+[Dancing Lights](https://www.dandwiki.com/wiki/3e_SRD:Dancing_Lights) | 0 | Evoc [Light] | Bronze Age
+Delicious Treat | 0 | Conj (Creat) | (original)
+[Detect Psionics](https://www.dandwiki.com/wiki/3e_SRD:Detect_Psionics) | 1 | Div | Bronze Age
+[Detect Scrying](https://www.dandwiki.com/wiki/3e_SRD:Detect_Scrying) | 4 | Div | Bronze Age
+[Dimension Door](https://www.dandwiki.com/wiki/3e_SRD:Dimension_Door) | 4 | Conj (Tele) | Core
+[Disrupt Undead](https://www.dandwiki.com/wiki/3e_SRD:Disrupt_Undead) | 0 | Necro | Core
+[Fabricate](https://www.dandwiki.com/wiki/3e_SRD:Fabricate) | 5 | Trans | Core
+[Feather Fall](https://www.dandwiki.com/wiki/3e_SRD:Feather_Fall) | 1 | Trans {immediate} | Core
+[Flare](https://www.dandwiki.com/wiki/3e_SRD:Flare) | 0 Drd, 0 | Evoc [Light] | Core
+[Gaseous Form](https://www.dandwiki.com/wiki/3e_SRD:Gaseous_Form) | 3 | Trans | Core
+[Ghost Sound](https://www.dandwiki.com/wiki/3e_SRD:Ghost_Sound) | 0 | Illus (Fig) | Core
+[Globe of Invulnerability, Minor](https://www.dandwiki.com/wiki/3e_SRD:Globe_of_Invulnerability,_Minor) | 4 | Abjur | Core
+[Identify](https://www.dandwiki.com/wiki/3e_SRD:Identify) | 1 | Div | Core
+[Invisibility](https://www.dandwiki.com/wiki/3e_SRD:Invisibility) | 2 | Illus (Glam) | Core
+[Knock](https://www.dandwiki.com/wiki/3e_SRD:Knock) | 2 | Trans | Core
+[Locate Creature](https://www.dandwiki.com/wiki/3e_SRD:Locate_Creature) | 4 | Div | Core
+[Mage Hand](https://www.dandwiki.com/wiki/3e_SRD:Mage_Hand) | 0 | Trans | Core
+[Magic Missile](https://www.dandwiki.com/wiki/3e_SRD:Magic_Missile) | 1 | Evoc [Force] | Core
+[Mirage Arcana](https://www.dandwiki.com/wiki/3e_SRD:Mirage_Arcana) | 5 | Illus (Glam) | Core
+[Open/Close](https://www.dandwiki.com/wiki/3e_SRD:Open/Close) | 0 | Trans | Core
+[Permanency](https://www.dandwiki.com/wiki/3e_SRD:Permanency) | 5 | Univ | Core
+[Persistent Image](https://www.dandwiki.com/wiki/3e_SRD:Persistent_Image) | 5 | Illus (Fig) | Core
+[Prestidigitation](https://www.dandwiki.com/wiki/3e_SRD:Prestidigitation) | 0 | Univ | Core
 Revert Form | 5 | Abjur
-Rope Trick | 2 | Trans | Core
-Secret Page | 3 | Trans | Core
-See Invisibility | 2 | Div | Core
-Shadow Evocation | 5 | Illus (Shadow) | Core
-Shield | 1 | Abjur [Force] | Core
-Shrink Item | 3 | Trans | Core
-Silent Image | 1 | Illus (Fig) | Core
-Telepathic Bond | 5 | Div | Core
-Tongues | 3 | Div | Core
-True Strike | 1 | Div | Core
-Ventriloquism | 1 | Illus (Fig) | Core
-Wall of Force | 5 | Evoc [Force] | Core
+[Rope Trick](https://www.dandwiki.com/wiki/3e_SRD:Rope_Trick) | 2 | Trans | Core
+[Secret Page](https://www.dandwiki.com/wiki/3e_SRD:Secret_Page) | 3 | Trans | Core
+[See Invisibility](https://www.dandwiki.com/wiki/3e_SRD:See_Invisibility) | 2 | Div | Core
+[Shadow Evocation](https://www.dandwiki.com/wiki/3e_SRD:Shadow_Evocation) | 5 | Illus (Shadow) | Core
+[Shield](https://www.dandwiki.com/wiki/3e_SRD:Shield) | 1 | Abjur [Force] | Core
+[Shrink Item](https://www.dandwiki.com/wiki/3e_SRD:Shield) | 3 | Trans | Core
+[Silent Image](https://www.dandwiki.com/wiki/3e_SRD:Silent_Image) | 1 | Illus (Fig) | Core
+[Telepathic Bond](https://www.dandwiki.com/wiki/3e_SRD:Telepathic_Bond) | 5 | Div | Core
+[Tongues](https://www.dandwiki.com/wiki/3e_SRD:Tongues) | 3 | Div | Core
+[True Strike](https://www.dandwiki.com/wiki/3e_SRD:True_Strike) | 1 | Div | Core
+[Ventriloquism](https://www.dandwiki.com/wiki/3e_SRD:Ventriloquism) | 1 | Illus (Fig) | Core
+[Wall of Force](https://www.dandwiki.com/wiki/3e_SRD:Wall_of_Force) | 5 | Evoc [Force] | Core
 
 #### Tád
 
