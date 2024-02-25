@@ -4,15 +4,15 @@ title: Gear
 
 ## Tattoos
 
-| Color  | Power          | Notes                                |
-|--------|----------------|--------------------------------------|
-| Red    | [hammer]       | 4 touches at 3d8 each                |
-| Orange | [hustle]       | extra bonus action OR extra movement |
-| Yellow | [time hop]     | 5 rounds forward, Will DC 15 negates |
-| Green  | [biofeedback]  | DR 4/- for 7 min.                    |
-| Blue   | [defy gravity] | 1 hour, self only                    |
-| Violet | [vigor]        | 20 temporary HP for 7 min.           |
-| Black  | [truevenom]    | Fort save DC                         |
+| Color  | Power          | Activation                    | Notes                                  |
+|--------|----------------|-------------------------------|----------------------------------------|
+| Red    | [hammer]       | as part of an attack (1/turn) | 4 touches at 3d8 each                  |
+| Orange | [hustle]       | free action                   | extra bonus action OR extra movement   |
+| Yellow | [time hop]     | bonus action                  | 5 rounds forward, Wisdom DC 15 negates |
+| Green  | [biofeedback]  | bonus action                  | DR 4/- for 7 min.                      |
+| Blue   | [defy gravity] | bonus action                  | 1 hour, self only                      |
+| Violet | [vigor]        | bonus action                  | 20 temporary HP for 7 min.             |
+| Black  | [truevenom]    | bonus action                  | Constitution save DC 15                |
 
 ## Magic Items
 
