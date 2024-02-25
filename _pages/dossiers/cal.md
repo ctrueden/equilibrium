@@ -14,6 +14,11 @@ statbox:
   bond: family
   flaw: racist to undead
 magic-items:
+  - name: Bag of Holding
+    source: "SPI standard issue (1 per team)"
+    rarity: TODO
+    value: TODO
+    page: TODO
   - name: Net of Entanglement
     source: Merfolk treasure
     rarity: rare (major)
