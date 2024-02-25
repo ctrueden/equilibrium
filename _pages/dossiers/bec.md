@@ -80,6 +80,44 @@ Bec is an enchantress. She has joined the SPI to learn more magic, and to find o
 
 ***Prevailing truth (Arcana, History, Nature, Religion).*** The tree of infinite possibility appears before you, you see branches which must be eliminated—and a powerful truth remains.
 
+### Meroe's Spellbook
+
+| level | spell |
+|:-----:|-------|
+|   C   | chill touch
+|   C   | acid splash
+|   C   | fire bolt
+|   C   | friends
+|   C   | mage hand
+|   C   | poison spray
+|   C   | produce flame
+|   1   | chromatic orb
+|   1   | color spray
+|   1   | disguise self
+|   1   | expeditious retreat
+|   1   | feather fall
+|   1   | fog cloud
+|   1   | sculpt corpse
+|   1   | tasha's hideous laughter
+|   2   | alter self
+|   2   | enlarge/reduce
+|   2   | flaming sphere
+|   2   | invisibility
+|   2   | levitate
+|   2   | mirror image
+|   2   | rope trick
+|   3   | fly
+|   3   | haste
+|   3   | hypnotic pattern
+|   3   | major image
+|   4   | confusion
+|   4   | fire shield
+|   4   | stone shape
+|   4   | wall of fire
+|   5   | animate objects
+|   5   | conjure elemental
+|   5   | hold monster
+
 ### Sartus's Spellbooks
 
 #### Erui
