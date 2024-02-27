@@ -84,39 +84,39 @@ Bec is an enchantress. She has joined the SPI to learn more magic, and to find o
 
 | level | spell |
 |:-----:|-------|
-|   C   | chill touch
-|   C   | acid splash
-|   C   | fire bolt
-|   C   | friends
-|   C   | mage hand
-|   C   | poison spray
-|   C   | produce flame
-|   1   | chromatic orb
-|   1   | color spray
-|   1   | disguise self
-|   1   | expeditious retreat
-|   1   | feather fall
-|   1   | fog cloud
-|   1   | sculpt corpse
-|   1   | tasha's hideous laughter
-|   2   | alter self
-|   2   | enlarge/reduce
-|   2   | flaming sphere
-|   2   | invisibility
-|   2   | levitate
-|   2   | mirror image
-|   2   | rope trick
-|   3   | fly
-|   3   | haste
-|   3   | hypnotic pattern
-|   3   | major image
-|   4   | confusion
-|   4   | fire shield
-|   4   | stone shape
-|   4   | wall of fire
-|   5   | animate objects
-|   5   | conjure elemental
-|   5   | hold monster
+|   C   | [chill touch](https://5e.tools/spells.html#chill%20touch_phb)
+|   C   | [acid splash](https://5e.tools/spells.html#acid%20splash_phb)
+|   C   | [fire bolt](https://5e.tools/spells.html#fire%20bolt_phb)
+|   C   | [friends](https://5e.tools/spells.html#friends_phb)
+|   C   | [mage hand](https://5e.tools/spells.html#mage%20hand_phb)
+|   C   | [poison spray](https://5e.tools/spells.html#poison%20spray_phb)
+|   C   | [produce flame](https://5e.tools/spells.html#produce%20flame_phb)
+|   1   | [chromatic orb](https://5e.tools/spells.html#chromatic%20orb_phb)
+|   1   | [color spray](https://5e.tools/spells.html#color%20spray_phb)
+|   1   | [disguise self](https://5e.tools/spells.html#disguise%20self_phb)
+|   1   | [expeditious retreat](https://5e.tools/spells.html#expeditious%20retreat_phb)
+|   1   | [feather fall](https://5e.tools/spells.html#feather%20fall_phb)
+|   1   | [fog cloud](https://5e.tools/spells.html#fog%20cloud_phb)
+|   1   | [sculpt corpse](https://5e.tools/spells.html#sculpt%20corpse_phb)
+|   1   | [tasha's hideous laughter](https://5e.tools/spells.html#tasha%27s%20hideous%20laughter_phb)
+|   2   | [alter self](https://5e.tools/spells.html#alter%20self_phb)
+|   2   | [enlarge/reduce](https://5e.tools/spells.html#enlarge/reduce_phb)
+|   2   | [flaming sphere](https://5e.tools/spells.html#flaming%20sphere_phb)
+|   2   | [invisibility](https://5e.tools/spells.html#invisibility_phb)
+|   2   | [levitate](https://5e.tools/spells.html#levitate_phb)
+|   2   | [mirror image](https://5e.tools/spells.html#mirror%20image_phb)
+|   2   | [rope trick](https://5e.tools/spells.html#rope%20trick_phb)
+|   3   | [fly](https://5e.tools/spells.html#fly_phb)
+|   3   | [haste](https://5e.tools/spells.html#haste_phb)
+|   3   | [hypnotic pattern](https://5e.tools/spells.html#hypnotic%20pattern_phb)
+|   3   | [major image](https://5e.tools/spells.html#major%20image_phb)
+|   4   | [confusion](https://5e.tools/spells.html#confusion_phb)
+|   4   | [fire shield](https://5e.tools/spells.html#fire%20shield_phb)
+|   4   | [stone shape](https://5e.tools/spells.html#stone%20shape_phb)
+|   4   | [wall of fire](https://5e.tools/spells.html#wall%20of%20fire_phb)
+|   5   | [animate objects](https://5e.tools/spells.html#animate%20objects_phb)
+|   5   | [conjure elemental](https://5e.tools/spells.html#conjure%20elemental_phb)
+|   5   | [hold monster](https://5e.tools/spells.html#hold%20monster_phb)
 
 ### Sartus's Spellbooks
 
