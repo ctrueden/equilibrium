@@ -29,9 +29,10 @@ title: Dossiers
       <option value="09">[09] Amalgamation and Anathema | Flux</option>
       <option value="10">[10] Capers and Calamity | RUP: Oasis</option>
       <option value="11">[11] Hardships and Homecomings | Cognitutus</option>
-      <option value="12">[12] Burglary and Blight | Elyria</option>
-      <option value="13">[13] Facts and Facsimiles | Selva/Veldt</option>
-      <option value="14">[14] Animus and Annihilation | SPI HQ</option>
+      <option value="12">[12] Burglary and Blight | Elyria: Estanesse</option>
+      <option value="13">[13] Facts and Facsimiles | Selva/Veldt: Alye'adu</option>
+      <option value="14">[14] Animus and Annihilation | Arallu: Evershroud Manor</option>
+      <option value="15">[15] Halflings and Hemophilia | Arallu: Sepulchralis</option>
     </select>
   </span>
   <span class="item">
