@@ -61,6 +61,7 @@ magic-items:
     page: 155
     rarity: uncommon (major)
     link: https://5e.tools/items.html#boots%20of%20elvenkind_dmg
+js: [sorttable]
 ---
 
 An enchantress seeking to further her mastery of magic, and to find out what happened to her father.
@@ -117,6 +118,7 @@ Bec is an enchantress. She has joined the SPI to learn more magic, and to find o
 |   5   | [animate objects](https://5e.tools/spells.html#animate%20objects_phb)
 |   5   | [conjure elemental](https://5e.tools/spells.html#conjure%20elemental_phb)
 |   5   | [hold monster](https://5e.tools/spells.html#hold%20monster_phb)
+{:class="sortable"}
 
 ### Sartus's Spellbooks
 
@@ -164,6 +166,7 @@ Revert Form | 5 | Abjur
 [True Strike](https://www.dandwiki.com/wiki/3e_SRD:True_Strike) | 1 | Div | [Age of Freedom](../events/age-03)
 [Ventriloquism](https://www.dandwiki.com/wiki/3e_SRD:Ventriloquism) | 1 | Illus (Fig) | [Age of Freedom](../events/age-03)
 [Wall of Force](https://www.dandwiki.com/wiki/3e_SRD:Wall_of_Force) | 5 | Evoc [Force] | [Age of Freedom](../events/age-03)
+{:class="sortable"}
 
 #### Tád
 
@@ -189,6 +192,7 @@ Monk's Fighting Grace | 2 | Trans | QWiz 78
 Suppression | 8 | Abjur
 [Unseen Servant](https://www.dandwiki.com/wiki/3e_SRD:Unseen_Servant) | 1 | Conj (Creat) | [Age of Freedom](../events/age-03)
 War Mastery | 3 | Div | QWiz 81
+{:class="sortable"}
 
 #### Neled
 
@@ -209,6 +213,7 @@ Replicate Casting* | 9 | Trans | SC 173
 [Stone to Flesh](https://www.dandwiki.com/wiki/3e_SRD:Stone_to_Flesh) | 6 | Trans | [Age of Freedom](../events/age-03)
 Tenacious Dispelling | 3 | Abjur | CM 119
 Wall of Greater Dispel Magic | 8 | Abjur | SC 234
+{:class="sortable"}
 
 #### Siniath
 
@@ -233,3 +238,4 @@ Magic Circle against Chaos | 3 | Abjur [Law] | [Age of Freedom](../events/age-03
 [Telekinesis](https://www.dandwiki.com/wiki/3e_SRD:Telekinesis) | 5 | Trans | [Age of Freedom](../events/age-03)
 [True Seeing](https://www.dandwiki.com/wiki/3e_SRD:True_Seeing) | 6 | Div | [Age of Freedom](../events/age-03)
 [Wall of Force](https://www.dandwiki.com/wiki/3e_SRD:Wall_of_Force) | 5 | Evoc [Force] | [Age of Freedom](../events/age-03)
+{:class="sortable"}

@@ -16,7 +16,7 @@ title: Gear
 
 ## Magic Items
 
-<table>
+<table class="sortable">
 <thead>
 <tr>
   <th>Item</th>
