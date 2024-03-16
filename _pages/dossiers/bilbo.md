@@ -6,7 +6,7 @@ statbox:
   race: halfling (stout)
   gender: male
   locale: arallu
-  case: "14"
+  case: "15"
 ---
 
 Familiar of [Lestache de Lyarcourt](lestache-de-lyarcourt).
