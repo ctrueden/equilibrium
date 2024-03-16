@@ -3,10 +3,12 @@ nav-title: Lolth
 title: Lolth, Queen of the Demonweb Pits
 image: https://i.pinimg.com/originals/eb/bd/03/ebbd0399bcc7467df022fee314856d58.png
 image-source: https://www.pinterest.com/pin/248120260711786216/
-image2: https://i.pinimg.com/originals/38/97/ef/3897ef5ce4cf226043a66a34b5535c69.jpg
-image2-source: https://www.pinterest.com/pin/329185054018044518/
-image3: https://i.pinimg.com/originals/51/74/4a/51744a3de8788e74337824496d8c310a.png
-image3-source: https://www.pinterest.com/pin/24769866691752368/
+image-doc-spider: https://i.pinimg.com/originals/38/97/ef/3897ef5ce4cf226043a66a34b5535c69.jpg
+image-doc-spider-source: https://www.pinterest.com/pin/329185054018044518/
+image-drider: https://i.pinimg.com/originals/51/74/4a/51744a3de8788e74337824496d8c310a.png
+image-drider-source: https://www.pinterest.com/pin/24769866691752368/
+image-true-form: https://i.pinimg.com/originals/09/50/f0/0950f0545a77e3d0b346659eadc93a61.jpg
+image-true-form-source: https://www.pinterest.com/pin/380765343508203198/
 statbox:
   race: [eternal, elf (drow)]
   gender: female
