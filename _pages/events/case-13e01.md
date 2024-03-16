@@ -45,7 +45,7 @@ Hugin: "We do not know this third. It is an other."
 Freki: "Do you know my purpose? But also: thank you very much for the protection."  
 Hugin: "To devour the world. Or... prevent others from doing so. The choice is yours."  
 
-Freki remembers that he did see Munin die once. He later had a [vision](freki-vision) of [the dragon shaman that killed Munin](../dossiers/andalla) turning into a raven and flying away.
+Freki remembers that he did see Munin die once. He later had a [vision](case-06e05) of [the dragon shaman that killed Munin](../dossiers/andalla) turning into a raven and flying away.
 
 Freki: "Something is following me. I don't think it's following *us*, it's following *me*. So... do we want to as a group book it after Sima? Do we want me to run ahead possibly taking the thing that's following me with me? And you guys follow it best you can? I might be able to catch Sima. I have no idea what happens if I catch Sima when it catches me."
 

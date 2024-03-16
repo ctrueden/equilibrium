@@ -14,6 +14,7 @@ session-event: https://www.facebook.com/events/1899687903578642/
   * What is. Sabrina scoldingly to Andalla: "That bird was his friend!"; Andalla grinning wickedly with pointed orc teeth: "So? Spirit animals are delicious!" and she turns into a raven and flies.
   * What might be. A ring on Talos's hand flashes, and his fist begins to glow. Effortlessly, he lifts Freki off the ground by his neck. "You are weak. Your people were weak. Afraid of who you really are, and the power within you. What a disappointment." He throws Freki down and swings the spiked chain…"
   * WAKE UP! utters Munin, pecking Freki's eye again. It explodes in pain.
+  * Munin tells Freki he is not yet ready. "It is not strength you lack, but wisdom. And allies."
 * Freki's left eye got all cataract-like. Callie tried to heal it, but there was nothing physically wrong.
 * Upon further consultation of the compass, the party decided to head toward the Stormherd, which seemed close. Munin also flew in that direction (westward). Ghensh flew above the trees on his magic carpet.
 * The party asked Kavaki whether she had any experience with the yakfolk. She said she had only encountered them once, as hostiles, and she barely escaped with her life.
