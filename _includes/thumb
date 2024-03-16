@@ -9,7 +9,7 @@ Embeds an image thumbnail as an inline block.
 {%- assign scale = height | replace: "px", "x" -%}
 {%- capture src -%} {%- include thumb-src src=include.src scale=scale -%} {%- endcapture -%}
 
-<div style="display: inline-block">
+<div style="display: inline-block; text-align: center">
 {% if link -%}<a href="{{link}}">{% endif -%}
 <img
 {% if src %}  src="{{src}}" {% endif %}
