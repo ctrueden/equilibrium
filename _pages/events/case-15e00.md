@@ -1,8 +1,8 @@
 ---
-title: "[14e06] Bonding with Bilbo"
+title: "[15e00] Bonding with Bilbo"
 description: >-
   TODO
-datestamp: 50-06-03/06
+datestamp: 50-06-04/00b
 when: AC50 Vis 03
 session-number: 68
 session-date: 2024-02-17
