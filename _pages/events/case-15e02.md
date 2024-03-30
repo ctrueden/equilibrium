@@ -35,23 +35,23 @@ Lestache tells her that she's the first to arrive so she has the "first chance,"
 
 Ozbo asks Lestache if everything is set to go according to plan, and Lestache tells him he'd know better, since he's the one who arranged most of it. Ozbo asks about the "main event" and Lestache looks confused and says, "You mean the hunt?" There's a twinkle in Lestache's eye and Ozbo fends off some sort of mental incursion. Lestache orders him to get in the alcove and entertain the livvies. He's suspicious and concerned.
 
-Oz comes into our room and lets us know that there's a "hunt" planned, quarry unknown. Someone else is announcing the guests now. Eavesdropping, we find that Lestache has assigned a woman to the task who isn't entirely pleased to have it. He owes her a favor now. Her name is [Etria](../dossiers/etria) and she summons an ethereal harp and strums it, giving us all a little frisson of pleasure.
+Oz comes into our room and lets us know that there's a "hunt" planned, quarry unknown. Someone else is announcing the guests now. Eavesdropping, we find that Lestache has assigned a woman to the task who isn't entirely pleased to have it. He owes her a favor now. Her name is [Etria LeDuc](../dossiers/etria), the Shimering Star of [Sepulchralis](../locales/sepulchralis), and she summons an ethereal harp and strums it, giving us all a little frisson of pleasure.
 
 Freki hears someone outside say, "Bilbo is one of them. Just play along. It will be funny."
 
 Now's the time when we can prepare some rituals if we want. Lestache pops in and we have a short discussion where he agrees it's time to introduce us.
 
-The bell rings again and [Malak](../dossiers/malak-the-mad) enters. They wave hello to us. [Bec](../dossiers/bec) is still pretty sore about that time Malak tried to kill us...earlier today. The assorted [vamps](../creatures/vampires) all look at each other. 
+The bell rings again and [Malak](../dossiers/malak-the-mad) the Mad, Mother of Malkavia and Father of Fascination, enters. They wave hello to us. [Bec](../dossiers/bec) is still pretty sore about that time Malak tried to kill us...earlier today. The assorted [vamps](../creatures/vampires) all look at each other. 
 
 Lestache apologizes on behalf of Malak, who says they didn't try to kill us. Lestache believes there are good people on both sides of this conflict. Maybe it was a misunderstanding! (It was not a misunderstanding.)
 
-All the vampires fall silent as [Enoch the Wise](../dossiers/enoch-the-wise) enters. Etria plays an even fancier intro theme for him. He suggests we get the party started. Note for future research: can vampires get crunk?
+All the vampires fall silent as [Enoch the Wise](../dossiers/enoch-the-wise), Lord of the Inner Council of Seven, enters. Etria plays an even fancier intro theme for him. He suggests we get the party started. Note for future research: can vampires get crunk?
 
 Lestache tells us we can introduce ourselves, so we do, with Etria playing a little harp flourish between each of us. The vampires applaud politely. Lestache announces that the living guests are not to be harmed, and that we'll have our own buffet, and then tells everybody to go ahead and make merry until the evening's events start.
 
 Etria summons a banquet for us. Hell yes, wish I could do that!
 
-Ozbo notices that [Troile](../dossiers/troile-the-rebel) is not dancing, and in fact they and their retinue have organized themselves in posts around the room. Ozbo pulls Troile aside and Panaches him with a side order of shameless flattery. Ozbo pulls out the vial of [changeling](../creatures/changelings) blood and says, "I don't know what this is, but it came out of my master when he sustained a wound. I think something horrible may have befallen him!" Troile thanks him and Ozbo slinks away.
+Ozbo notices that [Troile](../dossiers/troile-the-rebel) (who was announced earlier as Troile the Rebel, the Peerless, Champion of Serene Wrath) is not dancing, and in fact they and their retinue have organized themselves in posts around the room. Ozbo pulls Troile aside and Panaches him with a side order of shameless flattery. Ozbo pulls out the vial of [changeling](../creatures/changelings) blood and says, "I don't know what this is, but it came out of my master when he sustained a wound. I think something horrible may have befallen him!" Troile thanks him and Ozbo slinks away.
 
 The effects of the feast include curing us of disease and poison and making us feel generally invigorated. Bec is aware that the spell that created the feast *should* have taken 10 minutes, but only took her 1. Bec is enjoying her entire plate of celery and compliments Etria on her harp skill and the food. Bec and Etria dance, and they seem equally impressed with each other.
 
@@ -79,9 +79,9 @@ Lestache wearily tells Goratrix he could have just extended an invitation, but G
 
 Oz introduces him as "the hidden, the tiny, the pink man in the boat, Goratrix Clitoris!" Everybody laughs. Goratrix is mad, as Oz intended, but Lestache is like, "Obviously I didn't tell him to do that. It was pretty hilarious, tho."
 
-Goratrix tries another spell-like incantation, but Lestache stops him from making a big scene. One of Goratrix's entourage, Meerlinda Descant, introduces herself with the title "Weaver of Dreams" as reality appears to shift all around us. She then proceeds to announce another of Goratrix's companions, Calderon the Cold, Bane of Spiderkind, with an illusion of Calderon destroying spiders. Then she performs three illusions as part of introducing Goratrix. The first is an important-looking room with Goratrix the most important ("Archmage of the Crispic Clan"). The second is the whole city, laid out before us ("Architect of Sepulchris"). The third is him ordering around a bunch of gargoyles ("Supreme Commander of Gargoyles").
+Goratrix tries another spell-like incantation, but Lestache stops him from making a big scene. One of Goratrix's entourage, [Meerlinda Descant](../dossiers/meerlinda-descant), introduces herself with the title "Weaver of Dreams" as reality appears to shift all around us. She then proceeds to announce another of Goratrix's companions, [Calderon the Cold](../dossiers/calderon-the-cold), Bane of Spiderkind, with an illusion of Calderon destroying spiders. Then she performs three illusions as part of introducing Goratrix. The first is an important-looking room with Goratrix the most important ("Archmage of the Crispic Clan"). The second is the whole city, laid out before us ("Architect of Sepulchris"). The third is him ordering around a bunch of gargoyles ("Supreme Commander of Gargoyles").
 
-Lestache is all, "Do you *have* to do the whole thing *every time*, sheesh!" He starts calling Goratrix names starting with pompous buffoon and getting more elaborate from there (Pompous cockolorum! Conniving snollygoster! You purveyor of falseness and untidy monstrosities!). He's getting all lathered up when Troile tells him to settle down.
+Lestache is all, "Do you *have* to do the whole thing *every time*, sheesh!" He starts calling Goratrix increasingly elaborate names ("Pompous cockolorum! Conniving snollygoster! You purveyor of falseness and untidy monstrosities!"). He's getting all lathered up when Troile tells him to settle down.
 
 Goratrix wanders off and Freki proposes getting him out of the way to Lestache. Lestache finds him irritating, but not enough to murder him, as it turns out. "He thinks he's stronger because he broke into my manor and forced a good announcement, but it means nothing." Lestache is not willing to ruin the party just to measure his...dominance...over Goratrix.
 
@@ -97,7 +97,9 @@ Freki communes with his birds. Hugin and Munin land on his shoulder and "remembe
 
 Freki asks if Hugin and Munin can find the captive halflings and let them free? They agree to look and say it would take time. The caves are endless, but they will search. Munin says Freki was destined for more than just "keeping the peace." 
 
-There's a brief vamp fight. The band stops playing while they fight, then starts up again when there's a clear winner. Later, Lestache asks if everybody is ready for the first event of the evening. There's a smattering of applause and someone yells, "What is it, Lestache?" He keeps doing his ringmaster thing. He promises he has something "weird and wonderful" and hypes up the crowd.
+There's a brief vamp fight. The band stops playing while they fight, then starts up again when there's a clear winner.
+
+Later, Lestache (who is announced as "Your host Lestache de Lyarcourt, Fragrant Flower of the Château de Mécant) asks if everybody is ready for the first event of the evening. There's a smattering of applause and someone yells, "What is it, Lestache?" He keeps doing his ringmaster thing. He promises he has something "weird and wonderful" and hypes up the crowd.
 
 A big box gets rolled into the hall. *What* even *is* that? It's undead, probably unique, but I can't tap into my knowledge proficiencies anymore! My [goddess badge](../rules/dual-goddess) seems to have gotten all tingly, so I take it off and look at it. [Erathis](../dossiers/erathis) isn't there anymore!!! Instead it's [Avandra](../dossiers/avandra) on both sides! I hear her laughter in my mind. "Good job," indeed. I am shook!
 
@@ -119,7 +121,7 @@ Lestache is like, "Huh, that was unexpected."
 
 Anyway, seeing as the crowd is getting restless, Lestache moves the hunt up from midnight to now. The quarry has arrived, so he just needs a few moments to prepare.
 
-He leaves and comes back with [Orlok](../dossiers/orlok) and [Elloia](../dossiers/elloia-canarl). Lestache announces the Council of Seven is complete. Another box gets wheeled in. Lestache says the quarry for today is something truly special. "A halfling guardswoman. She was a perimeter defender, and even fancied herself a Captain, and champion of the downtrodden! Her people repaid her service by exiling her from their wretched community." He's really playing this up.
+He leaves and comes back with [Orlok](../dossiers/orlok) ("the Lady of Whispers, Countess of the Underground", to which she responds "I'm no lady") and [Elloia](../dossiers/elloia-canarl) ("Warden of the Accursed Tunnels, Servant to None But Him"). Lestache announces the Council of Seven is complete. Another box gets wheeled in. Lestache says the quarry for today is something truly special. "A halfling guardswoman. She was a perimeter defender, and even fancied herself a Captain, and champion of the downtrodden! Her people repaid her service by exiling her from their wretched community." He's really playing this up.
 
 [Sophie Steelboots](../dossiers/sophie-steelboots) is her name, and she is looking hopeless. Lestache offers to let us join the hunt as "Clan [SPI](../orgs/spi)" if we ante up an item to throw in the pot. The quarry gets to choose one item to use, and the rest stay in the pot. If we win, then she goes free and we win the pot. But we have no protection if we join the hunt. The vampires are free to attack us however they want.
 
