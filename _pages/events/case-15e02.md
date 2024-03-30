@@ -35,7 +35,7 @@ Lestache tells her that she's the first to arrive so she has the "first chance,"
 
 Ozbo asks Lestache if everything is set to go according to plan, and Lestache tells him he'd know better, since he's the one who arranged most of it. Ozbo asks about the "main event" and Lestache looks confused and says, "You mean the hunt?" There's a twinkle in Lestache's eye and Ozbo fends off some sort of mental incursion. Lestache orders him to get in the alcove and entertain the livvies. He's suspicious and concerned.
 
-Oz comes into our room and lets us know that there's a "hunt" planned, quarry unknown. Someone else is announcing the guests now. Eavesdropping, we find that Lestache has assigned a woman to the task who isn't entirely pleased to have it. He owes her a favor now. Her name is [Etria LeDuc](../dossiers/etria), the Shimering Star of [Sepulchralis](../locales/sepulchralis), and she summons an ethereal harp and strums it, giving us all a little frisson of pleasure.
+Oz comes into our room and lets us know that there's a "hunt" planned, quarry unknown. Someone else is announcing the guests now. Eavesdropping, we find that Lestache has assigned a woman to the task who isn't entirely pleased to have it. He owes her a favor now. Her name is [Etria LeDuc](../dossiers/etria-leduc), the Shimering Star of [Sepulchralis](../locales/sepulchralis), and she summons an ethereal harp and strums it, giving us all a little frisson of pleasure.
 
 Freki hears someone outside say, "Bilbo is one of them. Just play along. It will be funny."
 

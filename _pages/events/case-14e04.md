@@ -57,7 +57,7 @@ Callie realizes that the forgetting effect (which is neither a blessing nor a cu
 
 Freki is convinced that remembering whatever he forgot is the most important thing to do right now, but Bec wants to go down to the crypt and continue investigating down there. Callie agrees with Bec, but on the condition that no one partipate in any paranormal phenomena without the agreement of the rest of the group. YOU GOT THAT, [YOU BUNCH OF MUPPETS](https://www.youtube.com/watch?v=TbZ_hTEOKZc)?
 
-Vondal checks in on his depressed friend [Roger](../dossiers/butler), from last time he was down here. Roger is the same as before, unsurprisingly.
+Vondal checks in on his depressed friend [Roger](../dossiers/roger), from last time he was down here. Roger is the same as before, unsurprisingly.
 
 They find a door with a hand on it. That's the door that Roger said they couldn't get through because they don't possess the power of the goddess of secrets.
 

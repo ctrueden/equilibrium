@@ -32,7 +32,7 @@ Lestache is relieved that this is a one-time deal. He says "some" in his faction
 
 Nobody argues about the dinner invitation, so Lestache leaves to make arrangements. After a few minutes, a formation of five bats flies in. They all land and turn into vampires. The pommel of [Cal's sword](../relics/arkenstone) is glowing in their presence. They do not get too close to the manor, which is still shining.
 
-The vampire who seems to be in charge, [Malak](../dossiers/malak), responds to our questions with some riddle-like non-answers. This doesn't seem like a great start to our relationship. We ready for battle.
+The vampire who seems to be in charge, [Malak](../dossiers/malak-the-mad), responds to our questions with some riddle-like non-answers. This doesn't seem like a great start to our relationship. We ready for battle.
 
 Oz comes out stabbin'! Then he walks away trying to be all cool or something.
 
