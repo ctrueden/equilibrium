@@ -101,7 +101,14 @@ There's a brief vamp fight. The band stops playing while they fight, then starts
 
 Later, Lestache (who is announced as "Your host Lestache de Lyarcourt, Fragrant Flower of the Château de Mécant) asks if everybody is ready for the first event of the evening. There's a smattering of applause and someone yells, "What is it, Lestache?" He keeps doing his ringmaster thing. He promises he has something "weird and wonderful" and hypes up the crowd.
 
-A big box gets rolled into the hall. *What* even *is* that? It's undead, probably unique, but I can't tap into my knowledge proficiencies anymore! My [goddess badge](../rules/dual-goddess) seems to have gotten all tingly, so I take it off and look at it. [Erathis](../dossiers/erathis) isn't there anymore!!! Instead it's [Avandra](../dossiers/avandra) on both sides! I hear her laughter in my mind. "Good job," indeed. I am shook!
+A big box, covered with a dark curtain, gets rolled into the hall. The curtain is pulled away with a flourish to reveal:
+
+{% include thumb
+link="https://www.pinterest.com/pin/62980094775506418/"
+src="https://i.pinimg.com/originals/61/c3/fd/61c3fd88a58355b1fd46d4b6c2f881fc.jpg"
+width="200px" %}
+
+*What* even *is* that? It's undead, probably unique, but I can't tap into my knowledge proficiencies anymore! My [goddess badge](../rules/dual-goddess) seems to have gotten all tingly, so I take it off and look at it. [Erathis](../dossiers/erathis) isn't there anymore!!! Instead it's [Avandra](../dossiers/avandra) on both sides! I hear her laughter in my mind. "Good job," indeed. I am shook!
 
 Bec is also astonished by this creature. It's so creepy! It moves in jagged fits of blurred motion, hard to predict where it will be at any given moment. Lestache says he has clearly outdone himself, and I can't really disagree. Even Goratrix is fascinated by this thing.
 
