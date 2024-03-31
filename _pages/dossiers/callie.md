@@ -18,6 +18,7 @@ magic-items:
   - name: Clam of Protection
     source: Merfolk treasure
     rarity: TODO
+    link: https://5e.tools/items.html#amulet%20of%20protection%20from%20turning_tftyp
     value: TODO
     page: TODO
   - name: Underwater candles x10
