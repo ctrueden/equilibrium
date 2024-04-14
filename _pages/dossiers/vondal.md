@@ -16,52 +16,45 @@ statbox:
 magic-items:
   - name: Wand of Healing
     source: Cassandra
-    rarity: rare (major)
-    value: TODO
-    page: DMG 210
-    link: https://5e.tools/items.html#wand%20of%20fireballs_dmg
+    link: /equilibrium/gear#wand-of-healing
+    link2: https://5e.tools/items.html#wand%20of%20fireballs_dmg
+    rarity: very rare (major)
+    value: 10000
   - name: Luckstone
     source: Merfolk treasure
-    rarity: uncommon (major)
-    value: TODO
-    page: DMG 205
     link: https://5e.tools/items.html#stone%20of%20good%20luck_dmg
+    rarity: uncommon (major)
+    value: 4200
   - name: Portable Hole
     source: Merfolk treasure
-    rarity: rare (minor)
-    value: TODO
-    page: DMG 185
     link: https://5e.tools/items.html#portable%20hole_dmg
+    rarity: rare (minor)
+    value: 8000
   - name: Bracers of Defense
     source: Spoils of war from defeating Talos
-    rarity: rare (major)
-    value: TODO
-    page: DMG 156
     link: https://5e.tools/items.html#bracers%20of%20defense_dmg
+    rarity: rare (major)
+    value: 6000
   - name: Sending Stone
     source: Mallory
+    link: https://5e.tools/items.html#sending%20stones_dmg
     rarity: uncommon (minor)
     value: 500
-    page: DMG 199
-    link: https://5e.tools/items.html#sending%20stones_dmg
   - name: Ring of Spell Storing
     source: "Zanqaa the Devoted - Boon of Prowess: Magic"
-    value: 24000
-    rarity: rare (major)
-    page: DMG 192
     link: https://5e.tools/items.html#ring%20of%20spell%20storing_dmg
+    rarity: rare (major)
+    value: 24000
   - name: Cape of the Mountebank
     source: "Zanqaa the Devoted - Boon of Aegis: Mobility"
-    value: 8000
-    rarity: rare (major)
-    page: DMG 157
     link: https://5e.tools/items.html#cape%20of%20the%20mountebank_dmg
+    rarity: rare (major)
+    value: 8000
   - name: Wand of Wonder
     source: "Zanqaa the Devoted - Boon of Arms: Wild"
-    value: "4800+???"
+    link: /equilibrium/gear#wand-of-wonder
     rarity: rare (major)
-    page: DMG 212
-    link: https://5e.tools/items.html#wand%20of%20wonder_dmg
+    value: "4800+???"
 ---
 
 A veteran [wild mage who's been working with the [SPI](../orgs/spi) for decades,

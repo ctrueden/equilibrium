@@ -16,38 +16,35 @@ statbox:
 magic-items:
   - name: Bag of Holding
     source: "SPI standard issue (1 per team)"
-    rarity: TODO
-    value: TODO
-    page: TODO
+    link: https://5e.tools/items.html#bag%20of%20holding_dmg
+    rarity: uncommon
+    value: 4000
   - name: Net of Entanglement
     source: Merfolk treasure
-    rarity: rare (major)
-    value: TODO
-    page: DMG 197
     link: https://5e.tools/items.html#rope%20of%20entanglement_dmg
+    rarity: rare (major)
+    value: 4000
   - name: Arkenstab (+2 Sun Blade)
     source: "Hyperion; Zanqaa the Devoted - Boon of Arms: Light"
-    value: 16000 (sun blade is 12000, staff of fire is 16000)
-    rarity: artifact (unique)
-    page: DMG 201+205
     link: https://5e.tools/items.html#sun%20blade_dmg
     link2: https://5e.tools/items.html#staff%20of%20fire_dmg
+    rarity: artifact (unique)
+    value: 16000 (sun blade is 12000, staff of fire is 16000)
   - name: Ring of the Ram
     source: "Zanqaa the Devoted - Boon of Prowess: Assault"
-    value: 5000
-    rarity: rare (major)
-    page: DMG 193
     link: https://5e.tools/items.html#ring%20of%20the%20ram_dmg
+    rarity: rare (major)
+    value: 5000
   - name: Shirt of Terran Power (12 base AC)
     source: "Zanqaa the Devoted - Boon of Aegis: Defense"
-    value: 2000
+    link: /equilibrium/gear#shirt-of-terran-power
     rarity: legendary (unique)
-    page: DMG 182
+    value: 2000
   - name: Whip of Rescue
     source: "Case 11: Hardships and Homecomings"
-    value: 20000
+    link: /equilibrium/gear#whip-of-rescue
     rarity: legendary (unique)
-    page: N/A
+    value: 20000
 ---
 
 A stout halfling outlander with "nowhere else to go" who seems uncomfortable in the city. Hates undead even more than most.

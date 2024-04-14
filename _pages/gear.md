@@ -1,5 +1,6 @@
 ---
 title: Gear
+js: [sorttable]
 ---
 
 ## Tattoos
@@ -14,7 +15,53 @@ title: Gear
 | Violet | [vigor]        | bonus action                  | 20 temporary HP for 7 min.             |
 | Black  | [truevenom]    | bonus action                  | Constitution save DC 15                |
 
-## Magic Items
+## Magical Items
+
+### Arkenstab
+
+TODO
+
+### Arrow of Tidal Force
+
+When this arrow strikes a target, a 10-foot tall, 5-foot wide wall of water is unleashed, rushing forward 120 feet through and beyond the target. Any creature caught in the wave, either initially or when later entering the stream, must succeed on a DC 15 Dexterity saving throw or take 4d8 bludgeoning damage, be pushed 15 feet, and be knocked prone. Creatures who succeed take half the damage, and are not pushed or knocked prone. The stream of water extinguishes any exposed flames in its path, and persists for one round.
+
+*GM's note: adapted from [this homebrew item](https://www.reddit.com/r/DnD/comments/1194wgy/oc_tidal_wave_arrow/).*
+
+### Celestial Hand
+
+TODO
+
+### Hornblade
+
+TODO
+
+### Magic Emerald of Spell Focus
+
+TODO
+
+### Shirt of Terran Power
+
+This breathable, short-sleeved shirt is decorated with a pattern of mossy stones and imbued with the primal strength of the earth. Though it is considered regular clothing rather than armor, its supple resilience grants the wearer a base AC of 12.
+
+### Sword of Retribution
+
+TODO
+
+### Underwater Candle
+
+TODO
+
+### Wand of Wonder
+
+TODO
+
+*See also [Wand of Wonder](https://5e.tools/items.html#wand%20of%20wonder_dmg)*
+
+### Whip of Rescue
+
+TODO
+
+## Index
 
 <table class="sortable">
 <thead>
@@ -24,7 +71,6 @@ title: Gear
   <th>Owner</th>
   <th>Rarity</th>
   <th>Value</th>
-  <th>Page</th>
 </tr>
 </thead>
 <tbody>
@@ -37,7 +83,6 @@ title: Gear
   <td><a href="{{site.baseurl}}{{p.url}}">{{p.title}}</a></td>
   <td>{{m.rarity}}</td>
   <td>{{m.value}}</td>
-  <td>{{m.page}}</td>
 </tr>
 {% endfor -%}
 {%- endfor -%}

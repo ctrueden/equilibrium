@@ -17,45 +17,40 @@ statbox:
 magic-items:
   - name: Clam of Protection
     source: Merfolk treasure
-    rarity: TODO
-    link: https://5e.tools/items.html#amulet%20of%20protection%20from%20turning_tftyp
-    value: TODO
-    page: TODO
+    link: /equilibrium/gear#clam-of-protection
+    link2: https://5e.tools/items.html#scarab%20of%20protection_dmg
+    rarity: rare (minor)
+    value: 5000
   - name: Underwater candles x10
     source: Merfolk treasure
+    link: /equilibrium/gear#underwater-candles
     rarity: TODO
     value: TODO
-    page: TODO
   - name: Ring of Mind Shielding
     source: "Zanqaa the Devoted - Boon of Prowess: Mind"
-    value: 16000
-    page: 174
-    rarity: uncommon (major)
     link: https://5e.tools/items.html#ring%20of%20mind%20shielding_dmg
+    rarity: uncommon (major)
+    value: 16000
   - name: Cloak of Protection
     source: "Zanqaa the Devoted - Boon of Aegis: Protection"
-    value: 3500
-    page: 159
-    rarity: uncommon (major)
     link: https://5e.tools/items.html#cloak%20of%20protection_dmg
+    rarity: uncommon (major)
+    value: 3500
   - name: Trident of Fish Command
     source: "Zanqaa the Devoted - Boon of Arms: Oceans"
-    value: 800
-    page: 209
-    rarity: uncommon (major)
     link: https://5e.tools/items.html#trident%20of%20fish%20command_dmg
+    rarity: uncommon (major)
+    value: 800
   - name: Amulet of Health
     source: Estanesse palace treasury
-    value: 8000
-    page: 150
-    rarity: rare (major)
     link: https://5e.tools/items.html#amulet%20of%20health_dmg
+    rarity: rare (major)
+    value: 8000
   - name: Boots of Elvenkind
     source: Estanesse palace treasury
-    value: 2500
-    page: 155
-    rarity: uncommon (major)
     link: https://5e.tools/items.html#boots%20of%20elvenkind_dmg
+    rarity: uncommon (major)
+    value: 2500
 ---
 
 A well-off gnome who is "not the muscle," specializes in ancient and mystical objects, and is "sometimes clairvoyant."

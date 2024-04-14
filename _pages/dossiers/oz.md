@@ -15,59 +15,50 @@ statbox:
 magic-items:
   - name: Crystal Ball of Scrying
     source: "Invictus's Study, Evershroud Manor"
-    rarity: TODO
-    value: TODO
-    page: 159
     link: https://5e.tools/items.html#crystal%20ball_dmg
+    rarity: very rare
+    value: 50000
   - name: Decanter of Endless Water
     source: Merfolk treasure
-    rarity: TODO
-    value: TODO
-    page: TODO
     link: https://5e.tools/items.html#decanter%20of%20endless%20water_dmg
+    rarity: uncommon
+    value: 135000
   - name: Hornblade (+3 Wounding, Sharpness)
     source: Cornucopia + crazy ghost lady
-    value: 20000 (16000 for +3, 2000 for wounding, 1700 for sharpness)
-    page: 206-7
-    rarity: artifact (unique)
     link: https://5e.tools/items.html#sword%20of%20sharpness_dmg
     link2: https://5e.tools/items.html#sword%20of%20wounding_dmg
+    rarity: artifact (unique)
+    value: 20000 (16000 for +3, 2000 for wounding, 1700 for sharpness)
   - name: Cloak of Elvenkind
     source: "Zanqaa the Devoted - Boon of Aegis: Stealth"
-    value: 5000
-    page: 158
-    rarity: uncommon (major)
     link: https://5e.tools/items.html#cloak%20of%20elvenkind_dmg
+    rarity: uncommon (major)
+    value: 5000
   - name: Ring of Jumping
     source: "Zanqaa the Devoted - Boon of Prowess: Agility"
-    value: 2500
-    page: 191
-    rarity: uncommon (major)
     link: https://5e.tools/items.html#ring%20of%20jumping_dmg
+    rarity: uncommon (major)
+    value: 2500
   - name: Dagger of Venom
     source: "Zanqaa the Devoted - Boon of Arms: Venom"
-    value: 2500
-    page: 160
-    rarity: rare (major)
     link: https://5e.tools/items.html#dagger%20of%20venom_dmg
+    rarity: rare (major)
+    value: 2500
   - name: Amulet of Health
     source: Estanesse palace treasury
-    value: 8000
-    page: 150
-    rarity: rare (major)
     link: https://5e.tools/items.html#amulet%20of%20health_dmg
+    rarity: rare (major)
+    value: 8000
   - name: Glamoured Studded Leather
     source: Estanesse palace treasury
-    value: 2000
-    page: 172
-    rarity: rare (major)
     link: https://5e.tools/items.html#glamoured%20studded%20leather_dmg
+    rarity: rare (major)
+    value: 2000
   - name: Ioun Stone of Mastery (cracked)
     source: Estanesse palacy treasury (stolen)
-    value: TODO
-    page: TODO
-    rarity: TODO
     link: https://5e.tools/items.html#ioun%20stone%2c%20mastery_dmg
+    rarity: legendary
+    value: 12000 (15000, -3000 for damage)
 ---
 
 A curious and impulsive halfling rogue.

@@ -15,52 +15,47 @@ statbox:
 magic-items:
   - name: Celestial Hand
     source: "Crypts, Evershroud Manor"
+    link: /equilibrium/relics/celestial-hand
     rarity: artifact (unique)
     value: TODO
-    page: "N/A"
   - name: Hat of Wizardry
     source: Merfolk treasure
+    link: https://5e.tools/items.html#hat%20of%20wizardry_xge
     rarity: TODO
     value: TODO
-    page: TODO
-    link: https://5e.tools/items.html#hat%20of%20wizardry_xge
   - name: Magic Emerald of Spell Focus
     source: Merfolk treasure
+    link: /equilibrium/gear#magic-emerald-of-spell-focus
     rarity: TODO
     value: TODO
-    page: TODO
   - name: Enduring Spellbook of Kelp
     source: Merfolk treasure
+    link: https://5e.tools/items.html#enduring%20spellbook_xge
     rarity: TODO
     value: TODO
-    page: TODO
     notes: dancing lights, true strike, color spray, expeditious retreat, longstrider, fog cloud
-    link: https://5e.tools/items.html#enduring%20spellbook_xge
   - name: Helm of Telepathy
     source: "Zanqaa the Devoted - Boon of Aegis: Mind"
-    value: 12000
-    page: 174
-    rarity: uncommon (major)
     link: https://5e.tools/items.html#helm%20of%20telepathy_dmg
+    rarity: uncommon (major)
+    value: 12000
   - name: Ring of Resistance
     source: "Zanqaa the Devoted - Boon of Prowess: Resistance"
-    notes: Can choose element for half damage
-    value: 6000
-    page: 192
-    rarity: rare (major)
     link: https://5e.tools/items.html#ring%20of%20resistance_dmg
+    rarity: rare (major)
+    value: 10000 (6000 + 4000 for reattunement feature)
+    link: https://5e.tools/items.html#ring%20of%20resistance_dmg
+    notes: Can reattune to change gem type
   - name: Mace of Disruption
     source: "Zanqaa the Devoted - Boon of Arms: Disruption"
-    value: 8000
-    page: 179
-    rarity: rare (major)
     link: https://5e.tools/items.html#mace%20of%20disruption_dmg
+    rarity: rare (major)
+    value: 8000
   - name: Boots of Elvenkind
     source: Estanesse palace treasury
-    value: 2500
-    page: 155
-    rarity: uncommon (major)
     link: https://5e.tools/items.html#boots%20of%20elvenkind_dmg
+    rarity: uncommon (major)
+    value: 2500
 js: [sorttable]
 ---
 

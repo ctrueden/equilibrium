@@ -19,60 +19,53 @@ statbox:
   bond: slain family
   flaw: slow to trust
 magic-items:
-  - name: Billowing Cloak
-    source: Merfolk treasure
-    rarity: TODO
-    value: TODO
-    page: TODO
-    link: https://5e.tools/items.html#cloak%20of%20billowing_xge
+  - name: Bag of Holding
+    source: "Recruitment incentive from Mallory"
+    link: https://5e.tools/items.html#bag%20of%20holding_dmg
+    rarity: uncommon
+    value: 4000
   - name: Arrows of Tidal Force x3
     source: Merfolk treasure
-    rarity: TODO
-    value: TODO
-    page: TODO
-  - name: Unbreakable Arrows
+    link: /equilibrium/gear#arrow-of-tidal-force
+    link2: https://www.reddit.com/r/DnD/comments/1194wgy/oc_tidal_wave_arrow/
+    rarity: rare (minor)
+    value: 1500
+  - name: Unbreakable Arrows x11
     source: Merfolk treasure
-    rarity: common (minor)
-    value: TODO
-    page: XGE 139
-    notes: Mysterious unbreakable metal
     link: https://5e.tools/items.html#unbreakable%20arrow_xge
+    rarity: common (minor)
+    value: 20
+    notes: Mysterious unbreakable metal
   - name: Quiver of Ehlonna
     source: family heirloom
-    value: 1000
-    page: DMG 189
-    rarity: uncommon (major)
     link: https://5e.tools/items.html#quiver%20of%20ehlonna_dmg
+    rarity: uncommon (major)
+    value: 1000
   - name: Cloak of Elvenkind
     source: "Zanqaa the Devoted - Boon of Aegis: Stealth"
-    value: 5000
-    page: 158
-    rarity: uncommon (major)
     link: https://5e.tools/items.html#cloak%20of%20elvenkind_dmg
+    rarity: uncommon (major)
+    value: 5000
   - name: Oathbow
     source: "Zanqaa the Devoted - Boon of Arms: Vengeance"
-    value: 3500
-    page: DMG 183
-    rarity: very rare (major)
     link: https://5e.tools/items.html#oathbow_dmg
+    rarity: very rare (major)
+    value: 3500
   - name: Ring of Jumping
     source: "Zanqaa the Devoted - Boon of Prowess: Agility"
-    value: 2500
-    page: 191
-    rarity: uncommon (major)
     link: https://5e.tools/items.html#ring%20of%20jumping_dmg
+    rarity: uncommon (major)
+    value: 2500
   - name: Glamoured Studded Leather
     source: Estanesse palace treasury
-    value: 2000
-    page: DMG 172
-    rarity: rare (major)
     link: https://5e.tools/items.html#glamoured%20studded%20leather_dmg
+    rarity: rare (major)
+    value: 2000
   - name: Bracers of Archery
     source: Estanesse palace treasury
-    value: 1500
-    page: DMG 156
-    rarity: uncommon (major)
     link: https://5e.tools/items.html#bracers%20of%20archery_dmg
+    rarity: uncommon (major)
+    value: 1500
 ---
 
 Freki is a bounty hunter who venerates nature and despises magic. He prowls the [Selva](../locales/selva), seeking prey.
@@ -141,7 +134,7 @@ See [Beast of the Sky](https://5e.tools/bestiary.html#beast%20of%20the%20sky_tce
 #### Build choices
 
 * \[L6\] [Improved Beast Form](../rules/lycan-ranger#improved-beast-form): Scent of Blood
-* \[L10\] (Story) [Accepting the Beast](../rules/lycan-ranger#greater-beast-form): half mental penalties (hybrid: Int/Wis -1; wolf: Int/Wis -2)
+* \[L10\] (Story) [Accepting the Beast](../rules/lycan-ranger#greater-beast-form): half mental penalties (hybrid: Int/Wis -1; wolf: Int/Wis - -2)
 * \[L11\] [Multiattack](../rules/lycan-ranger#multiattack): Volley
 * \[L14\] [Greater Beast Form](../rules/lycan-ranger#greater-beast-form): TBD
 * \[L15\] [Superior Hunter's Defense](../rules/lycan-ranger#superior-hunters-defense): Stand Against the Tide
