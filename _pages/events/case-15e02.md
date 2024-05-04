@@ -138,7 +138,7 @@ The vampire clans all pony up magical objects:
 - Goratrix / Crispic: Bag of ten [Mind Crystals of Subtlety](https://5e.tools/items.html#mind%20crystal%20%28subtle%29_pabtso)
 - Troile / Brujah: [Ruby of the War Mage](https://5e.tools/items.html#ruby%20of%20the%20war%20mage_xge)
 - Elloia / Gangrel: [Boots of False Tracks](https://5e.tools/items.html#boots%20of%20false%20tracks_xge)
-- Malak / Malkavian: [Manual of Gainful Exercise](https://5e.tools/items.html#manual%20of%20quickness%20of%20action_dmg)
+- Malak / Malkavian: [Manual of Gainful Exercise](https://5e.tools/items.html#manual%20of%20gainful%20exercise_dmg)
 - Orlok: "The Nosferatu decline to hunt. Nonetheless, just for fun: we offer this [Sword of Retribution](https://5e.tools/items.html#shortsword%20of%20retribution_coa)"
 
 Sophie reaches for the sword. As her fingers grip it, a fire forms in her eyes, and her expression darkens...
