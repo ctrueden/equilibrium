@@ -105,7 +105,7 @@ Alternately, you may choose two additional abilities from the 6th level [Improve
   * Work with the GM to create each arrow type. As a rule of thumb, choose either: A) a ranger spell that makes sense as an arrow, of a level a standard ranger could normally cast; or B) an arrow type listed in the [arcane archer arcane shot options](http://dnd5e.wikidot.com/fighter:arcane-archer).
 * There is no limit to the number of arrows you may prepare or use, but crafting the arrows takes time and resources. You may spend a day harvesting materials and crafting arrows. You make a Survival roll:
   * DC 15 to harvest materials for one arrow of a random type
-  * DC 25 to focus on harvesting materials for a specific type of arrow
+  * DC 20 to focus on harvesting materials for a specific type of arrow
   * For every 5 exceeding the DC, you harvest materials for another arrow.
 * The arrows last awhile, but not forever: eventually the plant matter decays. Arrows more than ~1 month old have a chance of diminished effect. The GM rolls this chance secretly when the arrow is used.
 
