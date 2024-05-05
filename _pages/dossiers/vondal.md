@@ -55,6 +55,21 @@ magic-items:
     link: /equilibrium/gear#wand-of-wonder
     rarity: rare (major)
     value: "4800+???"
+  - name: Boots of Elvenkind
+    source: Estanesse palace treasury
+    link: https://5e.tools/items.html#boots%20of%20elvenkind_dmg
+    rarity: uncommon (major)
+    value: 2500
+  - name: Mind Crystals of Subtlety (3x)
+    source: Sepulchralis Hunt (Crispic)
+    link: https://5e.tools/items.html#mind%20crystal%20%28subtle%29_pabtso
+    rarity: TODO
+    value: TODO
+  - name: Instrument of Illusions (Hurdy Gurdy)
+    source: Sepulchralis Hunt (Toreador)
+    link: https://5e.tools/items.html#instrument%20of%20illusions_xge
+    rarity: TODO
+    value: TODO
 ---
 
 A veteran [wild mage who's been working with the [SPI](../orgs/spi) for decades,

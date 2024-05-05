@@ -56,6 +56,11 @@ magic-items:
     link: https://5e.tools/items.html#boots%20of%20elvenkind_dmg
     rarity: uncommon (major)
     value: 2500
+  - name: Mind Crystals of Subtlety (4x)
+    source: Sepulchralis Hunt (Crispic)
+    link: https://5e.tools/items.html#mind%20crystal%20%28subtle%29_pabtso
+    rarity: TODO
+    value: TODO
 js: [sorttable]
 ---
 

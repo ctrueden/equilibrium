@@ -46,11 +46,16 @@ magic-items:
     link: https://5e.tools/items.html#amulet%20of%20health_dmg
     rarity: rare (major)
     value: 8000
-  - name: Boots of Elvenkind
-    source: Estanesse palace treasury
-    link: https://5e.tools/items.html#boots%20of%20elvenkind_dmg
-    rarity: uncommon (major)
-    value: 2500
+  - name: Boots of False Tracks
+    source: Sepulchralis Hunt (Gangrel)
+    link: https://5e.tools/items.html#boots%20of%20false%20tracks_dmg
+    rarity: TODO
+    value: TODO
+  - name: Mind Crystals of Subtlety (3x)
+    source: Sepulchralis Hunt (Crispic)
+    link: https://5e.tools/items.html#mind%20crystal%20%28subtle%29_pabtso
+    rarity: TODO
+    value: TODO
 ---
 
 A well-off gnome who is "not the muscle," specializes in ancient and mystical objects, and is "sometimes clairvoyant."
