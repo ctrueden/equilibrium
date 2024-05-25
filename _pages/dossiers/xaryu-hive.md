@@ -8,7 +8,7 @@ statbox:
   case: "15"
 ---
 
-*not to be confused with [Xaryu of the Perfect Order](xaryu), a crime lord / cult leader from the [Radiant Union of Pelor](../locales/rup).*
+*not to be confused with [Xaryu of the Perfect Order](xaryu), a crime lord / cult leader from the [Radiant Union of Pelor](../locales/rup), or [Xaryu the Liberator](xaryu-undead), a former hive node become death tyrant.*
 
 Absolute ruler of [Xaryuvia](../locales/xaryuvia), its underground lair near [Sepulchralis](../locales/sepulchralis), which is home to a colony of enslaved [halflings](../creatures/halflings) who worship it as the scion of [Tiamat](../dossiers/tiamat).
 

@@ -10,7 +10,7 @@ statbox:
   case: "01"
 ---
 
-*not to be confused with the [Xaryu hive](xaryu-hive) near [Sepulchralis](../locales/sepulchralis).*
+*not to be confused with the [Xaryu hive](xaryu-hive) near [Sepulchralis](../locales/sepulchralis), or that hive's [death tyrant former node](xaryu-undead).*
 
 Domineering and xenophobic head of the Xaryu Syndicate&mdash;or "Perfect Order" as they call themselves.
 
