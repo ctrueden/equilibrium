@@ -12,7 +12,7 @@ links:
   - Wikipedia|https://en.wikipedia.org/wiki/Cronus
 ---
 
-One of the 12 [titans](../creatures/titans) from whom the [gods](../creatures/eternals) were born. Once the consort of [Rhea](rhea), now a vampire lord known as the Brucolac, one of the three leaders of [Arallu](../locales/arallu).
+One of the 12 [titans](../creatures/titans) from whom the [gods](../creatures/eternals) were born. Once the consort of [Rhea](rhea), now one of the three leaders of [Arallu](../locales/arallu), a vampire lord known as the Brucolac, Lord of All Bloodsworn.
 
 {% include thumb
   src="https://i.pinimg.com/originals/b4/11/3d/b4113d1274248c1f324d46754dd32127.jpg"
