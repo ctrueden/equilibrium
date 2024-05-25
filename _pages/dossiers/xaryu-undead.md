@@ -8,6 +8,8 @@ statbox:
   case: "15"
 ---
 
-*not to be confused with [Xaryu of the Perfect Order](xaryu), a crime lord / cult leader from the [Radiant Union of Pelor](../locales/rup), or [Xaryu](xaryu-hive), overlord [beholder](../creatures/beholders) hive of [Xaryuvia](../locales/xaryuvia)*
+*not to be confused with:
+* [Xaryu of the Perfect Order](xaryu), a crime lord / cult leader from the [Radiant Union of Pelor](../locales/rup)
+* [Xaryu](xaryu-hive), overlord [beholder](../creatures/beholders) hive of [Xaryuvia](../locales/xaryuvia)*
 
 One day, a node of the [Xaryu of Xaryuvia](xaryu-hive) awoke from a nightmare of its own death, transformed into a death tyrant. Afterward, it somehow made its way to the [Sanctum of the Reaped Harvest](../locales/elysium-sanctum)...
