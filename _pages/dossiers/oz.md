@@ -50,7 +50,7 @@ magic-items:
     rarity: rare (major)
     value: 2000
   - name: Ioun Stone of Mastery (cracked)
-    source: Estanesse palacy treasury (stolen)
+    source: Estanesse palace treasury (stolen)
     link: https://5e.tools/items.html#ioun%20stone%2c%20mastery_dmg
     rarity: legendary
     value: 12000 (15000, -3000 for damage)
