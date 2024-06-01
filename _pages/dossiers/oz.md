@@ -18,11 +18,6 @@ magic-items:
     link: https://5e.tools/items.html#crystal%20ball_dmg
     rarity: very rare
     value: 50000
-  - name: Decanter of Endless Water
-    source: Merfolk treasure
-    link: https://5e.tools/items.html#decanter%20of%20endless%20water_dmg
-    rarity: uncommon
-    value: 135000
   - name: Hornblade (+3 Wounding, Sharpness)
     source: Cornucopia + crazy ghost lady
     link: https://5e.tools/items.html#sword%20of%20sharpness_dmg

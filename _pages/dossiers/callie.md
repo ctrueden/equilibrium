@@ -36,6 +36,11 @@ magic-items:
     link: https://5e.tools/items.html#cloak%20of%20protection_dmg
     rarity: uncommon (major)
     value: 3500
+  - name: Decanter of Endless Water
+    source: Merfolk treasure
+    link: https://5e.tools/items.html#decanter%20of%20endless%20water_dmg
+    rarity: uncommon
+    value: 135000
   - name: Trident of Fish Command
     source: "Zanqaa the Devoted - Boon of Arms: Oceans"
     link: https://5e.tools/items.html#trident%20of%20fish%20command_dmg
