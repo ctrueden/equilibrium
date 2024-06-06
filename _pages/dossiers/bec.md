@@ -129,9 +129,9 @@ Spell | Level | School | Source
 [Arcane Eye](https://www.dandwiki.com/wiki/3e_SRD:Arcane_Eye) | 4 | Div | [Age of Freedom](../events/age-03)
 [Arcane Mark](https://www.dandwiki.com/wiki/3e_SRD:Arcane_Mark) | C | Univ | [Age of Freedom](../events/age-03)
 [Cat's Grace](https://www.dandwiki.com/wiki/3e_SRD:Cat%27s_Grace) | 2 | Trans | [Age of Freedom](../events/age-03)
-Copy | 1 | Trans | C.Wiz 3020
+[Copy](../rules/spells#copy-silver-age) | 1 | Trans | [Age of Zas](../events/age-02)
 [Dancing Lights](https://www.dandwiki.com/wiki/3e_SRD:Dancing_Lights) | C | Evoc [Light] | [Age of Freedom](../events/age-03)
-Delicious Treat | C | Conj (Creat) | (original)
+Delicious Treat | C | Conj (Creat) | (original research)
 [Detect Psionics](https://www.dandwiki.com/wiki/3e_SRD:Detect_Psionics) | 1 | Div | [Age of Freedom](../events/age-03)
 [Detect Scrying](https://www.dandwiki.com/wiki/3e_SRD:Detect_Scrying) | 4 | Div | [Age of Freedom](../events/age-03)
 [Dimension Door](https://www.dandwiki.com/wiki/3e_SRD:Dimension_Door) | 4 | Conj (Tele) | [Age of Freedom](../events/age-03)
@@ -172,7 +172,7 @@ Revert Form | 5 | Abjur
 
 Spell | Level | School | Source
 ------|-------|--------|-------
-Alarm | 1 | Abjur | [Age of Freedom](../events/age-03)
+[Alarm](https://www.dandwiki.com/wiki/3e_SRD:Alarm) | 1 | Abjur | [Age of Freedom](../events/age-03)
 [Animate Rope](https://www.dandwiki.com/wiki/3e_SRD:Animate_Rope) | 1 | Trans | [Age of Freedom](../events/age-03)
 [Color Spray](https://www.dandwiki.com/wiki/3e_SRD:Color_Spray) | 1 | Illus (Pat) [Mind] | [Age of Freedom](../events/age-03)
 [Disguise Self](https://www.dandwiki.com/wiki/3e_SRD:Disguise_Self) | 1 | Illus (Glam) | [Age of Freedom](../events/age-03)
@@ -183,7 +183,7 @@ Folding | 6 | Trans
 [Hold Portal](https://www.dandwiki.com/wiki/3e_SRD:Hold_Portal) | 1 | Abjur | [Age of Freedom](../events/age-03)
 [Jump](https://www.dandwiki.com/wiki/3e_SRD:Jump) | 1 | Trans | [Age of Freedom](../events/age-03)
 [Mage Armor](https://www.dandwiki.com/wiki/3e_SRD:Mage_Armor) | 1 | Conj (Creat) [Force] | [Age of Freedom](../events/age-03)
-Malison, Greater | 4 | Ench (Charm) | Tome 4409
+[Malison, Greater](../rules/spells#greater-malison-silver-age) | 4 | Ench (Charm) | [Age of Zas](../events/age-02)
 [Mirror Image](https://www.dandwiki.com/wiki/3e_SRD:Mirror_Image) | 2 | Illus (Fig) | [Age of Freedom](../events/age-03)
 Monk's Fighting Grace | 2 | Trans | QWiz 78
 [Mount](https://www.dandwiki.com/wiki/3e_SRD:Mount) | 1 | Conj (Summ) | [Age of Freedom](../events/age-03)
@@ -200,7 +200,7 @@ Spell | Level | School | Source
 ------|-------|--------|-------
 [Antimagic Field](https://www.dandwiki.com/wiki/3e_SRD:Antimagic_Field) | 6 | Abjur | [Age of Freedom](../events/age-03)
 Antipsionic Field | 7 | Abjur
-Arcane Sight, Greater | 7 | Div | [Age of Freedom](../events/age-03)
+[Arcane Sight, Greater](https://www.dandwiki.com/wiki/SRD:Greater_Arcane_Sight) | 7 | Div | [Age of Freedom](../events/age-03)
 Dispel Psionics, Greater | 7 | Abjur
 Glass Strike | 7 | Trans {F} | SC 106
 Mage's Disjunction | 9 | Abjur | [Age of Freedom](../events/age-03)
