@@ -129,7 +129,7 @@ Spell | Level | School | Source
 [Arcane Eye](https://www.dandwiki.com/wiki/3e_SRD:Arcane_Eye) | 4 | Div | [Age of Freedom](../events/age-03)
 [Arcane Mark](https://www.dandwiki.com/wiki/3e_SRD:Arcane_Mark) | C | Univ | [Age of Freedom](../events/age-03)
 [Cat's Grace](https://www.dandwiki.com/wiki/3e_SRD:Cat%27s_Grace) | 2 | Trans | [Age of Freedom](../events/age-03)
-[Copy](../rules/spells#copy-silver-age) | 1 | Trans | [Age of Zas](../events/age-02)
+[Copy](../rules/spells#copy-age-of-zas) | 1 | Trans | [Age of Zas](../events/age-02)
 [Dancing Lights](https://www.dandwiki.com/wiki/3e_SRD:Dancing_Lights) | C | Evoc [Light] | [Age of Freedom](../events/age-03)
 Delicious Treat | C | Conj (Creat) | (original research)
 [Detect Psionics](https://www.dandwiki.com/wiki/3e_SRD:Detect_Psionics) | 1 | Div | [Age of Freedom](../events/age-03)
@@ -176,22 +176,22 @@ Spell | Level | School | Source
 [Animate Rope](https://www.dandwiki.com/wiki/3e_SRD:Animate_Rope) | 1 | Trans | [Age of Freedom](../events/age-03)
 [Color Spray](https://www.dandwiki.com/wiki/3e_SRD:Color_Spray) | 1 | Illus (Pat) [Mind] | [Age of Freedom](../events/age-03)
 [Disguise Self](https://www.dandwiki.com/wiki/3e_SRD:Disguise_Self) | 1 | Illus (Glam) | [Age of Freedom](../events/age-03)
-Distract Assailant | 1 | Ench (Comp) [Mind] | SC 69
+[Distract Assailant](../rules/spells#distract-assailant-age-of-freedom) | 1 | Ench (Comp) [Mind] | [Age of Freedom](../events/age-03)
 [Dream](https://www.dandwiki.com/wiki/3e_SRD:Dream) | 5 | Illus (Phant) [Mind] | [Age of Freedom](../events/age-03)
 Folding | 6 | Trans
 [Grease](https://www.dandwiki.com/wiki/3e_SRD:Grease) | 1 | Conj (Creat) | [Age of Freedom](../events/age-03)
 [Hold Portal](https://www.dandwiki.com/wiki/3e_SRD:Hold_Portal) | 1 | Abjur | [Age of Freedom](../events/age-03)
 [Jump](https://www.dandwiki.com/wiki/3e_SRD:Jump) | 1 | Trans | [Age of Freedom](../events/age-03)
 [Mage Armor](https://www.dandwiki.com/wiki/3e_SRD:Mage_Armor) | 1 | Conj (Creat) [Force] | [Age of Freedom](../events/age-03)
-[Malison, Greater](../rules/spells#greater-malison-silver-age) | 4 | Ench (Charm) | [Age of Zas](../events/age-02)
+[Malison, Greater](../rules/spells#greater-malison-age-of-zas) | 4 | Ench (Charm) | [Age of Zas](../events/age-02)
 [Mirror Image](https://www.dandwiki.com/wiki/3e_SRD:Mirror_Image) | 2 | Illus (Fig) | [Age of Freedom](../events/age-03)
-Monk's Fighting Grace | 2 | Trans | QWiz 78
+[Monk's Fighting Grace](../rules/spells#monks-fighting-grace-age-of-freedom) | 2 | Trans | [Age of Freedom](../events/age-03)
 [Mount](https://www.dandwiki.com/wiki/3e_SRD:Mount) | 1 | Conj (Summ) | [Age of Freedom](../events/age-03)
 [Rainbow Pattern](https://www.dandwiki.com/wiki/3e_SRD:Rainbow_Pattern) | 4 | Illus [Mind] | [Age of Freedom](../events/age-03)
 [Resilient Sphere](https://www.dandwiki.com/wiki/3e_SRD:Resilient_Sphere) | 4 | Evoc [Force] | [Age of Freedom](../events/age-03)
 Suppression | 8 | Abjur
 [Unseen Servant](https://www.dandwiki.com/wiki/3e_SRD:Unseen_Servant) | 1 | Conj (Creat) | [Age of Freedom](../events/age-03)
-War Mastery | 3 | Div | QWiz 81
+[War Mastery](../rules/spells#war-mastery-age-of-freedom) | 3 | Div | [Age of Freedom](../events/age-03)
 {:class="sortable"}
 
 #### Neled
@@ -202,24 +202,24 @@ Spell | Level | School | Source
 Antipsionic Field | 7 | Abjur
 [Arcane Sight, Greater](https://www.dandwiki.com/wiki/SRD:Greater_Arcane_Sight) | 7 | Div | [Age of Freedom](../events/age-03)
 Dispel Psionics, Greater | 7 | Abjur
-Glass Strike | 7 | Trans {F} | SC 106
+[Glass Strike](../rules/spells#glass-strike-age-of-freedom) | 7 | Trans {F} | [Age of Freedom](../events/age-03)
 Mage's Disjunction | 9 | Abjur | [Age of Freedom](../events/age-03)
 [Meteor Swarm](https://www.dandwiki.com/wiki/3e_SRD:Meteor_Swarm) | 9 | Evoc | [Age of Freedom](../events/age-03)
 Moment of Prescience | 8 | Div | [Age of Freedom](../events/age-03)
 Psionic Sight, Greater | 8 | Div
-Replicate Casting* | 9 | Trans | SC 173
+[Replicate Casting](../rules/spells#replicate-casting-age-of-freedom) | 9 | Trans | [Age of Freedom](../events/age-03)
 [Shrink Item](https://www.dandwiki.com/wiki/3e_SRD:Shrink_Item) | 3 | Trans | [Age of Freedom](../events/age-03)
 [Stone Shape](https://www.dandwiki.com/wiki/3e_SRD:Stone_Shape) | 4 | Trans [Earth] | [Age of Freedom](../events/age-03)
 [Stone to Flesh](https://www.dandwiki.com/wiki/3e_SRD:Stone_to_Flesh) | 6 | Trans | [Age of Freedom](../events/age-03)
-Tenacious Dispelling | 3 | Abjur | CM 119
-Wall of Greater Dispel Magic | 8 | Abjur | SC 234
+[Tenacious Dispelling](../rules/spells#tenacious-dispelling-age-of-freedom) | 3 | Abjur | [Age of Freedom](../events/age-03)
+[Wall of Greater Dispel Magic](../rules/spells#wall-of-greater-dispel-magic-age-of-freedom) | 8 | Abjur | [Age of Freedom](../events/age-03)
 {:class="sortable"}
 
 #### Siniath
 
 Spell | Level | School | Source
 ------|-------|--------|-------
-Analyze Portal | 3 | Div | SC 10
+[Analyze Portal](../rules/spells#analyze-portal-age-of-freedom) | 3 | Div | [Age of Freedom](../events/age-03)
 [Antimagic Field](https://www.dandwiki.com/wiki/3e_SRD:Antimagic_Field) | 6 | Abjur | [Age of Freedom](../events/age-03)
 [Arcane Sight](https://www.dandwiki.com/wiki/SRD:Arcane_Sight) | 3 | Div | [Age of Freedom](../events/age-03)
 [Arcane Sight, Greater](https://www.dandwiki.com/wiki/SRD:Greater_Arcane_Sight) | 7 | Div | [Age of Freedom](../events/age-03)
@@ -228,7 +228,7 @@ Analyze Portal | 3 | Div | SC 10
 [Dimensional Anchor](https://www.dandwiki.com/wiki/3e_SRD:Dimensional_Anchor) | 4 | Abjur | [Age of Freedom](../events/age-03)
 [Dimensional Lock](https://www.dandwiki.com/wiki/SRD:Dimensional_Lock) | 8 | Abjur | [Age of Freedom](../events/age-03)
 [Dispelling, Greater](https://www.dandwiki.com/wiki/3e_SRD:Dispelling,_Greater) | 6 | Abjur | [Age of Freedom](../events/age-03)
-[Haste](https://www.dandwiki.com/wiki/3e_SRD:Haste) | 6 | Trans
+[Haste](../rules/spells#haste-age-of-freedom) | 6 | Trans |  [Age of Freedom](../events/age-03)
 [Knock](https://www.dandwiki.com/wiki/3e_SRD:Knock) | 2 | Trans | [Age of Freedom](../events/age-03)
 [Legend Lore](https://www.dandwiki.com/wiki/3e_SRD:Legend_Lore) | 6 | Div | [Age of Freedom](../events/age-03)
 [Mage's Disjunction](https://www.dandwiki.com/wiki/3e_SRD:Disjunction) | 9 | Abjur | [Age of Freedom](../events/age-03)
