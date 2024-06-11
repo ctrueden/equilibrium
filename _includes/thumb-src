@@ -33,7 +33,7 @@ Values other than these may yield an Access Denied error.
 {%- if src == psrc -%}
   {{src}}
 {%- else -%}
-  {{psrc | replace: ".png", ".jpg"}}
+  {{psrc | replace: ".png", ".jpg" | replace: ".webp", ".jpg" | replace: ".gif", ".jpg"}}
 {%- endif -%}
 
 {%- comment -%}
