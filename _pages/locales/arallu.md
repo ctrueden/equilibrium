@@ -13,7 +13,7 @@ image-entrance-source: https://www.pinterest.com/pin/406449935097092770/
 image-necropolis: https://i.pinimg.com/originals/2a/35/cc/2a35cc96d3dc1b9ffc8451e2ab31fbcb.jpg
 image-necropolis-source: https://www.pinterest.com/pin/155163149637588916/
 
-image-city-streets: https://i.pinimg.com/750x/40/8f/86/408f860baafe26ada03521ad4e71911f.jpg
+image-city-streets: https://i.pinimg.com/originals/40/8f/86/408f860baafe26ada03521ad4e71911f.jpg
 image-city-streets-source: https://www.pinterest.com/pin/597008494371542786/
 
 image-spires: https://i.pinimg.com/originals/65/d7/05/65d705f1f48822d52dcbbb03d4544aca.jpg

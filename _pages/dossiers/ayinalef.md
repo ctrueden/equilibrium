@@ -1,7 +1,7 @@
 ---
 nav-title: Ayina
 title: Ayinalef
-image: https://i.pinimg.com/750x/ab/f9/08/abf9082c8bfd8b1709654b8fbe53402d.jpg
+image: https://i.pinimg.com/originals/ab/f9/08/abf9082c8bfd8b1709654b8fbe53402d.png
 image-source: https://www.pinterest.com/pin/639933428321070310/
 statbox:
   race: elf (wood)
