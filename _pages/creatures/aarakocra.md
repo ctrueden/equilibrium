@@ -2,7 +2,6 @@
 title: Aarakocra
 image: https://static.wikia.nocookie.net/forgottenrealms/images/2/27/Monster_Manual_5e_-_Aarakocra_-_Christopher_burdett_-_p12.jpg
 image-source: https://forgottenrealms.fandom.com/wiki/Aarakocra
-links:
 ---
 
 The aarakocra, also known as birdfolk, are avian [bipeds](../glossary#bipedal) primarily residing in the high, mountainous regions of the [Zephyr Federation](../locales/zephyr), as well as outlying [skylands](../glossary#skyland). As a race they have sworn an oath to protect [Aecus](../locales/aecus) from the threat of [gargoyles](gargoyles) emerging from the [Howling Gyre](../locales/howling-gyre). They are strong fliers and capable warriors.
