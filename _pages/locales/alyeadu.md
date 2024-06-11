@@ -12,7 +12,7 @@ The secret village of the [changelings](../creatures/changelings) and their anch
 {% assign candidates = site.pages | where_exp: "p", "p.statbox.locale contains 'alyeadu'" | sort %}
 {%- for p in candidates -%}
 <div style="display: inline-block">
-<a href="{{site.baseurl}}{{p.url}}"><img src="{{p.image}}">
+<a href="{{site.baseurl}}{{p.url}}"><img src="{% include thumb-src src=p.image %}">
 <br>{{p.nav-title | default: p.title}}</a>
 </div>
 {% endfor %}
