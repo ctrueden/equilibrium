@@ -1,5 +1,5 @@
 ---
-title: The Selva Tribes
+title: The Selva
 statbox:
   races:
   - orcs
@@ -15,6 +15,10 @@ statbox:
     N: veldt
     NW: flux
     SE: jungle
+image: https://i.pinimg.com/originals/2e/1e/76/2e1e76d911db4ecf45c695b5464dab6e.png
+image-source: https://www.pinterest.com/pin/384917099407757932/
+image2: https://i.pinimg.com/originals/94/40/0e/94400ec72320e425add8e0f9e59846f7.jpg
+image2-source: https://www.pinterest.com/pin/52284045666122393/
 ---
 [Orcish](../creatures/orcs) tribes that vie for control of rainforest territory. Deep in the jungle to the southeast, it is said that monstrous [aberrations](https://dungeonsdragons.fandom.com/wiki/Aberration) and even [abominations](https://dungeonsdragons.fandom.com/wiki/Abomination) rampage freely.
 

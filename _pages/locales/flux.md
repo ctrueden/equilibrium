@@ -8,6 +8,7 @@ image3: https://i.pinimg.com/originals/f6/47/f4/f647f4a099c81e034f8cd3b6cefb75b8
 image3-source: https://www.pinterest.com/pin/152840981083979714/
 image4: https://i.pinimg.com/originals/df/eb/95/dfeb95e179df8492c4a20dcd2a4cff4d.jpg
 image4-source: https://www.pinterest.com/pin/142567144440973549/
+image-before-source: https://www.pinterest.com/pin/454230312407395101/
 statbox:
   races:
   - aberrations
