@@ -2,6 +2,7 @@
 A combat simulator for the party!
 """
 
+from pathlib import Path
 from queue import Queue
 from random import choice, randint
 from typing import Callable, Dict, List
@@ -13,7 +14,8 @@ from typing import Callable, Dict, List
 iteration_count = 1
 enemy_count = 5
 
-with open("names.txt") as f:
+
+with open(Path(__file__).with_name("names.txt")) as f:
     names = [line.strip() for line in f.readlines()]
 
 
@@ -128,7 +130,7 @@ class Encounter:
         while self.heroes_conscious > 0 and self.enemies_conscious > 0:
             # WHAT'S NEXT?!
             thing = queue.get()
-            print(f"It's {thing.name}'s turn!")
+            print(f"== {thing.name} ==")
 
             # Is this thing actually just an effect in play?
             if isinstance(thing, Effect):
@@ -186,12 +188,18 @@ def attack(e: Encounter, target: Actor) -> bool:
     return True
 
 
-def attack_hero(e: Encounter) -> bool:
-    return attack(e, choice([hero for hero in e.heroes if e.hp[hero] > 0]))
+def attack_hero() -> Action:
+    return Action(
+        "ATTACKS A HERO",
+        lambda e: attack(e, choice([hero for hero in e.heroes if e.hp[hero] > 0]))
+    )
 
 
-def attack_enemy(e: Encounter) -> bool:
-    return attack(e, choice([enemy for enemy in e.enemies if e.hp[enemy] > 0]))
+def attack_enemy() -> Action:
+    return Action(
+        "ATTACKS AN ENEMY",
+        lambda e: attack(e, choice([enemy for enemy in e.enemies if e.hp[enemy] > 0]))
+    )
 
 
 # -- Functions --
@@ -250,7 +258,7 @@ def random_actor():
         name = choice(names),
         max_hp = 70,
         armor_class = 15,
-        actions = [Action("ATTACKS A HERO", attack_hero)],
+        actions = [attack_hero()],
     )
 
 
@@ -260,40 +268,114 @@ def random_actor():
 def main():
     # Define PCs.
     bec = Actor(
+        # level = 9,
         name = "Bec",
-        max_hp = 50,
-        armor_class = 12,
-        actions = [Action("ATTACKS AN ENEMY", attack_enemy)],
+        max_hp = 65, # 8d6 + 33 (average 65)
+        armor_class = 13,
+        actions = [attack_enemy()],
+        # attack_str = 4 + 1
+        # attack_dex = 4 + 3
+        # attack_int = 4 + 5
+        initiative = 3,
+        str_save = 1,
+        dex_save = 3,
+        con_save = 3,
+        int_save = 5 + 4, # ERROR: sheet says 5
+        wis_save = 3 + 4, # ERROR: sheet says 3
+        cha_save = 2,
     )
     cal = Actor(
+        # level = 10,
         name = "Cal",
-        max_hp = 90,
+        max_hp = 119, # 4d8 + 5d12 + 58 (average 113)
         armor_class = 20,
-        actions = [Action("ATTACKS AN ENEMY", attack_enemy)],
+        actions = [attack_enemy()],
+        # attack_str = 4 + 3
+        # attack_dex = 4 + 3
+        # sneak_attack = 3d6
+        # attack_whip = +8 / 1d4+4
+        # attack_torch = +7 / 1d4
+        # attack_sunblade = +9 / 1d8+5
+        # vs_undead = +2 atk, +2d6+2 dmg
+        initiative = 3,
+        str_save = 3,
+        dex_save = 3 + 4,
+        con_save = 5,
+        int_save = 0 + 4, # ERROR: sheet says 5
+        wis_save = 0,
+        cha_save = -1,
     )
     callie = Actor(
+        # level = 10,
         name = "Callie",
-        max_hp = 70,
-        armor_class = 12,
-        actions = [Action("ATTACKS AN ENEMY", attack_enemy)],
+        max_hp = 85, # 9d8 + 48 (average 93)
+        armor_class = 14,
+        actions = [attack_enemy()],
+        # attack_str = 4 - 1
+        # attack_dex = 4 + 0
+        # attack_int = 4 + 4
+        # attack_wis = 4 + 3
+        # attack_cha = 4 + 2
+        initiative = 0,
+        str_save = -1,
+        dex_save = 0,
+        con_save = 4,
+        int_save = 4,
+        wis_save = 3 + 4,
+        cha_save = 2 + 4,
     )
     freki = Actor(
+        # level = 10,
         name = "Freki",
-        max_hp = 50,
-        armor_class = 18,
-        actions = [Action("ATTACKS AN ENEMY", attack_enemy)],
-    )
-    oz = Actor(
-        name = "Oz",
-        max_hp = 65,
+        max_hp = 65, # 9d10 + 20 (average 74)
         armor_class = 17,
-        actions = [Action("ATTACKS AN ENEMY", attack_enemy)],
+        actions = [attack_enemy()],
+        # two attacks per turn, plus swift shot bonus action
+        # attack_str = 4 + 2
+        # attack_dex = 4 + 5
+        initiative = 5, # with advantage in favored terrain
+        str_save = 2,
+        dex_save = 5 + 4,
+        con_save = 1,
+        int_save = 1,
+        wis_save = 4 + 4,
+        cha_save = -1,
+    )
+    # TODO: freki wolf
+    oz = Actor(
+        # level = 10,
+        name = "Oz",
+        max_hp = 110, # 9d8 + 48 (average 93, max 120) # Possible ERROR--or rolled REALLY well?
+        armor_class = 18 + 1, # From sheet: why +1?
+        actions = [attack_enemy()],
+        # attack_str = 4 + 0 + 1 # ioun stone mastery
+        # attack_dex = 4 + 5 + 1 # ioun stone mastery
+        # sneak_attack = 5d6
+        # attack_hornblade = +13 / 1d8+3
+        # attack_dagger = +11 / 1d4+1
+        initiative = 8,
+        str_save = 0,
+        dex_save = 5 + 4 + 1,
+        con_save = 4,
+        int_save = -1 + 4 + 1, # ERROR: sheet says 6
+        wis_save = 1,
+        cha_save = 3,
     )
     vondal = Actor(
+        # level = 10,
         name = "Vondal",
         max_hp = 50,
         armor_class = 13,
-        actions = [Action("ATTACKS AN ENEMY", attack_enemy)],
+        actions = [attack_enemy()],
+        # attack_cha = 5 + 4 + 2 # +2 from wand of wonder
+        initiative = 0,
+        # NB: +1 to ability checks and saves from Luckstone
+        str_save = -1 + 1, # ERROR: sheet says -1
+        dex_save = 0 + 1, # ERROR: sheet says 0
+        con_save = 1 + 4 + 1, # ERROR: sheet says 1
+        int_save = 2 + 1, # ERROR: sheet says 2
+        wis_save = 2 + 1, # ERROR: sheet says 2
+        cha_save = 5 + 4 + 1, # ERROR: sheet says 5
     )
     heroes = [bec, cal, callie, freki, oz, vondal]
 
