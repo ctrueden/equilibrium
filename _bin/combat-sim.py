@@ -45,7 +45,6 @@ class Actor:
         name: str,
         max_hp: int,
         armor_class: int,
-        actions: List[Action],
         initiative: int = 0,
         str_save: int = 0,
         dex_save: int = 0,
@@ -57,7 +56,7 @@ class Actor:
         self.name = name
         self.max_hp = max_hp
         self.armor_class = armor_class
-        self.actions = actions
+        self.actions = []
         self.initiative = initiative
         self.str_save = str_save
         self.dex_save = dex_save
@@ -130,7 +129,6 @@ class Encounter:
         while self.heroes_conscious > 0 and self.enemies_conscious > 0:
             # WHAT'S NEXT?!
             thing = queue.get()
-            print(f"== {thing.name} ==")
 
             # Is this thing actually just an effect in play?
             if isinstance(thing, Effect):
@@ -178,27 +176,46 @@ class Encounter:
 
 # -- Actions --
 
-def attack(e: Encounter, target: Actor) -> bool:
-    damage = randint(1, 20)
-    e.hp[target] -= damage
-    message = f"Attacked {target.name} for {damage} damage! "
-    if e.hp[target] > 0: message += f"HP -> {e.hp[target]}/{target.max_hp}"
-    else: message += f">>> {target.name} IS DOWN! <<<"
-    print(message)
+
+def attack(
+    e: Encounter,
+    attacker: Actor,
+    hit_mod: int,
+    damage_dice: List[int],
+    damage_base: int,
+    targets: List[Actor]
+) -> bool:
+    target = choice([target for target in targets if e.hp[target] > 0])
+    print(f"{attacker.name} attacks {target.name}!")
+
+    die_value = roll_die()
+    check_result = die_value + hit_mod
+    target_ac = e.armor_class[target]
+    hit = die_value == 20 or (die_value != 1 and check_result >= target_ac)
+    print(f"* Rolled {die_value} -> {check_result} vs AC {target_ac}: {'HIT' if hit else 'MISS'}")
+
+    if hit:
+        damage = sum(roll_die(damage_die) for damage_die in damage_dice) + damage_base
+        e.hp[target] -= damage
+        message = f"* {target.name} takes {damage} damage! "
+        if e.hp[target] > 0: message += f"HP -> {e.hp[target]}/{target.max_hp}"
+        else: message += f">>> {target.name} IS DOWN! <<<"
+        print(message)
+
     return True
 
 
-def attack_hero() -> Action:
+def attack_hero(attacker: Actor, hit_mod: int, damage_dice: List[int], damage_base: int) -> Action:
     return Action(
-        "ATTACKS A HERO",
-        lambda e: attack(e, choice([hero for hero in e.heroes if e.hp[hero] > 0]))
+        "{attacker.name} ATTACKS",
+        lambda e: attack(e, attacker, hit_mod, damage_dice, damage_base, e.heroes)
     )
 
 
-def attack_enemy() -> Action:
+def attack_enemy(attacker: Actor, hit_mod: int, damage_dice: List[int], damage_base: int) -> Action:
     return Action(
-        "ATTACKS AN ENEMY",
-        lambda e: attack(e, choice([enemy for enemy in e.enemies if e.hp[enemy] > 0]))
+        f"{attacker.name} ATTACKS",
+        lambda e: attack(e, attacker, hit_mod, damage_dice, damage_base, e.enemies)
     )
 
 
@@ -253,26 +270,27 @@ def run_simulation(
     return [Encounter(heroes, enemies).run() for _ in range(iteration_count)]
 
 
-def random_actor():
-    return Actor(
+def random_enemy():
+    enemy = Actor(
         name = choice(names),
         max_hp = 70,
         armor_class = 15,
-        actions = [attack_hero()],
     )
+    enemy.actions += [attack_hero(enemy, 8, [12, 12], 5)] # TODO: Use better numbers.
+    return enemy
 
 
 # -- Main --
 
 
 def main():
-    # Define PCs.
+    # -- Define PCs --
+
     bec = Actor(
         # level = 9,
         name = "Bec",
         max_hp = 65, # 8d6 + 33 (average 65)
         armor_class = 13,
-        actions = [attack_enemy()],
         # attack_str = 4 + 1
         # attack_dex = 4 + 3
         # attack_int = 4 + 5
@@ -284,12 +302,15 @@ def main():
         wis_save = 3 + 4, # ERROR: sheet says 3
         cha_save = 2,
     )
+    bec.actions += [
+        attack_enemy(bec, 9, [6, 6, 6], 3) # TODO
+    ]
+
     cal = Actor(
         # level = 10,
         name = "Cal",
         max_hp = 119, # 4d8 + 5d12 + 58 (average 113)
         armor_class = 20,
-        actions = [attack_enemy()],
         # attack_str = 4 + 3
         # attack_dex = 4 + 3
         # sneak_attack = 3d6
@@ -305,12 +326,19 @@ def main():
         wis_save = 0,
         cha_save = -1,
     )
+    cal.actions += [
+        # TODO: two attacks -- sneak attack only once upon hitting
+        attack_enemy(cal, 9, [8, 6, 6, 6], 5), # sunblade
+        #attack_enemy(cal, 8, [4, 6, 6, 6], 4), # whip
+        #attack_enemy(cal, 7, [4, 6, 6, 6], 0), # torch
+    ]
+    # ERROR: Cal's speed should be 35, not 25, due to Fast Movement.
+
     callie = Actor(
         # level = 10,
         name = "Callie",
         max_hp = 85, # 9d8 + 48 (average 93)
         armor_class = 14,
-        actions = [attack_enemy()],
         # attack_str = 4 - 1
         # attack_dex = 4 + 0
         # attack_int = 4 + 4
@@ -324,12 +352,15 @@ def main():
         wis_save = 3 + 4,
         cha_save = 2 + 4,
     )
+    callie.actions += [
+        attack_enemy(callie, 3, [4], -1) # dagger
+    ]
+
     freki = Actor(
         # level = 10,
         name = "Freki",
         max_hp = 65, # 9d10 + 20 (average 74)
         armor_class = 17,
-        actions = [attack_enemy()],
         # two attacks per turn, plus swift shot bonus action
         # attack_str = 4 + 2
         # attack_dex = 4 + 5
@@ -341,13 +372,18 @@ def main():
         wis_save = 4 + 4,
         cha_save = -1,
     )
+    freki.actions += [
+        # TODO: two attacks plus bonus action swift shot
+        attack_enemy(freki, 9, [8], 5) # TODO
+    ]
+
     # TODO: freki wolf
+
     oz = Actor(
         # level = 10,
         name = "Oz",
         max_hp = 110, # 9d8 + 48 (average 93, max 120) # Possible ERROR--or rolled REALLY well?
         armor_class = 18 + 1, # From sheet: why +1?
-        actions = [attack_enemy()],
         # attack_str = 4 + 0 + 1 # ioun stone mastery
         # attack_dex = 4 + 5 + 1 # ioun stone mastery
         # sneak_attack = 5d6
@@ -361,12 +397,16 @@ def main():
         wis_save = 1,
         cha_save = 3,
     )
+    oz.actions += [
+        # TODO: two attacks from two-weapon fighting -- sneak attack only once upon hitting
+        attack_enemy(oz, 9, [6, 6, 6, 6, 6, 6], 5) # TODO
+    ]
+
     vondal = Actor(
         # level = 10,
         name = "Vondal",
         max_hp = 50,
         armor_class = 13,
-        actions = [attack_enemy()],
         # attack_cha = 5 + 4 + 2 # +2 from wand of wonder
         initiative = 0,
         # NB: +1 to ability checks and saves from Luckstone
@@ -377,10 +417,14 @@ def main():
         wis_save = 2 + 1, # ERROR: sheet says 2
         cha_save = 5 + 4 + 1, # ERROR: sheet says 5
     )
+    vondal.actions += [
+        attack_enemy(vondal, 9, [4, 4, 4, 4], 4) # TODO
+    ]
+
     heroes = [bec, cal, callie, freki, oz, vondal]
 
     # Randomize enemies.
-    enemies = [random_actor() for i in range(enemy_count)]
+    enemies = [random_enemy() for i in range(enemy_count)]
 
     # Simulate the encounter repeatedly.
     results = run_simulation(heroes, enemies, iteration_count)
