@@ -189,11 +189,13 @@ class Encounter:
 
 def attack(
     e: Encounter,
+    targets: List[Actor],
     attacker: Actor,
     hit_mod: int,
     damage_dice: List[int],
     damage_base: int,
-    targets: List[Actor]
+    num_attacks: int = 1,
+    sneak_attack_dice: int = 0,
 ) -> bool:
     target = choice([target for target in targets if e.hp[target] > 0])
     print(f"{attacker.name} attacks {target.name}!")
@@ -202,7 +204,7 @@ def attack(
     check_result = die_value + hit_mod
     target_ac = e.armor_class[target]
     hit = die_value == 20 or (die_value != 1 and check_result >= target_ac)
-    print(f"* Rolled {die_value} -> {check_result} vs AC {target_ac}: {'HIT' if hit else 'MISS'}")
+    print(f"* Rolled {die_value} +{hit_mod} -> {check_result} vs AC {target_ac}: {'HIT' if hit else 'MISS'}")
 
     if hit:
         damage = sum(roll_die(damage_die) for damage_die in damage_dice) + damage_base
@@ -215,17 +217,33 @@ def attack(
     return True
 
 
-def attack_hero(attacker: Actor, hit_mod: int, damage_dice: List[int], damage_base: int) -> Action:
+def attack_hero(
+    attacker: Actor,
+    hit_mod: int,
+    damage_dice: List[int],
+    damage_base: int,
+    num_attacks: int = 1,
+    sneak_attack_dice: int = 0,
+) -> Action:
     return Action(
         "{attacker.name} ATTACKS",
-        lambda e: attack(e, attacker, hit_mod, damage_dice, damage_base, e.heroes)
+        lambda e: attack(e, e.heroes, attacker, hit_mod, damage_dice,
+                         damage_base, num_attacks, sneak_attack_dice)
     )
 
 
-def attack_enemy(attacker: Actor, hit_mod: int, damage_dice: List[int], damage_base: int) -> Action:
+def attack_enemy(
+    attacker: Actor,
+    hit_mod: int,
+    damage_dice: List[int],
+    damage_base: int,
+    num_attacks: int = 1,
+    sneak_attack_dice: int = 0,
+) -> Action:
     return Action(
         f"{attacker.name} ATTACKS",
-        lambda e: attack(e, attacker, hit_mod, damage_dice, damage_base, e.enemies)
+        lambda e: attack(e, e.enemies, attacker, hit_mod, damage_dice,
+                         damage_base, num_attacks, sneak_attack_dice)
     )
 
 
@@ -337,8 +355,8 @@ def main():
         cha_save = -1,
     )
     cal.actions += [
-        # TODO: two attacks -- sneak attack only once upon hitting
-        attack_enemy(cal, 9, [8, 6, 6, 6], 5), # sunblade
+        # two attacks -- sneak attack only once upon hitting
+        attack_enemy(cal, 9, [8], 5, 2, 3), # sunblade
         #attack_enemy(cal, 8, [4, 6, 6, 6], 4), # whip
         #attack_enemy(cal, 7, [4, 6, 6, 6], 0), # torch
     ]
@@ -409,7 +427,7 @@ def main():
     )
     oz.actions += [
         # TODO: two attacks from two-weapon fighting -- sneak attack only once upon hitting
-        attack_enemy(oz, 9, [6, 6, 6, 6, 6, 6], 5) # TODO
+        attack_enemy(oz, 9, [6], 5, 2, 5) # TODO
     ]
 
     vondal = Actor(
