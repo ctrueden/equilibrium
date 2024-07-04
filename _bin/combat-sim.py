@@ -12,7 +12,7 @@ from typing import Callable, Dict, List
 
 
 iteration_count = 1
-enemy_count = 5
+enemy_count = 1
 
 
 with open(Path(__file__).with_name("names.txt")) as f:
@@ -191,6 +191,7 @@ def attack(
     e: Encounter,
     targets: List[Actor],
     attacker: Actor,
+    weapon: str,
     hit_mod: int,
     damage_dice: List[int],
     damage_base: int,
@@ -198,27 +199,29 @@ def attack(
     sneak_attack_dice: int = 0,
 ) -> bool:
     target = choice([target for target in targets if e.hp[target] > 0])
-    print(f"{attacker.name} attacks {target.name}!")
+    print(f"{attacker.name} attacks {target.name} with {weapon}!")
 
-    die_value = roll_die()
-    check_result = die_value + hit_mod
-    target_ac = e.armor_class[target]
-    hit = die_value == 20 or (die_value != 1 and check_result >= target_ac)
-    print(f"* Rolled {die_value} +{hit_mod} -> {check_result} vs AC {target_ac}: {'HIT' if hit else 'MISS'}")
+    for _ in range(num_attacks):
+        die_value = roll_die()
+        check_result = die_value + hit_mod
+        target_ac = e.armor_class[target]
+        hit = die_value == 20 or (die_value != 1 and check_result >= target_ac)
+        print(f"* Rolled {die_value} +{hit_mod} -> {check_result} vs AC {target_ac}: {'HIT' if hit else 'MISS'}")
 
-    if hit:
-        damage = sum(roll_die(damage_die) for damage_die in damage_dice) + damage_base
-        e.hp[target] -= damage
-        message = f"* {target.name} takes {damage} damage! "
-        if e.hp[target] > 0: message += f"HP -> {e.hp[target]}/{target.max_hp}"
-        else: message += f">>> {target.name} IS DOWN! <<<"
-        print(message)
+        if hit:
+            damage = sum(roll_die(damage_die) for damage_die in damage_dice) + damage_base
+            e.hp[target] -= damage
+            message = f"* {target.name} takes {damage} damage! "
+            if e.hp[target] > 0: message += f"HP -> {e.hp[target]}/{target.max_hp}"
+            else: message += f">>> {target.name} IS DOWN! <<<"
+            print(message)
 
     return True
 
 
 def attack_hero(
     attacker: Actor,
+    weapon: str,
     hit_mod: int,
     damage_dice: List[int],
     damage_base: int,
@@ -226,14 +229,15 @@ def attack_hero(
     sneak_attack_dice: int = 0,
 ) -> Action:
     return Action(
-        "{attacker.name} ATTACKS",
-        lambda e: attack(e, e.heroes, attacker, hit_mod, damage_dice,
+        "{attacker.name} ATTACK HERO",
+        lambda e: attack(e, e.heroes, attacker, weapon, hit_mod, damage_dice,
                          damage_base, num_attacks, sneak_attack_dice)
     )
 
 
 def attack_enemy(
     attacker: Actor,
+    weapon: str,
     hit_mod: int,
     damage_dice: List[int],
     damage_base: int,
@@ -241,10 +245,18 @@ def attack_enemy(
     sneak_attack_dice: int = 0,
 ) -> Action:
     return Action(
-        f"{attacker.name} ATTACKS",
-        lambda e: attack(e, e.enemies, attacker, hit_mod, damage_dice,
+        f"{attacker.name} ATTACK ENEMY",
+        lambda e: attack(e, e.enemies, attacker, weapon, hit_mod, damage_dice,
                          damage_base, num_attacks, sneak_attack_dice)
     )
+
+
+def bless_and_sacred_flame(attacker: Actor) -> Action:
+    def basf(e):
+        attack(e, e.enemies, attacker, weapon, hit_mod, damage_dice,
+               damage_base, num_attacks, sneak_attack_dice)
+
+    return Action(f"{attacker.name} BLESS + SACRED FLAME", basf)
 
 
 # -- Functions --
@@ -304,7 +316,7 @@ def random_enemy():
         max_hp = 70,
         armor_class = 15,
     )
-    enemy.actions += [attack_hero(enemy, 8, [12, 12], 5)] # TODO: Use better numbers.
+    enemy.actions += [attack_hero(enemy, "evilness", 8, [12, 12], 5)] # TODO: Use better numbers.
     return enemy
 
 
@@ -331,7 +343,7 @@ def main():
         cha_save = 2,
     )
     bec.actions += [
-        attack_enemy(bec, 9, [6, 6, 6], 3) # TODO
+        attack_enemy(bec, "*magic*", 9, [6, 6, 6], 3) # TODO
     ]
 
     cal = Actor(
@@ -356,7 +368,7 @@ def main():
     )
     cal.actions += [
         # two attacks -- sneak attack only once upon hitting
-        attack_enemy(cal, 9, [8], 5, 2, 3), # sunblade
+        attack_enemy(cal, "Arkenstab", 9, [8], 5, 2, 3), # sunblade
         #attack_enemy(cal, 8, [4, 6, 6, 6], 4), # whip
         #attack_enemy(cal, 7, [4, 6, 6, 6], 0), # torch
     ]
@@ -381,7 +393,10 @@ def main():
         cha_save = 2 + 4,
     )
     callie.actions += [
-        attack_enemy(callie, 3, [4], -1) # dagger
+        # TODO: Cast two non-cantrip spells in one turn?
+        # 1. Bless; bonus: Spiritual Weapon (but can't cast two spells in one turn!)
+        # 2. spell; bonus: attack spiritual weapon
+        attack_enemy(callie, "*incisive wit*", 3, [4], -1) # dagger
     ]
 
     freki = Actor(
@@ -402,7 +417,7 @@ def main():
     )
     freki.actions += [
         # TODO: two attacks plus bonus action swift shot
-        attack_enemy(freki, 9, [8], 5) # TODO
+        attack_enemy(freki, "arrow of murdering", 9, [8], 5) # TODO
     ]
 
     # TODO: freki wolf
@@ -427,7 +442,7 @@ def main():
     )
     oz.actions += [
         # TODO: two attacks from two-weapon fighting -- sneak attack only once upon hitting
-        attack_enemy(oz, 9, [6], 5, 2, 5) # TODO
+        attack_enemy(oz, "Hornblade", 9, [6], 5, 2, 5) # TODO
     ]
 
     vondal = Actor(
@@ -446,7 +461,7 @@ def main():
         cha_save = 5 + 4 + 1, # ERROR: sheet says 5
     )
     vondal.actions += [
-        attack_enemy(vondal, 9, [4, 4, 4, 4], 4) # TODO
+        attack_enemy(vondal, "*scorching ray*", 9, [4, 4, 4, 4], 4) # TODO
     ]
 
     heroes = [bec, cal, callie, freki, oz, vondal]
