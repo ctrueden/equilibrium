@@ -77,9 +77,17 @@ class Actor:
 
 class Effect:
     """ Some kind of effect in play, typically caused by an action. """
-    def __init__(self, mods: Dict[str, int], targets: List[Actor], duration: int, f=None):
-        self.mods = mods
-        self.targets = targets
+    def __init__(
+        self,
+        name: str,
+        mods: Dict[str, int] = None,
+        targets: List[Actor] = None,
+        duration: int = 0,
+        f=None
+    ):
+        self.name = name
+        self.mods = {} if mods is None else mods
+        self.targets = [] if targets is None else targets
         self.duration = duration
         self.f = f
 
@@ -120,7 +128,9 @@ class Encounter:
         actors = self.heroes + self.enemies
         sequence = sorted([(actor.roll_initiative(), actor) for actor in actors], reverse=True)
         queue = Queue()
+        queue.put(Effect("-- BEGIN ROUND --"))
         for _, actor in sequence: queue.put(actor)
+        queue.put(Effect("-- END ROUND --"))
         print("INITIATIVE ORDER:")
         for n, actor in sequence:
             print(f"* {n:2} {actor.name}")
@@ -130,17 +140,17 @@ class Encounter:
             # WHAT'S NEXT?!
             thing = queue.get()
 
-            # Is this thing actually just an effect in play?
             if isinstance(thing, Effect):
                 # Apply the effect and tick down the duration.
+                print(thing.name)
+                thing.apply(self)
                 thing.duration -= 1
-                if thing.duration > 0:
-                    # Effect continues.
-                    thing.apply()
-                    queue.put(thing)
-                else:
+                if thing.duration == 0:
                     # Effect ends.
                     self.effects.remove(thing)
+                else:
+                    # Effect persists.
+                    queue.put(thing)
                 continue
 
             # Thing must be an Actor; take an action.
