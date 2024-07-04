@@ -383,7 +383,7 @@ def main():
         # level = 10,
         name = "Oz",
         max_hp = 110, # 9d8 + 48 (average 93, max 120) # Possible ERROR--or rolled REALLY well?
-        armor_class = 18 + 1, # From sheet: why +1?
+        armor_class = 18 + 1, # glamoured studded leather: 12 +5 Dex +1 magical +1 while dual wielding
         # attack_str = 4 + 0 + 1 # ioun stone mastery
         # attack_dex = 4 + 5 + 1 # ioun stone mastery
         # sneak_attack = 5d6
