@@ -9,7 +9,7 @@ Details of exactly how the world came to be are heavily disputed by scholars of 
 ### Draconic
 
 <figure style="float: right">
-<a href="../assets/images/myth-draconic.svg"><img src="../assets/images/myth-draconic.svg" style="max-width: 100%; max-height: 300px"></a>
+<a href="assets/images/myth-draconic.svg"><img src="assets/images/myth-draconic.svg" style="max-width: 100%; max-height: 300px"></a>
 <figcaption style="text-align: center">The primordials according to dragons</figcaption>
 </figure>
 
