@@ -49,7 +49,7 @@ The air starts to ripple OH NO IT'S JUST LIKE MY VISIONNNNNNNNNNNNNNNNN
 
 Vondal starts firing magic beams. With each one, more green fur sprouts out of him until he's covered with it. And the Death Tyrant has been incinerated by Oscar the Grouch! What kind of armor class does a trashcan have?
 
-The shimmering in the air stops. That's a relief! Now we can be killed by the Brucolac instead. 
+The shimmering in the air stops. That's a relief! Now we can be killed by the Brucolac instead.
 
 The Brucolac thanks us for purging his sanctum. We all look over at Cal, except Freki, who says, "Well met." Ironically, that's probably the most diplomatic response any of us could muster.
 
@@ -57,7 +57,7 @@ The Brucolac says his house seems to be in some disorder. While he is deeply mal
 
 Vondal notices that even though the Death Tyrant was slain, the power of the Flux here is still super strong and the stained glass windows are still messed up. Whatever's wrong seems to be ingrained in this place.
 
-Freki smells something like Oz (or his sword) from the shadow woman. The other woman smells like Cal, or his sword. The Brucolac picture smells like the Brucolac. 
+Freki smells something like Oz (or his sword) from the shadow woman. The other woman smells like Cal, or his sword. The Brucolac picture smells like the Brucolac.
 
 Sophie looks at him suspiciously and asks why he isn't killing us right now. She lacks subtlety, but knowing his motivation is just paralyzing me with fear, to be quite honest, so maybe it's best not to be burdened with knowledge sometimes.
 
@@ -65,7 +65,7 @@ The Brucolac acknowledges that consuming us would give him more power, sure, but
 
 Vondal, meanwhile, puts his hand on one of the windows and gets sucked in. I mean, I wish I could say I'm surprised? He finds himself on a hill with three elves and a ring. He feels himself being torn. His two halves are separating. Eventually the ring's power will wash over the world and heal everything, but when it reaches the apex of its power, the ring cracks! With a feeling of deep betrayal, Vondal gets thrown out the window. He has just witnessed the birth of the Flux. One of them ruined the ritual and created the Fluxx. This is all because of some asshole elf! Let's find them and kill them! He recognized two of the elves: Janus Ilaris (now the Ghost here in zombieland), one was Priscilla Stormcloud, and the other one was someone Vondal knows but couldn't see.
 
-The Brucolac tells Vondal that he's playing with fire and it's only a matter of time before it destroys his mind. 
+The Brucolac tells Vondal that he's playing with fire and it's only a matter of time before it destroys his mind.
 
 Oz taps at one of the windows, feels his head exploding, and knows that the woman in the window is the woman from his sword. She reaches out to touch his head and impart the depths of her pain. Her name is Dallah Thaun. She was betrayed by someone, and it's Oz's job to find out who and wreak her terrible vengeance.
 
@@ -75,7 +75,7 @@ Bec is trying to figure out what it all means, but she realizes that she can't g
 
 Cal touches the middle window.
 
-> GM's note: Cal has a vision of [Moradin](../dossiers/moradin) in full steampunk armor the Arkenstone into a sword:
+> GM's note: Cal has a vision of [Moradin](../dossiers/moradin) in full steampunk armor, as he forges the Arkenstone into a sword:
 >
 > ![](https://i.pinimg.com/originals/6a/f6/86/6af686a23088c1821a40ce87a8238e26.jpg)
 >
@@ -95,9 +95,9 @@ The Brucolac says he wants our information if we expect to get anything from him
 
 We can choose one of these three: Calderon the Cold, who knows all about spiders and tunnels. Orlok, who can find anything and go anywhere. Or Elloia Canarl, a consummate hunter (though she might start by hunting Oz, and who could blame her?).
 
-> Nate: "Let's take the they/them and stir up some may-hem!"  
+> Nate: "Let's take the 'they/them' and stir up some may-hem!"  
 > Curtis: "Orlok goes by *it*."  
-> Michael: "Let's take the it and stir up some shit!"
+> Michael: "Let's take the 'it' and stir up some shit!"
 
 Sophie says before we teleport out, this is the last time we should speak freely because Xaryu is always watching. ALWAYS WATCHING. Even sign language is out!
 
