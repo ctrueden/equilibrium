@@ -13,6 +13,8 @@ index = []
 for md_path in basedir.rglob("*.md"):
     short_path = str(md_path)[baselen:-3]
     if short_path.startswith("gm"): continue  # no spoilers! :-P
+    if short_path.endswith("/index"): short_path = short_path[:-6]
+    if len(short_path) == 0: short_path = "."  # root index
     doc = Frontmatter.read_file(md_path)
     attrs = doc["attributes"]
     entry = {}
