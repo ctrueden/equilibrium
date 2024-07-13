@@ -9,5 +9,6 @@
         <li><a href="{{site.baseurl}}/orgs">Organizations</a></li>
         <li><a href="{{site.baseurl}}/relics">Relics</a></li>
         <li><a href="{{site.baseurl}}/rules">Rules</a></li>
+        <li><a style="text-decoration: none" href="{{site.baseurl}}/search">&#x1F50D;</a></li>
       </ul>
     </div>
