@@ -11,8 +11,6 @@ session-event: https://www.facebook.com/events/2163438610685771/
 
 ## Callie's Journal
 
-*GM's note: NOT FINALIZED*
-
 [Bec](../dossiers/bec) casts *cloud of daggers* and creates a pretty purple storm. Stylish and lethal, that's our Bec! After slicing off, just, like, so many tentacles, she sneaks around towards the sarcophagus.
 
 [Sophie](../dossiers/sophie-steelboots) yells at [Cal](../dossiers/cal), "Flank it!" and smites the Death Tyrant. An eye opens behind her and shoots some kind of ray at her.
@@ -96,13 +94,13 @@ Oz tries to pick the Brucolac's pocket. He feels something he really didn't want
 
 The Brucolac (who used to be known as Cronus) says he remembers "devouring them all, including her. But I do not remember who she is." Cal thinks Morrigan (?), who wants revenge, may have been devoured by this guy. But Vondal said the Flux was caused by elves, and what Cronus is talking about happened a long time ago, much longer than the Flux.
 
-Oz wants to liberate the halfling ranch. The Brucolac asks what our companion would say about that. Sophie says the Death Tyrant is dead, so everything is fine now. Also she doesn't believe the Brucolac isn't in league with Xaryu, though he says he isn't.
+Oz wants to liberate the halfling ranch. The Brucolac asks what our companion would say about that. Sophie says the Death Tyrant is dead, so everything is fine now. Also she doesn't believe the Brucolac isn't in league with [Xaryu](../dossiers/xaryu-hive), though he says he isn't.
 
 Sophie says if he's really thankful to us, he can help us destroy Xaryu. And don't eat us while he's doing it, please and thank you!
 
 The Brucolac says he wants our information if we expect to get anything from him. Cal says that he thinks the Ghost sicced the Death Tyrant on him, but the Brucolac thinks he and the Ghost are allies and this is unlikely. So I tell him what I saw in my visions. He says that information is valuable enough to merit him sending "an agent" with us, if that's what we want. Someone who fills a need in our party, someone patient and smart. Hey now, I do not say out loud.
 
-We can choose one of these three: Calderon the Cold, who knows all about spiders and tunnels. Orlok, who can find anything and go anywhere. Or Elloia Canarl, a consummate hunter (though she might start by hunting Oz, and who could blame her?).
+The Brucolac bids us to consider one of these three: [Calderon the Cold](../dossiers/calderon-the-cold), who knows all about spiders and tunnels. [Orlok](../dossiers/orlok), who can find anything and go anywhere. Or [Elloia Canarl](../dossiers/elloia-canarl), a consummate hunter (though she might start by hunting Oz, and who could blame her?).
 
 > Nate: "Let's take the 'they/them' and stir up some may-hem!"  
 > Curtis: "Orlok goes by *it*."  
@@ -114,12 +112,12 @@ We all go through the portal. Oz yells "Your wings look like shit!" as he's abou
 
 Left alone with the Brucolac, Cal says, "What now, uncle?"
 
-The Brucolac tells him that Xaryu is what prevents the vampires from wiping out the halflings entirely, so is the situation really so simple? Cal responds that nothing is ever simple. "Truer words were never spoken," says the Brucolac, and lets Cal go.
+The Brucolac tells him that Xaryu is what prevents the [vampires](../creatures/vampires) from wiping out the [halflings](../creatures/halflings) entirely, so is the situation really so simple? Cal responds that nothing is ever simple. "Truer words were never spoken," says the Brucolac, and... lets Cal go??
 
 Lingering questions:
- - Two vampires connected to Goratrix seem to be involved in this...assassination attempt...so why did Goratrix lead us right here?
+ - Two vampires connected to [Goratrix](../dossiers/goratrix-ceorys) seem to be involved in this...assassination attempt...so why did Goratrix lead us right here?
  - If vampires aren't allowed to set foot here, as Goratrix said, then what was the Brucolac doing here?
- - Was Meerlinda's dream power involved in creating the Death Tyrant in the first place? Seems like her wheelhouse.
+ - Was [Meerlinda](../dossiers/meerlinda-descant)'s dream power involved in creating the Death Tyrant in the first place? Seems like her wheelhouse.
  - But in my vision, someone was directing the ghosts to feed the Death Tyrant, so maybe Janus Ilaris? Cal thinks so.
 
-LEVEL UP to 11!
+&#x2728; LEVEL UP to 11! &#x2728;
