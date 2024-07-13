@@ -5,6 +5,69 @@ js: [sorttable]
 
 ## Tattoos
 
+### Hammer
+
+This tattoo in the shape of ... has a faint red glow while energized.
+
+One per turn, as part of an unarmed strike, natural attack, or melee touch attack (a melee attack with proficiency that deals no damage), you charge your limb with the force of a sledgehammer. If the attack hits, it deals an additional 3d8 points of damage. This damage is not increased or decreased by your Strength modifier. If the attack misses, the charge is wasted, expelled into the open air.
+
+Each activation depletes the tattoo's energy by 25%; the tattoo's energy recharges at a rate of 25% every 15 minutes.
+
+*GM's note: adapted from [hammer].*
+
+### Hustle
+
+This tattoo in the shape of ... has a faint orange glow while energized.
+
+*GM's note: adapted from [hustle].*
+
+Once activated, the tattoo's energy is expended for one hour.
+
+### Time Hop
+
+This tattoo in the shape of ... has a faint yellow glow while energized.
+
+*GM's note: adapted from [time hop].*
+
+Once activated, the tattoo's energy is expended for one hour.
+
+### Biofeedback
+
+This tattoo in the shape of ... has a faint green glow while energized.
+
+*GM's note: adapted from [biofeedback].*
+
+Once activated, the tattoo's energy is expended for one hour.
+
+### Defy Gravity
+
+This tattoo in the shape of ... has a faint blue glow while energized.
+
+*GM's note: adapted from [defy gravity].*
+
+Once activated, the tattoo's energy is expended for one hour.
+
+### Vigor
+
+This tattoo in the shape of ... has a faint violet glow while energized.
+
+As a bonus action, you can activate this tattoo to draw from its reservoir of life energy, gaining 20 temporary hit points for 7 minutes.
+
+Once activated, the tattoo's energy is expended for one hour.
+
+*GM's note: adapted from [vigor].*
+
+### Truevenom
+
+This tattoo of a grinning skull glows darkly while energized.
+
+As a bonus action, you can activate this tattoo to produce a horrible poison that coats a melee weapon you are currently wielding. On your next successful melee attack with the weapon, the poison deals 1d3 points of Constitution damage per round for 6 rounds. Poisoned creatures can make a Constitution save (DC 15) each round to negate the damage and end the affliction. A creature with Constitution damage decreases their current and maximum hit point total according to their reduced score. A creature with a Constitution score of 0 immediately dies. If the poison is not delivered within 5 minutes, it evaporates harmlessly from the weapon.
+
+After four uses, the tattoo's energy is expended for one hour.
+
+*GM's note: adapted from [truevenom].*
+
+
 | Color  | Power          | Activation                    | Notes                                  |
 |--------|----------------|-------------------------------|----------------------------------------|
 | Red    | [hammer]       | as part of an attack (1/turn) | 4 touches at 3d8 each                  |
