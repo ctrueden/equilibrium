@@ -71,7 +71,7 @@ Beginning at 5th level, you can make an additional attack whenever you take the 
 
 ### Improved Beast Form
 
-At 6th level, your beast form grows in power. Choose one of the following abilities:
+At 6th level, your beast form grows in power. Choose two of the following abilities:
 
 * **Damage Resistances.** You are resistant to bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered.
 
@@ -79,7 +79,7 @@ At 6th level, your beast form grows in power. Choose one of the following abilit
 
 * **Savage Critical.** Your natural weapon attacks score a critical hit on 19 or 20.
 
-* **Scent of Blood.** After damaging an enemy in beast form, you become attuned to the smell their blood. Your attacks versus that target do an additional +2d6 damage, and you always know their exact location&mdash;meaning they don't benefit from concealment&mdash;as long as they are within your reach. Your actions not focused on this specific enemy are at disadvantage as long as you continue to smell its blood.
+* **Scent of Blood.** After damaging an enemy with a natural weapon attack in beast form, you become attuned to the smell their blood. Your attacks versus that target do an additional +2d6 damage, and you always know their exact location&mdash;meaning they don't benefit from concealment&mdash;as long as they are within your reach. Your actions not focused on this specific enemy are at disadvantage as long as you continue to smell its blood.
 
 * **Thrash.** In lieu of a natural weapon attack, you can smash a grappled creature into the creatures around it. Make a melee weapon attack against each creature adjacent to the grappled creature, treating the grappled creature as an improvised weapon that deals 1d6 + Str bludgeoning damage.
 
@@ -161,13 +161,13 @@ While in your favored terrain, you have advantage on initiative checks.
 
 ## Multiattack
 
-*This ability functions as the [standard ranger's 11th level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability. It is copied verbatim from the [Hunter](https://www.dndbeyond.com/classes/ranger#Hunter) archetype.*
+*This ability functions very similarly to the [standard ranger's 11th level archetype](https://www.dndbeyond.com/classes/ranger#RangerArchetypes) ability. It is adapted from the [Hunter](https://www.dndbeyond.com/classes/ranger#Hunter) archetype.*
 
-At 11th level, you gain one of the following features of your choice.
+At 11th level, you the following two features:
 
-* **Volley.** You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+* **Volley.** While in natural or hybrid form, you can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon’s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
 
-* **Whirlwind Attack.** You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
+* **Whirlwind Attack.** While in beast form only, you can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
 
 ## Superior Hunter’s Defense
 
