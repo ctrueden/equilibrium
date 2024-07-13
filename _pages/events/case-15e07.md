@@ -1,5 +1,5 @@
 ---
-title: "[15e07] TBD"
+title: "[15e07] Interview with the Vampire"
 description: >-
   TODO
 datestamp: 50-06-04/07
@@ -15,19 +15,28 @@ session-event: https://www.facebook.com/events/2163438610685771/
 
 [Bec](../dossiers/bec) casts *cloud of daggers* and creates a pretty purple storm. Stylish and lethal, that's our Bec! After slicing off, just, like, so many tentacles, she sneaks around towards the sarcophagus.
 
-Sophie yells at [Cal](../dossiers/cal), "Flank it!" and smites the Death Tyrant. An eye opens behind her and shoots some kind of ray at her.
+[Sophie](../dossiers/sophie-steelboots) yells at [Cal](../dossiers/cal), "Flank it!" and smites the Death Tyrant. An eye opens behind her and shoots some kind of ray at her.
 
 [Vondal](../dossiers/vondal) shoots a ray out of the wall of light at the Death Tyrant and it roars in pain and anger. Vondal's ray destroyed the tentacles that were ensnaring him, but new ones sprout out of the walls and try to grab him again.
 
 The Death Tyrant grabs at [Oz](../dossiers/oz)'s sword and the light from it is extinguished. The oppressive feeling in this place is back.
 
-[Freki](../dossiers/freki) shoots a hail of thorns at the Death Tyrant. He hits it right in the central eye, kapow! It flips around to reveal a gaping maw and starts sucking in the nearby ghosts. It seems to find the ghosts...delicious.  Urghghghghghgg.
+[Freki](../dossiers/freki) shoots a hail of thorns at the Death Tyrant. He hits it right in the central eye, kapow! It flips around to reveal a gaping maw and starts sucking in the nearby ghosts. It seems to find the ghosts...delicious. Urghghghghghgg.
 
 Freki shoots at it again, but one of the eye stalks snags the arrow right out of the air and tosses it to the floor. "PATHETIC," says the Death Tyrant. It moves towards more of the ghosts.
 
 After taking a swing at the Death Tyrant, Cal makes his way over to the sarcophagus and does a little hop to see inside. There's a gargantuan creature in there. Could it be the [Brucolac](../dossiers/cronus)? It has the sword, as seen in the stained glass window and other depictions. Was the Death Tyrant...feeding on it?
 
-The Brucolac bursts out of the sarcophagus. Its wings unfurl in the air. With a wave of its hand, it clothes and armors itself. We can't see the wings anymore, but it can still fly. It stares straight at Cal and something seems to pass between them. For the first time since I've ever known him, Cal doesn't want to kill undead? SNAP OUT OF IT, CAL!
+The Brucolac bursts out of the sarcophagus. Its wings unfurl in the air.
+
+![](https://i.pinimg.com/236x/58/fa/96/58fa9614c553e96ae8f991d29201a677.jpg) <!-- https://www.pinterest.com/pin/710935491179748007/ -->
+
+With a wave of its hand, it clothes and armors itself. We can't see the wings anymore, but it can still fly.
+
+![](https://i.pinimg.com/236x/ca/8b/40/ca8b40a11a89aaa3b96fd3d779f12b6b.jpg) <!-- https://www.pinterest.com/pin/792281759426668026/ -->
+
+
+It stares straight at Cal and something seems to pass between them. For the first time since I've ever known him, Cal doesn't want to kill undead? SNAP OUT OF IT, CAL!
 
 The Brucolac looks at the Death Tyrant and orders it to leave. The Death Tyrant doesn't react in any way.
 
@@ -43,7 +52,7 @@ The Brucolac kind of offhandedly uses the power of this horrible place to do som
 
 > Michael: "If we *all* fail, then it's not a very good teacher."
 
-Freki makes an arrow on the fly, prays to his bird friends, and swears an oath on his bow: "A swift death to those who have wronged me. May my bow strike true, and may this be the end of you." The bow whispers something back in Elven. Vondal seems like he's weaving some kind of massive enchantment or something (six sorcery points!) to help Freki's aim, too. Even with all the help, the arrow flies straight and true, but not exactly at the right...spot.... Hugin and Munin appear to escort the arrow!!! The Death Tyrant looks grievously wounded! Then it turns an eye stalk on Freki and shoots a ray at him.
+On the fly, Freki makes an arrow of slaying out of wall tentacle, prays to his bird friends, and swears an oath on his bow: "A swift death to those who have wronged me. May my bow strike true, and may this be the end of you." The bow whispers something back in Elven. Vondal seems like he's weaving some kind of massive enchantment or something (six sorcery points!) to help Freki's aim, too. Even with all the help, the arrow flies straight and true, but not exactly at the right...spot.... Hugin and Munin appear to escort the arrow!!! The Death Tyrant looks grievously wounded! Then it turns an eye stalk on Freki and shoots a ray at him.
 
 The air starts to ripple OH NO IT'S JUST LIKE MY VISIONNNNNNNNNNNNNNNNN
 
@@ -55,7 +64,7 @@ The Brucolac thanks us for purging his sanctum. We all look over at Cal, except 
 
 The Brucolac says his house seems to be in some disorder. While he is deeply malevolent, he's not actively trying to kill us, so that's nice. I feel that he is shaken by this experience, which should not have been able to happen. He's also furious, unsurprisingly. Should I point his ire in some direction that isn't us? Probably should, right? Yeah, probably should.
 
-Vondal notices that even though the Death Tyrant was slain, the power of the Flux here is still super strong and the stained glass windows are still messed up. Whatever's wrong seems to be ingrained in this place.
+Vondal notices that even though the Death Tyrant was slain, the power of [the Flux](../locales/flux) here is still super strong and the stained glass windows are still messed up. Whatever's wrong seems to be ingrained in this place.
 
 Freki smells something like Oz (or his sword) from the shadow woman. The other woman smells like Cal, or his sword. The Brucolac picture smells like the Brucolac.
 
@@ -63,11 +72,11 @@ Sophie looks at him suspiciously and asks why he isn't killing us right now. She
 
 The Brucolac acknowledges that consuming us would give him more power, sure, but he thinks we have a part to play besides being eaten by him. Which is more than we could have expected from him, really.
 
-Vondal, meanwhile, puts his hand on one of the windows and gets sucked in. I mean, I wish I could say I'm surprised? He finds himself on a hill with three elves and a ring. He feels himself being torn. His two halves are separating. Eventually the ring's power will wash over the world and heal everything, but when it reaches the apex of its power, the ring cracks! With a feeling of deep betrayal, Vondal gets thrown out the window. He has just witnessed the birth of the Flux. One of them ruined the ritual and created the Fluxx. This is all because of some asshole elf! Let's find them and kill them! He recognized two of the elves: Janus Ilaris (now the Ghost here in zombieland), one was Priscilla Stormcloud, and the other one was someone Vondal knows but couldn't see.
+Vondal, meanwhile, puts his hand on one of the windows and gets sucked in. I mean, I wish I could say I'm surprised? He finds himself on a hill with three elves and [a ring](../relics/ring). He feels himself being torn. His two halves are separating. Eventually the ring's power will wash over the world and heal everything, but when it reaches the apex of its power, the ring cracks! With a feeling of deep betrayal, Vondal gets thrown out the window. He has just witnessed the birth of the Flux. One of them ruined the ritual and created the Flux. This is all because of some asshole elf! Let's find them and kill them! He recognized two of the elves: Janus Ilaris (now the Ghost here in zombieland), one was Priscilla Stormcloud, and the other one was someone Vondal knows but couldn't see.
 
 The Brucolac tells Vondal that he's playing with fire and it's only a matter of time before it destroys his mind.
 
-Oz taps at one of the windows, feels his head exploding, and knows that the woman in the window is the woman from his sword. She reaches out to touch his head and impart the depths of her pain. Her name is Dallah Thaun. She was betrayed by someone, and it's Oz's job to find out who and wreak her terrible vengeance.
+Oz taps at one of the windows, feels his head exploding, and knows that the woman in the window is the woman from his sword. She reaches out to touch his head and impart the depths of her pain. Her name is [Dallah Thaun](../dossiers/dallah-thaun). She was betrayed by someone, and it's Oz's job to find out who and wreak her terrible vengeance.
 
 Cal goes and stands near the other window. He feels deep sadness and knows she is dead. The Flux has started to erase her. That's why her face is obscured.
 
@@ -77,7 +86,7 @@ Cal touches the middle window.
 
 > GM's note: Cal has a vision of [Moradin](../dossiers/moradin) in full steampunk armor, as he forges the Arkenstone into a sword:
 >
-> ![](https://i.pinimg.com/originals/6a/f6/86/6af686a23088c1821a40ce87a8238e26.jpg)
+> ![](https://i.pinimg.com/236x/6a/f6/86/6af686a23088c1821a40ce87a8238e26.jpg) <!-- https://www.pinterest.com/pin/468515167466783890/ -->
 >
 > "Mother... we will make them remember..."
 
