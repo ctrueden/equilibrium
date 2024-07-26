@@ -23,20 +23,20 @@ dedicated days for each of the elemental apexes (i.e. summer solstices), when
 the sun sits highest in the sky centered at one of eight aligned elemental
 orientations.
 
-|  # | Month        | Deity Honored                    | Domains          | Legend                                                             |
-|---:|--------------|----------------------------------|------------------|--------------------------------------------------------------------|
-| 01 | Gyrus        | [Io](../dossiers/io)             | All              | In the beginning was Io, origin of all that is divine.             |
-| 02 | Fons         | [Corellon](../dossiers/corellon) | Nature, Light    | Corellon sowed the seeds of nature, nourishing them with magic.    |
-| 03 | Solis        | [Pelor](../dossiers/pelor)       | Life, Light      | Pelor gave life to mortalkind, and reaped what Corellon sowed.     |
-| 04 | Cudo         | [Moradin](../dossiers/moradin)   | Light, War       | Moradin taught mortalkind to forge tools.                          |
-| 05 | Rixa         | [Gruumsh](../dossiers/gruumsh)   | War, Tempest     | But with resources came conflict and destruction.                  |
-| 06 | Vis          | [Kord](../dossiers/kord)         | Tempest          | The strong survived, weathering the storms.                        |
-| 07 | Avium        | [Melora](../dossiers/melora)     | Tempest, Nature  | And the wilderness endured, defiant and untamed.                   |
-| 08 | Luna         | [Sehanine](../dossiers/sehanine) | Nature, Trickery | Mortalkind learned to thrive in harmony with the natural world.    |
-| 09 | Casus        | [Avandra](../dossiers/avandra)   | Trickery, Life   | As their luck changed, they began new journeys.                    |
-| 10 | Fatum        | [Nerull](../dossiers/nerull)     | Trickery, Death  | But all journeys end with death's embrace.                         |
-| 11 | Mysteria     | [Vecna](../dossiers/vecna)       | Death, Knowledge | Is there a secret way to cheat fate?                               |
-| 12 | Idea         | [Erathis](../dossiers/erathis)   | Knowledge, War   | As secrets are revealed, can Aecans build a better world together? |
+|  # | Month    | Deity Honored                    | Domains          | Legend                                                             |
+|---:|----------|----------------------------------|------------------|--------------------------------------------------------------------|
+| 01 | Gyrus    | [Io](../dossiers/io)             | All              | In the beginning was Io, origin of all that is divine.             |
+| 02 | Fons     | [Corellon](../dossiers/corellon) | Nature, Light    | Corellon sowed the seeds of nature, nourishing them with magic.    |
+| 03 | Solis    | [Pelor](../dossiers/pelor)       | Life, Light      | Pelor gave life to mortalkind, and reaped what Corellon sowed.     |
+| 04 | Cudo     | [Moradin](../dossiers/moradin)   | Light, War       | Moradin taught mortalkind to forge tools.                          |
+| 05 | Rixa     | [Gruumsh](../dossiers/gruumsh)   | War, Tempest     | But with resources came conflict and destruction.                  |
+| 06 | Vis      | [Kord](../dossiers/kord)         | Tempest          | The strong survived, weathering the storms.                        |
+| 07 | Avium    | [Melora](../dossiers/melora)     | Tempest, Nature  | And the wilderness endured, defiant and untamed.                   |
+| 08 | Luna     | [Sehanine](../dossiers/sehanine) | Nature, Trickery | Mortalkind learned to thrive in harmony with the natural world.    |
+| 09 | Casus    | [Avandra](../dossiers/avandra)   | Trickery, Life   | As their luck changed, they began new journeys.                    |
+| 10 | Fatum    | [Nerull](../dossiers/nerull)     | Trickery, Death  | But all journeys end with death's embrace.                         |
+| 11 | Mysteria | [Vecna](../dossiers/vecna)       | Death, Knowledge | Is there a secret way to cheat fate?                               |
+| 12 | Idea     | [Erathis](../dossiers/erathis)   | Knowledge, War   | As secrets are revealed, can Aecans build a better world together? |
 
 ## Days of the week
 
@@ -69,12 +69,12 @@ its newest at the midpoint between the Terran and Glacian solar apexes.
 | 01-02 | 🧊 Glacian Apex     | Earth+Water | [Arallu](../locales/arallu)^    | [Selva](../locales/selva)^      | [RUP](../locales/rup)^          | [Trell](../locales/trell)^      |
 | 02-03 | 🌊 Aquan Apex       | Water       | [Ocean](../locales/cognitutus)  | [Elyria](../locales/elyria)     | [Mountain](../locales/mountain) | [Zephyr](../locales/zephyr)     |
 | 03-04 | 🌀 Procellan Apex   | Water+Air   | [Trell](../locales/trell)       | [Arallu](../locales/arallu)     | [Selva](../locales/selva)       | [RUP](../locales/rup)           |
-| 04-05 | 🌓 Waxing Half-Moon |             |                              |                              |                              |                              |
+| 04-05 | 🌓 Waxing Half-Moon |             |                                 |                                 |                                 |                                 |
 | 05-06 | 🌪 Auran Apex       | Air         | [Zephyr](../locales/zephyr)     | [Ocean](../locales/cognitutus)  | [Elyria](../locales/elyria)     | [Mountain](../locales/mountain) |
 | 06-07 | ⏳ Arenan Apex      | Air+Fire    | [RUP](../locales/rup)\*         | [Trell](../locales/trell)\*     | [Arallu](../locales/arallu)\*   | [Selva](../locales/selva)\*     |
-| 07-08 | 🌕 Full Moon        |             |                              |                              |                              |                              |
+| 07-08 | 🌕 Full Moon        |             |                                 |                                 |                                 |                                 |
 | 08-09 | 🔥 Ignan Apex       | Fire        | [Mountain](../locales/mountain) | [Zephyr](../locales/zephyr)     | [Ocean](../locales/cognitutus)  | [Elyria](../locales/elyria)     |
-| 09-10 | 🌗 Waning Half-Moon |             |                              |                              |                              |                              |
+| 09-10 | 🌗 Waning Half-Moon |             |                                 |                                 |                                 |                                 |
 | 10-11 | 🌋 Magman Apex      | Fire+Earth  | [Selva](../locales/selva)       | [RUP](../locales/rup)           | [Trell](../locales/trell)       | [Arallu](../locales/arallu)     |
 | 11-12 | 🌳 Terran Apex      | Earth       | [Elyria](../locales/elyria)     | [Mountain](../locales/mountain) | [Zephyr](../locales/zephyr)     | [Ocean](../locales/cognitutus)  |
 
@@ -97,7 +97,7 @@ The Aquan year is divided into 13 months of 28 days each,
 with an additional festival day for each of the four seasons.
 
 | ## | Month     | Season           | Symbol      | Notes                           |
-|----|-----------|------------------|-------------|---------------------------------|
+|---:|-----------|------------------|-------------|---------------------------------|
 | 01 | Zarantyr  | Mid winter       | Storm       |                                 |
 | 02 | Olarune   | Late winter      | Sentinel    |                                 |
 |  - | Springday |                  |             | Festival day celebrating spring |
@@ -141,7 +141,7 @@ festivals, each placed at three-month intervals. The months and festivals are
 commonly referred to as the Dozenmonth of Luna and the Four Festivals. 
 
 | Month | Common     | Elven       | Nomads   | Season      |
-|-------|------------|-------------|----------|-------------|
+|:-----:|------------|-------------|----------|-------------|
 |       | Needfest   |             |          |             |
 |   01  | Fireseek   | Diamondice  | Tiger    | Winter      |
 |   02  | Readying   | Yellowillow | Bear     | Spring      |
@@ -191,7 +191,7 @@ Months are divided into 10-day segments known as tendays, with no names per
 day. For example, 21 Hammer is the 1st day of the 3rd tenday of Hammer.
 
 | ## | Month             | Meaning                     | Notes                                     |
-|----|-------------------|-----------------------------|-------------------------------------------|
+|---:|-------------------|-----------------------------|-------------------------------------------|
 | 01 | Hammer            | Deepwinter                  |                                           |
 |  - | Midwinter         |                             | Festival day marking middle of winter     |
 | 02 | Alturiak          | Claws of the Cold           | Full moon on Alturiak 16                  |
@@ -222,24 +222,24 @@ Selvan tribes count time in sixteen groups of 23 days each.
 There are no special festival days, nor breakdown into week days;
 every day is a good day to be alive.
 
-| ## | Name    | Notes                                    |
-|----|---------|------------------------------------------|
-| 01 | Birth   | Begins the day of the spring equinox.    |
-| 02 | Rain    | Full moon on 8th night.                  |
-| 03 | Storm   |                                          |
-| 04 | Flood   | Waning half moon on 23rd night.          |
-| 05 | Growth  |                                          |
-| 06 | Bloom   | Summer solstice on 8th day.              |
-| 07 | Fruit   |                                          |
-| 08 | Sweat   | New moon on 23rd night.                  |
-| 09 | Bog     |                                          |
-| 10 | Swarm   | Autumn equinox on 8th day.               |
-| 11 | Hunt    |                                          |
-| 12 | Dark    |                                          |
-| 13 | Black   | Begins the day of the winter solstice.   |
-| 14 | Cold    | Waxing half moon on 8th night.           |
-| 15 | Long    |                                          |
-| 16 | Fated   |                                          |
+| ## | Name   | Notes                                  |
+|----|--------|----------------------------------------|
+| 01 | Birth  | Begins the day of the spring equinox.  |
+| 02 | Rain   | Full moon on 8th night.                |
+| 03 | Storm  |                                        |
+| 04 | Flood  | Waning half moon on 23rd night.        |
+| 05 | Growth |                                        |
+| 06 | Bloom  | Summer solstice on 8th day.            |
+| 07 | Fruit  |                                        |
+| 08 | Sweat  | New moon on 23rd night.                |
+| 09 | Bog    |                                        |
+| 10 | Swarm  | Autumn equinox on 8th day.             |
+| 11 | Hunt   |                                        |
+| 12 | Dark   |                                        |
+| 13 | Black  | Begins the day of the winter solstice. |
+| 14 | Cold   | Waxing half moon on 8th night.         |
+| 15 | Long   |                                        |
+| 16 | Fated  |                                        |
 
 GM's note: the Selva calendar was adapted from [Golarion's lunar
 calendar](https://pathfinderwiki.com/wiki/Moon_(Golarion)#Lunar_calendar).
@@ -254,22 +254,22 @@ The months are named according to infernal ideals, with each month having
 an associated Asmodeal lesson known as a *slogan*, which are taught to
 Trell children to foster self-improvement and success as they develop.
 
-| Month          | Days | Season                | Objective | Slogan                                                   | Connotations                                                               |
-|----------------|------|-----------------------|-----------|----------------------------------------------------------|----------------------------------------------------------------------------|
-| Ursa           |    1 | Eve of winter         |           |                                                          | market and seasonal contraction and scarcity                               |
-| Abadius        |   31 | Early winter          | Plan      | Bargain shrewdly with others toward common goals         | preparation, civilization, law, transaction, patience, neutrality          |
-| Calistril      |   29 | Mid winter            | Grasp     | Seize sudden opportunities at crucial moments            | desire, confidence, revenge, duplicity, emotion                            |
-| Pharast        |   31 | Late winter (gusty)   | Rely      | Build around the stable foundation of what is certain    | soul, birth, death, fate, prophecy, cycle                                  |
-| Gozran         |   30 | Early spring (storms) | Insure    | Manage areas of high risk during volatile periods        | wildness of nature, storm & sky, wave & surf, fury, wrath, fickleness      |
-| Desnus         |   31 | Late spring (mild)    | Explore   | Seek new resources exposed by changing circumstances     | heavens, dreams, luck, stars, travel, exploration                          |
-| Taurus         |    1 | Eve of summer         |           |                                                          | market and seasonal growth and abundance                                   |
-| Sarenith       |   30 | Early summer (warmer) | Assess    | Reevaluate assets and take pride in accomplishments      | sun, redemption, honesty, healing, temperance, patience, compassion, peace |
-| Erastus        |   31 | Mid summer            | Exploit   | Leverage areas of strength for maximum impact            | family, farming, hunting, trading, good deeds, growth                      |
-| Arodus         |   31 | Late summer           | Study     | Observe others and learn from their successes            | innovation, history, culture, destiny, glory                               |
-| Rova           |   30 | Early autumn          | Suffer    | Listen to and thrive on pain                             | imprisonment, wrath, disaster, destruction                                 |
-| Lamashan       |   31 | Early-mid autumn      | Fail      | Indulge in loss and contemplate worst-case scenarios     | madness, monsters, nightmares                                              |
-| Neth           |   30 | Mid-late autumn       | Subsume   | Incorporate fear and despair into holistic understanding | magic, duality, madness, creation & destruction, omniscience, surrender    |
-| Kuthona        |   31 | Late autumn           | Detach    | Make rational decisions by insulating from emotion       | darkness, envy, loss, pain, torture, murder                                |
+| Month     | Days | Season                | Objective | Slogan                                                   | Connotations                                                               |
+|-----------|-----:|-----------------------|-----------|----------------------------------------------------------|----------------------------------------------------------------------------|
+| Ursa      |    1 | Eve of winter         |           |                                                          | market and seasonal contraction and scarcity                               |
+| Abadius   |   31 | Early winter          | Plan      | Bargain shrewdly with others toward common goals         | preparation, civilization, law, transaction, patience, neutrality          |
+| Calistril |   29 | Mid winter            | Grasp     | Seize sudden opportunities at crucial moments            | desire, confidence, revenge, duplicity, emotion                            |
+| Pharast   |   31 | Late winter (gusty)   | Rely      | Build around the stable foundation of what is certain    | soul, birth, death, fate, prophecy, cycle                                  |
+| Gozran    |   30 | Early spring (storms) | Insure    | Manage areas of high risk during volatile periods        | wildness of nature, storm & sky, wave & surf, fury, wrath, fickleness      |
+| Desnus    |   31 | Late spring (mild)    | Explore   | Seek new resources exposed by changing circumstances     | heavens, dreams, luck, stars, travel, exploration                          |
+| Taurus    |    1 | Eve of summer         |           |                                                          | market and seasonal growth and abundance                                   |
+| Sarenith  |   30 | Early summer (warmer) | Assess    | Reevaluate assets and take pride in accomplishments      | sun, redemption, honesty, healing, temperance, patience, compassion, peace |
+| Erastus   |   31 | Mid summer            | Exploit   | Leverage areas of strength for maximum impact            | family, farming, hunting, trading, good deeds, growth                      |
+| Arodus    |   31 | Late summer           | Study     | Observe others and learn from their successes            | innovation, history, culture, destiny, glory                               |
+| Rova      |   30 | Early autumn          | Suffer    | Listen to and thrive on pain                             | imprisonment, wrath, disaster, destruction                                 |
+| Lamashan  |   31 | Early-mid autumn      | Fail      | Indulge in loss and contemplate worst-case scenarios     | madness, monsters, nightmares                                              |
+| Neth      |   30 | Mid-late autumn       | Subsume   | Incorporate fear and despair into holistic understanding | magic, duality, madness, creation & destruction, omniscience, surrender    |
+| Kuthona   |   31 | Late autumn           | Detach    | Make rational decisions by insulating from emotion       | darkness, envy, loss, pain, torture, murder                                |
 
 The seven days of the week are Moonday, Toilday, Wealday, Oathday,
 Fireday, Starday, and Sunday. But which week days fall on which
