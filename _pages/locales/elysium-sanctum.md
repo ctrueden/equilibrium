@@ -4,7 +4,7 @@ image: https://i.pinimg.com/736x/de/41/13/de41138d6526dcb337ec735d8575fd2f.jpg
 image-source: https://www.pinterest.com/pin/817403401100502888/
 ---
 
-A ruined church at the center of the [Soulbound Rest](soulbound-rest) in [Sepulchralis](sepulchralis).
+A ruined church at the center of the Soulbound Rest cemetary in [Sepulchralis](sepulchralis).
 
 Agents of [the SPI](../orgs/spi) encountered this place ...
 

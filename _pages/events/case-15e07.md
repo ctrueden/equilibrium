@@ -115,7 +115,7 @@ Left alone with the Brucolac, Cal says, "What now, uncle?"
 The Brucolac tells him that Xaryu is what prevents the [vampires](../creatures/vampires) from wiping out the [halflings](../creatures/halflings) entirely, so is the situation really so simple? Cal responds that nothing is ever simple. "Truer words were never spoken," says the Brucolac, and... lets Cal go??
 
 Lingering questions:
- - Two vampires connected to [Goratrix](../dossiers/goratrix-ceorys) seem to be involved in this...assassination attempt...so why did Goratrix lead us right here?
+ - Two vampires connected to [Goratrix](../dossiers/goratrix-ceoris) seem to be involved in this...assassination attempt...so why did Goratrix lead us right here?
  - If vampires aren't allowed to set foot here, as Goratrix said, then what was the Brucolac doing here?
  - Was [Meerlinda](../dossiers/meerlinda-descant)'s dream power involved in creating the Death Tyrant in the first place? Seems like her wheelhouse.
  - But in my vision, someone was directing the ghosts to feed the Death Tyrant, so maybe Janus Ilaris? Cal thinks so.

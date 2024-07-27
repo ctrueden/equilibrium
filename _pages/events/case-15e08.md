@@ -21,7 +21,7 @@ Suddenly, Cal finds himself looking at the teleport circle and knowing for certa
 
 Meanwhile, in our minds, we all see the Brucolac bite Cal and get frosted and be unable to let go. He lets out a primal scream (the Brucolac, not Cal). Cal stabs him and he pushes Cal away from the sword, trying to disarm him...from the sword that is still lodged in the Brucolac's body.
 
-So we're pretty sure Cal is in big trouble. We ask [Sophie](../dossiers/sophie) if there's any way back there, and she says it would be suicide to go. She gives [Oz](../dossiers/oz) the ol' doe eyes, but he's undeterred. We all pile onto the carpet. It's rescue time! But suddenly, Oz looks torn. [Bec](../dossiers/bec) frowns. It looks like he's been enchanted, that vixen!
+So we're pretty sure Cal is in big trouble. We ask [Sophie](../dossiers/sophie-steelboots) if there's any way back there, and she says it would be suicide to go. She gives [Oz](../dossiers/oz) the ol' doe eyes, but he's undeterred. We all pile onto the carpet. It's rescue time! But suddenly, Oz looks torn. [Bec](../dossiers/bec) frowns. It looks like he's been enchanted, that vixen!
 
 Cal rages and stabs the Brucolac, who growls, "Dirty tricks!" and tries to throw Cal. Sir, no one tosses a [halfling](../creatures/halflings). Besides, we're the ones who were betrayed by our erstwhile ally, so settle down. Cal uses his whip to get the sword back. Annoyed, the Brucolac says "That weak earth magic won't help you!"
 
@@ -57,7 +57,7 @@ The Brucolac orders Enoch to guard the door. Then he says to Cal, "Did you feel 
 
 The telekinesis drops, but Cal is still pincered between Enoch and the Brucolac.
 
-We're approaching [the chapel](../locales/elysium-sanctum). All the ghosts are surrounding the chapel like some kind of freaky unbiodome. Three [vampires](../creatures/vampires) guard the door: [Goratrix](../dossiers/goratrix-ceorys), [Meerlinda](../dossiers/meerlinda-descant), and [Etria](../dossiers/etria-leduc). They're watching the door for some reason, and the ghosts are giving them a wide berth.
+We're approaching [the chapel](../locales/elysium-sanctum). All the ghosts are surrounding the chapel like some kind of freaky unbiodome. Three [vampires](../creatures/vampires) guard the door: [Goratrix](../dossiers/goratrix-ceoris), [Meerlinda](../dossiers/meerlinda-descant), and [Etria](../dossiers/etria-leduc). They're watching the door for some reason, and the ghosts are giving them a wide berth.
 
 Oz uses Panache on Etria to try to convince us that [her clan](../orgs/clan-toreador) is the best, and they should work together to get rid of these [Crispic](../orgs/clan-crispic) losers. He shouts "2READOR 4LYFE!" or something like that. It might have been more like "Let's take out these two assholes," but is that all that different when you come down to it?
 
@@ -97,7 +97,7 @@ Vondal's fur bursts into flame. He can't control it anymore, but maybe he can ch
 
 A rain of fire falls from the ceiling, centered on Vondal. At the same time, Vondal is radioactive. I take 7 damage from the fire raining from the ceiling.
 
-I have a vision of myself at HQ setting up a shrine to my [dual goddesses](../rules/cleric-of-the-dual-goddess). It's not one hundo p my style, but it's good. I feel connected to the shrine. I'm sure of exactly two things: I didn't do that, but that it still happened. That's one of those mysteries that scholars will ponder for the next few centuries, assuming of course that I live long enough to tell anybody about it.
+I have a vision of myself at HQ setting up a shrine to my [dual goddesses](../rules/dual-goddess). It's not one hundo p my style, but it's good. I feel connected to the shrine. I'm sure of exactly two things: I didn't do that, but that it still happened. That's one of those mysteries that scholars will ponder for the next few centuries, assuming of course that I live long enough to tell anybody about it.
 
 Freki grapples Enoch. Meanwhile, the Brucolac is locked in a mental battle with Vondal and completely distracted. At a certain point, we others can tell that neither of them is paying attention to the here and now.
 
