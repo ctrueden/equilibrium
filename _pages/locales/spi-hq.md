@@ -1,5 +1,5 @@
 ---
-nav-title: SQI HQ
+nav-title: SPI HQ
 title: SPI Headquarters
 ---
 
