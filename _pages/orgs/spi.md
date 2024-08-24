@@ -86,6 +86,14 @@ their just desserts... so far. Most recently, those include:
 | [12](../events/case-12)                           | [Peregrine Shackleton](../dossiers/peregrine-shackleton)       |
 | [12](../events/case-12)                           | [Eixam](../dossiers/eixam)                                     |
 | [12](../events/case-12)                           | [Zuggtmoy](../dossiers/zuggtmoy)                               |
+| [13](../events/case-13)                           | The [Malosi](../orgs/malosi): [Talos](../dossiers/talos) and [Andalla](../dossiers/andalla) |
+| [14](../events/case-14)                           | [Malachai Hawthorne](../dossiers/malachai-hawthorne)           |
+| [14](../events/case-14)                           | [Ilyana Nightshade](../dossiers/ilyana-nightshade)             |
+| [14](../events/case-14), [15](../events/case-15)  | [Malak the Mad](../dossiers/malak-the-mad)                     |
+| [15](../events/case-15)                           | [Goratrix Ceoris](../dossiers/goratrix-ceoris)                 |
+| [15](../events/case-15)                           | [Enoch the Wise](../dossiers/enoch-the-wise)                   |
+| [15](../events/case-15)                           | [Xaryu the Liberator](../dossiers/xaryu-undead)                |
+| [15](../events/case-15)                           | [Cronus the Brucolac](../dossiers/cronus)                      |
 
 ## Evidence locker
 
