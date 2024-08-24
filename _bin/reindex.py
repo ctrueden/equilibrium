@@ -36,4 +36,4 @@ def encode(o):
 
 print("Writing docs.json file...")
 with open(basedir.parent / "assets" / "docs.json", "w") as f:
-    json.dump(index, f, default=encode)
+    json.dump(index, f, default=encode, indent=2, sort_keys=True)
