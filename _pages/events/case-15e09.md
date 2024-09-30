@@ -5,7 +5,7 @@ description: >-
 datestamp: 50-06-04/09
 when: AC50 Vis 04
 session-number: 77
-session-date: 2024-07-27
+session-date: 2024-08-24
 session-event: https://www.facebook.com/events/1709075936587850/
 ---
 
