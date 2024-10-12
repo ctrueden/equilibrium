@@ -38,6 +38,19 @@ For each property, you make a caster level check (1d20 + caster level) against D
 
 *Source: Spell Compendium p. 10*
 
+## Anchor to Life
+
+*3rd level abjuration/necromancy*
+
+**Casting Time:** 1 action  
+**Range:** Touch  
+**Components:** V, S, M (a small silver anchor)  
+**Duration:** 8 hours
+
+This spell tethers the target's life force to the mortal realm. While under its effect, the target has advantage on saving throws against effects that would instantly kill them or draw their soul into another plane of existence. Additionally, if the target dies while under this spell's effect, their soul remains tethered to their body for 1 minute, during which time they can be revived by any healing magic without the need for higher-level resurrection spells.
+
+*Source: Letharil Galere's Necronomicon research*
+
 ## Copy (Age of Zas)
 
 *1st level evocation*
@@ -202,6 +215,20 @@ You duplicate the effect of any one spell or spell-like ability you have seen wi
 A duplicated spell or spell-like ability functions as if you had the appropriate spell prepared and were casting it yourself. If the spell or ability has an XP cost, you must pay that XP cost. If the spell has a costly material component, you must provide that component or pay an additional XP cost equal to the gold piece value of that component divided by 5.
 
 *Source: Spell Compendium p. 173*
+
+## Spiritsense
+
+*3rd level necromancy*
+
+**School:** necromancy  
+**Casting Time:** 1 action  
+**Range:** Self  
+**Components:** V, S, M (a small mirror backed with silver)  
+**Duration:** Concentration, up to 10 minutes
+
+You notice, locate, and can distinguish between living and undead creatures within 60 feet, even if they concealed from notice. Within that range, you pinpoint the precise location of anything that isn't behind [Total Cover](https://5e.tools/variantrules.html#cover_xphb), even if you have the [Blinded](https://5e.tools/conditionsdiseases.html#blinded_xphb) condition or are in [Darkness](https://5e.tools/variantrules.html#darkness_xphb). Moreover, in that range, you can see something that has the Invisible condition.
+
+*Source: Letharil Galere's Necronomicon research*
 
 ## Suggestion (Age of Freedom)
 
