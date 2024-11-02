@@ -1,7 +1,7 @@
 ---
 title: "[13e01] Flimflam in the Forest"
 description: >-
-  TODO
+  While camping during their pursuit of doppel-Sima, the agents struggle to remember how and why they are here.
 datestamp: 50-05-30/01
 when: AC50 Auran Apex
 session-number: 58

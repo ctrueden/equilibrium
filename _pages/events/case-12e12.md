@@ -1,7 +1,7 @@
 ---
 title: "[12e12] Confrontation with the Queen"
 description: >-
-  TODO
+  Exorcised Zuggtmoy from the Fey Queen; agents clashed over whether to destroy the cursed book.
 datestamp: 50-05-25/12
 when: AC50 Rixa 25
 session-number: 57
