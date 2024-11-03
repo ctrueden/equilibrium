@@ -450,7 +450,7 @@ def main():
         name = "Vondal",
         max_hp = 50,
         armor_class = 13,
-        # attack_cha = 5 + 4 + 2 # +2 from wand of wonder
+        # attack_cha = 5 + 4 + 2 # +2 from wand of wonder; and +2 damage from pipe
         initiative = 0,
         # NB: +1 to ability checks and saves from Luckstone
         str_save = -1 + 1, # ERROR: sheet says -1
