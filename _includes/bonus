@@ -1,0 +1,10 @@
+{%- comment -%}
+Formats a number as a bonus (with leading plus if non-negative).
+{%- endcomment -%}
+
+{%- assign value = include.value -%}
+{%- if value > 0 -%}+{%- endif -%}{{- value -}}
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}
