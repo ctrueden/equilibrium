@@ -6,7 +6,7 @@ statbox:
   gender: female
   class: wizard (necromancer)
   age: 186
-  case: "03"
+  case: ["03", "16"]
 image-source: https://www.pinterest.com/pin/705517097865806552/
 image: https://i.pinimg.com/736x/0f/d7/d4/0fd7d4378d7f8adbb7d410b994c12dcc.jpg
 ---

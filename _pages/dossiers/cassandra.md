@@ -8,6 +8,7 @@ statbox:
   race: human
   gender: female
   profession: SPI admin
+  case: ["16"]
 ---
 
 Mallory's administrative assistant with a dry sense of humor. Seems to be a divine caster of some sort, as well as a crafter of magical items. Helpful, but a little long-suffering.
