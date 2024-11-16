@@ -1,7 +1,7 @@
 ---
-title: "[16e02] TBD"
+title: "[16e02] The Final Price"
 description: >-
-  TODO
+  The agents face off against Audreth and restore him to his senses.
 datestamp: 50-06-06/02
 when: AC50 Vis 06
 session-number: 79

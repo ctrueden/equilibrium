@@ -1,7 +1,7 @@
 ---
-title: "[16e03] TBD"
+title: "[16e03] The Raven Queen's Tower"
 description: >-
-  TODO
+  Lorelei awaits at the bottom of the antitower...
 datestamp: 50-06-06/03
 when: AC50 Vis 06
 session-number: 80
