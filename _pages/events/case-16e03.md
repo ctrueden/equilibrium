@@ -1,7 +1,7 @@
 ---
-title: "[16e03] The Raven Queen's Tower"
+title: "[16e03] Oh No Monkey!"
 description: >-
-  Lorelei awaits at the bottom of the antitower...
+  The two remaining Furies corrupt Oz's winged monkey and try to abduct Cassandra!
 datestamp: 50-06-06/03
 when: AC50 Vis 06
 session-number: 80
