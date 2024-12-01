@@ -60,7 +60,7 @@ A curious and impulsive halfling rogue.
 
 ### Tapestry of Fate
 
-None‽
+***Critical moment (Karma).*** A moment in time hangs before you, and you fold reality around it to set things right.
 
 ### Class Archetype
 
