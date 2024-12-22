@@ -115,6 +115,8 @@ The Raven Queen says, "If you do not believe in this place, then begone."
 
 Audreth is like, "Whatevs, I'm gonna talk to the giant eyeball." Pushing through the feeling that this is something that shouldn't happen, he invites his patron. The eye zooms in close and overshadows everything.
 
+[![](https://i.pinimg.com/originals/d9/7d/33/d97d334546eaf0603f1917710d8b76dd.jpg){:style="width:100%"}](https://www.pinterest.com/pin/531706299734437785/)
+
 "No matter what happens, this is less fucked up than it was a minute ago," says Audreth.
 
 Audreth wakes up and sees everyone else around him on the floor, apparently having seizures. Flux tentacles are connected to everyone, including ¿Vondal?. ¿Vondal? is like, "Oh, hey." Then he smirks, says "thanks" and disappears. Audreth casts off the tentacles from his own body first, smart. [Pelor](../dossiers/pelor) empowers him with extra strength so he can heal me. Despite all this, I think we can safely say his prophecy from two minutes ago was accurate.
