@@ -1,7 +1,7 @@
 ---
 title: "[15e02] Ball Bluffing Bilbo"
 description: >-
-  TODO
+  The agents attend the vampire ball, meet various important-looking vampires, and gather intel from them.
 datestamp: 50-06-04/02
 when: AC50 Vis 04
 session-number: 70

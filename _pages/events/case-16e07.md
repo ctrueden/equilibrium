@@ -1,7 +1,7 @@
 ---
 title: "[16e07] The Sacred Timeline"
 description: >-
-  TODO
+  The agents struggle to avoid pitfalls into catalysmic possible realities.
 datestamp: 50-06-06/07
 when: AC50 Vis 06
 session-number: 84

@@ -1,7 +1,7 @@
 ---
 title: "[14e01] The Hills Have Malachais"
 description: >-
-  TODO
+  The agents join Lawrence Feathersworth's mission to investigate Evershroud Manner on behalf of Lestache de Lyarcourt and Malachai Hawthorne.
 datestamp: 50-06-03/01
 when: AC50 Vis 03
 session-number: 63

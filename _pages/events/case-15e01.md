@@ -1,7 +1,7 @@
 ---
 title: "[15e01] Betraying Bilbo"
 description: >-
-  TODO
+  While sheltering at Bilbo's house, the agents subdue their host and prepare for the vampire ball, with a disguised Oz taking Bilbo's place.
 datestamp: 50-06-04/01
 when: AC50 Vis 04
 session-number: 69

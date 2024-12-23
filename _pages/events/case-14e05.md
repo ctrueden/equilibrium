@@ -1,7 +1,7 @@
 ---
 title: "[14e05] An Embarrassment of Ghouls"
 description: >-
-  TODO
+  After escaping Invictus's manor, the party faces off against Malak and their vampire spawn in a chaotic battle that culminates in Freki transforming into a wolf.
 datestamp: 50-06-03/05
 when: AC50 Vis 03
 session-number: 67

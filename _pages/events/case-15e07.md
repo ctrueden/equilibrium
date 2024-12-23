@@ -1,7 +1,7 @@
 ---
 title: "[15e07] Interview with the Vampire"
 description: >-
-  TODO
+  The agents defeat the Xaryu the Death Tyrant and have a tense conversation with the Brucolac.
 datestamp: 50-06-04/07
 when: AC50 Vis 04
 session-number: 75

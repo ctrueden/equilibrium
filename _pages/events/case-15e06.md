@@ -1,7 +1,7 @@
 ---
 title: "[15e06] The Tyranny of Dreams"
 description: >-
-  TODO
+  The agents sneak past ghosts in the Soulbound Rest, then face off against Xaryu the Death Tyrant at its central ruined chapel.
 datestamp: 50-06-04/06
 when: AC50 Vis 04
 session-number: 74

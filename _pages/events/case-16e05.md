@@ -1,7 +1,7 @@
 ---
-title: "[16e05] The Tyranny of Shadows"
+title: "[16e05] CopyCal"
 description: >-
-  TODO
+  Vondal splinters reality to save his friends from the worst of their eldrich madness, and the agents are attacked by shadow demons as they proceed toward the heart of the Flux tunnels.
 datestamp: 50-06-06/05
 when: AC50 Vis 06
 session-number: 82

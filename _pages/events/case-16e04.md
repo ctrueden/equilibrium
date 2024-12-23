@@ -1,7 +1,7 @@
 ---
 title: "[16e04] Evil Never Sleeps"
 description: >-
-  TODO
+  The agents experience surreal dreams and nightmares while resting in a dark mirror of the SPI HQ, then gaze directly into the eldritch Eye of the Great Old One.
 datestamp: 50-06-06/04
 when: AC50 Vis 06
 session-number: 81

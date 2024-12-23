@@ -1,7 +1,7 @@
 ---
 title: "[16e06] Swimming Upstream"
 description: >-
-  TODO
+  The agents experience disorienting contradictions in their recollection of their mission into the Flux tunnnels.
 datestamp: 50-06-06/06
 when: AC50 Vis 06
 session-number: 83

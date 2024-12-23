@@ -1,7 +1,7 @@
 ---
 title: "[15e04] Turnabout Combat"
 description: >-
-  TODO
+  The agents and vampires clash over Sophie Steelboots during the Hunt, with Freki & co. emerging victorious after drawing first blood.
 datestamp: 50-06-04/04
 when: AC50 Vis 04
 session-number: 72

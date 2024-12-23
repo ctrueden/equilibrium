@@ -1,7 +1,7 @@
 ---
 title: "[15e03] The Hunt"
 description: >-
-  TODO
+  The SPI plunges into the vampire-controlled territory of a dangerous Hunt, one of the vampires' grotesque entertainments, in an effort to rescue its current quarry Sophie Steelboots.
 datestamp: 50-06-04/03
 when: AC50 Vis 04
 session-number: 71

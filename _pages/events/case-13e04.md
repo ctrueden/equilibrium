@@ -1,7 +1,7 @@
 ---
 title: "[13e04] The Malosi Strike Back"
 description: >-
-  TODO
+  The agents engage in a fierce battle with Talos at Alye'adu, during which Talos, transformed into a were-tiger-centaur, steals god-essence from Bec and Cal.
 datestamp: 50-05-30/04
 when: AC50 Auran Apex
 session-number: 61

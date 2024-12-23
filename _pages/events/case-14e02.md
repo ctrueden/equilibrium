@@ -1,7 +1,7 @@
 ---
 title: "[14e02] Never Bring a Potion to an Arrow Fight"
 description: >-
-  TODO
+  Lady Ilyana Nightshade, transformed into a dark angel, confronts the agents in Evershroud Manor and attempts to turn them into her servants.
 datestamp: 50-06-03/02
 when: AC50 Vis 03
 session-number: 64

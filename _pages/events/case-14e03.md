@@ -1,7 +1,7 @@
 ---
 title: "[14e03] Go Flux Yourself"
 description: >-
-  TODO
+  The agents face a turnabout combat with Lady Nightshade as she transforms into a creature of mouths and chaos.
 datestamp: 50-06-03/03
 when: AC50 Vis 03
 session-number: 65

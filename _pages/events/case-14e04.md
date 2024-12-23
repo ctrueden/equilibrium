@@ -1,7 +1,7 @@
 ---
 title: "[14e04] Talk to the Hand"
 description: >-
-  TODO
+  The party is tempted by Vecna's whispered promises of secrets, Bec acquires a Celestial Hand from a mystical chamber beneath Invictus's manor, and they learn crucial information from Invictus about the Brucolac's origins, the nature of the Flux, and a possible way to end Invictus's suffering.
 datestamp: 50-06-03/04
 when: AC50 Vis 03
 session-number: 66

@@ -1,7 +1,7 @@
 ---
 title: "[15e08] Critical Moments"
 description: >-
-  TODO
+  The agents return to Elysium Sanctum to save Cal by reengaging with the Brucolac and stealing some of his power, while the Flux encroaches and a mass of ghosts is tenuously held at bay.
 datestamp: 50-06-04/08
 when: AC50 Vis 04
 session-number: 76
