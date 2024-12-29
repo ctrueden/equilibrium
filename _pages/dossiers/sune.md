@@ -36,8 +36,8 @@ links:
 - FRC|https://frc.fandom.com/wiki/Sune
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=103
 - Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=25
-- 5E Faerun|https://5e.tools/deities.html#sune_faer%c3%bbnian_scag
-- 5e Greek|https://5e.tools/deities.html#aphrodite_greek_phb
+- 5E Faerun|https://2014.5e.tools/deities.html#sune_faer%c3%bbnian_scag
+- 5e Greek|https://2014.5e.tools/deities.html#aphrodite_greek_phb
 ---
 
 ## Precepts

@@ -14,7 +14,7 @@ statbox:
   - Law and order
 links:
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=24
-- 5E Greek|https://5e.tools/deities.html#zeus_greek_phb
+- 5E Greek|https://2014.5e.tools/deities.html#zeus_greek_phb
 - Wikipedia|https://en.wikipedia.org/wiki/Zeus
 ---
 

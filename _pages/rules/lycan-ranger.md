@@ -60,7 +60,7 @@ While in these alternate forms, you gain the following natural weapon attack opt
 * **Claw.** 2d4 + Str slashing damage.
 
 * **Bite.** 1d8 + Str piercing damage.
-  * If you successfully hit a target one size larger than you or smaller, you can use a bonus action to attempt to grapple. Make an opposed Strength (athletics) check. If successful, the creature is [grappled](https://5e.tools/conditionsdiseases.html#grappled_phb) by you.
+  * If you successfully hit a target one size larger than you or smaller, you can use a bonus action to attempt to grapple. Make an opposed Strength (athletics) check. If successful, the creature is [grappled](https://2014.5e.tools/conditionsdiseases.html#grappled_phb) by you.
   * If the target is a [bipedal](../glossary#bipedal) creature, it must succeed on a Constitution saving throw (DC 8 + proficiency bonus + Con modifier) or be cursed with lycanthropy.
 
 * **Multiattack.** When you take the Attack action you can attack multiple times: once with a claw, and once with a bite.
@@ -113,12 +113,12 @@ Alternately, you may choose two additional abilities from the 6th level [Improve
 
 | Min. level | Arrow Type |
 |:----------:|:-----------|
-|      2     | [Ensnaring Strike](https://5e.tools/spells.html#ensnaring%20strike_phb) |
-|      2     | [Hail of Thorns](https://5e.tools/spells.html#hail%20of%20thorns_phb) |
-|      3     | [Acid Arrow](https://5e.tools/spells.html#melf%27s%20acid%20arrow_phb) |
-|      3     | [Spike Growth](https://5e.tools/spells.html#spike%20growth_phb) |
-|      5     | [Lightning Arrow](https://5e.tools/spells.html#lightning%20arrow_phb) |
-|      9     | [Arrow of Slaying](https://5e.tools/items.html#arrow%20of%20slaying%20%28*%29_dmg) |
+|      2     | [Ensnaring Strike](https://2014.5e.tools/spells.html#ensnaring%20strike_phb) |
+|      2     | [Hail of Thorns](https://2014.5e.tools/spells.html#hail%20of%20thorns_phb) |
+|      3     | [Acid Arrow](https://2014.5e.tools/spells.html#melf%27s%20acid%20arrow_phb) |
+|      3     | [Spike Growth](https://2014.5e.tools/spells.html#spike%20growth_phb) |
+|      5     | [Lightning Arrow](https://2014.5e.tools/spells.html#lightning%20arrow_phb) |
+|      9     | [Arrow of Slaying](https://2014.5e.tools/items.html#arrow%20of%20slaying%20%28*%29_dmg) |
 
 ## Innate Natural Abilities
 
@@ -131,15 +131,15 @@ Alternately, you may choose two additional abilities from the 6th level [Improve
 
 | Min. level | Ability | Description/Notes |
 |:----------:|:--------|:------------------|
-|      2     | [Hunter's mark](https://5e.tools/spells.html#hunter%27s%20mark_phb) | Once per short rest – but the ability is regained immediately if current target dies. |
-|      2     | [Animal friendship](https://5e.tools/spells.html#animal%20friendship_phb) | Cast as a ritual &ndash; takes 5 minutes to bond with an animal. Animal must be neutral or friendly to initiate. |
-|      2     | [Speak with animals](https://5e.tools/spells.html#speak%20with%20animals_phb) | Requires concentration &ndash; uses an action each round of use. |
+|      2     | [Hunter's mark](https://2014.5e.tools/spells.html#hunter%27s%20mark_phb) | Once per short rest – but the ability is regained immediately if current target dies. |
+|      2     | [Animal friendship](https://2014.5e.tools/spells.html#animal%20friendship_phb) | Cast as a ritual &ndash; takes 5 minutes to bond with an animal. Animal must be neutral or friendly to initiate. |
+|      2     | [Speak with animals](https://2014.5e.tools/spells.html#speak%20with%20animals_phb) | Requires concentration &ndash; uses an action each round of use. |
 |      3     | Swift shot | As a bonus action, draw and fire an arrow at -4 penalty. |
 |      3     | Beast sense | You use your action to transfer your consciousness to your beast companion. You see through its eyes, and hear what it hears for up to 1 hour, while becoming oblivious to your own usual sight and hearing. Another action returns you to your own body. |
 |      5     | Focused shot | You can focus your concentration when attacking at range. As an action while no enemy threatens you in melee, you make one ranged attack with advantage, and add your Wisdom modifier to the attack roll. |
-|      5     | [Water breathing](https://5e.tools/spells.html#water%20breathing_phb) | You have gills or some other means to breathe underwater. |
-|      5     | [Speak with plants](https://5e.tools/spells.html#speak%20with%20plants_phb) | Requires concentration – uses an action each round of use. |
-|     13     | [Regeneration](https://5e.tools/spells.html#regenerate_phb) | You regain 1 hit point at the start of each of your turns (10 hit points each minute). Severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the limb knits to the stump instantaneously. |
+|      5     | [Water breathing](https://2014.5e.tools/spells.html#water%20breathing_phb) | You have gills or some other means to breathe underwater. |
+|      5     | [Speak with plants](https://2014.5e.tools/spells.html#speak%20with%20plants_phb) | Requires concentration – uses an action each round of use. |
+|     13     | [Regeneration](https://2014.5e.tools/spells.html#regenerate_phb) | You regain 1 hit point at the start of each of your turns (10 hit points each minute). Severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the limb knits to the stump instantaneously. |
 
 ## Beast Companion
 

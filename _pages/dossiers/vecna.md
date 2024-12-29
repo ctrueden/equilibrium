@@ -37,9 +37,9 @@ links:
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=21
 - Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=33
 - Wikipedia|https://en.wikipedia.org/wiki/Vecna
-- 5E Dawn War|https://5e.tools/deities.html#vecna_dawn%20war_dmg
-- 5E Exandria|https://5e.tools/deities.html#vecna_exandria_egw
-- 5E Greek|https://5e.tools/deities.html#hecate_greek_phb
+- 5E Dawn War|https://2014.5e.tools/deities.html#vecna_dawn%20war_dmg
+- 5E Exandria|https://2014.5e.tools/deities.html#vecna_exandria_egw
+- 5E Greek|https://2014.5e.tools/deities.html#hecate_greek_phb
 - Wolfpack Legends|https://wolfpack-legends-dd.fandom.com/wiki/Vecna
 ---
 

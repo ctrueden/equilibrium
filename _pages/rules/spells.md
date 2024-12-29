@@ -226,7 +226,7 @@ A duplicated spell or spell-like ability functions as if you had the appropriate
 **Components:** V, S, M (a small mirror backed with silver)  
 **Duration:** Concentration, up to 10 minutes
 
-You notice, locate, and can distinguish between living and undead creatures within 60 feet, even if they concealed from notice. Within that range, you pinpoint the precise location of anything that isn't behind [Total Cover](https://5e.tools/variantrules.html#cover_xphb), even if you have the [Blinded](https://5e.tools/conditionsdiseases.html#blinded_xphb) condition or are in [Darkness](https://5e.tools/variantrules.html#darkness_xphb). Moreover, in that range, you can see something that has the Invisible condition.
+You notice, locate, and can distinguish between living and undead creatures within 60 feet, even if they concealed from notice. Within that range, you pinpoint the precise location of anything that isn't behind [Total Cover](https://2014.5e.tools/variantrules.html#cover_xphb), even if you have the [Blinded](https://2014.5e.tools/conditionsdiseases.html#blinded_xphb) condition or are in [Darkness](https://2014.5e.tools/variantrules.html#darkness_xphb). Moreover, in that range, you can see something that has the Invisible condition.
 
 *Source: Letharil Galere's Necronomicon research*
 

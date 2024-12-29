@@ -37,9 +37,9 @@ links:
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Amaunator
 - Evenfall|https://evenfall.fandom.com/wiki/Pelor
 - Critical Role|https://criticalrole.fandom.com/wiki/Pelor
-- 5E Dawn War|https://5e.tools/deities.html#pelor_dawn%20war_dmg
-- 5E Exandria|https://5e.tools/deities.html#pelor_exandria_egw
-- 5E Faerun|https://5e.tools/deities.html#amaunator_faer%c3%bbnian_scag
+- 5E Dawn War|https://2014.5e.tools/deities.html#pelor_dawn%20war_dmg
+- 5E Exandria|https://2014.5e.tools/deities.html#pelor_exandria_egw
+- 5E Faerun|https://2014.5e.tools/deities.html#amaunator_faer%c3%bbnian_scag
 - Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Pelor
 ---
 

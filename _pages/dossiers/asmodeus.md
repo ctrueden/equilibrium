@@ -33,9 +33,9 @@ links:
   - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=208
   - Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=24
   - Wikipedia|https://en.wikipedia.org/wiki/Devil_%28Dungeons_%26_Dragons%29#Asmodeus
-  - 5E Exandria|https://5e.tools/deities.html#asmodeus_exandria_egw
-  - 5E Faerun|https://5e.tools/deities.html#asmodeus_faer%c3%bbnian_scag
-  - 5E Greek|https://5e.tools/deities.html#zeus_greek_phb
+  - 5E Exandria|https://2014.5e.tools/deities.html#asmodeus_exandria_egw
+  - 5E Faerun|https://2014.5e.tools/deities.html#asmodeus_faer%c3%bbnian_scag
+  - 5E Greek|https://2014.5e.tools/deities.html#zeus_greek_phb
 ---
 
 Wannabe deity.

@@ -33,8 +33,8 @@ links:
 - Critical Role|https://criticalrole.fandom.com/wiki/Bahaamut
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=1
 - Wikipedia|https://en.wikipedia.org/wiki/Bahamut_%28Dungeons_%26_Dragons%29
-- 5E Dawn War|https://5e.tools/deities.html#bahamut_dawn%20war_dmg
-- 5E Exandria|https://5e.tools/deities.html#bahamut_exandria_egw
+- 5E Dawn War|https://2014.5e.tools/deities.html#bahamut_dawn%20war_dmg
+- 5E Exandria|https://2014.5e.tools/deities.html#bahamut_exandria_egw
 - Wolfpack Legends|https://wolfpack-legends-dd.fandom.com/wiki/Bahamut
 ---
 

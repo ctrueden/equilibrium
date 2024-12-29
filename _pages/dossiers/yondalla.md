@@ -24,10 +24,10 @@ links:
 - Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=38
 - Thieves Guild 3|https://www.thievesguild.cc/gods/god?godid=30
 - Thieves Guild 4|https://www.thievesguild.cc/gods/god?godid=35
-- 5E Racial|https://5e.tools/deities.html#yondalla_halfling_mtf
-- 5E Greek|https://5e.tools/deities.html#hestia_greek_phb
-- 5E Greek 2|https://5e.tools/deities.html#demeter_greek_phb
-- 5E Greek 3|https://5e.tools/deities.html#hera_greek_phb
+- 5E Racial|https://2014.5e.tools/deities.html#yondalla_halfling_mtf
+- 5E Greek|https://2014.5e.tools/deities.html#hestia_greek_phb
+- 5E Greek 2|https://2014.5e.tools/deities.html#demeter_greek_phb
+- 5E Greek 3|https://2014.5e.tools/deities.html#hera_greek_phb
 ---
 
 ...

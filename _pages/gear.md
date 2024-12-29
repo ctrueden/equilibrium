@@ -118,7 +118,7 @@ TODO
 
 TODO
 
-*See also [Wand of Wonder](https://5e.tools/items.html#wand%20of%20wonder_dmg)*
+*See also [Wand of Wonder](https://2014.5e.tools/items.html#wand%20of%20wonder_dmg)*
 
 ### Whip of Rescue
 

@@ -15,43 +15,43 @@ statbox:
 magic-items:
   - name: Crystal Ball of Scrying
     source: "Invictus's Study, Evershroud Manor"
-    link: https://5e.tools/items.html#crystal%20ball_dmg
+    link: https://2014.5e.tools/items.html#crystal%20ball_dmg
     rarity: very rare
     value: 50000
   - name: Hornblade (+3 Wounding, Sharpness)
     source: Cornucopia + crazy ghost lady
-    link: https://5e.tools/items.html#sword%20of%20sharpness_dmg
-    link2: https://5e.tools/items.html#sword%20of%20wounding_dmg
+    link: https://2014.5e.tools/items.html#sword%20of%20sharpness_dmg
+    link2: https://2014.5e.tools/items.html#sword%20of%20wounding_dmg
     rarity: artifact (unique)
     value: 20000 (16000 for +3, 2000 for wounding, 1700 for sharpness)
   - name: Cloak of Elvenkind
     source: "Zanqaa the Devoted - Boon of Aegis: Stealth"
-    link: https://5e.tools/items.html#cloak%20of%20elvenkind_dmg
+    link: https://2014.5e.tools/items.html#cloak%20of%20elvenkind_dmg
     rarity: uncommon (major)
     value: 5000
   - name: Ring of Jumping
     source: "Zanqaa the Devoted - Boon of Prowess: Agility"
-    link: https://5e.tools/items.html#ring%20of%20jumping_dmg
+    link: https://2014.5e.tools/items.html#ring%20of%20jumping_dmg
     rarity: uncommon (major)
     value: 2500
   - name: Dagger of Venom
     source: "Zanqaa the Devoted - Boon of Arms: Venom"
-    link: https://5e.tools/items.html#dagger%20of%20venom_dmg
+    link: https://2014.5e.tools/items.html#dagger%20of%20venom_dmg
     rarity: rare (major)
     value: 2500
   - name: Amulet of Health
     source: Estanesse palace treasury
-    link: https://5e.tools/items.html#amulet%20of%20health_dmg
+    link: https://2014.5e.tools/items.html#amulet%20of%20health_dmg
     rarity: rare (major)
     value: 8000
   - name: Glamoured Studded Leather
     source: Estanesse palace treasury
-    link: https://5e.tools/items.html#glamoured%20studded%20leather_dmg
+    link: https://2014.5e.tools/items.html#glamoured%20studded%20leather_dmg
     rarity: rare (major)
     value: 2000
   - name: Ioun Stone of Mastery (cracked)
     source: Estanesse palace treasury (stolen)
-    link: https://5e.tools/items.html#ioun%20stone%2c%20mastery_dmg
+    link: https://2014.5e.tools/items.html#ioun%20stone%2c%20mastery_dmg
     rarity: legendary
     value: 12000 (15000, -3000 for damage)
 ---

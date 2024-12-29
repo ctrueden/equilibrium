@@ -32,8 +32,8 @@ links:
 - Critical Role|https://criticalrole.fandom.com/wiki/Lolth
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=13
 - Wikipedia|https://en.wikipedia.org/wiki/Drow#Lolth
-- 5E Exandria|https://5e.tools/deities.html#lolth_exandria_egw
-- 5E Racial|https://5e.tools/deities.html#lolth_drow_mtf
+- 5E Exandria|https://2014.5e.tools/deities.html#lolth_exandria_egw
+- 5E Racial|https://2014.5e.tools/deities.html#lolth_drow_mtf
 ---
 
 ## Precepts

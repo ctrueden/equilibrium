@@ -133,12 +133,12 @@ He leaves and comes back with [Orlok](../dossiers/orlok) ("the Lady of Whispers,
 [Sophie Steelboots](../dossiers/sophie-steelboots) is her name, and she is looking hopeless. Lestache offers to let us join the hunt as "Clan [SPI](../orgs/spi)" if we ante up an item to throw in the pot. The quarry gets to choose one item to use, and the rest stay in the pot. If we win, then she goes free and we win the pot. But we have no protection if we join the hunt. The vampires are free to attack us however they want.
 
 The vampire clans all pony up magical objects:
-- Lestache / Toreador: [Instrument of Illusions](https://5e.tools/items.html#instrument%20of%20illusions_xge)
-- Enoch / Ventru: "The Ventru accept your gracious offer, and pledge in return this [Needle of Mending](https://5e.tools/items.html#needle%20of%20mending_egw)
-- Goratrix / Crispic: Bag of ten [Mind Crystals of Subtlety](https://5e.tools/items.html#mind%20crystal%20%28subtle%29_pabtso)
-- Troile / Brujah: [Ruby of the War Mage](https://5e.tools/items.html#ruby%20of%20the%20war%20mage_xge)
-- Elloia / Gangrel: [Boots of False Tracks](https://5e.tools/items.html#boots%20of%20false%20tracks_xge)
-- Malak / Malkavian: [Manual of Gainful Exercise](https://5e.tools/items.html#manual%20of%20gainful%20exercise_dmg)
-- Orlok: "The Nosferatu decline to hunt. Nonetheless, just for fun: we offer this [Sword of Retribution](https://5e.tools/items.html#shortsword%20of%20retribution_coa)"
+- Lestache / Toreador: [Instrument of Illusions](https://2014.5e.tools/items.html#instrument%20of%20illusions_xge)
+- Enoch / Ventru: "The Ventru accept your gracious offer, and pledge in return this [Needle of Mending](https://2014.5e.tools/items.html#needle%20of%20mending_egw)
+- Goratrix / Crispic: Bag of ten [Mind Crystals of Subtlety](https://2014.5e.tools/items.html#mind%20crystal%20%28subtle%29_pabtso)
+- Troile / Brujah: [Ruby of the War Mage](https://2014.5e.tools/items.html#ruby%20of%20the%20war%20mage_xge)
+- Elloia / Gangrel: [Boots of False Tracks](https://2014.5e.tools/items.html#boots%20of%20false%20tracks_xge)
+- Malak / Malkavian: [Manual of Gainful Exercise](https://2014.5e.tools/items.html#manual%20of%20gainful%20exercise_dmg)
+- Orlok: "The Nosferatu decline to hunt. Nonetheless, just for fun: we offer this [Sword of Retribution](https://2014.5e.tools/items.html#shortsword%20of%20retribution_coa)"
 
 Sophie reaches for the sword. As her fingers grip it, a fire forms in her eyes, and her expression darkens...

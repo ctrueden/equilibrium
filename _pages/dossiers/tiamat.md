@@ -27,8 +27,8 @@ links:
 - Critical Role|https://criticalrole.fandom.com/wiki/Tiamat
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=20
 - Wikipedia|https://en.wikipedia.org/wiki/Tiamat_%28Dungeons_%26_Dragons%29
-- 5E Dawn War|https://5e.tools/deities.html#tiamat_dawn%20war_dmg
-- 5E Exandria|https://5e.tools/deities.html#tiamat_exandria_egw
+- 5E Dawn War|https://2014.5e.tools/deities.html#tiamat_dawn%20war_dmg
+- 5E Exandria|https://2014.5e.tools/deities.html#tiamat_exandria_egw
 ---
 
 ## Precepts

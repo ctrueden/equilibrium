@@ -45,9 +45,9 @@ links:
 - Critical Role|https://criticalrole.fandom.com/wiki/Melora
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=109
 - Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=41
-- 5E Dawn War|https://5e.tools/deities.html#melora_dawn%20war_dmg
-- 5E Exandria|https://5e.tools/deities.html#melora_exandria_egw
-- 5E Greek|https://5e.tools/deities.html#poseidon_greek_phb
+- 5E Dawn War|https://2014.5e.tools/deities.html#melora_dawn%20war_dmg
+- 5E Exandria|https://2014.5e.tools/deities.html#melora_exandria_egw
+- 5E Greek|https://2014.5e.tools/deities.html#poseidon_greek_phb
 ---
 
 ## Precepts

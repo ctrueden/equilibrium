@@ -27,8 +27,8 @@ links:
 - FRC|https://frc.fandom.com/wiki/Brandobaris
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=176
 - Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=37
-- 5E Racial|https://5e.tools/deities.html#brandobaris_halfling_mtf
-- 5E Greek|https://5e.tools/deities.html#hermes_greek_phb
+- 5E Racial|https://2014.5e.tools/deities.html#brandobaris_halfling_mtf
+- 5E Greek|https://2014.5e.tools/deities.html#hermes_greek_phb
 ---
 
 [Brandobaris](https://wewererogue.tumblr.com/post/188179601981/brandobaris-a-patron-deity-for-thieves-from)

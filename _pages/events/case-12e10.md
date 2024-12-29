@@ -66,7 +66,7 @@ Oz, sensing that the storm would only grow more dire from there, looks at Cal: "
 
 "Please, stop!" cries the gnome. "We had good reasons for everything we did!" But no one is convinced.
 
-Bec decides to jump into action, casting [*confusion*](https://5e.tools/spells.html#confusion_phb) on everyone except Freki and herself. Callie, Cal, and Oz all resist the effect, as do Phoebe and Sartus, but Isis and the gnome both become utterly confused!
+Bec decides to jump into action, casting [*confusion*](https://2014.5e.tools/spells.html#confusion_phb) on everyone except Freki and herself. Callie, Cal, and Oz all resist the effect, as do Phoebe and Sartus, but Isis and the gnome both become utterly confused!
 
 In the last moment before confusion overcomes her, Isis lunges toward the gnome, touching him as she casts *plane shift*. The gnome has *just* enough presence of mind before madness overtakes him to acquiesce to the magical effect, and reality warps around him, bending him away to who-knows-where. In the moment, Bec knows enough about planar magic to recognize that Isis *might* have been able to include herself in the escape attempt, had she been able to join hands with the gnome... but she failed to do so due to his flailing around from being electrocuted and on fire.
 
@@ -132,7 +132,7 @@ Callie expresses concern that Tybalt also could be a doppelganger.
 
 Bec: "I think we really need to save the [Tree](../relics/yggdrasil)."
 
-Callie suggests using a [*sending*](https://5e.tools/spells.html#sending_phb) to Tybalt. She thinks the risk is low that it get intercepted by a false/doppel version of Tybalt&mdash;that it will likely go to the Tybalt they have been interacting with.
+Callie suggests using a [*sending*](https://2014.5e.tools/spells.html#sending_phb) to Tybalt. She thinks the risk is low that it get intercepted by a false/doppel version of Tybalt&mdash;that it will likely go to the Tybalt they have been interacting with.
 
 The agents discuss this idea, but Sartus suggests to be very careful what they say to him.
 

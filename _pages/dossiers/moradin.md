@@ -36,9 +36,9 @@ links:
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=14
 - Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=34
 - Wikipedia|https://en.wikipedia.org/wiki/Moradin
-- 5E Exandria|https://5e.tools/deities.html#moradin_exandria_egw
-- 5E Racial|https://5e.tools/deities.html#moradin_dwarven_mtf
-- 5E Greek|https://5e.tools/deities.html#hephaestus_greek_phb
+- 5E Exandria|https://2014.5e.tools/deities.html#moradin_exandria_egw
+- 5E Racial|https://2014.5e.tools/deities.html#moradin_dwarven_mtf
+- 5E Greek|https://2014.5e.tools/deities.html#hephaestus_greek_phb
 ---
 
 ## Precepts

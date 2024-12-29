@@ -21,7 +21,7 @@ statbox:
 magic-items:
   - name: Bag of Holding
     source: "Recruitment incentive from Mallory"
-    link: https://5e.tools/items.html#bag%20of%20holding_dmg
+    link: https://2014.5e.tools/items.html#bag%20of%20holding_dmg
     rarity: uncommon
     value: 4000
   - name: Arrows of Tidal Force x3
@@ -32,38 +32,38 @@ magic-items:
     value: 1500
   - name: Unbreakable Arrows x11
     source: Merfolk treasure
-    link: https://5e.tools/items.html#unbreakable%20arrow_xge
+    link: https://2014.5e.tools/items.html#unbreakable%20arrow_xge
     rarity: common (minor)
     value: 20
     notes: Mysterious unbreakable metal
   - name: Quiver of Ehlonna
     source: family heirloom
-    link: https://5e.tools/items.html#quiver%20of%20ehlonna_dmg
+    link: https://2014.5e.tools/items.html#quiver%20of%20ehlonna_dmg
     rarity: uncommon (major)
     value: 1000
   - name: Cloak of Elvenkind
     source: "Zanqaa the Devoted - Boon of Aegis: Stealth"
-    link: https://5e.tools/items.html#cloak%20of%20elvenkind_dmg
+    link: https://2014.5e.tools/items.html#cloak%20of%20elvenkind_dmg
     rarity: uncommon (major)
     value: 5000
   - name: Oathbow
     source: "Zanqaa the Devoted - Boon of Arms: Vengeance"
-    link: https://5e.tools/items.html#oathbow_dmg
+    link: https://2014.5e.tools/items.html#oathbow_dmg
     rarity: very rare (major)
     value: 3500
   - name: Ring of Jumping
     source: "Zanqaa the Devoted - Boon of Prowess: Agility"
-    link: https://5e.tools/items.html#ring%20of%20jumping_dmg
+    link: https://2014.5e.tools/items.html#ring%20of%20jumping_dmg
     rarity: uncommon (major)
     value: 2500
   - name: Glamoured Studded Leather
     source: Estanesse palace treasury
-    link: https://5e.tools/items.html#glamoured%20studded%20leather_dmg
+    link: https://2014.5e.tools/items.html#glamoured%20studded%20leather_dmg
     rarity: rare (major)
     value: 2000
   - name: Bracers of Archery
     source: Estanesse palace treasury
-    link: https://5e.tools/items.html#bracers%20of%20archery_dmg
+    link: https://2014.5e.tools/items.html#bracers%20of%20archery_dmg
     rarity: uncommon (major)
     value: 1500
 ---
@@ -86,12 +86,12 @@ See the [lycan ranger](../rules/lycan-ranger) rules.
 
 #### Special Arrow Types
 
-* \[L2\] [Acid Arrow](https://5e.tools/spells.html#melf%27s%20acid%20arrow_phb)
-* \[L2\] [Hail of Thorns](https://5e.tools/spells.html#hail%20of%20thorns_phb)
-* \[L3\] [Ensnaring Strike](https://5e.tools/spells.html#ensnaring%20strike_phb)
-* \[L5\] [Spike Growth](https://5e.tools/spells.html#spike%20growth_phb)
-* \[L7\] [Lightning Arrow](https://5e.tools/spells.html#lightning%20arrow_phb)
-* \[L9\] [Arrow of Slaying](https://5e.tools/items.html#arrow%20of%20slaying%20%28*%29_dmg)
+* \[L2\] [Acid Arrow](https://2014.5e.tools/spells.html#melf%27s%20acid%20arrow_phb)
+* \[L2\] [Hail of Thorns](https://2014.5e.tools/spells.html#hail%20of%20thorns_phb)
+* \[L3\] [Ensnaring Strike](https://2014.5e.tools/spells.html#ensnaring%20strike_phb)
+* \[L5\] [Spike Growth](https://2014.5e.tools/spells.html#spike%20growth_phb)
+* \[L7\] [Lightning Arrow](https://2014.5e.tools/spells.html#lightning%20arrow_phb)
+* \[L9\] [Arrow of Slaying](https://2014.5e.tools/items.html#arrow%20of%20slaying%20%28*%29_dmg)
   * Must be infused with part of the creature to be slain for full effect (6d10)
   * Or infused with part of the same type of creature for half effect (3d10)
 * \[L11\] TBD
@@ -107,14 +107,14 @@ See the [lycan ranger](../rules/lycan-ranger) rules.
 
 #### Innate Natural Abilities
 
-* \[L2\] [Animal friendship](https://5e.tools/spells.html#animal%20friendship_phb). Cast as a ritual – takes 5 minutes to bond with an animal. Animal must be neutral or friendly to initiate.
-* \[L2\] [Speak with animals](https://5e.tools/spells.html#speak%20with%20animals_phb). Requires concentration – uses an action each round of use.
+* \[L2\] [Animal friendship](https://2014.5e.tools/spells.html#animal%20friendship_phb). Cast as a ritual – takes 5 minutes to bond with an animal. Animal must be neutral or friendly to initiate.
+* \[L2\] [Speak with animals](https://2014.5e.tools/spells.html#speak%20with%20animals_phb). Requires concentration – uses an action each round of use.
 * \[L3\] Swift shot. As a bonus action, draw and fire an arrow at -4 penalty.
 * \[L5\] Beast sense. You use your action to transfer your consciousness to Hugin or Munin. You see through its eyes, and hear what it hears for up to 1 hour, while becoming oblivious to your own usual sight and hearing. Another action returns you to your own body.
-* \[L7\] [Hunter's mark](https://5e.tools/spells.html#hunter's%20mark_phb). Once per short rest – but note it can be thrown again if first target dies.
+* \[L7\] [Hunter's mark](https://2014.5e.tools/spells.html#hunter's%20mark_phb). Once per short rest – but note it can be thrown again if first target dies.
 * \[L9\] Amphibious nature. Cursed by aboleths, redeemed by Pelor.
-* \[L11\] [Speak with plants](https://5e.tools/spells.html#speak%20with%20plants_phb).
-* \[L13\] [Regeneration](https://5e.tools/spells.html#regenerate_phb). You regain 1 hit point at the start of each of your turns (10 hit points each minute). Severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
+* \[L11\] [Speak with plants](https://2014.5e.tools/spells.html#speak%20with%20plants_phb).
+* \[L13\] [Regeneration](https://2014.5e.tools/spells.html#regenerate_phb). You regain 1 hit point at the start of each of your turns (10 hit points each minute). Severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
 * \[L15\] TBD
 * \[L17\] TBD
 * \[L19\] TBD
@@ -129,7 +129,7 @@ title="Hugin and Munin"
 
 Freki is bonded to the twin mystic ravens [Hugin](hugin) and [Munin](munin)[*](https://en.wikipedia.org/wiki/Huginn_and_Muninn). They are loyal to Freki but not beholden to him. Supernatural, of unknown origin.
 
-See [Beast of the Sky](https://5e.tools/bestiary.html#beast%20of%20the%20sky_tce) for game statistics.
+See [Beast of the Sky](https://2014.5e.tools/bestiary.html#beast%20of%20the%20sky_tce) for game statistics.
 
 #### Build choices
 

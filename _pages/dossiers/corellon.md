@@ -43,9 +43,9 @@ links:
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=3
 - Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=26
 - Wikipedia|https://en.wikipedia.org/wiki/Corellon_Larethian
-- 5E Exandria|https://5e.tools/deities.html#corellon_exandria_egw
-- 5E Racial|https://5e.tools/deities.html#corellon%20larethian_elven_mtf
-- 5E Greek|https://5e.tools/deities.html#apollo_greek_phb
+- 5E Exandria|https://2014.5e.tools/deities.html#corellon_exandria_egw
+- 5E Racial|https://2014.5e.tools/deities.html#corellon%20larethian_elven_mtf
+- 5E Greek|https://2014.5e.tools/deities.html#apollo_greek_phb
 ---
 
 

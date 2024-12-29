@@ -45,10 +45,10 @@ links:
 - Thieves Guild 3|https://www.thievesguild.cc/gods/god?godid=31
 - Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Olidammara
 - Wikipedia 2|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Fharlanghn
-- 5E Dawn War|https://5e.tools/deities.html#avandra_dawn%20war_dmg
-- 5E Exandria|https://5e.tools/deities.html#avandra_exandria_egw
-- 5E Greyhawk|https://5e.tools/deities.html#olidammara_greyhawk_phb
-- 5E Greek|https://5e.tools/deities.html#dionysus_greek_phb
+- 5E Dawn War|https://2014.5e.tools/deities.html#avandra_dawn%20war_dmg
+- 5E Exandria|https://2014.5e.tools/deities.html#avandra_exandria_egw
+- 5E Greyhawk|https://2014.5e.tools/deities.html#olidammara_greyhawk_phb
+- 5E Greek|https://2014.5e.tools/deities.html#dionysus_greek_phb
 ---
 
 ## Precepts

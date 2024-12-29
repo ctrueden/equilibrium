@@ -30,9 +30,9 @@ links:
 - Critical Role|https://criticalrole.fandom.com/wiki/Kord
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=11
 - Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=39
-- 5E Dawn War|https://5e.tools/deities.html#kord_dawn%20war_dmg
-- 5E Exandria|https://5e.tools/deities.html#kord_exandria_egw
-- 5E Greek|https://5e.tools/deities.html#nike_greek_phb
+- 5E Dawn War|https://2014.5e.tools/deities.html#kord_dawn%20war_dmg
+- 5E Exandria|https://2014.5e.tools/deities.html#kord_exandria_egw
+- 5E Greek|https://2014.5e.tools/deities.html#nike_greek_phb
 - Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Kord
 ---
 

@@ -17,37 +17,37 @@ magic-items:
   - name: Wand of Healing
     source: Cassandra
     link: /equilibrium/gear#wand-of-healing
-    link2: https://5e.tools/items.html#wand%20of%20fireballs_dmg
+    link2: https://2014.5e.tools/items.html#wand%20of%20fireballs_dmg
     rarity: very rare (major)
     value: 10000
   - name: Luckstone
     source: Merfolk treasure
-    link: https://5e.tools/items.html#stone%20of%20good%20luck_dmg
+    link: https://2014.5e.tools/items.html#stone%20of%20good%20luck_dmg
     rarity: uncommon (major)
     value: 4200
   - name: Portable Hole
     source: Merfolk treasure
-    link: https://5e.tools/items.html#portable%20hole_dmg
+    link: https://2014.5e.tools/items.html#portable%20hole_dmg
     rarity: rare (minor)
     value: 8000
   - name: Bracers of Defense
     source: Spoils of war from defeating Talos
-    link: https://5e.tools/items.html#bracers%20of%20defense_dmg
+    link: https://2014.5e.tools/items.html#bracers%20of%20defense_dmg
     rarity: rare (major)
     value: 6000
   - name: Sending Stone
     source: Mallory
-    link: https://5e.tools/items.html#sending%20stones_dmg
+    link: https://2014.5e.tools/items.html#sending%20stones_dmg
     rarity: uncommon (minor)
     value: 500
   - name: Ring of Spell Storing
     source: "Zanqaa the Devoted - Boon of Prowess: Magic"
-    link: https://5e.tools/items.html#ring%20of%20spell%20storing_dmg
+    link: https://2014.5e.tools/items.html#ring%20of%20spell%20storing_dmg
     rarity: rare (major)
     value: 24000
   - name: Cape of the Mountebank
     source: "Zanqaa the Devoted - Boon of Aegis: Mobility"
-    link: https://5e.tools/items.html#cape%20of%20the%20mountebank_dmg
+    link: https://2014.5e.tools/items.html#cape%20of%20the%20mountebank_dmg
     rarity: rare (major)
     value: 8000
   - name: Wand of Wonder
@@ -57,17 +57,17 @@ magic-items:
     value: "4800+???"
   - name: Boots of Elvenkind
     source: Estanesse palace treasury
-    link: https://5e.tools/items.html#boots%20of%20elvenkind_dmg
+    link: https://2014.5e.tools/items.html#boots%20of%20elvenkind_dmg
     rarity: uncommon (major)
     value: 2500
   - name: Mind Crystals of Subtlety (3x)
     source: Sepulchralis Hunt (Crispic)
-    link: https://5e.tools/items.html#mind%20crystal%20%28subtle%29_pabtso
+    link: https://2014.5e.tools/items.html#mind%20crystal%20%28subtle%29_pabtso
     rarity: TODO
     value: TODO
   - name: Instrument of Illusions (Hurdy Gurdy)
     source: Sepulchralis Hunt (Toreador)
-    link: https://5e.tools/items.html#instrument%20of%20illusions_xge
+    link: https://2014.5e.tools/items.html#instrument%20of%20illusions_xge
     rarity: TODO
     value: TODO
 ---
@@ -85,7 +85,7 @@ but seems to be afflicted by some sort of malignant chronomancy.
 
 ### Magic items
 
-[Wand of Wonder](https://5e.tools/items.html#wand%20of%20wonder_dmg)
+[Wand of Wonder](https://2014.5e.tools/items.html#wand%20of%20wonder_dmg)
 * Thanks to his experience with wild magic, Vondal has learned to control the
   behavior of his Wand of Wonder. When manifesting an effect from the wand, he
   can spend sorcery points to affect the outcome. After rolling the d100, he
@@ -94,7 +94,7 @@ but seems to be afflicted by some sort of malignant chronomancy.
 * In addition, while holding the wand, Vondal gains a +2 bonus to spell attack
   rolls, and ignores half cover when making a spell attack, with wild magic.
 
-[Wand of Healing](https://5e.tools/items.html#wand%20of%20fireballs_dmg)
+[Wand of Healing](https://2014.5e.tools/items.html#wand%20of%20fireballs_dmg)
 * 7 charges
 * regain 1d4 charges every dawn
 * 1 charge = Cure Wounds level 1

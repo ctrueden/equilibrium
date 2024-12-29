@@ -49,10 +49,10 @@ links:
 - Thieves Guild 2|https://www.thievesguild.cc/gods/god?godid=22
 - Thieves Guild 3|https://www.thievesguild.cc/gods/god?godid=225
 - Thieves Guild 4|https://www.thievesguild.cc/gods/god?godid=32
-- 5E Greyhawk|https://5e.tools/deities.html#nerull_greyhawk_phb
-- 5E Dawn War|https://5e.tools/deities.html#raven%20queen_dawn%20war_dmg
-- 5E Exandria|https://5e.tools/deities.html#the%20raven%20queen_exandria_egw
-- 5E Greek|https://5e.tools/deities.html#hades_greek_phb
+- 5E Greyhawk|https://2014.5e.tools/deities.html#nerull_greyhawk_phb
+- 5E Dawn War|https://2014.5e.tools/deities.html#raven%20queen_dawn%20war_dmg
+- 5E Exandria|https://2014.5e.tools/deities.html#the%20raven%20queen_exandria_egw
+- 5E Greek|https://2014.5e.tools/deities.html#hades_greek_phb
 - Wolfpack Legends|https://wolfpack-legends-dd.fandom.com/wiki/Raven_Queen
 ---
 

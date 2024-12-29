@@ -54,11 +54,11 @@ links:
 - Thieves Guild 3|https://www.thievesguild.cc/gods/god?godid=87
 - Thieves Guild 4|https://www.thievesguild.cc/gods/god?godid=99
 - Thieves Guild 5|https://www.thievesguild.cc/gods/god?godid=28
-- 5E Exandria|https://5e.tools/deities.html#sehanine_exandria_egw
-- 5E Racial|https://5e.tools/deities.html#sehanine%20moonbow_elven_mtf
-- 5E Faerun|https://5e.tools/deities.html#sel%c3%bbne_faer%c3%bbnian_scag
-- 5E Greek|https://5e.tools/deities.html#artemis_greek_phb
-- 5E Racial 2|https://5e.tools/deities.html#eilistraee_drow_mtf
+- 5E Exandria|https://2014.5e.tools/deities.html#sehanine_exandria_egw
+- 5E Racial|https://2014.5e.tools/deities.html#sehanine%20moonbow_elven_mtf
+- 5E Faerun|https://2014.5e.tools/deities.html#sel%c3%bbne_faer%c3%bbnian_scag
+- 5E Greek|https://2014.5e.tools/deities.html#artemis_greek_phb
+- 5E Racial 2|https://2014.5e.tools/deities.html#eilistraee_drow_mtf
 - Forgotten Realms 2|https://forgottenrealms.fandom.com/wiki/Eilistraee
 - Forgotten Realms 3|https://forgottenrealms.fandom.com/wiki/Sel%C3%BBne
 - Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Ehlonna
