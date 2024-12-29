@@ -73,9 +73,11 @@ Beginning at 5th level, you can make an additional attack whenever you take the 
 
 ### Improved Beast Form
 
-At 6th level, your beast form grows in power. Choose two of the following abilities:
+At 6th level, your beast form grows in power.
 
-* **Primal Strike.** Natural weapon attacks in beast or hybrid form count as magical +1.
+Your natural weapon attacks in beast or hybrid form count as magical +1.
+
+In addition, choose two of the following abilities:
 
 * **Savage Critical.** Your natural weapon attacks score a critical hit on 19 or 20.
 
@@ -87,11 +89,13 @@ These abilities also become available as [feats](https://www.dndbeyond.com/sourc
 
 ### Greater Beast Form
 
-At 14th level, your beast form reaches its pinnacle. Choose one of the following abilities:
+At 14th level, your beast form reaches its pinnacle.
+
+Natural weapon attacks in beast or hybrid form count as magical +2.
+
+In addition, choose one of the following abilities:
 
 * **At One with the Beast.** You have honed your mental control over your inner beast. You no longer suffer the ability score penalties to Intelligence, Wisdom or Charisma while in beast form, nor do you need to make a saving throw to control your transformations while in extraordinary circumstances.
-
-* **Primordial Strike.** Natural weapon attacks in beast or hybrid form count as magical +2.
 
 * **Extra Natural Attack.** While in beast or hybrid form, you can make an additional natural weapon attack as part of your Multiattack action, either a claw or a bite.
 
