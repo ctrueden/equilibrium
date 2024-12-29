@@ -186,3 +186,8 @@ At 15th level, you gain one of the following features of your choice.
 *This ability replaces the [standard ranger's Foe Slayer](https://www.dndbeyond.com/classes/ranger#FoeSlayer-306).*
 
 At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
+
+## Appendix: Feats of Interest
+
+* [Elven Accuracy](https://2014.5e.tools/feats.html#elven%20accuracy_xge)
+* [Grappler](https://2014.5e.tools/feats.html#grappler_phb)
