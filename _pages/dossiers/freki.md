@@ -115,6 +115,7 @@ See the [lycan ranger](../rules/lycan-ranger) rules.
 * \[L2\] [Hail of Thorns](https://2014.5e.tools/spells.html#hail%20of%20thorns_phb)
 * \[L3\] [Ensnaring Strike](https://2014.5e.tools/spells.html#ensnaring%20strike_phb)
 * \[L5\] [Spike Growth](https://2014.5e.tools/spells.html#spike%20growth_phb)
+  * The ground in a 20-foot radius centered on the arrow's point of impact twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.
 * \[L7\] [Lightning Arrow](https://2014.5e.tools/spells.html#lightning%20arrow_phb)
 * \[L9\] [Arrow of Slaying](https://2014.5e.tools/items.html#arrow%20of%20slaying%20%28*%29_dmg)
   * Must be infused with part of the creature to be slain for full effect (6d10)
