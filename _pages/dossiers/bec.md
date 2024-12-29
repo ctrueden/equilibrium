@@ -122,7 +122,7 @@ Bec is an enchantress. She has joined the SPI to learn more magic, and to find o
 
 ### Sartus's Spellbooks
 
-#### Erui
+#### Tiavain
 
 Spell | Level | School | Source
 ------|-------|--------|-------
@@ -168,7 +168,7 @@ Revert Form | 5 | Abjur
 [Wall of Force](https://www.dandwiki.com/wiki/3e_SRD:Wall_of_Force) | 5 | Evoc [Force] | [Age of Freedom](../events/age-03)
 {:class="sortable"}
 
-#### Tád
+#### Nukasha
 
 Spell | Level | School | Source
 ------|-------|--------|-------
@@ -194,7 +194,7 @@ Suppression | 8 | Abjur
 [War Mastery](../rules/spells#war-mastery-age-of-freedom) | 3 | Div | [Age of Freedom](../events/age-03)
 {:class="sortable"}
 
-#### Neled
+#### Siniath
 
 Spell | Level | School | Source
 ------|-------|--------|-------
@@ -215,7 +215,7 @@ Psionic Sight, Greater | 8 | Div
 [Wall of Greater Dispel Magic](../rules/spells#wall-of-greater-dispel-magic-age-of-freedom) | 8 | Abjur | [Age of Freedom](../events/age-03)
 {:class="sortable"}
 
-#### Siniath
+#### Coravia
 
 Spell | Level | School | Source
 ------|-------|--------|-------
