@@ -51,6 +51,8 @@ In these alternate forms, your statistics are adjusted as follows:
   * Beast: +4 Str, +2 Dex, +4 Con, -4 Int, -4 Wis, +20 speed.
   * Hybrid: +2 Str, +2 Con, -2 Int, -2 Wis, +10 speed.
 
+In beast form, you are resistant to bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered.
+
 In beast form, your limbs become too unwieldy to manipulate weapons and other tools, whereas in hybrid form, you can continue to use such items normally.
 
 In difficult or extraordinary circumstances, the GM may call for a Wisdom saving throw to resist transforming, or to succeed in reverting to natural form.
@@ -72,8 +74,6 @@ Beginning at 5th level, you can make an additional attack whenever you take the 
 ### Improved Beast Form
 
 At 6th level, your beast form grows in power. Choose two of the following abilities:
-
-* **Damage Resistances.** You are resistant to bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered.
 
 * **Primal Strike.** Natural weapon attacks in beast or hybrid form count as magical +1.
 
