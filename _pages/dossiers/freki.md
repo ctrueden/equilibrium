@@ -76,6 +76,31 @@ Freki is a bounty hunter who venerates nature and despises magic. He prowls the 
 
 ## Rules
 
+### Attack bonuses and damage
+
+Ranged attack bonus: +9 (+5 swift shot)
+- +4 proficiency
+- +5 dexterity mod
+- Advantage + long range + no partial cover if oathbow target
+- Advantage if spending inspiration
+- +1d4 if blessed
+
+Ranged damage (arrow): 1d8 +4d6 +7 per shot
+- +5 dexterity mod
+- +2 bracers of archery
+- +1d6 if hunter's mark target
+- +3d6 piercing if oathbow target
+
+Melee attack bonus (beast form): +8
+- +4 proficiency
+- +4 strength mod
+- Advantage if spending inspiration
+- +1d4 if blessed
+
+Melee damage (beast form): 2d4 +4 bite, 1d8 +4 claw, 1d8 +4 claw
+- +4 strength mod
+- +3d8 Hammer
+
 ### Tapestry of Fate
 
 ***Animal instinct (Survival).*** You smell emotions, even as they fade, and can even track people by the "emotional trail" they leave.
