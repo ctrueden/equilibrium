@@ -201,6 +201,7 @@ Spell | Level | School | Source
 [Antimagic Field](https://www.dandwiki.com/wiki/3e_SRD:Antimagic_Field) | 6 | Abjur | [Age of Freedom](../events/age-03)
 Antipsionic Field | 7 | Abjur
 [Arcane Sight, Greater](https://www.dandwiki.com/wiki/SRD:Greater_Arcane_Sight) | 7 | Div | [Age of Freedom](../events/age-03)
+[Deeppockets](../rules/spells#deeppockets-age-of-zas) | 3 | Ench/Trans | [Age of Zas](../events/age-02)
 Dispel Psionics, Greater | 7 | Abjur
 [Glass Strike](../rules/spells#glass-strike-age-of-freedom) | 7 | Trans {F} | [Age of Freedom](../events/age-03)
 Mage's Disjunction | 9 | Abjur | [Age of Freedom](../events/age-03)
@@ -211,6 +212,7 @@ Psionic Sight, Greater | 8 | Div
 [Shrink Item](https://www.dandwiki.com/wiki/3e_SRD:Shrink_Item) | 3 | Trans | [Age of Freedom](../events/age-03)
 [Stone Shape](https://www.dandwiki.com/wiki/3e_SRD:Stone_Shape) | 4 | Trans [Earth] | [Age of Freedom](../events/age-03)
 [Stone to Flesh](https://www.dandwiki.com/wiki/3e_SRD:Stone_to_Flesh) | 6 | Trans | [Age of Freedom](../events/age-03)
+[Suggestion](../rules/spells#suggestion-age-of-freedom) | 3 | Ench (Charm) | [Age of Freedom](../events/age-03)
 [Tenacious Dispelling](../rules/spells#tenacious-dispelling-age-of-freedom) | 3 | Abjur | [Age of Freedom](../events/age-03)
 [Wall of Greater Dispel Magic](../rules/spells#wall-of-greater-dispel-magic-age-of-freedom) | 8 | Abjur | [Age of Freedom](../events/age-03)
 {:class="sortable"}
