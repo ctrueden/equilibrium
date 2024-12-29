@@ -97,8 +97,9 @@ Melee attack bonus (beast form): +8
 - Advantage if spending inspiration
 - +1d4 if blessed
 
-Melee damage (beast form): 2d4 +4 bite, 1d8 +4 claw, 1d8 +4 claw
+Melee damage (beast form): 2d4 +2d6 +4 bite, 1d8 +2d6 +4 claw, 1d8 +2d6 +4 claw
 - +4 strength mod
+- +2d6 if scent of blood active
 - +3d8 Hammer
 
 ### Tapestry of Fate
