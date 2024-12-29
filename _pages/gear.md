@@ -9,7 +9,7 @@ js: [sorttable]
 
 This tattoo in the shape of ... has a faint red glow while energized.
 
-One per turn, as part of an unarmed strike, natural attack, or melee touch attack (a melee attack with proficiency that deals no damage), you charge your limb with the force of a sledgehammer. If the attack hits, it deals an additional 3d8 points of damage. This damage is not increased or decreased by your Strength modifier. If the attack misses, the charge is wasted, expelled into the open air.
+One per turn, as part of an unarmed strike, natural attack, or melee touch attack (a melee attack with proficiency that deals no damage), you charge your attack with the force of a sledgehammer. If the attack hits, it deals an additional 3d8 points of force damage. This damage is not increased or decreased by your Strength modifier. If the attack misses but *would have hit as a touch attack*, it still deals 3d8 points of force damage. Otherwise, the charge is wasted, expelled into the open air.
 
 Each activation depletes the tattoo's energy by 25%; the tattoo's energy recharges at a rate of 25% every 15 minutes.
 
