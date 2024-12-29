@@ -57,9 +57,9 @@ In difficult or extraordinary circumstances, the GM may call for a Wisdom saving
 
 While in these alternate forms, you gain the following natural weapon attack options:
 
-* **Claw.** 2d4 + Str slashing damage.
+* **Claw (beast or hybrid).** 2d4 + Str slashing damage.
 
-* **Bite.** 1d8 + Str piercing damage.
+* **Bite (beast only).** 1d8 + Str piercing damage.
   * If you successfully hit a target one size larger than you or smaller, you can use a bonus action to attempt to grapple. Make an opposed Strength (athletics) check. If successful, the creature is [grappled](https://2014.5e.tools/conditionsdiseases.html#grappled_phb) by you.
   * If the target is a [bipedal](../glossary#bipedal) creature, it must succeed on a Constitution saving throw (DC 8 + proficiency bonus + Con modifier) or be cursed with lycanthropy.
 
