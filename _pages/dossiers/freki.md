@@ -119,7 +119,7 @@ See the [lycan ranger](../rules/lycan-ranger) rules.
 * \[L9\] [Arrow of Slaying](https://2014.5e.tools/items.html#arrow%20of%20slaying%20%28*%29_dmg)
   * Must be infused with part of the creature to be slain for full effect (6d10)
   * Or infused with part of the same type of creature for half effect (3d10)
-* \[L11\] TBD
+* \[L11\] Vampiric Arrow &ndash; +3d6 necrotic on hit; +1d6 necrotic at start of each of the target's turns until they dislodge it&mdash;e.g. via spending an action or by being magically healed; can drink blood from the tooth for temporary HP equal to total necrotic damage dealt; can recover and reuse the vampire tooth
 * \[L13\] TBD
 * \[L15\] TBD
 * \[L17\] TBD
