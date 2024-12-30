@@ -8,7 +8,7 @@ image4-source: https://www.pinterest.com/pin/21814379436708602/
 image5-source: https://www.pinterest.com/pin/1477812368251501/
 image6-source: https://www.pinterest.com/pin/328199891607419832/
 statbox:
-  race: [elf, undead (ghost)]
+  race: [elf (eladrin+high), undead (ghost)]
   gender: male
   class: psion
   case: ["07", "12"]

@@ -5,7 +5,7 @@ image-source: https://www.pinterest.com/pin/607915649714722272/
 image2: https://i.pinimg.com/236x/28/72/89/287289fee22df322167cfb930a291a45.jpg
 image2-source: https://www.pinterest.com/pin/662592163907519218/
 statbox:
-  race: elf
+  race: elf (wood)
   gender: female
   profession: bodyguard
   class: arcane archer

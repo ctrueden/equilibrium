@@ -4,7 +4,7 @@ title: Ambriel Estanesse, Queen of the Fae
 image: https://i.pinimg.com/originals/30/c3/29/30c3294db371313914549193db4b429c.jpg
 image-source: https://www.pinterest.com/pin/421227371404839716/
 statbox:
-  race: elf
+  race: elf (eladrin)
   gender: female
   case: "12"
 ---
