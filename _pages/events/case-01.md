@@ -19,7 +19,7 @@ A human woman named **[Cassandra](../dossiers/cassandra)**, who seems to be Mall
 
 ### Victim
 
-**[Sartan Winterfrost](../dossiers/sartan-winterfrost)** (half-elf, male)
+**[Dartan Winterfrost](../dossiers/dartan-winterfrost)** (half-elf, male)
 * Found petrified, with pieces raggedly broken off and missing (eaten??)
 * Trusted accountant of Dominic Tremere
 
@@ -29,13 +29,13 @@ A human woman named **[Cassandra](../dossiers/cassandra)**, who seems to be Mall
 * Ledger of expenses and income from the Tremere household
   * Lists recent sales of antiquities; one to **[Gavin Pepperpotts](../dossiers/gavin-pepperpotts)**, Callie's executive
   * Two pages (from 3 and 8 weeks ago) torn out
-  * Upon close examination, the numbers don't add up—Sartan was skimming
+  * Upon close examination, the numbers don't add up—Dartan was skimming
 * Locked chest containing IOUs and losing gambling tickets from the Beastly Colosseum
-* Sartan was obviously petrified, but how?
+* Dartan was obviously petrified, but how?
   * **Cockatrice** has a petrifying bite, but it wears off after 24 hours.
     * A cockatrice is not strong enough to destroy one of its stone victims. It usually just flees afterwards.
   * **Gorgon** has petrifying breath, which is permanent.
-    * But Sartan's death is not consistent with a Gorgon's M.O.: single opponent, and he wasn't gored first, nor ground into powder afterward.
+    * But Dartan's death is not consistent with a Gorgon's M.O.: single opponent, and he wasn't gored first, nor ground into powder afterward.
   * **Basilisk** has a petrifying gaze, which is permanent.
     * Damage is consistent with a Basilisk's M.O.: breaking apart and eating the stone piece by piece.
   * **Medusa** has a petrifying gaze, which is permanent.
@@ -66,7 +66,7 @@ A human woman named **[Cassandra](../dossiers/cassandra)**, who seems to be Mall
   * **[Pulchritudinous Euryale](../dossiers/pulchritudinous-euryale)** – a noblewoman art dealer
   * **Susilo Albin**
   * **Walter Vahid**
-* Has fired several prior accountants, but was pleased with Sartan; apparently unaware that Sartan was cooking the books
+* Has fired several prior accountants, but was pleased with Dartan; apparently unaware that Dartan was cooking the books
 
 **[R. Martine Andrews](../relics/warforged)** (robot?, "female")
 * Butler of Dominic Tremere
@@ -74,7 +74,7 @@ A human woman named **[Cassandra](../dossiers/cassandra)**, who seems to be Mall
 
 **[Rowena Darkshield](../dossiers/rowena-darkshield)** ([dwarf](../creatures/dwarves), female)
 * Arenamaster of the Beastly Colosseum
-* Had motive: Sartan owed her money
+* Had motive: Dartan owed her money
 * Claims she has "other ways" to deal with problems, and ensure people pay debts: the Colosseum has a business arrangement with Xaryu's Perfect Order (see below)
 
 **[Argus Saravor](../dossiers/argus-saravor)** (green [dragonborn](../creatures/dragonborn), male) and **Panoptes**, his basilisk
