@@ -9,8 +9,8 @@ session-date: 2024-12-22
 session-event: https://www.facebook.com/events/1224132445325396/
 ---
 
-* The agents, including Cassandra and Audreth, proceeded upstream.
-* Five shadowy undead flux monsters attacked them!
-* One turned into shadow Oz, another shadow Cal; both destroyed.
-* Two more fled downstream after being turned by Callie.
-* The last one turned into a shadow copy of the monkey and fled upstream.
+* The agents, including Cassandra and Audreth, proceed upstream.
+* Five shadowy undead flux monsters attack them!
+* One turns into shadow Oz, another into shadow Cal; both are destroyed.
+* Two more flee downstream after being turned by Callie.
+* The last one turns into a shadow copy of the monkey and flees upstream.
