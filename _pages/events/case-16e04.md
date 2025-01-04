@@ -59,7 +59,7 @@ My mom disappears. Cassandra stands up and says, "Nice. We learned something tod
 
 We try to look at Oz, but he's stealthy and we can't all see him. He steps out of stealth. Audreth doesn't recognize him at all. Bec does; he looks like he did in Elyria in the dream world when we all looked like other people. Freki and I think it's still Oz, even though we can't place the face.
 
-Oz somehow senses that we are in a quasi-real composite plane under the HQ composed of not only the material realm but also Flux. It's something like a corrupted Astral Plane, with the Faewild also spilling in. There's also another layer, like the Faewild is on top of the Faewild somehow. More importantly, he's tall now, and he doesn't like it one bit.
+Oz somehow senses that we are in a quasi-real composite plane under the HQ composed of not only the material realm but also Flux. It's something like a corrupted Astral Plane, with the [Feywild](../locales/feywild) also spilling in. There's also another layer, like the Feywild is on top of the Feywild somehow. More importantly, he's tall now, and he doesn't like it one bit.
 
 Oz flails his huge clumsy body around like an apprentice puppeteer. We all hear, "The sun in your kingdom shall not shine again on this face." Now Oz is really freaked out because he thinks we can hear his thoughts. But no, we aren't *all* cursed. He realizes he can fold time back on itself to make something right that was previously done wrong. He can use this power for great justice and only great justice! He comes to this realization because he feels, to his bones, that karma has gotten him good for trying to weasel out of his oath.
 
