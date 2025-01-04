@@ -127,7 +127,7 @@ Everybody wakes up screaming. You're welcome, everyone!
 
 When ¿Vondal? wakes up (screaming, like everyone else), he vanishes. Audreth hears a light "Thanks," though gratitude is not exactly what he's expressing, more like satisfaction that things happened the way he wanted. Also, this is definitely not Vondal.
 
-Since we've been forced to see the truth of the situation, we realize we aren't in the Underworld, not the real one. We're in some tunnels, under the SPI headquarters, in the very heart of the Flux.
+Since we've been forced to see the truth of the situation, we realize we aren't in the Afterworld, not the real one. We're in some tunnels, under the SPI headquarters, in the very heart of the Flux.
 
 A̸̡̻̲͂̅ṅ̶̨̨͓͔̏̉d̷̮̈͠ ̵͉̙̓̾̃n̶̛͔̪̍̈́̕o̷̮̟͈͌ẉ̸̓̕͜͝,̷̧͍̥͉̇̿ ̴͙́̒t̴̛̪͊̀ȟ̶̻̣͙̔̄e̸̝͆̓̅ ̶͇͓͋͊À̴̹̽͒ń̴̜i̸̞̩͗̈͝m̶̛̗͚͊̒̔ả̴̺͠͝l̷͓̜̥̀̽͂͘ ̵͔͖̀H̴̲͔̗̆o̸͚͍̱͋̈̽̚ṻ̴̖́ś̶̳̽́̂ȩ̸͉͔̃́̚ ̴̬͙̓̅̕c̵̺͒l̸͉̋ơ̴͕̪͈͉͛ṡ̴̹̮̉̌ͅe̸̙͝
 

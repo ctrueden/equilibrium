@@ -23,7 +23,7 @@ statbox:
   - Death
   - Darkness
   - Fate/Doom
-  - Underworld
+  - Afterworld
   - Winter
   aliases:
   - The Raven Queen

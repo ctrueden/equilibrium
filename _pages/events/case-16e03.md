@@ -59,7 +59,7 @@ Towards thee I roll, thou all-destroying but unconquering flesh-beast; to the la
 
 But then Cal notices something weird about the shadow, so he stabs it! Then the shadow stops being weird. Vondal uses his wand to heal her. She muses that it seems like this place is hostile to her, specifically.
 
-Oz floats the idea that Cassandra manifested the Furies. It's a good question, but Cassandra doesn't think so. Freki wonders if she has any enemies down here. She says there could be some enemies of the SPI here, among the spirits of the dead. Cassandra isn't sure that this is the real underworld, but it's just a hunch.
+Oz floats the idea that Cassandra manifested the Furies. It's a good question, but Cassandra doesn't think so. Freki wonders if she has any enemies down here. She says there could be some enemies of the SPI here, among the spirits of the dead. Cassandra isn't sure that this is the real [Afterworld](../locales/afterworld), but it's just a hunch.
 
 Cassandra believes in fate, but she also observes that things just seem to happen, so why worry? "Speaking of which...." she gestures. The tower is right there. Oz scoffs at any suggestion of waiting to go in and kicks the door, which turns out to be locked. Freki points out that he's low on arrows and needs time to make some more. 
 

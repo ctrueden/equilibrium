@@ -8,6 +8,6 @@ The Age of Zas is a time long past, when [Aecus](../locales/aecus) was overseen 
 
 According to legend, at the beginning of this age, the [eternals](../creatures/eternals) reconstructed the world to have four seasons, so that people for the first time needed to seek the shelter of houses and had to labor to supply their food, rather than living idly in ignorance of suffering.
 
-After death, people who lived during this age are said to have become "blessed [spirits](../creatures/spirits)" of the underworld.
+After death, people who lived during this age are said to have become "blessed [spirits](../creatures/spirits)" of the [Afterworld](../locales/afterworld).
 
 *GM's note: this era is based on Hesiod's [Silver Age](https://en.wikipedia.org/wiki/Silver_age).*
