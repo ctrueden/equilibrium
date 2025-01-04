@@ -39,7 +39,7 @@ Cal recognizes that his undead sense is not tingling. He lashes out with his whi
 
 Callie decides to cast *calm emotions* to make Sartus stop being stupid. It also helps Freki shake off the stun, and Oz finally see through the illusion. Cal *almost* sees through it, but not quite. The monkey is also on the edge of the magic and stops fleeing.
 
-[The Brucolac](../dossiers/cronus) appears. Callie and Freki don't see through the illusion. But Bec sees through it fully. "I have a gift for you" the Brucolac says to Bec, and pulls a ball of feathers?! out of his bag, and throws it down. [An owlbear samurai](../dossiers/rain) appears in front of him! "What? No!" he explains, and tries again, this time producing the corpose of Letharil Galere.
+[The Brucolac](../dossiers/cronus) appears. Callie and Freki don't see through the illusion. But Bec sees through it fully. "I have a gift for you" the Brucolac says to Bec, and pulls a ball of feathers?! out of his bag, and throws it down. [An owlbear samurai](../dossiers/rain) appears in front of him! "What? No!" he explains, and tries again, this time producing the corpose of [Letharil Galere](../dossiers/letharil-galere).
 
 Freki transforms into hybrid form, and moves up to the ghost and owlbear.
 

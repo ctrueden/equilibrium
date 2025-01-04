@@ -30,7 +30,7 @@ session-event: https://www.facebook.com/events/408443796644238/
 10. Oz heard a voice calling him "My chosen avenger" but that didn't make sense to him. He thought maybe it was a telepathic wrong number. But the voice persisted, and he saw that the Horn of the Cornucopia had become a compelling-looking hornblade. Oz decided to grapple over there swashbuckler-style.
 11. Freki started dancing to create a distraction. Oz landed on the top of the fountain and talked to a halfling ghost identifying herself as Yondalla. He touched the Cornucopia and his hand transformed! The Cornucopia itself lost its magical aura. Vondal theorized that the halfling woman was "put outside of reality" somehow.
 12. Callie's father returned home. He had a new tattoo of a white crane on his neck. He confirmed that he had hired the undead servants as a "cost-saving measure" and ordered them down into the manor to start working. A little while later, they heard Raliana scream.
-13. Bec realized that the revenant butler was her father, Letharil Galere. But he couldn't remember her.
+13. Bec realized that the revenant butler was her father, [Letharil Galere](../dossiers/letharil-galere). But he couldn't remember her.
 14. Raliana screamed. "There are skeletons!" and came upstairs. Callie calmed her down.
 15. People started having weirder and more intense ideas:
 

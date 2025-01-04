@@ -15,27 +15,27 @@ session-event: https://www.facebook.com/events/505755019051128/
 
 ## Callie's Notes
 
-When we all start waking up, we all have a major magic hangover and only remember scraps of what happened immediately before going to sleep. When Cal wakes up after 19 hours, he heads downstairs and finds Vondal making a batch of cookies. It's the middle of the night, but anytime's a good cookie time, I guess. Freki wakes up after 23 hours and searches out a meditation space. The quietest room seems to be the training room, with its dirt floor. 
+When we all start waking up, we all have a major magic hangover and only remember scraps of what happened immediately before going to sleep. When [Cal](../dossiers/cal) wakes up after 19 hours, he heads downstairs and finds [Vondal](../dossiers/vondal) making a batch of cookies. It's the middle of the night, but anytime's a good cookie time, I guess. [Freki](../dossiers/freki) wakes up after 23 hours and searches out a meditation space. The quietest room seems to be the training room, with its dirt floor. 
 
-Oz wakes up after 23 hours wondering why we didn't save the halflings. He vaguely remembers that after he grabbed an hourglass, he gained a new power but also everything went wrong for him, and we all barely escaped with our lives. He has a feeling that his new power requires a karmic balancing every time he uses it.
+[Oz](../dossiers/oz) wakes up after 23 hours wondering why we didn't save the [halflings](../creatures/halflings). He vaguely remembers that after he grabbed an hourglass, he gained a new power but also everything went wrong for him, and we all barely escaped with our lives. He has a feeling that his new power requires a karmic balancing every time he uses it.
 
-Cassandra enters the kitchen and takes some of Vondal's special breakfast cookies. She says Mallory will want to talk with them when he comes in, usually about 9 AM.
+[Cassandra](../dossiers/cassandra) enters the kitchen and takes some of Vondal's special breakfast cookies. She says [Mallory](../dossiers/mallory) will want to talk with them when he comes in, usually about 9 AM.
 
 Vondal says, "Guys, I think there's something in the basement."
 
-> Freki isn't here, but Michael chimes in, "Of course there is. Why else would you have a basement?"
+> Freki isn't here, but Michael chimes in: "Of course there is. Why else would you have a basement?"
 
 Cal doesn't quite remember what's in the basement, but that sounds kind of familiar.
 
 Oz, Cassandra and Cal head down to the basement and grab Freki along the way. He'd rather be out in the wilderness, but they've got more pressing business right now. Cassandra thinks Oz looks sparkly like the rest of the team now. Freki is somewhat perturbed by the idea that he might also be "sparkly," but at least it's only when Cassandra looks for it, and not a permanent state.
 
-They all try to get the trapdoor open, but they can't get it open. Cassandra explains that Bec was able to open the door with the Hand of Vecna, where they found Rubinia Elka. Cassandra is the one who found this place to use as SPI HQ. She's absolutely sure it's safe for us, though she doesn't know how Rubinia got in there.
+They all try to get the trapdoor open, but they can't get it open. Cassandra explains that [Bec](../dossiers/bec) was able to open the door with the [Hand of Vecna](../relics/celestial-hand), where they found [Rubinia Elka](../dossiers/rubinia-elka). Cassandra is the one who found this place to use as [SPI HQ](../locales/spi-hq). She's absolutely sure it's safe for us, though she doesn't know how Rubinia got in there.
 
-Vondal goes to wake up Bec, who it appears has the only key to the trapdoor. Cassandra tries to stop him, but he starts pounding on the door of the women's dorm and yelling to wake us up. The other guys do not join in. Cassandra catches up to Vondal and closes the door, suggesting that they all tell her what they remember. The guys gather around the desk to tell her about Arallu.
+Vondal goes to wake up Bec, who it appears has the only key to the trapdoor. Cassandra tries to stop him, but he starts pounding on the door of the women's dorm and yelling to wake us up. The other guys do not join in. Cassandra catches up to Vondal and closes the door, suggesting that they all tell her what they remember. The guys gather around the desk to tell her about what happened in [Arallu](../locales/arallu) ([14](../events/case-14), [15](../events/case-15)).
 
-When Mallory gets in (by teleportation), he hears the guys talking and comes in to ask his own questions. Oz opines that Xaryuvia fucking sucks, which, fair point. Meanwhile topside, Xaryuvia has sent a petition to join Aecus, probably so that the SPI would have to stay out of their internal business. Cassandra says Rubinia may have Flux poisoning. Mallory says they need to "extract" some more agents from Vondal. That's where Rainy came from. They are "entangled" with him. Yeesh, talk about your fate worse than death. I'm glad I wasn't around to hear this. In fact, I'm not thrilled I know it now. Anyway, Mallory makes the case that the SPI is severely understaffed and unable to respond to all the emergencies that are popping up everywhere, so if we find anybody who could serve as an agent, we need to recruit, recruit, recruit.
+When Mallory gets in (by teleportation), he hears the guys talking and comes in to ask his own questions. Oz opines that [Xaryuvia](../locales/xaryuvia) fucking sucks, which, fair point. Meanwhile topside, Xaryuvia has sent a petition to join the [Aecus Concord](../orgs/ac), probably so that the [SPI](../locales/spi) would have to stay out of their internal business. Cassandra says Rubinia may have [Flux](../locales/flux) poisoning. Mallory says they need to "extract" some more agents from Vondal. That's where [Rainy](../dossiers/rain) came from. They are "entangled" with him. Yeesh, talk about your fate worse than death. I'm glad I wasn't around to hear this. In fact, I'm not thrilled I know it now. Anyway, Mallory makes the case that the SPI is severely understaffed and unable to respond to all the emergencies that are popping up everywhere, so if we find anybody who could serve as an agent, we need to recruit, recruit, recruit.
 
-Oz suggests Bilbo, who we left tied up and invisible. Mallory says we can get bonuses for recruits who last at least a month and don't die.
+Oz suggests [Bilbo](../dossiers/bilbo), who we left tied up and invisible. Mallory says we can get bonuses for recruits who last at least a month and don't die.
 
 I wake up after about 30 hours, although it's morning so I don't realize it's been so long at first. My little shrine is still here, so I go to say a prayer. I'm doing that when Bec wakes up. I see Rubinia and I remember her being there, but I can't recall if we saw anybody else or if she just said they were down there. Mallory showed up, surprising Rubinia because Mallory is also in the basement. Then Mallory told us to go to bed and he would send another team. I'm hungry, so very hungry, so I pick up some breakfast coookies on the way.
 
@@ -59,25 +59,25 @@ Freki examines the area to sniff out danger. Bec moved aside the trapdoor lid an
 
 Meanwhile, Oz is exploring. There's hardly any screams of the eternally damned, you cowards. He sort of sees something horrible and hides.
 
-Upstairs, Cassandra goes down below the threshold and casts some kind of spell. Cal and Freki feel it affect them. Then Cassandra continues. Cal goes first, then Cassandra, then Vondal, then Bec, then Callie. Freki's going to go last.
+Upstairs, Cassandra goes down below the threshold and casts some kind of spell. Cal and Freki feel it affect them. Then Cassandra continues. Cal goes first, then Cassandra, then Vondal, then Bec, then [Callie](../dossiers/callie). Freki's going to go last.
 
 Cal touches the light cloud and it feels...unpleasant. He tries to focus on what he can perceive. Unfortunately, he doesn't perceive the creature until it perceives him. Cal slips into a hiding spot that's good, but that Oz discarded as not good enough. However, Cal is perceptive enough to hear Oz scoff at his choice of hiding place.
 
 As everyone passes through the light cloud, we all weather an assault to our minds. It's disorienting; Bec doesn't do great with it. I feel like I'm dragging my body along with my mind. Vondal tries to resummon Murky on this side, and it works, but Murky is too disoriented to go out on any missions.
 
-Freki lights a flaming arrow and heads down. He feels the disorienting feeling and senses that he's passed beyond the veil of death. Hugin and Munin appear to him.
+Freki lights a flaming arrow and heads down. He feels the disorienting feeling and senses that he's passed beyond the veil of death. [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin) appear to him.
 
-Both: "Everyone lives two lives."
-Hugin: "The life..."
+Both: "Everyone lives two lives."  
+Hugin: "The life..."  
 Munin: "...and the echo."
 
-Freki wonders if we -- not himself, but his teammates -- are dead, but on a second thought, he thinks we're around. He sees me, Bec, and Vondal. The halflings are hidden somewhere. Where do they go, anyway? Meanwhile, Cassandra looks at some random spot and sighs in exasperation. Cal comes out from where he was apparently hiding. Wow!
+Freki wonders if we&mdash;not himself, but his teammates&mdash;are dead, but on a second thought, he thinks we're around. He sees me, Bec, and Vondal. The halflings are hidden somewhere. Where do they go, anyway? Meanwhile, Cassandra looks at some random spot and sighs in exasperation. Cal comes out from where he was apparently hiding. Wow!
 
-Cassandra says, "This is a strange place. If I didn't know better, I'd say we were in the Afterworld."
+Cassandra says, "This is a strange place. If I didn't know better, I'd say we were in the [Afterworld](../locales/afterworld)."
 
 Freki says, "We are!" He explains that he knows because of his birds.
 
-Bec says that the birds are servants of the Raven Queen.
+Bec says that the birds are servants of the [Raven Queen](../dossiers/nerull).
 
 Oz don't know nothing about no Afterworld, so he starts pointing out the weird shit he's seen down here. There's lots!
 
@@ -87,8 +87,8 @@ Bec has the overwhelming feeling that living people should not be here. I hear y
 
 This is all too much for me. "WHY IS THE AFTERWORLD UNDER OUR HEADQUARTERS? WHY????" I yell to no one in particular.
 
-Vondal shrugs and says this is the eye of the storm. Besides, he died and got better. He mentions that he just found out that there were some elves who tore reality. WHY IS THIS THE FIRST I'M HEARING OF IT? It's not like Vondal is usually tacitern or withholding! He says it was an attempt to heal the world from some sort of conflict, perhaps the war that was going on 50 years ago. The war ended when all the soldiers disappeared, so I guess that *would* solve the problem from a certain perspective. One of the elves betrayed the other two. One of the betrayed was Priscilla Stormcloud. He doesn't know who the other two were. And? AND? This happened at the TOP. OF A TOWER. My mind is reeling.
+Vondal shrugs and says this is the eye of the storm. Besides, he died and got better. He mentions that he just found out that there were some [elves](../creatures/elves) who tore reality. WHY IS THIS THE FIRST I'M HEARING OF IT? It's not like Vondal is usually taciturn or withholding! He says it was an attempt to heal the world from some sort of conflict, perhaps [the war that was going on 50 years ago](../events/necromachy). The war [ended when all the soldiers disappeared](../events/the-vanishing), so I guess that *would* solve the problem from a certain perspective. One of the elves betrayed the other two. One of the betrayed was [Priscilla Stormcloud](../dossiers/priscilla-stormcloud). He doesn't know who the other two were. And? AND? This happened at the TOP. OF A TOWER. My mind is reeling.
 
-It's an awkward time, but Cassandra has some sort of missive from Elyria for Bec. Bec opens it immediately, as naturally she would. It's a letter from her father, who has enclosed some useful spells, Catnap, Spirit Sense, and Anchor to Life. That's so sweet, I wish my dad would send me care packages.
+It's an awkward time, but Cassandra has some sort of missive from [Elyria](../locales/elyria) for Bec. Bec opens it immediately, as naturally she would. It's a letter from [her father](../dossiers/letharil-galere), who has enclosed some useful spells: [Catnap](../rules/spells#catnap), [Spirit Sense](../rules/spells#spirit-sense), and [Anchor to Life](../rules/spells#anchor-to-life). That's so sweet, I wish [my dad](../dossiers/rollomorphus-rockwell) would send me care packages.
 
-A tiefling approaches. He's about to speak, when Cassandra says, "Audreth?"
+A [tiefling](../creatures/tieflings) approaches. He's about to speak, when Cassandra says, "[Audreth](../dossiers/audreth)?"

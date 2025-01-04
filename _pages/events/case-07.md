@@ -29,8 +29,8 @@ when: AC50 Cudo 11-13
 
 **[Sartus Morningdew](../dossiers/sartus-morningdew)** (male, elf, adult)
 
-* A wizard of the Holy Sorcerers, the order to which Bec Galere's father Letharil belongs.
-* Attending the auction on behalf of Titania, Queen of the Fey.
+* A wizard of the Holy Sorcerers, the order to which Bec Galere's father [Letharil](../dossiers/letharil-galere) belongs.
+* Attending the auction on behalf of [Ambrielle Estanesse, Queen of the Fey](../dossiers/ambrielle-estanesse).
 
 **[Tybalt Nightbreeze](../dossiers/tybalt)** (male, half-elf, young adult)
 
