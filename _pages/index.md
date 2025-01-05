@@ -30,6 +30,9 @@ which are available online:
   community wiki, with even more rules, including from splat books, such as the
   class archetypes from *Xanathar's Guide to Everything*.
 
+* House rules:
+  - No restriction on non-cantrip spells in a single turn.
+
 **Characters.** Main points of character creation:
 * Try to hail from a unique territory and/or race. This helps diversity and world-building.
 * Have a reason in mind for why you are part of (or being recruited for) the SPI.
