@@ -48,7 +48,7 @@ You have an animal within, which manifests under certain conditions such as duri
 **Shapeshift.** You can use your action to transform into a beast, a [bipedal](../glossary#bipedal) beast hybrid, or back into your natural form. Your statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
 
 In these alternate forms, your statistics are adjusted as follows:
-  * Beast: +4 Str, +2 Dex, +4 Con, -4 Int, -4 Wis, +20 speed.
+  * Beast: +4 Str, +2 Dex, +4 Con, -4 Int, -4 Wis, +20 speed, gain proficiency in Con saves, lose proficiency in Wis saves.
   * Hybrid: +2 Str, +2 Con, -2 Int, -2 Wis, +10 speed.
 
 In beast form, you are resistant to bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered.
