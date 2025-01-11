@@ -67,27 +67,27 @@ Bec points out that attempting to walk up the stairs has gotten us nowhere, and 
 
 While everyone is in general disarray, Cal notices that my trident is rainbowy now. He doesn't know what it looks like. I try to remember, but I can't. Bec hears a whisper saying that none of us can remember what it looks like, because "she won't let you."
 
-While Oz, Cal, and Freki are stealthy, Bec and I try to brain our way up the stairs. We pull everyone along the story, seeing things that didn't happen, but also have happened at the same time. At the fourth floor, we meet Yrollam. He says "The living are not welcome here. You should leave, agents."
+While Oz, Cal, and Freki are stealthy, Bec and I try to brain our way up the stairs. We pull everyone along the story, seeing things that didn't happen, but also have happened at the same time. At the fourth floor, we meet Eeoram. He says "The living are not welcome here. You should leave, agents."
 
-Oz whispers to us to ask whether we should kill Yrollam, breaking stealth. Cal and Freki are still hidden. Bec says we need to rescue Lorelai, because she's trapped here. Yrollam says she's right where she needs to be, but we are not. Meanwhile, Cal slips past Yrollam and up the stairs. Lorelai is upstairs in the throne room staring vacantly.
+Oz whispers to us to ask whether we should kill Eeoram, breaking stealth. Cal and Freki are still hidden. Bec says we need to rescue Lorelei, because she's trapped here. Eeoram says she's right where she needs to be, but we are not. Meanwhile, Cal slips past Eeoram and up the stairs. Lorelei is upstairs in the throne room staring vacantly.
 
 "Why are you here?" Bec asks. "Aren't you living?"
 
-"I don't have time to argue! Get out of here!" says Yrollam. It's not very convincing. Freki wonders if he's dead, undead, alive, or what?
+"I don't have time to argue! Get out of here!" says Eeoram. It's not very convincing. Freki wonders if he's dead, undead, alive, or what?
 
 > Cal! Don't you have gaydar for deadness?
 
 &mdash;Michael
 
-In the throne room, Cal senses undead spirits (ghosts?) waiting in line to petition Lorelai on the throne. But why would spirits be undead? They also seem to be moving extremely slowly, almost frozen.
+In the throne room, Cal senses undead spirits (ghosts?) waiting in line to petition Lorelei on the throne. But why would spirits be undead? They also seem to be moving extremely slowly, almost frozen.
 
 ¿Vondal? says, "I hate to do this boss, but we have to get through here." He starts casting a spell, which Bec recognizes as *banishment*.
 
 "Wait just a mi&mdash;" Mallory vanishes.
 
-When everyone gets to the top of the stairs where Cal is, the scene starts moving normally. One of the spirits is on his knees, begging. The woman on the throne has turned her back on the petitioners, full of contempt for them and their plight. But then there's a cracking and the woman turns back into the Raven Queen, Lorelai. She says she's merciful when she wants to be, so she grants the petitioner's request.
+When everyone gets to the top of the stairs where Cal is, the scene starts moving normally. One of the spirits is on his knees, begging. The woman on the throne has turned her back on the petitioners, full of contempt for them and their plight. But then there's a cracking and the woman turns back into the Raven Queen, Lorelei. She says she's merciful when she wants to be, so she grants the petitioner's request.
 
-Lorelai looks over us all, then at Cassandra. "Mother?" she says, but then shakes her head. "Why are you here?" she asks us all.
+Lorelei looks over us all, then at Cassandra. "Mother?" she says, but then shakes her head. "Why are you here?" she asks us all.
 
 Bec explains that we're here to rescue her and asks if she recognizes Audreth. She says Audreth is her servant and she is the Raven Queen, who is going to restore this place to its former glory. Oz tries his panache on her and tries to convince her to get out. Audreth agrees that this place sucks.
 

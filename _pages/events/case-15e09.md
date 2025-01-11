@@ -112,6 +112,6 @@ Bec tries to use Mage Hand to open the door. The Celestial Hand wants to help. B
 
 At the bottom is a woman. She climbs up the ladder. It's a red-haired dwarf. Her name is Rubinia Elka. She's a necromancer, or, well, "not" a necromancer. She is wearing an amulet that looks familiar, because it's in our evidence locker. The last time we spoke to her, we talked about the Dwarven clan of Aldrimor.
 
-"Oh, thank the gods!" she says. "The others are still down there. Lorelai, Audreth, and Mallory."
+"Oh, thank the gods!" she says. "The others are still down there. Lorelei, Audreth, and Mallory."
 
 She looks at all of us and stops at Mallory, astonished. What. Is. Happening.

@@ -69,7 +69,7 @@ Audreth fades back into reality, cool! Audreth tells us that he asked for help f
 
 Audreth seems convinced that the awake Vondal wasn't really (any flavor of) Vondal.
 
-Audreth says the reason they set out on their journey to begin with was that Lorelai saw it in a dream. Mallory said HQ had been breached and wanted a Flux expert to look at. Lorelai's dream said they would enter the Flux in a rift under the mountain and we'd have success. They started at the previous SPI headquarters to get into the Flux. Rubinia used Earth Gliding to allow them to move around underground. On the fifth day of the journey, they thought they were close. The Flux was thick. "How long has it been since we set out, anyway?"
+Audreth says the reason they set out on their journey to begin with was that Lorelei saw it in a dream. Mallory said HQ had been breached and wanted a Flux expert to look at. Lorelei's dream said they would enter the Flux in a rift under the mountain and we'd have success. They started at the previous SPI headquarters to get into the Flux. Rubinia used Earth Gliding to allow them to move around underground. On the fifth day of the journey, they thought they were close. The Flux was thick. "How long has it been since we set out, anyway?"
 
 > Nate joined the game in December 2017.  
 > In game time, we've known Oz for two months.
