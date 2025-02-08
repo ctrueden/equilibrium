@@ -20,7 +20,7 @@ See [below](#setting) for further details on the setting.
 
 **Rules.** We use the Dungeons & Dragons Fifth Edition (D&D5E) rules,
 which are available online:
-* [5e.tools](https://5e.tools) &ndash;
+* [2014.5e.tools](https://2014.5e.tools) &ndash;
   A wealth of D&D5E rules in one place.
 * [dndbeyond.com](https://www.dndbeyond.com/) &ndash;
   The official Wizards site for D&D5E rules.
