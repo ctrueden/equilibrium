@@ -1,11 +1,11 @@
 ---
-title: "[16e07] Demogor-GONE"
+title: "[16e07] Demogorging on Your Flesh"
 description: >-
   The agents battle Demogorgon, Megaera, and shadow spirits made flesh.
 datestamp: 50-06-06/07
 when: AC50 Vis 06
 session-number: 84
-session-date: 2024-01-11
+session-date: 2025-01-11
 session-event: https://www.facebook.com/events/1668398757430235/
 ---
 
