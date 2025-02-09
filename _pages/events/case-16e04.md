@@ -65,7 +65,7 @@ Oz flails his huge clumsy body around like an apprentice puppeteer. We all hear,
 
 Bec points out that attempting to walk up the stairs has gotten us nowhere, and maybe we should try to use the properties of this place to get to the top of the tower.
 
-While everyone is in general disarray, Cal notices that my trident is rainbowy now. He doesn't know what it looks like. I try to remember, but I can't. Bec hears a whisper saying that none of us can remember what it looks like, because "she won't let you."
+While everyone is in general disarray, I notice that my trident is rainbowy now. She doesn't know what it looks like. I try to remember, but I can't. Bec hears a whisper saying that none of us can remember what it looks like, because "she won't let you."
 
 While Oz, Cal, and Freki are stealthy, Bec and I try to brain our way up the stairs. We pull everyone along the story, seeing things that didn't happen, but also have happened at the same time. At the fourth floor, we meet Eeoram. He says "The living are not welcome here. You should leave, agents."
 
