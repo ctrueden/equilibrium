@@ -100,19 +100,22 @@ As my consciousness fades, I wish that whatever happens, we all stay together...
 
 We all wake up and we can feel a cloak of protection around us. Our SPI badges are pulsing. We're all SPI, and everyone in the SPI is protected. But as we look around, we've also all changed.
 
-Thorns -- Bec -- Her eyebrows are green and bushy, and her skin is slightly green. Spines protrude from her body and through her clothes. Her eyes are bright green and now she can't see colors the same way, but she can see in the dark. Disadvantage on stealth checks.
+* Thorns -- Bec -- Her eyebrows are green and bushy, and her skin is slightly green. Spines protrude from her body and through her clothes. *[GM's note: Your unarmed attacks do piercing damage, and those striking you with natural weapons take 1d6 points of piercing damage per successful hit.]* Her eyes are bright green and now she now sees everything in shades of blue, but she can see in the dark. Disadvantage on stealth checks.
 
-Ferocity -- Cal -- He now has tusks, which is awkward, but also feels full of stamina, like he could keep fighting even after being disabled. His skin itches and there are mushrooms growing there. His brain feels fuzzy and his Wisdom is now halved.
+* Ferocity -- Cal -- He now has tusks, which is awkward, but also feels full of stamina, like he could keep fighting even after being disabled. His skin itches and there are stinky mushrooms growing there. His brain feels fuzzy and his Wisdom is now halved.
 
-Swiftness -- Oz -- He has grown a huge rack of antlers. His land speed is doubled. Every time his feet touch the ground, sparks fly up, so that's disadvantage on stealth checks.
+* Swiftness -- Oz -- He has grown a huge rack of antlers. His land speed is doubled. Every time his feet touch the ground, sparks fly up, so that's disadvantage on stealth checks.
 
-Grace -- Callie -- Something hurts. I'm lying on my new pixie wings. I can now hover up to five feet off the ground, and glitter follows me everywhere I go. I'm graceful! I get +2 bonus to reflex saves. But the glitter cauases disadvantage to all Dex saves for stealth.
+* Grace -- Callie -- Something hurts. I'm lying on my new pixie wings. I can now hover up to five feet off the ground, and glitter sheds from me everywhere I go. I'm graceful! I get +2 bonus to reflex saves. But the glitter cauases disadvantage to all Dex saves for stealth.
 
-Senses -- Vondal -- His ears are now huge and bat-like. He can echolocate! All his senses have sharpened. He now has double proficiency on perception and blind sense out to 30 feet. Also bats are attracted to him and keep landing on him. He has disadvantage on stealth because the damn bats are always around.
+* Senses -- Vondal -- His ears are now huge and bat-like. He can echolocate! All his senses have sharpened. He now has double proficiency on perception and blind sense out to 30 feet. Also bats are attracted to him and keep landing on him. He has disadvantage on stealth because the damn bats are always around.
 
-Jaws of death -- Freki -- His mouth feels weird and he has way more, larger, and sharper teeth. Also, the teeth can be venomous if he so chooses. The ground beneath him is scorched and dead, nothing but dust beneath him.
+* Jaws of Death -- Freki -- His mouth feels weird and he has way more, larger, and sharper teeth. Also, the teeth can be venomous if he so chooses. The ground beneath him is scorched and dead, nothing but dust beneath him.
+  *[GM's note: Your canine teeth exude poison. If you hit with a bite attack, your target must make a Constitution save (DC 10 + 1/2 your character level + your Constitution modifier) against poison. Initial damage is 1d2 points of temporary Dexterity damage; secondary damage is 1d4 points of temporary Dexterity damage. Plants die everywhere you walk, becoming brittle and turning to dust.]*
 
-Lorelei, who is not part of the SPI, has been lying in the Flux and is changing. Cassandra runs over to her and hugs her, stopping her from changing. Vondal also comes over to Lorelei and asks Cassandra if these changes are permanent.
+[![](https://i.pinimg.com/736x/a9/ba/86/a9ba86eedc4766f47bfc750ce4b08fb1.jpg){:style="max-width: 100%; width: 200px"}](https://www.pinterest.com/pin/424042121159093690/)
+
+Lorelei, who is not part of the SPI, has been lying in the Flux and is changing: her fingers are claws now. Cassandra runs over to her and hugs her, stopping her from changing further. Vondal also comes over to Lorelei and asks Cassandra if these changes are permanent.
 
 Hugin and Munin are on Freki's shoulders. Hugin has ram's horns. Munin has an udder. Hugin says, "We have all been changed. We flouted the lady's offer." HOLY CRAP, THE BIRDS CAN TALK!
 
