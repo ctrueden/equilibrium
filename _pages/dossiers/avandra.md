@@ -32,6 +32,7 @@ statbox:
   - Sehanine
   enemies:
   - Asmodeus
+  case: ["15"]
 links:
 - 4E|https://dnd4.fandom.com/wiki/Avandra
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Olidammara

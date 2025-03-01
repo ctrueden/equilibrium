@@ -39,6 +39,7 @@ statbox:
   - Pelor
   - Tiamat
   - Vecna
+  case: ["14"]
 links:
 - 4E|https://dnd4.fandom.com/wiki/Sehanine
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Sehanine_Moonbow

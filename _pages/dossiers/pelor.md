@@ -30,6 +30,7 @@ statbox:
   - Sune
   - Vecna
   quote: "THE FUTURE IS YOURS TO SHAPE."
+  case: ["10"]
 links:
 - 4E|https://dnd4.fandom.com/wiki/Pelor
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Pelor

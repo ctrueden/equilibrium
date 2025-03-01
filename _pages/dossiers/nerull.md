@@ -38,6 +38,7 @@ statbox:
   enemies:
   - Asmodeus
   - Vecna
+  case: ["16"]
 links:
 - 4E|https://dnd4.fandom.com/wiki/Nerull
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Nerull
