@@ -19,6 +19,7 @@ links:
   - 5E Dawn War|https://2014.5e.tools/deities.html#tharizdun_dawn%20war_dmg
   - 5E Greyhawk|https://2014.5e.tools/deities.html#tharizdun_greyhawk_phb
   - Wikipedia|https://en.wikipedia.org/wiki/Tharizdun
+case: ["16"]
 ---
 
 [![](https://i.pinimg.com/originals/d9/7d/33/d97d334546eaf0603f1917710d8b76dd.jpg){:style="width:100%"}](https://www.pinterest.com/pin/66780006969423814/)
