@@ -28,7 +28,6 @@ statbox:
   aliases:
   - The Raven Queen
   - Wee Jas
-  - Tharizdun
   - Aurom
   allies:
   - Corellon
