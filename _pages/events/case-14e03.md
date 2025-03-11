@@ -102,7 +102,7 @@ I'm confused about why [Avandra](../dossiers/avandra) and [Erathis](../dossiers/
 Cal is inspired and getting this thing solved! Freki is also coming in strong on this puzzle! It occurs to Freki that every square is covered and only one god occupies each one. Maybe this is an illustration of the lines of power in the world? 
 
 |               | Water     | Storm         | Air           | Sand          | Fire       | Magma     | Earth      | Ice       |
-|           | Knowledge | Tempest       | Trickery      | Life       | Light      | War       | Nature     | Death     |
+|               | Knowledge | Tempest       | Trickery      | Life          | Light      | War       | Nature     | Death     |
 |---------------|-----------|---------------|---------------|---------------|------------|-----------|------------|-----------|
 | **Knowledge** |         ? |
 | **Tempest**   | [Vondal]  |             ? |
