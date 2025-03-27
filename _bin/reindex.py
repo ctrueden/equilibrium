@@ -10,7 +10,7 @@ baselen = len(str(basedir)) + 1
 print("Reading .md files...")
 
 index = []
-for md_path in basedir.rglob("*.md"):
+for md_path in sorted(basedir.rglob("*.md")):
     short_path = str(md_path)[baselen:-3]
     if short_path.startswith("gm"): continue  # no spoilers! :-P
     if short_path.endswith("/index"): short_path = short_path[:-6]
