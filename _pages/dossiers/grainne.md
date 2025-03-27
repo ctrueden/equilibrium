@@ -5,7 +5,7 @@ image-source: https://www.pinterest.com/pin/432908582942543107/
 scary-image-source: https://www.pinterest.com/pin/211174972373549/
 scary-image2-source: https://www.pinterest.com/pin/480266747770667479/
 statbox:
-  race: [hag (night), changeling]
+  race: [human, hag (fully transformed), changeling]
   gender: female
   locale: [marshes, forest-of-shadows]
   pronunciation: "GROH-nee-ah"

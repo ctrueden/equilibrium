@@ -46,13 +46,13 @@ Vanesse and Bernd Jaglia, young patrons of the arts.
 * Was not seen in the big top at crime time.
 * Bec sensed a lingering illusion aura on him.
 
-**[Meroe](../dossiers/meroe)** (female, half night hag). Alchemist wizard and stage magician.
+**[Meroe](../dossiers/meroe)** (female, human, untransformed [hag](../creatures/hags)). Alchemist wizard and stage magician.
 * Does pyrotechnics during the show.
 * Created Squatch.
 * In charge while Zombozo is incarcerated.
 * Was observed in the big top doing fireworks around crime time.
 
-**[Panthea](../dossiers/panthea)** (female, half night hag). Circus acrobat.
+**[Panthea](../dossiers/panthea)** (female, human, partially transformed [hag](../creatures/hags)). Circus acrobat.
 * Hair moves in bundles on its own.
 * Twin sister of Meroe.
 * Performing with the pixies at crime time.
