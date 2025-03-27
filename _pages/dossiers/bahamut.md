@@ -29,6 +29,7 @@ links:
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Bahamut
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Bahamut
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Bahamut
+- Eberron|https://eberron.fandom.com/wiki/Bahamut
 - Evenfall|https://evenfall.fandom.com/wiki/Bahamut
 - Critical Role|https://criticalrole.fandom.com/wiki/Bahaamut
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=1

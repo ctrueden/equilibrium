@@ -21,7 +21,7 @@ The eternals, commonly worshipped as deities[*](https://dungeonsdragons.fandom.c
   {%- assign eternals = eternals | push: p -%}
 {%- endfor -%}
 
-{%- assign link-sites = "4E|D&D wiki|Greyhawk|Forgotten Realms|FRC|FRC 2|Evenfall|Critical Role|Thieves Guild|Thieves Guild 2|Thieves Guild 3|Thieves Guild 4|Thieves Guild 5|Wikipedia|5E Exandria|5E Exandria 2|5E Racial|5E Dawn War|5E Greyhawk|5E Faerun|5E Greek|5E Greek 2|5E Greek 3" | split: "|" -%}
+{%- assign link-sites = "4E|D&D wiki|Greyhawk|Forgotten Realms|FRC|FRC 2|Eberron|Evenfall|Critical Role|Thieves Guild|Thieves Guild 2|Thieves Guild 3|Thieves Guild 4|Thieves Guild 5|Wikipedia|5E Exandria|5E Exandria 2|5E Racial|5E Dawn War|5E Greyhawk|5E Faerun|5E Greek|5E Greek 2|5E Greek 3" | split: "|" -%}
 
 <style>
 th.rotate {

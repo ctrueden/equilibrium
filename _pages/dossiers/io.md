@@ -27,6 +27,7 @@ links:
 - D&D wiki|https://dungeonsdragons.fandom.com/wiki/Io
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Io
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Asgorath
+- Eberron|https://eberron.fandom.com/wiki/Io
 ---
 
 The greater deity and primordial of all dragonkind as well as balance and

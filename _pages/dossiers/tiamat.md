@@ -24,6 +24,7 @@ links:
 - Greyhawk|https://greyhawkonline.com/greyhawkwiki/Tiamat
 - Forgotten Realms|https://forgottenrealms.fandom.com/wiki/Tiamat
 - FRC|https://frc.fandom.com/wiki/Tiamat
+- Eberron|https://eberron.fandom.com/wiki/Tiamat
 - Critical Role|https://criticalrole.fandom.com/wiki/Tiamat
 - Thieves Guild|https://www.thievesguild.cc/gods/god?godid=20
 - Wikipedia|https://en.wikipedia.org/wiki/Tiamat_%28Dungeons_%26_Dragons%29
