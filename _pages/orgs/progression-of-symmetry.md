@@ -8,7 +8,7 @@ The Progression of Symmetry is a monastic order practicing the Way of the Four E
 
 * There is power in the balance of elements.
 * There is power in the balance of mori (dark/moon/yin) and kalina (light/sun/yang).
-* Sehanine is goddess of the moon; Pelor is god of the sun.
+* [Sehanine](../dossiers/sehanine) is goddess of the moon; [Pelor](../dossiers/pelor) is god of the sun.
 * The monks are sometimes called on to mediate disputes between clans.
 
 The order has four masters, one for each element. The current masters are:
