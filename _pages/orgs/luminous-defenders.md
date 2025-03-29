@@ -6,8 +6,8 @@ This military order of paladins maintains order and peace in the [Radiant Union 
 
 Their hierarchy includes:
 
-* Sunblades - elite paladins who serve as personal guards to high officials
-* Dawnguards - paladins who maintain order in cities
+* Defenders - paladins who maintain order in cities
+* Dawnguards - elite paladins who serve as personal guards to high officials
 * Lightweavers - battle clerics who support military operations
 * Duskwatchers - scouts and rangers who patrol borders
 
