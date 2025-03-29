@@ -146,7 +146,7 @@ Freki raises his hand and says, "I think I'm missing part of my soul."
 
 "Can you sleep it off?" Mallory suggests.
 
-"We dunno, we haven't slept in three weeks!" Freki bursts out. It hasn't been that long, but... wait... actually, I'm not even sure whether it's been three weeks or just feels that way. Freki has a strange vibrating feeling that turns out to be Death Hand, a sort of delayed death ability that the caster can choose to set off at any time.
+"We dunno, we haven't slept in three weeks!" Freki bursts out. It hasn't been that long, but... wait... actually, I'm not even sure whether it's been three weeks or just feels that way. Freki has a strange vibrating feeling that turns out to be Death Hand, a sort of delayed death ability that the caster can choose to set off at any time. [GM's note: It's actually an ancient *ki* ability known as [Quivering Palm](https://2014.5e.tools/classes.html#monk_phb,state:feature=s16-0~sub-open-hand-phb=b1).]
 
 Cassandra tries some healing and restoration. Oz gets his hit points back, but he still has the antlers and sparks on his feet. Oz wants to get me some new armor from the armory. I'm tired, but I drag myself along with my new pixie wings, trailing sad, exhausted glitter behind me.
 
