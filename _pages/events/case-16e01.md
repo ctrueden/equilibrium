@@ -9,10 +9,6 @@ session-date: 2024-10-12
 session-event: https://www.facebook.com/events/505755019051128/
 ---
 
-
-
--------------
-
 ## Callie's Notes
 
 When we all start waking up, we all have a major magic hangover and only remember scraps of what happened immediately before going to sleep. When [Cal](../dossiers/cal) wakes up after 19 hours, he heads downstairs and finds [Vondal](../dossiers/vondal) making a batch of cookies. It's the middle of the night, but anytime's a good cookie time, I guess. [Freki](../dossiers/freki) wakes up after 23 hours and searches out a meditation space. The quietest room seems to be the training room, with its dirt floor. 
