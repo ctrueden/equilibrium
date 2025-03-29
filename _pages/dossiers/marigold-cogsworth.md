@@ -7,7 +7,6 @@ statbox:
   gender: female
   locale: cognitutus
   case: "13"
-  pronunciation: "dol-JEE-rah"
 ---
 
 Servant of the Noffindorfs.
