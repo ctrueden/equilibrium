@@ -1922,7 +1922,8 @@ Case <a href="../events/case-15">15</a> (pts <a href="../events/case-15e01">1</a
 <div class="edge elyria">Nightal 22</div>
 <div class="edge selva">Long 22</div>
 &nbsp;<br>
-Case <a href="../events/case-16">16</a> (pts <a href="../events/case-16e01">1</a>, <a href="../events/case-16e02">2</a>, <a href="../events/case-16e03">3</a>, <a href="../events/case-16e04">4</a>, <a href="../events/case-16e05">5</a>)<br>
+Case <a href="../events/case-16">16</a> (pts <a href="../events/case-16e01">1</a>, <a href="../events/case-16e02">2</a>,<br>
+<a href="../events/case-16e03">3</a>, <a href="../events/case-16e04">4</a>, <a href="../events/case-16e05">5</a>, <a href="../events/case-16e06">6</a>, <a href="../events/case-16e07">7</a>, <a href="../events/case-16e08">8</a>, <a href="../events/case-16e09">9</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1953,6 +1954,7 @@ Case <a href="../events/case-16">16</a> (pts <a href="../events/case-16e01">1</a
 <div class="edge elyria">Nightal 25</div>
 <div class="edge selva">Fated 2</div>
 &nbsp;<br>
+Case <a href="../events/case-17">17</a> (pt <a href="../events/case-17e00">0</a>)<br>
 &nbsp;
 </td>
 <td>
@@ -1985,6 +1987,7 @@ Case <a href="../events/case-16">16</a> (pts <a href="../events/case-16e01">1</a
 <div class="edge elyria">Nightal 28</div>
 <div class="edge selva">Fated 5</div>
 &nbsp;<br>
+Case <a href="../events/case-17">17</a> (pt <a href="../events/case-17e01">1</a>)<br>
 &nbsp;
 </td>
 <td>
