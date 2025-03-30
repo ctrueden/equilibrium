@@ -236,8 +236,10 @@ To help us decide what to do next, I *commune* with my goddesses, asking three q
 
 1. Between Grainne and Saint Benedor, is Grainne the better choice to aid us in curing our conditions?
    - Avandra: Yes. Erathis: No.
-2. TBD!
-3. TBD!
+2. Was the monk guy we encountered a real Vondal?
+   - Erathis: No. Avandra: It was a trick!
+3. Does Bram really know where our agents are?
+   - Erathis: Technically. Avandra: Barely.
 
 Then we voted on what to do next, deciding to go see the changelings first, then the swamp witch.
 
