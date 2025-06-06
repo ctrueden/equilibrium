@@ -204,9 +204,13 @@ reestablished.
 {%- for p in candidates -%}
 {% unless p.description %} {% continue %} {% endunless %}
 <tr>
-{% if p.session-event %}
+{% if p.session-number %}
 {% comment %} Session file {% endcomment %}
-<td><a href="{{p.session-event}}">{{p.session-number}}</a></td>
+<td>
+{% if p.session-event %}<a href="{{p.session-event}}">{% endif %}
+{{p.session-number}}
+{% if p.session-event %}</a>{% endif %}
+</td>
 <td>{{p.session-date}}</td>
 <td>{{p.when}}</td>
 <td><a href="{{site.baseurl}}{{p.url}}">{{p.title}}</a></td>
