@@ -1,7 +1,7 @@
 ---
 title: "[17e01] Alye'bonjour!"
 description: >-
-  The agents visit Alye'adu to gather information about Grainne, a legendary swamp hag.
+  The agents visit Alye'adu to gather information about Grohnea, a legendary swamp hag.
 datestamp: 50-06-12/01
 when: AC50 Vis 12
 session-number: 88
@@ -25,7 +25,7 @@ From AC50 Vis 9 - AC50 Vis 12.
 
 ## Callie's Journal
 
-[Cal](../dossiers/cal) considered the contents of his bag of holding, which we previously loaded up with all kinds of magic artifacts from [Invictus's](../dossiers/invictus) manor. [Cassandra](../dossiers/cassandra) tells him that some of the items from Invictus's ritual room are fundamentally, cosmically evil, and says that therefore the SPI cannot use them, but that someone like the swamp hag might be interested in them. ([I](../dossiers/callie) feel like I should get used to calling her by her name, just in case she's sensitive about the whole "swamp hag" thing. [Grainne](../dossiers/grainne). G r a i n n e. GROH - nee - ah.) Does he want to take them along as barter, or would he rather they be destroyed? After considering carefully, Cal chooses to destroy them.
+[Cal](../dossiers/cal) considered the contents of his bag of holding, which we previously loaded up with all kinds of magic artifacts from [Invictus's](../dossiers/invictus) manor. [Cassandra](../dossiers/cassandra) tells him that some of the items from Invictus's ritual room are fundamentally, cosmically evil, and says that therefore the SPI cannot use them, but that someone like the swamp hag might be interested in them. ([I](../dossiers/callie) feel like I should get used to calling her by her name, just in case she's sensitive about the whole "swamp hag" thing. [Grohnea](../dossiers/grohnea). GROH - nee - ah.) Does he want to take them along as barter, or would he rather they be destroyed? After considering carefully, Cal chooses to destroy them.
 
 I have 240 gold in back wages, which is nice, but not enough to buy a whole new chest armor. I ask [Mallory](../dossiers/mallory) to requisition Half Plate armor for me. I will have to return it in "perfect condition," which I guess I can achieve with Mending, hopefully. This armor is also heavy and gives me disadvantage on stealth, but I think my fancy elven boots will make me only normally bad at stealth.
 
@@ -47,17 +47,17 @@ Another goblin, [Mirga](../dossiers/mirga-grimshot), offers to just tell us wher
 
 Mirga leads us out into the woods. Anorje is out here gathering plants. She remembers us! It was a memorable time, when we last visited. Mirga stands near Anorje, guarding her. Bec and Vondal ask if she can assist us with..."all of this?" Anorje correctly surmises. "I must warn you, my counterpart walks between two worlds. There are some who would call her monstrous." Anorje is just an herbalist. Freki sees the use of everything she's gathering. She knows what she's doing.
 
-Cal asks what Grainne will want from us. "A part of your soul. Potentially a memory, or rare alchemical goods. But her real interest will be in taking your afflictions. She will take them and store them. She is a collector of such things, from...all around the world. Go with respect, and if you see a very large plant outside of her house, do not antagonize it. It guards the domicile."
+Cal asks what Grohnea will want from us. "A part of your soul. Potentially a memory, or rare alchemical goods. But her real interest will be in taking your afflictions. She will take them and store them. She is a collector of such things, from...all around the world. Go with respect, and if you see a very large plant outside of her house, do not antagonize it. It guards the domicile."
 
 Freki wants to know more about the plant. Its name is Claudius, and it's a Purple Blossom. The [Orcs](../creatures/orcs) call it something that means "horrid plant." She isn't going to tell us more, because if we aren't hostile we have nothing to worry about. And if we are, well, she isn't going to help us. Fair enough.
 
-"What is the true nature of her bargains?" "Grainne is not a true [night hag](../creatures/hags). Because she is a [changeling](../creatures/changelings) and I was not transformed, my night hag potential is unfulfilled. I am more human than monster. This helps Grainne when she comes home. It renews her humanity. The memories she takes help her stay human. Without them, the changeling may also lose her humanity, so she's happy if we offer some memories."
+"What is the true nature of her bargains?" "Grohnea is not a true [night hag](../creatures/hags). Because she is a [changeling](../creatures/changelings) and I was not transformed, my night hag potential is unfulfilled. I am more human than monster. This helps Grohnea when she comes home. It renews her humanity. The memories she takes help her stay human. Without them, the changeling may also lose her humanity, so she's happy if we offer some memories."
 
-"Tell me about her hidden motivations." "Grainne pretends to be purely transactional, but she keeps a cosmic ledger. She believes herself to be a necessary evil, removing evil souls from the cycle of death and rebirth. In this way, she serves a unique role."
+"Tell me about her hidden motivations." "Grohnea pretends to be purely transactional, but she keeps a cosmic ledger. She believes herself to be a necessary evil, removing evil souls from the cycle of death and rebirth. In this way, she serves a unique role."
 
-"What is the price of power?" Anorje says Grainne has to endure every affliction she cures, even if only for a moment. Cal wonders what our Flux ailments will do to her. Anorje tells us Grainne will feel what we feel now. "Lots of bats," says Vondal knowingly.
+"What is the price of power?" Anorje says Grohnea has to endure every affliction she cures, even if only for a moment. Cal wonders what our Flux ailments will do to her. Anorje tells us Grohnea will feel what we feel now. "Lots of bats," says Vondal knowingly.
 
-Finally, Anorje tells us that Grainne has experimented with time magic. This old crone is only 44 years old! Grainne has targeted evil beings across time and space, destroying them moments before they otherwise would have died. Anorje wants us to understand the pivotal role that Grainne plays in the world. Bec previously thought chronomancy was bullshit, but Anorje seems to really believe it.
+Finally, Anorje tells us that Grohnea has experimented with time magic. This old crone is only 44 years old! Grohnea has targeted evil beings across time and space, destroying them moments before they otherwise would have died. Anorje wants us to understand the pivotal role that Grohnea plays in the world. Bec previously thought chronomancy was bullshit, but Anorje seems to really believe it.
 
 Mirga leads us back to the village, stopping at the secret entrance point that looks like any other random spot. "Be my guest." Vondal starts walking as if he knows what he's doing, feeling a tingling as he walks across the threshold. Last time we broke the door and accidentally let in marauders, so we shouldn't do that again. But also, I remember speaking the password before, in Erathis's voice. I could try just doing that, minus the destruction. I step forward and say the word: Alye'adu! It works! That's way better.
 
@@ -87,9 +87,9 @@ Cal asks what the White Crane is. "They say the tattoo brings good fortune and g
 
 Cal asks if the tattoo is what corrupted Isis into a blighter (ex-druid). Sissae thinks it did, but not directly. It caused her to make bad choices and ramble about some kind of vortex. "All the events of the world swirling around something I can't see."
 
-Cal invites Sissae along to see Grainne. Maybe she can remove the tattoo. Cal also mentions that he remembers Isis talking about a vortex and there was a gnome. A friend of hers?
+Cal invites Sissae along to see Grohnea. Maybe she can remove the tattoo. Cal also mentions that he remembers Isis talking about a vortex and there was a gnome. A friend of hers?
 
-Sissae recalls a gnome friend. His name is [Peregrine Shackleton](../dossiers/peregrine-shackleton), an alchemist who started experimenting with blood magic. Isis tried to talk him out of it, but he wouldn't listen. He had one of those tattoos too, and he was more enthusiastic about it. Almost everyone here in the village has the tattoo, and maybe *all* of the changelings do. Sissae can't remember, as since Isis is dead, her memories are fading. "Grainne may not be able to help. After all, she has one too. But there may be a reason that won't raise too much suspicion: I can just say I want to leave the village, and maybe that will be enough." Sissae excuses herself and leaves.
+Sissae recalls a gnome friend. His name is [Peregrine Shackleton](../dossiers/peregrine-shackleton), an alchemist who started experimenting with blood magic. Isis tried to talk him out of it, but he wouldn't listen. He had one of those tattoos too, and he was more enthusiastic about it. Almost everyone here in the village has the tattoo, and maybe *all* of the changelings do. Sissae can't remember, as since Isis is dead, her memories are fading. "Grohnea may not be able to help. After all, she has one too. But there may be a reason that won't raise too much suspicion: I can just say I want to leave the village, and maybe that will be enough." Sissae excuses herself and leaves.
 
 Freki notices Amisa Swiftaxe in changeling form, meditating. Not having seen one in this form for very long, he watches for a while. Cal notices him and shares some of what he discussed with Sissae. Freki asks whether Sissae would want to anchor another changeling, but Cal thinks she just wants out. They're both exhausted from reading the Manual of Gainful Exercise, but they suggest to the rest of us that we try to find out more about the tattoo while we're in the village.
 

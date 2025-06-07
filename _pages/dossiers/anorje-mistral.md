@@ -10,4 +10,4 @@ statbox:
   pronunciation: "ahh-NOR-zjuh"
 ---
 
-An [Alye'adu](../locales/alyeadu) villager. Anchor of [Gráinne](grainne).
+An [Alye'adu](../locales/alyeadu) villager. Anchor of [Grohnea](grohnea).

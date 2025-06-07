@@ -140,7 +140,7 @@ Oz says under his breath, "I think he's making this up as he goes along."
 
 "Shut up, I got more ideas! You know [St. Benedor](../dossiers/benedor)? Only the greatest healer in all of [Aecus](../locales/aecus)?" He fills us in on what happened with that hurricane thing we didn't go help with. St. Benedor had a vision from [Pelor](../dossiers/pelor), but it didn't come true. Unusual for him, apparently. In any case, a great healer should be able to help us.
 
-Then he suggests [Grainne](../dossiers/grainne), a swamp witch and changeling. Granted, she'd probably extract some sort of soul price from us, but it might be worth it.
+Then he suggests [Grohnea](../dossiers/grohnea), a swamp witch and changeling. Granted, she'd probably extract some sort of soul price from us, but it might be worth it.
 
 Also, even if St. Benedor is mad at us, he might listen to [his daughter](../dossiers/mayaheine-sunsworn). Who's a changeling!
 
@@ -234,7 +234,7 @@ I'm going to try to develop my own spell list, which I never told anyone about. 
 
 To help us decide what to do next, I *commune* with my goddesses, asking three questions:
 
-1. Between Grainne and Saint Benedor, is Grainne the better choice to aid us in curing our conditions?
+1. Between Grohnea and Saint Benedor, is Grohnea the better choice to aid us in curing our conditions?
    - Avandra: Yes. Erathis: No.
 2. Was the monk guy we encountered a real Vondal?
    - Erathis: No. Avandra: It was a trick!

@@ -29,7 +29,7 @@ She says [Rotesabal](../dossiers/rotesabal) has a little friend, and [another pe
 
 [Eeoram](../dossiers/eeoram-sufur) is the alt-Mallory (i.e. the one we've all met). We haven't seen him in a long time!
 
-Marsh witch spends half her time in the forest and half in the marsh. Named [Grainne](../dossiers/grainne)/[Anorje](../dossiers/anorje-mistral).
+Marsh witch spends half her time in the forest and half in the marsh. Named [Grohnea](../dossiers/grohnea)/[Anorje](../dossiers/anorje-mistral).
 
 We all have a drink at the pub before we go, and talk over what we've learned.
 
