@@ -31,7 +31,7 @@ which are available online:
   class archetypes from *Xanathar's Guide to Everything*.
 
 * House rules:
-  - No restriction on non-cantrip spells in a single turn.
+  - The [restriction on non-cantrip spells in a single turn](https://2014.5e.tools/quickreference.html#bookref-quick,2,bonus%20action,0) is not in force.
 
 **Characters.** Main points of character creation:
 * Try to hail from a unique territory and/or race. This helps diversity and world-building.
