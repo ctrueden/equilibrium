@@ -34,6 +34,7 @@ title: Dossiers
       <option value="14">[14] Animus and Annihilation | Arallu: Evershroud Manor</option>
       <option value="15">[15] Halflings and Hemophilia | Arallu: Sepulchralis</option>
       <option value="16">[16] Tunnels and Turpitude | The Afterworld?</option>
+      <option value="17">[17] Misery and Mending | Arallu: Acrid Marshes</option>
     </select>
   </span>
   <span class="item">
