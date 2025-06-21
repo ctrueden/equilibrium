@@ -170,9 +170,9 @@ Cal points out that she has two soul larvae ready to go. Indeed! Grohnea suggest
 
 While we talk, Grohnea says Freki can take what he wants from her conservatory for our mission. No cost, just promise to do your best!
 
-Among ourselves, it is decided that Bec and I will be the first to get our maladies treated, due to how much it impacts our ability to travel even remotely stealthily. She places one of the soul larvae in Bec's mouth and it crawls down her throat. Bec conceptualizes herself as TODO. The butterfly goes down and then...comes back out. Grohnea takes it back. It has little spines now. "All done. You did very well, dearie," says Grohnea.
+Among ourselves, it is decided that Bec and I will be the first to get our maladies treated, due to how much it impacts our ability to travel even remotely stealthily. She places one of the soul larvae in Bec's mouth and it crawls down her throat. Bec conceptualizes herself from before she manifested plant-like qualities (no thorns, no woody skin, no bushy eyebrows). The butterfly goes down and then...comes back out. Grohnea takes it back. It has little spines now. "All done. You did very well, dearie," says Grohnea.
 
-Then I get my butterfly. It [TODO DECIDE WHETHER I'M LOSING THE GLITTER AND WINGS OR JUST GLITTER].
+Then I get my butterfly. I remember a time before I pooped glitter everywhere... and gods be praised, when that butterfly crawled back out of me, it was covered in glitter, and I wasn't anymore!
 
 Grohnea can offer us each help in any mystic sphere we choose. We can set up a trigger and a response.
 
