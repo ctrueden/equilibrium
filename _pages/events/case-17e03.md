@@ -1,5 +1,5 @@
 ---
-title: "[17e03] Grohnea"
+title: "[17e03] The Storm Stables"
 description: >-
   The agents embark on Grohnea's quest to take down an evil cult of giants.
 datestamp: 50-06-13/02
