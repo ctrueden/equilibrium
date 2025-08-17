@@ -12,9 +12,12 @@ session-date: 2025-06-21
 
 I choose to lose the glitter but keep my new wings. They're interesting, and I already have all kinds of ideas for inventions to help me live with them. Plus: flying! I'm a little stumbly right now, since I'm not used to them, but I'll practice whenever I have time.
 
-For my ward, I choose to learn a specific weakness of any creature. This will work one time, when I decide to use it.
-
-Grohnia also gives us all a ward against the cold, which I really appreciate, and puts me in charge of deciding when we come back. I guess I have the right mix of smarts and cowardice. I accept!
+* For my ward, I choose to learn a specific weakness of any creature. This will work one time, when I decide to use it.
+* Oz chose Enhancement for his ward, triggered when he wants: one extra attack for eight rounds.
+* Vondal took Displacement: on his next wild surge, he gets (up to) a plus or minus 16 to whatever he rolls.
+* Freki took Transmutation: he can turn into a creature of his choice, for up to 8 total minutes (in 1 minute intervals).
+* Grohnia also gives us all a ward against the cold, which I really appreciate...
+* ...and puts me in charge of deciding when we come back. I guess I have the right mix of smarts and cowardice. I accept!
 
 We find ourselves on a glacier. It looks really cold but I can't feel it, ha ha ha. There's an enormous door, like really tremendously colossal, about a mile away. There's also some giants, probably lookouts. We decide to hop onto the flying carpet for the trip. Bec has made us invisible, since it's not like there's anything to look at out here. Aside from the ice shelf with the door in it, there's nothing but plain white nothing as far as the eye can see; anything moving would draw attention. Vondal hops into our portable hole, for which he requisitioned a bottle of endless air. I think he also found a couch on the curb somewhere and dragged that in there, and who knows what other amenities he's got. Probably a cookie jar or two.
 
