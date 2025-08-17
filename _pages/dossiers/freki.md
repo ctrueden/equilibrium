@@ -137,6 +137,17 @@ See the [lycan ranger](../rules/lycan-ranger) rules.
 1. Non-magical grappling arrow
 2. Non-magical cotton-tipped arrows
 
+##### From Grohnea's Workshop
+
+| # | Type                    | Rules |
+|---|-------------------------|-------|
+| 3 | purple blossom          | DC 14 dex or 8d6 acid + 4d6/round for one minute |
+| 3 | snapper saw             | Internal explosion - 6d6 immediate, 1d6 bleed/round, full round to carefully remove, or 6d6 dmg to rip out immediately as bonus action. |
+| 3 | dew drinker             | Opposed athletics or acrobatics vs freki's attack roll; failure means 3d6 necrotic, absorbed into the tendril. can recover and eat it later for temp HP. |
+| 3 | blinding mummy dust     | On impact, blinding dust and sand erupts and swirls around the target. That creature, and each creature within 5 feet of it, must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature's next turn. |
+| 1 | arrow of dreadful glare | Targets within 5' of arrow's flight path must make a Wis DC 16 or be frightened for 1 minute. Upon hit, target must make a Con DC 16 or be paralyzed for 3 rounds. |
+| 2 | arrows of acid nats     | On impact, a swarm of acid nats erupts from the arrow shaft, relentlessly burning and biting that creature. At the start of each of the creature's turns, it takes 6 (1d6 + 3) acid damage and loses 5 (1d4 + 3) hit points due to blood loss. Bloodless creatures are immune to this blood loss. Creatures with bad-tasting blood are only affected once. In either of those cases, the nat swarm moves on to the next closest target. |
+
 #### Innate Natural Abilities
 
 * \[L2\] [Animal friendship](https://2014.5e.tools/spells.html#animal%20friendship_phb). Cast as a ritual – takes 5 minutes to bond with an animal. Animal must be neutral or friendly to initiate.
