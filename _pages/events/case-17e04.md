@@ -8,6 +8,8 @@ session-number: 91
 session-date: 2025-08-02
 ---
 
+## Callie's Journal
+
 We enter the cave through the little crevasse and can hear the voices of the giants booming off towards the main entrance. It sounds to me like Jorik is trying to explain that an elephant appeared and who can explain it? There's another giant, unknown to me, who sounds contemptuous. However, their conversation ends without any conflict and it sounds like the other giant went away, so we're free to explore. Explore the enormous, dark caves filled with ten-legged dragons and maniacal cultists. Hooray.
 
 I'm happy to let Oz go ahead and check for traps ahead of us. We hit a fork and decide to turn towards the door, where hopefully we can get behind the cultists who are waiting to ambush us, and ambush them instead.
