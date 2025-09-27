@@ -19,6 +19,7 @@ magic-items:
     rarity: artifact (unique)
     value: TODO
   - name: Hat of Wizardry
+    notes: "This large cone-shaped hat decorated with moons and stars radiates illusion and enchantment magic. The hat makes you want to wear it, and imbues you with the ability to cast cantrips you don't otherwise know."
     source: Merfolk treasure
     link: https://2014.5e.tools/items.html#hat%20of%20wizardry_xge
     rarity: TODO
