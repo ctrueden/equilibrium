@@ -201,7 +201,7 @@ Spell | Level | School | Source
 [Antimagic Field](https://www.dandwiki.com/wiki/3e_SRD:Antimagic_Field) | 6 | Abjur | [Age of Freedom](../events/age-03)
 Antipsionic Field | 7 | Abjur
 [Arcane Sight, Greater](https://www.dandwiki.com/wiki/SRD:Greater_Arcane_Sight) | 7 | Div | [Age of Freedom](../events/age-03)
-[Deeppockets](../rules/spells#deeppockets-age-of-zas) | 3 | Ench/Trans | [Age of Zas](../events/age-02)
+[Deeppockets](../rules/spells#deeppockets-age-of-zas) | 2 | Ench/Trans | [Age of Zas](../events/age-02)
 Dispel Psionics, Greater | 7 | Abjur
 [Glass Strike](../rules/spells#glass-strike-age-of-freedom) | 7 | Trans {F} | [Age of Freedom](../events/age-03)
 Mage's Disjunction | 9 | Abjur | [Age of Freedom](../events/age-03)

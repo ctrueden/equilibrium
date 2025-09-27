@@ -71,7 +71,7 @@ https://adnd2e.fandom.com/wiki/Copy
 
 ## Deeppockets (Age of Zas)
 
-*2nd level enchantment/transmutation*
+*2nd level enchantment/transmutation (ritual)*
 
 **Casting Time:** 10 minutes  
 **Range:** Touch  
