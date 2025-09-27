@@ -18,7 +18,7 @@ Meanwhile, there's a ruckus outside. [Freki's](../dossiers/freki) muffled voice 
 
 All the guys tumble into the dorm, [Cal](../dossiers/cal) carrying Freki for some reason. [GM's note: Because Freki is still suffering from 5(!) levels of exhaustion from the recent intense Flux exposure.]
 
-Rubinia says, "It's Flux Warp. We need to do something before it's too late."
+Rubinia says, "It's Fluxwarp. We need to do something before it's too late."
 
 [Vondal](../dossiers/vondal) isn't surprised, like he's seen this before or at least has heard of it.
 
