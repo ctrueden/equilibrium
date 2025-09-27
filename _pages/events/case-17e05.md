@@ -41,7 +41,7 @@ When the hole opens up, we can see some huge guy up there. He probably looks eve
 
 "Very impressive, but what do you want?" says Rhyzophus. His voice resonates with the electrical energy in the room. It's like he's everywhere all at once, buzzing in our heads.
 
-Cal recognizes one of the giants -- the one with the pretty eyes -- as a Dreamwalker named [Verthandi](../dossiers/verthandi). He crossed paths with her when he was young, and has never forgotten the experience of effortlessly (if only briefly) falling for her charm. He looks away immediately, but her very presence is so alluring he looks back again.
+Cal recognizes one of the giants&mdash; the one with the pretty eyes&mdash; as a Dreamwalker named [Verthandi](../dossiers/verthandi). He crossed paths with her when he was young, and has never forgotten the experience of effortlessly (if only briefly) falling for her charm. He looks away immediately, but her very presence is so alluring he looks back again.
 
 "Hello, little one. Why are you here?" asks the alluring giant.
 
@@ -55,6 +55,8 @@ Oz's monkey gets into Verthandi's big ol' face and flaps annoyingly. Then Oz att
 
 Then it's Freki's turn to deflect this gorgeous giant's charms. Freki shoots an entangling arrow at Rhyzophus's feet, attempting to pull him out of the water column, or at least off his feet. He manages to lasso Rhyzophus and braces to pull.
 
+At this point, Rhyzophus has had enough. "KILL THEM!" he orders.
+
 Cal attacks Verthandi. She says, "This is not what [Prometheus](../dossiers/prometheus) promised." Sounds important, though I don't know who that is. I tuck it away for future reference.
 
 > I cast Spiritual Weapon at level 4.
@@ -65,7 +67,7 @@ Murky flaps over and shocks Verthandi. She falls down. Oz mutters, "Murder butte
 
 Another giant, Skalfang, roars, "What trickery is this!" He swings his great axe down at Cal. Somehow, Cal isn't split in half like a damn log. Go, Cal! Then Skalfang turns to Freki and tries again. Freki also withstands the attack, and I can see him immediately start to heal. Nice!
 
-Then Skalfang aims for Oz. He hits Oz and ice crystallizes around Oz's feet, slowing him down! "Hoh hoh hoh!" Skalfang gloats.
+Then Skalfang aims a freezing ray at Oz. He hits Oz and ice crystallizes around Oz's feet, slowing him down! "Hoh hoh hoh!" Skalfang gloats.
 
 Atop two of the stone cylinders, two twin giants raise their hands in unison and fling handfuls of jewels at us! My teammates all dodge, but I get hit. Augh, the shiny! I'm blind!
 
