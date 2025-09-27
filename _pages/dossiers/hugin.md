@@ -10,3 +10,5 @@ statbox:
 ---
 
 A spirit companion of [Freki Sarin](freki), and dual of [Munin](munin). In classical Norse mythology, Hugin represents the power of thought.
+
+During an [incident with the Flux](../events/case-16e08), merged with the essence of a very angry flying sheep.

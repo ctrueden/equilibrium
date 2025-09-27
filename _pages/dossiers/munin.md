@@ -10,3 +10,5 @@ statbox:
 ---
 
 A spirit companion of [Freki Sarin](freki), and dual of [Hugin](hugin). In classical Norse mythology, Munin represents memory, and the ability to intuit meaning.
+
+During an [incident with the Flux](../events/case-16e08), merged with the essence of a murderous cow.
