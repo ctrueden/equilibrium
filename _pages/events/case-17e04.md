@@ -78,7 +78,7 @@ Good idea, but Kavaki thinks it should be one of the giants, for better plausibi
 
 "You must not trust him; he's been ensorcelled," says Kavaki.
 
-That's fine! We took care of that! Kavaki is impressed that we broke the spell. Now, how do we find Rhyzophus? Oz tells her about the giant he saw taking the egg, and she confirms that it was Rhyzophus. Dang, just missed him. Apparently he doesn't come up to get the eggs on a regular schedule. 
+That's fine! We took care of that! Kavaki is impressed that we broke the spell. Now, how do we find Rhyzophus? Oz tells her about the giant he saw taking the egg, and she confirms that it was Rhyzophus. Dang, just missed him. Apparently he doesn't come up to get the eggs on a regular schedule.
 
 Kavaki explains that all the other giants are there because they want to be. I point out that's not true; Jorik and Magna were ensorcelled. Maybe if we kill Rhyzophus, his spell will break? Kavaki thinks Rhyzophus did some kind of control spell, and the ones that weren't affected were killed -- maybe those were the exploded ones near the entrance.
 
