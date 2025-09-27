@@ -8,15 +8,8 @@ session-number: 93
 session-date: 2025-09-27
 ---
 
-TODO: Who is blind? (from stone giant gem attack)
-- Callie
-- Anyone else?
-TODO: Who is stunned? (from Rhyzophus energy explosion)
-- Callie
-- Cal
-- Anyone else?
-TODO: Who has disadvantage on next save/attack roll? (from Rhyzophus energy explosion)
-- Callie
-- Anyone else?
-
-TBD
+Status effects:
+- Oz is SLOWED (-10ft move) until the end of Skalfang's next turn
+- Callie is BLINDED (from thrown rockspeaker gems) until the end of Erka's next turn
+- Callie has DISADVANTAGE on next save or attack (from Rhyzophus energy explosion)
+- Cal and Callie are STUNNED (from Rhyzophus energy explosion) until end of their next turns
