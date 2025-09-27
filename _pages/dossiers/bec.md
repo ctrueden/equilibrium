@@ -121,6 +121,24 @@ Bec is an enchantress. She has joined the SPI to learn more magic, and to find o
 |   5   | [hold monster](https://2014.5e.tools/spells.html#hold%20monster_phb)
 {:class="sortable"}
 
+### Merfolk Spellbook
+
+This [Enduring Spellbook](https://2014.5e.tools/items.html#enduring%20spellbook_xge) made from kelp contains the following spells:
+
+Spell | Level | School | Source
+------|-------|--------|-------
+[Color Spray](https://adnd2e.fandom.com/wiki/Color_Spray_%28Wizard_Spell%29) | 1 | Trans | [Age of Zas](../events/age-02)
+[Dancing Lights](https://adnd2e.fandom.com/wiki/Dancing_Lights_%28Wizard_Spell%29) | 1 | Trans | [Age of Zas](../events/age-02)
+[Dowsing Strike](https://www.dandwiki.com/wiki/3e_SRD:True_Strike) | 1 | Div [Water] | [Age of Zas](../events/age-02) (rare!)
+[Fog Cloud](https://adnd2e.fandom.com/wiki/Fog_Cloud_%28Wizard_Spell%29) | 2 | Trans [Air] | [Age of Zas](../events/age-02)
+[Swimstrider](https://adnd2e.fandom.com/wiki/Expeditious_Retreat_%28Wizard_Spell%29) | 1 | Trans [Water] | [Age of Zas](../events/age-02) (rare!)
+
+GM notes:
+* Dowsing Strike functions like 3E's True Strike, except that it only works underwater. (The Age of Freedom True Strike was actually created by an enterprising wizard who adapted this merfolk spell!)
+* Swimstrider functions like AD&D2E's Expeditious Retreat, except that instead of working on land speed, it works underwater for swim speed.
+* Most of this book's spells are in the transmutation school, which differs from the school of later versions of these spells.
+* I haven't yet adapted the spells in this spellbook to 5E, but don't let that stop you from casting them!
+
 ### Sartus's Spellbooks
 
 #### Tiavain
