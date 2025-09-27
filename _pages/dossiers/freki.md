@@ -1,6 +1,7 @@
 ---
 title: Freki Sarin
-image: https://static.wikia.nocookie.net/evenfall/images/7/76/Shifter_%282%29.jpg
+#image: https://static.wikia.nocookie.net/evenfall/images/7/76/Shifter_%282%29.jpg
+image: /equilibrium/assets/images/freki-hybrid.jpg
 image-source: https://evenfall.fandom.com/wiki/Shifter
 image-beast: https://i.pinimg.com/originals/84/84/29/848429b7e078c252073beb4511d79b8d.png
 image-beast-source: https://www.pinterest.com/pin/645562927835781072/

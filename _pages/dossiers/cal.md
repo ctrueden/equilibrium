@@ -1,6 +1,7 @@
 ---
 title: Callisto
-image: https://i.pinimg.com/originals/6a/ad/e7/6aade7af20cde51f601b873aa55c2544.png
+#image: https://i.pinimg.com/originals/6a/ad/e7/6aade7af20cde51f601b873aa55c2544.png
+image: /equilibrium/assets/images/callisto.jpg
 image-source: https://www.pinterest.com/pin/491314640604736340/
 domains: [Light, Death]
 statbox:
