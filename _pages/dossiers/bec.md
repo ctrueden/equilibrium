@@ -249,7 +249,7 @@ Spell | Level | School | Source
 [Dimensional Anchor](https://www.dandwiki.com/wiki/3e_SRD:Dimensional_Anchor) | 4 | Abjur | [Age of Freedom](../events/age-03)
 [Dimensional Lock](https://www.dandwiki.com/wiki/SRD:Dimensional_Lock) | 8 | Abjur | [Age of Freedom](../events/age-03)
 [Dispelling, Greater](https://www.dandwiki.com/wiki/3e_SRD:Dispelling,_Greater) | 6 | Abjur | [Age of Freedom](../events/age-03)
-[Haste](../rules/spells#haste-age-of-freedom) | 6 | Trans |  [Age of Freedom](../events/age-03)
+[Haste](../rules/spells#haste-age-of-freedom) | 6 | Trans | [Age of Freedom](../events/age-03)
 [Knock](https://www.dandwiki.com/wiki/3e_SRD:Knock) | 2 | Trans | [Age of Freedom](../events/age-03)
 [Legend Lore](https://www.dandwiki.com/wiki/3e_SRD:Legend_Lore) | 6 | Div | [Age of Freedom](../events/age-03)
 [Mage's Disjunction](https://www.dandwiki.com/wiki/3e_SRD:Disjunction) | 9 | Abjur | [Age of Freedom](../events/age-03)
