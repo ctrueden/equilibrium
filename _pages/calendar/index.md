@@ -1998,7 +1998,7 @@ Case <a href="../events/case-17">17</a> (pt <a href="../events/case-17e01">1</a>
 <div class="edge elyria">Nightal 29</div>
 <div class="edge selva">Fated 6</div>
 &nbsp;<br>
-Case <a href="../events/case-17">17</a> (pts <a href="../events/case-17e02">2</a>, <a href="../events/case-17e03">3</a>)<br>
+Case <a href="../events/case-17">17</a> (pts <a href="../events/case-17e02">2</a>, <a href="../events/case-17e03">3</a>, <a href="../events/case-17e04">4</a>, <a href="../events/case-17e05">5</a>, <a href="../events/case-17e06">6</a>, <a href="../events/case-17e07">7</a>)<br>
 &nbsp;
 </td>
 <td>
