@@ -260,3 +260,33 @@ Spell | Level | School | Source
 [True Seeing](https://www.dandwiki.com/wiki/3e_SRD:True_Seeing) | 6 | Div | [Age of Freedom](../events/age-03)
 [Wall of Force](https://www.dandwiki.com/wiki/3e_SRD:Wall_of_Force) | 5 | Evoc [Force] | [Age of Freedom](../events/age-03)
 {:class="sortable"}
+
+### Optimization ideas from GM
+
+#### UTILITY
+* Knock -- open tough locks
+* Phantom Steed -- travel
+* Sending -- communicate from afar
+* Contingency -- be prepared!
+* Telepathic Bond -- talk with allies safely in many situations
+* Mage Armor [AoF] -- +4 instead of +3 to AC
+#### BUFFS
+* [1st] Mirror image [AoF] -- more images! -- much longer duration than 5E version
+* [3rd] War Mastery [AoF]
+  - Expertise on Cal or Oz
+  - Combat Reflexes on Oz
+* [6th] haste -- CAST MOAR SPELLS OMG
+#### ACTION
+* Hypnotic gaze -- once per enemy, short range -- action denial, NOT concentration!
+* [3rd; Wis] suggestion + split enchantment [AoF] -- 2x action denial -- NOT concentration!
+* [1st; Wis; conctn] tasha's hideous laughter + split enchantment -- 2x action denial
+* [4th; Wis; conctn] confusion -- group action denial
+* [5th; Wis; conctn] hold monster + split enchantment -- 2x action denial + swiftly defeat foes
+* [4th; no save] greater malison -- all enemies have -2 to all saves, or -3 to one school
+* [5th] wall of force -- partition the battlefield -- action denial, no save, NOT concentration
+* [6th] antimagic field -- big hammer to solve many problems
+#### BONUS
+* [1st; Wis] distract assailant + split enchantment -- no reactions, disadv on Dex
+  - Combos with Callie's Sacred Flame
+#### REACTION
+* Instinctive charm -- once per enemy -- make one enemy hurt another

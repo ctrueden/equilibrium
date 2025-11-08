@@ -73,3 +73,19 @@ Callie is a devotee of the [dual goddesses](../rules/dual-goddess) Erathis and A
 ### Tapestry of Fate
 
 ***Inspired reading (Insight).*** You have a supernatural flash of inspiration which yields a line of questioning that, together with a subject's body language and response tone, is likely to extract a secret from them.
+
+### Optimization ideas from GM
+
+#### ACTION
+* [conctn] Bless -- MVP
+* [conctn] Polymorph -- action denial
+* [6th; Dex; conctn] blade barrier -- big group damage
+* [Dex] Sacred Flame + Potent Spellcasting -- cantrip -- 3d8+Wis radiant damage
+* [2nd; Dex] spray of cards -- 15' cone -- 2d10 force with blindness
+* [5th; Wis] Bestow Curse -- short range -- partial action denial for 8 hours
+* Divine Intervention! -- Don't be afraid to use it in a pinch
+* Revivify, Heal, Mass Cure Wounds -- the big 'uns to keep your allies up
+* Turn Undead
+#### BONUS
+* [2nd] Spiritual Weapon -- 1d8+Int/Wis/Cha or more per hit
+* [3rd] Mass Healing Word
