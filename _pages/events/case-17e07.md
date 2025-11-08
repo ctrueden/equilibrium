@@ -1,7 +1,7 @@
 ---
 title: "[17e07] Bowling For Douchebags"
 description: >-
-  After defeating Rhyzophus and his lieutenants, the agents and Kavaki discuss how best to deal with the cult's foot soldiers.
+  After defeating Rhyzophus and his lieutenants, Cal and his fellow agents make a show of force to cow the cult's foot soldiers.
 datestamp: 50-06-13/07
 when: AC50 Vis 13
 session-number: 94
