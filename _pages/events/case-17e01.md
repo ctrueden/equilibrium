@@ -73,7 +73,7 @@ I decide to spend some time practicing with my wings. Really, it's just the glit
 
 [Ayinalef](../dossiers/ayinalef), the priestess of [Sehanine](../dossiers/sehanine), asks if Cal wants her to heal his hacked-off tusks. He agrees, so she heals the part that was cut and it stops bleeding.
 
-We try to ask [Enneiah Trueborn](enneiah-trueborn) about [Saint Benedor](../dossiers/benedor), but we all forgot how to people-talky and she is reticent. But she does tell us that "our father is a very measured person, benevolent, but can be rigid. [Mayaheine](../dossiers/mayaheine-sunsworn) sometimes finds that frustrating; when we merge, I feel her burning desire to change things. It's like standing too close to a fire—warming but dangerous."
+We try to ask [Enneiah Trueborn](../dossiers/enneiah-trueborn) about [Saint Benedor](../dossiers/benedor), but we all forgot how to people-talky and she is reticent. But she does tell us that "our father is a very measured person, benevolent, but can be rigid. [Mayaheine](../dossiers/mayaheine-sunsworn) sometimes finds that frustrating; when we merge, I feel her burning desire to change things. It's like standing too close to a fire—warming but dangerous."
 
 I wouldn't have minded meeting a fellow cleric, but maaaaaaaybe we wouldn't have meshed well with this guy. We tend to be more flexible. Ethically, I mean. [GM's note: "flexible" = doing what it says on [Oz's](../dossiers/oz) SPI badge]
 

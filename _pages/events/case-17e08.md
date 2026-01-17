@@ -10,7 +10,7 @@ session-date: 2025-11-08
 
 ## Callie's Journal
 
-[Bec](../dossiers/bec) and [Freki](../dossiers/freki) escort [Ulgrim](../ulgrim-bearwalker) to the hot spring and explains how to will yourself down through it into the secret magic chamber. She demonstrates how to float down through the column of water, when suddenly her feet bang against something. An underwater glub-glub sounding voice yells out from underneath. It's [Vondal](../dossiers/vondal)! That guy shows up in the weirdest places, I swear.
+[Bec](../dossiers/bec) and [Freki](../dossiers/freki) escort [Ulgrim](../dossiers/ulgrim-bearwalker) to the hot spring and explains how to will yourself down through it into the secret magic chamber. She demonstrates how to float down through the column of water, when suddenly her feet bang against something. An underwater glub-glub sounding voice yells out from underneath. It's [Vondal](../dossiers/vondal)! That guy shows up in the weirdest places, I swear.
 
 Eventually, they all make it down through the column of water and into the magical chamber of horrors. The [giants](../creatures/giants) that we killed and de-souled down here are all shriveled and dessicated, like [mummies](../creatures/undead). 
 

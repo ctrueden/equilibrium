@@ -91,7 +91,7 @@ Bec is thinking they might have had their memories modified or been banished, al
 
 [A dwarf villager](../dossiers/rejal-bickerbeard) opines that whatever happened to them "felt psionic." Bec says Sabrina may be a [githzerai](../creatures/githzerai), and the dwarf is like, "I knew it!!!"
 
-Vondal goes to check on [Mallory](../dossiers/mallory). He's still there, right where we left him. He tells [Sima's doppelganger](amisa-swiftaxe) that she can imprint on him, with the price being that she has to figure out a better way of doing things.
+Vondal goes to check on [Mallory](../dossiers/mallory). He's still there, right where we left him. He tells [Sima's doppelganger](../dossiers/amisa-swiftaxe) that she can imprint on him, with the price being that she has to figure out a better way of doing things.
 
 Marigold says, "We're changing the rotation then, so I can leave!"
 
@@ -103,7 +103,7 @@ Vondal orders the kid to give the ring back before she gets hurt. He gives her a
 
 [Changelings](../creatures/changelings) are dead forever once they're dead, so there's no chance we could revive Fake Isis.
 
-[Ayina](ayinalef) asks whether we knew that centaur. Freki explains that he sensed our innate goodness, or at least trying-to-be-goodness. Callie feels like maybe she knows something, but can't quite grasp what. But she doesn't think Talos was lying or mistaken; he was right in some way.
+[Ayina](../dossiers/ayinalef) asks whether we knew that centaur. Freki explains that he sensed our innate goodness, or at least trying-to-be-goodness. Callie feels like maybe she knows something, but can't quite grasp what. But she doesn't think Talos was lying or mistaken; he was right in some way.
 
 The villagers want to know what happened with Isis. There seems to be no point in keeping anything from them, especially since Vondal is going to spill it anyway. Bec says something about the cult of the white crane and the dwarf guy objects that it isn't a cult, but a "force of nature" that has "done nothing but benefit us." Isis was the leader of the village, but she was deposed for saying bad words about the white crane.
 
