@@ -60,7 +60,7 @@ When the party gets outside the treasury, they realize it's not the treasury tha
 
 Mushrooms oozing out the trunk, Phoebe recoils. The creature that's in the queen is fighting back, and Phoebe cannot use her power on this Tree anymore, it is too far gone.
 
-But [Letharil Galere](../dossiers/letharil-galere) and the other remaining [tree-melded](../creatures/tree-melded) appear! They can still tree-stride, since they are bonded to this Tree. Each of the seven can each take one person to the throne room. Letharil takes Bec, and the party agrees the other six should be Cal, Callie, Freki, Oz, Vondal, and Lorissa Stormseeker, who has sworn a vow to protect the Queen and would like a chance to fulfill her oath, as well as get revenge for Sartus's death.
+But [Letharil Galere](../dossiers/letharil-galere) and the other remaining [tree-melded](../creatures/tree-melded) appear! They can still tree-stride, since they are bonded to this Tree. Each of the seven can take one person to the throne room. Letharil takes Bec, and the party agrees the other six should be Cal, Callie, Freki, Oz, Vondal, and Lorissa Stormseeker, who has sworn a vow to protect the Queen and would like a chance to fulfill her oath, as well as get revenge for Sartus's death.
 
 ## Throne room
 
