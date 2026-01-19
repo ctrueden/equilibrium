@@ -72,7 +72,7 @@ magic-items:
     value: TODO
 ---
 
-A veteran [wild mage who's been working with the [SPI](../orgs/spi) for decades,
+A veteran wild mage who's been working with the [SPI](../orgs/spi) for decades,
 but seems to be afflicted by some sort of malignant chronomancy.
 
 ### Tapestry of Fate
