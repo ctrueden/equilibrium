@@ -276,3 +276,56 @@ table td {
 @media screen and (max-width: 22em) {
   .timeline h3 { font-size: 0.5em; }
 }
+
+/* Session-based Chronological Descriptions */
+.sessions {
+  margin: 2em 0;
+  border-left: 3px solid sandybrown;
+  padding-left: 1em;
+}
+
+.session-card {
+  margin-bottom: 0.75em;
+  background: #f5f5f5;
+  border-radius: 8px;
+  padding: 0.75em 1em;
+  border: 1px solid #ddd;
+}
+
+.session-card[open] {
+  background: #fff;
+}
+
+.session-card summary {
+  cursor: pointer;
+  font-variant: small-caps;
+  color: sandybrown;
+  font-weight: bold;
+  user-select: none;
+}
+
+.session-card summary:hover {
+  color: #b8733f;
+}
+
+.session-tag {
+  font-size: 1.1em;
+}
+
+.session-content {
+  margin-top: 0.75em;
+  padding-top: 0.5em;
+  border-top: 1px solid #eee;
+  line-height: 1.6;
+}
+
+/* Mobile responsive */
+@media (max-width: 600px) {
+  .sessions {
+    padding-left: 0.5em;
+  }
+
+  .session-card {
+    padding: 0.5em;
+  }
+}

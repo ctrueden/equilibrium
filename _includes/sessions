@@ -1,0 +1,27 @@
+{%- comment -%}
+Display chronological session-based descriptions.
+Each session appears as a collapsible card, with the latest session expanded by default.
+{%- endcomment -%}
+
+{%- if page.descriptions %}
+<div class="sessions">
+  <h2>Chronicle</h2>
+  {% assign sorted = page.descriptions | sort: "session" %}
+  {% for desc in sorted %}
+    {% unless desc.content == "" %}
+      <details class="session-card" {% if forloop.last %}open{% endif %}>
+        <summary>
+          <span class="session-tag">Case {{ desc.session }}</span>
+        </summary>
+        <div class="session-content">
+          {{ desc.content | markdownify }}
+        </div>
+      </details>
+    {% endunless %}
+  {% endfor %}
+</div>
+{% endif -%}
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}
