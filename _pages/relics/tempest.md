@@ -8,6 +8,4 @@ image3: https://i.pinimg.com/originals/75/0a/c3/750ac306a79b091cba7587c28f569599
 image3-source: https://www.pinterest.com/pin/200339883415303261/
 ---
 
-[Bram the Blithe](../dossiers/bram-the-blithe) captains a legendary ship that
-he claims was crafted by [Melora](../dossiers/melora), the goddess of storms
-and the sea.
+[Bram the Blithe](../dossiers/bram-the-blithe) captains a legendary ship that he claims was crafted by [Melora](../dossiers/melora), the goddess of storms and the sea. It is believed to be one of eight divine [relics](.) somehow central to the integrity of reality itself.

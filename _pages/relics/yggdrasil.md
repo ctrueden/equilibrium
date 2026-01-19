@@ -8,10 +8,8 @@ image4-source: https://www.pinterest.com/pin/202099102004491804/
 image5-source: https://www.pinterest.com/pin/10555380365884748/
 ---
 
-An enormous tree at the base of which lies the elven city of
-[Estanesse](../locales/estanesse).
+An enormous tree at the base of which lies the elven city of [Estanesse](../locales/estanesse). It is believed to be one of eight divine [relics](.) somehow central to the integrity of reality itself.
 
-The elves believe it sustains all life.
+The [elves](../creatures/elves) believe it sustains all life and guard it vigilantly from outside influence.
 
-Too big to move, but legend has it that it can bear fruit,
-and that its branches and leaves have power as well.
+Miles high, the Tree is far too big to move, but legend has it that it can bear fruit, and that its branches and leaves have power as well.
