@@ -3,4 +3,6 @@
 /Gemfile.lock
 /_pages/gm/
 /_site/
+/assets/cache/
 /cloud
+__pycache__/
