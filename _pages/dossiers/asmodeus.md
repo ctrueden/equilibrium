@@ -17,6 +17,7 @@ statbox:
   - Erathis
   - Gruumsh
   - Vecna
+  - Fierna
   enemies:
   - Avandra
   - Ioun

@@ -5,9 +5,11 @@ image-source: https://www.pinterest.com/pin/345792077654450768/
 statbox:
   race: devil
   gender: male
+  enemies:
+  - Dispater
 ---
 
 Ruler of the [Trell](../locales/trell) island of Cania.
 
 See also:
-* https://dungeonsdragons.fandom.com/wiki/Mephistopheles
+* https://forgottenrealms.fandom.com/wiki/Mephistopheles
