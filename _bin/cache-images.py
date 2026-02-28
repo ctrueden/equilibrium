@@ -12,6 +12,7 @@ import sys
 import re
 import urllib.request
 import urllib.error
+import yaml
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -45,6 +46,48 @@ def extract_front_matter(file_path):
     except Exception as e:
         print(f"Error parsing {file_path}: {e}", file=sys.stderr)
         return {}
+
+def extract_images_section_urls(file_path):
+    """Extract image URLs from the nested 'images:' front matter section.
+
+    The gallery page uses a structure like:
+      images:
+        Category Name:
+        - https://source.link/|https://i.pinimg.com/originals/xx/yy/zz.jpg
+    """
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
+        if not match:
+            return []
+
+        data = yaml.safe_load(match.group(1))
+        if not isinstance(data, dict) or 'images' not in data:
+            return []
+
+        urls = []
+        images = data['images']
+        if not isinstance(images, dict):
+            return []
+
+        for category, items in images.items():
+            if not isinstance(items, list):
+                continue
+            for item in items:
+                if not isinstance(item, str):
+                    continue
+                # Format is "source_link|image_url" or just "image_url"
+                parts = item.split('|', 1)
+                image_url = parts[1] if len(parts) == 2 else parts[0]
+                image_url = image_url.strip()
+                if image_url.startswith('http://') or image_url.startswith('https://'):
+                    urls.append(image_url)
+
+        return urls
+    except Exception:
+        return []
 
 def download_image(url, output_path):
     """Download an image from URL to output_path."""
@@ -137,6 +180,10 @@ def main():
             url = front_matter['image']
             if url.startswith('http://') or url.startswith('https://'):
                 urls_to_cache.add(url)
+
+        # Also collect from nested 'images:' section (e.g. gallery page)
+        for url in extract_images_section_urls(md_file):
+            urls_to_cache.add(url)
 
     print(f"Found {len(urls_to_cache)} unique image URLs\n")
 
