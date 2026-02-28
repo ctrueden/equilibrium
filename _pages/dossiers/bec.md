@@ -82,6 +82,15 @@ Bec is an enchantress. She has joined the SPI to learn more magic, and to find o
 
 ***Prevailing truth (Arcana, History, Nature, Religion).*** The tree of infinite possibility appears before you, you see branches which must be eliminated—and a powerful truth remains.
 
+## Soul-Extended Contingency
+
+Bec and Cassandra may cooperatively cast [Contingency (Age of Freedom edition)](https://dnd5e.wikidot.com/spell:contingency), targeting a creature other than Bec herself, provided the three of them are spiritually bonded, wearing attuned SPI badges, and maintaining an open channel with one another during the full 10-minute casting.
+* Bec consumes a 6th level spell slot (Contingency), Cassandra a 5th level one (Cassandra's Soul Extension).
+* As per usual with the Age of Freedom edition of Contingency, the 1,500gp statuette of the target is a focus rather than a consumed component, glowing faintly while the contingency is active on that person.
+* Additionally: the spell being made contingent may be cast by another spiritually bonded agent in cooperation, rather than Bec herself, but all involved parties (that spellcaster, Bec, Cassandra, and the recipient) must all be present and spiritually bonded, wearing attuned SPI badges, and the recipient must be holding their statuette.
+* The spell otherwise functions identically to Contingency, including the 10-day duration.
+* The Contingency ends early if the bearer's badge is removed, destroyed, or loses attunement, or if the statuette is destroyed or dispelled, or if the Contingency is otherwise triggered or dispelled.
+
 ### Meroe's Spellbook
 
 | level | spell |
