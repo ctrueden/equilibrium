@@ -17,7 +17,7 @@ Bec realizes that this woman is [Lady Ilyana Nightshade](../dossiers/ilyana-nigh
 
 Freki is not about to agree to any of her terms. She snaps her fingers and figures start appearing out of nowhere, flanking her on both sides. They look like angels with broken-off wings, staring at her adoringly.
 
-[![](https://2014.5e.tools/img/ERLW/Radiant%20Idol.png){:style="max-height:240px"}](https://2014.5e.tools/bestiary.html#radiant%20idol_erlw)
+[![](https://5e.tools/img/bestiary/tokens/ERLW/Radiant%20Idol.webp){:style="max-height:240px"}](https://2014.5e.tools/bestiary.html#radiant%20idol_erlw)
 
 But the last one is [Vondal](../dossiers/vondal)! This lady is as surprised as the rest of us to see him.
 

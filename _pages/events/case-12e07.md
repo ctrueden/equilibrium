@@ -27,7 +27,7 @@ Callie begins levitating, towed by Freki, who is now flying thanks to another *f
 
 For the first 20 minutes, the monkey struggles to carry both Oz and Cal at the same time. But then out of nowhere, she grows *huge divine wings*! Oz has vision of a woman in a dark cloak, face down, turning... on the other side, a red-haired woman in a green and yellow dress:
 
-[![](https://ghwiki.greyparticle.com/images/4/46/Yondalla.jpg)](https://ghwiki.greyparticle.com/index.php/File:Yondalla.jpg)
+[![](https://greyhawkonline.com/greyhawkwiki/images/4/46/Yondalla.jpg)](https://greyhawkonline.com/greyhawkwiki/images/4/46/Yondalla.jpg)
 
 The next ten minutes are easier going, although the agents hear continual buzzing in the distance, and surmise that Eixam must be shadowing them. Freki's ravens confirm this fact.
 
