@@ -21,8 +21,8 @@ https://codepen.io/alvarotrigo/pen/BawBzjM
   {%- if p-dir != '/events' -%} {%- continue -%} {%- endif -%}
   {%- capture p-name -%} {%- include pathname path=p.url -%} {%- endcapture -%}
   {%- if p-name == 'index' -%} {%- continue -%} {%- endif -%}
-  {%- comment -%} Skip sessions; they appear inside their case's <details>. {%- endcomment -%}
-  {%- if p.session-number -%} {%- continue -%} {%- endif -%}
+  {%- comment -%} Skip sessions and case-tagged events; they appear inside their case's <details>. {%- endcomment -%}
+  {%- if p.session-number or p.case -%} {%- continue -%} {%- endif -%}
 
   {%- assign title = p.nav-title | default: p.title
     | replace: " ", "&nbsp;" | replace: "-", "&#8209;" -%}
@@ -34,9 +34,14 @@ https://codepen.io/alvarotrigo/pen/BawBzjM
   {%- assign case-prefix = p-name | append: "e" -%}
   {%- assign session-cards = "" -%}
   {%- for s in events -%}
-    {%- unless s.session-number -%} {%- continue -%} {%- endunless -%}
     {%- capture s-name -%} {%- include pathname path=s.url -%} {%- endcapture -%}
-    {%- unless s-name contains case-prefix -%} {%- continue -%} {%- endunless -%}
+    {%- if s.session-number and s-name contains case-prefix -%}
+      {%- comment -%} Matched by slug prefix (game session). {%- endcomment -%}
+    {%- elsif s.case == p-name -%}
+      {%- comment -%} Matched by case field (e.g. prelude event). {%- endcomment -%}
+    {%- else -%}
+      {%- continue -%}
+    {%- endif -%}
     {%- assign s-title = s.nav-title | default: s.title
       | replace: " ", "&nbsp;" | replace: "-", "&#8209;" -%}
     {%- capture session-card -%}

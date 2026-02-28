@@ -1,6 +1,7 @@
 ---
 title: The Age of Endless War
 datestamp: 00-05-00
+case: prelude
 when: The 5th age
 ---
 

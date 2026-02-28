@@ -1,6 +1,7 @@
 ---
 title: The Age of Freedom
 datestamp: 00-03-00
+case: prelude
 when: The 3rd age
 ---
 

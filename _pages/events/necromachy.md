@@ -1,6 +1,7 @@
 ---
 title: The War of Countless Dead
 datestamp: 00-05-01
+case: prelude
 when: 50-100 years before the AC
 ---
 

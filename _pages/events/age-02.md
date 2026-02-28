@@ -1,6 +1,7 @@
 ---
 title: The Age of Zas
 datestamp: 00-02-00
+case: prelude
 when: The 2nd age
 ---
 

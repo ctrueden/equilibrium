@@ -1,6 +1,7 @@
 ---
 title: War of the Giants
 datestamp: 00-02-01
+case: prelude
 when: "During the Age of Zas"
 ---
 

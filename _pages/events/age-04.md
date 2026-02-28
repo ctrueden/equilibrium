@@ -1,6 +1,7 @@
 ---
 title: The Age of Heroes
 datestamp: 00-04-00
+case: prelude
 when: The 4th age
 ---
 

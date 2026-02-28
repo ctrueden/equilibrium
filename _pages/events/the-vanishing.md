@@ -1,6 +1,7 @@
 ---
 title: The Vanishing
 datestamp: 00-05-02
+case: prelude
 when: 50 years ago
 ---
 
