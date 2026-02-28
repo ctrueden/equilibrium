@@ -82,7 +82,7 @@ Bec is an enchantress. She has joined the SPI to learn more magic, and to find o
 
 ***Prevailing truth (Arcana, History, Nature, Religion).*** The tree of infinite possibility appears before you, you see branches which must be eliminated—and a powerful truth remains.
 
-## Soul-Extended Contingency
+### Soul-Extended Contingency
 
 Bec and Cassandra may cooperatively cast [Contingency (Age of Freedom edition)](https://dnd5e.wikidot.com/spell:contingency), targeting a creature other than Bec herself, provided the three of them are spiritually bonded, wearing attuned SPI badges, and maintaining an open channel with one another during the full 10-minute casting.
 * Bec consumes a 6th level spell slot (Contingency), Cassandra a 5th level one (Cassandra's Soul Extension).
