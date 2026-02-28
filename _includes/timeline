@@ -21,28 +21,72 @@ https://codepen.io/alvarotrigo/pen/BawBzjM
   {%- if p-dir != '/events' -%} {%- continue -%} {%- endif -%}
   {%- capture p-name -%} {%- include pathname path=p.url -%} {%- endcapture -%}
   {%- if p-name == 'index' -%} {%- continue -%} {%- endif -%}
-  {%- if p.session-number -%}
-    {%- assign card-class = " sub" -%}
-  {%- else -%}
-    {%- assign card-class = "" -%}
-  {%- endif -%}
+  {%- comment -%} Skip sessions; they appear inside their case's <details>. {%- endcomment -%}
+  {%- if p.session-number -%} {%- continue -%} {%- endif -%}
 
   {%- assign title = p.nav-title | default: p.title
     | replace: " ", "&nbsp;" | replace: "-", "&#8209;" -%}
-  {%- capture card -%}
+
+  {%- comment -%}
+    Gather sessions for this page. A session belongs to case p-name
+    when its slug starts with p-name + "e" (e.g. "case-06e01" for "case-06").
+  {%- endcomment -%}
+  {%- assign case-prefix = p-name | append: "e" -%}
+  {%- assign session-cards = "" -%}
+  {%- for s in events -%}
+    {%- unless s.session-number -%} {%- continue -%} {%- endunless -%}
+    {%- capture s-name -%} {%- include pathname path=s.url -%} {%- endcapture -%}
+    {%- unless s-name contains case-prefix -%} {%- continue -%} {%- endunless -%}
+    {%- assign s-title = s.nav-title | default: s.title
+      | replace: " ", "&nbsp;" | replace: "-", "&#8209;" -%}
+    {%- capture session-card -%}
+              <span class="sortstamp">{{s.datestamp | default: s.url}}</span>
+              <div class="session-entry">
+                <h3 class="date">{{s.when}}</h3>
+                <h3 class="title"><a href="{{site.baseurl}}{{s.url}}">{{s-title}}</a></h3>
+                {{- s.description | markdownify -}}
+              </div>
+    {%- endcapture -%}
+    {%- unless session-cards == "" -%}
+      {%- assign session-cards = session-cards | append: "|" -%}
+    {%- endunless -%}
+    {%- assign session-cards = session-cards | append: session-card -%}
+  {%- endfor -%}
+
+  {%- if session-cards != "" -%}
+    {%- comment -%} Case with sessions: <details> with description in <summary>. {%- endcomment -%}
+    {%- assign sorted-session-cards = session-cards | split: "|" | sort | reverse -%}
+    {%- capture card -%}
           <span class="sortstamp">{{p.datestamp | default: p.url}}</span>
-          <div class="card{{card-class}}">
+          <div class="card">
             <div class="info">
               <details>
                 <summary>
                   <h3 class="date">{{p.when}}</h3>
-                  <h3 class="title"><a href="{{site.baseurl}}{{p.url}}">{{p.title}}</a></h3>
+                  <h3 class="title"><a href="{{site.baseurl}}{{p.url}}">{{title}}</a></h3>
+                  {{- p.description | markdownify -}}
                 </summary>
-                {{ p.description | markdownify -}}
-{{}}              </details>
+                {%- for sc in sorted-session-cards %}
+                {{sc}}
+                {%- endfor -%}
+              </details>
             </div>
           </div>
-  {%- endcapture -%}
+    {%- endcapture -%}
+  {%- else -%}
+    {%- comment -%} Standalone event: plain card, no <details>. {%- endcomment -%}
+    {%- capture card -%}
+          <span class="sortstamp">{{p.datestamp | default: p.url}}</span>
+          <div class="card">
+            <div class="info">
+              <h3 class="date">{{p.when}}</h3>
+              <h3 class="title"><a href="{{site.baseurl}}{{p.url}}">{{title}}</a></h3>
+              {{- p.description | markdownify -}}
+            </div>
+          </div>
+    {%- endcapture -%}
+  {%- endif -%}
+
   {%- unless cards == "" -%}
     {%- assign cards = cards | append: "|" -%}
   {%- endunless -%}

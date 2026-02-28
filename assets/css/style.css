@@ -188,8 +188,7 @@ table td {
 
 /* Information about the timeline */
 .timeline .info {
-  display: flex;
-  flex-direction: column;
+  display: block;
   background: var(--timeline-background-color);
   color: var(--timeline-text-color);
   border-radius: 10px;
@@ -205,7 +204,6 @@ table td {
 .timeline .title {
   color: var(--timeline-line-color);
   position: relative;
-  border-bottom: 1px solid lightgray;
 }
 
 /* Timeline dot  */
@@ -258,6 +256,34 @@ table td {
   width: var(--timeline-line-padding-sub);
   height: var(--timeline-line-padding-sub);
   margin-left: var(--timeline-card-margin-sub);
+  margin-top: 3px;
+}
+
+/* Session entries inside an expanded case <details>. */
+.timeline .session-entry {
+  padding: 3px 0 3px 1em;
+  border-top: 1px solid white;
+}
+.timeline .session-entry::before {
+  content: "";
+  position: absolute;
+  width: var(--timeline-line-width-sub);
+  height: 0;
+  margin-top: 8px;
+  margin-left: -31px;
+  background: white;
+  border: 2px solid var(--timeline-line-color);
+}
+.timeline .session-entry h3 {
+  font-size: 0.9em;
+}
+.timeline .session-entry p {
+  margin: 0.3em 1em 0.8em 0;
+}
+.timeline .session-entry .title::before {
+  width: var(--timeline-line-padding-sub);
+  height: var(--timeline-line-padding-sub);
+  margin-left: -16px;
   margin-top: 3px;
 }
 
