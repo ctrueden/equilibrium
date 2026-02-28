@@ -8,7 +8,11 @@ session-number: 92
 session-date: 2025-08-17
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 [Kavaki](../dossiers/kavaki) draws us a map so we can better understand the layout of the stables:
 
@@ -82,3 +86,6 @@ Then, after all that, one of the eggs breaks open and a raging storm of corrupti
 > * Dex - 10 = 19 damage
 > * Con - 7 - 1d6 per magic item - 4 items for me = 16 damage + disadvantage on next save/attack roll
 > * Wis - 17 = Stunned
+
+</div>
+</div>

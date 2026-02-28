@@ -9,7 +9,11 @@ session-date: 2024-03-30
 session-event: https://www.facebook.com/events/3518913611754028/
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 *GM's note: NOT FINALIZED*
 
@@ -62,3 +66,6 @@ We can see Sophie across the way. She yells, "I'm the one you want, you sons of 
 Enoch is distracted by Sophie (or possibly "Sophie") and flies away from us. But then, like an idiot, Oz yells out, "Hey asshole, your wings look like shit!" It's a use of Panache we've never seen before! This will grab Enoch's attention...obviously...but also gives him disadvantage against anybody but Oz. Meanwhile, the Gangrel go after Sophie.
 
 Freki sends Hugin and Munin over to the mystery building to find out if Sophie is in there and let her know that we're on her side if she is. Enoch comes back around the corner as a hellbeast and calls Oz out. Oz kisses his monkey and jumps out of the hut, ready to rumble!
+
+</div>
+</div>

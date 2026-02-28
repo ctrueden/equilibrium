@@ -8,7 +8,11 @@ session-number: 91
 session-date: 2025-08-02
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 We enter the cave through the little crevasse and can hear the voices of the giants booming off towards the main entrance. It sounds to me like Jorik is trying to explain that an elephant appeared and who can explain it? There's another giant, unknown to me, who sounds contemptuous. However, their conversation ends without any conflict and it sounds like the other giant went away, so we're free to explore. Explore the enormous, dark caves filled with ten-legged dragons and maniacal cultists. Hooray.
 
@@ -85,3 +89,6 @@ Kavaki explains that all the other giants are there because they want to be. I p
 "We're gonna kill the leader with murder," says Oz. Then anyone who still comes at us are presumably there of their free will, so we can free(will)ly kill them.
 
 Oz and Bec discuss whether killing the charmer will break the charm. It depends on the exact spell that was cast, is the thing. Though Kavaki is convinced that everyone here deserves to die. If we don't do it, then Hyperion will. Freki is also concerned about the fate of the behir, but they'll probably be fine if Rhyzophus isn't stealing their eggs. Probably.
+
+</div>
+</div>

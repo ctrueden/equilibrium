@@ -11,7 +11,11 @@ session-event: https://www.facebook.com/events/417456024201743/
 
 🎇🎂🥳
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 *GM's note: NOT FINALIZED*
 
@@ -54,3 +58,6 @@ I cast Pass Without Trace to make Freki even more stealthy than he normally is, 
 Freki's instincts are excellent right now, so Sophie follows his lead. He adjusts slightly to accommodate her while dodging the graves and whatnot that litter the ground. He also opens the hole periodically so we can breathe, for which I am very grateful. At one point along the way, Sophie steps on a branch and makes a sound. Freki hides, then looks around to see if anyone noticed and sees...GORATRIX! But, like, a ghosty version of him. It moans and floats over to a grave. It smells like sorrow and desperation, but not malicious or like a vampire anymore. 
 
 At another point, Sophie trips and three ghosts float over to investigate. She volunteers to get in the hole and hang out drinking sangria with the rest of us. (Just kidding obviously, we sure don't need any more hits to our dexterity.) Then Freki discovers a huge chapel. That's...probably the place.
+
+</div>
+</div>

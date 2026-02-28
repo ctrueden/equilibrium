@@ -14,7 +14,11 @@ Status effects at session start:
 - Callie and Cal have DISADVANTAGE on next save or attack (from Rhyzophus energy explosion)
 - Cal and Callie are STUNNED (from Rhyzophus energy explosion) until end of their next turns
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 **The Ambush Develops Not Necessarily To The Giants' Advantage**
 
@@ -86,3 +90,6 @@ After resuscitating Bec again and making sure everybody is stable, I go around a
 I am so tired, and we're still in this hot, stinky cave. Are there no B&B's in giantland? What a hellhole!
 
 *\[GM's note: What a battle! The agents exhibited exceptional teamwork, with everyone contributing crucially: Oz with massive DPS; Bec with tide-turning action denial debuffs; Cal tanking huge amounts of damage; both halflings punishing opponents relentlessly with cooperative sentinel tactics; Callie with critical healing interventions; and Freki with tremendous lycanthropy-infecting kill steals. This is how legends are born, people!\]*
+
+</div>
+</div>

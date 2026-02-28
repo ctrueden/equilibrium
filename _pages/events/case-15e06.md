@@ -9,7 +9,11 @@ session-date: 2024-05-25
 session-event: https://www.facebook.com/events/953095452990290/
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 *GM's note: NOT FINALIZED*
 
@@ -42,3 +46,6 @@ Vondal tries really hard to shoot some sort of beam really far. Three eyestalks 
 I Bless myself, Murky, and Freki. Then I move toward Xaryu and the rest of our party and attack a single ghost with Spiritual Weapon. 
 
 An enormous hand reaches out of the sarcophagus. No! Get back in there! DEAD MEANS DEAD!
+
+</div>
+</div>

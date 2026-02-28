@@ -9,7 +9,11 @@ session-date: 2024-01-20
 session-event: https://www.facebook.com/events/1043655976708167/
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 Possible Session Titles:
 * Ozborn, Underfoot
@@ -83,3 +87,6 @@ Vondal uses his Wand of Wonder, so as not to ignite the [Flux](../locales/flux) 
 A vampire grapples Freki, bites him, and drains some of his blood. It awakens the beast within Freki. He can choose to resist or accept it. It feels good and right! But is it the vampire trying to turn him? It doesn't matter, he can't control it....
 
 HE'S A WOOOOOOOOOOLF!
+
+</div>
+</div>

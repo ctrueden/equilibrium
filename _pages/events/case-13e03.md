@@ -13,7 +13,11 @@ The [SPI](../orgs/spi), after tearing the veil protecting the hidden [changeling
 
 --------------
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 An Equestrian of Power  
 --OR--  
@@ -40,3 +44,6 @@ We pretty much own the centaur, so the orc pulls a little figurine out of her po
 Cal grabs his sword out of the centaur's hand. There is a flash and all the snow in a five foot radius melts.
 
 Oz stabs the centaur, who seems to...like it....
+
+</div>
+</div>

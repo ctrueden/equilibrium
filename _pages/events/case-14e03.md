@@ -9,7 +9,11 @@ session-date: 2023-11-18
 session-event: https://www.facebook.com/events/2347533262301919/
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 [Lady Nightshade](../dossiers/ilyana-nightshade) challenges [Callie](../dossiers/callie) to drink it again. Callie passes, but only barely and only with [Vondal](../dossiers/vondal)'s help, again!
 
@@ -227,3 +231,6 @@ The mirror shatters!
 
 [Hyperion]: ../dossiers/hyperion
 [Gaia]: ../dossiers/gaia
+
+</div>
+</div>

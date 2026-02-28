@@ -9,7 +9,11 @@ session-date: 2024-01-06
 session-event: https://www.facebook.com/events/669253905134679/
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 We've determined that [Oz](../dossiers/oz)'s short bow is mint in box. Maybe it's worth more that way!
 
@@ -149,3 +153,6 @@ Oz's stabbing is getting to be...compulsive? He can hear the ghost in his mind p
 Callie relates what Erathis said to her companions. We can't kill Invictus, but we should definitely take care of Malachai. Cal and Vondal decide to escort him outside. His feet drag and he eventually passes out. Cal tosses him out the front door and he dies.
 
 As they all walk to the door, Callie thinks over what she heard and tells Cal and Oz that they could have killed Invictus, but they both have to go into it wholeheartedly. It seems Cal's heart is not quite in it now, though.
+
+</div>
+</div>

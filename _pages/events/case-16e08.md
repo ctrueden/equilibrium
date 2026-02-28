@@ -22,7 +22,11 @@ session-date: 2025-02-08
 [![Black Slime Eyes and Mouths](https://i.pinimg.com/236x/1b/9a/b9/1b9ab926c57fe362b9f37f9ad040e987.jpg)](https://www.pinterest.com/pin/292945150774630707/)<br>Shadow Slime
 </div>
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 [Oz](../dossiers/oz) slices through the creature in front of him, and apparently reality itself. Out of the rift pops out a mean-looking cow and an angry-looking sheep. They move over to [Freki](../dossiers/freki), but not to attack.
 
@@ -152,3 +156,6 @@ NotVondal takes the knife out of his chest and hands it back to Oz. Then he puts
 NotVondal says he came for power over death, and he got it. Freki says power over death is unnatural, and NotVondal seems slightly amused at the idea that Freki of all people would say such a thing. NotVondal tries to go, but Freki stops him. NotVondal says he expected more out of this interaction.
 
 Oz spots a tattoo of a white crane on his ankle.
+
+</div>
+</div>

@@ -35,7 +35,11 @@ As madness begins to grip the agents, [Vondal](../dossiers/vondal) strains to in
 
 * (50 hours) [Cassandra](../dossiers/cassandra) is blinded.
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 Well, we're all awake and experiencing the same thing (probably). We seem to be in some sort of cave or tunnel. Or chunnel. [Mallory](../dossiers/mallory) wants to know what happened, but we don't have a ready answer for that. Luckily, we will have done that sometime in the future, so we're answering him now in the future. I guess all we need to do now is figure out how to get from now to then???
 
@@ -137,3 +141,6 @@ It's my turn, and Oz asked me to use my [best healing](https://2014.5e.tools/spe
 The remaining undead creature shapeshifts in a shadow version of Corneluphagus and flies away! The way we were going. Oh, joy.
 
 &#x2728; LEVEL UP to 12! &#x2728;
+
+</div>
+</div>

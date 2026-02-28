@@ -1,0 +1,20 @@
+{%- comment -%}
+Marks the beginning of a new tab of recap content.
+{%- endcomment -%}
+
+{%- assign id = include.id -%}
+{%- assign label = include.label -%}
+{%- assign first = include.first -%}
+
+{% if first == true %}
+<input type="radio" name="recap" id="recap-{{id}}" checked>
+{% else %}
+</div>
+<input type="radio" name="recap" id="recap-{{id}}">
+{% endif %}
+<label for="recap-{{id}}">{{label}}</label>
+<div class="tab-panel" markdown=1>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

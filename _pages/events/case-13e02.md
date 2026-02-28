@@ -25,7 +25,11 @@ They track her trail to a place where it ends in midstep. Oz's hand feels weird 
 
 ------------------
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 We find a spot that is described as a "veil" or "portal," although it's invisible. Cal and Oz decide to go through. From my outside perspective, they don't seem to have gone anywhere, but it's pretty funny to watch them get a running start at nothing.
 
@@ -60,3 +64,6 @@ One of the villagers says Isis was her "imprint" and she was Isis's "anchor." Th
 I want to know what they know about the white crane tattoo/cult. Several of them react positively. They feel like it's been helpful, which is exactly what Isis said. She said it was super helpful until it started controlling her and forcing her to do evil.
 
 Cal, Freki, and Oz are not part of the mind link. So they're watching when a centaur named Talos comes riding in with Cal's sword at his hip.
+
+</div>
+</div>

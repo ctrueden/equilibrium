@@ -15,7 +15,11 @@ Mallory and Cassandra reestablish operations at [SPI HQ](../locales/spi-hq), and
 
 -------------------------
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 There is a woman in the village named [Respa](../dossiers/respa-wheatgrinder) (the redhead carrying a bowl of food). I remember her from [a case we were on](case-03). We went to arrest [Hollerd](../dossiers/hollerd-aldrimor), a [dwarf](../creatures/dwarves), on his ranch, for poisoning [his uncle](../dossiers/gurin-aldrimor). There was [a woman on the farm](../dossiers/tasper-ironroot) who tried to send us away, but we pushed past her and arrested him. Respa looks like that woman.
 
@@ -98,3 +102,6 @@ Squeaks and the other two NPC agents (see [episode 2](../events/case-02)) have e
 - Vondal has a big lead on what happened to the SPI agents, and will want to follow up on it.
 - Freki wants to find out what happened to [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin). They were somehow held at bay during the battle.
 - What was [Talos](../dossiers/talos) talking about?
+
+</div>
+</div>

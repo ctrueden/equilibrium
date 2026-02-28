@@ -102,7 +102,11 @@ Meanwhile, Oz steals the Ioun Stone of Mastery! But he accidentally cracks it wh
 
 ---------------------
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 There is some heavy-duty illusion magic going on here with Dark Oz/Janus/Tybalt. Sartus is totally taken in, maybe because this is what he feared would happen. He yells at us to flee, and runs towards the door himself.
 
@@ -115,3 +119,6 @@ I cast Spiritual Weapon at level 4, so damage is 2d8 plus my spellcasting modifi
 After the battle, Freki and Vondal were pretty wounded, so I cast Prayer of Healing at level 5. 4+5+4+8+7+(7) = 35
 
 As we all pray/cast ritual magic on the book, I am forced to contribute 3 more spell slots toward the spell. I contribute one level 4, one level 3, and one level 1.
+
+</div>
+</div>

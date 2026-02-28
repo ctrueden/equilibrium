@@ -13,7 +13,11 @@ Cal has reclaimed the Arkenstab, and Talos is on the ropes! But Andalla has tran
 
 -----------------------------
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 *Rumble in the Jungle*  
 --OR--  
@@ -122,3 +126,6 @@ Vondal's magic gets sucked up and woven into a wild magic door. Ayina is shocked
 - What was Talos talking about?
 - Vondal has a big lead on what happened to the SPI agents, and will want to follow up on it.
 - Freki wants to find out what happened to Hugin and Munin. They were somehow held at bay during the battle.
+
+</div>
+</div>

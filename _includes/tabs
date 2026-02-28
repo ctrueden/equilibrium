@@ -1,0 +1,9 @@
+{%- comment -%}
+Marks the beginning of tabbed recap content.
+{%- endcomment -%}
+
+<div class="recap-tabs">
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

@@ -8,7 +8,11 @@ session-number: 90
 session-date: 2025-06-21
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 I choose to lose the glitter but keep my new wings. They're interesting, and I already have all kinds of ideas for inventions to help me live with them. Plus: flying! I'm a little stumbly right now, since I'm not used to them, but I'll practice whenever I have time.
 
@@ -80,3 +84,6 @@ Meanwhile, Magna says, "We must be gone. Time is short. They know you're here. T
 Magna looks at him like he's crazy. "That is where they will come for you."
 
 After a quick huddle, Jorik suggests we small folk hide in the crevice while he and Magna pretend to still be ensorcelled. We flee!BD
+
+</div>
+</div>

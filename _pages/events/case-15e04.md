@@ -9,7 +9,11 @@ session-date: 2024-04-13
 session-event: https://www.facebook.com/events/385622380948065/
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 *GM's note: NOT FINALIZED*
 
@@ -76,3 +80,6 @@ I Channel Divinity to Turn Undead and a number of them drop Cal and make to flee
 Freki uses an arrow of tidal force against a vampire. A stream of water trails from it, rising to a tidal wave when it hits the vampire. Kelp rises out of the ground and ensnares them all! They are also vulnerable to the running water, because vampires. Heh heh. Freki still has two of those left, too!
 
 After we're done killing or chasing off all the vampires, Goratrix shows up. THAT'S THE CREEP WHO'S BEEN WATCHING ME! He slow claps and thanks us for doing his work for him. Oh, wonderful.
+
+</div>
+</div>

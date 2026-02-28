@@ -355,3 +355,44 @@ table td {
     padding: 0.5em;
   }
 }
+
+/* -- GM Recap Tabs -- */
+
+.recap-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 0.25em;
+}
+
+.recap-tabs input[type="radio"] { display: none; }
+
+.recap-tabs label {
+  order: 1;
+  padding: 0.3em 0.8em;
+  cursor: pointer;
+  border: 1px solid lightgray;
+  border-bottom: none;
+  border-radius: 4px 4px 0 0;
+  user-select: none;
+}
+
+.recap-tabs label:hover { color: #b8733f; }
+
+.recap-tabs input[type="radio"]:checked + label {
+  background: white;
+  font-weight: bold;
+  color: sandybrown;
+  border-color: sandybrown;
+}
+
+.recap-tabs .tab-panel {
+  order: 2;
+  flex-basis: 100%;
+  display: none;
+  border-top: 2px solid sandybrown;
+  padding-top: 0.75em;
+}
+
+.recap-tabs input[type="radio"]:checked + label + .tab-panel {
+  display: block;
+}

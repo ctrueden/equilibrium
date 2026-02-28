@@ -57,7 +57,11 @@ Mallory approves Cal & company's request to join Feathersworth for the Arallu me
 
 ----------------------
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 We have some time off! We need to be back for the all-staff meeting on Woodsday the 3rd.
 
@@ -145,3 +149,6 @@ A figure appears on the grand staircase with black bird wings. She says, "Halt. 
 <!-- [![](https://i.pinimg.com/originals/a5/36/4a/a5364ac55c254a25868bb3ec36f6556e.png){:style="max-width:min(100%,400px)"}](https://www.pinterest.com/pin/330733166390542925/) -->
 [![](https://i.pinimg.com/originals/5a/b4/29/5ab429534737597e0dc7e6b1e0c58d47.jpg){:style="max-width:min(100%,400px)"}](https://www.pinterest.com/pin/19210735885094276/)
 
+
+</div>
+</div>

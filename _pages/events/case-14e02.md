@@ -9,7 +9,11 @@ session-date: 2023-10-28
 session-event: https://www.facebook.com/events/246667454882342/
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 [Freki](../dossiers/freki) offers a mutually beneficial alliance. In response, the woman holds out her hand and says we can kiss her ring if we want to serve. [Bec](../dossiers/bec) and [Callie](../dossiers/callie) notice that the ring is the symbol of [Vecna](../dossiers/vecna), who deals in secrets.
 
@@ -54,3 +58,6 @@ Callie can't even reach out to Oz before the unicorn knocks Oz to the ground. Ca
 Freki furiously roars, "Stop!" but it comes out kind of...badly rolled.
 
 Lady Nightshade orders Callie to drink the potion. With a lot of help from Vondal, she is barely able to resist. She gets a little taste and it tastes delicious! But she still resists.
+
+</div>
+</div>

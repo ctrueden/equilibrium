@@ -9,7 +9,11 @@ session-date: 2024-07-13
 session-event: https://www.facebook.com/events/1784272022096933/
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 As [Cal](../dossiers/cal) goes to the teleport circle, he notices that it's not exactly the same as it was before. He jumps off to avoid the trap just in the nick of time! But the [Brucolac](../dossiers/cronus) swings a gauntleted fist at [Cal's sword](../relics/arkenstone), attempting to bludgeon it out of his hand. Cal parries, but the Brucolac bites him! Cal's blood boils in some kind of reaction. His body frosts over. The Brucolac tries to let go, but can't. The frost is entering him!
 
@@ -142,3 +146,6 @@ While the Brucolac is distracted, Oz gets the idea to steal the hourglass... but
 Bec passes out from the attack. Freki coordinates with Cal to slam the Brucolac together. Enoch continues to flee, but has nowhere to go.
 
 Responding to the dire state of his sire, Goratrix clenches his fist and a wall appears around the Brucolac. F^#K!
+
+</div>
+</div>

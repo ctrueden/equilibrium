@@ -8,7 +8,11 @@ session-number: 95
 session-date: 2025-11-08
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 [Bec](../dossiers/bec) and [Freki](../dossiers/freki) escort [Ulgrim](../dossiers/ulgrim-bearwalker) to the hot spring and explains how to will yourself down through it into the secret magic chamber. She demonstrates how to float down through the column of water, when suddenly her feet bang against something. An underwater glub-glub sounding voice yells out from underneath. It's [Vondal](../dossiers/vondal)! That guy shows up in the weirdest places, I swear.
 
@@ -95,3 +99,6 @@ Oz suggests we use his scrying orb to scry any of the many people we know are do
 How about [Sophie Steelboots](../dossiers/sophie-steelboots)? That's basically a meet cute! But no, Oz wants to scry [Orlok](../dossiers/orlok), who he liked better. Sure, why not? The crystal ball fills with BLOOD. What. Oz feels the greatest charisma he's ever felt, and it reaches out to embrace him. Two little gouts of blood spurt from Oz's neck. [A voice](../dossiers/cronus) says, "MY CHILD."
 
 Oz tries to let go of the crystal ball, sensing that it's the only way to break the connection. Freki grows into the wolf and grabs the crystal ball that Oz is trying to let go of. Freki fetches the ball and then..........BITES OZ TO SAVE HIM.
+
+</div>
+</div>

@@ -11,7 +11,11 @@ session-event: https://www.facebook.com/events/4044263909139375/
 
 ![](https://c.tenor.com/etj6ooaKL6cAAAAM/timeline-dont-do-it.gif)
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 [Vondal](../dossiers/vondal) spaces out and considers whether combining the [Flux](../locales/flux) and the [Feywild](../locales/feywild) could make something fictional into something real.
 
@@ -148,3 +152,6 @@ Freki lets loose a Hail of Thorns that would obliterate any normal creature, but
 The Demogorgon draws in Flux energy and duplicates itself twice. Now there are three!
 
 Are...are we dead? Did we die? I hope not, but I also kind of hope so because this looks real bad.
+
+</div>
+</div>

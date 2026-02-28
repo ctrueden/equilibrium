@@ -8,7 +8,11 @@ session-number: 87
 session-date: 2025-03-15
 ---
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 [My](../dossiers/callie) finely-honed cleric's instincts wake me up, alerting me that [Lorelei](../dossiers/lorelei-nocturne) is in pain. Also, she's screaming at the top of her lungs. Looking closer, I can see that she's just covered in these horrible little [Flux](../locales/flux)-sores.
 
@@ -263,3 +267,6 @@ Our next few steps will be:
 * Bec: Transcribe and/or learn spells from [Letharil](../dossiers/letharil-galere) and [Sartus](../dossiers/sartus-morningdew).
 
 10% discount from Callie's shop for inventory items, including magic inks for spell scribing!
+
+</div>
+</div>

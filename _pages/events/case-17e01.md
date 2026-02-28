@@ -23,7 +23,11 @@ From AC50 Vis 9 - AC50 Vis 12.
 
 10% discount from Callie's shop for inventory items, including magic inks for spell scribing!
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 [Cal](../dossiers/cal) considered the contents of his bag of holding, which we previously loaded up with all kinds of magic artifacts from [Invictus's](../dossiers/invictus) manor. [Cassandra](../dossiers/cassandra) tells him that some of the items from Invictus's ritual room are fundamentally, cosmically evil, and says that therefore the SPI cannot use them, but that someone like the swamp hag might be interested in them. ([I](../dossiers/callie) feel like I should get used to calling her by her name, just in case she's sensitive about the whole "swamp hag" thing. [Grohnea](../dossiers/grohnea). GROH - nee - ah.) Does he want to take them along as barter, or would he rather they be destroyed? After considering carefully, Cal chooses to destroy them.
 
@@ -96,3 +100,6 @@ Freki notices Amisa Swiftaxe in changeling form, meditating. Not having seen one
 Vondal asks [Smiley](../dossiers/smiley-simola), who he's been helping with cooking. Smiley taps his own tattoo and says they bring good fortune. "You just get one from someone who has one. I could give you one!" Smiley says. He says he's had a lot of good luck because of it, like, he doesn't burn soup and everything is pretty good here in the village. Vondal is skeptical. Smiley says the villagers out in the field swear by the good fortune brought by the tattoo. It also gives them prophetic dreams. Huh! Interesting! He says we should ask Rejal if we want to more about it.
 
 I follow up with Rejal about the tattoos, but he is suspicious of my motives for questioning. "If you get one, you should be serious about accepting its guidance and protection. Otherwise you'll end up like Isis. She rejected its blessings." I ask where the tattoo comes from and who had the first one. He doesn't know, but they think it might relate to [the Vanishing](../events/the-vanishing). In any case, he warns me not to go asking a lot of questions about the tattoo. That could endanger the village.
+
+</div>
+</div>

@@ -23,7 +23,11 @@ session-event: https://www.facebook.com/events/1258965535230041/
 > Is all that we see or seem  
 > But a dream within a dream?
 
-## Callie's Journal
+<div class="recap-tabs">
+
+<input type="radio" name="recap" id="recap-callie" checked>
+<label for="recap-callie">Callie's Journal</label>
+<div class="tab-panel" markdown=1>
 
 > All HP and spell slots NOT restored!
 
@@ -142,3 +146,6 @@ A̸̡̻̲͂̅ṅ̶̨̨͓͔̏̉d̷̮̈͠ ̵͉̙̓̾̃n̶̛͔̪̍̈́̕o̷̮̟͈͌w�
 * Audreth is stunned for a few minutes.
 
 * Bec is unable to take anything seriously. Finding out that we're IN the FLUX is the funniest thing ever. And the effect is permanent.
+
+</div>
+</div>
