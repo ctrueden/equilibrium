@@ -9,11 +9,7 @@ session-date: 2024-02-24
 session-event: https://www.facebook.com/events/7612010372188259
 ---
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 [Cal](../dossiers/cal) has fallen asleep, but aside from him, we're all feeling pretty great when a vampire calls for [Bilbo](../dossiers/bilbo).
 
@@ -51,5 +47,4 @@ Oz grabs the magic carpet. Freki smells where Bilbo is and attempts to grapple h
 
 Cal all of a sudden whips the air and catches Bilbo! We can see the whip wrapped around something that we can't see.
 
-</div>
-</div>
+{% include endtabs %}

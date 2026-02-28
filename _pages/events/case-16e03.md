@@ -9,11 +9,7 @@ session-date: 2024-11-16
 session-event: https://www.facebook.com/events/2259492204418862/
 ---
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 Oz wants to go to the tower, which he imagines is full of treasure and not piping hot death. Well, we've done plenty of dumb things and lived, so we might as well give it a try. Freki notices some roots growing around. The ground smells like the forest to him. The birds seem more unified than usual. He asks them if we should reteat, and they say, "We cannot."
 
@@ -73,5 +69,4 @@ Freki smells something like the monster dog that attacked us and goes looking fo
 
 Meanwhile, Freki finds a staircase going down and the smell is stronger here. He can also hear sleeping sounds. He comes back and lets us know, but we need a rest. Bec casts *tiny hut* and we're safe for the duration!
 
-</div>
-</div>
+{% include endtabs %}

@@ -8,11 +8,7 @@ session-number: 86
 session-date: 2025-03-01
 ---
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 [Nondal](../dossiers/white-crane) is watching all of us to see what we do. It's super creepy. [Bec](../dossiers/bec) warns [Freki](../dossiers/freki) and [Oz](../dossiers/oz) that if Nondal closes the gate, they're going to be trapped on the other side.
 
@@ -160,5 +156,4 @@ By the time Bec gets back, Lorelei, Cassandra and I are all asleep already. [Rub
 
 Bec goes to sleep, but is woken by the sounds of Lorelei in agony. Her flesh is covered in sores and Flux is leaking out of them.
 
-</div>
-</div>
+{% include endtabs %}

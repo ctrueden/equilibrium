@@ -7,6 +7,7 @@ Marks the beginning of a new tab of recap content.
 {%- assign first = include.first -%}
 
 {% if first == true %}
+<div class="recap-tabs">
 <input type="radio" name="recap" id="recap-{{id}}" checked>
 {% else %}
 </div>

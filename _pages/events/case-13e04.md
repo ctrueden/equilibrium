@@ -9,15 +9,11 @@ session-date: 2023-04-22
 session-event: https://www.facebook.com/events/210543668305395/
 ---
 
-Cal has reclaimed the Arkenstab, and Talos is on the ropes! But Andalla has transformed into a goristro demon that is unlikely to serve you beer, and they both still have a boatload of hit points... Will Talos succeed in entering a berserker rage and laying waste to Alye'adu? Or will Bec enchant him again into an oblivion of giggles? FIND OUT NEXT TIME
+{% include tab id="summary" label="Summary" first=true %}
 
------------------------------
+Cal has reclaimed the Arkenstab, and Talos is on the ropes! But Andalla has transformed into a goristro demon that is unlikely to serve you beer, and they both still have a boatload of hit points... Will Talos succeed in entering a berserker rage and laying waste to Alye'adu? Or will Bec enchant him again into an oblivion of giggles? FIND OUT IN CALLIE'S JOURNAL
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" %}
 
 *Rumble in the Jungle*  
 --OR--  
@@ -127,5 +123,4 @@ Vondal's magic gets sucked up and woven into a wild magic door. Ayina is shocked
 - Vondal has a big lead on what happened to the SPI agents, and will want to follow up on it.
 - Freki wants to find out what happened to Hugin and Munin. They were somehow held at bay during the battle.
 
-</div>
-</div>
+{% include endtabs %}

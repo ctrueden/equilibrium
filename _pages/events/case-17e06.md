@@ -8,17 +8,15 @@ session-number: 93
 session-date: 2025-09-27
 ---
 
+{% include tab id="summary" label="Summary" first=true %}
+
 Status effects at session start:
 - Oz is SLOWED (-10ft move) until the end of Skalfang's next turn
 - Callie is BLINDED (from thrown rockspeaker gems) until the end of Erka's next turn
 - Callie and Cal have DISADVANTAGE on next save or attack (from Rhyzophus energy explosion)
 - Cal and Callie are STUNNED (from Rhyzophus energy explosion) until end of their next turns
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" %}
 
 **The Ambush Develops Not Necessarily To The Giants' Advantage**
 
@@ -91,5 +89,4 @@ I am so tired, and we're still in this hot, stinky cave. Are there no B&B's in g
 
 *\[GM's note: What a battle! The agents exhibited exceptional teamwork, with everyone contributing crucially: Oz with massive DPS; Bec with tide-turning action denial debuffs; Cal tanking huge amounts of damage; both halflings punishing opponents relentlessly with cooperative sentinel tactics; Callie with critical healing interventions; and Freki with tremendous lycanthropy-infecting kill steals. This is how legends are born, people!\]*
 
-</div>
-</div>
+{% include endtabs %}

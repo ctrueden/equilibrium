@@ -8,8 +8,6 @@ session-number: 96
 session-date: 2026-01-17
 ---
 
-{% include tabs %}
-
 {% include tab id='long' label='Long' first=true %}
 
 The party found themselves in the aftermath of their confrontation with the cult at the [Storm Stables](../locales/storm-stables), dealing with the remaining giants and cultists. [Ulgrim](../dossiers/ulgrim-bearwalker), the bear shaman, and [Kavaki](../dossiers/kavaki), their old ally who had been acting as a mole, proved sympathetic to their cause. The Brood Mother, whose eggs had been corrupted by the cult leader [Rhyzophus](../dossiers/rhyzophus), had already taken her vengeance by dragging off and eating several [hill giants](../creatures/giants). The party took Ulgrim to the underground hot spring to show him the ancient ritual chamber&mdash;a place originally designed to promote someone to godhood, but which Rhyzophus had twisted for his own dark purposes.

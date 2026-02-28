@@ -9,7 +9,7 @@ session-date: 2022-12-31
 session-event: https://www.facebook.com/events/1166646017325641/
 ---
 
-TODO -- clean up and complete these rough unfinished notes.
+{% include tab id="notes" label="Notes" first=true %}
 
 Callie, Bec, Freki pass save and see through shadow conjuration illusion. It's a magical construct.
 
@@ -100,13 +100,7 @@ TODO -- describe how the party got the Book out of there, and performed the ritu
 
 Meanwhile, Oz steals the Ioun Stone of Mastery! But he accidentally cracks it when he uses the Hornblade to split the crystal casing. It has 9/10 HP remaining.
 
----------------------
-
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie's Journal" %}
 
 There is some heavy-duty illusion magic going on here with Dark Oz/Janus/Tybalt. Sartus is totally taken in, maybe because this is what he feared would happen. He yells at us to flee, and runs towards the door himself.
 
@@ -120,5 +114,4 @@ After the battle, Freki and Vondal were pretty wounded, so I cast Prayer of Heal
 
 As we all pray/cast ritual magic on the book, I am forced to contribute 3 more spell slots toward the spell. I contribute one level 4, one level 3, and one level 1.
 
-</div>
-</div>
+{% include endtabs %}

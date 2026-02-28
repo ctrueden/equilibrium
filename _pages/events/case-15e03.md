@@ -9,11 +9,7 @@ session-date: 2024-03-30
 session-event: https://www.facebook.com/events/3518913611754028/
 ---
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 *GM's note: NOT FINALIZED*
 
@@ -67,5 +63,4 @@ Enoch is distracted by Sophie (or possibly "Sophie") and flies away from us. But
 
 Freki sends Hugin and Munin over to the mystery building to find out if Sophie is in there and let her know that we're on her side if she is. Enoch comes back around the corner as a hellbeast and calls Oz out. Oz kisses his monkey and jumps out of the hut, ready to rumble!
 
-</div>
-</div>
+{% include endtabs %}

@@ -11,11 +11,7 @@ session-event: https://www.facebook.com/events/417456024201743/
 
 🎇🎂🥳
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 *GM's note: NOT FINALIZED*
 
@@ -59,5 +55,4 @@ Freki's instincts are excellent right now, so Sophie follows his lead. He adjust
 
 At another point, Sophie trips and three ghosts float over to investigate. She volunteers to get in the hole and hang out drinking sangria with the rest of us. (Just kidding obviously, we sure don't need any more hits to our dexterity.) Then Freki discovers a huge chapel. That's...probably the place.
 
-</div>
-</div>
+{% include endtabs %}

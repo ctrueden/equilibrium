@@ -8,11 +8,7 @@ session-number: 94
 session-date: 2025-10-18
 ---
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 I feel Munin trying to withdraw from my body. I could hold on, but I respect this spirit's independence. Freki tries to ask how I am through the connection with Munin, and I try to indicate that I'm okay. My emotions feel less heightened as Munin withdraws, and the mental link to Freki breaks.
 
@@ -223,5 +219,4 @@ Cal asks Kavaki and Mira who else is worth saving. Mira says the hill giants sho
 
 Well, there are some options here. It's up to Cal what to do with these guys. Choose wisely, buddy!
 
-</div>
-</div>
+{% include endtabs %}

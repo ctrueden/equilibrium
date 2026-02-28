@@ -9,11 +9,7 @@ session-date: 2024-03-16
 session-event: https://www.facebook.com/events/945046283678657
 ---
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 Possible session titles:
 * Good People On Both Sides
@@ -147,5 +143,4 @@ The vampire clans all pony up magical objects:
 
 Sophie reaches for the sword. As her fingers grip it, a fire forms in her eyes, and her expression darkens...
 
-</div>
-</div>
+{% include endtabs %}

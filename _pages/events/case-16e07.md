@@ -9,6 +9,8 @@ session-date: 2025-01-11
 session-event: https://www.facebook.com/events/1668398757430235/
 ---
 
+{% include tab id="summary" label="Summary" first=true %}
+
 <div style="display: inline-block; text-align: center" markdown=1>
 [![Massive tree roots](https://i.pinimg.com/236x/88/f1/17/88f117de87a3d1ac91dcb8bfdcda77d9.jpg)](https://www.pinterest.com/pin/633387442555197/)<br>Chamber of Horrors
 </div><div style="display: inline-block; text-align: center" markdown=1>
@@ -23,11 +25,7 @@ session-event: https://www.facebook.com/events/1668398757430235/
 [![Black Slime Eyes and Mouths](https://i.pinimg.com/236x/1b/9a/b9/1b9ab926c57fe362b9f37f9ad040e987.jpg)](https://www.pinterest.com/pin/292945150774630707/)<br>Shadow Slime
 </div>
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" %}
 
 Bec casts Hypnotic Pattern in the general direction of the badness. Most of the creatures looked like they're just immune to it, but one of them seemed to have to resist it.
 
@@ -85,5 +83,4 @@ Megaera rises up into the air, putting her out of reach of some attacks and also
 
 To be [continued](case-16e08)!
 
-</div>
-</div>
+{% include endtabs %}

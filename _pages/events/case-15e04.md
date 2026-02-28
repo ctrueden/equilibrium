@@ -9,11 +9,7 @@ session-date: 2024-04-13
 session-event: https://www.facebook.com/events/385622380948065/
 ---
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 *GM's note: NOT FINALIZED*
 
@@ -81,5 +77,4 @@ Freki uses an arrow of tidal force against a vampire. A stream of water trails f
 
 After we're done killing or chasing off all the vampires, Goratrix shows up. THAT'S THE CREEP WHO'S BEEN WATCHING ME! He slow claps and thanks us for doing his work for him. Oh, wonderful.
 
-</div>
-</div>
+{% include endtabs %}

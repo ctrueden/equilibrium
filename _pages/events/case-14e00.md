@@ -9,17 +9,13 @@ session-date: 2023-05-13
 session-event: https://www.facebook.com/events/1191545644865411/
 ---
 
+{% include tab id="summary" label="Summary" first=true %}
+
 In the aftermath of the [Malosi](../orgs/malosi) fight at [Alye'adu](../locales/alyeadu), the [SPI](../orgs/spi) agents rescue [Mallory](../dossiers/mallory) and [Cassandra](../dossiers/cassandra) from their respective plights.
 
 Mallory and Cassandra reestablish operations at [SPI HQ](../locales/spi-hq), and the other active SPI field agents bring new cases for the agency to address.
 
--------------------------
-
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" %}
 
 There is a woman in the village named [Respa](../dossiers/respa-wheatgrinder) (the redhead carrying a bowl of food). I remember her from [a case we were on](case-03). We went to arrest [Hollerd](../dossiers/hollerd-aldrimor), a [dwarf](../creatures/dwarves), on his ranch, for poisoning [his uncle](../dossiers/gurin-aldrimor). There was [a woman on the farm](../dossiers/tasper-ironroot) who tried to send us away, but we pushed past her and arrested him. Respa looks like that woman.
 
@@ -103,5 +99,4 @@ Squeaks and the other two NPC agents (see [episode 2](../events/case-02)) have e
 - Freki wants to find out what happened to [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin). They were somehow held at bay during the battle.
 - What was [Talos](../dossiers/talos) talking about?
 
-</div>
-</div>
+{% include endtabs %}

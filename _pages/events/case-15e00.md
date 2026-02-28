@@ -9,11 +9,7 @@ session-date: 2024-02-17
 session-event: https://www.facebook.com/events/1088613419043899/
 ---
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 None of us knew [Freki](../dossiers/freki) was a [werewolf](../creatures/lycans), but I guess getting bitten is the kind of thing that could trigger the transformation. We'll have to figure out how to calm him down without hurting him too much.
 
@@ -186,5 +182,4 @@ Vondal wants to sleep off the ale, so he crashes in Bilbo's bed with Murky as a 
 
 Avandra flips Oz a wooden coin with her symbol on both sides and tells him to bite it if he ever decides to forgo the direct approach in favor of a sneakier one. "You'll know when it's time."
 
-</div>
-</div>
+{% include endtabs %}

@@ -9,11 +9,7 @@ session-date: 2024-01-20
 session-event: https://www.facebook.com/events/1043655976708167/
 ---
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 Possible Session Titles:
 * Ozborn, Underfoot
@@ -88,5 +84,4 @@ A vampire grapples Freki, bites him, and drains some of his blood. It awakens th
 
 HE'S A WOOOOOOOOOOLF!
 
-</div>
-</div>
+{% include endtabs %}

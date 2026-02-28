@@ -9,15 +9,11 @@ session-date: 2023-03-04
 session-event: https://www.facebook.com/events/1338853346912438/
 ---
 
+{% include tab id="summary" label="Summary" first=true %}
+
 The [SPI](../orgs/spi), after tearing the veil protecting the hidden [changeling](../creatures/changelings) village of [Alye'adu](../locales/alyeadu), learned that the SPI's leader [Mallory](../dossiers/mallory) has been comatose here for the past four months. Now [Andalla](../dossiers/andalla) the orc shaman, in the form of [Freki](../dossiers/freki)'s raven companion [Munin](../dossiers/munin), and [Talos](../dossiers/talos) the centaur warlord, wielding the [Arkenstab](../relics/arkenstone), have followed the agents through, and seek to seize the power of the changelings for themselves!
 
---------------
-
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" %}
 
 An Equestrian of Power  
 --OR--  
@@ -45,5 +41,4 @@ Cal grabs his sword out of the centaur's hand. There is a flash and all the snow
 
 Oz stabs the centaur, who seems to...like it....
 
-</div>
-</div>
+{% include endtabs %}

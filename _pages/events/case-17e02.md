@@ -8,11 +8,7 @@ session-number: 89
 session-date: 2025-06-07
 ---
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 In the morning, Grimma the goblin brings us a huge wooden cup filled with something stinky and insists we drink out of it. It smells like rancid meat. We have to swear a goblin blood oath before we leave. If I drink it and then barf, does it still count? She tells me it's literally impossible to throw up, which doesn't make me feel better.
 
@@ -194,5 +190,4 @@ The cult is led by someone who is only in it for personal gain, surprise surpris
 
 That's all she can say right now, so it's time for us to embark. Sissae says it doesn't sound like she'd be much help, so she'll stay with Grohnea while we go. In fact, she seems eager to stay although also she seems to very much dislike Grohnea. It's odd, but Grohnea didn't have any objections, so...?
 
-</div>
-</div>
+{% include endtabs %}

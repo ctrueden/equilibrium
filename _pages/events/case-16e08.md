@@ -8,6 +8,8 @@ session-number: 85
 session-date: 2025-02-08
 ---
 
+{% include tab id="summary" label="Summary" first=true %}
+
 <div style="display: inline-block; text-align: center" markdown=1>
 [![Massive tree roots](https://i.pinimg.com/236x/88/f1/17/88f117de87a3d1ac91dcb8bfdcda77d9.jpg)](https://www.pinterest.com/pin/633387442555197/)<br>Chamber of Horrors
 </div><div style="display: inline-block; text-align: center" markdown=1>
@@ -22,11 +24,7 @@ session-date: 2025-02-08
 [![Black Slime Eyes and Mouths](https://i.pinimg.com/236x/1b/9a/b9/1b9ab926c57fe362b9f37f9ad040e987.jpg)](https://www.pinterest.com/pin/292945150774630707/)<br>Shadow Slime
 </div>
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" %}
 
 [Oz](../dossiers/oz) slices through the creature in front of him, and apparently reality itself. Out of the rift pops out a mean-looking cow and an angry-looking sheep. They move over to [Freki](../dossiers/freki), but not to attack.
 
@@ -157,5 +155,4 @@ NotVondal says he came for power over death, and he got it. Freki says power ove
 
 Oz spots a tattoo of a white crane on his ankle.
 
-</div>
-</div>
+{% include endtabs %}

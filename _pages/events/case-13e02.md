@@ -9,9 +9,9 @@ session-date: 2023-02-03
 session-event: https://www.facebook.com/events/846270163301081/
 ---
 
-The SPI was on the trail of a [suspected doppelganger](../dossiers/amisa-swiftaxe), the spitting image of one of their [former colleagues](../dossiers/sima). But then her trail suddenly disappeared midstep! And [Freki](../dossiers/freki) is being shadowed by a mysterious and malicious-seeming third raven...
+{% include tab id="summary" label="Summary" first=true %}
 
----------
+The SPI was on the trail of a [suspected doppelganger](../dossiers/amisa-swiftaxe), the spitting image of one of their [former colleagues](../dossiers/sima). But then her trail suddenly disappeared midstep! And [Freki](../dossiers/freki) is being shadowed by a mysterious and malicious-seeming third raven.
 
 Freki asks [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin) if they saw where they prey went. They tell Freki:
 
@@ -21,15 +21,9 @@ She walked through the veil.
 We cannot follow without knowing what she knows.
 " %}
 
-They track her trail to a place where it ends in midstep. Oz's hand feels weird as he waves his sword through the space where the step ends.
+They track her trail to a place where it ends in midstep. Oz's hand feels weird as he waves his sword through the space where the step ends...
 
-------------------
-
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie's Journal" %}
 
 We find a spot that is described as a "veil" or "portal," although it's invisible. Cal and Oz decide to go through. From my outside perspective, they don't seem to have gone anywhere, but it's pretty funny to watch them get a running start at nothing.
 
@@ -65,5 +59,4 @@ I want to know what they know about the white crane tattoo/cult. Several of them
 
 Cal, Freki, and Oz are not part of the mind link. So they're watching when a centaur named Talos comes riding in with Cal's sword at his hip.
 
-</div>
-</div>
+{% include endtabs %}

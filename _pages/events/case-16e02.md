@@ -11,11 +11,7 @@ session-event: https://www.facebook.com/events/3909460632609132/
 
 ![](https://i.pinimg.com/236x/26/e4/13/26e4135fb5922d27726d9a341d7465dc.jpg) <!-- https://www.pinterest.com/pin/5911043254576309/ -->
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 "The living are not welcome here," says Audreth. "Now you will pay the final price."
 
@@ -154,5 +150,4 @@ Audreth uses some sort of primordial power to share his memory of Lorelei with a
 >
 > ...I met a dwarf named Varric Tethras who suggested that I write down all my adventures. And now you know the rest of the story!
 
-</div>
-</div>
+{% include endtabs %}

@@ -8,11 +8,7 @@ session-number: 95
 session-date: 2025-11-08
 ---
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 [Bec](../dossiers/bec) and [Freki](../dossiers/freki) escort [Ulgrim](../dossiers/ulgrim-bearwalker) to the hot spring and explains how to will yourself down through it into the secret magic chamber. She demonstrates how to float down through the column of water, when suddenly her feet bang against something. An underwater glub-glub sounding voice yells out from underneath. It's [Vondal](../dossiers/vondal)! That guy shows up in the weirdest places, I swear.
 
@@ -100,5 +96,4 @@ How about [Sophie Steelboots](../dossiers/sophie-steelboots)? That's basically a
 
 Oz tries to let go of the crystal ball, sensing that it's the only way to break the connection. Freki grows into the wolf and grabs the crystal ball that Oz is trying to let go of. Freki fetches the ball and then..........BITES OZ TO SAVE HIM.
 
-</div>
-</div>
+{% include endtabs %}

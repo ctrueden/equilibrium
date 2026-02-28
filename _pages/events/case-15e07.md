@@ -9,11 +9,7 @@ session-date: 2024-06-01
 session-event: https://www.facebook.com/events/2163438610685771/
 ---
 
-<div class="recap-tabs">
-
-<input type="radio" name="recap" id="recap-callie" checked>
-<label for="recap-callie">Callie's Journal</label>
-<div class="tab-panel" markdown=1>
+{% include tab id="callie" label="Callie Journal" first=true %}
 
 [Bec](../dossiers/bec) casts *cloud of daggers* and creates a pretty purple storm. Stylish and lethal, that's our Bec! After slicing off, just, like, so many tentacles, she sneaks around towards the sarcophagus.
 
@@ -126,5 +122,4 @@ Lingering questions:
 
 &#x2728; LEVEL UP to 11! &#x2728;
 
-</div>
-</div>
+{% include endtabs %}
