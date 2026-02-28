@@ -1,7 +1,7 @@
 ---
 title: Benirree the Elegant
-image: https://3.bp.blogspot.com/-PITdgDvcs-A/XMJZvXOGz4I/AAAAAAAAC2c/triv-3jnCZUf5w7Stea2AA3Zar8rCRf7gCEwYBhgL/s1600/Water%2BElemental%2B7.jpg
-image-source: https://www.remixesandrevelations.com/2019/04/osr-elemental-courts-of-water.html
+image: https://i.pinimg.com/originals/b9/74/94/b974945571553626ec4611d29c5bbf2d.png
+image-source: https://www.pinterest.com/pin/111464159523264745/
 statbox:
   race: genie (marid)
   gender: female
