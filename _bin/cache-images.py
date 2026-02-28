@@ -84,8 +84,12 @@ def get_local_path(url):
     """Convert a URL to a local cache path."""
     try:
         parsed = urlparse(url)
+        # Strip leading underscores from each path component: Jekyll excludes any
+        # file/directory whose name starts with '_' at any depth of the source tree.
+        parts = parsed.path.lstrip('/').split('/')
+        sanitized = '/'.join(p.lstrip('_') for p in parts)
         # Create path like /assets/cache/domain.com/path/to/image.jpg
-        local_path = CACHE_DIR / parsed.netloc / parsed.path.lstrip('/')
+        local_path = CACHE_DIR / parsed.netloc / sanitized
         return local_path
     except Exception:
         return None

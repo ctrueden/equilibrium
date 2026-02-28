@@ -28,7 +28,11 @@
         const pathname = urlObj.pathname;
 
         // Create the local cache path: /equilibrium/assets/cache/<domain><pathname>
-        const localPath = `/equilibrium/assets/cache/${domain}${pathname}`;
+        // Strip leading underscores from each component: Jekyll excludes any file/directory
+        // whose name starts with '_' at any depth, so we sanitize to match what the
+        // cache-images.py script writes.
+        const sanitizedPathname = pathname.split('/').map(p => p.replace(/^_+/, '')).join('/');
+        const localPath = `/equilibrium/assets/cache/${domain}${sanitizedPathname}`;
 
         img.setAttribute('src', localPath);
       } catch (e) {
