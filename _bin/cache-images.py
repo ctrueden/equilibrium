@@ -89,6 +89,25 @@ def extract_images_section_urls(file_path):
     except Exception:
         return []
 
+def extract_body_image_urls(file_path):
+    """Extract image URLs from markdown image syntax in the page body.
+
+    Handles: ![alt](url) and [![alt](url)](link) patterns.
+    """
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        # Strip front matter so we only scan the body
+        body = re.sub(r'^---\n.*?\n---\n', '', content, count=1, flags=re.DOTALL)
+
+        urls = []
+        for m in re.finditer(r'!\[[^\]]*\]\((https?://[^)\s]+)\)', body):
+            urls.append(m.group(1))
+        return urls
+    except Exception:
+        return []
+
 def download_image(url, output_path):
     """Download an image from URL to output_path."""
     # Create directory structure
@@ -183,6 +202,10 @@ def main():
 
         # Also collect from nested 'images:' section (e.g. gallery page)
         for url in extract_images_section_urls(md_file):
+            urls_to_cache.add(url)
+
+        # Also collect from inline markdown images in the body
+        for url in extract_body_image_urls(md_file):
             urls_to_cache.add(url)
 
     print(f"Found {len(urls_to_cache)} unique image URLs\n")
