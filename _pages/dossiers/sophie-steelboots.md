@@ -11,3 +11,5 @@ statbox:
 ---
 
 An unlucky halfling exiled from [Xaryuvia](../locales/xaryuvia), who becomes the quarry for a vampire hunt in [Sepulchralis](../locales/sepulchralis).
+
+TODO: Update Sophie dossier with SPI's current knowledge.
