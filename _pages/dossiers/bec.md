@@ -1,4 +1,45 @@
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 title: Bec Galere
 image: /equilibrium/assets/images/bec.jpg
 domains: [Knowledge, Nature]
@@ -63,6 +104,130 @@ magic-items:
     rarity: TODO
     value: TODO
 js: [sorttable]
+descriptions:
+  - session: "07e02"
+    content: |
+      Conversed with the pirate Alex Orbach during the auction, attempting to gather information.
+  - session: "07e04"
+    content: |
+      Assisted in investigating Tremere's murder and detected magic on his Periapt of Health.
+  - session: "07e05"
+    content: |
+      Pelted the carnivorous plant with magic missiles during the combat in the Arcane Lab.
+  - session: "08e02"
+    content: |
+      Performed exploratory surgery on Squatch the golem to investigate his internal injury.
+  - session: "09e01"
+    content: |
+      Along with Vondal, created bubbles of stable reality in the crystalline flux that combined to form the yachtopus.
+  - session: "09e02"
+    content: |
+      First to pass through the barrier back into SPI HQ from the chaotic flux realm.
+  - session: "10e02"
+    content: |
+      Asked practical questions about the morality of relocating the Cornucopia artifact.
+  - session: "10e04"
+    content: |
+      Deciphered an ancient druidic ritual to enable the teleportation of the Cornucopia.
+  - session: "12e05"
+    content: |
+      Cast a tiny hut for shelter near a dormina tree, protecting the party from mysterious psychic threats.
+  - session: "12e06"
+    content: |
+      Worked alongside Enoki and others to perform a ritual that would calm the entire mushroom field at once.
+  - session: "12e07"
+    content: |
+      Traveled in the portable hole and cast rope trick for air; later warned about powerful illusion magic protecting the Fruit.
+  - session: "12e08"
+    content: |
+      Battled against thorns and the enemy combatants, used hypnotic gaze to charm one of the giant shrikes.
+  - session: "12e09"
+    content: |
+      Jumped down a portal after determining it was safe, discovering a mushroom infestation at the palace level of the Tree.
+  - session: "12e10"
+    content: |
+      Hesitated watching others' reactions, then cast confusion on the party to incapacitate Isis and the gnome.
+  - session: "12e11"
+    content: |
+      Saw through shadow conjuration illusions, dispelled magical effects in the vault, and warned about powerful illusion magic.
+  - session: "12e12"
+    content: |
+      Used mage hand to hold and manipulate the Book during the final battle against the ooze.
+  - session: "13e01"
+    content: |
+      Tested the nature of a doppelganger's blood by reacting it with antitoxin and water, discovering its shapeshifting instability.
+  - session: "13e02"
+    content: |
+      Linked minds with other party members to learn about the changeling society and their belief that a Vanishing event caused the Flux.
+  - session: "13e03"
+    content: |
+      Cast Dispel Magic to remove magical snow and engaged the centaur with Magic Missile during the battle.
+  - session: "13e04"
+    content: |
+      Failed a save against Talos's god-essence theft and felt permanently diminished; later helped address cultural concerns about Isis's body.
+  - session: "14e00"
+    content: |
+      Supported the healing ritual for Mallory and later assisted in cleansing the monkey statue to free Cassandra's consciousness.
+  - session: "14e01"
+    content: |
+      Received the spellbooks of Sartus Morningdew from the elves as a gift of trust; identified magical items on Arallu representatives.
+  - session: "14e02"
+    content: |
+      Recognized Lady Ilyana Nightshade and cast dispel magic on Oz to break her charm; noticed the ring of Vecna she wore.
+  - session: "14e03"
+    content: |
+      Discovered trapped souls in the Gallery of Whispers paintings; found a journal by Ilyana Nightshade detailing her alchemical research into undeath and the Philosopher's Stone.
+  - session: "14e04"
+    content: |
+      Offered Vecna a secret to gain knowledge and received visions of the crypts and the Celestial Hand; accepted the hand from Cal and consulted it for guidance.
+  - session: "14e05"
+    content: |
+      Recognized the difference between vampires and spawn; cast fire shield to burn the elegant vampire who grappled her.
+  - session: "15e00"
+    content: |
+      Impacted Bilbo with a mace strike and gathered information about the halfling community and vampire politics.
+  - session: "15e01"
+    content: |
+      Found Bilbo's journal containing evidence of his internal conflict about preventing the rise of halfling undead.
+  - session: "15e02"
+    content: |
+      Danced with Etria LeDuc at the vampire ball and conversed about magic and the nature of immortality; charmed by Etria's hedonistic philosophy.
+  - session: "15e03"
+    content: |
+      Pursued Sophie through the undead-infested Soulbound Rest and used protective magic to shelter the team.
+  - session: "15e04"
+    content: |
+      Used hypnotic gaze to temporarily control Sophie during the Hunt; disarmed her of the cursed sword.
+  - session: "15e05"
+    content: |
+      Supported the team's infiltration of the Soulbound Rest and prepared rituals to aid the mission.
+  - session: "15e06"
+    content: |
+      Vaulted over pews and engaged the Death Tyrant; cast cloud of daggers and snuck toward the sarcophagus containing the Brucolac.
+  - session: "15e07"
+    content: |
+      Discovered trapped souls in the Elysium Sanctum and learned from the Celestial Hand that it was once the Hand of Vecna; dispelled charms affecting Cal.
+  - session: "15e08"
+    content: |
+      Received guidance from the Celestial Hand during the Brucolac battle; felt her divinity manifest and cast powerful magic to help the team survive.
+  - session: "15e09"
+    content: |
+      Returned to SPI HQ unconscious from the final battle; discovered she could hear spirits trapped within the Celestial Hand and located a hidden trap door in the basement.
+  - session: "17e00"
+    content: |
+      Helped assess Lorelei's Flux condition and participated in debates over cure methods; showed willingness to dispose of ethically problematic research materials and provided pragmatic guidance during heated strategy discussions.
+  - session: "17e06"
+    content: |
+      Delivered paralyzing enchantments that left enemies vulnerable to devastating attack; her magical precision proved critical in turning the tide against Rhyzophus's overwhelming force.
+  - session: "17e09"
+    content: |
+      Provided expert knowledge about the bloom curse and its mechanisms; explored the ritual chamber's ancient magic and helped the party understand the scope of Rhyzophus's ambitions.
+  - session: "case-16e08"
+    content: |
+      Transformed with green skin and body spines after defying Megaera's will; gained piercing damage on unarmed attacks and the ability to see in the dark, though at a stealth disadvantage.
+  - session: "case-16e04"
+    content: |
+      After gazing into the Great Old One's eye, Bec lost her ability to take anything seriously; agents discovered they were trapped in a false Afterworld created by Flux corruption.
 ---
 
 An enchantress seeking to further her mastery of magic, and to find out what happened to her father.

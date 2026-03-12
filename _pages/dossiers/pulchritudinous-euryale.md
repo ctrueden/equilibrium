@@ -1,4 +1,5 @@
 ---
+
 title: Pulchritudinous Euryale
 image: https://i.pinimg.com/originals/68/88/eb/6888eb29f965be18e2c068d6f93f4576.png
 image-source: https://www.pinterest.com/pin/51228514499147176/
@@ -8,6 +9,10 @@ statbox:
   profession: dealer in information
   case: "02"
   pronunciation: "yer-AYE-uh-lee"
+descriptions:
+  - session: "02e02"
+    content: |
+      SPI agents apprehended the medusa suspect at her villa after she confessed to stealing the Necronomicon in exchange for a potion to restore her humanity.
 ---
 
 Euryale was a "dealer in information"&mdash;i.e., a blackmailer&mdash;who posed

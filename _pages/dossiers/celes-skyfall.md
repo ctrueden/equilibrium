@@ -1,4 +1,5 @@
 ---
+
 title: Celes Skyfall
 image: https://i.pinimg.com/originals/b0/79/a7/b079a7d1581fb0adc4c38be30260a988.jpg
 image-source: https://www.pinterest.com/pin/822469950677624419/
@@ -8,6 +9,10 @@ statbox:
   profession: bodyguard
   class: paladin (ancients)
   case: "12"
+descriptions:
+  - session: "12e12"
+    content: |
+      A paladin present in the throne room who objected to harming the Queen, used lay on hands to heal allies, and helped retrieve a page of the Book for Freki's arrow.
 ---
 
 One of the elven queen's bodyguards.

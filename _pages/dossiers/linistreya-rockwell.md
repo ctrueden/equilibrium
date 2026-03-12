@@ -1,4 +1,5 @@
 ---
+
 nav-title: Linistreya Rockwell
 title: Linestreya "Lini" Grumbletuft Rockwell
 image: https://i.pinimg.com/originals/14/65/13/1465136f48156137df1d99278c95ddde.png
@@ -9,6 +10,10 @@ statbox:
   gender: female
   profession: political advisor
   case: "11"
+descriptions:
+  - session: "10e04"
+    content: |
+      Callie's mother who received the Cornucopia in her foyer and urgently demanded explanation via sending spell.
 ---
 
 [Callie](callie)'s mother, and wife of

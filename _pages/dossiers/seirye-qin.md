@@ -1,4 +1,5 @@
 ---
+
 title: Seirye Qin
 image: https://i.pinimg.com/originals/6e/cd/8b/6ecd8bc2daba980d42179184f93637dd.jpg
 image-source: https://www.pinterest.com/pin/636203884848275594/
@@ -9,6 +10,10 @@ statbox:
   profession: SPI agent
   case: "10"
   pronunciation: "SEAR-yee KEEN"
+descriptions:
+  - session: "10e01"
+    content: |
+      Sought to secure the Cornucopia by having the party teleport it away. Showed concern about Meroe's flux taint.
 ---
 
 Seirye Qin is an [SPI](../orgs/spi) agent who disappeared during the

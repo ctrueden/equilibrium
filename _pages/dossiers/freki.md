@@ -1,4 +1,45 @@
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 title: Freki Sarin
 #image: https://static.wikia.nocookie.net/evenfall/images/7/76/Shifter_%282%29.jpg
 image: /equilibrium/assets/images/freki-hybrid.jpg
@@ -67,6 +108,130 @@ magic-items:
     link: https://2014.5e.tools/items.html#bracers%20of%20archery_dmg
     rarity: uncommon (major)
     value: 1500
+descriptions:
+  - session: "06e02"
+    content: |
+      Met the gnoll elder Ni and agreed to help investigate the tribe's mysterious tragedy. Hired as a guide by the SPI for 11 gold per day.
+  - session: "07e01"
+    content: |
+      Scouted the 4th Circle of Estanesse for 24 hours and reported the location and arriving guests.
+  - session: "07e04"
+    content: |
+      Followed Dominic Tremere to the Conservatory and overheard his conversation with the lich.
+  - session: "07e05"
+    content: |
+      Shot the carnivorous plant with arrows and heroically ripped his way out of its gullet in werewolf form.
+  - session: "08e01"
+    content: |
+      Performed at the circus and spoke privately with Meroe about a performance opportunity.
+  - session: "10e01"
+    content: |
+      Gave Ceowyn Mandragoran a branch from the Shadow Forest tree, claiming it was involved in the Incident.
+  - session: "12e05"
+    content: |
+      Reappeared after being trapped in a force maze, rejoining the party's journey up the World Tree.
+  - session: "12e07"
+    content: |
+      Attempted to enter a portable hole but panicked due to discomfort with magic, was banished by Vondal, and then flew alongside Callie.
+  - session: "12e08"
+    content: |
+      Transformed into hybrid form, brutally attacked the spellcaster and tore off her mask, revealing Isis Ra'ksh beneath.
+  - session: "12e09"
+    content: |
+      Dropped into the portal with a declaration to enemies, discovering the ground level of the World Tree.
+  - session: "12e10"
+    content: |
+      Wolfed out and lunged at Phoebe's throat when sensing something wrong, grappling the unconscious gnome.
+  - session: "12e11"
+    content: |
+      Transformed and attacked shadow illusions, resisted the mind blast from Janus, and engaged throughout the vault battle.
+  - session: "12e12"
+    content: |
+      Shot a lightning arrow at the ooze, incorporated a page of the Necronomicon into an arrow of slaying to obliterate the entity, but suffered oily corruption on his hand.
+  - session: "13e01"
+    content: |
+      Led the SPI team in pursuing a doppelganger suspected to be an imprint of Sima, discovering an invisible veil and a mysterious third raven following the party through the Selva toward Alye'adu.
+  - session: "13e02"
+    content: |
+      Discovered that the doppelganger vanished through an invisible veil, later learning about the changeling village of Alye'adu and its system of imprints and anchors.
+  - session: "13e03"
+    content: |
+      Fought alongside the party against the centaur warlord Talos and the orc shaman Andalla, who had infiltrated the changeling village seeking to steal their shapeshifting powers.
+  - session: "13e04"
+    content: |
+      Engaged in a fierce battle with Talos in his were-tiger-centaur form, discovering he and Hugin/Munin had been spiritually affected by Talos's god-stealing attack.
+  - session: "14e00"
+    content: |
+      Questioned villagers about lycanthropy and discovered other animal-form users in the settlement; participated in Cassandra's rescue.
+  - session: "14e01"
+    content: |
+      Crafted special arrows during downtime; later collected DNA samples from field agents by scent.
+  - session: "14e02"
+    content: |
+      Offered a mutually beneficial alliance to Lady Nightshade but she demanded worship instead; attacked her with an ensnaring strike when she attempted mental control.
+  - session: "14e03"
+    content: |
+      Shot Lady Nightshade in the neck as she emerged from a rift, closing it on her head and killing her; discovered memories through a mystical mirror showing his father's death.
+  - session: "14e04"
+    content: |
+      Received revelation from Hugin and Munin that he is a pawn with a great destiny involving death; learned he was born under the sign of death and brings death with him; resolved to kill Talos.
+  - session: "14e05"
+    content: |
+      Felt an urge to claw when attacked by a vampire; initially reached for his sword but that felt wrong; began a transformation into a wolf form.
+  - session: "15e00"
+    content: |
+      Discovered his true nature as a werewolf when bitten during vampire combat and calmly accepted his wolf heritage with help from Callie and his mystical ravens Hugin and Munin.
+  - session: "15e01"
+    content: |
+      Conspired with the SPI team to subdue Bilbo and use him as a disguise for infiltrating the vampire ball in Sepulchralis.
+  - session: "15e02"
+    content: |
+      Attended the ball and observed vampire politics; followed Lestache's suspicious movements and used his ravens to spy on a clandestine meeting.
+  - session: "15e03"
+    content: |
+      Tracked Sophie through illusory scents and navigated undead hazards in the Soulbound Rest; drew first blood against her to win the Hunt.
+  - session: "15e04"
+    content: |
+      Clashed directly with the cursed Sophie and worked with Cal to overcome her and secure their victory in the Hunt.
+  - session: "15e05"
+    content: |
+      Carried the portable hole containing the SPI team through the Soulbound Rest with remarkable stealth and navigation.
+  - session: "15e06"
+    content: |
+      Shot the Death Tyrant with lightning arrows and made a spiritual oath to slay it; his ravens appeared to guide his final arrow toward the creature.
+  - session: "15e07"
+    content: |
+      Engaged the Brucolac in direct combat and received encouragement from his ravens Hugin and Munin to embrace all his forms equally.
+  - session: "15e08"
+    content: |
+      Grappled Enoch during the Brucolac battle; resisted bloodlust and listened to his ravens' guidance about his true nature.
+  - session: "15e09"
+    content: |
+      Escaped the Brucolac's sanctum and attempted to destroy the mist form of Enoch; returned to SPI HQ and checked on his raven companions.
+  - session: "17e00"
+    content: |
+      Found himself connected to Lorelei's protection through the raven cloak via a symbiotic bond; consulted his bird companions on next steps and made the difficult choice to let allies depart into uncertain danger.
+  - session: "17e04"
+    content: |
+      Calmed a behir by offering to free it from captivity in exchange for patience; established a dangerous alliance with the creature that might be useful if the mission went poorly.
+  - session: "17e06"
+    content: |
+      Killed multiple enemy giants in rapid succession through savage melee attacks while in werewolf form, becoming a legend in the process with his relentless assault and tactical positioning.
+  - session: "17e08"
+    content: |
+      Attempted to heal Oz's vampiric wound by biting him in werewolf form, believing lycanthropy could counteract vampiric corruption; the action worked but led to violent misunderstanding when Oz retaliated.
+  - session: "17e09"
+    content: |
+      Confronted Oz about consent after his unauthorized healing bite, demanding apology and threatening severe consequences if such violation occurred again; remained a loyal ally despite the tension.
+  - session: "case-16e09"
+    content: |
+      Led the party in confronting Nondal at the Afterworld gate; managed to grapple and attack Nondal despite his elusive nature, and later discovered a death magic effect implanted in his body.
+  - session: "case-16e08"
+    content: |
+      Transformed with venomous fangs and a poisonous bite; everything around him dies and turns to dust beneath his feet, making him a harbinger of blight wherever he walks.
+  - session: "case-16e04"
+    content: |
+      After gazing into the Great Old One's eye, Freki experienced intense revulsion toward the Flux; Vondal's intervention replaced this with a delusion that he could squeeze through any space.
 ---
 
 Freki is a bounty hunter who venerates nature and despises magic. He prowls the [Selva](../locales/selva), seeking prey.

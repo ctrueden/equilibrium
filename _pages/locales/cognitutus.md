@@ -1,4 +1,5 @@
 ---
+
 title: Cognitutus
 statbox:
   races:
@@ -14,6 +15,10 @@ statbox:
   - W: ocean
 image: https://i.pinimg.com/originals/3b/ad/62/3bad6293be0e4802b87463065e98b213.png
 image-source: https://www.pinterest.com/pin/78320481014235853/
+descriptions:
+  - session: "10e04"
+    content: |
+      Secret underwater gnome city where Callie's family vault was used to hide the Cornucopia artifact.
 ---
 A great city built by gnomes, which disappeared during the War of Countless Dead. Once on the west coast of Aecus, the story goes that it was reclaimed by the sea: the coastline collapsed, and the city sank. Some believe the event was an act of war, others a punishment by the gods. But no one living then has clear memories of exactly what happened. Since then, gnomes have been few and far between.
 

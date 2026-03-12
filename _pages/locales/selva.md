@@ -1,4 +1,6 @@
 ---
+
+
 title: The Selva
 statbox:
   races:
@@ -19,6 +21,13 @@ image: https://i.pinimg.com/originals/2e/1e/76/2e1e76d911db4ecf45c695b5464dab6e.
 image-source: https://www.pinterest.com/pin/384917099407757932/
 image2: https://i.pinimg.com/originals/94/40/0e/94400ec72320e425add8e0f9e59846f7.jpg
 image2-source: https://www.pinterest.com/pin/52284045666122393/
+descriptions:
+  - session: "13e01"
+    content: |
+      The SPI pursued a doppelganger through the rainforest for six days while being shadowed by a mysterious third raven with unknown intentions.
+  - session: "13e04"
+    content: |
+      Honored by warrior tradition when Talos yielded to the SPI, allowing them to set terms for peace, demonstrating the Selva's cultural emphasis on combat prowess.
 ---
 [Orcish](../creatures/orcs) tribes that vie for control of rainforest territory. Deep in the jungle to the southeast, it is said that monstrous [aberrations](https://dungeonsdragons.fandom.com/wiki/Aberration) and even [abominations](https://dungeonsdragons.fandom.com/wiki/Abomination) rampage freely.
 

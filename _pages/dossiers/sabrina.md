@@ -1,4 +1,8 @@
 ---
+
+
+
+
 title: Sabrina
 image: https://i.pinimg.com/originals/12/67/59/1267591450aa9c5304a4a54b843e7040.jpg
 image-source: https://www.pinterest.com/pin/18647785947466680/
@@ -16,6 +20,19 @@ statbox:
   class: psion
   tribe: Malosi
   case: "06"
+descriptions:
+  - session: "06e03"
+    content: |
+      Young entity with reality-warping powers who befriended Kavaki. Saved Callie from a fireball explosion using time manipulation and protective magic.
+  - session: "06e05"
+    content: |
+      Accompanied the party south to search for the location where Kavaki was attacked.
+  - session: "06e06"
+    content: |
+      Fought alongside the SPI against the demonic manifestation created during the Flux Capacitor's destruction.
+  - session: "13e04"
+    content: |
+      Appeared at Alye'adu riding on an iron golem after the battle, revealed to be a githzerai with mysterious psionic powers affecting the village's memory.
 ---
 
 TODO

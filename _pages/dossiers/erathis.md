@@ -1,4 +1,6 @@
 ---
+
+
 nav-title: Erathis
 title: Erathis, Goddess of Civilization and Invention
 image: https://i.pinimg.com/originals/83/1e/bb/831ebbd47e4ca31137e281796c352857.jpg
@@ -27,6 +29,13 @@ links:
 - 5E Dawn War|https://2014.5e.tools/deities.html#erathis_dawn%20war_dmg
 - 5E Exandria|https://2014.5e.tools/deities.html#erathis_exandria_egw
 - 5E Greek|https://2014.5e.tools/deities.html#athena_greek_phb
+descriptions:
+  - session: "14e00"
+    content: |
+      Referenced as the twin goddess to Avandra in Callie's pantheon.
+  - session: "14e03"
+    content: |
+      Identified on the divine map chart with specific elemental and domain attributes.
 ---
 
 ## Precepts

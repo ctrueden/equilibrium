@@ -1,4 +1,6 @@
 ---
+
+
 nav-title: Queen Ambriel Estanesse
 title: Ambriel Estanesse, Queen of the Fae
 image: https://i.pinimg.com/originals/30/c3/29/30c3294db371313914549193db4b429c.jpg
@@ -7,6 +9,13 @@ statbox:
   race: elf (eladrin)
   gender: female
   case: "12"
+descriptions:
+  - session: "12e05"
+    content: |
+      Appeared to the party in the Feywild, revealed her impending death, and made binding oaths with several party members.
+  - session: "12e12"
+    content: |
+      Was possessed by Zuggtmoy and chained to her throne with cold iron; freed when Vondal cast banishment to expel the entity.
 ---
 
 Queen of the [Fae](../creatures/fey).

@@ -1,4 +1,6 @@
 ---
+
+
 nav-title: Pelor
 title: Pelor, God of the Sun and Agriculture
 image: https://i.pinimg.com/originals/59/30/3b/59303be30a1b545998680ac86f8f051f.png
@@ -42,6 +44,13 @@ links:
 - 5E Exandria|https://2014.5e.tools/deities.html#pelor_exandria_egw
 - 5E Faerun|https://2014.5e.tools/deities.html#amaunator_faer%c3%bbnian_scag
 - Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Pelor
+descriptions:
+  - session: "10e03"
+    content: |
+      Manifest through a stone statue to test the party's valor. Allowed the Cornucopia's relocation if they defeated his guardians.
+  - session: "14e00"
+    content: |
+      The deity who granted prophecy to Saint Benedor about the hurricane's cleansing power.
 ---
 
 ## Precepts

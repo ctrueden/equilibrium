@@ -1,4 +1,6 @@
 ---
+
+
 title: Ilyana Nightshade
 image: https://i.pinimg.com/originals/e0/70/1c/e0701c66e782fb493941c836801f16a3.jpg
 image-source: https://www.pinterest.com/pin/641411171917612595/
@@ -9,6 +11,13 @@ statbox:
   gender: female
   profession: alchemist
   case: "14"
+descriptions:
+  - session: "14e02"
+    content: |
+      Confronted the agents on the manor's grand staircase with black wings; attempted to charm them into servitude with a potion and divine magic.
+  - session: "14e03"
+    content: |
+      Challenged Callie to drink her potion; grabbed the Flux from reality's rift, transforming into a mouth-creature; was killed when Freki's arrow closed the rift on her neck.
 ---
 
 ...

@@ -1,4 +1,5 @@
 ---
+
 title: Zombozo
 image: https://i.pinimg.com/originals/a2/a6/f4/a2a6f476695c687176b0a3a5c95d79a5.jpg
 image-source: https://www.pinterest.com/pin/387802217883821028/
@@ -9,6 +10,10 @@ statbox:
   gender: male
   profession: circus clown and ringmaster
   case: "08"
+descriptions:
+  - session: "08e01"
+    content: |
+      Jailed by the Luminous Defenders on suspicion of murdering two investors at the circus. Denied the accusation and made knock-knock jokes.
 ---
 
 Zombozo is the ringmaster of the Zombozo circus. He also serves as one of two

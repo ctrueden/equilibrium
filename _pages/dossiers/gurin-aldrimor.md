@@ -1,4 +1,6 @@
 ---
+
+
 title: Gurin Aldrimor
 image: https://i.pinimg.com/originals/24/74/07/247407cca1fbaee9cbaf8026a5ae2f11.jpg
 image-source: https://www.pinterest.com/pin/675821487802340688/
@@ -9,6 +11,13 @@ statbox:
   gender: male
   age: 348
   case: "03"
+descriptions:
+  - session: "03e01"
+    content: |
+      Found dead in his quarters with necromancy traces; investigation revealed a sabotaged life clock and a poisoning.
+  - session: "14e00"
+    content: |
+      Mentioned as the uncle poisoned by Hollerd in a past SPI case.
 ---
 
 Victim of [Punctuality and Perpetuity](../events/case-03).

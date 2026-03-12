@@ -1,4 +1,7 @@
 ---
+
+
+
 nav-title: Nerull
 title: Nerull, Goddess of Darkness, Death, and Doom
 image: https://i.pinimg.com/originals/ec/23/c9/ec23c9bbe6345aba85ffd56107d4b0bb.jpg
@@ -54,6 +57,16 @@ links:
 - 5E Exandria|https://2014.5e.tools/deities.html#the%20raven%20queen_exandria_egw
 - 5E Greek|https://2014.5e.tools/deities.html#hades_greek_phb
 - Wolfpack Legends|https://wolfpack-legends-dd.fandom.com/wiki/Raven_Queen
+descriptions:
+  - session: "14e04"
+    content: |
+      Identified as the Raven Queen and Freki's patron; Hugin and Munin serve her; associated with death and destiny.
+  - session: "case-16e08"
+    content: |
+      The Raven Queen opened a gate to the true Afterworld specifically to allow agents to confront Nondal and prevent him from achieving his goals of understanding and controlling death.
+  - session: "case-16e01"
+    content: |
+      Through Freki's ravens Hugin and Munin, the Raven Queen's presence was confirmed beneath SPI headquarters; the Afterworld seems inexplicably connected to the Flux breach.
 ---
 
 ## Precepts

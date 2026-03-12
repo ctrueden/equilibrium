@@ -1,4 +1,5 @@
 ---
+
 title: The Great Old One
 #image: https://i.pinimg.com/originals/d9/7d/33/d97d334546eaf0603f1917710d8b76dd.jpg
 #image-source: https://www.pinterest.com/pin/66780006969423814/
@@ -20,6 +21,10 @@ links:
   - 5E Greyhawk|https://2014.5e.tools/deities.html#tharizdun_greyhawk_phb
   - Wikipedia|https://en.wikipedia.org/wiki/Tharizdun
 case: ["16"]
+descriptions:
+  - session: "case-16e04"
+    content: |
+      When Audreth invited his patron to look upon the false Afterworld realm, the Great Old One's gaze directly affected all agents, inducing madness tailored to each; agents experienced incomprehensible visions and psychic damage.
 ---
 
 [![](https://i.pinimg.com/originals/d9/7d/33/d97d334546eaf0603f1917710d8b76dd.jpg){:style="width:100%"}](https://www.pinterest.com/pin/66780006969423814/)

@@ -1,4 +1,5 @@
 ---
+
 title: Weezer
 image: https://static.wikia.nocookie.net/forgottenrealms/images/b/b8/Kenku_5e.jpg
 image-source: https://forgottenrealms.fandom.com/wiki/Kenku
@@ -7,6 +8,10 @@ statbox:
   gender: male
   profession: animal trainer
   case: "08"
+descriptions:
+  - session: "08e02"
+    content: |
+      Kenku animal trainer who rescued Vondal from an otyugh in the trash heap.
 ---
 
 Weezer is the monster tamer and trainer for the [Zombozo](zombozo) circus.

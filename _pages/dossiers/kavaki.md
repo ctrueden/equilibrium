@@ -1,4 +1,8 @@
 ---
+
+
+
+
 title: Kavaki
 image: https://i.pinimg.com/originals/37/79/0c/37790cf2a7ed481d8000c8dbbfd7ab50.png
 image-source: https://www.pinterest.com/pin/11047961575541800/
@@ -13,6 +17,19 @@ statbox:
   gender: female
   tribe: Malosi
   case: "06"
+descriptions:
+  - session: "06e03"
+    content: |
+      Goliath warrior of the Malosi tribe who had been possessed and compelled to commit terrible acts. Met the SPI at the river with Sabrina and Mengiris.
+  - session: "06e04"
+    content: |
+      Recounted her ordeal of possession and control, agreeing to lend her six Flux tattoos to the SPI to help them recover their strength.
+  - session: "17e04"
+    content: |
+      Revealed herself as an undercover mole within Ordning's Downfall, having infiltrated the cult to prevent disaster; became a trusted ally and helped the agents plan a strategy to eliminate Rhyzophus.
+  - session: "17e07"
+    content: |
+      Claimed Skalfang's massive greataxe as her own and supported Cal's authority by vouching for him before the assembled giants; demonstrated her shift from mole to open ally.
 ---
 
 * Kavaki tells them she was not in control of her body. She was a helpless witness to her own actions.

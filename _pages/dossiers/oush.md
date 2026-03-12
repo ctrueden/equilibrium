@@ -1,4 +1,5 @@
 ---
+
 title: Ou-sh-
 image: https://i.pinimg.com/236x/6f/35/5b/6f355b59d28d5cafd2bac7878990ceb6--bird-people-monster-design.jpg
 image-source: https://www.pinterest.com/pin/409335053621090085/
@@ -10,6 +11,10 @@ statbox:
   profession: monk (Grandmaster of Winds)
   pronunciation: "Ow-<whistle>-sh-<click>"
   case: "05"
+descriptions:
+  - session: "05e01"
+    content: |
+      Grandmaster of Winds who called the SPI to investigate disappearances at the Zenithal Summit platform.
 ---
 
 Grandmaster of Winds at the [Progression of Symmetry](../orgs/progression-of-symmetry).

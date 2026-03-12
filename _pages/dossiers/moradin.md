@@ -1,4 +1,6 @@
 ---
+
+
 nav-title: Moradin
 title: Moradin, God of Creation
 image: https://i.pinimg.com/736x/89/5d/ec/895dec020514ed3801a36501dd191673.jpg
@@ -39,6 +41,13 @@ links:
 - 5E Exandria|https://2014.5e.tools/deities.html#moradin_exandria_egw
 - 5E Racial|https://2014.5e.tools/deities.html#moradin_dwarven_mtf
 - 5E Greek|https://2014.5e.tools/deities.html#hephaestus_greek_phb
+descriptions:
+  - session: "14e03"
+    content: |
+      Appeared to Vondal as a metaphysically huge dwarf-sized divine entity in the mirror, representing divine intervention in past events.
+  - session: "15e07"
+    content: |
+      Appeared in Cal's vision forging the Arkenstone into a sword while speaking of making people remember.
 ---
 
 ## Precepts

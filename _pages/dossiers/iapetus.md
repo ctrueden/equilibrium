@@ -1,4 +1,5 @@
 ---
+
 nav-title: Iapetus
 title: Iapetus, Titan of Death
 image: https://i.pinimg.com/originals/d5/af/43/d5af43e800f3147a3bf25134757541b6.jpg
@@ -12,6 +13,10 @@ statbox:
   domains: Death
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Iapetus
+descriptions:
+  - session: "14e04"
+    content: |
+      Revealed as Hyperion's titan brother who created the Book of the Dead to save the mortally wounded Cronus.
 ---
 
 One of the 12 [titans](../creatures/titans) from whom the [gods](../creatures/eternals) were born. Obsessed with curing [Cronus](cronus) of vampirism somehow.

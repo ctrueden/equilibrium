@@ -1,7 +1,20 @@
 ---
+
+
+
 title: Sepulchralis
 image: https://i.pinimg.com/originals/a2/af/15/a2af1577d103409597de3ad3abdd0f0c.jpg
 image-source: https://www.pinterest.com/pin/346143921363833462/
+descriptions:
+  - session: "14e01"
+    content: |
+      The underground Arallan necropolis where an incident occurred that prompted the SPI summons.
+  - session: "15e00"
+    content: |
+      The underground vampire city where Lestache rules; Bilbo provided shelter to the SPI team in a garlic-blessed safehouse protected by talismans of Nerull.
+  - session: "15e02"
+    content: |
+      Site of the vampire ball hosted by Lestache where multiple clan leaders gathered and the Hunt was announced.
 ---
 
 A sprawling and labyrinthine necropolis located in eastern [Arallu](arallu).

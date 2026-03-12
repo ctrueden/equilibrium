@@ -1,7 +1,12 @@
 ---
+
 title: Sprites
 image: https://i.pinimg.com/originals/e5/20/47/e52047aa291b9b3b5092e7309f0fd371.jpg
 image-source: https://www.pinterest.com/pin/396668679677662508/
+descriptions:
+  - session: "12e04"
+    content: |
+      A murder sprite was encountered in the blighted zone of the World Tree and engaged in combat.
 ---
 
 TODO

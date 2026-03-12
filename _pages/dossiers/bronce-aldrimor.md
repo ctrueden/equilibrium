@@ -1,4 +1,7 @@
 ---
+
+
+
 title: Bronce Aldrimor
 image: https://i.pinimg.com/736x/35/8d/f7/358df79ac33df4c5938f9d6d0d6dcb84.jpg
 image-source: https://www.pinterest.com/pin/392868767491454496/
@@ -10,6 +13,16 @@ statbox:
   class: wizard
   age: 105
   case: "03"
+descriptions:
+  - session: "03e01"
+    content: |
+      Wizard nephew found at army barracks; his room showed signs of necromantic activity and a missing vial.
+  - session: "03e03"
+    content: |
+      Interrogated at Aldrimor Keep after evidence of the crawling claw necromantic technique surfaced.
+  - session: "03e04"
+    content: |
+      Confronted at Aldrimor Keep and admitted to covering up his brother Hollerd's crime, establishing their deal with the SPI.
 ---
 
 Youngest nephew of Gurin Aldrimor. A self-proclaimed wordsmith, he illicitly practiced necromancy as a member of Esprit Repose.

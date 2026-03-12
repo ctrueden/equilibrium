@@ -1,7 +1,12 @@
 ---
+
 title: Xaos
 image: https://i.pinimg.com/originals/e7/71/44/e7714443bdc9ad8481fe4a82161ca268.jpg
 image-source: https://www.pinterest.com/pin/70437479904299/
+descriptions:
+  - session: "06e01"
+    content: |
+      The City of Chaos where the SPI encountered Bruck and learned of the mysterious tragedy befalling the Manufeai tribe.
 ---
 A city deep in the [Selva](selva), a gate-town at the jungle's edge.
 

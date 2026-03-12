@@ -1,4 +1,6 @@
 ---
+
+
 nav-title: Rubinia Elka
 title: Rubinia "Not a Necromancer" Elka
 statbox:
@@ -9,6 +11,13 @@ statbox:
   case: ["03", "16"]
 image-source: https://www.pinterest.com/pin/705517097865806552/
 image: https://i.pinimg.com/736x/0f/d7/d4/0fd7d4378d7f8adbb7d410b994c12dcc.jpg
+descriptions:
+  - session: "03e03"
+    content: |
+      Warned SPI that expelled Zanic Corbinic is a dangerous terrorist; shared poison knowledge that revealed midnight tears was used on Gurin.
+  - session: "case-16e06"
+    content: |
+      Confirmed to be sheltered at SPI HQ; her sister Lorelei was found under Flux control deep within the Flux tunnels where Audreth's original mission was located.
 ---
 
 Head of the Dwarven Scholarly Order of Magic at Kham Kuldohr Academy. Advisor to king Durak. Secretly also the leader of Esprit Repose, a necromancer cabal that promises it's totally using these dark powers for the good of the kingdom, and would never do anything evil.

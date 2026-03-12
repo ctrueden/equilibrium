@@ -1,7 +1,16 @@
 ---
+
+
 title: Giants
 image: https://i.pinimg.com/originals/fa/ab/bf/faabbf8a744abef18901a97a9410bab1.png
 image-source: https://www.pinterest.com/pin/480266747755710649/
+descriptions:
+  - session: "17e05"
+    content: |
+      Several giants served as reluctant soldiers for Rhyzophus's cult at the Storm Stables, held in place by magical enchantments that overrode their autonomy and free will.
+  - session: "17e07"
+    content: |
+      The surviving giant cultists were offered redemption through a dangerous quest to free the halfling colony of Xaryuvia from beholder tyranny; most accepted the quest in hopes of restoring their honor.
 ---
 
 *Note: This description is copied from elsewhere on the Internet, where it often appears on campaign setting websites (e.g. [1](https://www.worldanvil.com/w/northwest-faerun-kalarian/a/giant-species), [2](https://penrith.fandom.com/wiki/Giants), [3](https://the-miros-underground.obsidianportal.com/wikis/giants), [4](https://yourdnd.com/item.php?id=C1158AFE-3700-847A-4335-049D4ACA4C77)). I am uncertain of its origin, or I would credit it here.*

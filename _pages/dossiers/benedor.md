@@ -1,4 +1,5 @@
 ---
+
 nav-title: Saint Benedor
 title: Saint Benedor the Luminary
 image: https://i.pinimg.com/originals/8d/64/87/8d6487d2728a51e861e863db7eb0af6e.png
@@ -10,6 +11,10 @@ statbox:
   gender: male
   class: [paladin, cleric]
   profession: high priest
+descriptions:
+  - session: "14e00"
+    content: |
+      The High Priest of Pelor who invoked the SPI regarding the hurricane; believed it would cleanse the desert.
 ---
 
 Saint Benedor the Luminary is the High Priest of [Pelor](pelor), Lord Commander of the [Luminous Defenders](../orgs/luminous-defenders), and Pontiff Prime of the [Radiant Union of Pelor](../locales/rup).

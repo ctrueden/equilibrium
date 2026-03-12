@@ -1,7 +1,16 @@
 ---
+
+
 title: Eternals
 image: https://static.wikia.nocookie.net/forgottenrealms/images/f/f2/Mulhorandi_pantheon_I.jpg
 image-source: https://forgottenrealms.fandom.com/wiki/Deity
+descriptions:
+  - session: "13e04"
+    content: |
+      The SPI party members were revealed by Talos to be 'godlings' with divine essence that he and his followers hunted, offering them a choice to join the Malosi or face destruction.
+  - session: "14e03"
+    content: |
+      Referenced through the divine map chart; depicted as gods with specific elemental and domain associations.
 ---
 
 The eternals, commonly worshipped as deities[*](https://dungeonsdragons.fandom.com/wiki/Deity), are the beings that built the modern world. Many continue to participate in its growth and development. Some are newcomers seeking to claim a place amongst the divinity.
