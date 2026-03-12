@@ -1,4 +1,7 @@
 ---
+
+
+
 title: Arallu
 
 image: https://i.pinimg.com/originals/7f/87/d6/7f87d6ffc6a7098c890436481cf9ad1c.jpg
@@ -28,6 +31,16 @@ statbox:
     E: elyria
     NE: flux
     SW: glacier
+descriptions:
+  - session: "14e01"
+    content: |
+      The underground necropolis where the SPI is summoned; described as having a delicate balance of power the SPI must not disrupt.
+  - session: "14e04"
+    content: |
+      The underground undead realm beneath the manor where Invictus resides; described as a place that should never have existed.
+  - session: "14e05"
+    content: |
+      The agents escaped the manor to find themselves trapped with no easy way home; attacked by undead forces outside.
 ---
 A terrifying undead realm to the southwest, about which little is known.
 

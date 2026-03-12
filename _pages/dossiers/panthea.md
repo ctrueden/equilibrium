@@ -1,4 +1,11 @@
 ---
+
+
+
+
+
+
+
 title: Panthea
 image: https://i.pinimg.com/originals/d3/ad/51/d3ad5128e6871faff3c5fa0504ce10a4.png
 image-source: https://www.pinterest.com/pin/731623901983278906/
@@ -7,6 +14,28 @@ statbox:
   gender: female
   profession: acrobat
   case: ["08", "09", "10"]
+descriptions:
+  - session: "08e02"
+    content: |
+      Circus acrobat who revealed she had a past incident with Zombozo that was emotionally significant.
+  - session: "08e03"
+    content: |
+      Reluctantly fought alongside Meroe but ultimately agreed to surrender in exchange for fair treatment, apologizing before being pushed off the carpet.
+  - session: "09e01"
+    content: |
+      Underwent reality warping in the crystalline flux zone, eventually transforming into an anemone form.
+  - session: "09e03"
+    content: |
+      Also suffered from flux taint that was dispelled along with Meroe. The two fled together from SPI HQ.
+  - session: "10e01"
+    content: |
+      Revealed to be suffering from flux taint but kept it secret from the party.
+  - session: "10e02"
+    content: |
+      Revealed to be Ozborn in disguise when a chunk of her hair transformed into him. Also carried flux taint.
+  - session: "10e03"
+    content: |
+      Judged by Pelor and drank from the Water of Life, which cleansed her soul and allowed her to pass on to the afterlife.
 ---
 
 Panthea was an acrobat in the [Zombozo](zombozo) circus. She performed with the

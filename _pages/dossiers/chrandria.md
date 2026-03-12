@@ -1,4 +1,5 @@
 ---
+
 title: Princess Chrandria
 image: https://i.pinimg.com/originals/ce/b2/d6/ceb2d6f6cd63e06c218a0e5e706673f9.jpg
 image-source: https://www.pinterest.com/pin/2322237297630669/
@@ -6,6 +7,10 @@ statbox:
   race: merfolk
   gender: female
   case: "11"
+descriptions:
+  - session: "11e09"
+    content: |
+      A mermaid princess of Antigua who, freed from aboleth corruption, joined with the merfolk in believing the SPI agents were prophesied saviors.
 ---
 
 Princess of the [Waters of Antigua](../locales/antigua).

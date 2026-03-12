@@ -1,4 +1,5 @@
 ---
+
 title: Skyrealm
 image: https://i.pinimg.com/originals/42/81/0f/42810fdb7c4db8b06576e39678e0ce5d.jpg
 image-source: https://www.pinterest.com/pin/359443614007132732/
@@ -11,6 +12,10 @@ statbox:
   - gargoyles
   cities:
   - aether
+descriptions:
+  - session: "14e00"
+    content: |
+      Where dragons have pledged to dispel the hurricane, opposed to the SPI's interests.
 ---
 
 Skyrealm is the northernmost part of the [Zephyr Federation](zephyr).

@@ -1,4 +1,5 @@
 ---
+
 title: Gaia, Mother of Aecus
 image: https://i.pinimg.com/originals/0a/33/94/0a33942fa533392a5e25720039980f6c.jpg
 image-source: https://www.pinterest.com/pin/20266267064628115/
@@ -10,6 +11,10 @@ statbox:
   - Mystra
   - The Goddess
   domains: Nature
+descriptions:
+  - session: "14e03"
+    content: |
+      Depicted on the portal as the Divine Mother, predating the eternals and representing the source of all life.
 ---
 
 The Divine All-Mother, believed by many to be the source of all life. According to many [creation myths](../religion), Gaia predates the [eternals](../creatures/eternals) and even the [titans](../creatures/titans). There are some who claim that [Aecus](../locales/aecus) itself *is* Gaia, with all elemental forces merely her aspects.

@@ -1,4 +1,5 @@
 ---
+
 title: Zanic Corbinic
 image: https://i.pinimg.com/originals/8b/c7/c1/8bc7c1ede04c5662352a3ecf71b085af.png
 image-source: https://www.pinterest.com/pin/11329436553304569/
@@ -8,6 +9,10 @@ statbox:
   profession: writer
   age: 73
   case: "03"
+descriptions:
+  - session: "03e04"
+    content: |
+      Necromancer member of Esprit Repose who was cornered and defeated by SPI agents after orchestrating Gurin Aldrimor's death.
 ---
 
 Zanic was a writer who believed that dwarven law is exploitative of the masses in favor of the Seven Clans, and wanted equality for everyone across the [Mountain and the Veldt](../locales/mountain). He was anti-patriarchy, anti-slavery and anti-monarchy. Zanic sought to dissolve the Seven Clans in favor of an all-inclusive democratic assembly, by launching a movement called the Free Dwarven Society.

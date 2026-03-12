@@ -1,4 +1,16 @@
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 title: The Flux
 image: https://i.pinimg.com/originals/6f/17/84/6f17849499ed65465b5d5e10e9050bf3.jpg
 image-source: https://www.pinterest.com/pin/785948572465860728/
@@ -23,6 +35,43 @@ statbox:
   - SW: arallu
   - W: ocean
   - NW: trell
+descriptions:
+  - session: "13e04"
+    content: |
+      Vondal used wild magic to weave the Flux around Alye'adu's entrance, transforming it into a wild magic door to protect the village.
+  - session: "14e00"
+    content: |
+      Referenced as wild magic that may have scattered agents; discussed in Mallory's context.
+  - session: "14e02"
+    content: |
+      Sensed throughout Evershroud Manor, creating wild magic surges and chaotic tendrils everywhere.
+  - session: "14e03"
+    content: |
+      Present throughout the manor as chaotic tendrils; pulled directly into Lady Nightshade when she ripped open reality.
+  - session: "14e04"
+    content: |
+      Described as unreality, everything outside the world; kept out by divine binding of elements; appears to be breaking down with a potential missing ninth element.
+  - session: "14e05"
+    content: |
+      Referenced by Vondal when using his Wand of Wonder to avoid igniting it in the manor's environment.
+  - session: "15e03"
+    content: |
+      Encountered as pervasive dark energy during the Hunt in the Soulbound Rest; presents constant magical danger.
+  - session: "15e07"
+    content: |
+      Revealed to have been created by the sabotage of a ritual performed on a tower by three elves and one halfling attempting healing magic.
+  - session: "17e00"
+    content: |
+      Remained a critical threat to the SPI tower and its inhabitants; Lorelei's infection from the Flux prompted urgent discussions about the planar instability affecting the tower and its unknown connection to the Feywild and Afterworld.
+  - session: "16e08"
+    content: |
+      A catastrophic battle occurred at the heart of the Flux; reality fractured and reformed multiple times, agents were permanently transformed by the Flux's power, and a gate to the true Afterworld was revealed.
+  - session: "16e05"
+    content: |
+      Shadow creatures emerged from the World Tree's corrupted roots, attacking agents; these undead Flux-touched entities bear the faces and forms of duplicates and split selves.
+  - session: "16e01"
+    content: |
+      Agents discovered the Flux leaking from directly beneath SPI headquarters; it appears the World Tree roots are expanding and creating additional breach points throughout reality.
 ---
 
 An uninhabitable zone bordering the nations.

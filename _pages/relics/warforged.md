@@ -1,4 +1,8 @@
 ---
+
+
+
+
 title: The Warforged
 image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cb61097-2c60-433f-b68d-4a591572c138/d5zdk3w-82cba232-3516-46e0-8b5f-b197b11d788a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjYjYxMDk3LTJjNjAtNDMzZi1iNjhkLTRhNTkxNTcyYzEzOFwvZDV6ZGszdy04MmNiYTIzMi0zNTE2LTQ2ZTAtOGI1Zi1iMTk3YjExZDc4OGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rIpJ719CWP-ZqYXn9owGHbLmAC3niJGvWbhEiByQspU
 image-source: https://www.deviantart.com/psuede/art/Iron-Man-Lady-request-361750028
@@ -12,6 +16,19 @@ statbox:
   race: warforged
   gender: female
 cases: [01, 02, 05, 10, 12]
+descriptions:
+  - session: "01e01"
+    content: |
+      Made contact with SPI agents via magic while they were at an inn, summoning them with news of Tremere's death.
+  - session: "02e01"
+    content: |
+      Aided SPI agents in combat against undead shadowspawn that emerged from Tremere's secret vault.
+  - session: "02e02"
+    content: |
+      Aided SPI agents in confronting and defeating Euryale at her villa.
+  - session: "10e04"
+    content: |
+      Sentient warforged artifact pursuing Isis Raksh in the Deepwood. Reported the Tree is dying and reality has fissured.
 ---
 
 R. Martine Andrews, Dominic Tremere's former butler and iron woman. She is an artificial consciousness, believed to be one of eight divine relics somehow central to the integrity of reality itself.

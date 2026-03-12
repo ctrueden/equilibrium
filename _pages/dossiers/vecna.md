@@ -1,4 +1,5 @@
 ---
+
 nav-title: Vecna
 title: Vecna, Goddess of Secrets and Undeath
 image: https://i.pinimg.com/originals/94/b7/99/94b7992cc359db3087324f9a4cf66f26.jpg
@@ -41,6 +42,10 @@ links:
 - 5E Exandria|https://2014.5e.tools/deities.html#vecna_exandria_egw
 - 5E Greek|https://2014.5e.tools/deities.html#hecate_greek_phb
 - Wolfpack Legends|https://wolfpack-legends-dd.fandom.com/wiki/Vecna
+descriptions:
+  - session: "14e04"
+    content: |
+      Her influence tainted the mirror chamber; she tempted characters with secrets in exchange for hidden knowledge; the Celestial Hand carries her power but may not be under her complete control.
 ---
 
 ## Precepts

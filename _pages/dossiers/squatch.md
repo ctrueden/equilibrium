@@ -1,4 +1,6 @@
 ---
+
+
 title: Squatch
 image-source: https://forums.sufficientvelocity.com/threads/dread-rising-of-pathfinder.21733/page-15
 image: https://adventureaweek.com/wp-content/uploads/2013/12/golem_flesh_no-bg_matt_bulahao.png
@@ -6,6 +8,13 @@ statbox:
   race: golem (flesh)
   gender: male
   case: "08"
+descriptions:
+  - session: "08e01"
+    content: |
+      Strong man performer at the circus who interacted with the investigators.
+  - session: "08e02"
+    content: |
+      Circus golem whose internal squishy wound was investigated through exploratory surgery by Ozborn and Callie.
 ---
 
 Squatch is the strong man of the [Zombozo](zombozo) circus. He is also a flesh

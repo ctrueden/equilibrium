@@ -1,4 +1,7 @@
 ---
+
+
+
 title: Leopold Gardenblossom
 image: https://i.pinimg.com/originals/16/e2/75/16e275c549008225e5559ff55eb64a5a.jpg
 image-source: https://www.pinterest.com/pin/840625086669486600/
@@ -14,6 +17,16 @@ statbox:
   case: ["03", "09", "10", "11"]
   age: 444
   profession: professor of the arcane arts
+descriptions:
+  - session: "03e01"
+    content: |
+      Known as the maker of Gurin's life clock; previously studied with Bronce at the dwarven university.
+  - session: "03e02"
+    content: |
+      Drew animated illusions to explain the life clock mechanism; reconnected it to its mystical core and determined it stopped at midnight.
+  - session: "10e04"
+    content: |
+      Gnomish professor who sent multiple messages trying to contact Cal and the party.
 ---
 
 From [Case 03](../events/case-03), a gnomish professor of magical theory. He's the one who made [Gurin Aldrimor](gurin-aldrimor)'s life clock. 

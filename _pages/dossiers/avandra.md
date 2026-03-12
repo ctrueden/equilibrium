@@ -1,4 +1,8 @@
 ---
+
+
+
+
 nav-title: Avandra
 title: Avandra, Goddess of Change, Luck, Trade, and Travel
 image: https://i.pinimg.com/originals/c2/34/f6/c234f661a4a3558be2680032c8a1f741.png
@@ -50,6 +54,19 @@ links:
 - 5E Exandria|https://2014.5e.tools/deities.html#avandra_exandria_egw
 - 5E Greyhawk|https://2014.5e.tools/deities.html#olidammara_greyhawk_phb
 - 5E Greek|https://2014.5e.tools/deities.html#dionysus_greek_phb
+descriptions:
+  - session: "14e00"
+    content: |
+      Invoked by Callie as one of her goddesses; described as twin to Erathis but not opposites.
+  - session: "14e03"
+    content: |
+      Identified on the divine map chart with specific elemental and domain attributes.
+  - session: "15e00"
+    content: |
+      Visited Callie at Bilbo's house and gave Oz a wooden coin, promising help in using deception and stealth for future challenges.
+  - session: "15e08"
+    content: |
+      Encouraged Callie's duplicity and illusion magic during the climactic battle with the Brucolac.
 ---
 
 ## Precepts

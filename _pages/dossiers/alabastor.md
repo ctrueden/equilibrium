@@ -1,4 +1,5 @@
 ---
+
 title: Brother Alabastor
 image: https://i.pinimg.com/originals/03/e4/09/03e409bac6321182ecc3fcf5f84ab691.png
 image-source: https://www.pinterest.com/pin/293156257000105286/
@@ -7,6 +8,10 @@ statbox:
   gender: male
   class: cleric
   case: "08"
+descriptions:
+  - session: "08e01"
+    content: |
+      Luminous Defender brother who introduced the SPI to the circus investigation and guided them there with two paladins.
 ---
 
 Brother Alabastor is a mild-mannered, friendly and bookish cleric.

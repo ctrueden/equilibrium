@@ -1,4 +1,7 @@
 ---
+
+
+
 title: Alex Orbach
 image: https://i.pinimg.com/originals/d6/91/73/d69173cbc40b4a3dd3201c83fdcedd65.png
 image-source: https://www.pinterest.com/pin/37717715621164296/
@@ -8,6 +11,16 @@ statbox:
   race: human
   gender: male
   case: "07"
+descriptions:
+  - session: "07e04"
+    content: |
+      Revealed to be the thief who stole the Necronomicon. Accused of Tremere's murder by the corpse, though he may have been framed.
+  - session: "07e05"
+    content: |
+      Attempted to escape during the chaos of the plant attack but was caught by the party and restrained.
+  - session: "09e01"
+    content: |
+      Found dead in the flux realm with his heart removed in the same manner as Tremere's murder.
 ---
 
 A disgraced magical-scholar-turned-criminal who developed forbidden Flux-based magic. Used his *flux entanglement* spell to link pieces of chalk, so that he could draw teleportation circles remotely to steal valuable objects, including the Rockwell family's Puzzlebox, believed to be one of eight relics somehow central to the integrity of reality itself. Also developed *flux disjunction* beads for use in a pinch, and crafted a *dimensional knife* using similar techniques. Believed to have killed Dominic Tremere in self defense, then attempted to frame Bram the Blithe. Later found dead within a bizarre crystalline Flux realm paralleling normal reality. Neither the Puzzlebox nor his spellbook have been recovered.

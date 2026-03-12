@@ -1,4 +1,7 @@
 ---
+
+
+
 title: Goratrix Ceoris
 image: https://static.wikia.nocookie.net/whitewolf/images/1/1d/Goratrix20A.png
 image-source: https://whitewolf.fandom.com/wiki/Goratrix
@@ -10,6 +13,16 @@ statbox:
   gender: male
   locale: arallu
   case: "15"
+descriptions:
+  - session: "15e02"
+    content: |
+      Made a dramatic entrance at the ball with his retinue and was mocked by Lestache for his pomposity and need for theatrical introductions.
+  - session: "15e05"
+    content: |
+      Delivered the Hunt's prizes to the SPI team and made a temporary truce to allow them to investigate the Soulbound Rest and the Death Tyrant.
+  - session: "15e08"
+    content: |
+      Appeared during the Brucolac battle to shield his master from the SPI's attacks and expressed dismay at the team's betrayal.
 ---
 
 Leader of the [Crispic](https://whitewolf.fandom.com/wiki/Tremere_%28VTM%29) vampire clan in [Sepulchralis](../locales/sepulchralis).

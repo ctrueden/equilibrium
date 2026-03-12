@@ -1,4 +1,5 @@
 ---
+
 title: Anastasia Starflower
 image: https://i.pinimg.com/236x/ec/3f/fe/ec3ffe379ba649f7f86e0cd779d6f6ee.jpg
 image-source: https://www.pinterest.com/pin/607915649714722272/
@@ -10,6 +11,10 @@ statbox:
   profession: bodyguard
   class: arcane archer
   case: "12"
+descriptions:
+  - session: "12e12"
+    content: |
+      Attempted to block the Warforged's hunters but was pushed aside as they entered the throne room.
 ---
 
 One of the elven queen's bodyguards.

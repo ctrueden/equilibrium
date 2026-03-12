@@ -1,7 +1,12 @@
 ---
+
 title: Dragons
 image: https://static.wikia.nocookie.net/forgottenrealms/images/f/f7/Dragons_-_Eva_Widermann.jpg
 image-source: https://forgottenrealms.fandom.com/wiki/Dragon
+descriptions:
+  - session: "14e00"
+    content: |
+      Referenced regarding the dragons of Skyrealm being asked not to dispel the hurricane.
 ---
 
 So scary! Such majestic!

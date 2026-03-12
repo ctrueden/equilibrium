@@ -1,4 +1,6 @@
 ---
+
+
 title: Yggdrasil, the World Tree
 image: https://i.pinimg.com/236x/68/e6/e2/68e6e2e4802528d6ecefa8259001d0e4--fantasy-landscape-landscape-artwork.jpg
 image-source: https://www.pinterest.com/pin/34269647135396069/
@@ -6,6 +8,13 @@ image2-source: https://www.pinterest.com/pin/artstation-tian-zi-big-tree--429256
 image3-source: https://www.pinterest.com/pin/620582023638302386/
 image4-source: https://www.pinterest.com/pin/202099102004491804/
 image5-source: https://www.pinterest.com/pin/10555380365884748/
+descriptions:
+  - session: "12e03"
+    content: |
+      The World Tree's immature golden path was explored by the party as they began their ascent to find the Acorn of Life.
+  - session: "16e05"
+    content: |
+      The World Tree's corrupted roots serve as both terrain and obstacle in the Flux tunnels beneath reality; shadow creatures emerge from beneath the massive roots, attacking any who travel upstream.
 ---
 
 An enormous tree at the base of which lies the elven city of [Estanesse](../locales/estanesse). It is believed to be one of eight divine [relics](.) somehow central to the integrity of reality itself.

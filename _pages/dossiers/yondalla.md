@@ -1,4 +1,6 @@
 ---
+
+
 nav-title: Yondalla
 title: Yondalla, Goddess of the Forgotten
 image: https://i.pinimg.com/originals/ed/89/5a/ed895a3e8d41428709cccaac388c5a09.jpg
@@ -28,6 +30,13 @@ links:
 - 5E Greek|https://2014.5e.tools/deities.html#hestia_greek_phb
 - 5E Greek 2|https://2014.5e.tools/deities.html#demeter_greek_phb
 - 5E Greek 3|https://2014.5e.tools/deities.html#hera_greek_phb
+descriptions:
+  - session: "14e00"
+    content: |
+      Glimpsed in the mirror when Callie looked closer; seemed to shift identities with Dallah Thaun.
+  - session: "14e04"
+    content: |
+      Discussed as a dead god whose divine essence was used to create a vial; her power and her shadow must be reunited for vengeance against Invictus.
 ---
 
 ...

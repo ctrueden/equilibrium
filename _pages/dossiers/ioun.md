@@ -1,4 +1,5 @@
 ---
+
 nav-title: Ioun
 image: https://cdna.artstation.com/p/assets/images/images/010/442/866/large/ameera-sheikh-ioun2.jpg
 image-source: https://www.artstation.com/artwork/Y3YAd
@@ -41,6 +42,10 @@ links:
 - 5E Greyhawk|https://2014.5e.tools/deities.html#istus_greyhawk_phb
 - Wikipedia|https://en.wikipedia.org/wiki/List_of_Greyhawk_deities#Istus
 - Wolfpack Legends|https://wolfpack-legends-dd.fandom.com/wiki/Ioun
+descriptions:
+  - session: "14e03"
+    content: |
+      Identified on the divine map chart with specific elemental and domain attributes.
 ---
 
 ## Precepts
