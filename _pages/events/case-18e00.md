@@ -8,9 +8,32 @@ session-number: 97
 session-date: 2026-02-28
 ---
 
-The agents return to SPI HQ and debrief with Mallory—and another Mallory? While at first the agents are confused how Mallory is running two debriefing interviews at once, they suspect it might be Mallory's changeling double Eeoram...
+Before making their way back to the city, the agents spend a day and night recuperating at [Grohnea](../dossiers/grohnea)'s cottage in the aftermath of their clash with [Rhyzophus](../dossiers/rhyzophus) and the weight of [Sissae](../dossiers/sissae-moondrop)'s death and partial(?) restoration.
 
-During the interviews, most of the field agents tell [Mallory](../dossiers/mallory)/[Eeoram](../dossiers/eeoram) most of the things that happened, some more coherently than others. [Oz](../dossiers/oz)'s interview is its own event: he reports accurately on several things that genuinely happened, but does so through such a tightly egocentric lens, and with so little connecting context, that Mallory is left staring at his notes in baffled silence afterward.
+The most pressing business first: Grohnea conducted the Fluxtaint extraction ritual. The agents were asked to hold their idealized selves in mind rather than their fears as the taint was drawn out:
+
+- [Oz](../dossiers/oz)'s idealized self: *Dope ass swashbuckling halfling with no horns or sparky feet who moves at the speed of hobbit, Dean of Stabington University's school of Stabbings, rocking out with ye olde booze while doing backflips on a pirate ship.*
+- [Freki](../dossiers/freki)'s idealized self: *Free of the killing curses, at peace with not only [Nature](../dossiers/gaia), but with **my** nature. At peace with [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin), understanding the meaning of their words, rather than just **hoping** I interpreted them correctly.*
+- Freki's internalized fear: *I am moving in the wrong world, for the right world, but accepted by neither. Woodfolk don't like me because I spend too much time in the city and dealing with things that are not Natural Law. "Civilization" doesn't like me because I'm different. Somehow, in a world of monsters, I am the monster.* Freki sees his cursed self almost as a separate entity—like watching a movie from the inside. He's afraid he doesn't like himself, but accepts that if he must live with Evil Freki to keep his woods safe, that's a deal with the devil he'll take.
+
+Michael rolls a nat 20 on his Wisdom save, focusing on the ideal rather than the fear. He emerges from the extraction feeling a deep sense of well-being and oneness he hasn't approached since he meditated with his father decades ago to commune with the beast within. He knows in his bones that—far from being pawns of the [Raven Queen](../dossiers/nerull)—Hugin and Munin are ancient allies who have been steering the course of history since the world was young: instruments of [Gaia](../dossiers/gaia)'s primal authority and universal oneness. They are important, and their connection to Freki is fated.
+
+In the afternoon and evening that follow, Freki collaborates with Grohnea to craft a small supply of specialty arrows:
+
+- **Treant Sap Arrows (×3)** — Tipped with hardened ancient treant sap. On impact, releases a sticky resin that coats the target's feet, halving their movement speed and leaving a trail a skilled tracker can follow for hours.
+- **Razorvine Arrows (×2)** — Fletched with preserved razorvine leaves. The arrow leaves a trail of razor-edged cuttings in flight; creatures passing through its path take slashing damage from the debris cloud (hangs in air for 1d4 rounds).
+- **Black Lotus Heads (×3)** — Tipped with crystallized black lotus extract. The target must succeed on a Constitution save or fall Unconscious for 1 minute. Valuable, difficult to make, and morally complicated—exactly the kind of thing the SPI would regulate heavily.
+- **Verdant Bloom Arrows (×2)** — Inspired by Sissae's bloom curse. On impact, causes rapid plant growth from the wound site: flowers and vines bloom across the target's body. Mechanically, what happens is... unknown.
+
+[Oz](../dossiers/oz) listens in surreptitiously, then secures vials of Black Lotus and Belladonna from Grohnea's stores, along with a simple poisoner's kit.
+
+[Zanqaa the Devoted](../dossiers/zanqaa) says his goodbyes to the SPI agents, transplanting himself from [Vondal](../dossiers/vondal)'s ring to Grohnea's brooch. He asks the agents to pass his regards along to Vondal.
+
+In the morning, the agents decide to have Grohnea teleport them to [Xaos](../locales/xaos) rather than [Alye'adu](../locales/alyeadu) to report on what happened to Sissae, who remains behind in a coma at the cottage. [Bec](../dossiers/bec) senses that Grohnea is somehow pleased about this arrangement.
+
+From Xaos, the agents return to SPI HQ and debrief with Mallory—and another Mallory? While at first the agents are confused how Mallory is running two debriefing interviews at once, they suspect it might be Mallory's changeling double Eeoram...
+
+During the interviews, most of the field agents tell [Mallory](../dossiers/mallory)/[Eeoram](../dossiers/eeoram) most of the things that happened, some more coherently than others. [Bec](../dossiers/bec) tells much but omits several things: the fight between Freki and Oz, the Prometheus god chamber, and the surviving cultists and their quest of redemption to liberate Xaryuvia. [Oz](../dossiers/oz)'s interview is its own event: he reports accurately on several things that genuinely happened, but does so through such a tightly egocentric lens—spending roughly 75% of the time describing how high he was able to jump when stabbing Rhyzophus—and with so little connecting context, that Mallory is left staring at his notes in baffled silence afterward.
 
 Once the interviews wrap, both Mallorys gather everyone together for a meeting to explain what happened: yes, Eeoram has returned from the faux Afterworld. He woke up from his trance at the bottom of the ladder beneath SPI HQ, climbed up, knocked on the trap door, and Cassandra heard and let him in. Their working theory is that Lorelei's grip on him waned after she was gone from the phantom Afterworld for sufficiently long. He is still a bit tired and disoriented, but fine.
 
