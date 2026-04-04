@@ -396,3 +396,251 @@ table td {
 .recap-tabs input[type="radio"]:checked + label + .tab-panel {
   display: block;
 }
+
+/* -- Session three-column layout -- */
+
+#session-layout {
+  display: grid;
+  grid-template-columns: 13em 1fr 16em;
+  grid-template-areas: "nav content sidebar";
+  gap: 1em;
+  align-items: start;
+  margin-top: 1em;
+}
+
+#session-nav {
+  grid-area: nav;
+  position: sticky;
+  top: 3em;
+  max-height: calc(100vh - 4em);
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 0.6em 0.75em;
+  background: #f9f9f9;
+  font-size: 0.85em;
+}
+
+.session-nav-header {
+  font-variant: small-caps;
+  font-weight: bold;
+  margin-bottom: 0.6em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid #ddd;
+}
+
+.session-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.session-list li {
+  padding: 0.25em 0.4em;
+  border-radius: 4px;
+  line-height: 1.3;
+  margin-bottom: 0.1em;
+}
+
+.session-list li.current {
+  background: sandybrown;
+}
+
+.session-list li.current a {
+  color: white;
+  font-weight: bold;
+}
+
+.session-list-date {
+  display: block;
+  font-size: 0.8em;
+  color: #999;
+}
+
+.session-list li.current .session-list-date {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+#session-content {
+  grid-area: content;
+  min-width: 0;
+}
+
+#session-sidebar {
+  grid-area: sidebar;
+  position: sticky;
+  top: 3em;
+  max-height: calc(100vh - 4em);
+  overflow-y: auto;
+}
+
+/* -- Collapsible session body sections -- */
+
+.session-section {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  margin-bottom: 0.75em;
+  background: #fff;
+  overflow: hidden;
+}
+
+.session-section > summary {
+  padding: 0.55em 0.9em;
+  cursor: pointer;
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 1.05em;
+  color: sandybrown;
+  background: #f7f5f2;
+  border-bottom: 1px solid transparent;
+  user-select: none;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.session-section > summary::-webkit-details-marker { display: none; }
+
+.session-section > summary::before {
+  content: "▶";
+  font-size: 0.6em;
+  transition: transform 0.15s;
+  color: #bbb;
+}
+
+.session-section[open] > summary {
+  border-bottom-color: #ddd;
+}
+
+.session-section[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.session-section > summary:hover { color: #b8733f; }
+
+.session-section > .section-body,
+.session-section > div:not(summary),
+.session-section > p {
+  padding: 0.75em 1em;
+}
+
+/* Wrapper div for section content */
+.section-body {
+  padding: 0.75em 1em;
+}
+
+.session-gm > summary {
+  color: #888;
+  background: #f0f0f0;
+}
+
+.section-badge {
+  font-size: 0.7em;
+  font-variant: normal;
+  padding: 0.1em 0.4em;
+  border-radius: 3px;
+  font-weight: normal;
+}
+
+.gm-badge {
+  background: #ddd;
+  color: #666;
+}
+
+/* Recap tabs inside a session-section: no outer border needed */
+.session-section .recap-tabs {
+  padding: 0.75em 1em 0;
+}
+
+/* -- Session right sidebar sections -- */
+
+.sidebar-section {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  margin-bottom: 0.6em;
+  background: #f9f9f9;
+  overflow: hidden;
+  font-size: 0.88em;
+}
+
+.sidebar-section > summary {
+  padding: 0.45em 0.75em;
+  cursor: pointer;
+  font-variant: small-caps;
+  font-weight: bold;
+  color: sandybrown;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+  user-select: none;
+}
+
+.sidebar-section > summary::-webkit-details-marker { display: none; }
+
+.sidebar-section > summary::before {
+  content: "▶";
+  font-size: 0.6em;
+  color: #bbb;
+  transition: transform 0.15s;
+}
+
+.sidebar-section[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.sidebar-section > summary:hover { color: #b8733f; }
+
+.sidebar-list {
+  margin: 0;
+  padding: 0.3em 0.75em 0.6em 1.5em;
+  list-style: disc;
+}
+
+.sidebar-list li {
+  padding: 0.15em 0;
+  line-height: 1.4;
+}
+
+.session-meta {
+  margin: 0;
+  padding: 0.4em 0.75em 0.6em;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.2em 0.6em;
+  font-size: 0.9em;
+}
+
+.session-meta dt {
+  color: #888;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+
+.session-meta dd {
+  margin: 0;
+}
+
+/* Responsive: stack columns on narrower screens */
+@media (max-width: 1000px) {
+  #session-layout {
+    grid-template-columns: 11em 1fr 14em;
+  }
+}
+
+@media (max-width: 800px) {
+  #session-layout {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "sidebar"
+      "content"
+      "nav";
+  }
+
+  #session-nav,
+  #session-sidebar {
+    position: static;
+    max-height: none;
+  }
+}

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{page.title}}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3" />
+    <link rel="shortcut icon" href="{{site.baseurl}}/assets/favicon.png" />
+    <noscript><link rel="stylesheet" href="{{site.baseurl}}/assets/css/noscript.css" /></noscript>
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/style.css" />
+    <script type="text/javascript" src="{{site.baseurl}}/assets/js/cache-images.js"></script>
+    {% for script in page.js %}
+    <script type="text/javascript" src="{{site.baseurl}}/assets/js/{{script}}.js"></script>
+    {% endfor %}
+  </head>
+  <body>
+    {% include nav %}
+    <h1>{{page.title}}</h1>
+
+    <div id="session-layout">
+
+      <!-- Left column: session navigation -->
+      <nav id="session-nav">
+        <div class="session-nav-header">
+          <a href="{{site.baseurl}}/">Equilibrium</a>
+        </div>
+        <ul class="session-list">
+          {%- assign all_episodes = site.pages | sort: "datestamp" -%}
+          {%- for ep in all_episodes -%}
+            {%- if ep["session-number"] and ep.url contains "/events/case-" -%}
+              {%- assign ep_id = ep.title | split: "]" | first | remove: "[" -%}
+              {%- assign ep_name = ep.title | split: "] " | last -%}
+              <li{% if ep.url == page.url %} class="current"{% endif %}>
+                <a href="{{ ep.url }}"><strong>{{ ep_id }}</strong> {{ ep_name }}</a>
+                {%- if ep["session-date"] -%}
+                  <span class="session-list-date">{{ ep["session-date"] }}</span>
+                {%- endif -%}
+              </li>
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      </nav>
+
+      <!-- Middle column: main content -->
+      <main id="session-content">
+        {%- assign gm-path = "/gm" | append: page.url -%}
+        {%- assign gm-pages = site.pages | where: "url", gm-path -%}
+        {%- for p in gm-pages -%}
+        <details class="session-section session-gm">
+          <summary>Notes <span class="section-badge gm-badge">GM only</span></summary>
+          <div class="section-body">
+            {{ p.content | markdownify }}
+          </div>
+        </details>
+        {%- endfor -%}
+
+        {{ content }}
+      </main>
+
+      <!-- Right column: reference sidebar -->
+      <aside id="session-sidebar">
+
+        {%- if page.when or page["session-date"] or page["session-number"] -%}
+        <details class="sidebar-section" open>
+          <summary>Session Info</summary>
+          <dl class="session-meta">
+            {%- if page.when -%}
+              <dt>In-world</dt><dd>{{ page.when }}</dd>
+            {%- endif -%}
+            {%- if page["session-date"] -%}
+              <dt>Played</dt><dd>{{ page["session-date"] }}</dd>
+            {%- endif -%}
+            {%- if page["session-number"] -%}
+              <dt>Session</dt><dd>#{{ page["session-number"] }}</dd>
+            {%- endif -%}
+          </dl>
+        </details>
+        {%- endif -%}
+
+        {%- if page.locations_featured -%}
+        <details class="sidebar-section" open>
+          <summary>Locations</summary>
+          <ul class="sidebar-list">
+            {%- for loc in page.locations_featured -%}
+              <li>
+                {%- if loc.wiki -%}
+                  <a href="{{ loc.wiki }}">{{ loc.name }}</a>
+                {%- elsif loc.name -%}
+                  {{ loc.name }}
+                {%- else -%}
+                  {{ loc }}
+                {%- endif -%}
+                {%- if loc.role -%}<br><small>{{ loc.role }}</small>{%- endif -%}
+              </li>
+            {%- endfor -%}
+          </ul>
+        </details>
+        {%- endif -%}
+
+        {%- if page.npcs_featured -%}
+        <details class="sidebar-section" open>
+          <summary>NPCs</summary>
+          <ul class="sidebar-list">
+            {%- for npc in page.npcs_featured -%}
+              <li>
+                {%- if npc.wiki -%}
+                  <a href="{{ npc.wiki }}">{{ npc.name }}</a>
+                {%- elsif npc.name -%}
+                  {{ npc.name }}
+                {%- else -%}
+                  {{ npc }}
+                {%- endif -%}
+                {%- if npc.role -%}<br><small>{{ npc.role }}</small>{%- endif -%}
+              </li>
+            {%- endfor -%}
+          </ul>
+        </details>
+        {%- endif -%}
+
+        {%- if page.items_featured -%}
+        <details class="sidebar-section" open>
+          <summary>Items</summary>
+          <ul class="sidebar-list">
+            {%- for item in page.items_featured -%}
+              <li>
+                {%- if item.wiki -%}
+                  <a href="{{ item.wiki }}">{{ item.name }}</a>
+                {%- elsif item.name -%}
+                  {{ item.name }}
+                {%- else -%}
+                  {{ item }}
+                {%- endif -%}
+              </li>
+            {%- endfor -%}
+          </ul>
+        </details>
+        {%- endif -%}
+
+        {%- if page.spells_featured -%}
+        <details class="sidebar-section" open>
+          <summary>Spells</summary>
+          <ul class="sidebar-list">
+            {%- for spell in page.spells_featured -%}
+              <li>{{ spell }}</li>
+            {%- endfor -%}
+          </ul>
+        </details>
+        {%- endif -%}
+
+      </aside>
+
+    </div><!-- #session-layout -->
+  </body>
+</html>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

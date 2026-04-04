@@ -54,6 +54,7 @@ _includes/
 ### Episode event page (`_pages/events/case-NNeNN.md`)
 ```yaml
 ---
+layout: session
 title: "[17e09] Blooms of Remembrance"
 description: >-
   One-sentence teaser shown in indexes.
@@ -61,9 +62,27 @@ datestamp: 50-06-13/09      # Aecan in-world date (format: YY-MM-DD/episode)
 when: AC50 Vis 13           # Human-readable Aecan date
 session-number: 96          # Cumulative session number across all cases
 session-date: 2026-01-17    # Real-world session date (ISO)
+locations_featured:
+  - name: Grohnea's Cottage
+    wiki: ../locales/grohneas-cottage
+npcs_featured:
+  - name: Ulgrim
+    role: >-
+      Bear shaman who performed a protective ritual on Ozborn
+    wiki: ../dossiers/ulgrim
+items_featured:
+  - name: Ward of Returning
+    wiki: ../relics/ward-of-returning
+  - name: Egret Orchid        # no wiki field = no link
+spells_featured:
+  - Eldritch Blast
+  - Wish
 ---
 ```
-Content uses the **tab system** (see below).
+Content uses the **session layout** with collapsible `<details>` sections (see below).
+The `layout: session` key enables the three-column layout with a session nav sidebar
+and a reference sidebar (Locations, NPCs, Items, Spells built from front matter lists).
+All four sidebar lists are optional; omit any that aren't relevant.
 
 ### Case summary page (`_pages/events/case-NN.md`)
 ```yaml
@@ -98,36 +117,68 @@ title: Storm Stables
 
 ---
 
-## Jekyll Tab System
+## Session Page Body Structure
 
-Episode pages use a multi-tab include for multiple recap styles.
-**This is critical to get right.**
+Episode pages use collapsible `<details>` sections, with the recap section
+containing the tab system. **The ingest script generates this automatically.**
 
 ```markdown
+<details class="session-section" open>
+<summary>Recap</summary>
+<div class="section-body">
+
 {% include tab id='long' label='Long' first=true %}
 
-[Long narrative recap here]
+[Long narrative recap — just the prose, no Outline or Moments here]
 
 {% include tab id='short' label='Short' %}
 
-[Short recap here]
+[Short recap]
 
 {% include tab id='dnd' label='Classic D&D' %}
 
-[Classic D&D style recap here]
+[Classic D&D style]
 
 {% include tab id='limerick' label='Limerick' %}
 
-[Limerick recap here]
+[Limerick]
 
 {% include tab id='snarky' label='Snarky' %}
 
-[Snarky recap here]
+[Snarky recap]
 
 {% include endtabs %}
+
+</div>
+</details>
+
+<details class="session-section">
+<summary>Memorable Moments (4)</summary>
+<div class="section-body" markdown="1">
+
+> **Freki:** "I'm healing you!"
+>
+> *Yelled while backing away at high speed*
+
+</div>
+</details>
+
+<details class="session-section">
+<summary>Outline</summary>
+<div class="section-body" markdown="1">
+
+### Scene Title
+
+Scene description.
+
+- Key event bullet
+- Another key event
+
+</div>
+</details>
 ```
 
-All episode pages should have at minimum Long and Short tabs.
+All episode pages must have at minimum Long and Short tabs in the Recap section.
 The other tabs are nice-to-have (GM Assistant generates them automatically).
 
 ---
@@ -167,15 +218,17 @@ _bin/ingest-session.py path/to/session-DATE.yaml
 ```
 
 **What it produces:**
-- `_pages/events/case-{id}.draft.md` —
-  draft episode page with all tab sections pre-populated
+- `_pages/events/case-{id}.draft.md` — draft episode page with:
+  - `layout: session` and all sidebar front matter pre-populated
+  - Collapsible Recap (with all tab variants), Memorable Moments, and Outline sections
 - Console report of NPCs/locations that don't have existing wiki pages yet
 
 **What it does NOT do (requires human follow-up):**
 - Correct proper noun spelling differences (see alias table above)
-- Add wiki links (`[Name](../dossiers/slug)` format)
+- Add wiki links in body text (`[Name](../dossiers/slug)` format)
 - Fill in `datestamp` and `when` (requires Aecan calendar lookup)
 - Fill in `session-number` (check the previous episode's front matter + 1)
+- Trim or polish the auto-generated sidebar lists
 - Create dossier/locale stubs (do this manually,
   or ask Claude Code to scaffold them)
 - Overwrite existing pages
@@ -183,11 +236,12 @@ _bin/ingest-session.py path/to/session-DATE.yaml
 **Post-ingest checklist:**
 1. Rename `.draft.md` to `.md` when satisfied
 2. Correct all proper nouns (especially check alias table)
-3. Add wiki links throughout
-4. Fill in `datestamp`, `when`, `session-number`
-5. Write the `description` field (one teaser sentence)
-6. Create any missing dossier/locale stubs flagged in the console output
-7. Update the case summary page (`case-NN.md`) if the arc concluded
+3. Add wiki links throughout body text
+4. Trim sidebar lists — remove minor walk-ons, keep featured NPCs/locations
+5. Fill in `datestamp`, `when`, `session-number`
+6. Write the `description` field (one teaser sentence)
+7. Create any missing dossier/locale stubs flagged in the console output
+8. Update the case summary page (`case-NN.md`) if the arc concluded
 
 ---
 
