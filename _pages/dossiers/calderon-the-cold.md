@@ -13,6 +13,9 @@ descriptions:
   - session: "15e02"
     content: |
       Appeared at the ball as champion of the Crispic clan; discussed spiders, the Flux, and offered Vondal a place within his clan to master wild magic.
+  - session: "18e00"
+    content: |
+      With Goratrix seemingly out of the picture, Calderon is now the acting head of Crispic clan.
 ---
 
 A member of the [Crispic](https://whitewolf.fandom.com/wiki/Tremere_%28VTM%29) vampire clan in [Sepulchralis](../locales/sepulchralis).

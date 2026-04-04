@@ -1,13 +1,4 @@
 ---
-
-
-
-
-
-
-
-
-
 title: Cassandra
 image: https://i.pinimg.com/originals/32/3b/ca/323bca06a5d077a05a8c396fbcf20dc7.png
 image-source: https://www.pinterest.com/pin/480266747761078450/
