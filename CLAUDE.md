@@ -245,10 +245,53 @@ _bin/ingest-session.py path/to/session-DATE.yaml
 
 ---
 
+## Foundry Actor Ingestion (Character Sheets)
+
+The script `_bin/ingest-actor.py` converts a Foundry VTT actor JSON export into a
+Jekyll character sheet page using the `charsheet` layout.
+
+**Usage:**
+```bash
+_bin/ingest-actor.py path/to/fvtt-Actor-name-XXXX.json
+```
+
+**What it produces:**
+- `_pages/gm/charsheets/<slug>.draft.md` — draft character sheet with:
+  - `layout: charsheet` and all stats pre-computed in YAML front matter
+  - Ability scores, saving throws, skills, weapons, features, equipment
+  - Feature descriptions as markdown body text (rendered as a two-column section)
+
+**What it computes automatically:**
+- Proficiency bonus (from class level)
+- Ability modifiers
+- Saving throw and skill bonuses (with proficiency detection)
+- AC (from equipped armor, or Barbarian/Monk Unarmored Defense)
+- Speed (race base + class bonuses like Fast Movement)
+- Weapon attack/damage strings (per-weapon ability, proficiency, damage type)
+- Uses/resources (resolves `@scale.*` and `@prof` formulas)
+- Feature list grouped by source (Race, Class, etc.)
+
+**Post-ingest checklist:**
+1. Rename `.draft.md` to `.md` when satisfied
+2. Verify AC (check console checklist — especially shields/magic items)
+3. Verify speed (race traits, magic items may add more)
+4. Check uses/resources for complex `@scale` formulas
+5. Fill in `background` and `alignment` if not in Foundry
+6. Review feature descriptions for Foundry-specific markup that wasn't cleaned up
+7. Remove `spell_ability`/`spell_dc`/`spell_atk` fields if character is not truly a spellcaster
+
+**Front matter schema:** `layout: charsheet` with all data nested under `cs:`.
+**Layout file:** `_layouts/charsheet.html`
+**Output directory:** `_pages/gm/charsheets/`
+
+---
+
 ## Common Tasks Claude Code Can Help With
 
-- **Run ingest:**
+- **Run session ingest:**
   `_bin/ingest-session.py <yaml>` and review output
+- **Run actor ingest:**
+  `_bin/ingest-actor.py <json>` and review output
 - **Scaffold a new dossier stub:**
   create `_pages/dossiers/<slug>.md` with front matter + sections
 - **Scaffold a new locale stub:**

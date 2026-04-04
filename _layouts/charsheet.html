@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3" />
+    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.png" />
+    <noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/noscript.css" /></noscript>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
+    <style>
+      /* ── Character Sheet Layout ───────────────────────────────────────── */
+      .charsheet {
+        max-width: 980px;
+        margin: 1rem auto;
+        font-family: calibri, 'Segoe UI', arial, sans-serif;
+        font-size: 0.88rem;
+        color: #222;
+      }
+
+      /* Header bar */
+      .cs-header {
+        background: #f0ebe0;
+        border: 1px solid #b5aea4;
+        padding: 0.6rem 1rem;
+        margin-bottom: 0.75rem;
+        display: grid;
+        grid-template-columns: 1fr auto;
+        gap: 0.25rem 1rem;
+        align-items: start;
+      }
+      .cs-header-name {
+        font-size: 1.6rem;
+        font-variant: small-caps;
+        font-weight: bold;
+        grid-column: 1 / -1;
+        border-bottom: 1px solid #b5aea4;
+        margin-bottom: 0.3rem;
+        padding-bottom: 0.2rem;
+        letter-spacing: 0.05em;
+      }
+      .cs-header-fields {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem 2rem;
+        font-size: 0.8rem;
+      }
+      .cs-header-field { display: flex; flex-direction: column; }
+      .cs-header-field span:first-child { font-size: 0.6rem; text-transform: uppercase; color: #888; }
+      .cs-header-field span:last-child { font-weight: 600; }
+
+      /* Three-column body */
+      .cs-body {
+        display: grid;
+        grid-template-columns: 195px 240px 1fr;
+        gap: 0.6rem;
+        align-items: start;
+      }
+
+      /* Generic section box */
+      .cs-section { margin-bottom: 0.55rem; }
+      .cs-section-label {
+        font-size: 0.62rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        text-align: center;
+        border-bottom: 2px solid #b5aea4;
+        margin-bottom: 0.25rem;
+        padding-bottom: 1px;
+        color: #444;
+      }
+
+      /* Ability score grid */
+      .cs-abilities {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 4px;
+        margin-bottom: 0.6rem;
+      }
+      .cs-ability {
+        border: 1px solid #b5aea4;
+        background: #f8f4ee;
+        text-align: center;
+        padding: 4px 2px 3px;
+        line-height: 1;
+      }
+      .cs-ability-name {
+        display: block;
+        font-size: 0.6rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #555;
+      }
+      .cs-ability-mod {
+        display: block;
+        font-size: 1.5rem;
+        font-weight: bold;
+        line-height: 1.15;
+      }
+      .cs-ability-score {
+        display: block;
+        font-size: 0.72rem;
+        color: #777;
+        border-top: 1px solid #ddd;
+        margin-top: 2px;
+        padding-top: 1px;
+      }
+
+      /* Saves and skills */
+      .cs-saves-list, .cs-skills-list {
+        font-size: 0.75rem;
+        line-height: 1.55;
+      }
+      .cs-saves-list .row, .cs-skills-list .row {
+        display: flex;
+        gap: 0.3em;
+        align-items: baseline;
+      }
+      .cs-saves-list .bonus, .cs-skills-list .bonus {
+        min-width: 2.2em;
+        font-weight: 600;
+        text-align: right;
+        flex-shrink: 0;
+      }
+      .cs-saves-list .marker, .cs-skills-list .marker {
+        width: 1em;
+        flex-shrink: 0;
+        color: #5a7a5a;
+        font-size: 0.7rem;
+      }
+      .cs-skills-list .ability-tag {
+        color: #999;
+        font-size: 0.65rem;
+        font-style: italic;
+        flex-shrink: 0;
+      }
+
+      /* Passive perception */
+      .cs-passive {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-bottom: 0.55rem;
+      }
+      .cs-passive-val {
+        font-size: 1.4rem;
+        font-weight: bold;
+        border: 1px solid #b5aea4;
+        background: #f8f4ee;
+        padding: 2px 8px;
+        min-width: 2.5rem;
+        text-align: center;
+      }
+      .cs-passive-label { font-size: 0.65rem; color: #555; }
+
+      /* Combat stat row */
+      .cs-combat-row {
+        display: flex;
+        gap: 4px;
+        margin-bottom: 4px;
+      }
+      .cs-stat {
+        flex: 1;
+        border: 1px solid #b5aea4;
+        background: #f8f4ee;
+        text-align: center;
+        padding: 3px 2px 2px;
+      }
+      .cs-stat-val {
+        display: block;
+        font-size: 1.25rem;
+        font-weight: bold;
+        line-height: 1.2;
+      }
+      .cs-stat-label {
+        display: block;
+        font-size: 0.58rem;
+        text-transform: uppercase;
+        color: #666;
+      }
+
+      /* HP bar */
+      .cs-hp-row {
+        display: flex;
+        gap: 4px;
+        margin-bottom: 4px;
+      }
+      .cs-hp-box {
+        flex: 2;
+        border: 1px solid #b5aea4;
+        background: #f8f4ee;
+        padding: 3px 6px;
+      }
+      .cs-hp-box.narrow { flex: 1; }
+      .cs-hp-val {
+        font-size: 1.2rem;
+        font-weight: bold;
+      }
+      .cs-hp-label {
+        font-size: 0.58rem;
+        text-transform: uppercase;
+        color: #666;
+        border-bottom: 1px solid #ccc;
+        margin-bottom: 2px;
+      }
+
+      /* Weapons table */
+      .cs-weapons table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.72rem;
+      }
+      .cs-weapons th {
+        font-size: 0.6rem;
+        text-transform: uppercase;
+        border-bottom: 2px solid #b5aea4;
+        padding: 2px 4px;
+        text-align: left;
+        color: #555;
+      }
+      .cs-weapons td {
+        padding: 2px 4px;
+        border-bottom: 1px solid #ede8e1;
+        vertical-align: top;
+      }
+      .cs-weapons td.atk { font-weight: 600; }
+      .cs-weapons td.props { color: #777; font-style: italic; font-size: 0.67rem; }
+
+      /* Equipment list */
+      .cs-equip-list {
+        font-size: 0.74rem;
+        line-height: 1.5;
+        margin: 0;
+        padding-left: 0;
+        list-style: none;
+      }
+      .cs-equip-list li::before { content: "· "; color: #aaa; }
+
+      /* Currency */
+      .cs-currency {
+        display: flex;
+        gap: 0.4rem;
+        flex-wrap: wrap;
+        font-size: 0.72rem;
+        margin-top: 0.25rem;
+      }
+      .cs-coin { text-align: center; }
+      .cs-coin-val { font-weight: 600; }
+      .cs-coin-name { color: #888; font-size: 0.6rem; }
+
+      /* Traits block */
+      .cs-traits { font-size: 0.74rem; line-height: 1.55; }
+      .cs-traits dt {
+        font-weight: bold;
+        font-size: 0.62rem;
+        text-transform: uppercase;
+        color: #666;
+        margin-top: 0.3rem;
+      }
+      .cs-traits dd { margin: 0; }
+
+      /* Feature list */
+      .cs-feature-list { font-size: 0.74rem; line-height: 1.6; margin: 0; padding: 0; list-style: none; }
+      .cs-feature-list li { border-bottom: 1px solid #ede8e1; padding: 1px 0; display: flex; justify-content: space-between; gap: 0.5em; }
+      .cs-feature-name { }
+      .cs-feature-source { font-size: 0.6rem; color: #999; text-transform: uppercase; flex-shrink: 0; }
+      .cs-feature-uses { font-size: 0.68rem; color: #666; font-style: italic; flex-shrink: 0; }
+
+      /* Spellcasting bar */
+      .cs-spell-bar {
+        display: flex;
+        gap: 4px;
+        margin-bottom: 0.4rem;
+      }
+      .cs-spell-bar .cs-stat { font-size: 0.8rem; }
+      .cs-spell-bar .cs-stat-val { font-size: 1rem; }
+
+      /* Feature descriptions (body content) */
+      .cs-content {
+        margin-top: 1.5rem;
+        padding-top: 1rem;
+        border-top: 2px solid #b5aea4;
+        column-count: 2;
+        column-gap: 2rem;
+        font-size: 0.82rem;
+        line-height: 1.5;
+      }
+      .cs-content h2 {
+        column-span: all;
+        font-size: 1rem;
+        font-variant: small-caps;
+        border-bottom: 2px solid #b5aea4;
+        margin: 0.5rem 0 0.3rem;
+        padding-bottom: 2px;
+        text-align: left;
+      }
+      .cs-content h3 {
+        font-size: 0.85rem;
+        font-variant: small-caps;
+        margin: 0.8rem 0 0.1rem;
+        color: #333;
+        break-after: avoid;
+      }
+      .cs-content p { margin: 0 0 0.4rem; }
+      .cs-content ul { margin: 0.2rem 0; padding-left: 1.2rem; }
+
+      @media (max-width: 700px) {
+        .cs-body { grid-template-columns: 1fr; }
+        .cs-content { column-count: 1; }
+      }
+    </style>
+  </head>
+  <body>
+    {% include nav %}
+
+    {%- assign cs = page.cs -%}
+
+    <div class="charsheet">
+
+      <!-- ── Header ─────────────────────────────────────────────────────── -->
+      <div class="cs-header">
+        <div class="cs-header-name">{{ cs.name }}</div>
+        <div class="cs-header-fields">
+          {%- if cs.class -%}
+          <div class="cs-header-field">
+            <span>Class &amp; Level</span>
+            <span>
+              {{ cs.class }}{% if cs.level %} {{ cs.level }}{% endif %}
+              {%- if cs.subclass %} ({{ cs.subclass }}){% endif %}
+            </span>
+          </div>
+          {%- endif -%}
+
+          {%- if cs.race -%}
+          <div class="cs-header-field">
+            <span>Race / Ancestry</span>
+            <span>{{ cs.race }}</span>
+          </div>
+          {%- endif -%}
+
+          {%- if cs.background and cs.background != "" -%}
+          <div class="cs-header-field">
+            <span>Background</span>
+            <span>{{ cs.background }}</span>
+          </div>
+          {%- endif -%}
+
+          {%- if cs.alignment and cs.alignment != "" -%}
+          <div class="cs-header-field">
+            <span>Alignment</span>
+            <span>{{ cs.alignment }}</span>
+          </div>
+          {%- endif -%}
+
+          {%- if cs.cr and cs.cr != "" -%}
+          <div class="cs-header-field">
+            <span>CR</span>
+            <span>{{ cs.cr }}</span>
+          </div>
+          {%- endif -%}
+
+          <div class="cs-header-field">
+            <span>Proficiency Bonus</span>
+            <span>{{ cs.proficiency }}</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── Body ──────────────────────────────────────────────────────── -->
+      <div class="cs-body">
+
+        <!-- Column 1: Abilities + Saves + Skills -->
+        <div class="cs-col-left">
+
+          <!-- Ability Scores -->
+          <div class="cs-abilities">
+            {%- for a in cs.abilities -%}
+            <div class="cs-ability">
+              <span class="cs-ability-name">{{ a.name }}</span>
+              <span class="cs-ability-mod">{{ a.mod }}</span>
+              <span class="cs-ability-score">{{ a.score }}</span>
+            </div>
+            {%- endfor -%}
+          </div>
+
+          <!-- Saving Throws -->
+          <div class="cs-section">
+            <div class="cs-section-label">Saving Throws</div>
+            <div class="cs-saves-list">
+              {%- for s in cs.saves -%}
+              <div class="row">
+                <span class="bonus">{{ s.bonus }}</span>
+                <span class="marker">{% if s.prof %}●{% else %} {% endif %}</span>
+                <span>{{ s.name }}</span>
+              </div>
+              {%- endfor -%}
+            </div>
+          </div>
+
+          <!-- Skills -->
+          <div class="cs-section">
+            <div class="cs-section-label">Skills</div>
+            <div class="cs-skills-list">
+              {%- for sk in cs.skills -%}
+              <div class="row">
+                <span class="bonus">{{ sk.bonus }}</span>
+                <span class="marker">{{ sk.marker }}</span>
+                <span>{{ sk.name }} <span class="ability-tag">({{ sk.ability }})</span></span>
+              </div>
+              {%- endfor -%}
+            </div>
+          </div>
+
+          <!-- Passive Perception -->
+          <div class="cs-section">
+            <div class="cs-passive">
+              <div class="cs-passive-val">{{ cs.passive_perception }}</div>
+              <div class="cs-passive-label">Passive Wisdom<br />(Perception)</div>
+            </div>
+          </div>
+
+        </div><!-- /col-left -->
+
+        <!-- Column 2: Combat + Attacks + Equipment -->
+        <div class="cs-col-mid">
+
+          <!-- AC / Initiative / Speed -->
+          <div class="cs-section">
+            <div class="cs-combat-row">
+              <div class="cs-stat">
+                <span class="cs-stat-val">{{ cs.ac }}</span>
+                <span class="cs-stat-label">Armor<br>Class</span>
+              </div>
+              <div class="cs-stat">
+                <span class="cs-stat-val">{{ cs.initiative }}</span>
+                <span class="cs-stat-label">Initiative</span>
+              </div>
+              <div class="cs-stat">
+                <span class="cs-stat-val" style="font-size:0.9rem">{{ cs.speed }}</span>
+                <span class="cs-stat-label">Speed</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- HP / Hit Dice -->
+          <div class="cs-section">
+            <div class="cs-hp-row">
+              <div class="cs-hp-box">
+                <div class="cs-hp-label">Hit Points</div>
+                <div class="cs-hp-val">{{ cs.hp }} / {{ cs.hp_max }}</div>
+              </div>
+              <div class="cs-hp-box narrow">
+                <div class="cs-hp-label">Hit Dice</div>
+                <div class="cs-hp-val">{{ cs.hit_dice }}</div>
+              </div>
+            </div>
+            <div style="font-size:0.68rem; color:#777; text-align:center; margin-bottom:0.3rem;">
+              Death Saves — Success: ○ ○ ○ &nbsp; Fail: ○ ○ ○
+            </div>
+          </div>
+
+          <!-- Spellcasting (if applicable) -->
+          {%- if cs.spell_ability and cs.spell_ability != "" -%}
+          <div class="cs-section">
+            <div class="cs-section-label">Spellcasting ({{ cs.spell_ability }})</div>
+            <div class="cs-spell-bar">
+              <div class="cs-stat">
+                <span class="cs-stat-val">{{ cs.spell_dc }}</span>
+                <span class="cs-stat-label">Spell Save DC</span>
+              </div>
+              <div class="cs-stat">
+                <span class="cs-stat-val">{{ cs.spell_atk }}</span>
+                <span class="cs-stat-label">Spell Atk Bonus</span>
+              </div>
+            </div>
+          </div>
+          {%- endif -%}
+
+          <!-- Attacks -->
+          {%- if cs.weapons and cs.weapons.size > 0 -%}
+          <div class="cs-section cs-weapons">
+            <div class="cs-section-label">Weapons &amp; Attacks</div>
+            <table>
+              <thead>
+                <tr>
+                  <th>Name</th>
+                  <th>Atk</th>
+                  <th>Damage</th>
+                  <th>Range</th>
+                </tr>
+              </thead>
+              <tbody>
+                {%- for w in cs.weapons -%}
+                <tr>
+                  <td>{{ w.name }}</td>
+                  <td class="atk">{{ w.atk }}</td>
+                  <td>{{ w.dmg }}</td>
+                  <td>{{ w.range }}</td>
+                </tr>
+                {%- if w.props and w.props != "" -%}
+                <tr>
+                  <td colspan="4" class="props">{{ w.props }}</td>
+                </tr>
+                {%- endif -%}
+                {%- endfor -%}
+              </tbody>
+            </table>
+          </div>
+          {%- endif -%}
+
+          <!-- Equipment -->
+          {%- if cs.equipment and cs.equipment.size > 0 -%}
+          <div class="cs-section">
+            <div class="cs-section-label">Equipment</div>
+            <ul class="cs-equip-list">
+              {%- for item in cs.equipment -%}
+              <li>{{ item }}</li>
+              {%- endfor -%}
+            </ul>
+          </div>
+          {%- endif -%}
+
+          <!-- Currency -->
+          {%- assign total_coins = cs.currency.pp | plus: cs.currency.gp | plus: cs.currency.ep | plus: cs.currency.sp | plus: cs.currency.cp -%}
+          {%- if total_coins > 0 -%}
+          <div class="cs-section">
+            <div class="cs-section-label">Currency</div>
+            <div class="cs-currency">
+              {%- if cs.currency.pp > 0 -%}
+              <div class="cs-coin">
+                <div class="cs-coin-val">{{ cs.currency.pp }}</div>
+                <div class="cs-coin-name">PP</div>
+              </div>
+              {%- endif -%}
+              {%- if cs.currency.gp > 0 -%}
+              <div class="cs-coin">
+                <div class="cs-coin-val">{{ cs.currency.gp }}</div>
+                <div class="cs-coin-name">GP</div>
+              </div>
+              {%- endif -%}
+              {%- if cs.currency.ep > 0 -%}
+              <div class="cs-coin">
+                <div class="cs-coin-val">{{ cs.currency.ep }}</div>
+                <div class="cs-coin-name">EP</div>
+              </div>
+              {%- endif -%}
+              {%- if cs.currency.sp > 0 -%}
+              <div class="cs-coin">
+                <div class="cs-coin-val">{{ cs.currency.sp }}</div>
+                <div class="cs-coin-name">SP</div>
+              </div>
+              {%- endif -%}
+              {%- if cs.currency.cp > 0 -%}
+              <div class="cs-coin">
+                <div class="cs-coin-val">{{ cs.currency.cp }}</div>
+                <div class="cs-coin-name">CP</div>
+              </div>
+              {%- endif -%}
+            </div>
+          </div>
+          {%- endif -%}
+
+        </div><!-- /col-mid -->
+
+        <!-- Column 3: Traits + Proficiencies + Features -->
+        <div class="cs-col-right">
+
+          <!-- Traits -->
+          <div class="cs-section">
+            <div class="cs-section-label">Traits &amp; Resistances</div>
+            <dl class="cs-traits">
+              {%- if cs.traits.size -%}
+              <dt>Size</dt><dd>{{ cs.traits.size }}</dd>
+              {%- endif -%}
+              {%- if cs.traits.senses and cs.traits.senses != "" -%}
+              <dt>Senses</dt><dd>{{ cs.traits.senses }}</dd>
+              {%- endif -%}
+              {%- if cs.traits.resistances and cs.traits.resistances != "" -%}
+              <dt>Resistances</dt><dd>{{ cs.traits.resistances }}</dd>
+              {%- endif -%}
+              {%- if cs.traits.immunities and cs.traits.immunities != "" -%}
+              <dt>Damage Immunities</dt><dd>{{ cs.traits.immunities }}</dd>
+              {%- endif -%}
+              {%- if cs.traits.vulnerabilities and cs.traits.vulnerabilities != "" -%}
+              <dt>Vulnerabilities</dt><dd>{{ cs.traits.vulnerabilities }}</dd>
+              {%- endif -%}
+              {%- if cs.traits.condition_immunities and cs.traits.condition_immunities != "" -%}
+              <dt>Condition Immunities</dt><dd>{{ cs.traits.condition_immunities }}</dd>
+              {%- endif -%}
+              {%- if cs.traits.languages and cs.traits.languages != "" -%}
+              <dt>Languages</dt><dd>{{ cs.traits.languages }}</dd>
+              {%- endif -%}
+            </dl>
+          </div>
+
+          <!-- Proficiencies -->
+          <div class="cs-section">
+            <div class="cs-section-label">Proficiencies</div>
+            <dl class="cs-traits">
+              {%- if cs.proficiencies.armor and cs.proficiencies.armor != "" -%}
+              <dt>Armor</dt><dd>{{ cs.proficiencies.armor }}</dd>
+              {%- endif -%}
+              {%- if cs.proficiencies.weapons and cs.proficiencies.weapons != "" -%}
+              <dt>Weapons</dt><dd>{{ cs.proficiencies.weapons }}</dd>
+              {%- endif -%}
+              {%- if cs.proficiencies.tools and cs.proficiencies.tools != "" -%}
+              <dt>Tools</dt><dd>{{ cs.proficiencies.tools }}</dd>
+              {%- endif -%}
+            </dl>
+          </div>
+
+          <!-- Features -->
+          {%- if cs.features and cs.features.size > 0 -%}
+          <div class="cs-section">
+            <div class="cs-section-label">Features &amp; Traits</div>
+            <ul class="cs-feature-list">
+              {%- for f in cs.features -%}
+              <li>
+                <span class="cs-feature-name">{{ f.name }}</span>
+                <span>
+                  {%- if f.uses and f.uses != "" -%}
+                  <span class="cs-feature-uses">{{ f.uses }}</span>
+                  {%- endif -%}
+                  <span class="cs-feature-source">{{ f.source }}</span>
+                </span>
+              </li>
+              {%- endfor -%}
+            </ul>
+          </div>
+          {%- endif -%}
+
+        </div><!-- /col-right -->
+
+      </div><!-- /cs-body -->
+
+      <!-- ── Feature Descriptions (body content) ───────────────────────── -->
+      {%- if content and content != "" -%}
+      <div class="cs-content">
+        {{ content }}
+      </div>
+      {%- endif -%}
+
+    </div><!-- /charsheet -->
+  </body>
+</html>
