@@ -1,0 +1,220 @@
+# Equilibrium Campaign Wiki
+
+This is the source repository for the **Equilibrium** tabletop RPG campaign
+wiki, a D&D 5E campaign about SPI (Supernatural Phenomena Investigation)
+agents solving supernatural mysteries. The site is built with Jekyll and
+served publicly. All content is plain Markdown with YAML front matter,
+which is the deliberate long-term archival format.
+
+---
+
+## Directory Structure
+
+```
+_pages/
+  calendar/        # Aecan calendar reference
+  creatures/       # Creature type lore pages
+  dossiers/        # NPC and entity profiles
+  events/          # Historical events and session episode pages
+  gm/              # GM-ONLY content (not public-facing)
+    creatures/
+    dossiers/
+    events/
+    future/
+    ideas/
+    locales/
+    orgs/
+    relics/
+    religion/
+    rules/
+  gear.md          # Equipment reference
+  glossary.md
+  index.md
+  locales/         # Locations
+  orgs/            # Organizations
+  relics/          # Magic items
+  religion.md
+  rules/           # Game mechanics reference
+_bin/              # Utility scripts
+_layouts/
+_includes/
+```
+
+**Naming conventions:**
+- File names: lowercase, hyphenated (`durak-greyshore.md`, `storm-stables.md`)
+- Episode pages: `case-{case_id}.md` for case summaries, `case-{case_id}e{ep}.md` for episodes
+  - Example: `case-17.md` (Case 17 summary), `case-17e09.md` (Case 17, episode 9)
+- To make URLs more concise, dossier slugs for PCs differ from display names
+  (e.g. `oz.md` for the PC named "Ozborn/Oz")
+
+---
+
+## Front Matter Schemas
+
+### Episode event page (`_pages/events/case-NNeNN.md`)
+```yaml
+---
+title: "[17e09] Blooms of Remembrance"
+description: >-
+  One-sentence teaser shown in indexes.
+datestamp: 50-06-13/09      # Aecan in-world date (format: YY-MM-DD/episode)
+when: AC50 Vis 13           # Human-readable Aecan date
+session-number: 96          # Cumulative session number across all cases
+session-date: 2026-01-17    # Real-world session date (ISO)
+---
+```
+Content uses the **tab system** (see below).
+
+### Case summary page (`_pages/events/case-NN.md`)
+```yaml
+---
+title: "[Case 17] Misery and Mending"
+description: >-
+  Brief arc description.
+datestamp: 50-06-09/00a
+when: AC50 Vis 09 - AC50 Vis 13
+---
+```
+
+### Dossier (`_pages/dossiers/name.md`)
+```yaml
+---
+title: Grohnea
+---
+```
+Content is free-form Markdown, often with sections like
+Background, Personality, Notes, etc.
+
+### Locale (`_pages/locales/name.md`)
+```yaml
+---
+title: Storm Stables
+---
+```
+
+### GM-only pages mirror the public structure under `_pages/gm/`, e.g.:
+- `_pages/gm/events/case-17e09.md` — GM notes for an episode
+- `_pages/gm/dossiers/grohnea.md` — GM-only NPC secrets
+
+---
+
+## Jekyll Tab System
+
+Episode pages use a multi-tab include for multiple recap styles.
+**This is critical to get right.**
+
+```markdown
+{% include tab id='long' label='Long' first=true %}
+
+[Long narrative recap here]
+
+{% include tab id='short' label='Short' %}
+
+[Short recap here]
+
+{% include tab id='dnd' label='Classic D&D' %}
+
+[Classic D&D style recap here]
+
+{% include tab id='limerick' label='Limerick' %}
+
+[Limerick recap here]
+
+{% include tab id='snarky' label='Snarky' %}
+
+[Snarky recap here]
+
+{% include endtabs %}
+```
+
+All episode pages should have at minimum Long and Short tabs.
+The other tabs are nice-to-have (GM Assistant generates them automatically).
+
+---
+
+## Wiki Link Format
+
+Internal links use relative paths from the current page:
+```markdown
+[Grohnea](../dossiers/grohnea)
+[Storm Stables](../locales/storm-stables)
+[giants](../creatures/giants)
+[Case 17](../events/case-17)
+```
+Note: no `.md` extension in links.
+
+---
+
+## ⚠️ Name Alias Warning (GM Assistant vs. Wiki)
+
+**GM Assistant may sometimes use different spellings than the wiki.**
+Always verify names before publishing. Known divergences are declared
+in `_bin/ingest-session.py` in the `KNOWN_ALIASES` dictionary.
+
+This list grows over time. When ingesting a session, always check NPC and
+location names against existing `_pages/dossiers/` and `_pages/locales/` files.
+
+---
+
+## GM Assistant YAML Ingestion
+
+The primary utility script is `_bin/ingest-session.py`. It converts a
+GM Assistant YAML export into a draft Jekyll episode page.
+
+**Usage:**
+```bash
+_bin/ingest-session.py path/to/session-DATE.yaml
+```
+
+**What it produces:**
+- `_pages/events/case-{id}.draft.md` —
+  draft episode page with all tab sections pre-populated
+- Console report of NPCs/locations that don't have existing wiki pages yet
+
+**What it does NOT do (requires human follow-up):**
+- Correct proper noun spelling differences (see alias table above)
+- Add wiki links (`[Name](../dossiers/slug)` format)
+- Fill in `datestamp` and `when` (requires Aecan calendar lookup)
+- Fill in `session-number` (check the previous episode's front matter + 1)
+- Create dossier/locale stubs (do this manually,
+  or ask Claude Code to scaffold them)
+- Overwrite existing pages
+
+**Post-ingest checklist:**
+1. Rename `.draft.md` to `.md` when satisfied
+2. Correct all proper nouns (especially check alias table)
+3. Add wiki links throughout
+4. Fill in `datestamp`, `when`, `session-number`
+5. Write the `description` field (one teaser sentence)
+6. Create any missing dossier/locale stubs flagged in the console output
+7. Update the case summary page (`case-NN.md`) if the arc concluded
+
+---
+
+## Common Tasks Claude Code Can Help With
+
+- **Run ingest:**
+  `_bin/ingest-session.py <yaml>` and review output
+- **Scaffold a new dossier stub:**
+  create `_pages/dossiers/<slug>.md` with front matter + sections
+- **Scaffold a new locale stub:**
+  create `_pages/locales/<slug>.md` with front matter + sections
+- **Find an NPC slug:**
+  `grep -rl "title: NAME" _pages/dossiers/`
+- **Check what pages link to an NPC:**
+  `grep -rl "dossiers/slug" _pages/`
+- **Add wiki links to a draft:**
+  read draft, find NPC/location names, resolve slugs, insert links
+- **Update the alias table in this file**
+  when new divergences are discovered
+
+---
+
+## Longevity Principles
+
+- The wiki is the **canonical source of truth**. Foundry VTT, GM Assistant,
+  and Claude.ai are all upstream drafting/display tools.
+  Content always flows *into* the wiki, never out.
+- Never store campaign-critical content only in Foundry journals.
+- GM Assistant exports (YAML) are raw material; the processed wiki page is the archive.
+- All GM-only content lives under `_pages/gm/` and is excluded from the public build.
