@@ -24,7 +24,7 @@
           <a href="{{site.baseurl}}/">Equilibrium</a>
         </div>
         <ul class="session-list">
-          {%- assign all_episodes = site.pages | where_exp: "ep", "ep.datestamp" | sort: "datestamp" | reverse -%}
+          {%- assign all_episodes = site.pages | sort: "datestamp" | reverse -%}
           {%- for ep in all_episodes -%}
             {%- if ep["session-number"] and ep.url contains "/events/case-" -%}
               {%- assign ep_id = ep.title | split: "]" | first | remove: "[" -%}
