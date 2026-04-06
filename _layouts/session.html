@@ -24,15 +24,17 @@
           <a href="{{site.baseurl}}/">Equilibrium</a>
         </div>
         <ul class="session-list">
-          {%- assign all_episodes = site.pages | sort: "datestamp" -%}
+          {%- assign all_episodes = site.pages | sort: "datestamp" | reverse -%}
           {%- for ep in all_episodes -%}
             {%- if ep["session-number"] and ep.url contains "/events/case-" -%}
               {%- assign ep_id = ep.title | split: "]" | first | remove: "[" -%}
               {%- assign ep_name = ep.title | split: "] " | last -%}
               <li{% if ep.url == page.url %} class="current"{% endif %}>
-                <a href="{{ ep.url }}"><strong>{{ ep_id }}</strong> {{ ep_name }}</a>
+                <a href="/equilibrium{{ ep.url }}"><strong>{{ ep_id }}</strong> {{ ep_name }}</a>
                 {%- if ep["session-date"] -%}
                   <span class="session-list-date">{{ ep["session-date"] }}</span>
+                {%- elsif ep["playedAt"] -%}
+                  <span class="session-list-date">{{ ep["playedAt"] }}</span>
                 {%- endif -%}
               </li>
             {%- endif -%}
@@ -54,6 +56,72 @@
         {%- endfor -%}
 
         {{ content }}
+<details class="session-section" open>
+<summary>Recap</summary>
+<div class="section-body">
+
+{% include tab id='short' label='Short' first=true %}
+
+{{ page.short_summary | markdownify }}
+
+{% include tab id='long' label='Long' %}
+
+{{ page.summary | markdownify }}
+
+{% include tab id='dnd' label='Classic D&D' %}
+
+{{ page.classic_summary | markdownify }}
+
+{% include tab id='limerick' label='Limerick' %}
+
+{{ page.limerick_style_summary | markdownify }}
+
+{% include tab id='snarky' label='Snarky' %}
+
+{{ page.snarky_summary | markdownify }}
+
+{% include endtabs %}
+
+</div>
+</details>
+
+<details class="session-section">
+<summary>Memorable Moments ({{ page.memorable_moments | size }})</summary>
+<div class="section-body" markdown="1">
+
+  {% for moment in page.memorable_moments %}
+<blockquote>
+    {% if moment.is_quote %}
+<strong>{{ moment.speaker }}:</strong> "{{ moment.description }}"
+    {% else %}
+<em>[{{ moment.type }}]</em> {{ moment.description }}
+    {% endif %}
+<em>{{ moment.context | markdownify }}</em>
+</blockquote>
+  {% endfor %}
+
+</div>
+</details>
+
+<details class="session-section">
+<summary>Scenes</summary>
+<div class="section-body" markdown="1">
+
+{% for scene in page.scenes %}
+<h3>{{ scene.title }}</h3>
+
+{{ scene.description | markdownify }}
+
+<ul>
+{% for event in scene.key_events %}
+<li>{{ event | markdownify }}</li>
+{% endfor %}
+</ul>
+{% endfor %}
+
+</div>
+</details>
+
       </main>
 
       <!-- Right column: reference sidebar -->
@@ -70,17 +138,17 @@
               <dt>Played</dt><dd>{{ page["session-date"] }}</dd>
             {%- endif -%}
             {%- if page["session-number"] -%}
-              <dt>Session</dt><dd>#{{ page["session-number"] }}</dd>
+              <dt>Session #</dt><dd>{{ page["session-number"] }}</dd>
             {%- endif -%}
           </dl>
         </details>
         {%- endif -%}
 
-        {%- if page.locations_featured -%}
+        {%- if page.locations -%}
         <details class="sidebar-section" open>
           <summary>Locations</summary>
           <ul class="sidebar-list">
-            {%- for loc in page.locations_featured -%}
+            {%- for loc in page.locations -%}
               <li>
                 {%- if loc.wiki -%}
                   <a href="{{ loc.wiki }}">{{ loc.name }}</a>
@@ -89,18 +157,18 @@
                 {%- else -%}
                   {{ loc }}
                 {%- endif -%}
-                {%- if loc.role -%}<br><small>{{ loc.role }}</small>{%- endif -%}
+                {%- if loc.description -%}<br><small>{{ loc.description }}</small>{%- endif -%}
               </li>
             {%- endfor -%}
           </ul>
         </details>
         {%- endif -%}
 
-        {%- if page.npcs_featured -%}
+        {%- if page.npcs -%}
         <details class="sidebar-section" open>
           <summary>NPCs</summary>
           <ul class="sidebar-list">
-            {%- for npc in page.npcs_featured -%}
+            {%- for npc in page.npcs -%}
               <li>
                 {%- if npc.wiki -%}
                   <a href="{{ npc.wiki }}">{{ npc.name }}</a>
@@ -109,18 +177,18 @@
                 {%- else -%}
                   {{ npc }}
                 {%- endif -%}
-                {%- if npc.role -%}<br><small>{{ npc.role }}</small>{%- endif -%}
+                {%- if npc.description -%}<br><small>{{ npc.description }}</small>{%- endif -%}
               </li>
             {%- endfor -%}
           </ul>
         </details>
         {%- endif -%}
 
-        {%- if page.items_featured -%}
+        {%- if page.items -%}
         <details class="sidebar-section" open>
           <summary>Items</summary>
           <ul class="sidebar-list">
-            {%- for item in page.items_featured -%}
+            {%- for item in page.items -%}
               <li>
                 {%- if item.wiki -%}
                   <a href="{{ item.wiki }}">{{ item.name }}</a>
@@ -129,18 +197,22 @@
                 {%- else -%}
                   {{ item }}
                 {%- endif -%}
+                {%- if item.description -%}<br><small>{{ item.description }}</small>{%- endif -%}
               </li>
             {%- endfor -%}
           </ul>
         </details>
         {%- endif -%}
 
-        {%- if page.spells_featured -%}
+        {%- if page.spells -%}
         <details class="sidebar-section" open>
           <summary>Spells</summary>
           <ul class="sidebar-list">
-            {%- for spell in page.spells_featured -%}
-              <li>{{ spell }}</li>
+            {%- for spell in page.spells -%}
+              <li>
+                {{ spell.name }}
+                {%- if spell.description -%}<br><small>{{ spell.description }}</small>{%- endif -%}
+              </li>
             {%- endfor -%}
           </ul>
         </details>
