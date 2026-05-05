@@ -7,9 +7,10 @@ when: AC50 Vis 04
 session-number: 76
 session-date: 2024-07-13
 session-event: https://www.facebook.com/events/1784272022096933/
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 As [Cal](../dossiers/cal) goes to the teleport circle, he notices that it's not exactly the same as it was before. He jumps off to avoid the trap just in the nick of time! But the [Brucolac](../dossiers/cronus) swings a gauntleted fist at [Cal's sword](../relics/arkenstone), attempting to bludgeon it out of his hand. Cal parries, but the Brucolac bites him! Cal's blood boils in some kind of reaction. His body frosts over. The Brucolac tries to let go, but can't. The frost is entering him!
 

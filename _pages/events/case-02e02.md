@@ -7,6 +7,7 @@ when: AC50 Solis 12
 session-number: 3
 session-date: 2015-07-18
 session-event: https://www.facebook.com/events/1467282916915112/
+layout: session
 ---
 
 1. Returned to [HQ](../locales/spi-hq) to speak to Mallory. Discussed the cases and the book. Got some supplies for dealing with petrification.

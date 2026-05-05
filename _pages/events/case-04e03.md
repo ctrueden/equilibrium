@@ -7,6 +7,7 @@ when: AC50 Solis 16
 session-number: 10
 session-date: 2016-02-19
 session-event: https://www.facebook.com/events/1019720774755178/
+layout: session
 ---
 
 * Agents race through the garbage tunnels beneath the resort&mdash;the walls of which have entrapped thousands of people in expressions of shock, dismay, and agony&mdash;before they can be eaten by gibbering mouthers.

@@ -7,6 +7,7 @@ when: "-"
 session-number: 1UP
 session-date: 2018-06-29
 session-event: https://www.facebook.com/events/1077987072377915/
+layout: session
 ---
 
 No story this session... just leveling up and hanging out!

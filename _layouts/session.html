@@ -55,36 +55,63 @@
         </details>
         {%- endfor -%}
 
-        {{ content }}
 <details class="session-section" open>
 <summary>Recap</summary>
 <div class="section-body">
 
-{% include tab id='short' label='Short' first=true %}
+{{ content }}
+{% assign first = true %}
 
+{% if page.notes %}
+{% include tab id='notes' label="Notes" first=first %}
+{% assign first = false %}
+{{ page.notes | markdownify }}
+{% endif %}
+
+{% if page.callie_journal %}
+{% include tab id='callie_journal' label="Callie's Journal" first=first %}
+{% assign first = false %}
+{{ page.callie_journal | markdownify }}
+{% endif %}
+
+{% if page.short_summary %}
+{% include tab id='short' label='Short' first=first %}
+{% assign first = false %}
 {{ page.short_summary | markdownify }}
+{% endif %}
 
-{% include tab id='long' label='Long' %}
-
+{% if page.summary %}
+{% include tab id='long' label='Long' first=first %}
+{% assign first = false %}
 {{ page.summary | markdownify }}
+{% endif %}
 
-{% include tab id='dnd' label='Classic D&D' %}
-
+{% if page.classic_summary %}
+{% include tab id='dnd' label='Classic D&D' first=first %}
+{% assign first = false %}
 {{ page.classic_summary | markdownify }}
+{% endif %}
 
-{% include tab id='limerick' label='Limerick' %}
-
+{% if page.limerick_style_summary %}
+{% include tab id='limerick' label='Limerick' first=first %}
+{% assign first = false %}
 {{ page.limerick_style_summary | markdownify }}
+{% endif %}
 
-{% include tab id='snarky' label='Snarky' %}
-
+{% if page.snarky_summary %}
+{% include tab id='snarky' label='Snarky' first=first %}
+{% assign first = false %}
 {{ page.snarky_summary | markdownify }}
+{% endif %}
 
+{% if first == false %}
 {% include endtabs %}
+{% endif %}
 
 </div>
 </details>
 
+{% if page.memorable_moments %}
 <details class="session-section">
 <summary>Memorable Moments ({{ page.memorable_moments | size }})</summary>
 <div class="section-body" markdown="1">
@@ -102,7 +129,9 @@
 
 </div>
 </details>
+{% endif %}
 
+{% if page.scenes %}
 <details class="session-section">
 <summary>Scenes</summary>
 <div class="section-body" markdown="1">
@@ -121,6 +150,7 @@
 
 </div>
 </details>
+{% endif %}
 
       </main>
 

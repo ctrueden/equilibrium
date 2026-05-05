@@ -7,6 +7,7 @@ when: AC50 Rixa 10-21
 session-number: 41
 session-date: 2019-08-30
 session-event: https://www.facebook.com/events/2400128636928068/
+layout: session
 ---
 
 1. Aurora hooks up the party with some guns. How the guns work:

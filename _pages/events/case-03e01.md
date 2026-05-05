@@ -7,6 +7,7 @@ when: AC50 Solis 14
 session-number: 4
 session-date: 2015-Aug-15
 session-event: https://www.facebook.com/events/1449096395400192/
+layout: session
 ---
 
 1. Went to the dwarven city under the Mountain.

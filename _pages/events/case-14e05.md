@@ -7,9 +7,10 @@ when: AC50 Vis 03
 session-number: 67
 session-date: 2024-01-20
 session-event: https://www.facebook.com/events/1043655976708167/
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 Possible Session Titles:
 * Ozborn, Underfoot

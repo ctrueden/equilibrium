@@ -7,6 +7,7 @@ when: AC50 Solis 14
 session-number: 5
 session-date: 2015-09-11
 session-event: https://www.facebook.com/events/927536267306706/
+layout: session
 ---
 
 1. Sil and Bronce decided to destroy Gurin's corpse. Sil cut off his head, then burned the body in the fireplace.

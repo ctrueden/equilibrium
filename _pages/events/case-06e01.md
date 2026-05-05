@@ -7,6 +7,7 @@ when: AC50 Solis 24-25
 session-number: 12
 session-date: 2016-08-21
 session-event: https://www.facebook.com/events/534678750056495/
+layout: session
 ---
 
 1. The SPI traveled to Xaos, the City of Chaos, to look for the tribe of the Manufeai (gnoll tribe) because they heard something terrible and mysterious had happened to them.

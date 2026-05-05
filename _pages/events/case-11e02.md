@@ -7,6 +7,7 @@ when: AC50 Rixa 10
 session-number: 38
 session-date: 2019-05-31
 session-event: https://www.facebook.com/events/408443796644238/
+layout: session
 ---
 
 1. Raliana told Callie that her parents have split up! She heard through the grapevine from Archibald (family butler) that she was staying at the Hotel Crane. The servants all went with her, except Raliana.

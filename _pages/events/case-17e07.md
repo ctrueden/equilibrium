@@ -6,9 +6,10 @@ datestamp: 50-06-13/07
 when: AC50 Vis 13
 session-number: 94
 session-date: 2025-10-18
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 I feel Munin trying to withdraw from my body. I could hold on, but I respect this spirit's independence. Freki tries to ask how I am through the connection with Munin, and I try to indicate that I'm okay. My emotions feel less heightened as Munin withdraws, and the mental link to Freki breaks.
 

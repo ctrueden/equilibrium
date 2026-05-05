@@ -7,6 +7,7 @@ when: AC50 Rixa 02
 session-number: 34
 session-date: 2019-03-08
 session-event: https://www.facebook.com/events/287293625299842/
+layout: session
 ---
 
 [Callie](../dossiers/callie) suggests to teleport the [Cornucopia](../relics/cornucopia) to "my parents' basement&mdash;by which I mean their vault." She explains that they live in a secure location in Cognitutus, the secret underwater city of gnomes! [Bec](../dossiers/bec) deciphers and adapts a ritual from a history book that [Anne Bonny](../dossiers/bonny-qin) brought, which described a druidic group ritual to … the party can't remember. Bec leads the group teleportation ritual, barely competent (with Stephanie rolling exactly what was needed on the die). Anne Bonny provides the scroll of teleport. Callie draws the sigil sequence. Bec opts not to include the participants in the teleportation effect, but only the artifact.

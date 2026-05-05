@@ -6,9 +6,10 @@ datestamp: 50-06-13/05
 when: AC50 Vis 13
 session-number: 92
 session-date: 2025-08-17
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 [Kavaki](../dossiers/kavaki) draws us a map so we can better understand the layout of the stables:
 

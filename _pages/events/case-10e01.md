@@ -7,6 +7,7 @@ when: AC50 Cudo 26
 session-number: 31
 session-date: 2018-11-02
 session-event: https://www.facebook.com/events/336352717098607/
+layout: session
 ---
 
 * Vondal leaves the Amulet of Vecna's Lore in the safe in his house, along with his retirement savings. Then everyone met back up in the tunnel near the entrance to the old HQ.

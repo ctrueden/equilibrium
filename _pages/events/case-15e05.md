@@ -7,11 +7,12 @@ when: AC50 Vis 04
 session-number: 73
 session-date: 2024-05-04
 session-event: https://www.facebook.com/events/417456024201743/
+layout: session
 ---
 
 🎇🎂🥳
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 *GM's note: NOT FINALIZED*
 

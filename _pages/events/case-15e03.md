@@ -7,9 +7,10 @@ when: AC50 Vis 04
 session-number: 71
 session-date: 2024-03-30
 session-event: https://www.facebook.com/events/3518913611754028/
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 *GM's note: NOT FINALIZED*
 

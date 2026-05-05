@@ -7,9 +7,10 @@ when: AC50 Vis 03
 session-number: 66
 session-date: 2024-01-06
 session-event: https://www.facebook.com/events/669253905134679/
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 We've determined that [Oz](../dossiers/oz)'s short bow is mint in box. Maybe it's worth more that way!
 

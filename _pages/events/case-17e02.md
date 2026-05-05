@@ -6,9 +6,10 @@ datestamp: 50-06-13/02
 when: AC50 Vis 13
 session-number: 89
 session-date: 2025-06-07
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 In the morning, Grimma the goblin brings us a huge wooden cup filled with something stinky and insists we drink out of it. It smells like rancid meat. We have to swear a goblin blood oath before we leave. If I drink it and then barf, does it still count? She tells me it's literally impossible to throw up, which doesn't make me feel better.
 

@@ -7,6 +7,7 @@ when: AC50 Cudo 25
 session-number: 28
 session-date: 2018-08-03
 session-event: https://www.facebook.com/events/1108757045931616/
+layout: session
 ---
 
 > If she sprays the barrier with our blood, it will become a grizzly barrier.

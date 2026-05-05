@@ -7,6 +7,7 @@ when: AC50 Rixa 23-24
 session-number: 47
 session-date: 2022-04-22
 session-event: https://www.facebook.com/events/363875282348022/
+layout: session
 ---
 
 The party divvies up the merpeople treasure. They decide to store the treasure chests inside one of the treasures, a magical hole that is 10 feet deep and can be folded up.

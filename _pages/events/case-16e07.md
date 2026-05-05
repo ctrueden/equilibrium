@@ -7,6 +7,7 @@ when: AC50 Vis 06
 session-number: 84
 session-date: 2025-01-11
 session-event: https://www.facebook.com/events/1668398757430235/
+layout: session
 ---
 
 {% include tab id="summary" label="Summary" first=true %}
@@ -25,7 +26,7 @@ session-event: https://www.facebook.com/events/1668398757430235/
 [![Black Slime Eyes and Mouths](https://i.pinimg.com/236x/1b/9a/b9/1b9ab926c57fe362b9f37f9ad040e987.jpg)](https://www.pinterest.com/pin/292945150774630707/)<br>Shadow Slime
 </div>
 
-{% include tab id="callie" label="Callie Journal" %}
+{% include tab id="callie" label="Callie's Journal" %}
 
 Bec casts Hypnotic Pattern in the general direction of the badness. Most of the creatures looked like they're just immune to it, but one of them seemed to have to resist it.
 

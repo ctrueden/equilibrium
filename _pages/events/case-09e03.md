@@ -7,6 +7,7 @@ when: AC50 Cudo 25
 session-number: 29
 session-date: 2018-09-07
 session-event: https://www.facebook.com/events/267991937131656/
+layout: session
 ---
 
 * [Cassandra](../dossiers/cassandra) heals [Freki](../dossiers/freki).

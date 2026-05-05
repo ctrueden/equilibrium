@@ -7,9 +7,10 @@ when: AC50 Vis 04
 session-number: 75
 session-date: 2024-06-01
 session-event: https://www.facebook.com/events/2163438610685771/
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 [Bec](../dossiers/bec) casts *cloud of daggers* and creates a pretty purple storm. Stylish and lethal, that's our Bec! After slicing off, just, like, so many tentacles, she sneaks around towards the sarcophagus.
 

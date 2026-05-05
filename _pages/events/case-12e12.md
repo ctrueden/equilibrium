@@ -7,6 +7,7 @@ when: AC50 Rixa 25
 session-number: 57
 session-date: 2023-01-07
 session-event: https://www.facebook.com/events/670150321336704/
+layout: session
 ---
 
 The Tree is rumbling.

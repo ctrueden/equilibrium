@@ -7,9 +7,10 @@ when: AC50 Vis 03
 session-number: 64
 session-date: 2023-10-28
 session-event: https://www.facebook.com/events/246667454882342/
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 [Freki](../dossiers/freki) offers a mutually beneficial alliance. In response, the woman holds out her hand and says we can kiss her ring if we want to serve. [Bec](../dossiers/bec) and [Callie](../dossiers/callie) notice that the ring is the symbol of [Vecna](../dossiers/vecna), who deals in secrets.
 

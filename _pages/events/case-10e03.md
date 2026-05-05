@@ -7,6 +7,7 @@ when: AC50 Rixa 02
 session-number: 33
 session-date: 2019-01-26
 session-event: https://www.facebook.com/events/376639889751703/
+layout: session
 ---
 
 The SPI valiantly battles the agents of [Pelor](../dossiers/pelor). The largest stone statue rumbles to life, and speaks with Pelor's voice! How dare they, mere mortals, interfere with a sacred artifact that protects an entire nation!

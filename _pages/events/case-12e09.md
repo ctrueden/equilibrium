@@ -7,6 +7,7 @@ when: AC50 Rixa 25
 session-number: 54
 session-date: 2022-11-19
 session-event: https://www.facebook.com/events/1150757385650969/
+layout: session
 ---
 
 (TODO: Clean up and flesh out these very rough notes.)

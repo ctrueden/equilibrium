@@ -7,6 +7,7 @@ when: AC50 Vis
 session-number: 62
 session-date: 2023-05-13
 session-event: https://www.facebook.com/events/1191545644865411/
+layout: session
 ---
 
 {% include tab id="summary" label="Summary" first=true %}
@@ -15,7 +16,7 @@ In the aftermath of the [Malosi](../orgs/malosi) fight at [Alye'adu](../locales/
 
 Mallory and Cassandra reestablish operations at [SPI HQ](../locales/spi-hq), and the other active SPI field agents bring new cases for the agency to address.
 
-{% include tab id="callie" label="Callie Journal" %}
+{% include tab id="callie" label="Callie's Journal" %}
 
 There is a woman in the village named [Respa](../dossiers/respa-wheatgrinder) (the redhead carrying a bowl of food). I remember her from [a case we were on](case-03). We went to arrest [Hollerd](../dossiers/hollerd-aldrimor), a [dwarf](../creatures/dwarves), on his ranch, for poisoning [his uncle](../dossiers/gurin-aldrimor). There was [a woman on the farm](../dossiers/tasper-ironroot) who tried to send us away, but we pushed past her and arrested him. Respa looks like that woman.
 

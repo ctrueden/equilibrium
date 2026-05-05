@@ -7,6 +7,7 @@ when: AC50 Auran Apex
 session-number: 59
 session-date: 2023-02-03
 session-event: https://www.facebook.com/events/846270163301081/
+layout: session
 ---
 
 {% include tab id="summary" label="Summary" first=true %}

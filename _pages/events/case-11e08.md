@@ -7,6 +7,7 @@ when: AC50 Rixa 21
 session-number: 44
 session-date: 2020-01-25
 session-event: https://www.facebook.com/events/2573562936206382/
+layout: session
 ---
 
 1. One by one, the pillar lights go out. Freki, Bec and Callie all have darkvision, but it is half as effective as normal.

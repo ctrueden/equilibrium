@@ -7,6 +7,7 @@ when: AC50 Cudo 13
 session-number: 20
 session-date: 2017-09-08
 session-event: https://www.facebook.com/events/1630950433593523/
+layout: session
 ---
 
 * Bram was called into the room. He jumped up on a table, tankard in hand. "Beggin' your pardon, but… I don't need to go in that room to make an offer. Listen up, me hearties. If I end up with that juice, then you (points to Stormcloud) get on my boat. You (points to Sartus and Tybalt), I'll fix your Tree. You (points to Invictus) can't use it anyway; and I'll get your book back for ya. You (points to the SPI), I'll tell you what happened to the rest of the SPI, and who was responsible. You (points to Orbach): you can be a pirate on my pirate ship; I know you want to. And you (pointing to Tremere): you get nothing; fuck you. And now: I gotta go take a shit. Think about it." And he stomps out of the parlor into the foyer.

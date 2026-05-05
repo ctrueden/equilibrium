@@ -7,6 +7,7 @@ when: AC50 Cudo 19-25
 session-number: 27
 session-date: 2018-07-27
 session-event: https://www.facebook.com/events/310796676122177/
+layout: session
 ---
 
 * [Vondal](../dossiers/vondal) and [Bec](../dossiers/bec) both create bubbles of stable reality. Because they both are powerful, the realities combine.

@@ -7,6 +7,7 @@ when: AC50 Rixa 10
 session-number: 37
 session-date: 2019-04-19
 session-event: https://www.facebook.com/events/598100160658490/
+layout: session
 ---
 
 1. SPI agents transport to Cognitutus using Callie's secret sigil sequence.

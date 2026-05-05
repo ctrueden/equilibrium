@@ -7,6 +7,7 @@ when: AC50 Rixa 24-25
 session-number: 50
 session-date: 2022-07-16
 session-event: https://www.facebook.com/events/797001894791959/
+layout: session
 ---
 
 {% include quote text="

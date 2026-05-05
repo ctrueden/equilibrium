@@ -7,6 +7,7 @@ when: AC50 Rixa 25
 session-number: 56
 session-date: 2022-12-31
 session-event: https://www.facebook.com/events/1166646017325641/
+layout: session
 ---
 
 {% include tab id="notes" label="Notes" first=true %}

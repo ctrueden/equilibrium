@@ -7,9 +7,10 @@ when: AC50 Vis 04
 session-number: 70
 session-date: 2024-03-16
 session-event: https://www.facebook.com/events/945046283678657
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 Possible session titles:
 * Good People On Both Sides

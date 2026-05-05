@@ -7,6 +7,7 @@ when: AC50 Solis 25
 session-number: 13
 session-date: 2016-10-29
 session-event: https://www.facebook.com/events/1589437974695524/
+layout: session
 ---
 
 1. The party slew the demonic reanimations of the tribe.

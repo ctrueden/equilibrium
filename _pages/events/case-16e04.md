@@ -7,6 +7,7 @@ when: AC50 Vis 06
 session-number: 81
 session-date: 2024-12-01
 session-event: https://www.facebook.com/events/1258965535230041/
+layout: session
 ---
 
 {% include tab id="summary" label="Summary" first=true %}
@@ -25,7 +26,7 @@ session-event: https://www.facebook.com/events/1258965535230041/
 > Is all that we see or seem  
 > But a dream within a dream?
 
-{% include tab id="callie" label="Callie Journal" %}
+{% include tab id="callie" label="Callie's Journal" %}
 
 > All HP and spell slots NOT restored!
 

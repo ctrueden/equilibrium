@@ -7,6 +7,7 @@ when: AC50 Cudo 07
 session-number: 17
 session-date: 2017-06-09
 session-event: https://www.facebook.com/events/1439666299424884/
+layout: session
 ---
 
 * Sean separated the belts on his front right tire. He also bent three of his rims.

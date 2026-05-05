@@ -7,6 +7,7 @@ when: AC50 Cudo 13
 session-number: 22
 session-date: 2017-12-03
 session-event: https://www.facebook.com/events/1924681181132378/
+layout: session
 ---
 
 * Bec Galere, Freki Sarin, Cal and Vondal are present for the continuing investigation.

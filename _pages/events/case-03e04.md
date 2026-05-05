@@ -7,6 +7,7 @@ when: AC50 Solis 14
 session-number: 7
 session-date: 2015-12-12
 session-event: https://www.facebook.com/events/1684637685110960/
+layout: session
 ---
 
 1. Vondal saw a vision of a stone of light, and a figure of light grasping it. Wild magic surge. Split into two Vondals.

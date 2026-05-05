@@ -7,6 +7,7 @@ when: AC50 Solis 14
 session-number: 6
 session-date: 2015-11-14
 session-event: https://www.facebook.com/events/1646209978992769/
+layout: session
 ---
 
 1. On the way to the castle to question Rubinia Elka, Vondal seemed pensive and distracted. He made a flimsy excuse that he needed to buy some fruit from a nearby stand, told everyone to proceed without him, and said that he would catch up later.

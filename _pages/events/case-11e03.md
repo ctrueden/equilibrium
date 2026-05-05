@@ -7,6 +7,7 @@ when: AC50 Rixa 10
 session-number: 39
 session-date: 2019-06-15
 session-event: https://www.facebook.com/events/452723465496807/
+layout: session
 ---
 
 1. The agents fought the monsters.

@@ -6,9 +6,10 @@ datestamp: 50-06-13/03
 when: AC50 Vis 13
 session-number: 90
 session-date: 2025-06-21
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 I choose to lose the glitter but keep my new wings. They're interesting, and I already have all kinds of ideas for inventions to help me live with them. Plus: flying! I'm a little stumbly right now, since I'm not used to them, but I'll practice whenever I have time.
 

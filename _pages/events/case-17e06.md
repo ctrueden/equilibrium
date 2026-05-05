@@ -6,6 +6,7 @@ datestamp: 50-06-13/06
 when: AC50 Vis 13
 session-number: 93
 session-date: 2025-09-27
+layout: session
 ---
 
 {% include tab id="summary" label="Summary" first=true %}
@@ -16,7 +17,7 @@ Status effects at session start:
 - Callie and Cal have DISADVANTAGE on next save or attack (from Rhyzophus energy explosion)
 - Cal and Callie are STUNNED (from Rhyzophus energy explosion) until end of their next turns
 
-{% include tab id="callie" label="Callie Journal" %}
+{% include tab id="callie" label="Callie's Journal" %}
 
 **The Ambush Develops Not Necessarily To The Giants' Advantage**
 

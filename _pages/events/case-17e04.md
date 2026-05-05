@@ -6,9 +6,10 @@ datestamp: 50-06-13/04
 when: AC50 Vis 13
 session-number: 91
 session-date: 2025-08-02
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 We enter the cave through the little crevasse and can hear the voices of the giants booming off towards the main entrance. It sounds to me like Jorik is trying to explain that an elephant appeared and who can explain it? There's another giant, unknown to me, who sounds contemptuous. However, their conversation ends without any conflict and it sounds like the other giant went away, so we're free to explore. Explore the enormous, dark caves filled with ten-legged dragons and maniacal cultists. Hooray.
 

@@ -7,6 +7,7 @@ when: AC50 Cudo 13
 session-number: 19
 session-date: 2017-08-11
 session-event: https://www.facebook.com/events/1943261149281604/
+layout: session
 ---
 
 [![Invictus Manor](https://i.pinimg.com/videos/thumbnails/originals/92/67/57/9267577e8a369e556eeb674fe4b2996d.0000000.jpg){:style="max-width: 300px"}](https://www.pinterest.com/pin/647814727668335598/)

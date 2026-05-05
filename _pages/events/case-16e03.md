@@ -7,9 +7,10 @@ when: AC50 Vis 06
 session-number: 80
 session-date: 2024-11-16
 session-event: https://www.facebook.com/events/2259492204418862/
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 Oz wants to go to the tower, which he imagines is full of treasure and not piping hot death. Well, we've done plenty of dumb things and lived, so we might as well give it a try. Freki notices some roots growing around. The ground smells like the forest to him. The birds seem more unified than usual. He asks them if we should reteat, and they say, "We cannot."
 

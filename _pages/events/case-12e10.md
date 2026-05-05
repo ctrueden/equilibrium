@@ -7,6 +7,7 @@ when: AC50 Rixa 25
 session-number: 55
 session-date: 2022-12-02
 session-event: https://www.facebook.com/events/881611359667217/
+layout: session
 ---
 
 Enormous gouts of blood burst out of [Phoebe the Hamadryad](../dossiers/phoebe)'s neck, when [Freki](../dossiers/freki) suddenly wolfed out and lunged at her throat. [Ozborn](../dossiers/oz) immediately followed Freki's lead and stabbed the hamadryad with both his blades, further engorging the blood flood. All that blood blobbed into a bloated blubbery [pile of gnome](../dossiers/peregrine-shackleton) on the ground, unconscious.

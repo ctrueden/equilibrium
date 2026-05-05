@@ -6,9 +6,10 @@ datestamp: 50-06-09/00b
 when: AC50 Vis 09
 session-number: 87
 session-date: 2025-03-15
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 [My](../dossiers/callie) finely-honed cleric's instincts wake me up, alerting me that [Lorelei](../dossiers/lorelei-nocturne) is in pain. Also, she's screaming at the top of her lungs. Looking closer, I can see that she's just covered in these horrible little [Flux](../locales/flux)-sores.
 

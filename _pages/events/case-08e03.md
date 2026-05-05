@@ -7,6 +7,7 @@ when: AC50 Cudo 19
 session-number: 26
 session-date: 2018-05-04
 session-event: https://www.facebook.com/events/136627437057099/
+layout: session
 ---
 
 * Fire was all over, and several people fell into the pit down the rockslide of rubble.

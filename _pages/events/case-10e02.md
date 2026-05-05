@@ -7,6 +7,7 @@ when: AC50 Cudo 26 - Rixa 02
 session-number: 32
 session-date: 2018-11-25
 session-event: https://www.facebook.com/events/1981407538825884/
+layout: session
 ---
 
 On the first night of camp, we discuss the prospects of stealing the [cornucopia](../relics/cornucopia), as [Seirye](../dossiers/seirye-qin) wants us to do. Freki asks about what will happen to the region if we take the artifact away. [Bec](../dossiers/bec) asks why take it, rather than one of the smaller relics?

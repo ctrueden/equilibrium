@@ -7,6 +7,7 @@ when: AC50 Rixa 21
 session-number: 42
 session-date: 2019-09-13
 session-event: https://www.facebook.com/events/2322442117792355/
+layout: session
 ---
 
 1. Shark attack!

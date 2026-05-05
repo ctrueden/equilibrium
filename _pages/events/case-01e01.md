@@ -7,6 +7,7 @@ when: AC50 Solis 10
 session-number: 1
 session-date: 2015-05-15
 session-event: https://www.facebook.com/events/1578105459109405/
+layout: session
 ---
 
 1. Examined the crime scene.

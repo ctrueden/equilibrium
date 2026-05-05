@@ -7,6 +7,7 @@ when: AC50 Rixa 02-06
 session-number: 35
 session-date: 2019-03-23
 session-event: https://www.facebook.com/events/698494607212336/
+layout: session
 ---
 
 Freki remembers being the target of a scrying. He tells his allies about the message. They decide that Callie is going to use sending again, to contact Gardenblossom:

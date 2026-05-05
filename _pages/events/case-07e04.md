@@ -7,6 +7,7 @@ when: AC50 Cudo 13
 session-number: 21
 session-date: 2017-10-06
 session-event: https://www.facebook.com/events/347004229072297/
+layout: session
 ---
 
 * Callie Rockwell, Ghensh Faass, Bec Galere and Freki Sarin are present for the auction.

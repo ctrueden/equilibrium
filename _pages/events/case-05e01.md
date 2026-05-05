@@ -7,6 +7,7 @@ when: AC50 Solis 19
 session-number: 11
 session-date: 2016-05-28
 session-event: https://www.facebook.com/events/556824827819445/
+layout: session
 ---
 * SPI agents travel to the temple of the [Progression of Symmetry](../orgs/progression-of-symmetry), a reclusive monastic order situated at the ultimate summit of the Cliffs of Transcendance.
 * Agents speak with [Ou-sh-](../dossiers/oush), the Grandmaster of Winds, one of four elemental masters of the monastic order. She is the one who called the SPI to investigate. They Progression is sworn not to get involved in corporeal affairs, instead pledging their lives to self-reflection and spiritual pursuit.

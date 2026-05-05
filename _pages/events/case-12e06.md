@@ -7,6 +7,7 @@ when: AC50 Rixa 25
 session-number: 51
 session-date: 2022-08-19
 session-event: https://www.facebook.com/events/608990207490711/
+layout: session
 ---
 
 The party wakes up covered in mushrooms. Aaaaaaaaaaaaaaaaaahhhhh!

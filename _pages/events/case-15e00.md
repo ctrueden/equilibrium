@@ -7,9 +7,10 @@ when: AC50 Vis 03
 session-number: 68
 session-date: 2024-02-17
 session-event: https://www.facebook.com/events/1088613419043899/
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 None of us knew [Freki](../dossiers/freki) was a [werewolf](../creatures/lycans), but I guess getting bitten is the kind of thing that could trigger the transformation. We'll have to figure out how to calm him down without hurting him too much.
 

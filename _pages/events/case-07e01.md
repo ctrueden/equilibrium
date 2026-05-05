@@ -7,6 +7,7 @@ when: AC50 Cudo 11-13
 session-number: 18
 session-date: 2017-07-14
 session-event: https://www.facebook.com/events/318963628545414/
+layout: session
 ---
 
 * The SPI agents were covered in Flux goo from Solomon's explosion. Their memories were scattered and fragmented while Mallory briefed them on the latest happenings:

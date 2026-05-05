@@ -7,6 +7,7 @@ when: AC50 Solis 25-28
 session-number: 14
 session-date: 2017-01-21
 session-event: https://www.facebook.com/events/1679883242309013/
+layout: session
 ---
 
 1. They left the scene with Freki and Ni, and made camp to decide what to do next. Ni decided to return to the scene after exchanging tokens in a binding agreement.

@@ -7,11 +7,12 @@ when: AC50 Vis 06
 session-number: 83
 session-date: 2025-01-04
 session-event: https://www.facebook.com/events/4044263909139375/
+layout: session
 ---
 
 ![](https://c.tenor.com/etj6ooaKL6cAAAAM/timeline-dont-do-it.gif)
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 [Vondal](../dossiers/vondal) spaces out and considers whether combining the [Flux](../locales/flux) and the [Feywild](../locales/feywild) could make something fictional into something real.
 

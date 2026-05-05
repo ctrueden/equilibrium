@@ -6,6 +6,7 @@ datestamp: 50-06-12/01
 when: AC50 Vis 12
 session-number: 88
 session-date: 2025-03-29
+layout: session
 ---
 
 {% include tab id="summary" label="Summary" first=true %}
@@ -25,7 +26,7 @@ From AC50 Vis 9 - AC50 Vis 12.
 
 10% discount from Callie's shop for inventory items, including magic inks for spell scribing!
 
-{% include tab id="callie" label="Callie Journal" %}
+{% include tab id="callie" label="Callie's Journal" %}
 
 [Cal](../dossiers/cal) considered the contents of his bag of holding, which we previously loaded up with all kinds of magic artifacts from [Invictus's](../dossiers/invictus) manor. [Cassandra](../dossiers/cassandra) tells him that some of the items from Invictus's ritual room are fundamentally, cosmically evil, and says that therefore the SPI cannot use them, but that someone like the swamp hag might be interested in them. ([I](../dossiers/callie) feel like I should get used to calling her by her name, just in case she's sensitive about the whole "swamp hag" thing. [Grohnea](../dossiers/grohnea). GROH - nee - ah.) Does he want to take them along as barter, or would he rather they be destroyed? After considering carefully, Cal chooses to destroy them.
 

@@ -7,9 +7,10 @@ when: AC50 Vis 04
 session-number: 69
 session-date: 2024-02-24
 session-event: https://www.facebook.com/events/7612010372188259
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 [Cal](../dossiers/cal) has fallen asleep, but aside from him, we're all feeling pretty great when a vampire calls for [Bilbo](../dossiers/bilbo).
 

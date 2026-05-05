@@ -7,6 +7,7 @@ when: AC50 Rixa 25
 session-number: 53
 session-date: 2022-10-29
 session-event: https://www.facebook.com/events/1299318844229169/
+layout: session
 ---
 
 Thanks to the *tree stride* power of [Phoebe](../dossiers/phoebe) the [Hamadryad](../creatures/dryads#hamadryads), the SPI agents and allies reached what they believed to be the heart of the [World Tree](../relics/yggdrasil), the secret womb of the Fruit of Life, only to find that the vision of the Fruit was a powerful illusion, masking a pit into which they would have fallen, had they naively approached the Fruit.

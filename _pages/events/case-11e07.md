@@ -7,6 +7,7 @@ when: AC50 Rixa 21
 session-number: 43
 session-date: 2019-11-15
 session-event: https://www.facebook.com/events/804508853297012/
+layout: session
 ---
 
 1. Bec attempts to feel out telepathically, but everything is mentally...obfuscated.

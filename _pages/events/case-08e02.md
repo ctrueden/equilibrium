@@ -7,6 +7,7 @@ when: AC50 Cudo 19
 session-number: 25
 session-date: 2018-04-05
 session-event: https://www.facebook.com/events/2012603059015093/
+layout: session
 ---
 
 * [Ozborn](../dossiers/oz) wakes up; runs into [the Grandmaster of Earth](../dossiers/ceowyn-mandragoran) in the [SPI HQ](../locales/spi-hq). The monk tells him that it is a good thing Ozborn woke up, because he and [Callisto](../dossiers/cal) are needed by their friends now. "I see the tapestry of fate. If you do not join them, you will not be happy with how matters proceed." Ozborn wakes up Cal, they talk to [Mallory](../dossiers/mallory), and head out.

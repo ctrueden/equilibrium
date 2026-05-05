@@ -6,9 +6,10 @@ datestamp: 50-06-13/08
 when: AC50 Vis 13
 session-number: 95
 session-date: 2025-11-08
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 [Bec](../dossiers/bec) and [Freki](../dossiers/freki) escort [Ulgrim](../dossiers/ulgrim-bearwalker) to the hot spring and explains how to will yourself down through it into the secret magic chamber. She demonstrates how to float down through the column of water, when suddenly her feet bang against something. An underwater glub-glub sounding voice yells out from underneath. It's [Vondal](../dossiers/vondal)! That guy shows up in the weirdest places, I swear.
 

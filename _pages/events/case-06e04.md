@@ -7,6 +7,7 @@ when: AC50 Solis 28 - Cudo 07
 session-number: 15
 session-date: 2017-04-28
 session-event: https://www.facebook.com/events/1467272213344875/
+layout: session
 ---
 
 1. Callie healed Kavaki. Cal rescued Freki from the stream before he drowned. Vondal made sure Sabrina was OK, and gave her a cookie.

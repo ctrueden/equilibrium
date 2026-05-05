@@ -7,6 +7,7 @@ when: AC50 Cudo 25-26
 session-number: 30
 session-date: 2018-10-05
 session-event: https://www.facebook.com/events/1679141355548903/
+layout: session
 ---
 
 * Mary is unmasked as Seirye Qin. She claims to be from a future where a "calamity" has occurred—a calamity she is now trying to prevent by stopping the eight artifacts from being brought together and potentially destroyed. She says that Vondal sent her back in time, and that she cannot say much more for fear of polluting the timeline.

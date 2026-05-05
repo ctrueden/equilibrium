@@ -7,6 +7,7 @@ when: AC50 Vis 03
 session-number: 63
 session-date: 2023-07-29
 session-event: https://www.facebook.com/events/285891037420798/
+layout: session
 ---
 
 {% include tab id="summary" label="Summary" first=true %}
@@ -57,7 +58,7 @@ Feathersworth has arranged for the Arallan representatives to meet at the SPI ou
 
 Mallory approves Cal & company's request to join Feathersworth for the Arallu meeting. But he warns them that that there is a very delicate balance of power in Arallu, and that the actions the agents take could disrupt that balance and lead to world instability.
 
-{% include tab id="callie" label="Callie Journal" %}
+{% include tab id="callie" label="Callie's Journal" %}
 
 We have some time off! We need to be back for the all-staff meeting on Woodsday the 3rd.
 

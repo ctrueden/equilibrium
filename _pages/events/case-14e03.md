@@ -7,9 +7,10 @@ when: AC50 Vis 03
 session-number: 65
 session-date: 2023-11-18
 session-event: https://www.facebook.com/events/2347533262301919/
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 [Lady Nightshade](../dossiers/ilyana-nightshade) challenges [Callie](../dossiers/callie) to drink it again. Callie passes, but only barely and only with [Vondal](../dossiers/vondal)'s help, again!
 

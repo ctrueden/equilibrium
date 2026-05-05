@@ -6,6 +6,7 @@ datestamp: 50-06-14/00
 when: AC50 Vis 14
 session-number: 97
 session-date: 2026-02-28
+layout: session
 ---
 
 Before making their way back to the city, the agents spend a day and night recuperating at [Grohnea](../dossiers/grohnea)'s cottage in the aftermath of their clash with [Rhyzophus](../dossiers/rhyzophus) and the weight of [Sissae](../dossiers/sissae-moondrop)'s death and partial(?) restoration.

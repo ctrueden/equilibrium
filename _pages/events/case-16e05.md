@@ -7,6 +7,7 @@ when: AC50 Vis 06
 session-number: 82
 session-date: 2024-12-22
 session-event: https://www.facebook.com/events/1224132445325396/
+layout: session
 ---
 
 {% include tab id="summary" label="Summary" first=true %}
@@ -37,7 +38,7 @@ As madness begins to grip the agents, [Vondal](../dossiers/vondal) strains to in
 
 * (50 hours) [Cassandra](../dossiers/cassandra) is blinded.
 
-{% include tab id="callie" label="Callie Journal" %}
+{% include tab id="callie" label="Callie's Journal" %}
 
 Well, we're all awake and experiencing the same thing (probably). We seem to be in some sort of cave or tunnel. Or chunnel. [Mallory](../dossiers/mallory) wants to know what happened, but we don't have a ready answer for that. Luckily, we will have done that sometime in the future, so we're answering him now in the future. I guess all we need to do now is figure out how to get from now to then???
 

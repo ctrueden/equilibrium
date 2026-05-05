@@ -6,9 +6,10 @@ datestamp: 50-06-06/09
 when: AC50 Vis 06
 session-number: 86
 session-date: 2025-03-01
+layout: session
 ---
 
-{% include tab id="callie" label="Callie Journal" first=true %}
+{% include tab id="callie" label="Callie's Journal" first=true %}
 
 [Nondal](../dossiers/white-crane) is watching all of us to see what we do. It's super creepy. [Bec](../dossiers/bec) warns [Freki](../dossiers/freki) and [Oz](../dossiers/oz) that if Nondal closes the gate, they're going to be trapped on the other side.
 
