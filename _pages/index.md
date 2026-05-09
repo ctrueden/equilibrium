@@ -37,7 +37,7 @@ which are available online:
 * Try to hail from a unique territory and/or race. This helps diversity and world-building.
 * Have a reason in mind for why you are part of (or being recruited for) the SPI.
 * Have an unsolved mystery in your backstory.
-* SPI agents are currently **12th level**:
+* SPI agents are currently **13th level**:
   - Anything on [2014.5e.tools](https://2014.5e.tools/) is fair game.
   - That said, we want the game to be fun for everyone, with all characters filling important team roles, so please be honest with yourself and the group if you come across anything OP or nonsensical.
 
