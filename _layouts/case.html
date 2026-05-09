@@ -173,15 +173,24 @@
 
         {%- assign case_num = page.title | split: "]" | first | remove: "[Case " -%}
         {%- assign ep_prefix = "/events/case-" | append: case_num | append: "e" -%}
-        {%- assign case_eps = site.pages | where_exp: "ep", "ep.url contains ep_prefix and ep['session-number']" | sort: "datestamp" -%}
-        {%- if case_eps.size > 0 -%}
+        {%- assign sorted_pages = site.pages | sort: "datestamp" -%}
+        {%- assign has_case_eps = false -%}
+        {%- for ep in sorted_pages -%}
+          {%- if ep.url contains ep_prefix and ep["session-number"] -%}
+            {%- assign has_case_eps = true -%}
+            {%- break -%}
+          {%- endif -%}
+        {%- endfor -%}
+        {%- if has_case_eps -%}
         <details class="sidebar-section" open>
           <summary>Episodes</summary>
           <ul class="sidebar-list">
-            {%- for ep in case_eps -%}
-              {%- assign e_id = ep.title | split: "]" | first | split: "e" | last -%}
-              {%- assign e_name = ep.title | split: "] " | last -%}
-              <li><a href="{{site.baseurl}}{{ ep.url }}"><strong>{{ e_id }}</strong> {{ e_name }}</a></li>
+            {%- for ep in sorted_pages -%}
+              {%- if ep.url contains ep_prefix and ep["session-number"] -%}
+                {%- assign e_id = ep.title | split: "]" | first | split: "e" | last -%}
+                {%- assign e_name = ep.title | split: "] " | last -%}
+                <li><a href="{{site.baseurl}}{{ ep.url }}"><strong>{{ e_id }}</strong> {{ e_name }}</a></li>
+              {%- endif -%}
             {%- endfor -%}
           </ul>
         </details>
