@@ -1,4 +1,5 @@
 ---
+layout: case
 title: "[Case 17] Misery and Mending"
 description: >-
   In between field assignments, the agents explore ways to save an ally and mitigate their Fluxwarp.

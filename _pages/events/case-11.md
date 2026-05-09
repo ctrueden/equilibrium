@@ -1,9 +1,34 @@
 ---
+layout: case
 title: "[Case 11] Hardships and Homecomings"
 description: >-
   Aboleths infiltrate Callie's family, and want the Cornucopia for their nefarious purposes!
 datestamp: 50-05-10/00
 when: AC50 Rixa 10-23
+patrons:
+  - name: Rockwell family
+locations:
+  - name: Cognitutus
+    wiki: ../locales/cognitutus
+  - name: Rockwell Manor
+    wiki: ../locales/rockwell-manor
+victims:
+  - name: Rockwell family
+persons_of_interest:
+  - name: Reginald Auror
+    wiki: ../dossiers/reginald-auror
+    role: Hired "security specialist" with hidden knowledge of deep horrors
+  - name: Raliana Quizzelpuff
+    wiki: ../dossiers/raliana-quizzelpuff
+    role: Long-time Rockwell family cook
+  - name: Rollomorphus Rockwell
+    wiki: ../dossiers/rollomorphus-rockwell
+    role: Callie's father; alchemist
+  - name: Linestreya Rockwell
+    wiki: ../dossiers/linistreya-rockwell
+    role: Callie's mother; political advisor
+  - name: Callie
+    wiki: ../dossiers/callie
 ---
 
 ### Location

@@ -1,9 +1,33 @@
 ---
+layout: case
 title: "[Case 07] Hazards and Harbingers"
 description: >-
   An auction for a vial of divine essence is interrupted by MURDER!
 datestamp: 50-04-11/00
 when: AC50 Cudo 11-13
+locations:
+  - name: Forest of Shadows
+persons_of_interest:
+  - name: Priscilla Stormcloud
+    wiki: ../dossiers/priscilla-stormcloud
+    role: Organized the Auction of Divine Potential
+  - name: Timor Invictus
+    wiki: ../dossiers/timor-invictus
+    role: Lich; one of the Unholy Triumvirate of Arallu
+  - name: Bram the Blithe
+    wiki: ../dossiers/bram-the-blithe
+    role: Captain of Melora's legendary pirate ship
+  - name: Janus Ilaris
+    wiki: ../dossiers/janus-ilaris
+    role: The Vengeful Ghost; patron of Tybalt
+  - name: Sartus Morningdew
+    wiki: ../dossiers/sartus-morningdew
+  - name: Tybalt Nightbreeze
+    wiki: ../dossiers/tybalt
+  - name: Alex Orbach
+    wiki: ../dossiers/alex-orbach
+  - name: Dominic Tremere
+    wiki: ../dossiers/dominic-tremere
 ---
 
 ### Persons of interest

@@ -1,9 +1,25 @@
 ---
+layout: case
 title: "[Case 04] Ingestion and Incoherency"
 description: >-
   The entire population of a seaside resort has mysteriously vanished.
 datestamp: 50-03-16/00
 when: AC50 Solis 16
+locations:
+  - name: Euphoria
+    wiki: ../locales/euphoria
+victims:
+  - name: Euphoria vacationers
+    notes: Absorbed into an Elder Brain's psionic network
+persons_of_interest:
+  - name: Brian the Elder Brain
+    wiki: ../dossiers/brian-the-elder-brain
+  - name: Belifax
+    wiki: ../dossiers/belifax
+  - name: Salazin
+    wiki: ../dossiers/salazin
+  - name: Xoomish
+    wiki: ../dossiers/xoomish
 ---
 
 ### Summary

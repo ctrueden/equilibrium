@@ -622,6 +622,17 @@ table td {
   margin: 0;
 }
 
+/* Case file lede paragraph */
+.case-lede {
+  font-style: italic;
+  color: #555;
+  border-left: 3px solid sandybrown;
+  padding: 0.4em 0.8em;
+  margin: 0 0 1.2em;
+  background: #faf8f5;
+  border-radius: 0 4px 4px 0;
+}
+
 /* Responsive: stack columns on narrower screens */
 @media (max-width: 1000px) {
   #session-layout {

@@ -1,9 +1,49 @@
 ---
+layout: case
 title: "[Case 06] Mutilation and Metamorphosis"
 description: >-
   A tribe of gnolls has been slaughtered by a terrifying blast of Flux.
 datestamp: 50-03-24/00
 when: AC50 Solis 24 - Cudo 07
+patrons:
+  - name: Ni Riverfang
+    wiki: ../dossiers/ni-riverfang
+locations:
+  - name: Jungle near Xaos
+    wiki: ../locales/xaos
+victims:
+  - name: The Manufeai
+    wiki: ../orgs/manufeai
+    notes: Tribe slaughtered by a Flux blast
+persons_of_interest:
+  - name: Ni Riverfang
+    wiki: ../dossiers/ni-riverfang
+    role: Sole surviving Manufeai, hired the SPI
+  - name: Freki
+    wiki: ../dossiers/freki
+    role: Witness to the massacre
+  - name: Kavaki
+    wiki: ../dossiers/kavaki
+    role: Goliath warrior; body apparently taken over during the crime
+  - name: Andalla
+    wiki: ../dossiers/andalla
+  - name: Sabrina
+    wiki: ../dossiers/sabrina
+    role: Claimed to have crafted the Flux Capacitor
+  - name: Talos
+    wiki: ../dossiers/talos
+    role: Leader of the Malosi
+  - name: Solomon
+    wiki: ../dossiers/solomon
+    role: Ancient leader of the Stormherd; powerful diviner
+  - name: Bruck
+    wiki: ../dossiers/bruck
+  - name: Vuthos
+    wiki: ../dossiers/vuthos
+  - name: Semu'anya
+    wiki: ../dossiers/semuanya
+  - name: Grosh'mog
+    wiki: ../dossiers/groshmog
 ---
 
 ### Victims

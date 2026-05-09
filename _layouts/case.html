@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{page.title}}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3" />
+    <link rel="shortcut icon" href="{{site.baseurl}}/assets/favicon.png" />
+    <noscript><link rel="stylesheet" href="{{site.baseurl}}/assets/css/noscript.css" /></noscript>
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/style.css" />
+    <script type="text/javascript" src="{{site.baseurl}}/assets/js/cache-images.js"></script>
+  </head>
+  <body>
+    {% include nav %}
+    <h1>{{page.title}}</h1>
+
+    <div id="session-layout">
+
+      <!-- Left column: case navigation -->
+      <nav id="session-nav">
+        <div class="session-nav-header">
+          <a href="{{site.baseurl}}/events">Cases</a>
+        </div>
+        <ul class="session-list">
+          {%- assign all_cases = site.pages | where: "layout", "case" | sort: "datestamp" -%}
+          {%- for c in all_cases -%}
+            {%- assign c_id = c.title | split: "]" | first | remove: "[" -%}
+            {%- assign c_name = c.title | split: "] " | last -%}
+            <li{% if c.url == page.url %} class="current"{% endif %}>
+              <a href="{{site.baseurl}}{{ c.url }}"><strong>{{ c_id }}</strong> {{ c_name }}</a>
+              {%- if c.when -%}
+                <span class="session-list-date">{{ c.when }}</span>
+              {%- endif -%}
+            </li>
+          {%- endfor -%}
+        </ul>
+      </nav>
+
+      <!-- Middle column: main content -->
+      <main id="session-content">
+        {%- assign gm_path = "/gm" | append: page.url -%}
+        {%- assign gm_pages = site.pages | where: "url", gm_path -%}
+        {%- for p in gm_pages -%}
+        <details class="session-section session-gm">
+          <summary>Notes <span class="section-badge gm-badge">GM only</span></summary>
+          <div class="section-body">
+            {{ p.content | markdownify }}
+          </div>
+        </details>
+        {%- endfor -%}
+
+        {%- if page.description -%}
+        <p class="case-lede">{{ page.description }}</p>
+        {%- endif -%}
+
+        {{ content }}
+      </main>
+
+      <!-- Right column: reference sidebar -->
+      <aside id="session-sidebar">
+
+        {%- if page.when -%}
+        <details class="sidebar-section" open>
+          <summary>Case Info</summary>
+          <dl class="session-meta">
+            <dt>In-world</dt><dd>{{ page.when }}</dd>
+          </dl>
+        </details>
+        {%- endif -%}
+
+        {%- if page.locations -%}
+        <details class="sidebar-section" open>
+          <summary>Location{% if page.locations.size > 1 %}s{% endif %}</summary>
+          <ul class="sidebar-list">
+            {%- for loc in page.locations -%}
+              <li>
+                {%- if loc.wiki -%}
+                  <a href="{{ loc.wiki }}">{{ loc.name }}</a>
+                {%- elsif loc.name -%}
+                  {{ loc.name }}
+                {%- else -%}
+                  {{ loc }}
+                {%- endif -%}
+              </li>
+            {%- endfor -%}
+          </ul>
+        </details>
+        {%- endif -%}
+
+        {%- if page.patrons -%}
+        <details class="sidebar-section" open>
+          <summary>Patron{% if page.patrons.size > 1 %}s{% endif %}</summary>
+          <ul class="sidebar-list">
+            {%- for p in page.patrons -%}
+              <li>
+                {%- if p.wiki -%}
+                  <a href="{{ p.wiki }}">{{ p.name }}</a>
+                {%- else -%}
+                  {{ p.name }}
+                {%- endif -%}
+              </li>
+            {%- endfor -%}
+          </ul>
+        </details>
+        {%- endif -%}
+
+        {%- if page.victims -%}
+        <details class="sidebar-section" open>
+          <summary>Victim{% if page.victims.size > 1 %}s{% endif %}</summary>
+          <ul class="sidebar-list">
+            {%- for v in page.victims -%}
+              <li>
+                {%- if v.wiki -%}
+                  <a href="{{ v.wiki }}">{{ v.name }}</a>
+                {%- elsif v.name -%}
+                  {{ v.name }}
+                {%- else -%}
+                  {{ v }}
+                {%- endif -%}
+                {%- if v.notes -%}<br><small>{{ v.notes }}</small>{%- endif -%}
+              </li>
+            {%- endfor -%}
+          </ul>
+        </details>
+        {%- endif -%}
+
+        {%- if page.persons_of_interest -%}
+        <details class="sidebar-section" open>
+          <summary>Persons of Interest</summary>
+          <ul class="sidebar-list">
+            {%- for poi in page.persons_of_interest -%}
+              <li>
+                {%- if poi.wiki -%}
+                  <a href="{{ poi.wiki }}">{{ poi.name }}</a>
+                {%- else -%}
+                  {{ poi.name }}
+                {%- endif -%}
+                {%- if poi.role -%}<br><small>{{ poi.role }}</small>{%- endif -%}
+              </li>
+            {%- endfor -%}
+          </ul>
+        </details>
+        {%- endif -%}
+
+        {%- assign case_num = page.title | split: "]" | first | remove: "[Case " -%}
+        {%- assign ep_prefix = "/events/case-" | append: case_num | append: "e" -%}
+        {%- assign case_eps = site.pages | where_exp: "ep", "ep.url contains ep_prefix and ep['session-number']" | sort: "datestamp" -%}
+        {%- if case_eps.size > 0 -%}
+        <details class="sidebar-section" open>
+          <summary>Episodes</summary>
+          <ul class="sidebar-list">
+            {%- for ep in case_eps -%}
+              <li><a href="{{site.baseurl}}{{ ep.url }}">{{ ep.title }}</a></li>
+            {%- endfor -%}
+          </ul>
+        </details>
+        {%- endif -%}
+
+      </aside>
+
+    </div><!-- #session-layout -->
+  </body>
+</html>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

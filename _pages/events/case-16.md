@@ -1,4 +1,5 @@
 ---
+layout: case
 title: "[Case 16] Tunnels and Turpitude"
 description: >-
   The agents delve into freshly discovered tunnels beneath SPI HQ to rescue members of a failed expedition into the Flux.

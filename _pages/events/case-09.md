@@ -1,9 +1,20 @@
 ---
+layout: case
 title: "[Case 09] Amalgamation and Anathema"
 description: >-
   The SPI agents are trapped in a bizarre realm of unreality, from which they must escape&mdash;but along the way, they stumble across the corpse of someone they know.
 datestamp: 50-04-19/A
 when: AC50 Cudo 19-26
+locations:
+  - name: Crystalline Flux
+    wiki: ../locales/flux
+victims:
+  - name: Alex Orbach
+    wiki: ../dossiers/alex-orbach
+persons_of_interest:
+  - name: Priscilla Stormcloud
+    wiki: ../dossiers/priscilla-stormcloud
+    role: Now apparently an insane animalistic creature
 ---
 
 ### Location

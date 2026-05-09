@@ -1,9 +1,27 @@
 ---
+layout: case
 title: "[Case 10] Capers and Calamity"
 description: >-
   A "time traveler" needs the SPI's help to "secure" the Cornucopia. But what are her true motivations?
 datestamp: 50-04-26/00
 when: AC50 Cudo 26 - Rixa 10
+patrons:
+  - name: Meroe
+    wiki: ../dossiers/meroe
+  - name: Panthea
+    wiki: ../dossiers/panthea
+  - name: Seirye Qin
+    wiki: ../dossiers/seirye-qin
+locations:
+  - name: Oasis
+    wiki: ../locales/oasis
+  - name: Radiant Union of Pelor
+    wiki: ../locales/rup
+victims:
+  - name: Pelor
+    wiki: ../dossiers/pelor
+  - name: People of the R.U.P.
+    wiki: ../locales/rup
 ---
 
 What‽ A case where the ***[SPI](../orgs/spi)*** are the culprits‽

@@ -1,4 +1,5 @@
 ---
+layout: case
 title: "[Case 18] Curses and Carafes"
 description: >-
   A dangerous artifact might fall into the wrong hands if the SPI does not intervene.

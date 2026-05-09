@@ -1,9 +1,24 @@
 ---
+layout: case
 title: "[Case 02] Exchange and Extortion"
 description: >-
   A rich man dies of a rapid wasting disease.
 datestamp: 50-03-11/00
 when: AC50 Solis 11-12
+victims:
+  - name: Dominic Tremere
+    wiki: ../dossiers/dominic-tremere
+    notes: Died rapidly in his bed, already decomposed
+persons_of_interest:
+  - name: Dominic Tremere
+    wiki: ../dossiers/dominic-tremere
+    role: Clone of the victim
+  - name: R. Martine Andrews
+    wiki: ../relics/warforged
+  - name: Contessa Alyssa Morvain
+    wiki: ../dossiers/contessa-morvain
+  - name: Pulchritudinous Euryale
+    wiki: ../dossiers/pulchritudinous-euryale
 ---
 
 ### Victim

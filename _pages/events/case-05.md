@@ -1,9 +1,32 @@
 ---
+layout: case
 title: "[Case 05] Tumbling and Transcendence"
 description: >-
   People are jumping from the Zenithal Summit of the Cliffs of Transcendence&mdash;each longing for their wish to be granted&mdash;each plummeting downward, never seen again.
 datestamp: 50-03-19/00
 when: AC50 Solis 19
+patrons:
+  - name: Ou-sh-
+    wiki: ../dossiers/oush
+locations:
+  - name: Cliffs of Transcendence
+    wiki: ../locales/cliffs
+victims:
+  - name: Summit jumpers
+    notes: Each plummeted downward, never seen again
+persons_of_interest:
+  - name: Ou-sh-
+    wiki: ../dossiers/oush
+    role: Grandmaster of Winds, hired the SPI
+  - name: Sonan the Scholar
+    wiki: ../dossiers/sonan-the-scholar
+  - name: Ceowyn Mandragoran
+    wiki: ../dossiers/ceowyn-mandragoran
+  - name: Kára Halfdandóttir
+    wiki: ../dossiers/kara-halfdandottir
+  - name: Ra'faj
+    wiki: ../dossiers/rafaj
+    role: Acolyte with a hidden agenda
 ---
 
 ### Summary

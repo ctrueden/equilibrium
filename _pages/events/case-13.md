@@ -1,4 +1,5 @@
 ---
+layout: case
 title: "[Case 13] Facts and Facsimiles"
 description: >-
   The SPI follows the trail of a suspected doppelganger, the spitting image of one of their former colleagues, to a hidden village of changelings.

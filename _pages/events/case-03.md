@@ -1,9 +1,41 @@
 ---
+layout: case
 title: "[Case 03] Punctuality and Perpetuity"
 description: >-
   An elderly dwarf's clock stops at the moment of his death. But what's this? He's a zombie now?
 datestamp: 50-03-14/00
 when: AC50 Solis 14
+patrons:
+  - name: Clan Aldrimor
+victims:
+  - name: Gurin Aldrimor
+    wiki: ../dossiers/gurin-aldrimor
+    notes: Found zombified in his locked room
+persons_of_interest:
+  - name: Hollerd Aldrimor
+    wiki: ../dossiers/hollerd-aldrimor
+  - name: General Sil Aldrimor
+    wiki: ../dossiers/sil-aldrimor
+  - name: Bronce Aldrimor
+    wiki: ../dossiers/bronce-aldrimor
+  - name: Mungus Wrathborn
+    wiki: ../dossiers/mungus-wrathborn
+  - name: Larsa Wrathborn
+    wiki: ../dossiers/larsa-wrathborn
+  - name: Leopold Gardenblossom
+    wiki: ../dossiers/leopold-gardenblossom
+  - name: Zanic Corbinic
+    wiki: ../dossiers/zanic-corbinic
+  - name: Rubinia Elka
+    wiki: ../dossiers/rubinia-elka
+  - name: King Durak Greyshore
+    wiki: ../dossiers/durak-greyshore
+  - name: Queen Brie Greyshore
+    wiki: ../dossiers/brie-fireforge
+  - name: Bruck
+    wiki: ../dossiers/bruck
+  - name: Stave
+    wiki: ../dossiers/stave
 ---
 
 ### Patron

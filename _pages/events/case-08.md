@@ -1,9 +1,36 @@
 ---
+layout: case
 title: "[Case 08] Revelry and Revenge"
 description: >-
   A wealthy couple have "laughed to death" during a circus performance.
 datestamp: 50-04-19/00
 when: AC50 Cudo 19
+patrons:
+  - name: Luminous Defenders
+    wiki: ../orgs/luminous-defenders
+locations:
+  - name: Zombozo's Traveling Circus
+victims:
+  - name: Vanesse Jaglia
+    notes: Laughed to death; body spiritually empty
+  - name: Bernd Jaglia
+    notes: Laughed to death; body spiritually empty
+persons_of_interest:
+  - name: Zombozo
+    wiki: ../dossiers/zombozo
+    role: Ringmaster; accused but passed zone of truth
+  - name: Squatch
+    wiki: ../dossiers/squatch
+    role: Flesh golem strongman; no alibi
+  - name: Meroe
+    wiki: ../dossiers/meroe
+    role: Alchemist wizard; created Squatch
+  - name: Panthea
+    wiki: ../dossiers/panthea
+    role: Acrobat; twin sister of Meroe
+  - name: Weezer
+    wiki: ../dossiers/weezer
+    role: Monster tamer whose owlbears found the bodies
 ---
 
 ### Location

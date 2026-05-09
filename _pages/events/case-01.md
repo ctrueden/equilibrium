@@ -1,9 +1,31 @@
 ---
+layout: case
 title: "[Case 01] Petrification and Putrifaction"
 description: >-
   A petrified accountant triggers a cascade of events.
 datestamp: 50-03-10/00
 when: AC50 Solis 10
+victims:
+  - name: Dartan Winterfrost
+    wiki: ../dossiers/dartan-winterfrost
+    notes: Found petrified; pieces broken off and eaten
+persons_of_interest:
+  - name: Donovan Morvain
+    wiki: ../dossiers/donovan-morvain
+  - name: Dominic Tremere
+    wiki: ../dossiers/dominic-tremere
+  - name: R. Martine Andrews
+    wiki: ../relics/warforged
+  - name: Rowena Darkshield
+    wiki: ../dossiers/rowena-darkshield
+  - name: Argus Saravor
+    wiki: ../dossiers/argus-saravor
+  - name: Bellamy Crue
+    wiki: ../dossiers/bellamy-crue
+  - name: Xaryu of the Perfect Order
+    wiki: ../dossiers/xaryu
+  - name: Gavin Pepperpotts
+    wiki: ../dossiers/gavin-pepperpotts
 ---
 
 Some weeks after SPI HQ burns to the ground, and all field agents have gone missing, four new recruits apply to join the SPI on the same day.
