@@ -37,15 +37,15 @@ summary: >-
 
 
   With all of this understood, Vondal chose to proceed. The villagers gathered
-  in a wide circle around him and the dying changeling, Shima, for emotional
-  support and ritual tradition. Vondal and Shima clasped arms, and then
-  something extraordinary and deeply unsettling began to happen. Shima's
+  in a wide circle around him and the dying changeling, Sima, for emotional
+  support and ritual tradition. Vondal and Sima clasped arms, and then
+  something extraordinary and deeply unsettling began to happen. Sima's
   physical form started to flow into Vondal like slow-moving molasses, creeping
   up his arm, coating his neck, and gradually consuming her entirely into him
   over the course of an hour. As she merged with him, a fragmented torrent of
   her memories washed through his mind — her childhood in the village, her
   horror at witnessing this very ritual performed on someone else, and the
-  foundational moment when she had fled Alye'adu entirely. In return, Shima
+  foundational moment when she had fled Alye'adu entirely. In return, Sima
   absorbed Vondal's own broken and scattered memories, the pieces of himself
   that had been shattered by his experiences with the flux and the terrible eye
   that had once peered directly into his soul.
@@ -165,7 +165,7 @@ short_summary: >-
   The party's time in the changeling village of Alye'adu centered on Vondal's
   mysterious temporal instability, an affliction causing him to skip through
   time and space without warning. After the villagers diagnosed his condition,
-  Vondal underwent a profound ritual bonding with the dying changeling Shima,
+  Vondal underwent a profound ritual bonding with the dying changeling Sima,
   whose physical form slowly merged into him over the course of an hour,
   exchanging fragmented memories before separating into an entirely new
   individual named Ladnov — an exact mirror of Vondal who thanked him warmly for
@@ -200,14 +200,14 @@ classic_summary: >-
   matter of his affliction. After careful study, the changelings determined that
   Vondal suffered from a temporal instability, a condition that sent him
   skipping through time and space without warning. A solution was offered: a
-  sacred bond with a dying changeling named Shima, one that would require
+  sacred bond with a dying changeling named Sima, one that would require
   monthly syncing rituals back in Alye'adu and demanded that Vondal never reach
   for his flux energy during the rite itself. Ayina offered her own quiet
   revelation in kind — that her changeling partner had long since fallen to
   infernal corruption and now walked among devils in the city of Trell, kept
   sane only by their monthly link, and that her devotion to Sehanine's light had
   been born not of calling, but of love. Vondal chose to proceed. In a ritual
-  both extraordinary and deeply unsettling, Shima's form flowed into him like
+  both extraordinary and deeply unsettling, Sima's form flowed into him like
   slow-moving molasses, her memories washing through his mind — her childhood,
   her horror, her flight from this very village — while she absorbed the
   shattered pieces of Vondal's own broken past. When at last the process
@@ -279,7 +279,7 @@ snarky_summary: >-
   specifically — which is either very flattering or very ominous, and with this
   group, it's almost certainly both.
 limerick_style_summary: |-
-  In Alye'adu, Vondal clasped Shima's arm tight,
+  In Alye'adu, Vondal clasped Sima's arm tight,
   Her form flowed to molasses in the light.
   From him Ladnov emerged,
   Their memories merged,
@@ -378,16 +378,16 @@ scenes:
       anchor for a dying changeling named Amisa.
     key_events:
       - >-
-        Vondal joins hands with Shima as the villagers form a protective circle
+        Vondal joins hands with Sima as the villagers form a protective circle
         around them.
       - >-
-        Shima's physical form begins to flow into Vondal like slow-moving
+        Sima's physical form begins to flow into Vondal like slow-moving
         molasses, a process that lasts an hour.
       - >-
-        Vondal experiences a fragmented jumble of Shima's memories, including
+        Vondal experiences a fragmented jumble of Sima's memories, including
         her childhood in the village and her eventual flight from it.
       - >-
-        Shima absorbs Vondal's own fragmented memories and 'brokenness' as their
+        Sima absorbs Vondal's own fragmented memories and 'brokenness' as their
         minds temporarily unify.
       - >-
         After reaching a state of complete unification, the process reverses as
@@ -558,7 +558,7 @@ npcs:
       that Vondal smells like Grohnea. Her own partner Grohnea carries the blood
       of a night hag but retains her humanity more effectively thanks to their
       bond.
-  - name: Shima
+  - name: Sima
     description: >-
       A dying changeling from Alye'adu who was facing the loss of her memories and
       self. She undergoes the anchor ritual with Vondal, merging with him before
