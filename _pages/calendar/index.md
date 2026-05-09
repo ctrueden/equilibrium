@@ -2094,6 +2094,7 @@ Case <a href="../events/case-18">18</a> (pt <a href="../events/case-18e00">0</a>
 <div class="edge elyria">Hammer 8</div>
 <div class="edge selva">Fated 15</div>
 &nbsp;<br>
+Case <a href="../events/case-18">18</a> (pt <a href="../events/case-18e01">1</a>)<br>
 &nbsp;
 </td>
 <td>
