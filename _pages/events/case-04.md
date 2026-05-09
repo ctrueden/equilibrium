@@ -5,6 +5,9 @@ description: >-
   The entire population of a seaside resort has mysteriously vanished.
 datestamp: 50-03-16/00
 when: AC50 Solis 16
+province:
+  name: Trell
+  wiki: ../locales/trell
 locations:
   - name: Euphoria
     wiki: ../locales/euphoria

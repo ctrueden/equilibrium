@@ -5,6 +5,9 @@ description: >-
   A tribe of gnolls has been slaughtered by a terrifying blast of Flux.
 datestamp: 50-03-24/00
 when: AC50 Solis 24 - Cudo 07
+province:
+  name: The Selva
+  wiki: ../locales/selva
 patrons:
   - name: Ni Riverfang
     wiki: ../dossiers/ni-riverfang

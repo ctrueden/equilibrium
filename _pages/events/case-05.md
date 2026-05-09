@@ -5,6 +5,9 @@ description: >-
   People are jumping from the Zenithal Summit of the Cliffs of Transcendence&mdash;each longing for their wish to be granted&mdash;each plummeting downward, never seen again.
 datestamp: 50-03-19/00
 when: AC50 Solis 19
+province:
+  name: Zephyr Federation
+  wiki: ../locales/zephyr
 patrons:
   - name: Ou-sh-
     wiki: ../dossiers/oush

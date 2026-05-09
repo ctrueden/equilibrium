@@ -5,6 +5,9 @@ description: >-
   A "time traveler" needs the SPI's help to "secure" the Cornucopia. But what are her true motivations?
 datestamp: 50-04-26/00
 when: AC50 Cudo 26 - Rixa 10
+province:
+  name: Radiant Union
+  wiki: ../locales/rup
 patrons:
   - name: Meroe
     wiki: ../dossiers/meroe

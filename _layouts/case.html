@@ -68,7 +68,7 @@
 
             <dt>Province</dt>
             {%- if page.province -%}
-              <dd>{{ page.province }}</dd>
+              <dd><a href="{{ page.province.wiki }}">{{ page.province.name }}</a></dd>
             {%- else -%}
               <dd class="case-todo">TODO</dd>
             {%- endif -%}

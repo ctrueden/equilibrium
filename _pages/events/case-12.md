@@ -5,6 +5,9 @@ description: >-
   The World Tree is dying. The cancer druid writes "Yggdrasil" into the Necronomicon every day. The Warforged and elves hunt the druid fruitlessly, while one elven holy sorcerer has a bolder plan.
 datestamp: 50-05-23/00
 when: AC50 Rixa 23
+province:
+  name: Elyria
+  wiki: ../locales/elyria
 ---
 
 Devastating things happened. TODO

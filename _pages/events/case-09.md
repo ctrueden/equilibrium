@@ -5,6 +5,9 @@ description: >-
   The SPI agents are trapped in a bizarre realm of unreality, from which they must escape&mdash;but along the way, they stumble across the corpse of someone they know.
 datestamp: 50-04-19/A
 when: AC50 Cudo 19-26
+province:
+  name: ???
+  wiki: ../locales/flux
 patrons:
   - name: "(none)"
 locations:

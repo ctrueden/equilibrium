@@ -5,6 +5,9 @@ description: >-
   A petrified accountant triggers a cascade of events.
 datestamp: 50-03-10/00
 when: AC50 Solis 10
+province:
+  name: Radiant Union
+  wiki: ../locales/rup
 victims:
   - name: Dartan Winterfrost
     wiki: ../dossiers/dartan-winterfrost

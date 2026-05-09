@@ -5,6 +5,9 @@ description: >-
   An auction for a vial of divine essence is interrupted by MURDER!
 datestamp: 50-04-11/00
 when: AC50 Cudo 11-13
+province:
+  name: Arallu
+  wiki: ../locales/arallu
 locations:
   - name: Forest of Shadows
     wiki: ../locales/forest-of-shadows

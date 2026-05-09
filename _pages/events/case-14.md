@@ -5,6 +5,9 @@ description: >-
   The SPI investigates Timor Invictus's manor, which has been filled with celestial energy, making it inaccessible to the undead.
 datestamp: 50-06-03/00
 when: AC50 Vis 03
+province:
+  name: Arallu
+  wiki: ../locales/arallu
 ---
 
 Positive things happened. TODO

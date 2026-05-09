@@ -5,6 +5,9 @@ description: >-
   A wealthy couple have "laughed to death" during a circus performance.
 datestamp: 50-04-19/00
 when: AC50 Cudo 19
+province:
+  name: Radiant Union
+  wiki: ../locales/rup
 patrons:
   - name: Luminous Defenders
     wiki: ../orgs/luminous-defenders

@@ -5,6 +5,9 @@ description: >-
   An elderly dwarf's clock stops at the moment of his death. But what's this? He's a zombie now?
 datestamp: 50-03-14/00
 when: AC50 Solis 14
+province:
+  name: Under the Mountain
+  wiki: ../locales/mountain
 patrons:
   - name: Clan Aldrimor
 victims:
