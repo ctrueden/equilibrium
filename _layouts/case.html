@@ -68,7 +68,15 @@
 
             <dt>Province</dt>
             {%- if page.province -%}
-              <dd><a href="{{ page.province.wiki }}">{{ page.province.name }}</a></dd>
+              <dd>
+                {%- if page.province.wiki -%}
+                  <a href="{{ page.province.wiki }}">{{ page.province.name }}</a>
+                {%- elsif page.province.name -%}
+                  {{ page.province.name }}
+                {%- else -%}
+                  {{ page.province }}
+                {%- endif -%}
+              </dd>
             {%- else -%}
               <dd class="case-todo">TODO</dd>
             {%- endif -%}
