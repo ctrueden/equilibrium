@@ -11,6 +11,7 @@ locations:
 victims:
   - name: Euphoria vacationers
     notes: Absorbed into an Elder Brain's psionic network
+crime_scene: "Euphoria's sewer system and underground tunnels"
 persons_of_interest:
   - name: Brian the Elder Brain
     wiki: ../dossiers/brian-the-elder-brain

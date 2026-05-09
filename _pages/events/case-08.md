@@ -12,9 +12,9 @@ locations:
   - name: Zombozo's Traveling Circus
 victims:
   - name: Vanesse Jaglia
-    notes: Laughed to death; body spiritually empty
   - name: Bernd Jaglia
-    notes: Laughed to death; body spiritually empty
+    notes: Laughed to death; bodies spiritually empty
+crime_scene: "Seating area outside the big top, Zombozo's circus"
 persons_of_interest:
   - name: Zombozo
     wiki: ../dossiers/zombozo

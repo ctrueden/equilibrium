@@ -23,7 +23,7 @@
         <ul class="session-list">
           {%- assign all_cases = site.pages | where: "layout", "case" | sort: "datestamp" -%}
           {%- for c in all_cases -%}
-            {%- assign c_id = c.title | split: "]" | first | remove: "[" -%}
+            {%- assign c_id = c.title | split: "]" | first | remove: "[" | remove: "Case " -%}
             {%- assign c_name = c.title | split: "] " | last -%}
             <li{% if c.url == page.url %} class="current"{% endif %}>
               <a href="{{site.baseurl}}{{ c.url }}"><strong>{{ c_id }}</strong> {{ c_name }}</a>
@@ -58,70 +58,92 @@
       <!-- Right column: reference sidebar -->
       <aside id="session-sidebar">
 
-        {%- if page.when -%}
         <details class="sidebar-section" open>
           <summary>Case Info</summary>
           <dl class="session-meta">
+
+            {%- if page.when -%}
             <dt>In-world</dt><dd>{{ page.when }}</dd>
+            {%- endif -%}
+
+            <dt>Province</dt>
+            {%- if page.province -%}
+              <dd>{{ page.province }}</dd>
+            {%- else -%}
+              <dd class="case-todo">TODO</dd>
+            {%- endif -%}
+
+            <dt>Location</dt>
+            {%- if page.locations -%}
+              {%- for loc in page.locations -%}
+                <dd>
+                  {%- if loc.wiki -%}
+                    <a href="{{ loc.wiki }}">{{ loc.name }}</a>
+                  {%- elsif loc.name -%}
+                    {{ loc.name }}
+                  {%- else -%}
+                    {{ loc }}
+                  {%- endif -%}
+                </dd>
+              {%- endfor -%}
+            {%- else -%}
+              <dd class="case-todo">TODO</dd>
+            {%- endif -%}
+
+            <dt>Patron</dt>
+            {%- if page.patrons -%}
+              {%- for p in page.patrons -%}
+                <dd>
+                  {%- if p.wiki -%}
+                    <a href="{{ p.wiki }}">{{ p.name }}</a>
+                  {%- else -%}
+                    {{ p.name }}
+                  {%- endif -%}
+                </dd>
+              {%- endfor -%}
+            {%- else -%}
+              <dd class="case-todo">TODO</dd>
+            {%- endif -%}
+
+            <dt>Victim{% if page.victims.size > 1 %}s{% endif %}</dt>
+            {%- if page.victims -%}
+              {%- for v in page.victims -%}
+                <dd>
+                  {%- if v.wiki -%}
+                    <a href="{{ v.wiki }}">{{ v.name }}</a>
+                  {%- elsif v.name -%}
+                    {{ v.name }}
+                  {%- else -%}
+                    {{ v }}
+                  {%- endif -%}
+                </dd>
+              {%- endfor -%}
+            {%- else -%}
+              <dd class="case-todo">TODO</dd>
+            {%- endif -%}
+
+            {%- assign has_motive = false -%}
+            {%- for v in page.victims -%}
+              {%- if v.notes -%}{%- assign has_motive = true -%}{%- endif -%}
+            {%- endfor -%}
+            {%- if has_motive -%}
+            <dt>M.O.</dt>
+            {%- for v in page.victims -%}
+              {%- if v.notes -%}
+              <dd>{{ v.notes }}</dd>
+              {%- endif -%}
+            {%- endfor -%}
+            {%- endif -%}
+
+            <dt>Crime scene</dt>
+            {%- if page.crime_scene -%}
+              <dd>{{ page.crime_scene }}</dd>
+            {%- else -%}
+              <dd class="case-todo">TODO</dd>
+            {%- endif -%}
+
           </dl>
         </details>
-        {%- endif -%}
-
-        {%- if page.locations -%}
-        <details class="sidebar-section" open>
-          <summary>Location{% if page.locations.size > 1 %}s{% endif %}</summary>
-          <ul class="sidebar-list">
-            {%- for loc in page.locations -%}
-              <li>
-                {%- if loc.wiki -%}
-                  <a href="{{ loc.wiki }}">{{ loc.name }}</a>
-                {%- elsif loc.name -%}
-                  {{ loc.name }}
-                {%- else -%}
-                  {{ loc }}
-                {%- endif -%}
-              </li>
-            {%- endfor -%}
-          </ul>
-        </details>
-        {%- endif -%}
-
-        {%- if page.patrons -%}
-        <details class="sidebar-section" open>
-          <summary>Patron{% if page.patrons.size > 1 %}s{% endif %}</summary>
-          <ul class="sidebar-list">
-            {%- for p in page.patrons -%}
-              <li>
-                {%- if p.wiki -%}
-                  <a href="{{ p.wiki }}">{{ p.name }}</a>
-                {%- else -%}
-                  {{ p.name }}
-                {%- endif -%}
-              </li>
-            {%- endfor -%}
-          </ul>
-        </details>
-        {%- endif -%}
-
-        {%- if page.victims -%}
-        <details class="sidebar-section" open>
-          <summary>Victim{% if page.victims.size > 1 %}s{% endif %}</summary>
-          <ul class="sidebar-list">
-            {%- for v in page.victims -%}
-              <li>
-                {%- if v.wiki -%}
-                  <a href="{{ v.wiki }}">{{ v.name }}</a>
-                {%- elsif v.name -%}
-                  {{ v.name }}
-                {%- else -%}
-                  {{ v }}
-                {%- endif -%}
-                {%- if v.notes -%}<br><small>{{ v.notes }}</small>{%- endif -%}
-              </li>
-            {%- endfor -%}
-          </ul>
-        </details>
-        {%- endif -%}
 
         {%- if page.persons_of_interest -%}
         <details class="sidebar-section" open>
@@ -149,7 +171,9 @@
           <summary>Episodes</summary>
           <ul class="sidebar-list">
             {%- for ep in case_eps -%}
-              <li><a href="{{site.baseurl}}{{ ep.url }}">{{ ep.title }}</a></li>
+              {%- assign e_id = ep.title | split: "]" | first | split: "e" | last -%}
+              {%- assign e_name = ep.title | split: "] " | last -%}
+              <li><a href="{{site.baseurl}}{{ ep.url }}"><strong>{{ e_id }}</strong> {{ e_name }}</a></li>
             {%- endfor -%}
           </ul>
         </details>

@@ -9,6 +9,7 @@ victims:
   - name: Dominic Tremere
     wiki: ../dossiers/dominic-tremere
     notes: Died rapidly in his bed, already decomposed
+crime_scene: "Tremere's bedchamber; window left open, glyphs triggered"
 persons_of_interest:
   - name: Dominic Tremere
     wiki: ../dossiers/dominic-tremere

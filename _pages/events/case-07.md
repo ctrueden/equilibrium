@@ -7,6 +7,8 @@ datestamp: 50-04-11/00
 when: AC50 Cudo 11-13
 locations:
   - name: Forest of Shadows
+    wiki: ../locales/forest-of-shadows
+crime_scene: "Sanctum of Timor Invictus; the Auction of Divine Potential"
 persons_of_interest:
   - name: Priscilla Stormcloud
     wiki: ../dossiers/priscilla-stormcloud

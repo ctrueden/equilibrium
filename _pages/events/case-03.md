@@ -11,6 +11,7 @@ victims:
   - name: Gurin Aldrimor
     wiki: ../dossiers/gurin-aldrimor
     notes: Found zombified in his locked room
+crime_scene: "Gurin's locked room; the Aldrimor family life clock"
 persons_of_interest:
   - name: Hollerd Aldrimor
     wiki: ../dossiers/hollerd-aldrimor

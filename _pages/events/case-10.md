@@ -22,6 +22,7 @@ victims:
     wiki: ../dossiers/pelor
   - name: People of the R.U.P.
     wiki: ../locales/rup
+crime_scene: "The Cornucopia of Life shrine, Oasis"
 ---
 
 What‽ A case where the ***[SPI](../orgs/spi)*** are the culprits‽

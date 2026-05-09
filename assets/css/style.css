@@ -622,6 +622,17 @@ table td {
   margin: 0;
 }
 
+/* Case info box: subsequent <dd> after another <dd> stay in column 2 */
+.session-meta dd + dd {
+  grid-column: 2;
+}
+
+/* Placeholder for fields not yet filled in */
+.case-todo {
+  color: #bbb;
+  font-style: italic;
+}
+
 /* Case file lede paragraph */
 .case-lede {
   font-style: italic;

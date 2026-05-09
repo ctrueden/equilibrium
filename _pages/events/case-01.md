@@ -9,6 +9,7 @@ victims:
   - name: Dartan Winterfrost
     wiki: ../dossiers/dartan-winterfrost
     notes: Found petrified; pieces broken off and eaten
+crime_scene: "Dartan's small apartment, poor side of town"
 persons_of_interest:
   - name: Donovan Morvain
     wiki: ../dossiers/donovan-morvain

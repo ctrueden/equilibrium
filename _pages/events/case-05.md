@@ -14,6 +14,7 @@ locations:
 victims:
   - name: Summit jumpers
     notes: Each plummeted downward, never seen again
+crime_scene: "Zenithal Summit of the Cliffs of Transcendence"
 persons_of_interest:
   - name: Ou-sh-
     wiki: ../dossiers/oush

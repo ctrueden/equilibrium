@@ -15,6 +15,7 @@ victims:
   - name: The Manufeai
     wiki: ../orgs/manufeai
     notes: Tribe slaughtered by a Flux blast
+crime_scene: "Manufeai tribal camp, jungle near Xaos"
 persons_of_interest:
   - name: Ni Riverfang
     wiki: ../dossiers/ni-riverfang

@@ -14,6 +14,7 @@ locations:
     wiki: ../locales/rockwell-manor
 victims:
   - name: Rockwell family
+crime_scene: "Rockwell Manor, Cognitutus; depths of the ocean"
 persons_of_interest:
   - name: Reginald Auror
     wiki: ../dossiers/reginald-auror
