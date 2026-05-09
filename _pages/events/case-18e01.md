@@ -1,5 +1,5 @@
 ---
-title: "[18e01] TBD"
+title: "[18e01] Two Vondals, One Pipe"
 description: >-
   TODO
 datestamp: 50-06-14/01
