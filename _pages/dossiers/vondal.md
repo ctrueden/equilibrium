@@ -1,47 +1,4 @@
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 title: Vondal of the South Fireforges
 image: /equilibrium/assets/images/vondal.jpg
 domains: [Knowledge, Tempest]
@@ -57,6 +14,11 @@ statbox:
   bond: SPI
   flaw: bad at secrets
 magic-items:
+  - name: Feywild Shard
+    source: "Rockwell's Stockwell"
+    link: https://2014.5e.tools/items.html#feywild%20shard_tce
+    rarity: uncommon
+    value: TODO
   - name: Wand of Healing
     source: Cassandra
     link: /equilibrium/gear#wand-of-healing
@@ -271,3 +233,5 @@ but seems to be afflicted by some sort of malignant chronomancy.
 * 7 charges
 * regain 1d4 charges every dawn
 * 1 charge = Cure Wounds level 1
+
+[Feywild Shard](https://2014.5e.tools/items.html#feywild%20shard_tce)
