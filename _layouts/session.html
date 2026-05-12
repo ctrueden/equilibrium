@@ -114,19 +114,24 @@
 {% if page.memorable_moments %}
 <details class="session-section">
 <summary>Memorable Moments ({{ page.memorable_moments | size }})</summary>
-<div class="section-body" markdown="1">
-
+<div class="section-body moments-list">
   {% for moment in page.memorable_moments %}
-<blockquote>
-    {% if moment.is_quote %}
-<strong>{{ moment.speaker }}:</strong> "{{ moment.description }}"
-    {% else %}
-<em>[{{ moment.type }}]</em> {{ moment.description }}
-    {% endif %}
-<em>{{ moment.context | markdownify }}</em>
-</blockquote>
+  <div class="moment-card">
+    <div class="moment-header">
+      {% include moment-icon type=moment.type %}
+      <span class="moment-type-label moment-type-{{ moment.type }}">{{ moment.type | capitalize }}</span>
+    </div>
+    <div class="moment-body">
+      {% if moment.is_quote %}
+      <p class="moment-description"><strong>{{ moment.speaker }}:</strong> &ldquo;{{ moment.description }}&rdquo;</p>
+      {% else %}
+      <p class="moment-description">{{ moment.description }}</p>
+      {% endif %}
+    </div>
+    <hr class="moment-divider">
+    <p class="moment-context">{{ moment.context }}</p>
+  </div>
   {% endfor %}
-
 </div>
 </details>
 {% endif %}
@@ -251,6 +256,7 @@
       </aside>
 
     </div><!-- #session-layout -->
+    {% include footer %}
   </body>
 </html>
 
