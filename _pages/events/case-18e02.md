@@ -153,7 +153,7 @@ summary: >-
   heart of it, bluntly asking who was sponsoring her legal action. She
   deflected, calling it a family matter, but the party was unconvinced. Vex
   Morradine, who had gone very still during the exchange, identified her legal
-  representation as Vordash and Sol — a predatory corporate entity linked to
+  representation as Vordache &amp; Solm — a predatory corporate entity linked to
   Mammon's people, known for buying up debtors and binding them into indefinite
   servitude. Sorelda swept out of the office shortly after, promising to return
   the following day for a progress report.
@@ -161,8 +161,8 @@ summary: >-
 
   After she left, the party turned to Vex for context. He explained the ruthless
   mechanics of Trell's legal and financial systems with the weary familiarity of
-  someone who had spent years operating within them, describing how Vordash and
-  Sol had once sold a man into eleven years of labor over a debt that had
+  someone who had spent years operating within them, describing how Vordache
+  &amp; Solm had once sold a man into eleven years of labor over a debt that had
   started as a few hundred coins. He also mentioned that the previous SPI agent
   who had opened the Minauros branch — a gnome named Victor Rocksmith — had been
   let go for unsatisfactory performance, leaving the office in its current state
@@ -233,10 +233,10 @@ short_summary: >-
   drinking from it daily and was now addicted, unable to stop without losing the
   benefits. Though Sorelda's distress was largely performative, her anger was
   genuine, and the party suspected deeper motives. Vex identified her legal
-  representation as Vordash and Sol, a predatory firm tied to Mammon's people,
-  and Callie's mother confirmed via sending stone that the Voth family was
-  linked to Blisco Legal — the same company that had financed Euphoria — urging
-  the party to disentangle from Trell's legal system quickly. With Vondal
+  representation as Vordache &amp; Solm, a predatory firm tied to Mammon's
+  people, and Callie's mother confirmed via sending stone that the Voth family
+  was linked to Blisco Legal — the same company that had financed Euphoria —
+  urging the party to disentangle from Trell's legal system quickly. With Vondal
   granting himself and Callie true sight through a powerful divination, and
   Freki dulling his senses with makeshift nose plugs, the party made their way
   to Kerwin Transitional Assets, bracing themselves to finally meet Kerwin Ulvas
@@ -264,8 +264,8 @@ classic_summary: >-
   cursed coffee pot that had left her ex-husband addicted, charming, and
   apparently unspeakable to look at. Callie recognized the sale — a rude man who
   had refused to hear about the side effects — and Vex identified Sorelda's
-  legal representation as Vordash and Sol, a predatory firm with deep ties to
-  Mammon's people. A message to Callie's mother confirmed the worst: the Voth
+  legal representation as Vordache &amp; Solm, a predatory firm with deep ties
+  to Mammon's people. A message to Callie's mother confirmed the worst: the Voth
   family was linked to Blisco Legal, the same company that had financed
   Euphoria.
 
@@ -566,8 +566,8 @@ scenes:
         quickly.
       - >-
         Vex Morradine identifies the woman's legal representation as connected
-        to 'Vordash and Sol,' a predatory corporate entity linked to Mammon's
-        people, known for buying and enslaving debtors.
+        to 'Vordache &amp; Solm,' a predatory lawfirm linked to Mammon's people,
+        known for buying and enslaving debtors.
       - >-
         Sorelda performs her outrage for the party, but the more perceptive
         agents sense that her tears are performative while her anger and
@@ -590,8 +590,8 @@ scenes:
     key_events:
       - >-
         Vex Morradine explains the ruthless nature of Trell's legal and
-        corporate systems, describing how Vordash and Sol once sold a defaulting
-        debtor into indefinite employment for a debt of $40,000.
+        corporate systems, describing how Vordache &amp; Solm once sold a
+        defaulting debtor into indefinite employment for a debt of $40,000.
       - >-
         The party reviews the history of a theme park transaction involving the
         Rockwells and the Noffendorf family, concluding it is likely unrelated
@@ -804,7 +804,7 @@ spells:
       A third-level spell cast by Callie to contact her mother across a great
       distance. Callie sent a 25-word message warning about the lawsuit from
       Sorelda Voth and asking for information. Her mother responded with a
-      warning that the Voth family is linked to Blissco Legal and urging Callie
+      warning that the Voth family is linked to BlissCo Legal and urging Callie
       to disentangle herself from Trell's legal system as soon as possible.
   - name: True Seeing
     description: >-

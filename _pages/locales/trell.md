@@ -50,7 +50,7 @@ A fiendish island territory off the northwestern coast.
 | [Avernus](../locales/avernus) | [Zariel](../dossiers/zariel) | Carapax Industries |
 | [Dis](../locales/dis) | [Dispater](../dossiers/dispater) | Omni Analytics |
 | [Minauros](../locales/minauros) | [Mammon](../dossiers/mammon) | Highmark Ventures |
-| [Phlegethos](../locales/phlegethos) | [Belial](../dossiers/belial) & [Fierna](../dossiers/fierna) | Blissco |
+| [Phlegethos](../locales/phlegethos) | [Belial](../dossiers/belial) & [Fierna](../dossiers/fierna) | BlissCo |
 | [Stygia](../locales/stygia) | [Levistus](../dossiers/levistus) | Terminus Transport |
 | [Malbolge](../locales/malbolge) | [Glasya](../dossiers/glasya) | Venom Corp |
 | [Maladomini](../locales/maladomini) | [Baalzebul](../dossiers/baalzebul) | Perdition Mitigation |

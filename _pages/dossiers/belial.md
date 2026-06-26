@@ -6,7 +6,7 @@ statbox:
   race: devil
   gender: male
   alignment: chaotic evil
-  affiliation: Blissco
+  affiliation: BlissCo
   allies:
   - Fierna
   enemies:
@@ -17,7 +17,7 @@ statbox:
 
 Ruler of the [Trell](../locales/trell) island of [Phlegethos](../locales/phlegethos), along with his daughter [Fierna](./fierna).
 
-A hedonist and master of corruption, Belial specializes in degradation and the perversion of innocence. Through Blissco, he peddles entertainment, luxury, and experiences—creating addictive escapism for the masses while hoarding true pleasure for the elite. His influence extends into every vice and indulgence across Trell.
+A hedonist and master of corruption, Belial specializes in degradation and the perversion of innocence. Through BlissCo, he peddles entertainment, luxury, and experiences—creating addictive escapism for the masses while hoarding true pleasure for the elite. His influence extends into every vice and indulgence across Trell.
 
 Though he shares rule with Fierna, Belial maintains his own interests and alliances. He distrusts [Glasya](./glasya), seeing her as a corrupting influence on his daughter, and constantly maneuvers to defeat his rivals [Dispater](./dispater) and [Mephistopheles](./mephistopheles).
 
