@@ -1,5 +1,5 @@
 ---
-title: "[17e09] Blooms of Remembrance"
+title: "[17e09] Soul Toll"
 description: >-
   TODO
 datestamp: 50-06-13/09
@@ -7,6 +7,102 @@ when: AC50 Vis 13
 session-number: 96
 session-date: 2026-01-17
 layout: session
+review_needed: true
+callie_journal: >-
+  Because Oz is getting bitten by Freki, I move over to see if there's any way I can help. Not like I have any good ideas.
+
+
+  Freaked out, Oz tries to stab Freki to get him to let go. Freki steps back.
+
+
+  Vondal uses the Rod of Wonder to try healing, but it doesn't work for some reason. It kind of...kind of looks like when you heal an undead creature?
+
+
+  Bec fires a bunch of magic missiles into the crystal ball, exploding it. Awwwww all that moneyyyyy. Oz flips out. "I don't know what that was, but I do know a dirty whore when I see one!" He'll apologize later. Or else.
+
+
+  As soon as I get next to Oz, I put the Clamulet over his head. Maybe it can help him stop turning undead. Ulgrim orders Oz to kneel, concentrate, and resist. Then he starts chanting. Vondal tries playing a calming song. He's not giving birth, Vondal.
+
+
+  I cast Mass Healing Word at level 3, healing everyone for 6 points. But it doesn't *quite* work as well as it should on Oz. Damn!
+
+
+  Ulgrim says, "What sorcery is this? The force that infects you is stronger than any I've ever seen. We  will need more power." Oh, he's looking at ME!
+
+
+  Ulgrim says Freki's bite actually helped Oz, but Oz isn't having it. Ulgrim strongly suggests they put aside their differences. He proposes that we seek out Thea, the Titan of Brilliant Vision. Cal knows this is Hyperion's wife. No one is allowed to speak of her. The one time Cal witnessed her mentioned, the person who said the name disappeared.
+
+
+  "Do you know how to reach her?" Cal asks. Ulgrim thinks he does, and Cal unhesitatingly says we should do it. Ulgrim seems surprised, which makes sense given the risk if Hyperion finds out.
+
+
+  I think about how we get back to Grohnea's, given that Freki and Oz are pretty badly damaged. We can't really hang around on this iceberg, freezing to death. We all feel like we're being torn apart (I take 11 damage), so maybe that was wrong, but at least we all end up back in the witch's cottage. In a few hours, hopefully I'll be able to feel my feet.
+
+
+  Vondal isn't here, though. Wonder where he is now? He should carry a little book like mine and write down where he's been. Also *what* he's been. Oh, what is he right now is on fire. Thinking fast, I whip out my Decanter of Endless Water and soak him, extinguishing the flames as well as the entire room.
+
+
+  We look around for Grohnea, but she doesn't seem to be here. Freki goes outside to talk to Claudius, his carnivorous plant buddy. Claudius's main bulk seems to have moved around to the garden room area, so Freki goes back inside to walk there through the house.
+
+
+  Sitting under the tree in the garden area is Sissae, completely covered in vines and flowers. Grohnea is walking carefully around, observing closely. When the vines wander too close to Grohnea, Claudius smacks them. Finding what she was looking for, Grohnea plucks a single flower. This turns into a soul butterfly, which she guides into a crystal soul container. She has a lot of these containers, and she puts this new one among them. Cal also notices that her hands were very steady throughout the harvest.
+
+
+  She looks at us, and greets us kindly, though she doesn't seem to recognize us. She did say that might happen. She says our auras are extraordinary. Anyway, she's busy, and can only deal with one thing at a time. Freki offers to help with anything she needs, and she says she's capable of harvesting most of the flowers, but has never succesfully dealt with a bloom curse before. She points at the flower in the middle, which is growing out of Sissae's heart.
+
+
+  "How did this happen?" Bec asks.
+
+
+  Grohnea explains that Sissae wanted her tattoo extracted, but something inside the tattoo was "triggered" like a tripwire or something. This "bloom curse" was the result. "Elegant, purposeful, deeply manipulative. Whoever did this wanted someone to harvest the final blossom and see what it contains. But if we don't, then her secrets will die with her."
+
+
+  Looking at her with a critical eye, I can tell that she definitely doesn't recognize us, but she's intrigued and even eager to get us working for her. Probably if I'd had more insight the first time we met here, I would have sensed much the same. She also seems worried about the situation with Sissae and our arrival didn't help any.
+
+
+  Anyway, Oz's condition is deteriorating, so we need to hurry and help him. For the moment, Sissae can wait.
+
+
+  Freki asks Claudius if he recognizes us. "Of course I remember you!" Claudius insists confidently. Though he's at least a little distracted trying to keep those vines off all of us. Freki takes a sniff and thinks Grohnea smells...well, not like a whole other person, but like we've been gone for way more than three days.
+
+
+  We walk way for a quick confab. As we do, Grohnea warns us that we only have about 20 minutes to solve this problem.
+
+
+  Putting our heads together, we could try to break the curse through force of will, but Grohnea implied that would kill Sissae. We could try dispel magic, but it might destroy all the memories too, making Sissae a vegetable. We could help with the big flower and leave the little ones to Grohnea. We could not help at all. ¯\_(ツ)_/¯ Or we could stop her heart, says Vondal several times. Restarting it is a problem for five minutes from now, I guess.
+
+
+  Oz insists that we try any plan, then he can rewind time if it doesn't work and tell us to do something else. I think the third one seems most likely to work, although we spend a few minutes pointlessly arguing about how it doesn't matter since we're doing process of elimination.
+
+
+  ANYWAY
+
+
+  Finally, we all take a look at that big flower to see what we can find out. Luckily, Bec and Vondal's expertise give us some more clues. Each of the petals is one memory, and the curse has safeguards and fallbacks so it can't be dispelled all at once. It's like a bomb with a complicated trigger mechanism (so all bombs, in my experience as a gnome).
+
+
+  So obviously, Vondal decides to kill Sissae. On the theory that you can't curse a dead person, which I think is dubious at best. Even I can make dead bodies speak, and I'm not even a necromancer.
+
+
+  Grohnea is aghast, but as soon as she recovers herself, she starts plucking the flowers as fast as possible. "A gift from a benefactor," says a voice, not out loud. "I'm going to let the vortex think it's still controlling me," says Sissae. "Gods forgive me," says Grohnea, her voice sounding much, much older. These voices were only in our heads.
+
+
+  Grohnea looks shocked, but again she shakes it off. "Well...what's done is done. It seems I cannot help you after all. I do not have the materials."
+
+
+  Claudius says, "My lady, you sent them off to get the materials." He speaks Common, that plant bastard!
+
+
+  At this point, I ask whether Oz is going to do his time-rewind thing or what. Oz says that no matter how many times he does it, Vondal will always do the same thing. Shit! That sounds completely stupid and unbelievable, but I am apparently stupid also and so I believe it. Vondal assures me that this is fine, we'll resurrect her in some way that he doesn't know yet.
+
+
+  So I punch him. I might apologize someday, but we'll just have to see if there's a way!
+
+
+  Vondal holds up his hand to stop me from punching him again and summons the genie from the ring. We've already used up all our wishes, but Grohnea gets three, for whatever reason. She wants Vondal's finger. He is willing to give it up, not that he had any choice in the matter. She does then request that Sissae be restored fully to life. Oz tries to wheedle her into using his third wish on Sissae too, but she declines.
+
+
+  At least Sissae is alive again. :\
 summary: >-
   The party found themselves in the aftermath of their confrontation with the
   cult at the Storm Stables, dealing with the remaining giants and cultists.
@@ -200,7 +296,7 @@ summary: >-
 
   &gt; A summary of the curses affecting each agent:
 
-  &gt; 
+  &gt;
 
   &gt; * Bec's growing psychopathy and love of killing (though her allies do not
   know)

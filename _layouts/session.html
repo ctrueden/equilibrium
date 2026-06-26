@@ -57,6 +57,9 @@
 
 <details class="session-section" open>
 <summary>Recap</summary>
+{% if page.review_needed -%}
+<div class="warning-banner">This content has not yet been thoroughly reviewed, vetted, and cross-linked. It is likely to contain errors! Please report any noticed issues.</div>
+{%- endif %}
 <div class="section-body">
 
 {{ content }}

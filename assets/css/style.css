@@ -731,3 +731,13 @@ table td {
   font-size: 0.85em;
   color: #666;
 }
+
+.warning-banner {
+  background: #600;
+  border-radius: 1em;
+  color: whitesmoke;
+  font-variant: small-caps;
+  font-weight: bold;
+  margin: 1em 1em 0 1em;
+  text-align: center;
+}

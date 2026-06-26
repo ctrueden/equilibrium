@@ -7,6 +7,30 @@ when: AC50 Vis 22
 session-number: 98
 session-date: 2026-04-04
 layout: session
+review_needed: true
+callie_journal: >-
+  In strange news, the clamulet that I gave Oz isn't...quite the same one? Because I still have the original one. The one Oz has is a SHAMULET. J'accuse! It still seems to have the same power to protect against undeadening, though.
+
+
+  Vondal wanted to buy a Faewild crystal and it just so happens that Gavin has three in stock! (I rolled a 1 on luck)
+
+
+  Gavin offered to sell it for cost (200 gold), but Vondal just gave me 300 and called it a day. So now I have an extra 100 GP in case we need it for anything. Also, in case I didn't write it down last time, we all got 300 gold in payment when we came back from the last mission.
+
+
+  We have a new colleague called Rendal Thistledown. There are some other new delegates, including ou old friend Bilbo. I'm glad he lived! I mean...of course he lived, I knew he'd be fine. Etria and Meerlinda are the others from Arralu. I should probably return the flying carpet we borrowed from Bilbo.
+
+
+  Mallory asks Cal whether he can deal with having vampire colleagues. Cal says he'll wait until when -- not if -- they betray us, then he will gladly dispatch them. I feel like any of the three of them will make traveling and camping really tense. Oz flashes the holy symbol he stole from Bilbo at me, and that really makes the case: it would just be too weird to try and travel with Bilbo. Like god-tier awkwardness. I can't deal with that, so I cast my vote for Etria.
+
+
+  So there are these people who donate blood to vampires. They're called "blood dolls" and the relationship usually ends badly. Sometimes they drink the vampire's blood in return to gain power, or sometimes they're killed by the vampire. Mallory is concerned that Etria will try to make a deal like that with one of us, so we should watch out.
+
+
+  Roger the ghost butler pops his three heads out of the wall and announces "Someone left a half-eaten sandwich on the table. I took care of it." Then he melts back into the wall.
+
+
+  Our next mission is to meet with the new Trell administrator, Vex Morradine. He has asked for me by name, which is slightly alarming. We're to give Mallory a sending stone update as soon as we know more.
 summary: >-
   The party's time in the hidden changeling village of Alye'adu began with a
   small but meaningful act of kindness. Ayina, a devoted cleric of Sehanine,
@@ -37,15 +61,15 @@ summary: >-
 
 
   With all of this understood, Vondal chose to proceed. The villagers gathered
-  in a wide circle around him and the dying changeling, Sima, for emotional
-  support and ritual tradition. Vondal and Sima clasped arms, and then
-  something extraordinary and deeply unsettling began to happen. Sima's
+  in a wide circle around him and the dying changeling, Amisa, for emotional
+  support and ritual tradition. Vondal and Amisa clasped arms, and then
+  something extraordinary and deeply unsettling began to happen. Amisa's
   physical form started to flow into Vondal like slow-moving molasses, creeping
   up his arm, coating his neck, and gradually consuming her entirely into him
   over the course of an hour. As she merged with him, a fragmented torrent of
   her memories washed through his mind — her childhood in the village, her
   horror at witnessing this very ritual performed on someone else, and the
-  foundational moment when she had fled Alye'adu entirely. In return, Sima
+  foundational moment when she had fled Alye'adu entirely. In return, Amisa
   absorbed Vondal's own broken and scattered memories, the pieces of himself
   that had been shattered by his experiences with the flux and the terrible eye
   that had once peered directly into his soul.
@@ -165,7 +189,7 @@ short_summary: >-
   The party's time in the changeling village of Alye'adu centered on Vondal's
   mysterious temporal instability, an affliction causing him to skip through
   time and space without warning. After the villagers diagnosed his condition,
-  Vondal underwent a profound ritual bonding with the dying changeling Sima,
+  Vondal underwent a profound ritual bonding with the dying changeling Amisa,
   whose physical form slowly merged into him over the course of an hour,
   exchanging fragmented memories before separating into an entirely new
   individual named Ladnov — an exact mirror of Vondal who thanked him warmly for
@@ -190,7 +214,7 @@ short_summary: >-
   Stillwind — whom Ozborn immediately marked for death — and three Arallu
   vampire candidates, from whom the party ultimately selected the charming
   harpist Etria Leduc for their branch. The session closed with the team rushing
-  toward Trell for a meeting with new administrator Vex Loradine, spurred by the
+  toward Trell for a meeting with new administrator Vex Morradine, spurred by the
   unsettling detail that the mysterious client had asked for Callie by name.
 classic_summary: >-
   Last we left off, the party found themselves in the hidden changeling village
@@ -200,14 +224,14 @@ classic_summary: >-
   matter of his affliction. After careful study, the changelings determined that
   Vondal suffered from a temporal instability, a condition that sent him
   skipping through time and space without warning. A solution was offered: a
-  sacred bond with a dying changeling named Sima, one that would require
+  sacred bond with a dying changeling named Amisa, one that would require
   monthly syncing rituals back in Alye'adu and demanded that Vondal never reach
   for his flux energy during the rite itself. Ayina offered her own quiet
   revelation in kind — that her changeling partner had long since fallen to
   infernal corruption and now walked among devils in the city of Trell, kept
   sane only by their monthly link, and that her devotion to Sehanine's light had
   been born not of calling, but of love. Vondal chose to proceed. In a ritual
-  both extraordinary and deeply unsettling, Sima's form flowed into him like
+  both extraordinary and deeply unsettling, Amisa's form flowed into him like
   slow-moving molasses, her memories washing through his mind — her childhood,
   her horror, her flight from this very village — while she absorbed the
   shattered pieces of Vondal's own broken past. When at last the process
@@ -247,7 +271,7 @@ classic_summary: >-
   too dangerous to house under the same roof, and Bilbo's loyalties remained
   deeply suspect. With that settled, Mallory delivered their next assignment:
   travel to the Trell branch office and meet with a new administrator named Vex
-  Loradine — and do so by one o'clock that afternoon. Most intriguingly, the
+  Morradine — and do so by one o'clock that afternoon. Most intriguingly, the
   client behind this new request had asked for Calumnystra Rockwell by name.
   With barely enough time to gather themselves, the party set out toward Trell,
   carrying with them more questions than answers...
@@ -279,7 +303,7 @@ snarky_summary: >-
   specifically — which is either very flattering or very ominous, and with this
   group, it's almost certainly both.
 limerick_style_summary: |-
-  In Alye'adu, Vondal clasped Sima's arm tight,
+  In Alye'adu, Vondal clasped 'Misa's arm tight,
   Her form flowed to molasses in the light.
   From him Ladnov emerged,
   Their memories merged,
@@ -378,16 +402,16 @@ scenes:
       anchor for a dying changeling named Amisa.
     key_events:
       - >-
-        Vondal joins hands with Sima as the villagers form a protective circle
+        Vondal joins hands with Amisa as the villagers form a protective circle
         around them.
       - >-
-        Sima's physical form begins to flow into Vondal like slow-moving
+        Amisa's physical form begins to flow into Vondal like slow-moving
         molasses, a process that lasts an hour.
       - >-
-        Vondal experiences a fragmented jumble of Sima's memories, including
+        Vondal experiences a fragmented jumble of Amisa's memories, including
         her childhood in the village and her eventual flight from it.
       - >-
-        Sima absorbs Vondal's own fragmented memories and 'brokenness' as their
+        Amisa absorbs Vondal's own fragmented memories and 'brokenness' as their
         minds temporarily unify.
       - >-
         After reaching a state of complete unification, the process reverses as
@@ -545,7 +569,7 @@ scenes:
         The party is tasked with reporting back on the case details, as well as
         their impressions of the new hire, Vex Morradine.
 npcs:
-  - name: Ayina
+  - name: Ayinalef
     description: >-
       A high-level cleric of Sehanine residing in Alye'adu. She uses powerful
       restorative magic to heal Vondal's missing pinky finger and explains the
@@ -558,7 +582,7 @@ npcs:
       that Vondal smells like Grohnea. Her own partner Grohnea carries the blood
       of a night hag but retains her humanity more effectively thanks to their
       bond.
-  - name: Sima
+  - name: Amisa Swiftaxe
     description: >-
       A dying changeling from Alye'adu who was facing the loss of her memories and
       self. She undergoes the anchor ritual with Vondal, merging with him before
@@ -582,7 +606,7 @@ npcs:
       relations, and assigns high-stakes missions. He briefs the party on new
       representatives from Xaryuvia and Arallu and asks them to choose their
       new teammate.
-  - name: Gavin
+  - name: Gavin Pepperpotts
     description: >-
       A shady underworld contact who provides Ozborn with the expertise to
       combine Black Lotus and Belladonna into Death Flower Oil, and who also
@@ -618,23 +642,23 @@ npcs:
       up and invisible. The party strongly suspects him of being a sleeper agent
       for the vampires. Ozborn still possesses a holy symbol and carpet stolen
       from him.
-  - name: Goratrix
+  - name: Goratrix Ceoris
     description: >-
-      A power-hungry vampire mentioned as the former clan leader whose allies
-      abandoned him during a confrontation with the SPI. He is currently
+      A power-hungry vampire mentioned as the former Crispic clan leader whose
+      allies abandoned him during a confrontation with the SPI. He is currently
       missing, and word through the grapevine is that Calderon the Cold,
-      previously Goratrix's second, is now in charge of his clan.
+      previously Goratrix's second, is now in charge of the clan.
   - name: The Brucolac
     description: >-
-      A powerful vampire lord who may have survived a previous encounter with
-      the party. Mallory's current theory is that he is the one who attacked
-      Ozborn through a scrying sensor, suggesting he is still alive.
+      A powerful titan vampire lord who may have survived a previous encounter
+      with the party. Mallory's current theory is that he is the one who
+      attacked Ozborn through a scrying sensor, suggesting he is still alive.
   - name: Roger
     description: >-
-      A bizarre three-headed entity that can move through walls and handles
+      A bizarre many-headed entity that can move through walls and handles
       domestic issues within the SPI headquarters, such as investigating a
       half-eaten sandwich left on the kitchen table.
-  - name: Vex Loradine
+  - name: Vex Morradine
     description: >-
       The newly hired branch administrator for the SPI office in the Archipelago
       of Trell. Mallory asks the party to evaluate his trustworthiness when they
@@ -659,13 +683,13 @@ locations:
 items:
   - name: Bejeweled Statuettes
     description: >-
-      Crude decorated figurines crafted by Cassandra to resemble each SPI field
-      agent, including versions of Vondal (with one tooth larger than the
+      Crudely decorated figurines crafted by Cassandra to resemble each SPI
+      field agent, including versions of Vondal (with one tooth larger than the
       other), Freki (in hybrid form with bow and claw), and others. They serve
       as focal anchors for Bec's contingency spell.
   - name: Shamulet
     description: >-
-      A knockoff version of Callie's original protective amulet that appeared
+      Another version of Callie's original protective amulet that appeared
       mysteriously after Callie gave her real amulet to Sophie Steelboots. The
       party speculates it may be a byproduct of Callie's temporal or spiritual
       instability, possibly originating from one of her alternate selves.
