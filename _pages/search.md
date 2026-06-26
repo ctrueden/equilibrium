@@ -58,14 +58,54 @@ title: Search
 let documents = null;
 let idx = null;
 
+// Front-matter keys that are structural/meta rather than searchable content.
+const SKIP_FIELDS = new Set([
+    'case', 'id', 'image', 'image-source', 'layout', 'link', 'link2',
+    'review_needed', 'session-number', 'session-date', 'datestamp', 'when', 'wiki'
+]);
+
+// Strip obvious Markdown/HTML markup so neither the index nor the displayed
+// snippets carry literal syntax like [text](url), **bold**, or `code`.
+function stripMarkup(s) {
+    return s
+        .replace(/!\[([^\]]*)\]\([^)]*\)/g, '$1') // images -> alt text
+        .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')  // links -> link text
+        .replace(/<[^>]+>/g, ' ')                 // HTML tags
+        .replace(/^\s*#{1,6}\s+/gm, '')           // ATX heading markers
+        .replace(/^\s*>\s?/gm, '')                // blockquote markers
+        .replace(/^\s*[-+*]\s+/gm, '')            // list bullets
+        .replace(/[*_`~]/g, '')                   // emphasis / code markers
+        .replace(/\s+/g, ' ')                     // collapse whitespace
+        .trim();
+}
+
+// Recursively flatten a value into searchable text. Strings are stripped of
+// markup; arrays and objects (e.g. memorable_moments, scenes, npcs) are walked
+// and joined so their nested prose becomes searchable too.
+function collectText(value) {
+    if (typeof value === 'string') return stripMarkup(value);
+    if (Array.isArray(value)) return value.map(collectText).join(' ');
+    if (value && typeof value === 'object') {
+        return Object.entries(value)
+            .filter(([k]) => !SKIP_FIELDS.has(k))
+            .map(([, v]) => collectText(v))
+            .join(' ');
+    }
+    return '';
+}
+
 document.addEventListener('DOMContentLoaded', async () => {
     const response = await fetch('assets/docs.json');
     documents = await response.json();
 
+    // Flatten every doc once: title stays its own field (for ranking boost),
+    // searchText is everything else (body + all front-matter content).
+    documents.forEach(doc => { doc.searchText = collectText(doc); });
+
     idx = lunr(function () {
         this.ref('id');
-        this.field('title');
-        this.field('body');
+        this.field('title', { boost: 10 });
+        this.field('searchText');
 
         documents.forEach(function (doc) {
             this.add(doc);
@@ -139,7 +179,7 @@ function displayResults(query, results, documents) {
         results.forEach(result => {
             const doc = documents.find(d => d.id === result.ref);
             const icon = createIcon(doc);
-            const snippet = extractContextSnippet(doc.body, query);
+            const snippet = extractContextSnippet(doc.searchText, query);
             const item = document.createElement('div');
             item.className = 'result';
             item.innerHTML =

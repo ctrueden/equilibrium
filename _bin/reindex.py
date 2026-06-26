@@ -1,5 +1,4 @@
 import json
-import os
 import re
 from frontmatter import Frontmatter  # pip install --user frontmatter
 from pathlib import Path
