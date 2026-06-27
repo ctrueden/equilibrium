@@ -421,34 +421,34 @@ snarky_summary: >-
   lucrative deal in the city is connected to the people already circling this
   cursed coffee pot. Everything is fine.
 limerick_style_summary: |-
-  To Minauros's harbour they climbed,
-  Where sulfur and sweetness were rhymed.
-  A carafe of bronze
-  Stripped doubt from the pawns —
+  To Minauros's harbour they climbed,  
+  Where sulfur and sweetness were rhymed.  
+  A carafe of bronze  
+  Stripped doubt from the pawns —  
   And Kerwin was rotting, slimed!
 
-  His skin had gone yellow-green sour,
-  His teeth black as mold in a tower.
-  He'd chosen the pot
-  O'er his wife — like as not —
+  His skin had gone yellow-green sour,  
+  His teeth black as mold in a tower.  
+  He'd chosen the pot  
+  O'er his wife — like as not —  
   And called it his finest hour!
 
-  Bec studied the carafe with care:
-  No charm spell, but something more rare —
-  Alchemical trust,
-  Inhaled like a gust,
+  Bec studied the carafe with care:  
+  No charm spell, but something more rare —  
+  Alchemical trust,  
+  Inhaled like a gust,  
   That left victims blissfully unaware!
 
-  The palm tree grew away from the stench,
-  And Freki knelt down on the bench.
-  It whispered of feet,
-  Light-footed, discreet —
+  The palm tree grew away from the stench,  
+  And Freki knelt down on the bench.  
+  It whispered of feet,  
+  Light-footed, discreet —  
   A visitor, two days hence!
 
-  Then nightfall brought cloaks of the rainbow,
-  Three figures stepped out from their bubble-carriage's glow.
-  The Noffindorf name
-  Set Callie's blood aflame —
+  Then nightfall brought cloaks of the rainbow,  
+  Three figures stepped out from their bubble-carriage's glow.  
+  The Noffindorf name  
+  Set Callie's blood aflame —  
   The deal's shadowed players now show!
 memorable_moments:
   - is_quote: false

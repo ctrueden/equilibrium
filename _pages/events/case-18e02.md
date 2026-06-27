@@ -297,34 +297,34 @@ snarky_summary: >-
   warnings. Truly, the chickens have come home to roost, and they smell
   absolutely terrible.
 limerick_style_summary: |-
-  They landed in Minauros, early and keen,
-  In the saddest SPI office they'd seen.
-  Vex Morradine raised a brow,
-  Made bad tea with a vow,
+  They landed in Minauros, early and keen,  
+  In the saddest SPI office they'd seen.  
+  Vex Morradine raised a brow,  
+  Made bad tea with a vow,  
   While the city smelled foul and obscene.
 
-  Bec and Vondal performed a great rite,
-  And sensed something wrong in the night.
-  A magic like waves,
-  That erodes and enslaves,
+  Bec and Vondal performed a great rite,  
+  And sensed something wrong in the night.  
+  A magic like waves,  
+  That erodes and enslaves,  
   From a building three blocks to the right.
 
-  Then Sorelda swept in, cold and proud,
-  And slapped down her lawsuit out loud.
-  Her ex drank the brew,
-  Now he's charming — and pew —
+  Then Sorelda swept in, cold and proud,  
+  And slapped down her lawsuit out loud.  
+  Her ex drank the brew,  
+  Now he's charming — and pew —  
   Two years of cursed coffee endowed.
 
-  Callie recalled the sale with a wince:
-  A rude man who'd not heard the hints.
-  He threw coins at her face,
-  Left without any grace,
+  Callie recalled the sale with a wince:  
+  A rude man who'd not heard the hints.  
+  He threw coins at her face,  
+  Left without any grace,  
   And had been drinking coffee ever since.
 
-  Now they stand at the door, steeling will,
-  The stench seeping under the sill.
-  With ball bearings for nose,
-  And true sight, Vondal knows —
+  Now they stand at the door, steeling will,  
+  The stench seeping under the sill.  
+  With ball bearings for nose,  
+  And true sight, Vondal knows —  
   They'll meet Kerwin Ulvas, for ill!
 memorable_moments:
   - is_quote: true

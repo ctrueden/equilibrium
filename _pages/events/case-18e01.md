@@ -303,34 +303,34 @@ snarky_summary: >-
   specifically — which is either very flattering or very ominous, and with this
   group, it's almost certainly both.
 limerick_style_summary: |-
-  In Alye'adu, Vondal clasped 'Misa's arm tight,
-  Her form flowed to molasses in the light.
-  From him Ladnov emerged,
-  Their memories merged,
+  In Alye'adu, Vondal clasped 'Misa's arm tight,  
+  Her form flowed to molasses in the light.  
+  From him Ladnov emerged,  
+  Their memories merged,  
   A twin born from flux on that mystical night!
 
-  Cassandra's statuettes glowed with a hum,
-  Soul magic linked Bec, Callie, and some.
-  A shamulet appeared,
-  Its origins weird—
+  Cassandra's statuettes glowed with a hum,  
+  Soul magic linked Bec, Callie, and some.  
+  A shamulet appeared,  
+  Its origins weird—  
   A copy from afterworld echoes had come!
 
-  Ozborn brewed his poisons with gleeful delight,
-  Black Lotus and Belladonna combined right.
-  He called it Murder Oil,
-  Ready foes to foil,
+  Ozborn brewed his poisons with gleeful delight,  
+  Black Lotus and Belladonna combined right.  
+  He called it Murder Oil,  
+  Ready foes to foil,  
   While Freki grew stronger and Vondal found light!
 
-  Mallory briefed them on Concord's new cast,
-  With Frokim and Sophie and shadows amassed.
-  From Arallu's dark hall,
-  They chose Etria's call,
+  Mallory briefed them on Concord's new cast,  
+  With Frokim and Sophie and shadows amassed.  
+  From Arallu's dark hall,  
+  They chose Etria's call,  
   And Roger complained of a sandwich harassed!
 
-  To Trell they now raced against one o'clock's chime,
-  A client sought Callie—a curious sign.
-  With Vex to be met,
-  The stage had been set,
+  To Trell they now raced against one o'clock's chime,  
+  A client sought Callie—a curious sign.  
+  With Vex to be met,  
+  The stage had been set,  
   The party pressed onward through mystery and time!
 memorable_moments:
   - is_quote: false
