@@ -5,7 +5,7 @@ description: >-
 datestamp: 50-06-14/03
 when: AC50 Vis 22
 session-number: 100
-session-date: 2026-05-09
+session-date: 2026-06-06
 layout: session
 review_needed: true
 callie_journal: >-
