@@ -214,7 +214,7 @@ callie_journal: >-
 summary: >-
   The SPI agents made their way to the third floor of a recently renovated
   building in Minauros's Harbor District, where a sign bearing a steaming coffee
-  pot marked their destination: Olivan Transitional Assets. A deep, sulfurous,
+  pot marked their destination: Ulvan Transitional Assets. A deep, sulfurous,
   and sickeningly sweet odor seeped through the very frame of the glass-walled
   office door, and Freki, whose senses were sharper than most, caught a
   concentrated waft of it the moment the door swung open — his eyes dilating as
@@ -268,7 +268,7 @@ summary: >-
   undo what had been done to them.
 
 
-  The conversation turned to business, and Kerwin revealed that Olivan
+  The conversation turned to business, and Kerwin revealed that Ulvan
   Transitional Assets dealt in shipping, distressed acquisitions, and the
   controversial licensing of bloodlocked spells — a practice common in Trell,
   where arcane research could be patented and sold under strict legal contracts
@@ -332,7 +332,7 @@ summary: >-
   Noffindorf manufacturing subsidiary at the center of Kerwin's most lucrative
   and secretive deal.
 short_summary: >-
-  The SPI agents visited Olivan Transitional Assets in Minauros's Harbor
+  The SPI agents visited Ulvan Transitional Assets in Minauros's Harbor
   District, where they met Kerwin Ulvas, a tiefling businessman whose body
   was being grotesquely consumed from the inside out due to his dependence on a
   mysterious bronze coffee pot. The pot emitted a sulfurous, alchemical aroma
@@ -363,7 +363,7 @@ short_summary: >-
 classic_summary: >-
   Last we left off, our agents of the SPI made their way to the Harbor District
   of Minauros, climbing to the third floor of a freshly renovated building to pay
-  a visit to a man named Kerwin Ulvas — proprietor of Olivan Transitional
+  a visit to a man named Kerwin Ulvas — proprietor of Ulvan Transitional
   Assets, dealer in shipping, distressed acquisitions, and the legally murky
   trade of bloodlocked spells. What they found there was not merely a successful
   businessman, but a man being slowly devoured by his own ambition — his skin
@@ -395,7 +395,7 @@ classic_summary: >-
   Callie felt the cold weight of recognition settle over her as they disappeared
   inside: the rainbow-colored cloaks of the Noffindorf family, connected to the
   very manufacturing subsidiary at the heart of Kerwin's most secretive and
-  lucrative deal. Whatever is moving in the shadows of Olivan Transitional
+  lucrative deal. Whatever is moving in the shadows of Ulvan Transitional
   Assets, it is moving fast — and our agents find themselves squarely in its
   path...
 snarky_summary: >-
@@ -536,7 +536,7 @@ memorable_moments:
       Callie's awkward admission when Kerwin — the man physically ruined by the
       carafe she sold him — asked if she knew how it worked
 scenes:
-  - title: Arrival at Olivan Transitional Assets
+  - title: Arrival at Ulvan Transitional Assets
     description: >-
       The SPI agents arrive at the office of Kerwin Ulvas to investigate the
       cursed coffee carafe.
@@ -628,7 +628,7 @@ scenes:
       charms Kerwin and Freki creates a memorable distraction.
     key_events:
       - >-
-        Kerwin explains his business, Olivan Transitional Assets, which involves
+        Kerwin explains his business, Ulvan Transitional Assets, which involves
         shipping, distressed acquisitions, and the controversial licensing of
         bloodlocked spells.
       - >-
@@ -802,7 +802,7 @@ npcs:
       that she may be under pressure from outside parties.
   - name: Taelin Fosse
     description: >-
-      A blue-skinned tiefling who serves as head of contracts at Olivan
+      A blue-skinned tiefling who serves as head of contracts at Ulvan
       Transitional Assets and has been with Kerwin since his first year in
       business. She radiates an infectious, almost brainwashed level of
       cheerfulness and devotion to her employer. She appeared visibly hurt when
@@ -818,7 +818,7 @@ npcs:
       subsidiary.
   - name: Xarlus Shale
     description: >-
-      A red-skinned tiefling employee at Olivan Transitional Assets who handles
+      A red-skinned tiefling employee at Ulvan Transitional Assets who handles
       the company's ledgers and finances. He was somewhat offended by Freki's
       attempts to micromanage the office plants and departed the office during
       the evening stakeout.
@@ -837,7 +837,7 @@ npcs:
       are reportedly seven members, and connected them to the Noffindorf
       subsidiary mentioned in Kerwin's major deal.
 locations:
-  - name: Olivan Transitional Assets Office
+  - name: Ulvan Transitional Assets Office
     description: >-
       A recently renovated multi-story building in the Harbor District, bearing
       a sign with a steaming coffee pot. The third floor is a bustling office

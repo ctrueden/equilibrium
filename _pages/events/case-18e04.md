@@ -12,7 +12,7 @@ summary: >-
   The night took a sharp turn when a magical bubble vehicle glided silently up
   to Kerwin's office building and disgorged three short, cloaked figures onto
   the street. Each wore a different color—yellow, green, and indigo—and moved
-  with the quiet confidence of people who had never once doubted their own
+  with the implicit arrogance of people who had never once doubted their own
   importance. After the last of them stepped out, the indigo-cloaked figure
   raised a hand and the vehicle shrank impossibly into their palm, vanishing as
   though it had never existed. Callie, hovering invisibly outside the upper
