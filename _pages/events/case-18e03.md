@@ -224,7 +224,7 @@ summary: >-
 
 
   They were greeted by Taelin Fosse, a blue-skinned tiefling who had been with
-  Kerwin Decastine since the very first year of his business. She radiated a
+  Kerwin Ulvas since the very first year of his business. She radiated a
   kind of infectious, almost brainwashed cheerfulness — not the happiness of
   someone having a good day, but the deep, structural contentment of someone
   whose capacity for doubt had been quietly erased. Bec, whose training made her
@@ -238,7 +238,7 @@ summary: >-
   embarrassment across Taelin's face.
 
 
-  Kerwin Decastine was not what any of them had expected. He was a tiefling man
+  Kerwin Ulvas was not what any of them had expected. He was a tiefling man
   in his early fifties, well-dressed in the manner of a successful businessman,
   but his body told a different story entirely. His skin had turned a sulfurous
   yellow-green, his eyes glowed with a sickly ooze rather than any natural
@@ -333,7 +333,7 @@ summary: >-
   and secretive deal.
 short_summary: >-
   The SPI agents visited Olivan Transitional Assets in Minauros's Harbor
-  District, where they met Kerwin Decastine, a tiefling businessman whose body
+  District, where they met Kerwin Ulvas, a tiefling businessman whose body
   was being grotesquely consumed from the inside out due to his dependence on a
   mysterious bronze coffee pot. The pot emitted a sulfurous, alchemical aroma
   that bypassed rational thought entirely, stripping those exposed of their
@@ -363,7 +363,7 @@ short_summary: >-
 classic_summary: >-
   Last we left off, our agents of the SPI made their way to the Harbor District
   of Minauros, climbing to the third floor of a freshly renovated building to pay
-  a visit to a man named Kerwin Decastine — proprietor of Olivan Transitional
+  a visit to a man named Kerwin Ulvas — proprietor of Olivan Transitional
   Assets, dealer in shipping, distressed acquisitions, and the legally murky
   trade of bloodlocked spells. What they found there was not merely a successful
   businessman, but a man being slowly devoured by his own ambition — his skin
@@ -401,7 +401,7 @@ classic_summary: >-
 snarky_summary: >-
   Welcome to the episode where the party visited a perfectly normal office
   building and found a man who is literally being digested alive by a coffee pot
-  — and he's fine with it. Great. Kerwin Decastine, tiefling entrepreneur and
+  — and he's fine with it. Great. Kerwin Ulvas, tiefling entrepreneur and
   cautionary tale in a waistcoat, has built his entire business empire on a
   magic carafe that makes everyone around him incapable of thinking he's a bad
   idea. His employees have the glazed, structural contentment of people who have
@@ -538,7 +538,7 @@ memorable_moments:
 scenes:
   - title: Arrival at Olivan Transitional Assets
     description: >-
-      The SPI agents arrive at the office of Kerwin Decastine to investigate the
+      The SPI agents arrive at the office of Kerwin Ulvas to investigate the
       cursed coffee carafe.
     key_events:
       - >-
@@ -565,11 +565,11 @@ scenes:
         washed.
       - >-
         Taelin leads the group toward the back stairs to meet with her boss,
-        Kerwin Decastine.
+        Kerwin Ulvas.
       - >-
         The party discusses whether to have Freki guard the door or enter with
         them, ultimately deciding he should come along.
-  - title: Meeting Kerwin Decastine
+  - title: Meeting Kerwin Ulvas
     description: >-
       The SPI agents enter Kerwin's private office and meet the physically
       warped businessman, who credits his success entirely to the cursed coffee
@@ -585,7 +585,7 @@ scenes:
         The agents enter Kerwin's private office, which features fine wood
         floors and a high-quality hand-woven oval rug.
       - >-
-        Kerwin Decastine is revealed to be a tiefling man in his early 50s with
+        Kerwin Ulvas is revealed to be a tiefling man in his early 50s with
         sulfurous yellow-green skin, glowing oozing eyes, black-green stained
         teeth, and a distended, barrel-like physique.
       - >-
@@ -710,7 +710,7 @@ scenes:
   - title: Post-Meeting Debrief and Planning the Stakeout
     description: >-
       The party returns to the SPI branch to debrief with Vex Morradine and plan
-      their next move regarding Kerwin Decastine and the cursed coffee carafe.
+      their next move regarding Kerwin Ulvas and the cursed coffee carafe.
     key_events:
       - >-
         The party exits the office building; the fresh air helps clear the
@@ -751,7 +751,7 @@ scenes:
         their surveillance positions.
   - title: The Stakeout
     description: >-
-      The party splits up to monitor Kerwin Decastine's office building from the
+      The party splits up to monitor Kerwin Ulvas's office building from the
       front and back as evening falls, culminating in a mysterious arrival.
     key_events:
       - >-
@@ -807,7 +807,7 @@ npcs:
       business. She radiates an infectious, almost brainwashed level of
       cheerfulness and devotion to her employer. She appeared visibly hurt when
       Kerwin dismissed her coldly in front of the party.
-  - name: Kerwin Decastine
+  - name: Kerwin Ulvas
     description: >-
       A tiefling man in his early 50s and Sorelda's ex-husband. Once
       well-dressed and handsome, he now has sulfurous yellow-green skin, glowing
