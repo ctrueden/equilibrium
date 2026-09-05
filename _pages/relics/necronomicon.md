@@ -24,7 +24,7 @@ descriptions:
       Stolen by Isis Raksh and currently pursued by the warforged R. Martine Andrews in the Deepwood.
   - session: "12e02"
     content: |
-      Once in Isis's possession, she used it to poison the [Yggdrasil](../relics/yggrasil) in a misguided effort to counter a nebulous world-destabilizing force she called the Vortex. But the Book's evil took root within Isis, festering into the parasitic entity [Zuggtmoy](../dossiers/zuggtmoy), before jumping to the [Fae Queen](../dossiers/ambriel-estanesse). When this happened, Isis came to her senses and discarded the Necronomicon in horror at what she had done.
+      Once in Isis's possession, she used it to poison the [Yggdrasil](../relics/yggdrasil) in a misguided effort to counter a nebulous world-destabilizing force she called the Vortex. But the Book's evil took root within Isis, festering into the parasitic entity [Zuggtmoy](../dossiers/zuggtmoy), before jumping to the [Fae Queen](../dossiers/ambriel-estanesse). When this happened, Isis came to her senses and discarded the Necronomicon in horror at what she had done.
   - session: "12e09"
     content: |
       Kept safe in the royal vault by Tybalt, with warnings that it should not be touched due to its dangerous feedback mechanisms.

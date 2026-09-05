@@ -183,7 +183,7 @@ Mallory flips another page in his notebook. "So you didn't manage to save [my do
 
 "We need to make that a priority," says Mallory. "If he doesn't meet with me once a month, he'll rot. And he saved the SPI at its lowest point, so we're gonna do the same for him."
 
-Relatedly: [Amisa](../dossiers/amisa), the changeling who was imprinted on Sima but is now adrift and rotting, still needs a new anchor. Vondal had volunteered, but Mallory says he cannot do it till his Fluxtaint is brought under control. None of them can.
+Relatedly: [Amisa](../dossiers/amisa-swiftaxe), the changeling who was imprinted on Sima but is now adrift and rotting, still needs a new anchor. Vondal had volunteered, but Mallory says he cannot do it till his Fluxtaint is brought under control. None of them can.
 
 Mallory continues: "Next up: Oz, you have some coins?"
 

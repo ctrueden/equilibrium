@@ -81,7 +81,7 @@ Ulgrim tells the giants that he knows Rhyzophus was committing crimes against na
 
 Some of the giants gasp.
 
-"The vampires use a [halfling](../creatures/halflings) farm as a food source. These are controlled by [another evil creature](../dossiers/xaryu-hive). I task you with destroying the [Beholder](../dossiers/beholders) that controls this food source, thus destroying it for the vampires."
+"The vampires use a [halfling](../creatures/halflings) farm as a food source. These are controlled by [another evil creature](../dossiers/xaryu-hive). I task you with destroying the [Beholder](../creatures/beholders) that controls this food source, thus destroying it for the vampires."
 
 The giants are into it! "A worthy quest, my lord! But how shall we find this Beholder?"
 

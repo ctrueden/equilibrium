@@ -20,7 +20,7 @@ We're just walking in the tunnel and suddenly find ourselves in [Mallory](../dos
 
 Vondal comprehends [the tower](../locales/tower-of-orsus) and the Flux bending down from above it to create the mirror image below. He's thinking about whether this magic could create infinite cookies. I mean, I'd rather have a plague of cookies spread o'er the land than Flux, if it were up to me.
 
-[Freki](../locales/freki) is surprised to find out that the Flux only [came into being 50 years ago](the-vanishing). I thought everybody knew that! But I guess word hasn't spread far enough to find Freki.
+[Freki](../dossiers/freki) is surprised to find out that the Flux only [came into being 50 years ago](the-vanishing). I thought everybody knew that! But I guess word hasn't spread far enough to find Freki.
 
 [Audreth](../dossiers/audreth) asks about the dual [Oz](../dossiers/oz) and [Cal](../dossiers/cal). Vondal explains that we all have alternate versions of ourselves flapping through us. [Cassandra](../dossiers/cassandra) can see Pony Vondal. I'm intrigued to find out that wasn't just a dream or hallucination.
 

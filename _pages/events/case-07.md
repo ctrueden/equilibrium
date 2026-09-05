@@ -59,7 +59,7 @@ persons_of_interest:
 **[Sartus Morningdew](../dossiers/sartus-morningdew)** (male, elf, adult)
 
 * A wizard of the Holy Sorcerers, the order to which Bec Galere's father [Letharil](../dossiers/letharil-galere) belongs.
-* Attending the auction on behalf of [Ambrielle Estanesse, Queen of the Fey](../dossiers/ambrielle-estanesse).
+* Attending the auction on behalf of [Ambrielle Estanesse, Queen of the Fey](../dossiers/ambriel-estanesse).
 
 **[Tybalt Nightbreeze](../dossiers/tybalt)** (male, half-elf, young adult)
 
