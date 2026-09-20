@@ -1,5 +1,4 @@
 ---
-
 title: Seirye Qin
 image: https://i.pinimg.com/originals/6e/cd/8b/6ecd8bc2daba980d42179184f93637dd.jpg
 image-source: https://www.pinterest.com/pin/636203884848275594/

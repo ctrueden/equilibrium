@@ -1,11 +1,4 @@
 ---
-
-
-
-
-
-
-
 title: Rufus Mallory
 image: https://cdn2.myminifactory.com/assets/object-assets/5f0b6736712bb/images/720X720-omalley1.jpg 
 image-source: https://www.myminifactory.com/object/3d-print-o-malley-dwarf-detective-127820

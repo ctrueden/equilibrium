@@ -1,8 +1,4 @@
 ---
-
-
-
-
 title: Rain
 image: https://i.pinimg.com/originals/12/47/78/124778e0a5a550db802668c59b51f3f2.png
 image-source: https://www.pinterest.com/pin/369154500707486411/

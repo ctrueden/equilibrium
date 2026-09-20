@@ -1,6 +1,4 @@
 ---
-
-
 nav-title: Rubinia Elka
 title: Rubinia "Not a Necromancer" Elka
 statbox:

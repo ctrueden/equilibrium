@@ -1,7 +1,4 @@
 ---
-
-
-
 title: Alex Orbach
 image: https://i.pinimg.com/originals/d6/91/73/d69173cbc40b4a3dd3201c83fdcedd65.png
 image-source: https://www.pinterest.com/pin/37717715621164296/

@@ -1,7 +1,4 @@
 ---
-
-
-
 title: Leopold Gardenblossom
 image: https://i.pinimg.com/originals/16/e2/75/16e275c549008225e5559ff55eb64a5a.jpg
 image-source: https://www.pinterest.com/pin/840625086669486600/

@@ -1,7 +1,4 @@
 ---
-
-
-
 title: Rhyzophus
 #image: TODO
 #image-source: TODO

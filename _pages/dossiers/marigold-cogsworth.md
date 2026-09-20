@@ -1,6 +1,4 @@
 ---
-
-
 title: Marigold Cogsworth
 image: https://i.pinimg.com/originals/d8/98/89/d89889108ad76894cd71dd6c99df5b98.jpg
 image-source: https://www.pinterest.com/pin/166773992431270497/

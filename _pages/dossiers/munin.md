@@ -1,15 +1,4 @@
 ---
-
-
-
-
-
-
-
-
-
-
-
 title: Munin
 image: https://i.pinimg.com/originals/14/82/e7/1482e724fa3ca9cd87ad254483a09719.jpg
 image-source: https://www.pinterest.com/pin/1005991635494965315/

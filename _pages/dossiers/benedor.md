@@ -1,5 +1,4 @@
 ---
-
 nav-title: Saint Benedor
 title: Saint Benedor the Luminary
 image: https://i.pinimg.com/originals/8d/64/87/8d6487d2728a51e861e863db7eb0af6e.png

@@ -1,7 +1,4 @@
 ---
-
-
-
 title: Eeoram Sufur
 image: https://i.pinimg.com/originals/be/a4/9c/bea49cc5904698a6b3cd1766c4ad7aac.jpg
 image-source: https://www.pinterest.com/pin/654781233305817202/

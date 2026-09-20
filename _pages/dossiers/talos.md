@@ -1,9 +1,4 @@
 ---
-
-
-
-
-
 title: Talos
 image: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6a3b8df8-d1dc-4725-9e1b-c51aa1466214/d5xgv14-4a615bb0-9fd5-4791-8f30-f1922d9f3af9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZhM2I4ZGY4LWQxZGMtNDcyNS05ZTFiLWM1MWFhMTQ2NjIxNFwvZDV4Z3YxNC00YTYxNWJiMC05ZmQ1LTQ3OTEtOGYzMC1mMTkyMmQ5ZjNhZjkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rnlRzyIlD_rKbCN2tai_NKPzRwg78-x_tUEJC89doI8
 image-source: https://www.deviantart.com/spellsword95/art/Centaur-Warlord-358544920

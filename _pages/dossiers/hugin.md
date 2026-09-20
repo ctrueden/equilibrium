@@ -1,16 +1,4 @@
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 title: Hugin
 image: https://i.pinimg.com/originals/ec/37/e7/ec37e7e528bf5af964ac77f694533139.jpg
 image-source: https://www.pinterest.com/pin/2322237300027300/

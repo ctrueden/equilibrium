@@ -1,6 +1,4 @@
 ---
-
-
 nav-title: Yondalla
 title: Yondalla, Goddess of the Forgotten
 image: https://i.pinimg.com/originals/ed/89/5a/ed895a3e8d41428709cccaac388c5a09.jpg

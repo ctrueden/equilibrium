@@ -1,6 +1,4 @@
 ---
-
-
 title: Gurin Aldrimor
 image: https://i.pinimg.com/originals/24/74/07/247407cca1fbaee9cbaf8026a5ae2f11.jpg
 image-source: https://www.pinterest.com/pin/675821487802340688/

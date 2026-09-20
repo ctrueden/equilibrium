@@ -1,6 +1,4 @@
 ---
-
-
 nav-title: Queen Ambriel Estanesse
 title: Ambriel Estanesse, Queen of the Fae
 image: https://i.pinimg.com/originals/30/c3/29/30c3294db371313914549193db4b429c.jpg

@@ -1,6 +1,4 @@
 ---
-
-
 title: Erasmus
 image: https://i.pinimg.com/originals/bc/48/7d/bc487d22ddd7b9056dbbf0f164685030.jpg
 image-source: https://www.pinterest.com/pin/639300109590411859/

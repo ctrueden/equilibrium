@@ -1,6 +1,4 @@
 ---
-
-
 title: Etria LeDuc
 image: https://i.pinimg.com/736x/9a/56/36/9a5636f9454e6d3f5f3b756f22f03830.jpg
 image-source: https://www.pinterest.com/pin/22025485666650326/

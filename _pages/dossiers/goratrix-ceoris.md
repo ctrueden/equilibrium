@@ -1,7 +1,4 @@
 ---
-
-
-
 title: Goratrix Ceoris
 image: https://static.wikia.nocookie.net/whitewolf/images/1/1d/Goratrix20A.png
 image-source: https://whitewolf.fandom.com/wiki/Goratrix

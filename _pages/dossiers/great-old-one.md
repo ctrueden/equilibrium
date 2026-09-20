@@ -1,5 +1,4 @@
 ---
-
 title: The Great Old One
 #image: https://i.pinimg.com/originals/d9/7d/33/d97d334546eaf0603f1917710d8b76dd.jpg
 #image-source: https://www.pinterest.com/pin/66780006969423814/

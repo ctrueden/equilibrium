@@ -1,6 +1,4 @@
 ---
-
-
 nav-title: Moradin
 title: Moradin, God of Creation
 image: https://i.pinimg.com/736x/89/5d/ec/895dec020514ed3801a36501dd191673.jpg

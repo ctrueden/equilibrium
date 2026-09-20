@@ -1,5 +1,4 @@
 ---
-
 nav-title: Vecna
 title: Vecna, Goddess of Secrets and Undeath
 image: https://i.pinimg.com/originals/94/b7/99/94b7992cc359db3087324f9a4cf66f26.jpg

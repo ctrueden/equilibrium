@@ -1,5 +1,4 @@
 ---
-
 nav-title: Sehanine
 title: Sehanine, Goddess of the Moon
 image: https://i.pinimg.com/originals/8b/33/4c/8b334c4c77dea2d9cb355e2b35158279.jpg

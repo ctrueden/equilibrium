@@ -1,8 +1,4 @@
 ---
-
-
-
-
 title: Kavaki
 image: https://i.pinimg.com/originals/37/79/0c/37790cf2a7ed481d8000c8dbbfd7ab50.png
 image-source: https://www.pinterest.com/pin/11047961575541800/

@@ -1,7 +1,4 @@
 ---
-
-
-
 nav-title: Nerull
 title: Nerull, Goddess of Darkness, Death, and Doom
 image: https://i.pinimg.com/originals/ec/23/c9/ec23c9bbe6345aba85ffd56107d4b0bb.jpg

@@ -1,7 +1,4 @@
 ---
-
-
-
 title: Bronce Aldrimor
 image: https://i.pinimg.com/736x/35/8d/f7/358df79ac33df4c5938f9d6d0d6dcb84.jpg
 image-source: https://www.pinterest.com/pin/392868767491454496/

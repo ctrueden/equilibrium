@@ -1,8 +1,4 @@
 ---
-
-
-
-
 title: Xaryu of Xaryuvia
 image: https://i.pinimg.com/736x/c7/a6/89/c7a689ecb631f8e41f1bd615fea61202.jpg
 image-source: https://www.pinterest.com/pin/614459942934510591/

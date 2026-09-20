@@ -1,5 +1,4 @@
 ---
-
 title: Caraway Maplehorn
 statbox:
   race: [elf (wood), dwarf]

@@ -1,5 +1,4 @@
 ---
-
 title: Juniper Tumbleclove
 statbox:
   race: [elf (wood), gnome]

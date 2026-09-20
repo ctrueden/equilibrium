@@ -1,6 +1,4 @@
 ---
-
-
 title: Mengiris
 image: https://i.pinimg.com/originals/20/cb/91/20cb917d5a9e2efb7ec0ce02e869acaf.jpg
 image-source: https://www.pinterest.com/pin/290974825905093519/

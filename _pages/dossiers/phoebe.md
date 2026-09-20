@@ -1,7 +1,4 @@
 ---
-
-
-
 nav-title: Phoebe
 title: Phoebe, Titan of Wisdom
 image: https://i.pinimg.com/236x/3d/f0/5c/3df05c2b56886d9caf8dd5f895b10b4c.jpg

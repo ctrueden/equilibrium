@@ -1,7 +1,4 @@
 ---
-
-
-
 title: The White Crane
 image: https://i.pinimg.com/originals/80/08/0f/80080fe663ec004e976f942fe7346984.jpg
 image-source: https://www.pinterest.com/pin/657666351810248016/

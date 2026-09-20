@@ -1,9 +1,4 @@
 ---
-
-
-
-
-
 nav-title: Lorelei Nocturne
 title: Lorelei Nocturne
 statbox:

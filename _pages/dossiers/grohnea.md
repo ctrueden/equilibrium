@@ -1,8 +1,4 @@
 ---
-
-
-
-
 title: Grohnea
 image: https://i.pinimg.com/originals/4e/d4/02/4ed402ceb1b351b9f57f3a9e25d4300b.jpg
 image-source: https://www.pinterest.com/pin/432908582942543107/

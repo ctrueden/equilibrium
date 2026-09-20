@@ -1,8 +1,4 @@
 ---
-
-
-
-
 title: Priscilla Stormcloud
 image: https://i.pinimg.com/originals/16/d1/d0/16d1d007786a0c8cb4d4da908620dcbd.jpg
 image-source: https://www.pinterest.com/pin/480266747745728619/

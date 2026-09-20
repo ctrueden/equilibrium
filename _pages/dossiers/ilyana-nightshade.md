@@ -1,6 +1,4 @@
 ---
-
-
 title: Ilyana Nightshade
 image: https://i.pinimg.com/originals/e0/70/1c/e0701c66e782fb493941c836801f16a3.jpg
 image-source: https://www.pinterest.com/pin/641411171917612595/

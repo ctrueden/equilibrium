@@ -1,7 +1,4 @@
 ---
-
-
-
 title: Dallah Thaun
 image: https://i.pinimg.com/originals/24/38/2a/24382a255d3b7111e51a1eca0c3ada36.jpg
 image-source: https://www.pinterest.com/pin/32862272272908734/

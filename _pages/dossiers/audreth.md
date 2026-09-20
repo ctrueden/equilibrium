@@ -1,7 +1,4 @@
 ---
-
-
-
 title: Audreth
 image: https://i.pinimg.com/originals/2b/4b/ef/2b4bef6c24377a25aeb2a7626a9debfb.jpg
 image-source: https://www.pinterest.com/pin/830914199972316947/

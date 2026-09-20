@@ -1,8 +1,4 @@
 ---
-
-
-
-
 title: Sabrina
 image: https://i.pinimg.com/originals/12/67/59/1267591450aa9c5304a4a54b843e7040.jpg
 image-source: https://www.pinterest.com/pin/18647785947466680/

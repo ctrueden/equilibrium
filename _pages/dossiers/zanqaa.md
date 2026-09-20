@@ -1,7 +1,4 @@
 ---
-
-
-
 title: Zanqaa the Devoted
 image: https://i.pinimg.com/originals/7f/50/fe/7f50fe96d21814ce161e29d8a6ff6c5e.png
 image-source: https://www.pinterest.com/pin/310748443034931840/

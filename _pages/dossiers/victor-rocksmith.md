@@ -1,6 +1,4 @@
 ---
-
-
 title: Victor Rocksmith
 image: https://i.pinimg.com/originals/bc/29/41/bc294172eb53b1b838e91bc84a0543b1.jpg
 image-source: https://www.pinterest.com/pin/604678687446683357/

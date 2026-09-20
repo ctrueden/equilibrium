@@ -1,7 +1,4 @@
 ---
-
-
-
 title: Timor Invictus
 image: https://i.pinimg.com/originals/33/40/c4/3340c4159aa75b35346eaca17a5f4db8.jpg
 image-source: https://www.pinterest.com/pin/91268329936856834/

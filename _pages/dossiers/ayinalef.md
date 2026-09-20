@@ -1,6 +1,4 @@
 ---
-
-
 nav-title: Ayina
 title: Ayinalef
 image: https://i.pinimg.com/originals/ab/f9/08/abf9082c8bfd8b1709654b8fbe53402d.png

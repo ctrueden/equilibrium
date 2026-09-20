@@ -1,11 +1,4 @@
 ---
-
-
-
-
-
-
-
 nav-title: Cronus
 title: Cronus, Titan of Reaping
 image: https://i.pinimg.com/originals/ba/b4/35/bab435e926a974b6d6b464c96ebc592e.jpg

@@ -1,5 +1,4 @@
 ---
-
 nav-title: Theia
 title: Theia, Titan of Brilliant Vision
 image: https://i.pinimg.com/originals/02/5f/86/025f86220b51b929ce794f669bf7dae3.jpg

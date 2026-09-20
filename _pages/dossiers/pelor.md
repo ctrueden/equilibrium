@@ -1,6 +1,4 @@
 ---
-
-
 nav-title: Pelor
 title: Pelor, God of the Sun and Agriculture
 image: https://i.pinimg.com/originals/59/30/3b/59303be30a1b545998680ac86f8f051f.png
