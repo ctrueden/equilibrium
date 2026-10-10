@@ -1,111 +1,49 @@
 #!/usr/bin/env python3
 """
-Download and cache all external images from front matter into /assets/cache
+Download and cache all external images referenced by the built site into /assets/cache
+
+Scans the generated HTML (rather than the markdown sources), so that every
+image URL produced by includes and layouts (e.g. scaled Pinterest thumbnails
+from the img include) is covered exactly as rendered.
 
 Usage:
-  ./_bin/cache-images.py          # Download all images
-  ./_bin/cache-images.py --check  # Check which images are missing
+  ./_bin/cache-images.py                # Download all images
+  ./_bin/cache-images.py --check        # Check which images are missing
+  ./_bin/cache-images.py --site DIR     # Scan DIR instead of _site
 """
 
-import os
 import sys
-import re
 import urllib.request
 import urllib.error
-import yaml
+from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlparse
 
 # Site root is the parent of _bin
 SITE_ROOT = Path(__file__).parent.parent
-PAGES_DIR = SITE_ROOT / '_pages'
 CACHE_DIR = SITE_ROOT / 'assets' / 'cache'
 
-def extract_front_matter(file_path):
-    """Extract front matter from a markdown file."""
+class ImageSrcParser(HTMLParser):
+    """Collect the src attribute of every img tag."""
+
+    def __init__(self):
+        super().__init__()
+        self.srcs = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'img':
+            src = dict(attrs).get('src')
+            if src:
+                self.srcs.append(src.strip())
+
+def extract_image_urls(html_file):
+    """Extract external image URLs from an HTML file."""
     try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-
-        # Match front matter between --- delimiters
-        match = re.match(r'\A---\n(.*?)^---$', content, re.DOTALL | re.MULTILINE)
-        if not match:
-            return {}
-
-        front_matter = {}
-        for line in match.group(1).split('\n'):
-            # Match yaml key: value pairs (handle quoted strings)
-            fm_match = re.match(r'^(\w+):\s+(.+)$', line)
-            if fm_match:
-                key, value = fm_match.groups()
-                # Remove quotes and strip whitespace
-                value = value.strip('"\'').strip()
-                front_matter[key] = value
-
-        return front_matter
+        parser = ImageSrcParser()
+        parser.feed(html_file.read_text(encoding='utf-8'))
+        return [s for s in parser.srcs if s.startswith(('http://', 'https://'))]
     except Exception as e:
-        print(f"Error parsing {file_path}: {e}", file=sys.stderr)
-        return {}
-
-def extract_images_section_urls(file_path):
-    """Extract image URLs from the nested 'images:' front matter section.
-
-    The gallery page uses a structure like:
-      images:
-        Category Name:
-        - https://source.link/|https://i.pinimg.com/originals/xx/yy/zz.jpg
-    """
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-
-        match = re.match(r'\A---\n(.*?)^---$', content, re.DOTALL | re.MULTILINE)
-        if not match:
-            return []
-
-        data = yaml.safe_load(match.group(1))
-        if not isinstance(data, dict) or 'images' not in data:
-            return []
-
-        urls = []
-        images = data['images']
-        if not isinstance(images, dict):
-            return []
-
-        for category, items in images.items():
-            if not isinstance(items, list):
-                continue
-            for item in items:
-                if not isinstance(item, str):
-                    continue
-                # Format is "source_link|image_url" or just "image_url"
-                parts = item.split('|', 1)
-                image_url = parts[1] if len(parts) == 2 else parts[0]
-                image_url = image_url.strip()
-                if image_url.startswith('http://') or image_url.startswith('https://'):
-                    urls.append(image_url)
-
-        return urls
-    except Exception:
-        return []
-
-def extract_body_image_urls(file_path):
-    """Extract image URLs from markdown image syntax in the page body.
-
-    Handles: ![alt](url) and [![alt](url)](link) patterns.
-    """
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-
-        # Strip front matter so we only scan the body
-        body = re.sub(r'\A---\n.*?^---$\n?', '', content, count=1, flags=re.DOTALL | re.MULTILINE)
-
-        urls = []
-        for m in re.finditer(r'!\[[^\]]*\]\((https?://[^)\s]+)\)', body):
-            urls.append(m.group(1))
-        return urls
-    except Exception:
+        print(f"Error parsing {html_file}: {e}", file=sys.stderr)
         return []
 
 def download_image(url, output_path):
@@ -116,7 +54,6 @@ def download_image(url, output_path):
     try:
         # Check if file already exists
         if output_path.exists():
-            print(f"  ✓ Already cached: {output_path.relative_to(SITE_ROOT)}")
             return True
 
         # Download with a user agent (some sites block requests without one)
@@ -156,61 +93,33 @@ def get_local_path(url):
     except Exception:
         return None
 
-def get_pinterest_400x_url(url):
-    """
-    Convert a Pinterest originals URL to a 400x thumbnail.
-
-    https://i.pinimg.com/originals/xx/yy/zz.ext -> https://i.pinimg.com/400x/xx/yy/zz.jpg
-    Returns None if not a Pinterest URL.
-    """
-    if 'i.pinimg.com/originals/' not in url:
-        return None
-
-    # Replace /originals/ with /400x/ and convert extension to .jpg
-    url_400x = url.replace('/originals/', '/400x/')
-    # Convert all image extensions to jpg
-    url_400x = re.sub(r'\.(png|webp|gif)($|\?)', r'.jpg\2', url_400x, flags=re.IGNORECASE)
-
-    return url_400x
-
 def main():
     check_mode = '--check' in sys.argv
+    site_dir = SITE_ROOT / '_site'
+    if '--site' in sys.argv:
+        site_dir = Path(sys.argv[sys.argv.index('--site') + 1])
 
     print(f"Site root: {SITE_ROOT}")
+    print(f"Built site: {site_dir}")
     print(f"Cache dir: {CACHE_DIR}")
     print(f"Mode: {'Check' if check_mode else 'Download'}\n")
 
-    if not PAGES_DIR.exists():
-        print(f"Error: {PAGES_DIR} not found", file=sys.stderr)
+    if not site_dir.exists():
+        print(f"Error: {site_dir} not found; build the site first", file=sys.stderr)
         sys.exit(1)
 
-    # Find all markdown files
-    md_files = list(PAGES_DIR.rglob('*.md'))
-    print(f"Found {len(md_files)} markdown files\n")
+    # Find all generated HTML files, skipping the cache itself
+    html_files = [f for f in site_dir.rglob('*.html') if 'assets' not in f.relative_to(site_dir).parts]
+    print(f"Found {len(html_files)} HTML files\n")
 
     urls_to_cache = set()  # Use set to avoid duplicates
-    missing_count = 0
-
-    # Collect all image URLs from front matter
-    for md_file in sorted(md_files):
-        front_matter = extract_front_matter(md_file)
-
-        if 'image' in front_matter:
-            url = front_matter['image']
-            if url.startswith('http://') or url.startswith('https://'):
-                urls_to_cache.add(url)
-
-        # Also collect from nested 'images:' section (e.g. gallery page)
-        for url in extract_images_section_urls(md_file):
-            urls_to_cache.add(url)
-
-        # Also collect from inline markdown images in the body
-        for url in extract_body_image_urls(md_file):
-            urls_to_cache.add(url)
+    for html_file in sorted(html_files):
+        urls_to_cache.update(extract_image_urls(html_file))
 
     print(f"Found {len(urls_to_cache)} unique image URLs\n")
 
-    # Process each URL
+    missing_count = 0
+    failed_count = 0
     for url in sorted(urls_to_cache):
         local_path = get_local_path(url)
 
@@ -222,31 +131,17 @@ def main():
             if not local_path.exists():
                 print(f"✗ Missing: {local_path.relative_to(SITE_ROOT)} <- {url}")
                 missing_count += 1
-            else:
-                print(f"✓ Cached:  {local_path.relative_to(SITE_ROOT)}")
-        else:
-            download_image(url, local_path)
-
-        # For Pinterest images, also cache the 400x thumbnail version
-        url_400x = get_pinterest_400x_url(url)
-        if url_400x:
-            local_path_400x = get_local_path(url_400x)
-
-            if check_mode:
-                if not local_path_400x.exists():
-                    print(f"✗ Missing: {local_path_400x.relative_to(SITE_ROOT)} <- {url_400x}")
-                    missing_count += 1
-                else:
-                    print(f"✓ Cached:  {local_path_400x.relative_to(SITE_ROOT)}")
-            else:
-                download_image(url_400x, local_path_400x)
+        elif not download_image(url, local_path):
+            failed_count += 1
 
     if check_mode:
         print(f"\n{missing_count} images missing from cache")
         if missing_count > 0:
             sys.exit(1)
     else:
-        print(f"\nCache update complete. Run with --check to verify.")
+        print(f"\nCache update complete; {failed_count} downloads failed. Run with --check to verify.")
+        if failed_count > 0:
+            sys.exit(1)
 
 if __name__ == '__main__':
     main()
