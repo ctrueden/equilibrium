@@ -26,4 +26,4 @@ descriptions:
       When Audreth invited his patron to look upon the false Afterworld realm, the Great Old One's gaze directly affected all agents, inducing madness tailored to each; agents experienced incomprehensible visions and psychic damage.
 ---
 
-[![](https://i.pinimg.com/originals/d9/7d/33/d97d334546eaf0603f1917710d8b76dd.jpg){:style="width:100%"}](https://www.pinterest.com/pin/66780006969423814/)
+{% include img src="https://i.pinimg.com/originals/d9/7d/33/d97d334546eaf0603f1917710d8b76dd.jpg" pin=66780006969423814 style="width: 100%" %}

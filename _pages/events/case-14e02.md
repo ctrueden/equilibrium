@@ -18,7 +18,7 @@ Bec realizes that this woman is [Lady Ilyana Nightshade](../dossiers/ilyana-nigh
 
 Freki is not about to agree to any of her terms. She snaps her fingers and figures start appearing out of nowhere, flanking her on both sides. They look like angels with broken-off wings, staring at her adoringly.
 
-[![](https://5e.tools/img/bestiary/tokens/ERLW/Radiant%20Idol.webp){:style="max-height:240px"}](https://2014.5e.tools/bestiary.html#radiant%20idol_erlw)
+{% include img src="https://5e.tools/img/bestiary/tokens/ERLW/Radiant%20Idol.webp" source="https://2014.5e.tools/bestiary.html#radiant%20idol_erlw" height=240 %}
 
 But the last one is [Vondal](../dossiers/vondal)! This lady is as surprised as the rest of us to see him.
 
@@ -40,7 +40,7 @@ Freki readies an arrow.
 
 Lady Nightshade offers Oz a potion and he makes to take it, but Callie slaps his hand in reaction.
 
-[![](https://i.pinimg.com/originals/d4/1c/bb/d41cbb3dd3c689e004a7d0bf1e77ba95.jpg){:style="max-height:240px"}](https://pinterest.com/pin/858287641476960518/)
+{% include img src="https://i.pinimg.com/originals/d4/1c/bb/d41cbb3dd3c689e004a7d0bf1e77ba95.jpg" pin=858287641476960518 height=240 %}
 
 Bec realizes Oz is acting strange and casts *dispel magic* on him. Freki tries to stop him from taking the potion, but Oz dodges! However, the charm is dispelled by the time he gets to the potion, so he tries to grab it and smash her in the face with it. He's been in a lot of bar fights, y'all! The glass...turns out to be a lot thicker than he thought and he has to make 4 Wisdom saving throws, lol.
 

@@ -48,9 +48,7 @@ The current player characters are:
 {%- for char in chars -%}
 {%- assign char-url = "/dossiers/" | append: char -%}
 {%- if p.url == char-url -%}
-<div style="display: inline-block; max-width: 128px; padding-right: 1em; text-align: center; vertical-align: top" markdown=1>
-[![{{p.title}}]({% include thumb-src src=p.image %}){:style="max-height: 128px"}<br>{{p.title}}]({{site.baseurl}}{{p.url}})
-</div>
+{% include img page=p.url width=128 height=128 caption=true %}
 {% comment -%} {%- endcomment -%}
 {%- endif -%}
 {%- endfor -%}
@@ -66,7 +64,7 @@ The known world is a single large continent called Aecus, with various
 phenomena at the periphery which have hindered exploration, due to the
 increasing inhospitality of the environment.
 
-[![](assets/images/aecus-map.jpg){:style="max-width: 100%; max-height: 80vh"}](assets/images/aecus-map.jpg)
+{% include img src="assets/images/aecus-map.jpg" link="assets/images/aecus-map.jpg" style="max-height: 80vh" %}
 
 There are several countries which have enjoyed an uneasy peace for the past
 half century. One of D&D's primary conceits is that there are [many intelligent

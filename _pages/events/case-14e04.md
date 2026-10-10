@@ -70,12 +70,7 @@ Bec is the one who opens the door, obviously. Inside is [the Hand](../relics/cel
 
 The hand is covered in symbols, many of which are written on the map upstairs. The [central ring symbol](../relics/ring), however, is not.
 
-{% include thumb
-src="https://i0.wp.com/www.thewitchery.ca/wp-content/uploads/2021/07/img_0638.jpeg"
-link="https://www.thewitchery.ca/product/celestial-palmistry-hand/"
-height="300px"
-title="The Celestial Hand -- for illustration only, actual symbols may differ"
-%}
+{% include img page="relics/celestial-hand" alt="The Celestial Hand -- for illustration only, actual symbols may differ" height=300 caption="The Celestial Hand -- for illustration only, actual symbols may differ" %}
 
 Observing the hand, Bec feels the presence of [Sartus Morningdew](../dossiers/sartus-morningdew). She realizes the hand has been cleansed, like the [Necronomicon](../relics/necronomicon). In fact, when the book was cleansed, it also cleansed the hand! Bec thinks back in her mind palace. She thinks the Necronomicon may have been [Invictus](../dossiers/timor-invictus)'s phylactery, in which case his soul was likely pushed out, and may once again reside in a living body. Vecna wanted Bec to know about the hand, but this part was a surprise. Did Vecna not know, then?
 

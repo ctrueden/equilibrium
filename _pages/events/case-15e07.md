@@ -28,11 +28,11 @@ After taking a swing at the Death Tyrant, Cal makes his way over to the sarcopha
 
 The Brucolac bursts out of the sarcophagus. Its wings unfurl in the air.
 
-![](https://i.pinimg.com/236x/58/fa/96/58fa9614c553e96ae8f991d29201a677.jpg) <!-- https://www.pinterest.com/pin/710935491179748007/ -->
+{% include img src="https://i.pinimg.com/236x/58/fa/96/58fa9614c553e96ae8f991d29201a677.jpg" link="none" %} <!-- https://www.pinterest.com/pin/710935491179748007/ -->
 
 With a wave of its hand, it clothes and armors itself. We can't see the wings anymore, but it can still fly.
 
-![](https://i.pinimg.com/236x/ca/8b/40/ca8b40a11a89aaa3b96fd3d779f12b6b.jpg) <!-- https://www.pinterest.com/pin/792281759426668026/ -->
+{% include img src="https://i.pinimg.com/236x/ca/8b/40/ca8b40a11a89aaa3b96fd3d779f12b6b.jpg" link="none" %} <!-- https://www.pinterest.com/pin/792281759426668026/ -->
 
 
 It stares straight at Cal and something seems to pass between them. For the first time since I've ever known him, Cal doesn't want to kill undead? SNAP OUT OF IT, CAL!
@@ -85,7 +85,7 @@ Cal touches the middle window.
 
 > GM's note: Cal has a vision of [Moradin](../dossiers/moradin) in full steampunk armor, as he forges the Arkenstone into a sword:
 >
-> ![](https://i.pinimg.com/236x/6a/f6/86/6af686a23088c1821a40ce87a8238e26.jpg) <!-- https://www.pinterest.com/pin/468515167466783890/ -->
+> {% include img src="https://i.pinimg.com/236x/6a/f6/86/6af686a23088c1821a40ce87a8238e26.jpg" link="none" %} <!-- https://www.pinterest.com/pin/468515167466783890/ -->
 >
 > "Mother... we will make them remember..."
 

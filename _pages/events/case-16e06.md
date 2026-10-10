@@ -10,7 +10,7 @@ session-event: https://www.facebook.com/events/4044263909139375/
 layout: session
 ---
 
-![](https://c.tenor.com/etj6ooaKL6cAAAAM/timeline-dont-do-it.gif)
+{% include img src="https://c.tenor.com/etj6ooaKL6cAAAAM/timeline-dont-do-it.gif" link="none" %}
 
 {% include tab id="callie" label="Callie's Journal" first=true %}
 
@@ -112,9 +112,9 @@ Oz is fidgeting with his dagger when he suddenly throws it with majestic accurac
 "The monkey statue? You said it shattered? How exactly did that happen?" are Mallory's last words before the scene fades and we find ourselves in the Chamber of Horrors. There's a pillar with dozens of arms sprouting out of it and a waterfall of blood pouring out of it. It has an enormous maw filled with teeth and Cassandra's head is involved somehow. This isn't better!
 
 <div style="display: inline-block; text-align: center" markdown=1>
-[![](https://i.pinimg.com/236x/0b/74/e0/0b74e0328b1e7b8cb62d069f49158360.jpg)](https://www.pinterest.com/pin/578220039690748349/)
+{% include img src="https://i.pinimg.com/236x/0b/74/e0/0b74e0328b1e7b8cb62d069f49158360.jpg" pin=578220039690748349 %}
 </div><div style="display: inline-block; text-align: center" markdown=1>
-[![](https://i.pinimg.com/236x/12/97/a9/1297a9329082921ead337e5776402064.jpg)](https://www.pinterest.com/pin/471118811020976151/)
+{% include img src="https://i.pinimg.com/236x/12/97/a9/1297a9329082921ead337e5776402064.jpg" pin=471118811020976151 %}
 </div>
 
 The monster with Cassandra's face has the monkey statue. One of the hands crushes the statue and the monster laps up some kind of energy from it.

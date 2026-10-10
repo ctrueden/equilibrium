@@ -197,7 +197,7 @@ Freki is a bounty hunter who venerates nature and despises magic. He prowls the 
 
 | Person | Hybrid | Beast |
 |-------|--------|-------|
-| [![Person](https://i.pinimg.com/originals/bf/6c/32/bf6c32901d1a100a8f1d2b47068dae67.jpg){:style="height: 250px"}](https://www.pinterest.com/pin/545498573597388522/) | [![Hybrid](https://static.wikia.nocookie.net/evenfall/images/7/76/Shifter_%282%29.jpg){:style="height: 250px"}](https://evenfall.fandom.com/wiki/Shifter) | [![Beast](https://i.pinimg.com/originals/84/84/29/848429b7e078c252073beb4511d79b8d.png){:style="height: 250px"}](https://www.pinterest.com/pin/645562927835781072/) |
+| {% include img src="https://i.pinimg.com/originals/bf/6c/32/bf6c32901d1a100a8f1d2b47068dae67.jpg" alt="Person" pin=545498573597388522 height=250 %} | {% include img src="https://static.wikia.nocookie.net/evenfall/images/7/76/Shifter_%282%29.jpg" alt="Hybrid" source="https://evenfall.fandom.com/wiki/Shifter" height=250 %} | {% include img page="dossiers/freki" variant="beast" alt="Beast" link="source" height=250 %} |
 
 ## Rules
 
@@ -289,11 +289,7 @@ See the [lycan ranger](../rules/lycan-ranger) rules.
 
 #### Beast Companions
 
-{% include thumb
-src="https://i.pinimg.com/originals/c8/a5/a4/c8a5a4bebefc16de2b5fdbce1e7c744b.jpg"
-link="https://www.pinterest.com/pin/66780006963767476/"
-title="Hugin and Munin"
-%}
+{% include img src="https://i.pinimg.com/originals/c8/a5/a4/c8a5a4bebefc16de2b5fdbce1e7c744b.jpg" alt="Hugin and Munin" pin=66780006963767476 height=200 caption="Hugin and Munin" %}
 
 Freki is bonded to the twin mystic ravens [Hugin](hugin) and [Munin](munin)[*](https://en.wikipedia.org/wiki/Huginn_and_Muninn). They are loyal to Freki but not beholden to him. Supernatural, of unknown origin.
 

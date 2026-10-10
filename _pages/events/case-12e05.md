@@ -22,7 +22,7 @@ After traveling for a while, [Freki](../dossiers/freki) reappears in a puff of b
 
 That evening, the party stops at beautiful tree:
 
-[![](https://i.pinimg.com/originals/3c/1a/71/3c1a71cd39e3f9d98e56c11a72333551.jpg){:style="width:200px"}](https://www.pinterest.com/pin/421227371400689295/)
+{% include img src="https://i.pinimg.com/originals/3c/1a/71/3c1a71cd39e3f9d98e56c11a72333551.jpg" pin=421227371400689295 width=200 %}
 
 As the sun sets, the fruit begins to glow, captivating everyone.
 
@@ -45,11 +45,11 @@ Oz dreams he's a pirate, raiding pirate ships and fighting pirate battles. While
 
 The others&mdash;Callie, Bec, [Cal](../dossiers/cal), and Freki&mdash;appear as well. They all find themselves on a forest path, with harmonious dwellings integrated:
 
-[![](https://i.pinimg.com/originals/23/b5/bb/23b5bb04b7cc095ca2481aac216b3826.jpg){:style="width:200px"}](https://www.pinterest.com/pin/421227371400689300/)
+{% include img src="https://i.pinimg.com/originals/23/b5/bb/23b5bb04b7cc095ca2481aac216b3826.jpg" pin=421227371400689300 width=200 %}
 
 This servant:
 
-[![](https://i.pinimg.com/originals/10/1c/1f/101c1f4aa873409099b855b0d0779eeb.jpg){:style="width:200px"}](../dossiers/rafflesia-wildfall)
+{% include img page="dossiers/rafflesia-wildfall" width=200 %}
 
 emerges from a door and asks them to come inside. She claims that [Ambriel Estanesse](../dossiers/ambriel-estanesse), Queen of the Seelie and Unseelie Courts, wants to speak with them.
 
@@ -57,15 +57,15 @@ Bec dispels the servant! But they decide to enter the door anyway.
 
 The queen is seated at a long table eating fairy wings:
 
-[![](https://i.pinimg.com/originals/52/ce/cc/52ceccb9d4fc52eca3e80ef5911cbf2e.jpg){:style="width:200px"}](https://www.pinterest.com/pin/421227371407463875/)
+{% include img src="https://i.pinimg.com/originals/52/ce/cc/52ceccb9d4fc52eca3e80ef5911cbf2e.jpg" pin=421227371407463875 width=200 %}
 
 When she lowers her hood, they get a better look at her:
 
-[![](https://i.pinimg.com/originals/7c/2c/a7/7c2ca7c156f4374967a619235d148cd4.jpg){:style="width:200px"}](https://www.pinterest.com/pin/406379566372036066/)
+{% include img src="https://i.pinimg.com/originals/7c/2c/a7/7c2ca7c156f4374967a619235d148cd4.jpg" pin=406379566372036066 width=200 %}
 
 But when her mood changes for the better, her appearance transforms:
 
-[![](https://i.pinimg.com/originals/30/c3/29/30c3294db371313914549193db4b429c.jpg){:style="width:200px"}](https://www.pinterest.com/pin/421227371404839716/)
+{% include img page="dossiers/ambriel-estanesse" width=200 %}
 
 She offers the assistance of the Seelie and Unseelie Courts if they agree to swear oaths:
 
@@ -78,7 +78,7 @@ Ozborn swears: "The sun in your kingdom shall not shine again upon this face," t
 
 Cal is shocked to see the ghost, and refuses to swear an oath with him. He offers to swear an oath with the Queen, but she smiles sadly and says that in 7 days' time, she will no longer be capable of enforcing such an oath. (The more astute and empathic amongst the SPI infer that the queen thinks she is going to die!) But the queen summons [Orsob](../dossiers/orsob), a satyr, to represent the Seelie Court, and Cal swears the oath of exile by drinking a cup of tea with him:
 
-[![](https://i.pinimg.com/originals/1f/7e/aa/1f7eaa8b1691a657d36bcc7ab02ede8a.png){:style="width:200px"}](https://www.pinterest.com/pin/803118546049660952/)
+{% include img page="dossiers/orsob" width=200 %}
 
 Callie swears the oath of service with Orsob, because she feels now is not the time for waffling!
 

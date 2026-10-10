@@ -81,7 +81,7 @@ Oz then kills Isis, running her through with the Hornblade. He moves to give a f
 
 Isis falls to the floor, her skin sloughing off, and she looks [like THIS](https://www.youtube.com/watch?v=rS00xWnqwvI):
 
-![](https://www.dndbeyond.com/avatars/thumbnails/26290/412/1000/1000/637900601272139887.jpeg){:style="width: 300px"}
+{% include img src="https://www.dndbeyond.com/avatars/thumbnails/26290/412/1000/1000/637900601272139887.jpeg" link="none" width=300 %}
 
 Bec recognizes the creature as a [doppelganger](../creatures/changelings)! She wasn't even sure they were real, or how many of the various conflicting stories are true. But here it is.
 
@@ -154,11 +154,11 @@ Sartus agrees completely, but expresses doubt that the book can be easily destro
 
 They decide not to cast *sending*, and go straight to the vault. It's an hour's walk through the city, from the ground floor on up through the city's various districts of lowtown, midtown, hightown, and finally the palace:
 
-[![Estanesse lowtown](https://i.pinimg.com/originals/50/1a/60/501a607d9ad6aae8fc55857413c46556.jpg){:style="max-width: 300px"}](https://www.pinterest.com/pin/182466222394582881/) [![Estanesse midtown](https://i.pinimg.com/originals/d3/04/b9/d304b9ef45f7251ebada4985721faa06.png){:style="max-width: 300px"}](https://www.pinterest.com/pin/595812225684411951/) [![Estanesse hightown](https://i.pinimg.com/originals/35/c5/2b/35c52bcd6d560f4a6196544a293055da.jpg){:style="max-width: 300px"}](https://www.pinterest.com/pin/844776842620971109/) [![Estanesse palace](https://i.pinimg.com/originals/77/c2/70/77c2701ad299681672e27c557b323af4.jpg){:style="max-width: 300px"}](https://www.pinterest.com/pin/5277724555033748/)
+{% include img src="https://i.pinimg.com/originals/50/1a/60/501a607d9ad6aae8fc55857413c46556.jpg" alt="Estanesse lowtown" pin=182466222394582881 width=300 %} {% include img src="https://i.pinimg.com/originals/d3/04/b9/d304b9ef45f7251ebada4985721faa06.png" alt="Estanesse midtown" pin=595812225684411951 width=300 %} {% include img src="https://i.pinimg.com/originals/35/c5/2b/35c52bcd6d560f4a6196544a293055da.jpg" alt="Estanesse hightown" pin=844776842620971109 width=300 %} {% include img src="https://i.pinimg.com/originals/77/c2/70/77c2701ad299681672e27c557b323af4.jpg" alt="Estanesse palace" pin=5277724555033748 width=300 %}
 
 They reach the treasury building, situated on a tree branch such that there is only one accessible entrance and exit. The entryway has a high vaulted ceiling with a walkway of quite some length, beyond which is the treasure room proper, protected by several elite elven guards.
 
-[![Estanesse palace treasury exterior](https://i.pinimg.com/originals/87/31/de/8731de778fd477cc4f3283effec3f80c.png){:style="max-width: 300px"}](https://www.pinterest.com/pin/515591857352151979/)
-[![Estanesse palace treasury entryway](https://i.pinimg.com/originals/bc/6e/c2/bc6ec292572e527c28adafbd19c3f7c0.jpg){:style="max-width: 300px"}](https://www.pinterest.com/pin/145522631701247945/)
+{% include img src="https://i.pinimg.com/originals/87/31/de/8731de778fd477cc4f3283effec3f80c.png" alt="Estanesse palace treasury exterior" pin=515591857352151979 width=300 %}
+{% include img src="https://i.pinimg.com/originals/bc/6e/c2/bc6ec292572e527c28adafbd19c3f7c0.jpg" alt="Estanesse palace treasury entryway" pin=145522631701247945 width=300 %}
 
 At the building's entrance, a figure stands with his back turned. As the party approaches, he turns around&mdash;it is Tybalt. He looks angrily at Sartus. "I *knew* you wouldn't listen to me."

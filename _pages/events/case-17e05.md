@@ -13,7 +13,7 @@ layout: session
 
 [Kavaki](../dossiers/kavaki) draws us a map so we can better understand the layout of the stables:
 
-![](../assets/images/storm-stables-kavaki-map.jpg){:style="width: 500px; max-width: 100%"}
+{% include img src="../assets/images/storm-stables-kavaki-map.jpg" link="none" width=500 %}
 
 We discuss whether Kavaki might be able to get a personal audience with [Rhyzophus](../dossiers/rhyzophus). She could lie and pretend it's some behir-related emergency, but [Oz](../dossiers/oz)'s vibe is that she's not great at deception.
 

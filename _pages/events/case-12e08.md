@@ -20,7 +20,7 @@ Freki shoots a grappling arrow at Enoki and Cornelius, hooking them and pulling 
 
 The other agents continue to advance cautiously until they are outside the threshold... when they suddenly hear a voice behind them. The illusion dissipates, and standing at the edge of the previously concealed pit is a fully armored knight clad in green armor made of wood and bone:
 
-[![](https://i.pinimg.com/originals/e7/d4/d0/e7d4d0eed01f418dd94354a1d0d5219d.jpg){:style="width:200px"}](https://www.pinterest.com/pin/283375001525217177/)
+{% include img src="https://i.pinimg.com/originals/e7/d4/d0/e7d4d0eed01f418dd94354a1d0d5219d.jpg" pin=283375001525217177 width=200 %}
 
 Speaking in a masculine voice, the knight demands they cease their attempts to interfere with the Fruit, or face destruction. "Leave or perish. The fruit must not be disturbed." The scholars in the group recognize this figure as a Green Knight, a supernatural fey creature summoned to aid the cause of the wilds in times of need.
 
@@ -42,7 +42,7 @@ Freki's bird companions [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin
 
 At the same time, a series of mental attacks on Oz commences. Oz feels his body begin to pulse and stretch&mdash;some foul magic is happening to him. Resisting with all his might, the disturbance dies down... and then begins again as strong as ever as a figure concealed head to toe in a cloak of leaves, feathers, and bone appears at the edge of the thornbush, crying out in frustration.
 
-[![](https://3.bp.blogspot.com/-NZhXneP2ebs/WqGsLjOZsDI/AAAAAAAAV54/trjq-bZb6nI2yVtYfMxgWGptn7L8AAdtwCK4BGAYYCw/s1600/druid-2.jpg){:style="width:200px"}](http://www.castlemacdnd.com/2018/03/lost-mine-of-phandelver-character.html)
+{% include img src="https://3.bp.blogspot.com/-NZhXneP2ebs/WqGsLjOZsDI/AAAAAAAAV54/trjq-bZb6nI2yVtYfMxgWGptn7L8AAdtwCK4BGAYYCw/s1600/druid-2.jpg" source="http://www.castlemacdnd.com/2018/03/lost-mine-of-phandelver-character.html" width=200 %}
 
 Bec theorizes on the spot that at least two different people must be using magic on Oz, since one person could not have hit him twice with such a powerful spell so quickly. Unfortunately for our plucky murder machine, the second time he does not muster sufficient resistance, and he feels his body and mind crunched into a tiny metaphysical ball and reformed into... a [giant narwhal](https://www.5esrd.com/database/creature/giant-narwhal/)!
 
@@ -50,7 +50,7 @@ Bec theorizes on the spot that at least two different people must be using magic
 
 Freki demands that she/they turn Oz back. When she refuses, Freki attacks, transforming, tearing into the spellcaster and knocking off her mask with two powerful claw attacks. Under the skull mask, they see:
 
-[![](https://i.pinimg.com/originals/2f/b5/d0/2fb5d05ce538861218a9618d13f1da32.png){:style="width:200px"}](image-source: https://www.pinterest.com/pin/3659243437521066/)
+{% include img page="dossiers/isis-raksh" width=200 %}
 
 "[Isis](../dossiers/isis-raksh)! What are you doing?" exclaims [Eixam](../dossiers/eixam). Callie and others get the impression that Eixam is surprised and frustrated that Isis is here, doing this. Eixam transforms into a swarm of vermin: locusts, spiders, scorpions, and centipedes, rolling over Isis and nearby thorns, devouring everything in their path, and lacing Isis with innumerable bites and stings.
 

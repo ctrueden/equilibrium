@@ -18,7 +18,7 @@ Vondal shows her the SPI badge (?). She says, "You are the ones we need." She th
 
 [Freki](../dossiers/freki) shoots into the rift with a lightning arrow and the Flux snaps the angel's arm off at the elbow. She's kinda pissed! And also made out of mouths! The mouths shriek, "We will consume you aaaaaalllllll!"
 
-[![](https://i.pinimg.com/originals/77/be/6b/77be6be97547963b4cd34e69c637c2a2.jpg){:style="max-height:300px"}](https://www.pinterest.com/pin/454441418662038437/)
+{% include img src="https://i.pinimg.com/originals/77/be/6b/77be6be97547963b4cd34e69c637c2a2.jpg" pin=454441418662038437 height=300 %}
 
 "We should kill these people," says [Oz](../dossiers/oz).
 
@@ -28,7 +28,7 @@ Vondal shows her the SPI badge (?). She says, "You are the ones we need." She th
 
 The magic surrounding the sexy Chippendale angels breaks, and they turn into glowing balls of light with faintly visible visages within.
 
-[![](https://i.pinimg.com/originals/f7/55/bb/f755bbb37e902e49c8a291c81b56a67c.jpg){:style="max-height:300px"}](https://www.pinterest.com/pin/560768591098538655/)
+{% include img src="https://i.pinimg.com/originals/f7/55/bb/f755bbb37e902e49c8a291c81b56a67c.jpg" pin=560768591098538655 height=300 %}
 
 A residual psychic echo enwreathes the balls of light: fading images of [flaming skulls](../creatures/flameskulls), which they once were. The charm they were running on Oz broke when they became heads, so he's only charmed by the angel now.
 
@@ -159,7 +159,7 @@ We spent quite some time figuring this out!
 
 On the Nature/Nature square is a symbol representing the [Divine Mother Gaia](../dossiers/gaia), perhaps the source of all life:
 
-[![](https://i.pinimg.com/originals/5d/e1/79/5de17948ce8e608fd3ad5a606cdb9c34.jpg){:style="max-height:300px"}](https://www.pinterest.com/pin/551761391846383889/)
+{% include img src="https://i.pinimg.com/originals/5d/e1/79/5de17948ce8e608fd3ad5a606cdb9c34.jpg" pin=551761391846383889 height=300 %}
 
 She predates the [eternals](../creatures/eternals), according to legend. Cal recognizes the symbol as appearing once on a letter [his father](../dossiers/hyperion) got once. He mentions that his dad claimed that he "used to be a god" and talked about things he would do if he still had his full power.
 
@@ -167,7 +167,7 @@ It turns out that when we touch our own symbols, they light up, wow! But before 
 
 Something floats out of the servant's quarters while Cal and Vondal are looking at the door. It's [a giant neck-head thing followed by a suit](../dossiers/roger). "You won't get in there," he says helpfully.
 
-[![](https://i.pinimg.com/originals/4f/29/27/4f292710e7b577e4637622a351ebf9e5.jpg){:style="max-height:300px"}](https://www.pinterest.com/pin/219339444324476393/)
+{% include img page="dossiers/roger" height=300 %}
 
 "I believe the Master is expecting us," says Cal ominously.
 

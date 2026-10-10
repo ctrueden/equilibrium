@@ -2,7 +2,7 @@
 title: Aecus
 ---
 
-[![](../assets/images/aecus-map.jpg){:style="max-width: 100%; max-height: 80vh"}](../assets/images/aecus-map.jpg)
+{% include img src="../assets/images/aecus-map.jpg" link="../assets/images/aecus-map.jpg" style="max-height: 80vh" %}
 
 Aecus is the name of the known world, consisting of eight nations:
 

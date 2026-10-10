@@ -28,7 +28,7 @@ Callie begins levitating, towed by Freki, who is now flying thanks to another *f
 
 For the first 20 minutes, the monkey struggles to carry both Oz and Cal at the same time. But then out of nowhere, she grows *huge divine wings*! Oz has vision of a woman in a dark cloak, face down, turning... on the other side, a red-haired woman in a green and yellow dress:
 
-[![](https://greyhawkonline.com/greyhawkwiki/images/4/46/Yondalla.jpg)](https://greyhawkonline.com/greyhawkwiki/images/4/46/Yondalla.jpg)
+{% include img src="https://greyhawkonline.com/greyhawkwiki/images/4/46/Yondalla.jpg" source="https://greyhawkonline.com/greyhawkwiki/images/4/46/Yondalla.jpg" %}
 
 The next ten minutes are easier going, although the agents hear continual buzzing in the distance, and surmise that Eixam must be shadowing them. Freki's ravens confirm this fact.
 
@@ -44,7 +44,7 @@ Another *sending* follows shortly thereafter:
 
 Soon, the party reaches a place where there is a thick mist around a large branch of the Tree. The party has a sense that something of import is happening, as the mist parts and a regal tree-like creature emerges from the tree trunk:
 
-[![](https://i.pinimg.com/236x/3d/f0/5c/3df05c2b56886d9caf8dd5f895b10b4c.jpg)](../dossiers/phoebe)
+{% include img page="dossiers/phoebe" %}
 
 Some agents identify her as a creature called a [hamadryad](../creatures/dryads#hamadryads), a powerful dryad bonded not to a single tree, but rather an entire forest.
 
@@ -58,7 +58,7 @@ Eixam buzzes over, radiating even more fury and hatred than usual. They tell the
 
 Phoebe takes everyone, including Eixam, through the tree trunk to a very beautiful place. They see the Fruit they've been looking for!
 
-[![](https://i.pinimg.com/originals/db/6a/eb/db6aeb6a09364184dbb3deb9cb4566ed.png){:style="width:400px"}](https://www.pinterest.com/pin/551409548100086588/)
+{% include img page="events/case-12e07" variant="heart" link="source" width=400 %}
 
 Unfortunately, it's way too big to put in the portable hole or otherwise transport.
 

@@ -28,7 +28,7 @@ The agents spend some time trying to decide how to proceed without getting near 
 
 Surveying the area around them, while discussing how to proceed from there, Freki's ravens report that someone is closing in on their position. After a short while, a tiny mushroom man riding a poodle moth comes into view!
 
-[![](https://i.pinimg.com/originals/88/d7/62/88d76251487db1e123294759ca0ac34e.jpg){:style="width:200px"}](../dossiers/enoki) [![](https://i.pinimg.com/236x/a4/bd/fe/a4bdfef059791096661ca1599e3bc284.jpg){:style="width:163px"}](https://www.pinterest.com/pin/162340761559739851/)
+{% include img page="dossiers/enoki" width=200 %} {% include img src="https://i.pinimg.com/236x/a4/bd/fe/a4bdfef059791096661ca1599e3bc284.jpg" pin=162340761559739851 width=163 %}
 
 After being berated by the creature for riling up the mushrooms, the agents try to explain the situation. [Vondal](../dossiers/vondal) is on the same wavelength with the mushroom druid, who they learn is named [Enoki](../dossiers/enoki), and his moth companion is Cornelius. Enoki and Cornelius fly down to the center of the mushroom field, and the cranky little man begins shouting at the mushrooms and bludgeoning them with his staff, which causes them to recede one by one. After a little while, the agents complain that this approach is going to take forever, and the group arrives at a solution: Enoki can lead a ritual to calm all the mushrooms at once, with the help of the SPI agents.
 

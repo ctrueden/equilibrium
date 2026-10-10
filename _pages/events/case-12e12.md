@@ -69,9 +69,9 @@ In the throne room, the party emerges from the two sides of the giant throne mad
 
 The [Queen](../dossiers/ambriel-estanesse)/[Zuggtmoy](../dossiers/zuggtmoy) is chained to the throne with roots wrapped in cold iron:
 
-[![Estanesse palace throne room](https://i.pinimg.com/originals/15/97/aa/1597aa682e3ec06fca7d9b3a9d5acb20.jpg){:style="max-width: 300px"}](https://www.pinterest.com/pin/161074124166559381/)
+{% include img src="https://i.pinimg.com/originals/15/97/aa/1597aa682e3ec06fca7d9b3a9d5acb20.jpg" alt="Estanesse palace throne room" pin=161074124166559381 width=300 %}
 
-![Chained queen](../assets/images/queen-chained.png){:style="max-width: 300px"}
+{% include img src="../assets/images/queen-chained.png" alt="Chained queen" link="none" width=300 %}
 
 [Celes Skyfall](../dossiers/celes-skyfall) the paladin is there. She is shocked to see them appear, but moves to block them from advancing any closer.
 

@@ -20,4 +20,4 @@ The Divine All-Mother, believed by many to be the source of all life. According 
 
 Gaia has many symbols. Here is one that agents of the [SPI](../orgs/spi) encountered at [Evershroud Manor](../locales/evershroud-manor) during [case 14](../events/case-14e03):
 
-[![](https://i.pinimg.com/originals/5d/e1/79/5de17948ce8e608fd3ad5a606cdb9c34.jpg){:style="max-height:300px"}](https://www.pinterest.com/pin/551761391846383889/)
+{% include img src="https://i.pinimg.com/originals/5d/e1/79/5de17948ce8e608fd3ad5a606cdb9c34.jpg" pin=551761391846383889 height=300 %}

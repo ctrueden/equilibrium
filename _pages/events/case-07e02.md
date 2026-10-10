@@ -10,7 +10,7 @@ session-event: https://www.facebook.com/events/1943261149281604/
 layout: session
 ---
 
-[![Invictus Manor](https://i.pinimg.com/videos/thumbnails/originals/92/67/57/9267577e8a369e556eeb674fe4b2996d.0000000.jpg){:style="max-width: 300px"}](https://www.pinterest.com/pin/647814727668335598/)
+{% include img src="https://i.pinimg.com/videos/thumbnails/originals/92/67/57/9267577e8a369e556eeb674fe4b2996d.0000000.jpg" alt="Invictus Manor" pin=647814727668335598 width=300 %}
 
 * Went to spooky manor.
 * Went through foyer to parlor. Met Priscilla Stormcloud.
