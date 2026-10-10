@@ -8,6 +8,118 @@ session-number: 101
 session-date: 2026-06-26
 layout: session
 review_needed: true
+callie_journal: >-
+  I'm so excited I start flapping my wings like a hummingbird. I know these guys! "Noffindorfs! It's them!" I call down to Bec, as quietly as I can. Nobody noticed anything. I'm sneaky! =D
+
+  The three rainbow guys proceed through the office and are greeted by Taylin. I can't hear a thing inside. They go upstairs.
+
+  That seems like a good opportunity to head down and tell Bec what's going on. She's even heard of the Noffindorfs. They sure are well-gnome! Hehehe.
+
+  Once I'm done filling in Bec, I fly back up to see if I can listen through the windows up there. I can still smell the coffee pot out here, but I'm pretty much down-window, hehehe.
+
+  Meanwhile, across the street, Oz and Freki are watching the entrance to see who's coming and going. Suddenly there's a scraping sound behind them. It's Vex, with food.
+
+  Vondal wonders where Bec and I are, and gets something like a psychic flash that reveals where we are, and in relation, where Kerwin is and how he is accompanied by gnomes. Kerwin, it turns out, even *feels* stinky. That's really some curse, that coffee pot curse. Vondal sends a message to Bec, who replies telling him that the Noffindorfs are in there with Kerwin.
+
+  While he's doing WORK, Freki and Oz tuck into the food. Did you think I wouldn't find out?!
+
+  But you know, Oz is a hobbit and Freki is hungry like the wolf, so they just start eating.
+
+  Vex starts explaining the food. It starts with "saltbreak," the foundation of the meal. It's salty, but there's a hint of the air before a storm. There are a variety of dishes, including "cold ember broth" and brimstone pickles. Why are they on this date with Vex, and not me? Unfair!
+
+  Obviously, I am not enjoying any of this, as I'm straining my ears to hear what's happening in Kerwin's office. "We are prepared to make you a substantial offer. We understand your reluctance to part with the artifact, but as it so happens, we have a personal interest in this and are prepared to double our previous offer. With this you could retire and live comfortably for the rest of your life. And in addition, we can offer you a cure?"
+
+  Kerwin thinks the very idea is preposterous, but the Noffindorfs claim they never fail at their endeavors. Kerwin wants his contracts expert to look at it. "Taylin! Get in here!" he calls.
+
+  The green Noffindorf was trembling slightly when they placed the contract. From the indigo girl (hehe) I sense something like desperation.
+
+  Taylin comes in and says "Yes?" She sounds...strange. She looks like she's about to cry. Her eyes are moist. And yet, beneath the tears...she's furious. My estimation of her improves, and I also feel bad for her. We've got to get her out of this. She flips the pages like a speed reader and declares it perfect.
+
+  "Wow, a ringing endorsement! That's very rare from you, Taylin!" says Kerwin, and reads a couple of pages. "I've seen enough. No deal."
+
+  "What do you mean no deal? This is an offer that we cannot improve upon. Surely you understand that."
+
+  Kerwin does indeed, but he doesn't want it. He would be interested to know if they can *prove* they can cure his condition. The Noffindorfs can barely contain their rage at being refused, but they leave without violence.
+
+  All of a sudden in the quiet, I realize there's a flapping sound. One of my wings is hitting the wall! Oh no!!! Kerwin stands up and whirls around, scrutizing the space where I would obviously be if I were visible. Y-i-i-i-k-e-s!
+
+  Kerwin starts whistling. It sounds purposeful, but not necessarily loud. Nothing happens. He says "Stupid imps!" and closes the window, locking it. Ooh, that's a good cover for me. If anyone asks, that was an imp in the back alley and not someone with no stealth skill whatsoever. The odor from the coffee pot lessens after the window shuts.
+
+  Across the street, Vondal notes that the rainbow gnomes have left the building looking dejected. Bec tells him telepathically that Kerwin came to the window and closed it. She doesn't know whether he saw me or not. But it's only moments before I'm on the ground. I quickly fill her in, and we wonder if maybe Taylin would like a drink or seven. I bet she would!
+
+  Vondal and co. watch the Noffindorfs get in their vehicle. It has cool doors that open up somehow. Wild! The boys are getting ready to follow it, when it suddenly collapses in on itself and vanishes without a trace. Vondal updates Bec that they have departed this plane of existence.
+
+  Bec tells him that we have a plan. If Taylin comes out, tail her. They will be tailin' Taylin. We're going to get her liquored up and find out of what she needs to unburden herself. "Bec's plan is to seduce Sad Woman with alcohol and get her to spill her boss's secrets." I mean, it sounds kinda dumb when you say it like that, but this is a solid plan!
+
+  I fly back up to see where Taylin is. Kerwin bellows for her attendance again. She's sitting at her desk, looking at a sheet of paper. She stands up, opens a drawer in her desk, and pulls out a little bag that she ties to her belt. She walks resolutely to the stairs.
+
+  I follow her up, naturally, and fly around to the window that's still open. Now she's wearing a mask that covers her mouth and nose.
+
+  Kerwin is confused about why she's wearing a mask. She says the harbor mask is aggravating her lungs. The mask looks like a leather and brass safety mask. Even so,
+
+  He tells her the contract had defects, and as an expert, she should have known better. So why did she give him blatant bad advice? They're staring daggers at each other. I lean forward and my nose touches the glass. I quickly move back.
+
+  She thinks it would be good for him to take the deal. He tells her she should stay professional. She says this is the kind of contract he's been waiting for. He's disappointed, sure, but he doesn't believe they can follow through on their promises. They back-and-forth a bit, and he refuses to part with the coffee pot for even a single day. She looks disappointed, but resolute. She pulls out a knife and stabs him straight in the chest.
+
+  Vondal tells Bec that nothing's going on out front. Nobody's come out yet.
+
+  A gross yellow ooze comes out of the wound. She wipes the knife on him, resheaths the knife, and puts it back in the little bag. "Holy crap holy crap holy crap! I really did it! I gotta get out of here!" She grabs the coffee pot and stuffs it into the bag.
+
+  ("Telling dad jokes without being a father is a real...faux pa" says Nate, out of game. "What do you call an alligator in a vest? An in-vesti-gator" says Allen. I just wanted to note that.)
+
+  I flap the hell back to the ground, while Bec and Vondal make plans to follow Taylin.
+
+  She tries to tell me the guys are tailin' Taylin, but I interrupt to tell him Taylin killed him! She killed Kerwin! Stabbed him right in the chest! Bec still wants to go through with the plan. OK! Coolcoolcool!
+
+  With Vondal's direction, we work our way through the streets to intercept Taylin "by accident." Freki and Oz follow on the rooftops. Freki notices Vex slipping around a corner.
+
+  Bec makes herself visible again and goes over to talk to Taylin. "Heeeeeyyyyy gurl!" she says.
+
+  Taylin jumps. "What are you doing here?" she demands.
+
+  Bec says we came back to see her, because she was so pleasant before. Would she care for a drink?
+
+  About this time, it occurs to me, I may have been able to help Kerwin. Maybe. He did seem awfully dead.
+
+  Taylin tries to say it's been a long day and maybe another time, but I jump in and ask if she could show us a good place for a drink. "Oh, this isn't the right part of town for that! Not for people like us," says Taylin, and adds that we should keep moving. Weird for a legit business to be located in a shady area, but I guess it isn't exactly a legit business.
+
+  Oz artlessly falls off a building into the street in front of us. He wants drinks too! He mentions how each bar seems to have a color theme, which reminds him he's still dressed like Kerwin, haha. As soon as he changes his clothes, Taylin visibly exhales.
+
+  "Where did you come from?" Taylin asks hesitantly.
+
+  Then Freki pops out of nowhere, like that helps. "We were just playing this game, because he's so small...I just throw him as hard as I can. We call it jumpy-tossy."
+
+  "What do you want from me?" she asks, now sounding genuinely perplexed.
+
+  Bec says we wanted to make sure she's okay, since her work environment is awkward."
+
+  "It's not awkward at all, I love my job," she says smoothly.
+
+  "Are there any more of you?" she asks, as we get underway again.
+
+  "We do have a man in a hole," says Oz. Freki opens up the portable hole and Vondal crawls out.
+
+  Vondal introduces himself.
+
+  On our way, Oz smoothly sidles up to her and tries Panache. Honestly, it rarely fails. And yet...it fails. She says she'd tooooootally love to...some other time. Denied! LOL. LMAO. Hey, it happens to all guys sometimes!
+
+  Bec is attuned to magic that causes emotions in others, and she studied the cursed carafe. She knows, and none of the rest of us notice, that Taylin has kind of a shield against this kind of charm.
+
+  "We have to keep him talking!" Bec whispers to Vondal, through their secret telepathy.
+
+  "Ow! Ow! I was in that hole so long I pulled a hammy!" Vondal groans.
+
+  While Taylin is leaning over Vondal trying to help, Bec tells Oz why his Panache failed.
+
+  "Hold my spider!" says Vondal, handing Murky (in spider form) to her.
+
+  She's surprisingly charmed by Murky, once she's assured that it doesn't bite.
+
+  Bec suggests that I heal Vondal. Oh yeah, that is what I do. I make a big show out of it. In the name of AVANDRA, be GONE, ye minions of hamstring pain! Vondal is still hamming it up, so Freki just picks him up and throws him over a shoulder.
+
+  At this point, Bec could really use a drink, as could I. Probably Taylin too, if we're being honest.
+
+  A shady-looking man steps out of the shadows and says, "I know of a good bar, sweetheart. Want me to show you?"
 summary: >-
   The night took a sharp turn when a magical bubble vehicle glided silently up
   to Kerwin's office building and disgorged three short, cloaked figures onto
