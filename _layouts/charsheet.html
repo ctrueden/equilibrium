@@ -473,6 +473,13 @@
                 <span class="cs-stat-label">Spell Atk Bonus</span>
               </div>
             </div>
+            {%- if cs.spells and cs.spells.size > 0 -%}
+            <dl class="cs-traits">
+              {%- for s in cs.spells -%}
+              <dt>{{ s.level }}</dt><dd>{{ s.list }}</dd>
+              {%- endfor -%}
+            </dl>
+            {%- endif -%}
           </div>
           {%- endif -%}
 
