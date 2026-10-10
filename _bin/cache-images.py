@@ -28,7 +28,7 @@ def extract_front_matter(file_path):
             content = f.read()
 
         # Match front matter between --- delimiters
-        match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
+        match = re.match(r'\A---\n(.*?)^---$', content, re.DOTALL | re.MULTILINE)
         if not match:
             return {}
 
@@ -59,7 +59,7 @@ def extract_images_section_urls(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
+        match = re.match(r'\A---\n(.*?)^---$', content, re.DOTALL | re.MULTILINE)
         if not match:
             return []
 
@@ -99,7 +99,7 @@ def extract_body_image_urls(file_path):
             content = f.read()
 
         # Strip front matter so we only scan the body
-        body = re.sub(r'^---\n.*?\n---\n', '', content, count=1, flags=re.DOTALL)
+        body = re.sub(r'\A---\n.*?^---$\n?', '', content, count=1, flags=re.DOTALL | re.MULTILINE)
 
         urls = []
         for m in re.finditer(r'!\[[^\]]*\]\((https?://[^)\s]+)\)', body):
