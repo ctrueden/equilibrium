@@ -20,9 +20,9 @@ for md_path in sorted(basedir.rglob("*.md")):
     if attrs: entry.update(attrs)
     # Strip unwanted markup from document body.
     pattern = (
-        "|<style.*?</style>"  # <style> block
+        "<style.*?</style>"  # <style> block
         "|<script.*?</script>"  # <script> block
-        "{{[^}]*}}"  # liquid variable
+        "|{{[^}]*}}"  # liquid variable
         "|{%[^}]*%}"  # liquid directive
         "|<[a-zA-Z/!].*?>"  # HTML tag
     )

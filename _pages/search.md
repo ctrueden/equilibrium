@@ -60,7 +60,7 @@ let idx = null;
 
 // Front-matter keys that are structural/meta rather than searchable content.
 const SKIP_FIELDS = new Set([
-    'case', 'id', 'image', 'image-source', 'layout', 'link', 'link2',
+    'case', 'id', 'layout', 'link', 'link2',
     'reviewed', 'session-number', 'session-date', 'datestamp', 'when', 'wiki'
 ]);
 
@@ -87,7 +87,7 @@ function collectText(value) {
     if (Array.isArray(value)) return value.map(collectText).join(' ');
     if (value && typeof value === 'object') {
         return Object.entries(value)
-            .filter(([k]) => !SKIP_FIELDS.has(k))
+            .filter(([k]) => !SKIP_FIELDS.has(k) && !k.startsWith('image'))
             .map(([, v]) => collectText(v))
             .join(' ');
     }
