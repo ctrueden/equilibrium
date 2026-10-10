@@ -6,21 +6,25 @@ Usage:
   {% include img page="dossiers/serelda-voth" %}
   {% include img page="dossiers/serelda-voth" variant="elf" width=200 %}
   {% include img page="gm/dossiers/galloc" height=300 link="source" caption=true %}
-  {% include img src="https://i.pinimg.com/originals/xx/yy/zz.jpg" pin=123456 alt="Preen" %}
+  {% include img pinimg="5ee7bd04834a95dcf93e6119cdcf6aa4.jpg" pin=123456 alt="Preen" %}
+  {% include img src="https://example.com/some/image.png" source="https://example.com/" %}
 
-Arguments (all optional, but one of page or src is required):
+Arguments (all optional, but one of page, src or pinimg is required):
 
   page    - Path of a wiki page under _pages, without the .md extension.
             Supplies the image (image), source (image-source) and alt text (title).
   variant - Use image-<variant> and image-<variant>-source of the page instead.
   src     - Image URL. Overrides the page's image, if any.
+  pinimg  - Pinterest image file name, e.g. 5ee7bd04834a95dcf93e6119cdcf6aa4.jpg,
+            shorthand for src=https://i.pinimg.com/736x/5e/e7/bd/<pinimg>.
   source  - URL where the image came from. Overrides the page's image source.
   pin     - Pinterest pin ID; shorthand for source=https://www.pinterest.com/pin/<pin>/.
   alt     - Alt text. Defaults to the page title.
   width   - Maximum display width in pixels.
   height  - Maximum display height in pixels.
   link    - What clicking the image does: "page", "source", "none", or a URL.
-            Defaults to "page" when page is given, otherwise "source".
+            Defaults to "page" when page is given (unless it is the current
+            page), otherwise "source".
   caption - Text shown beneath the image (markdown allowed),
             or true to show the page title, linked like the image.
   align   - "left" or "right" to float the image with text wrapping around it,
@@ -30,12 +34,19 @@ Arguments (all optional, but one of page or src is required):
 
 When a width or height is given, Pinterest images are fetched at the smallest
 scale that still looks crisp at twice that size (for high-density screens):
-236x, 400x or 736x. Without a size, the image URL is used as given.
+236x, 400x or 736x. Without a size, the image URL is used as given
+(736x for pinimg).
 {%- endcomment -%}
 
 {%- assign error = nil -%}
 {%- assign target = nil -%}
 {%- assign src = include.src -%}
+{%- if include.pinimg -%}
+  {%- assign pinimg = include.pinimg | replace: ".png", ".jpg" | replace: ".webp", ".jpg" | replace: ".gif", ".jpg" -%}
+  {%- capture src -%}
+    https://i.pinimg.com/736x/{{pinimg | slice: 0, 2}}/{{pinimg | slice: 2, 2}}/{{pinimg | slice: 4, 2}}/{{pinimg}}
+  {%- endcapture -%}
+{%- endif -%}
 {%- assign source = include.source -%}
 {%- assign alt = include.alt -%}
 
@@ -59,7 +70,7 @@ scale that still looks crisp at twice that size (for high-density screens):
     {%- capture error -%} page '{{include.page}}' not found {%- endcapture -%}
   {%- endif -%}
 {%- elsif src == nil -%}
-  {%- assign error = "page or src is required" -%}
+  {%- assign error = "page, src or pinimg is required" -%}
 {%- endif -%}
 
 {%- if include.pin -%}
@@ -101,7 +112,7 @@ scale that still looks crisp at twice that size (for high-density screens):
 {%- endif -%}
 
 {%- comment -%} Link target. {%- endcomment -%}
-{%- if target -%}
+{%- if target and target.url != page.url -%}
   {%- assign link = include.link | default: "page" -%}
 {%- else -%}
   {%- assign link = include.link | default: "source" -%}
