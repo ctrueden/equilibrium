@@ -7,7 +7,7 @@ when: AC50 Vis 22
 session-number: 103
 session-date: 2026-09-19
 layout: session
-review_needed: true
+reviewed: false
 summary: >-
   The morning began with the team assembling in the communal briefing room at
   SPI Headquarters, where the real Mallory—not his changeling double,

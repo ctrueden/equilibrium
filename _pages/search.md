@@ -61,7 +61,7 @@ let idx = null;
 // Front-matter keys that are structural/meta rather than searchable content.
 const SKIP_FIELDS = new Set([
     'case', 'id', 'image', 'image-source', 'layout', 'link', 'link2',
-    'review_needed', 'session-number', 'session-date', 'datestamp', 'when', 'wiki'
+    'reviewed', 'session-number', 'session-date', 'datestamp', 'when', 'wiki'
 ]);
 
 // Strip obvious Markdown/HTML markup so neither the index nor the displayed

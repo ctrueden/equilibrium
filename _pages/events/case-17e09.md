@@ -7,7 +7,7 @@ when: AC50 Vis 13
 session-number: 96
 session-date: 2026-01-17
 layout: session
-review_needed: true
+reviewed: false
 callie_journal: >-
   Because Oz is getting bitten by Freki, I move over to see if there's any way I can help. Not like I have any good ideas.
 

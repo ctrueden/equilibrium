@@ -7,7 +7,7 @@ when: AC50 Vis 22
 session-number: 100
 session-date: 2026-06-06
 layout: session
-review_needed: true
+reviewed: false
 callie_journal: >-
   As we enter, we see there are a couple of tieflings here.
 

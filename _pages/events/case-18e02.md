@@ -7,7 +7,7 @@ when: AC50 Vis 22
 session-number: 99
 session-date: 2026-05-09
 layout: session
-review_needed: true
+reviewed: false
 callie_journal: >-
   I've never been to Trell before. My first impression: it's kind of a craphole. Second impression: the residents make up for it. They're a pretty attractive bunch! Our contact here is Vex, an egregiously charismatic man who operates out of a pretty terrible little room.
 

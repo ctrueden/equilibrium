@@ -7,7 +7,7 @@ when: AC50 Vis 22
 session-number: 98
 session-date: 2026-04-04
 layout: session
-review_needed: true
+reviewed: false
 callie_journal: >-
   In strange news, the clamulet that I gave Oz isn't...quite the same one? Because I still have the original one. The one Oz has is a SHAMULET. J'accuse! It still seems to have the same power to protect against undeadening, though.
 

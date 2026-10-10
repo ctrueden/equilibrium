@@ -7,7 +7,7 @@ when: AC50 Vis 22
 session-number: 101
 session-date: 2026-06-26
 layout: session
-review_needed: true
+reviewed: false
 callie_journal: >-
   I'm so excited I start flapping my wings like a hummingbird. I know these guys! "Noffindorfs! It's them!" I call down to Bec, as quietly as I can. Nobody noticed anything. I'm sneaky! =D
 

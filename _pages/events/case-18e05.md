@@ -7,7 +7,7 @@ when: AC50 Vis 22
 session-number: 102
 session-date: 2026-09-05
 layout: session
-review_needed: true
+reviewed: false
 summary: >-
   The night had grown heavy and watchful over the rough streets of Trell when a
   shadowy figure stepped out of a nearby alley, his smirk catching the dim light
