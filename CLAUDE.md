@@ -203,10 +203,18 @@ the generated HTML can be adjusted site-wide in one place:
 ```liquid
 {% include img page="dossiers/serelda-voth" width=200 %}
 {% include img page="dossiers/freki" variant="beast" height=250 %}
-{% include img src="https://i.pinimg.com/originals/xx/yy/zz.jpg" pin=593841900839915800 alt="Preen" width=200 %}
+{% include img pinimg="505ee23c6213467229a3e6a5b3f45e82.jpg" pin=593841900839915800 alt="Preen" width=200 %}
 ```
 - `page` pulls `image`/`image-source`/`title` from that page's front matter
-  (`variant="x"` uses `image-x`/`image-x-source`); clicking goes to the page.
+  (`variant="x"` uses `image-x`/`image-x-source`); clicking goes to the page,
+  or to the image source when the page is the current page.
+- When an image depicts something with its own page, add it to that page's
+  front matter as a variant and reference it with `page`/`variant`, rather
+  than inlining the URL. Front matter image URLs are always full URLs
+  (local images as `/equilibrium/assets/images/...`). Public pages must not
+  reference `gm/` pages, which do not exist in the public build.
+- `pinimg` is a Pinterest image file name: the include derives the full
+  `i.pinimg.com` URL from it. Use `src` for any other image URL.
 - `pin=ID` is shorthand for `source=https://www.pinterest.com/pin/ID/`.
 - `width`/`height` are max pixel sizes, and select a suitably downscaled
   Pinterest variant. Also: `link` (`page`/`source`/`none`/URL), `caption`
