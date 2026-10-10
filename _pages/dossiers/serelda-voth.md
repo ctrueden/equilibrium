@@ -1,5 +1,5 @@
 ---
-name: Serelda Voth
+title: Serelda Voth
 image-source: https://www.pinterest.com/pin/148055906493680204/
 image: https://i.pinimg.com/originals/b1/a8/f9/b1a8f9ef4fbb9609a44febf3425fb3e4.png
 statbox:
