@@ -196,6 +196,28 @@ Note: no `.md` extension in links.
 
 ---
 
+## Images
+
+Embed images with the `img` include rather than markdown image syntax, so
+the generated HTML can be adjusted site-wide in one place:
+```liquid
+{% include img page="dossiers/serelda-voth" width=200 %}
+{% include img page="dossiers/freki" variant="beast" height=250 %}
+{% include img src="https://i.pinimg.com/originals/xx/yy/zz.jpg" pin=593841900839915800 alt="Preen" width=200 %}
+```
+- `page` pulls `image`/`image-source`/`title` from that page's front matter
+  (`variant="x"` uses `image-x`/`image-x-source`); clicking goes to the page.
+- `pin=ID` is shorthand for `source=https://www.pinterest.com/pin/ID/`.
+- `width`/`height` are max pixel sizes, and select a suitably downscaled
+  Pinterest variant. Also: `link` (`page`/`source`/`none`/URL), `caption`
+  (text, or `true` for the page title), `align` (`left`/`right`/`center`),
+  `alt`, `class`, `style`. See `_includes/img` for details.
+
+External images are cached for local development by `_bin/cache-images.py`,
+which scans the built `_site` for `<img>` URLs (so build the site first).
+
+---
+
 ## ⚠️ Name Alias Warning (GM Assistant vs. Wiki)
 
 **GM Assistant may sometimes use different spellings than the wiki.**
