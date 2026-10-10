@@ -1,5 +1,5 @@
 ---
-title: "[18e07] TBD"
+title: "[18e07] The Hostile Hostel"
 description: >-
   TODO
 datestamp: 50-06-14/07
