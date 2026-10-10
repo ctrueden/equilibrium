@@ -4,6 +4,7 @@ Adjusts an image link to a scaled resolution if possible.
 Currently this supports only adjustment of pinterest image URLs:
 
   https://i.pinimg.com/originals/xx/yy/zzzz.ext
+  https://i.pinimg.com/736x/xx/yy/zzzz.jpg
 
 to:
 
@@ -28,8 +29,18 @@ Values other than these may yield an Access Denied error.
 {%- assign src = include.src -%}
 {%- assign scale = include.scale | default: "400x" -%}
 
-{%- assign pinimg-prefix = "//i.pinimg.com/" | append: scale | append: "/" -%}
-{%- assign psrc = src | replace: "//i.pinimg.com/originals/", pinimg-prefix -%}
+{%- assign src-scale = nil -%}
+{%- if src contains "//i.pinimg.com/" -%}
+  {%- assign src-scale = src | split: "//i.pinimg.com/" | last | split: "/" | first -%}
+  {%- assign src-scale-number = src-scale | remove_first: "x" | plus: 0 | append: "x" -%}
+{%- endif -%}
+{%- if src-scale == "originals" or src-scale == src-scale-number -%}
+  {%- capture from -%} //i.pinimg.com/{{src-scale}}/ {%- endcapture -%}
+  {%- capture to -%} //i.pinimg.com/{{scale}}/ {%- endcapture -%}
+  {%- assign psrc = src | replace_first: from, to -%}
+{%- else -%}
+  {%- assign psrc = src -%}
+{%- endif -%}
 {%- if src == psrc -%}
   {{src}}
 {%- else -%}

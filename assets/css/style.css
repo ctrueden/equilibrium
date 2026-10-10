@@ -105,6 +105,54 @@ table td {
   padding: 0.15em 0.25em;
 }
 
+/* -- Images embedded via the img include -- */
+
+img.img {
+  max-width: 100%;
+  vertical-align: top;
+}
+
+.img-figure {
+  display: inline-block;
+  margin: 0 0.5em 0.5em 0;
+  text-align: center;
+  vertical-align: top;
+}
+
+.img-figure img.img,
+.img-caption {
+  display: block;
+  margin: 0 auto;
+}
+
+.img-left {
+  float: left;
+  margin: 0 1em 0.5em 0;
+}
+
+.img-right {
+  float: right;
+  margin: 0 0 0.5em 1em;
+}
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-figure.img-center {
+  display: table;
+}
+
+.img-error {
+  color: darkred;
+  background: #fdd;
+  border: 1px solid darkred;
+  padding: 0 0.3em;
+  font-family: monospace;
+}
+
 /* -- Index pages with gallery navigation -- */
 
 #gallery div {

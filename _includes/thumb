@@ -1,24 +1,13 @@
 {%- comment -%}
-Embeds an image thumbnail as an inline block.
+Deprecated: use the img include instead.
+
+Embeds an image thumbnail with an optional title beneath it.
 {%- endcomment -%}
 
-{%- assign link = include.link -%}
-{%- assign title = include.title -%}
-{%- assign width = include.width -%}
-{%- assign height = include.height | default: "200px" -%}
-{%- assign scale = height | replace: "px", "x" -%}
-{%- capture src -%} {%- include thumb-src src=include.src scale=scale -%} {%- endcapture -%}
-
-<div style="display: inline-block; text-align: center">
-{% if link -%}<a href="{{link}}">{% endif -%}
-<img
-{% if src %}  src="{{src}}" {% endif %}
-{% if title %}  title="{{title}}" alt="{{title}}" {% elsif src %} alt="{{src}}" {% endif %}
-{% if width or height %}  style="{% if width %} max-width:{{width}}{% elsif height %} max-height:{{height}}{% endif %}"{% endif %}
->
-{% if link %}</a>{% endif %}
-{% if title %}<br>{{title}}{% endif %}
-</div>
+{%- assign thumb-height = include.height | default: "200px" -%}
+{%- if include.width -%} {%- assign thumb-height = nil -%} {%- endif -%}
+{%- assign thumb-link = include.link | default: "none" -%}
+{%- include img src=include.src alt=include.title caption=include.title link=thumb-link width=include.width height=thumb-height -%}
 
 {%- comment -%}
 # vi:syntax=liquid

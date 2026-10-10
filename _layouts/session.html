@@ -50,7 +50,7 @@
         <details class="session-section session-gm">
           <summary>Notes <span class="section-badge gm-badge">GM only</span></summary>
           <div class="section-body">
-            {{ p.content | markdownify }}
+            {{ p.content | liquify | markdownify }}
           </div>
         </details>
         {%- endfor -%}

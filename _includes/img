@@ -1,0 +1,157 @@
+{%- comment -%}
+Embeds an image, optionally drawn from a wiki page's front matter.
+
+Usage:
+
+  {% include img page="dossiers/serelda-voth" %}
+  {% include img page="dossiers/serelda-voth" variant="elf" width=200 %}
+  {% include img page="gm/dossiers/galloc" height=300 link="source" caption=true %}
+  {% include img src="https://i.pinimg.com/originals/xx/yy/zz.jpg" pin=123456 alt="Preen" %}
+
+Arguments (all optional, but one of page or src is required):
+
+  page    - Path of a wiki page under _pages, without the .md extension.
+            Supplies the image (image), source (image-source) and alt text (title).
+  variant - Use image-<variant> and image-<variant>-source of the page instead.
+  src     - Image URL. Overrides the page's image, if any.
+  source  - URL where the image came from. Overrides the page's image source.
+  pin     - Pinterest pin ID; shorthand for source=https://www.pinterest.com/pin/<pin>/.
+  alt     - Alt text. Defaults to the page title.
+  width   - Maximum display width in pixels.
+  height  - Maximum display height in pixels.
+  link    - What clicking the image does: "page", "source", "none", or a URL.
+            Defaults to "page" when page is given, otherwise "source".
+  caption - Text shown beneath the image (markdown allowed),
+            or true to show the page title, linked like the image.
+  align   - "left" or "right" to float the image with text wrapping around it,
+            or "center" to center it on its own line.
+  class   - Additional CSS classes.
+  style   - Additional CSS styles.
+
+When a width or height is given, Pinterest images are fetched at the smallest
+scale that still looks crisp at twice that size (for high-density screens):
+236x, 400x or 736x. Without a size, the image URL is used as given.
+{%- endcomment -%}
+
+{%- assign error = nil -%}
+{%- assign target = nil -%}
+{%- assign src = include.src -%}
+{%- assign source = include.source -%}
+{%- assign alt = include.alt -%}
+
+{%- if include.page -%}
+  {%- assign target-url = include.page | remove: "../" | remove: ".md" | prepend: "/" | replace_first: "//", "/" -%}
+  {%- assign target = site.pages | where: "url", target-url | first -%}
+  {%- if target -%}
+    {%- if include.variant -%}
+      {%- assign image-key = "image-" | append: include.variant -%}
+    {%- else -%}
+      {%- assign image-key = "image" -%}
+    {%- endif -%}
+    {%- assign source-key = image-key | append: "-source" -%}
+    {%- assign src = src | default: target[image-key] -%}
+    {%- assign source = source | default: target[source-key] -%}
+    {%- assign alt = alt | default: target.title -%}
+    {%- unless src -%}
+      {%- capture error -%} page '{{include.page}}' has no {{image-key}} {%- endcapture -%}
+    {%- endunless -%}
+  {%- else -%}
+    {%- capture error -%} page '{{include.page}}' not found {%- endcapture -%}
+  {%- endif -%}
+{%- elsif src == nil -%}
+  {%- assign error = "page or src is required" -%}
+{%- endif -%}
+
+{%- if include.pin -%}
+  {%- capture source -%} https://www.pinterest.com/pin/{{include.pin}}/ {%- endcapture -%}
+{%- endif -%}
+
+{%- if error -%}
+<span class="img-error">img: {{error}}</span>
+{%- else -%}
+
+{%- comment -%} Sizing. {%- endcomment -%}
+{%- assign width = include.width | append: "" | remove: "px" -%}
+{%- assign height = include.height | append: "" | remove: "px" -%}
+{%- capture style -%}
+  {%- if width != "" -%} max-width:{{width}}px; {%- endif -%}
+  {%- if height != "" -%} max-height:{{height}}px; {%- endif -%}
+  {{include.style}}
+{%- endcapture -%}
+
+{%- comment -%}
+  Note: when only a height is given, it is used as the width estimate,
+  which errs on the crisp side for the usual portrait-shaped images.
+{%- endcomment -%}
+{%- assign need = nil -%}
+{%- if width != "" -%}
+  {%- assign need = width | plus: 0 | times: 2 -%}
+{%- elsif height != "" -%}
+  {%- assign need = height | plus: 0 | times: 2 -%}
+{%- endif -%}
+{%- if need -%}
+  {%- if need <= 236 -%}
+    {%- assign scale = "236x" -%}
+  {%- elsif need <= 400 -%}
+    {%- assign scale = "400x" -%}
+  {%- else -%}
+    {%- assign scale = "736x" -%}
+  {%- endif -%}
+  {%- capture src -%} {%- include thumb-src src=src scale=scale -%} {%- endcapture -%}
+{%- endif -%}
+
+{%- comment -%} Link target. {%- endcomment -%}
+{%- if target -%}
+  {%- assign link = include.link | default: "page" -%}
+{%- else -%}
+  {%- assign link = include.link | default: "source" -%}
+{%- endif -%}
+{%- if link == "page" -%}
+  {%- if target -%} {%- assign href = target.url | prepend: site.baseurl -%} {%- else -%} {%- assign href = nil -%} {%- endif -%}
+{%- elsif link == "source" -%}
+  {%- assign href = source -%}
+{%- elsif link == "none" -%}
+  {%- assign href = nil -%}
+{%- else -%}
+  {%- assign href = link -%}
+{%- endif -%}
+
+{%- comment -%} Caption. {%- endcomment -%}
+{%- assign caption = nil -%}
+{%- if include.caption == true or include.caption == "true" -%}
+  {%- if href -%}
+    {%- capture caption -%} <a href="{{href}}">{{alt}}</a> {%- endcapture -%}
+  {%- else -%}
+    {%- assign caption = alt -%}
+  {%- endif -%}
+{%- elsif include.caption -%}
+  {%- assign caption = include.caption | markdownify | remove: "<p>" | remove: "</p>" | strip -%}
+{%- endif -%}
+
+{%- capture classes -%}
+  {%- if include.align -%} img-{{include.align}} {%- endif -%}
+  {%- if include.class %} {{include.class}} {%- endif -%}
+{%- endcapture -%}
+{%- assign classes = classes | strip -%}
+
+{%- capture image -%}
+  {%- if href -%} <a href="{{href}}"> {%- endif -%}
+  <img src="{{src}}" class="img
+    {%- unless caption -%} {%- if classes != "" %} {{classes}} {%- endif -%} {%- endunless -%}"
+    {%- if alt %} alt="{{alt | escape}}" {%- endif -%}
+    {%- if style != "" %} style="{{style}}" {%- endif -%}
+  >
+  {%- if href -%} </a> {%- endif -%}
+{%- endcapture -%}
+
+{%- if caption -%}
+<span class="img-figure {%- if classes != "" %} {{classes}} {%- endif -%}" {%- if width != "" %} style="max-width:{{width}}px" {%- endif -%}>{{image}}<span class="img-caption">{{caption}}</span></span>
+{%- else -%}
+{{image}}
+{%- endif -%}
+
+{%- endif -%}
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}
