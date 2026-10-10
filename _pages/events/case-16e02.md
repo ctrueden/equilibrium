@@ -10,7 +10,7 @@ session-event: https://www.facebook.com/events/3909460632609132/
 layout: session
 ---
 
-{% include img src="https://i.pinimg.com/236x/26/e4/13/26e4135fb5922d27726d9a341d7465dc.jpg" link="none" %} <!-- https://www.pinterest.com/pin/5911043254576309/ -->
+{% include img pinimg="26e4135fb5922d27726d9a341d7465dc.jpg" link="none" width=236 %} <!-- https://www.pinterest.com/pin/5911043254576309/ -->
 
 {% include tab id="callie" label="Callie's Journal" first=true %}
 

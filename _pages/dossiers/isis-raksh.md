@@ -2,6 +2,7 @@
 title: Isis Ra'ksh
 image: https://i.pinimg.com/originals/2f/b5/d0/2fb5d05ce538861218a9618d13f1da32.png
 image-source: https://www.pinterest.com/pin/3659243437521066/
+image-true-form: https://www.dndbeyond.com/avatars/thumbnails/26290/412/1000/1000/637900601272139887.jpeg
 statbox:
   race: [elf (wood), changeling]
   gender: female

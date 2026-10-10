@@ -104,7 +104,7 @@ Later, Lestache (who is announced as "Your host Lestache de Lyarcourt, Fragrant 
 
 A big box, covered with a dark curtain, gets rolled into the hall. The curtain is pulled away with a flourish to reveal:
 
-{% include img src="https://i.pinimg.com/originals/61/c3/fd/61c3fd88a58355b1fd46d4b6c2f881fc.jpg" pin=62980094775506418 width=200 %}
+{% include img pinimg="61c3fd88a58355b1fd46d4b6c2f881fc.jpg" pin=62980094775506418 width=200 %}
 
 *What* even *is* that? It's undead, probably unique, but I can't tap into my knowledge proficiencies anymore! My [goddess badge](../rules/dual-goddess) seems to have gotten all tingly, so I take it off and look at it. [Erathis](../dossiers/erathis) isn't there anymore!!! Instead it's [Avandra](../dossiers/avandra) on both sides! I hear her laughter in my mind. "Good job," indeed. I am shook!
 

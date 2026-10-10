@@ -2,6 +2,8 @@
 title: Dryads
 image: https://i.pinimg.com/236x/63/cc/ee/63ccee935fd3a41e5e9ad8a871ac4a2a.jpg
 image-source: https://www.pinterest.com/pin/18014467247941239/
+image-hamadryad: https://i.pinimg.com/originals/8a/7d/75/8a7d75106efae27bba050c4a6bc24379.jpg
+image-hamadryad-source: https://www.pinterest.com/pin/143622675606994693/
 ---
 
 Dryads are [fey](fey) creatures of the forest, each bonded to a specific tree, in the form of beautiful (albeit woody) elfin women who benevolently protect forests and woodlands. 
@@ -10,7 +12,7 @@ Further reading: https://dungeonsdragons.fandom.com/wiki/Dryad
 
 ## Hamadryads
 
-{% include img src="https://i.pinimg.com/originals/8a/7d/75/8a7d75106efae27bba050c4a6bc24379.jpg" pin=143622675606994693 width=200 %}
+{% include img page="creatures/dryads" variant="hamadryad" width=200 %}
 
 A hamadryad is a more powerful dryad bonded not to one tree, but to an entire forest. Hamadryads fiercely protect their domains, helping their bonded ecosystem to thrive, and working to destroy or repel any threats.
 

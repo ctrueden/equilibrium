@@ -97,15 +97,15 @@ The slider lands in the middle: there are a few undead creatures.
 
 They bubble up from the [Tree](../relics/yggdrasil) roots...
 
-{% include img src="https://i.pinimg.com/236x/8a/24/7a/8a247a45d8cc0e08773e924e029284e6.jpg" pin=408490628698554772 %}
+{% include img pinimg="8a247a45d8cc0e08773e924e029284e6.jpg" pin=408490628698554772 width=236 %}
 
 ...then burst upward violently!
 
-{% include img src="https://i.pinimg.com/236x/f1/f6/8d/f1f68d17540aa447373d1fb06d30b139.jpg" pin=21532904438661183 %}
+{% include img pinimg="f1f68d17540aa447373d1fb06d30b139.jpg" pin=21532904438661183 width=236 %}
 
 And circle around to fly straight at us!
 
-{% include img src="https://i.pinimg.com/236x/ff/17/3b/ff173b6743cd9597084952ecdcd3a490.jpg" pin=211174977170579 %}
+{% include img pinimg="ff173b6743cd9597084952ecdcd3a490.jpg" pin=211174977170579 width=236 %}
 
 Bec throws a cloud of daggers at the creatures and then backs away. Audreth says "Be protected" and touches her shoulder, giving her protection even outside his aura.
 

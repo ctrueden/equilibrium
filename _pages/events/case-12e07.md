@@ -58,7 +58,7 @@ Eixam buzzes over, radiating even more fury and hatred than usual. They tell the
 
 Phoebe takes everyone, including Eixam, through the tree trunk to a very beautiful place. They see the Fruit they've been looking for!
 
-{% include img page="events/case-12e07" variant="heart" link="source" width=400 %}
+{% include img page="events/case-12e07" variant="heart" width=400 %}
 
 Unfortunately, it's way too big to put in the portable hole or otherwise transport.
 

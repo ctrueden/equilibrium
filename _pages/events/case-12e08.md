@@ -20,7 +20,7 @@ Freki shoots a grappling arrow at Enoki and Cornelius, hooking them and pulling 
 
 The other agents continue to advance cautiously until they are outside the threshold... when they suddenly hear a voice behind them. The illusion dissipates, and standing at the edge of the previously concealed pit is a fully armored knight clad in green armor made of wood and bone:
 
-{% include img src="https://i.pinimg.com/originals/e7/d4/d0/e7d4d0eed01f418dd94354a1d0d5219d.jpg" pin=283375001525217177 width=200 %}
+{% include img pinimg="e7d4d0eed01f418dd94354a1d0d5219d.jpg" pin=283375001525217177 width=200 %}
 
 Speaking in a masculine voice, the knight demands they cease their attempts to interfere with the Fruit, or face destruction. "Leave or perish. The fruit must not be disturbed." The scholars in the group recognize this figure as a Green Knight, a supernatural fey creature summoned to aid the cause of the wilds in times of need.
 

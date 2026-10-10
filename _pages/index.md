@@ -64,7 +64,7 @@ The known world is a single large continent called Aecus, with various
 phenomena at the periphery which have hindered exploration, due to the
 increasing inhospitality of the environment.
 
-{% include img src="assets/images/aecus-map.jpg" link="assets/images/aecus-map.jpg" style="max-height: 80vh" %}
+{% include img page="locales/aecus" variant="map" link="assets/images/aecus-map.jpg" style="max-height: 80vh" %}
 
 There are several countries which have enjoyed an uneasy peace for the past
 half century. One of D&D's primary conceits is that there are [many intelligent

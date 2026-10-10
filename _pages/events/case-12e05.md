@@ -22,7 +22,7 @@ After traveling for a while, [Freki](../dossiers/freki) reappears in a puff of b
 
 That evening, the party stops at beautiful tree:
 
-{% include img src="https://i.pinimg.com/originals/3c/1a/71/3c1a71cd39e3f9d98e56c11a72333551.jpg" pin=421227371400689295 width=200 %}
+{% include img pinimg="3c1a71cd39e3f9d98e56c11a72333551.jpg" pin=421227371400689295 width=200 %}
 
 As the sun sets, the fruit begins to glow, captivating everyone.
 
@@ -45,7 +45,7 @@ Oz dreams he's a pirate, raiding pirate ships and fighting pirate battles. While
 
 The others&mdash;Callie, Bec, [Cal](../dossiers/cal), and Freki&mdash;appear as well. They all find themselves on a forest path, with harmonious dwellings integrated:
 
-{% include img src="https://i.pinimg.com/originals/23/b5/bb/23b5bb04b7cc095ca2481aac216b3826.jpg" pin=421227371400689300 width=200 %}
+{% include img pinimg="23b5bb04b7cc095ca2481aac216b3826.jpg" pin=421227371400689300 width=200 %}
 
 This servant:
 
@@ -57,11 +57,11 @@ Bec dispels the servant! But they decide to enter the door anyway.
 
 The queen is seated at a long table eating fairy wings:
 
-{% include img src="https://i.pinimg.com/originals/52/ce/cc/52ceccb9d4fc52eca3e80ef5911cbf2e.jpg" pin=421227371407463875 width=200 %}
+{% include img page="dossiers/ambriel-estanesse" variant="hooded" width=200 %}
 
 When she lowers her hood, they get a better look at her:
 
-{% include img src="https://i.pinimg.com/originals/7c/2c/a7/7c2ca7c156f4374967a619235d148cd4.jpg" pin=406379566372036066 width=200 %}
+{% include img page="dossiers/ambriel-estanesse" variant="braided" width=200 %}
 
 But when her mood changes for the better, her appearance transforms:
 

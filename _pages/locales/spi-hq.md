@@ -30,6 +30,7 @@ descriptions:
   - session: "16e01"
     content: |
       SPI discovered an otherworldly chamber beneath their headquarters where reality and the Flux converge, protected by an invisible forcefield that permits only those with Flux affinity to pass freely.
+image-map: /equilibrium/assets/images/spi-map.jpg
 ---
 
 A windowless tower of several floors connected through by a spiral stairwell. Floors include:
@@ -44,4 +45,4 @@ A windowless tower of several floors connected through by a spiral stairwell. Fl
 * Evidence locker, where [Mary Reed](../dossiers/mary-reed) was caught rummaging
 * Bottom floor with teleportation circle, and sealed double doors out to an unknown location
 
-{% include img src="../assets/images/spi-map.jpg" link="none" %}
+{% include img page="locales/spi-hq" variant="map" link="none" %}

@@ -3,6 +3,11 @@ nav-title: Queen Ambriel Estanesse
 title: Ambriel Estanesse, Queen of the Fae
 image: https://i.pinimg.com/originals/30/c3/29/30c3294db371313914549193db4b429c.jpg
 image-source: https://www.pinterest.com/pin/421227371404839716/
+image-braided: https://i.pinimg.com/originals/7c/2c/a7/7c2ca7c156f4374967a619235d148cd4.jpg
+image-braided-source: https://www.pinterest.com/pin/406379566372036066/
+image-hooded: https://i.pinimg.com/originals/52/ce/cc/52ceccb9d4fc52eca3e80ef5911cbf2e.jpg
+image-hooded-source: https://www.pinterest.com/pin/421227371407463875/
+image-chained: /equilibrium/assets/images/queen-chained.png
 statbox:
   race: elf (eladrin)
   gender: female
@@ -18,6 +23,6 @@ descriptions:
 
 Queen of the [Fae](../creatures/fey).
 
-{% include img src="https://i.pinimg.com/originals/7c/2c/a7/7c2ca7c156f4374967a619235d148cd4.jpg" pin=406379566372036066 width=350 %}
+{% include img page="dossiers/ambriel-estanesse" variant="braided" width=350 %}
 
-{% include img src="https://i.pinimg.com/originals/52/ce/cc/52ceccb9d4fc52eca3e80ef5911cbf2e.jpg" pin=421227371407463875 width=350 %}
+{% include img page="dossiers/ambriel-estanesse" variant="hooded" width=350 %}

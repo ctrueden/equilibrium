@@ -47,4 +47,4 @@ layout: session
 
 Freki: "The cook is the source of the corruption!" And she transformed into ***this***:
 
-{% include img src="https://i.pinimg.com/originals/6d/e6/94/6de6941a2b81a0d2b193d657bb77a7cd.jpg" pin=490329478153743277 %}
+{% include img pinimg="6de6941a2b81a0d2b193d657bb77a7cd.jpg" pin=490329478153743277 %}

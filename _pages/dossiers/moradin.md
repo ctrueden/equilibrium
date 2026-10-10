@@ -5,6 +5,7 @@ image: https://i.pinimg.com/736x/89/5d/ec/895dec020514ed3801a36501dd191673.jpg
 image-source: https://www.pinterest.com/pin/489836896946162136/
 image2: https://i.pinimg.com/736x/07/12/e6/0712e62c6ca4dcfc629fb592068a285c.jpg
 image2-source: https://www.pinterest.com/pin/446067538095191393/
+image-armor: https://i.pinimg.com/236x/6a/f6/86/6af686a23088c1821a40ce87a8238e26.jpg
 statbox:
   race: [eternal, dwarf]
   gender: male

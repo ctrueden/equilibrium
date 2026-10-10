@@ -40,7 +40,7 @@ Freki readies an arrow.
 
 Lady Nightshade offers Oz a potion and he makes to take it, but Callie slaps his hand in reaction.
 
-{% include img src="https://i.pinimg.com/originals/d4/1c/bb/d41cbb3dd3c689e004a7d0bf1e77ba95.jpg" pin=858287641476960518 height=240 %}
+{% include img pinimg="d41cbb3dd3c689e004a7d0bf1e77ba95.jpg" pin=858287641476960518 height=240 %}
 
 Bec realizes Oz is acting strange and casts *dispel magic* on him. Freki tries to stop him from taking the potion, but Oz dodges! However, the charm is dispelled by the time he gets to the potion, so he tries to grab it and smash her in the face with it. He's been in a lot of bar fights, y'all! The glass...turns out to be a lot thicker than he thought and he has to make 4 Wisdom saving throws, lol.
 
