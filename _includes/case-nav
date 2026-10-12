@@ -8,8 +8,9 @@ prelude events belong to it via their `case` field (`case: prelude`).
 {%- endcomment -%}
 
 {%- comment -%} Cases, episodes and prelude events (but not GM notes pages, which share their URLs under /gm). {%- endcomment -%}
-{%- assign nav_events = site.pages | where_exp: "p", "p.layout == 'case' or p.layout == 'session' or p.case" -%}
-{%- assign nav_cases = nav_events | where: "layout", "case" | sort: "datestamp" | reverse -%}
+{%- comment -%} No where_exp here: GitHub Pages is stuck on Jekyll 3, whose where_exp parser is fragile. {%- endcomment -%}
+{%- assign nav_cases = site.pages | where: "layout", "case" | sort: "datestamp" | reverse -%}
+{%- assign nav_sessions = site.pages | where: "layout", "session" | sort: "datestamp" -%}
 {%- assign nav_prelude = site.pages | where: "url", "/events/prelude" -%}
 {%- assign nav_groups = nav_cases | concat: nav_prelude -%}
 
@@ -45,11 +46,14 @@ prelude events belong to it via their `case` field (`case: prelude`).
           </summary>
           <ul class="session-list">
             {%- if c_slug == "prelude" -%}
-              {%- assign c_children = nav_events | where: "case", c_slug | sort: "datestamp" -%}
+              {%- assign c_children = site.pages | where: "case", c_slug | sort: "datestamp" -%}
             {%- else -%}
-              {%- assign c_children = nav_events | where_exp: "e", "e.url contains ep_prefix" | sort: "datestamp" -%}
+              {%- assign c_children = nav_sessions -%}
             {%- endif -%}
             {%- for ep in c_children -%}
+              {%- unless c_slug == "prelude" -%}
+                {%- unless ep.url contains ep_prefix -%}{%- continue -%}{%- endunless -%}
+              {%- endunless -%}
               {%- if ep.title contains "]" -%}
                 {%- assign e_id = ep.title | split: "]" | first | remove: "[" -%}
                 {%- assign e_name = ep.title | split: "] " | last -%}
