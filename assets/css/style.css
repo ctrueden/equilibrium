@@ -351,56 +351,46 @@ img.img {
   .timeline h3 { font-size: 0.5em; }
 }
 
-/* Session-based Chronological Descriptions */
-.sessions {
-  margin: 2em 0;
+/* Chronicle: per-session descriptions on entity pages */
+.chronicle dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0;
+  margin: 0;
   border-left: 3px solid sandybrown;
-  padding-left: 1em;
 }
 
-.session-card {
-  margin-bottom: 0.75em;
-  background: #f5f5f5;
-  border-radius: 8px;
-  padding: 0.75em 1em;
-  border: 1px solid #ddd;
+.chronicle dt,
+.chronicle dd {
+  margin: 0;
+  padding: 0.3em 0.75em;
+  border-bottom: 1px solid #eee;
+  line-height: 1.5;
 }
 
-.session-card[open] {
-  background: #fff;
-}
-
-.session-card summary {
-  cursor: pointer;
+.chronicle dt {
   font-variant: small-caps;
-  color: sandybrown;
   font-weight: bold;
-  user-select: none;
+  white-space: nowrap;
 }
 
-.session-card summary:hover {
-  color: #b8733f;
+.chronicle dd p {
+  margin: 0;
 }
 
-.session-tag {
-  font-size: 1.1em;
+.chronicle dd p + p {
+  margin-top: 0.4em;
 }
 
-.session-content {
-  margin-top: 0.75em;
-  padding-top: 0.5em;
-  border-top: 1px solid #eee;
-  line-height: 1.6;
-}
-
-/* Mobile responsive */
+/* Mobile: tag above its text */
 @media (max-width: 600px) {
-  .sessions {
-    padding-left: 0.5em;
+  .chronicle dl {
+    grid-template-columns: 1fr;
   }
 
-  .session-card {
-    padding: 0.5em;
+  .chronicle dt {
+    border-bottom: none;
+    padding-bottom: 0;
   }
 }
 

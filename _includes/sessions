@@ -1,24 +1,20 @@
 {%- comment -%}
-Display chronological session-based descriptions.
-Each session appears as a collapsible card, with the latest session expanded by default.
+Display chronological session-based descriptions (the "Chronicle"):
+one compact row per session, tagged with a link to its episode.
 {%- endcomment -%}
 
 {%- if page.descriptions %}
-<div class="sessions">
+<div class="chronicle">
   <h2>Chronicle</h2>
-  {% assign sorted = page.descriptions | sort: "session" %}
-  {% for desc in sorted %}
-    {% unless desc.content == "" %}
-      <details class="session-card" {% if forloop.last %}open{% endif %}>
-        <summary>
-          <span class="session-tag"><a href="{{ site.baseurl }}/events/case-{{ desc.session }}">{{ desc.session }}</a></span>
-        </summary>
-        <div class="session-content">
-          {{ desc.content | markdownify }}
-        </div>
-      </details>
-    {% endunless %}
-  {% endfor %}
+  {%- assign sorted = page.descriptions | sort: "session" %}
+  <dl>
+  {%- for desc in sorted %}
+    {%- unless desc.content == "" %}
+    <dt><a href="{{ site.baseurl }}/events/case-{{ desc.session }}">{{ desc.session }}</a></dt>
+    <dd>{{ desc.content | markdownify }}</dd>
+    {%- endunless %}
+  {%- endfor %}
+  </dl>
 </div>
 {% endif -%}
 
