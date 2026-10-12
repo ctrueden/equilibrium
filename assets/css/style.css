@@ -449,8 +449,7 @@ img.img {
 /* Shared panel border */
 #session-nav,
 .session-section,
-.sidebar-section,
-.site-footer {
+.sidebar-section {
   border: 1px solid #ddd;
   border-radius: 6px;
 }
@@ -781,10 +780,8 @@ img.img {
   }
 }
 
-.site-footer {
-  margin-top: 2em;
-  padding: 0.5em 0.75em;
-  background: #f9f9f9;
+.moments-credit {
+  margin: 0.5em 0 0;
   font-size: 0.8em;
   color: #999;
   text-align: center;
