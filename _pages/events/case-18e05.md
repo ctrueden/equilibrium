@@ -1025,5 +1025,3 @@ spells:
       mind. Callie's medallion burned hot as a flash of energy erupted,
       restoring Taelin to full clarity.
 ---
-
-TBD

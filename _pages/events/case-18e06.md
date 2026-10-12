@@ -997,5 +997,3 @@ spells:
       Later used by Ozborn to whisper a secret instruction to Vex during the
       interrogation of Xarlus.
 ---
-
-TBD
