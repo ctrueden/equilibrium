@@ -12,6 +12,6 @@ descriptions:
 ---
 
 A [hill giant](../creatures/giants) who served as muscle for
-[Ordning's Downfall](../events/case-17) at the Storm Stables. He wears a
+[Ordning's Downfall](../orgs/ordnings-downfall) at the Storm Stables. He wears a
 necklace of smaller giants' teeth, though he proved more scared than fearsome
 once the cult fell.

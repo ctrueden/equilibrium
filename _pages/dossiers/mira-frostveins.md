@@ -15,7 +15,7 @@ descriptions:
       The only giant missing from Cal's gathering, she asked whether it was safe to come out.
 ---
 
-A goliath of [Ordning's Downfall](../events/case-17) with distant frost
+A goliath of [Ordning's Downfall](../orgs/ordnings-downfall) with distant frost
 giant blood: her breath mists even in warm weather. She guarded
 [Rhyzophus](rhyzophus)'s chambers at the Storm Stables, and believed in the
 cult's cause of overturning the Ordning.

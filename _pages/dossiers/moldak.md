@@ -13,7 +13,7 @@ descriptions:
 ---
 
 A [hill giant](../creatures/giants) who served as muscle for
-[Ordning's Downfall](../events/case-17) at the Storm Stables: surprisingly
+[Ordning's Downfall](../orgs/ordnings-downfall) at the Storm Stables: surprisingly
 cunning for a hill giant, and smart enough to know when to fold. He was among
 the first to embrace [Cal](cal)'s quest of redemption to free
 [Xaryuvia](../locales/xaryuvia).

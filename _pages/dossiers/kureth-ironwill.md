@@ -12,5 +12,5 @@ descriptions:
       Guessed that the agitated behirs smelled blood from the brood mother's massacre of the hill giants.
 ---
 
-A [goliath](../creatures/giants) warrior of [Ordning's Downfall](../events/case-17)
+A [goliath](../creatures/giants) warrior of [Ordning's Downfall](../orgs/ordnings-downfall)
 at the Storm Stables: a former mountain guide turned revolutionary.
