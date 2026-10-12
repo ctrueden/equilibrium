@@ -1,0 +1,19 @@
+{%- comment -%}
+Rules tooltips: the tooltip contents for the 5etools rules referenced on
+this page, and the script that shows them (see _bin/fivetools.py).
+
+_data/fivetools.json exists only in local (GM) builds, after running
+_bin/fivetools.py; without it, this include outputs nothing.
+{%- endcomment -%}
+{%- if site.data.fivetools -%}
+{%- assign _ft = site.data.fivetools.pages[page.path] -%}
+{%- if _ft.tips.size > 0 %}
+<div class="rule-tips" hidden>
+{%- for k in _ft.tips -%}
+<template id="tip-{{ k }}">{{ site.data.fivetools.entries[k].html }}</template>
+{%- endfor -%}
+</div>
+{%- endif %}
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/rule-tips.css" />
+<script src="{{ site.baseurl }}/assets/js/rule-tips.js"></script>
+{%- endif -%}

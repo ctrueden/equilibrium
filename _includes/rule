@@ -1,0 +1,40 @@
+{%- comment -%}
+A D&D rules reference: links to the rule on 5etools, with a tooltip.
+
+Usage:
+
+  {% include rule ref="Eye for Detail" %}
+  {% include rule ref="spell:Revivify|XPHB" text="revivify" %}
+  {% include rule ref="subclassFeature:Ear for Deceit|Rogue||Inquisitive|XGE|3" %}
+
+Arguments:
+
+  ref  - The rule: [kind:]Name[|args], with 5etools' tag arguments (see
+         _bin/fivetools.py), e.g. spell:Fireball, feat:Alert|XPHB.
+  text - The text shown. Defaults to the rule's name.
+
+References are resolved by _bin/fivetools.py, into _data/fivetools.json;
+without that file (e.g. on GitHub Pages) only the text is shown.
+{%- endcomment -%}
+{%- assign _ref = include.ref | append: "" -%}
+{%- assign _key = site.data.fivetools.pages[page.path].refs[_ref] | default: site.data.fivetools.refs[_ref] -%}
+{%- assign _rule = site.data.fivetools.entries[_key] -%}
+{%- if include.text -%}
+  {%- assign _text = include.text -%}
+{%- elsif _rule -%}
+  {%- assign _text = _rule.name -%}
+{%- else -%}
+  {%- assign _text = _ref | split: "|" | first -%}
+  {%- assign _parts = _text | split: ":" -%}
+  {%- assign _kind = " " | append: _parts[0] | append: " " -%}
+  {%- if _parts.size > 1 and " spell feat optfeature optionalfeature race subrace racetrait background item baseitem condition disease status action variantrule sense skill language class subclass classFeature subclassFeature " contains _kind -%}
+    {%- assign _text = _text | remove_first: _parts[0] | remove_first: ":" -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if _rule and _rule.url -%}
+<a class="rule-ref" href="{{ _rule.url }}" target="_blank" rel="noopener" data-tip="{{ _key }}">{{ _text }}</a><template id="tip-{{ _key }}">{{ _rule.html }}</template>
+{%- elsif _rule -%}
+<span class="rule-ref" tabindex="0" data-tip="{{ _key }}">{{ _text }}</span><template id="tip-{{ _key }}">{{ _rule.html }}</template>
+{%- else -%}
+{{ _text }}
+{%- endif -%}

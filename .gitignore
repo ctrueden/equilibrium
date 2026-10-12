@@ -1,8 +1,10 @@
 /.jekyll-cache/
 /.jekyll-metadata
 /Gemfile.lock
+/_cloud
+/_data/fivetools.json
+/_external/
 /_pages/gm/
 /_site/
 /assets/cache/
-/_cloud
 __pycache__/

@@ -359,7 +359,7 @@ def flow_list(items):
 
 
 IDENTITY_KEYS = ['name', 'race', 'class', 'subclass', 'level', 'cr',
-                 'proficiency', 'background', 'alignment']
+                 'proficiency', 'background', 'alignment', 'rules']
 PROF_KEYS = ['saves', 'skills', 'expertise', 'jack_of_all_trades']
 COMBAT_KEYS = ['ac', 'ac_note', 'initiative', 'speed', 'hp_max', 'hp',
                'hit_dice', 'passive_perception']

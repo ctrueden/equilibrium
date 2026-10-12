@@ -1,0 +1,72 @@
+/* Rules tooltips (see assets/js/rule-tips.js). */
+
+.rule-ref {
+  color: inherit;
+  text-decoration: underline dotted #a89f92;
+  text-underline-offset: 2px;
+  cursor: help;
+}
+.rule-ref:hover, .rule-ref:focus-visible {
+  color: #7a2e10;
+  text-decoration-color: currentcolor;
+}
+
+.rule-tip {
+  position: absolute;
+  z-index: 1000;
+  box-sizing: border-box;
+  width: max-content;
+  max-width: min(26rem, calc(100vw - 12px));
+  max-height: min(60vh, 30rem);
+  overflow-y: auto;
+  padding: 0.5rem 0.7rem;
+  background: #fffdf8;
+  color: #222;
+  border: 1px solid #b5aea4;
+  border-top: 3px solid #7a2e10;
+  border-radius: 3px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.22);
+  font-family: calibri, 'Segoe UI', arial, sans-serif;
+  font-size: 0.8rem;
+  line-height: 1.45;
+  text-align: left;
+  font-weight: normal;
+  font-style: normal;
+  text-transform: none;
+  letter-spacing: normal;
+}
+.rule-tip[hidden] { display: none; }
+
+.rule-tip .tip-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1em;
+}
+.rule-tip .tip-name {
+  font-size: 0.95rem;
+  font-weight: bold;
+  font-variant: small-caps;
+  color: #7a2e10;
+}
+.rule-tip .tip-src { font-size: 0.68rem; color: #999; white-space: nowrap; }
+.rule-tip .tip-meta { font-style: italic; color: #555; margin-bottom: 0.25rem; }
+.rule-tip .tip-stats { margin: 0.2rem 0 0.35rem; padding-bottom: 0.3rem; border-bottom: 1px solid #e3ddd3; }
+.rule-tip p { margin: 0 0 0.35rem; }
+.rule-tip p:last-child { margin-bottom: 0; }
+.rule-tip ul { margin: 0.1rem 0 0.4rem; padding-left: 1.1rem; }
+.rule-tip li { margin: 0.1rem 0; }
+.rule-tip li > p { margin: 0; }
+.rule-tip table { border-collapse: collapse; margin: 0.2rem 0 0.45rem; font-size: 0.75rem; }
+.rule-tip caption { font-weight: bold; text-align: left; }
+.rule-tip th, .rule-tip td { padding: 1px 6px; border-bottom: 1px solid #ede8e1; text-align: left; vertical-align: top; }
+.rule-tip blockquote, .rule-tip .tip-inset {
+  margin: 0.3rem 0;
+  padding: 0.3rem 0.5rem;
+  background: #f3eee4;
+  border-left: 3px solid #d6cdbd;
+}
+.rule-tip .tip-center { text-align: center; }
+.rule-tip img { max-width: 100%; max-height: 14rem; }
+.rule-tip a { color: #7a2e10; }
+.rule-tip hr { border: 0; border-top: 1px solid #e3ddd3; }

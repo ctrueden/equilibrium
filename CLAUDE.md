@@ -296,6 +296,7 @@ cs:
   # proficiency: 5              # override (e.g. house-ruled epic NPCs)
   background: ...
   alignment: Lawful neutral
+  # rules: 2024                 # rules tooltips prefer the 2024 rules (default 2014)
 
   abilities: {str: 10, dex: 20, con: 12, int: 16, wis: 16, cha: 14}
   saves: [dex, int]                       # proficient saves
@@ -333,6 +334,7 @@ cs:
 
   features:
     - {name: Favored Foe, source: Ranger, uses: 3/LR}
+    - {name: Archdruid Wild Shape, source: Druid, ref: "classFeature:Archdruid|Druid||20"}
   traits: {size, senses, resistances, immunities, vulnerabilities, condition_immunities, languages}
   proficiencies: {armor, weapons, tools}
   equipment: [...]
@@ -341,6 +343,34 @@ cs:
 
 The markdown body (tactics, feature descriptions, notes) renders below the
 sheet in two columns.
+
+### Rules tooltips (5etools)
+
+In local GM builds, the names on a sheet (features, spells, weapons,
+equipment, skills, senses, languages, condition immunities) link to their
+rules on 2014.5e.tools / 5e.tools, with the rules text in a hover tooltip.
+`_bin/fivetools.py` (run by `_bin/go.sh`; rerun it after editing a sheet)
+resolves the names against the 5etools data and writes the gitignored
+`_data/fivetools.json` (plus any images, in `assets/5etools/`). The 5etools
+data is NOT redistributable: the script clones it into the gitignored
+`_external/` (never commit it, nor anything generated from it). Without the
+data file (GitHub Pages), sheets render as plain text.
+
+- Names are matched leniently: `(notes)`, `[notes]`, trailing `*`,
+  `Feat:`-style prefixes and quantities are ignored, and the sheet's
+  classes, subclass, race and each feature's `source` pick between
+  same-named entries; "Fighting Style (Archery)" links to Archery.
+- `rules: 2024` makes a sheet prefer the 2024 rules; names missing from one
+  edition are looked up in the other.
+- Pin a feature/weapon with `ref: "[kind:]Name[|args]"` using 5etools tag
+  arguments (`spell:Revivify|XPHB`, `feat:Alert`, `optfeature:Agonizing Blast`,
+  `classFeature:Cunning Action|Rogue||2`,
+  `subclassFeature:Ear for Deceit|Rogue||Inquisitive|XGE|3`), or opt out
+  with `ref: none`. In a spell list, pin one spell with `Name|SOURCE`.
+- The script lists every name it could not resolve (homebrew, typos);
+  `-v` lists every match, and `--lookup REF [--edition 2024]` tests a reference.
+- In any page's prose: `{% include rule ref="Eye for Detail" %}` (optional
+  `text="..."`); see `_includes/rule`.
 
 ### Foundry actor ingestion
 
@@ -371,6 +401,8 @@ printing a NOTE for each discrepancy so it can be checked.
   `_bin/descriptions.py show 17e09` prints the episode, its GM notes and all
   blurbs; write a YAML of corrections and `_bin/descriptions.py apply edits.yaml`.
   Blurbs must not reveal GM-only notes; length should track involvement.
+- **Check rules tooltips on charsheets:**
+  `_bin/fivetools.py` and review the unresolved names (add `ref:`s, fix typos)
 - **Run actor ingest:**
   `_bin/ingest-actor.py <json>` and review output
 - **Scaffold a new dossier stub:**
