@@ -1,7 +1,8 @@
 import json
 import re
-from frontmatter import Frontmatter  # pip install --user frontmatter
 from pathlib import Path
+
+from entities import read_front_matter
 
 basedir = Path(__file__).parent.parent / "_pages"
 baselen = len(str(basedir)) + 1
@@ -14,8 +15,7 @@ for md_path in sorted(basedir.rglob("*.md")):
     if short_path.startswith("gm"): continue  # no spoilers! :-P
     if short_path.endswith("/index"): short_path = short_path[:-6]
     if len(short_path) == 0: short_path = "."  # root index
-    doc = Frontmatter.read_file(md_path)
-    attrs = doc["attributes"]
+    attrs, body = read_front_matter(md_path)
     entry = {}
     if attrs: entry.update(attrs)
     # Strip unwanted markup from document body.
@@ -26,7 +26,7 @@ for md_path in sorted(basedir.rglob("*.md")):
         "|{%[^}]*%}"  # liquid directive
         "|<[a-zA-Z/!].*?>"  # HTML tag
     )
-    entry["body"] = re.sub(pattern, "", doc["body"], flags=re.DOTALL)
+    entry["body"] = re.sub(pattern, "", body, flags=re.DOTALL)
     entry["id"] = short_path
     index.append(entry)
 
