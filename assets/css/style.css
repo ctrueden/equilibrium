@@ -826,6 +826,7 @@ img.img {
 .moment-type-dramatic  { color: rgb(236,  72, 153); }
 .moment-type-tragic    { color: rgb(107, 114, 128); }
 .moment-type-intriguing{ color: rgb( 16, 185, 129); }
+.moment-type-epic      { color: rgb(139,  92, 246); }
 
 .moment-description {
   margin: 0;
