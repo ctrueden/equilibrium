@@ -10,7 +10,10 @@ statbox:
 descriptions:
   - session: "05e01"
     content: |
-      Master of Water who kept a secret journal of victims; healed Vondal using an unfamiliar technique.
+      Master of Water, who had secretly kept a journal of the victims' names, including a young orphan, in violation of the order's edicts. After the battle, he healed Vondal with an unfamiliar technique, at the expense of his own life energy.
+  - session: "07e01"
+    content: |
+      Died of the wounds he suffered curing Vondal, Kára and Mishaal.
 ---
 
 Former Master of Water at the

@@ -10,7 +10,7 @@ statbox:
 descriptions:
   - session: "08e01"
     content: |
-      Luminous Defender brother who introduced the SPI to the circus investigation and guided them there with two paladins.
+      Luminous Defender at the Sanctum chapter house, who took the agents to Zombozo's cell, then escorted them to the circus with two paladins.
 ---
 
 Brother Alabastor is a mild-mannered, friendly and bookish cleric.

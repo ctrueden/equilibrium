@@ -8,4 +8,8 @@ statbox:
   gender: female
   tribe: Blackscales
   case: "06"
+descriptions:
+  - session: "06e03"
+    content: |
+      Lizardfolk ninja of the Blackscales who, on her elder's orders, gave the SPI a voodoo compass that tracks the tribes of the area, to be left at the shrine of Essyllis in Xaos when justice was served, along with a bag of prophetic fire beads, and a warning not to seek out her tribe.
 ---

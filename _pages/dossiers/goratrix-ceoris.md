@@ -13,13 +13,19 @@ statbox:
 descriptions:
   - session: "15e02"
     content: |
-      Made a dramatic entrance at the ball with his retinue and was mocked by Lestache for his pomposity and need for theatrical introductions.
+      Archmage of the Crispic Clan, Architect of Sepulchralis, and Supreme Commander of Gargoyles, who broke through Lestache's protections with a clenched fist rather than await an invitation. Ozborn introduced him with a crude joke. At the gladiatorial event, he caged the combatants in a forcecage.
+  - session: "15e04"
+    content: |
+      Had been watching Callie. After the agents killed or drove off the vampires, he showed up with a slow clap, thanking them for doing his work for him.
   - session: "15e05"
     content: |
-      Delivered the Hunt's prizes to the SPI team and made a temporary truce to allow them to investigate the Soulbound Rest and the Death Tyrant.
+      Delivered the hunt's winnings, and told the agents what he wanted: power. Concerned that a Death Tyrant could devastate the land, he agreed, in a deal struck by Vondal, not to kill the agents and to discourage other vampires from harming them if they investigated a place vampires cannot enter. He led them to the Soulbound Rest, a realm of spectral undead he did not even want to enter; inside, Freki saw a ghostly version of him mourning at a grave.
   - session: "15e08"
     content: |
-      Appeared during the Brucolac battle to shield his master from the SPI's attacks and expressed dismay at the team's betrayal.
+      Guarded the chapel door, then waved the agents in: "Watch your step." When the Brucolac was near death, he broke through the vampire barrier ("Cease this folly!") and raised a wall around his sire.
+  - session: "15e09"
+    content: |
+      Yelled at his allies that if the Brucolac died, they would all die, but seemed pleased by Enoch's demise. When the ghost resembling him reached for him, he looked at it with horror, and teleported away from Freki's grapple ("I'm sorry, my liege"), leaving a strange void where he had stood, into which the ghost was drawn.
 ---
 
 Leader of the [Crispic](https://whitewolf.fandom.com/wiki/Tremere_%28VTM%29) vampire clan in [Sepulchralis](../locales/sepulchralis).

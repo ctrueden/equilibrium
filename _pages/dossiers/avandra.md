@@ -51,18 +51,21 @@ links:
 - 5E Greyhawk|https://2014.5e.tools/deities.html#olidammara_greyhawk_phb
 - 5E Greek|https://2014.5e.tools/deities.html#dionysus_greek_phb
 descriptions:
-  - session: "14e00"
+  - session: "11e04"
     content: |
-      Invoked by Callie as one of her goddesses; described as twin to Erathis but not opposites.
+      Answering Callie's prayer, she foresaw that taking the Fountain might let the agents triumph over malevolent forces from before the dawn of time.
   - session: "14e03"
     content: |
-      Identified on the divine map chart with specific elemental and domain attributes.
+      On the divine chart in Invictus's study, Avandra's symbol sat at the intersection of air and sand (trickery and life), next to Callie's figure.
   - session: "15e00"
     content: |
-      Visited Callie at Bilbo's house and gave Oz a wooden coin, promising help in using deception and stealth for future challenges.
+      Knocked on Bilbo's door and joined the party, telling Callie quietly she knew Callie liked her sister better, but didn't mind. She lamented that she can never truly be free, being what her worshippers want her to be ("To true freedom!"), and gave Ozborn a wooden coin with her symbol on both sides, to bite if he ever chose a sneakier approach over the direct one.
+  - session: "15e02"
+    content: |
+      At the ball, Callie's goddess badge suddenly showed Avandra on both sides, Erathis gone, and Callie heard Avandra's laughter in her mind: "Good job."
   - session: "15e08"
     content: |
-      Encouraged Callie's duplicity and illusion magic during the climactic battle with the Brucolac.
+      The coin she had given Ozborn wiggled in his pocket when its time came, and he bit it. She joined Ozborn and Callie with a golden thread through Callie's holy symbol, delighted by the moment, and helped Callie conjure a kaiju-sized duplicate of herself to distract the Brucolac.
 ---
 
 ## Precepts

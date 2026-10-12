@@ -8,6 +8,10 @@ image2-source: https://www.pinterest.com/pin/923378729822210744/
 statbox:
   race: titan (progenitor)
   gender: male
+descriptions:
+  - session: "17e07"
+    content: |
+      In Rhyzophus's chamber beneath the Storm Stables, Callie found Prometheus's symbol among ancient, proto-arcane runes for rewriting the essence of things: a place that seemed designed to elevate mortals to godhood, which Rhyzophus had used to create slaves.
 ---
 
 ...

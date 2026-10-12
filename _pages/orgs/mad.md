@@ -1,6 +1,10 @@
 ---
 nav-title: MAD
 title: Military Aid and Defense (MAD)
+descriptions:
+  - session: "09e04"
+    content: |
+      A MAD posse (Sennik Cromwell, Donovan Morvain, Leopold Gardenblossom, Ceowyn Mandragoran and Sil Aldrimor) arrived with a writ from the Aecus Concord Council of Nations designating SPI HQ a threat to security, and kicked the SPI out. Mallory was notably absent.
 ---
 
 The Military Aid and Defense (MAD) branch of the Aecus Concord is a mixed force

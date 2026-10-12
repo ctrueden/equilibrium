@@ -10,19 +10,19 @@ image-source: https://www.pinterest.com/pin/47358233562491935/
 descriptions:
   - session: "13e02"
     content: |
-      The SPI breached the protective veil surrounding the village and discovered it to be home to changelings and their anchors, protected by powerful priestesses.
+      A hidden village protected by an invisible veil, which Callie and Ozborn tore open by speaking its name and stabbing it. Sentries quickly found the agents, and their leader, resembling a powerful priestess of Sehanine, came out to talk.
   - session: "13e03"
     content: |
-      Attacked by the centaur warlord Talos and orc shaman Andalla seeking to claim the village's shapeshifting magic.
+      Invaded by Talos and Andalla, who sought the changelings' shapeshifting power. The agents learned that Mallory had lain comatose in the village for the past four months.
   - session: "13e04"
     content: |
-      Protected by the SPI who defeated the attackers; afterward, the party wove wild flux magic into a new entrance, transforming it into a wild magic door.
+      Talos yielded and promised not to harm the village. Its changelings, who had been unable to act during the battle, learned of Isis's death; Vondal wove Flux into a wild magic door to replace the one the agents had torn.
   - session: "14e00"
     content: |
-      The location of the Malosi fight where the agents rescued Mallory and Cassandra.
+      After the Malosi fight, the agents healed Mallory there, and had a drink at the pub.
   - session: "17e01"
     content: |
-      Served as the changelings' hidden sanctuary, where the party made alliances with key figures including Anorje and discovered troubling signs that the changelings were unified by mysterious tattoos tied to a dangerous ideology.
+      The agents teleported in with the village's memorized sigil sequence, and later reentered by speaking its name without breaking the door. They sought Grohnea's counterpart Anorje, promised help to a goblin princess, and found most villagers bearing white crane tattoos.
 ---
 
 The secret village of the [changelings](../creatures/changelings) and their anchors.

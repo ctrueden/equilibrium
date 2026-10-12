@@ -52,37 +52,40 @@ _includes/
 ## Front Matter Schemas
 
 ### Episode event page (`_pages/events/case-NNeNN.md`)
+
+Episode pages are GM Assistant YAML exports used directly as front matter
+(see "GM Assistant YAML Ingestion" below), plus a few wiki fields:
 ```yaml
 ---
-layout: session
-title: "[17e09] Blooms of Remembrance"
+title: "[17e09] Soul Toll"
 description: >-
   One-sentence teaser shown in indexes.
 datestamp: 50-06-13/09      # Aecan in-world date (format: YY-MM-DD/episode)
 when: AC50 Vis 13           # Human-readable Aecan date
 session-number: 96          # Cumulative session number across all cases
 session-date: 2026-01-17    # Real-world session date (ISO)
-locations_featured:
-  - name: Grohnea's Cottage
-    wiki: ../locales/grohneas-cottage
-npcs_featured:
+layout: session
+reviewed: false             # shows a "not yet reviewed" banner until vetted
+summary: >-                 # Long recap tab (Markdown; links allowed)
+  ...
+short_summary: >-           # Short tab; also classic_summary, snarky_summary,
+  ...                       # limerick_style_summary, notes, callie_journal
+memorable_moments:          # [{type, description, context, is_quote, speaker}]
+scenes:                     # [{title, description, key_events: [...]}]
+npcs:                       # right sidebar lists: {name, description, wiki}
   - name: Ulgrim
-    role: >-
-      Bear shaman who performed a protective ritual on Ozborn
-    wiki: ../dossiers/ulgrim
-items_featured:
-  - name: Ward of Returning
-    wiki: ../relics/ward-of-returning
-  - name: Egret Orchid        # no wiki field = no link
-spells_featured:
-  - Eldritch Blast
-  - Wish
+    description: >-
+      Bear shaman who performed a protective ritual on Ozborn.
+    wiki: ../dossiers/ulgrim  # no wiki field = no link
+locations: [...]
+items: [...]
+spells: [...]
 ---
 ```
-Content uses the **session layout** with collapsible `<details>` sections (see below).
-The `layout: session` key enables the three-column layout with a session nav sidebar
-and a reference sidebar (Locations, NPCs, Items, Spells built from front matter lists).
-All four sidebar lists are optional; omit any that aren't relevant.
+Older episodes instead have hand-written Markdown bodies (with the
+`{% include tab %}` recap tabs described below); both forms render with
+the **session layout**: case/episode navigation on the left, prev/next
+episode links, collapsible content sections, and the reference sidebar.
 
 ### Case summary page (`_pages/events/case-NN.md`)
 ```yaml
@@ -120,7 +123,8 @@ title: Storm Stables
 ## Session Page Body Structure
 
 Episode pages use collapsible `<details>` sections, with the recap section
-containing the tab system. **The ingest script generates this automatically.**
+containing the tab system. (This applies to older, hand-written episodes; for GM Assistant episodes,
+the layout builds the same sections from the front matter.)
 
 ```markdown
 <details class="session-section" open>
@@ -226,100 +230,147 @@ which scans the built `_site` for `<img>` URLs (so build the site first).
 
 ---
 
-## ⚠️ Name Alias Warning (GM Assistant vs. Wiki)
-
-**GM Assistant may sometimes use different spellings than the wiki.**
-Always verify names before publishing. Known divergences are declared
-in `_bin/ingest-session.py` in the `KNOWN_ALIASES` dictionary.
-
-This list grows over time. When ingesting a session, always check NPC and
-location names against existing `_pages/dossiers/` and `_pages/locales/` files.
-
----
-
 ## GM Assistant YAML Ingestion
 
-The primary utility script is `_bin/ingest-session.py`. It converts a
-GM Assistant YAML export into a draft Jekyll episode page.
+GM Assistant exports session notes as YAML closely matching the episode
+schema above, so ingestion is: save the export as
+`_pages/events/case-NNeNN.md` between `---` lines, then add `title`,
+`description`, `datestamp`, `when`, `session-number`, `session-date`,
+`layout: session` and `reviewed: false`.
 
-**Usage:**
+**GM Assistant often misspells names** (transcription from audio). Known
+misspellings are recorded as `aliases:` in the front matter of the page
+they refer to (e.g. `aliases: [Kerwin Ovas]` on `dossiers/kerwin-ulvas.md`),
+so that tools recognize them.
+
+### Reviewing a session: `_bin/review-session.py`
+
 ```bash
-_bin/ingest-session.py path/to/session-DATE.yaml
+_bin/review-session.py                    # dry run over all `reviewed: false` pages
+_bin/review-session.py case-18e06.md      # one page
+_bin/review-session.py --fix "Zarlis=Xarlus" --fix "Gallic=Galloc" --apply case-18e06.md
 ```
+It (1) links the first mention of each known entity in each recap field
+(each is its own tab), in the scenes and in the Markdown body; (2) fills in
+missing `wiki:` links in the npcs/locations/items sidebars; and (3) flags
+capitalized names with no wiki page, suggesting close matches as probable
+misspellings. Fix misspellings with `--fix OLD=NEW` (or by hand), and add
+recurring ones to the target page's `aliases:`. Names come from
+`_bin/entities.py`: page titles, `nav-title`, `aliases`, and distinctive
+first/last names (ordinary words like "Holly" are never linked alone).
+Nothing is written without `--apply`.
 
-**What it produces:**
-- `_pages/events/case-{id}.draft.md` — draft episode page with:
-  - `layout: session` and all sidebar front matter pre-populated
-  - Collapsible Recap (with all tab variants), Memorable Moments, and Outline sections
-- Console report of NPCs/locations that don't have existing wiki pages yet
-
-**What it does NOT do (requires human follow-up):**
-- Correct proper noun spelling differences (see alias table above)
-- Add wiki links in body text (`[Name](../dossiers/slug)` format)
-- Fill in `datestamp` and `when` (requires Aecan calendar lookup)
-- Fill in `session-number` (check the previous episode's front matter + 1)
-- Trim or polish the auto-generated sidebar lists
-- Create dossier/locale stubs (do this manually,
-  or ask Claude Code to scaffold them)
-- Overwrite existing pages
-
-**Post-ingest checklist:**
-1. Rename `.draft.md` to `.md` when satisfied
-2. Correct all proper nouns (especially check alias table)
-3. Add wiki links throughout body text
-4. Trim sidebar lists — remove minor walk-ons, keep featured NPCs/locations
-5. Fill in `datestamp`, `when`, `session-number`
-6. Write the `description` field (one teaser sentence)
-7. Create any missing dossier/locale stubs flagged in the console output
-8. Update the case summary page (`case-NN.md`) if the arc concluded
+**Review checklist:**
+1. Run the review script; fix misspellings; rerun with `--apply`
+2. Read the recap against GM notes; fix factual errors
+3. Trim sidebar lists — remove minor walk-ons; fix their `description`s
+4. Fill in `datestamp`, `when`, `session-number`, `description`, `title`
+5. Create any missing dossier/locale stubs for names worth a page
+6. Update the case summary page (`case-NN.md`) if the arc concluded
+7. Remove `reviewed: false`
 
 ---
 
-## Foundry Actor Ingestion (Character Sheets)
+## Character Sheets
 
-The script `_bin/ingest-actor.py` converts a Foundry VTT actor JSON export into a
-Jekyll character sheet page using the `charsheet` layout.
+Character sheets live in `_pages/gm/charsheets/<slug>.md` (GM-only) and use
+the `charsheet` layout (`_layouts/charsheet.html`), with all data nested
+under `cs:` in the front matter. `_pages/gm/charsheets/index.md` lists them.
+Link to a sheet from a GM dossier as
+`[character sheet]({{site.baseurl}}/gm/charsheets/<slug>)` (GM dossiers are
+embedded into public pages, so relative links would break).
 
-**Usage:**
-```bash
-_bin/ingest-actor.py path/to/fvtt-Actor-name-XXXX.json
+Sheets store only the *inputs*; the layout computes everything derivable
+(in Liquid, so it works on stock GitHub Pages), using the ability/skill
+tables in `_data/dnd.yml`. `_bin/charsheet.py` mirrors the computation in
+Python, for scripts that need to check or report the numbers.
+
+```yaml
+cs:
+  name: Vex Morradine
+  race: Tiefling
+  class: Rogue 10 / Ranger 3    # free text; level is not repeated if it has digits
+  subclass: Inquisitive / Gloom Stalker
+  level: 13                     # total level: drives the proficiency bonus
+  cr: 10                        # used for proficiency only when level is absent
+  # proficiency: 5              # override (e.g. house-ruled epic NPCs)
+  background: ...
+  alignment: Lawful neutral
+
+  abilities: {str: 10, dex: 20, con: 12, int: 16, wis: 16, cha: 14}
+  saves: [dex, int]                       # proficient saves
+  skills: [athletics, intimidation]       # proficient skills ("Sleight of Hand" or sleightofhand)
+  expertise: [insight, stealth]           # double proficiency
+  jack_of_all_trades: false               # half proficiency on other checks + initiative
+  bonuses:                                # flat adjustments, all optional
+    saves: 1               # all saves (ring/cloak of protection...)
+    checks: 0              # all ability checks (stone of good luck...)
+    skills: {arcana: 3}    # individual skills
+    initiative: 8          # Alert, Dread Ambusher...
+    passive_perception: 5  # Observant
+    spell: 3               # spell attack and save DC (rod of the pact keeper...)
+
+  ac: 18
+  ac_note: studded leather +1          # shown under the AC box
+  speed: 30 ft.
+  hp_max: 84
+  # hp: 60                             # current HP, if different from max
+  hit_dice: 10d8 + 3d10
+  # initiative / passive_perception / spell_dc / spell_atk: overrides
+
+  spell_ability: wis       # => spell DC and attack bonus
+  spells:
+    - {level: "1st (3 slots)", list: "Absorb Elements, Hunter's Mark"}
+
+  weapons:
+    # ability: str/dex/con/int/wis/cha, finesse (better of STR/DEX), or spell.
+    # Attack = mod + proficiency (unless prof: false) + magic + atk_bonus.
+    # Damage = dice + mod (not for spells unless dmg_mod: true) + magic + dmg_bonus,
+    # then type and extra. Literal atk/dmg strings override; save: dex shows "DC N Dex".
+    - {name: Sword cane, ability: dex, dice: 1d8, type: Piercing, dmg_bonus: 2, range: 5 ft., props: Dueling}
+    - {name: Eldritch Blast, ability: spell, dice: 1d10, type: Force, dmg_mod: true, range: 120 ft.}
+    - {name: Sneak Attack, dmg: +5d6, props: Once per turn}
+
+  features:
+    - {name: Favored Foe, source: Ranger, uses: 3/LR}
+  traits: {size, senses, resistances, immunities, vulnerabilities, condition_immunities, languages}
+  proficiencies: {armor, weapons, tools}
+  equipment: [...]
+  currency: {gp: 60}
 ```
 
-**What it produces:**
-- `_pages/gm/charsheets/<slug>.draft.md` — draft character sheet with:
-  - `layout: charsheet` and all stats pre-computed in YAML front matter
-  - Ability scores, saving throws, skills, weapons, features, equipment
-  - Feature descriptions as markdown body text (rendered as a two-column section)
+The markdown body (tactics, feature descriptions, notes) renders below the
+sheet in two columns.
 
-**What it computes automatically:**
-- Proficiency bonus (from class level)
-- Ability modifiers
-- Saving throw and skill bonuses (with proficiency detection)
-- AC (from equipped armor, or Barbarian/Monk Unarmored Defense)
-- Speed (race base + class bonuses like Fast Movement)
-- Weapon attack/damage strings (per-weapon ability, proficiency, damage type)
-- Uses/resources (resolves `@scale.*` and `@prof` formulas)
-- Feature list grouped by source (Race, Class, etc.)
+### Foundry actor ingestion
+
+`_bin/ingest-actor.py path/to/fvtt-Actor-name-XXXX.json` converts a Foundry
+VTT actor export into `_pages/gm/charsheets/<slug>.draft.md` in the schema
+above. It computes values from the Foundry data (proficiencies, AC from
+armor or Unarmored Defense, speed, uses via `@scale`/`@prof`) and then
+expresses anything the layout would not derive on its own as `bonuses`,
+printing a NOTE for each discrepancy so it can be checked.
 
 **Post-ingest checklist:**
 1. Rename `.draft.md` to `.md` when satisfied
-2. Verify AC (check console checklist — especially shields/magic items)
-3. Verify speed (race traits, magic items may add more)
+2. Review the NOTE lines (unexpected bonuses usually mean missed proficiencies)
+3. Verify AC (especially shields/magic items) and speed (race traits, items)
 4. Check uses/resources for complex `@scale` formulas
 5. Fill in `background` and `alignment` if not in Foundry
 6. Review feature descriptions for Foundry-specific markup that wasn't cleaned up
-7. Remove `spell_ability`/`spell_dc`/`spell_atk` fields if character is not truly a spellcaster
-
-**Front matter schema:** `layout: charsheet` with all data nested under `cs:`.
-**Layout file:** `_layouts/charsheet.html`
-**Output directory:** `_pages/gm/charsheets/`
+7. Remove `spell_ability` if the character is not truly a spellcaster
 
 ---
 
 ## Common Tasks Claude Code Can Help With
 
-- **Run session ingest:**
-  `_bin/ingest-session.py <yaml>` and review output
+- **Review a session:**
+  `_bin/review-session.py <page>` and review output
+- **Review entity blurbs for a session** (the per-session `descriptions:` on
+  dossiers/locales/orgs/creatures/relics, shown as each page's Chronicle):
+  `_bin/descriptions.py show 17e09` prints the episode, its GM notes and all
+  blurbs; write a YAML of corrections and `_bin/descriptions.py apply edits.yaml`.
+  Blurbs must not reveal GM-only notes; length should track involvement.
 - **Run actor ingest:**
   `_bin/ingest-actor.py <json>` and review output
 - **Scaffold a new dossier stub:**

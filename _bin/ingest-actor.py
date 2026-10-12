@@ -17,6 +17,8 @@ import math
 import re
 from pathlib import Path
 
+import charsheet
+
 try:
     import yaml
 except ImportError:
@@ -779,160 +781,15 @@ def generate_page(cs: dict) -> str:
         title_parts.append(class_line)
     page_title = ' — '.join(title_parts)
 
-    lines = ['---']
-    lines.append(f'layout: charsheet')
-    lines.append(f'title: "{page_title}"')
-    lines.append('')
-    lines.append('cs:')
-
-    def y(key, val, indent=2):
-        """Emit a YAML key: value line."""
-        prefix = ' ' * indent
-        if val is None or val == '':
-            lines.append(f'{prefix}{key}: ""')
-        elif isinstance(val, bool):
-            lines.append(f'{prefix}{key}: {"true" if val else "false"}')
-        elif isinstance(val, (int, float)):
-            lines.append(f'{prefix}{key}: {val}')
-        else:
-            # Quote strings that need it
-            s = str(val)
-            if any(c in s for c in ':#{}[]|>&*!,?@`\'"') or s.startswith(' ') or s in ('true', 'false', 'null', ''):
-                escaped = s.replace('"', '\\"')
-                lines.append(f'{prefix}{key}: "{escaped}"')
-            else:
-                lines.append(f'{prefix}{key}: {s}')
-
-    # Identity
-    y('name', cs['name'])
-    y('actor_type', cs['actor_type'])
-    y('race', cs['race'])
-    y('class', cs['class'])
-    y('subclass', cs['subclass'])
-    y('level', cs['level'])
-    if cs['cr']:
-        y('cr', cs['cr'])
-    y('background', cs['background'])
-    y('alignment', cs['alignment'])
-    lines.append('')
-
-    # Combat stats
-    y('proficiency', cs['proficiency'])
-    y('ac', cs['ac'])
-    y('initiative', cs['initiative'])
-    y('speed', cs['speed'])
-    y('hp', cs['hp'])
-    y('hp_max', cs['hp_max'])
-    y('hit_dice', cs['hit_dice'])
-    y('passive_perception', cs['passive_perception'])
-    lines.append('')
-
-    # Spellcasting (only if present)
-    if cs['spell_ability']:
-        y('spell_ability', cs['spell_ability'])
-        y('spell_dc', cs['spell_dc'])
-        y('spell_atk', cs['spell_atk'])
-        lines.append('')
-
-    # Abilities
-    lines.append('  abilities:')
-    for a in cs['abilities']:
-        lines.append(f'    - {{key: {a["key"]}, name: {a["name"]}, score: {a["score"]}, mod: "{a["mod"]}\"}}')
-
-    lines.append('')
-
-    # Saves
-    lines.append('  saves:')
-    for s in cs['saves']:
-        prof_str = 'true' if s['prof'] else 'false'
-        lines.append(f'    - {{name: {s["name"]}, bonus: "{s["bonus"]}", prof: {prof_str}}}')
-
-    lines.append('')
-
-    # Skills
-    lines.append('  skills:')
-    for sk in cs['skills']:
-        marker = sk['marker']
-        lines.append(
-            f'    - {{name: "{sk["name"]}", ability: {sk["ability"]}, '
-            f'bonus: "{sk["bonus"]}", marker: "{marker}"}}'
-        )
-
-    lines.append('')
-
-    # Weapons
-    lines.append('  weapons:')
-    if cs['weapons']:
-        for w in cs['weapons']:
-            n = w['name'].replace('"', '\\"')
-            d = w['dmg'].replace('"', '\\"')
-            r = w['range'].replace('"', '\\"')
-            p = w['props'].replace('"', '\\"')
-            lines.append(f'    - {{name: "{n}", atk: "{w["atk"]}", dmg: "{d}", range: "{r}", props: "{p}"}}')
-    else:
-        lines.append('    []')
-
-    lines.append('')
-
-    # Features (names and sources only)
-    lines.append('  features:')
-    if cs['features']:
-        for f in cs['features']:
-            n = f['name'].replace('"', '\\"')
-            s = f['source']
-            uses = f.get('uses', '')
-            if uses:
-                lines.append(f'    - {{name: "{n}", source: {s}, uses: "{uses}"}}')
-            else:
-                lines.append(f'    - {{name: "{n}", source: {s}}}')
-    else:
-        lines.append('    []')
-
-    lines.append('')
-
-    # Traits
-    lines.append('  traits:')
-    t = cs['traits']
-    y('size', t['size'], 4)
-    y('resistances', t['resistances'], 4)
-    y('immunities', t['immunities'], 4)
-    y('vulnerabilities', t['vulnerabilities'], 4)
-    y('condition_immunities', t['condition_immunities'], 4)
-    y('languages', t['languages'], 4)
-    y('senses', t['senses'], 4)
-
-    lines.append('')
-
-    # Proficiencies
-    lines.append('  proficiencies:')
-    p = cs['proficiencies']
-    y('armor', p['armor'], 4)
-    y('weapons', p['weapons'], 4)
-    y('tools', p['tools'], 4)
-
-    lines.append('')
-
-    # Equipment
-    lines.append('  equipment:')
-    if cs['equipment']:
-        for item in cs['equipment']:
-            item_str = item.replace('"', '\\"')
-            lines.append(f'    - "{item_str}"')
-    else:
-        lines.append('    []')
-
-    lines.append('')
-
-    # Currency
-    lines.append('  currency:')
-    cur = cs['currency']
-    for coin in ('pp', 'gp', 'ep', 'sp', 'cp'):
-        lines.append(f'    {coin}: {cur.get(coin, 0)}')
-
-    lines.append('---')
-    lines.append('')
+    # Front matter: the compact charsheet schema. The values computed by
+    # build_charsheet() serve as a cross-check: compact() expresses any
+    # differences from what the layout computes as bonuses, and reports them.
+    compact_cs, report = charsheet.compact(cs)
+    for line in report:
+        print(f"  NOTE: {line}")
 
     # Markdown body: feature descriptions
+    body_sections = []
     if cs['features_descriptions'] or cs['spells_by_level']:
         class_line = build_class_line(cs)
 
@@ -955,8 +812,6 @@ def generate_page(cs: dict) -> str:
             if had_desc:
                 return [f'## {heading}', ''] + group_lines
             return []
-
-        body_sections = []
 
         if race_feats:
             race_heading = f"Race: {cs['race']}" if cs['race'] else "Racial Features"
@@ -987,10 +842,7 @@ def generate_page(cs: dict) -> str:
                     body_sections.append(f'- {sp}')
                 body_sections.append('')
 
-        if body_sections:
-            lines.extend(body_sections)
-
-    return '\n'.join(lines) + '\n'
+    return charsheet.emit_page(page_title, compact_cs, '\n'.join(body_sections))
 
 
 # ---------------------------------------------------------------------------

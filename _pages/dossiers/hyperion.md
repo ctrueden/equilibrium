@@ -12,18 +12,30 @@ statbox:
 links:
   - Wikipedia|https://en.wikipedia.org/wiki/Hyperion_(Titan)
 descriptions:
+  - session: "07e03"
+    content: |
+      Cal realized that Hyperion had given him the Arkenstone, calling his sword an "instrument" in the sense of a cardinal tool.
+  - session: "14e03"
+    content: |
+      Cal recognized Gaia's symbol from a letter his father once received; his father had claimed he "used to be a god."
   - session: "14e04"
     content: |
-      Mentioned as Cal's father; confirmed to have once been a god and discussed using full divine power if he still had it.
+      Invictus revealed that Hyperion hated the Brucolac because they were brothers.
+  - session: "15e00"
+    content: |
+      Cal told Bilbo he had been given to Hyperion, his new father, to honor his birth father, and served with him on the glacier until joining the SPI; his father is "not a god anymore."
   - session: "17e02"
     content: |
-      Communicated with the agents through a sending spell to confirm the assignment at the Storm Stables; his messages were coldly authoritative and emphasized the mission's criticality.
+      Answered Callie's sending on Cal's behalf with a soul-chilling cold: "CORRECT. TELL NO ONE ELSE. DESTROY THE INFIDELS. DO NOT LET IT DISTRACT FROM YOUR DUTY. REPORT BACK WHEN IT IS DONE."
+  - session: "17e05"
+    content: |
+      If the agents failed, Kavaki was to escape and report to Hyperion.
   - session: "17e07"
     content: |
-      Recognized through Jorik's testimony as having placed restrictions on the stables when the cult took control; his authority loomed over the judgment proceedings as Cal asserted himself as Hyperion's representative.
+      Cal invoked his authority as Hyperion's son to cow Rhyzophus's followers: "Do you think Hyperion would have sent me here alone?"
   - session: "17e09"
     content: |
-      Risked losing his son's loyalty when Cal permitted the freed giants to seek out Theia, Hyperion's estranged wife whose name was forbidden to speak, to locate the lost halfling colony of Xaryuvia.
+      Cal blessed the giants' plan to seek out Theia, Hyperion's estranged wife, whose name was forbidden; doing so could anger Hyperion and get Cal disowned.
 ---
 
 A [titan](../creatures/titans) known by [Cal](../dossiers/cal) and [Phoebe](../dossiers/phoebe). Consort of [Theia](theia).

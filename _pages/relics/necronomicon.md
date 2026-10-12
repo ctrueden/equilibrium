@@ -18,32 +18,26 @@ descriptions:
     content: |
       The Book of the Dead, believed to be one of eight divine [relics](.) somehow central to the integrity of reality itself. Anything which touches it is cursed by (un?)death. Naming a creature and writing its name in the book dooms them to die.
 
-      Once locked in the treasure vault of [Dominic Tremere](../dossiers/dominic-tremere), the Necronomicon was then arranged to be stolen by the medusa [Pulchritudinous Euryale](../dossiers/pulchritudinous-euryale) and traded to the ex-druid [Isis Ra'ksh](../dossiers/isis-raksh) in exchange for a potion to restore Euryale's humanity.
+      Dominic Tremere had found it in Arallu forty years earlier, and kept it locked in his vault, studying it for a cure to the condition it had inflicted on him. When the agents opened the vault, the book was gone: the only clue was smudged chalk marks on the lectern, resembling a small teleportation circle.
+  - session: "02e02"
+    content: |
+      Euryale revealed she had traded the book to the ex-druid Isis Ra'ksh, in exchange for a potion to restore her humanity.
   - session: "10e04"
     content: |
       Stolen by Isis Raksh and currently pursued by the warforged R. Martine Andrews in the Deepwood.
-  - session: "12e02"
+  - session: "12e06"
     content: |
-      Once in Isis's possession, she used it to poison the [Yggdrasil](../relics/yggdrasil) in a misguided effort to counter a nebulous world-destabilizing force she called the Vortex. But the Book's evil took root within Isis, festering into the parasitic entity [Zuggtmoy](../dossiers/zuggtmoy), before jumping to the [Fae Queen](../dossiers/ambriel-estanesse). When this happened, Isis came to her senses and discarded the Necronomicon in horror at what she had done.
+      Tybalt sent word that the Book had been found on the forest floor, and that the Warforged was searching the area.
   - session: "12e09"
     content: |
-      Kept safe in the royal vault by Tybalt, with warnings that it should not be touched due to its dangerous feedback mechanisms.
+      Tybalt reported it safe in the royal vault, away from the Queen, and told the agents to leave it alone. Isis said its corruption had grown a monster inside her that had controlled her for the past month.
   - session: "12e11"
     content: |
-      Was cleansed of its evil writings through a ritual performed by the party and Lorissa Stormseeker, though it retained some residual darkness.
+      Recovered by elven scouts and locked in the royal treasury, encased in translucent crystal, which Ozborn split with the Hornblade. With Lorissa Stormseeker's help, the agents aided Sartus Morningdew in invoking a *miracle*, the pinnacle of mortal magic, to erase the Book's writings and cleanse its corruption at the source; Callie contributed three spell slots.
   - session: "12e12"
     content: |
-      Finally cleansed of all evil after Lorissa cast remove curse, though the full ritual to destroy it remained incomplete.
-  - session: "13e01"
-    content: |
-      Elven scouts recovered the discarded Book and locked it away in the royal treasury; the SPI infiltrated the treasury and aided [Sartus Morningdew](../dossiers/sartus-morningdew) in invoking a *miracle*, the pinnacle of mortal magic, to erase the writings in the Book, cleansing its corruption at the source.
-  - session: "14e00"
-    content: |
-      Mentioned as having been given to the elves in a prior case.
+      Phoebe sensed its cleansing was incomplete. In the throne room, a page torn from it made the arrow that destroyed Zuggtmoy's ooze, and Ozborn tried to destroy it with the Hornblade, but Freki took the blow. Celes found a tiny gem of evil still in it, and Lorissa's remove curse left it, she believed, fully cleansed.
   - session: "14e04"
     content: |
-      Revealed to have been Invictus's phylactery; when cleansed, it also cleansed Invictus, pushing his soul out and likely into a living body.
-  - session: "14e05"
-    content: |
-      Referenced in the discussion about it being Invictus's phylactery and why the situation won't repeat.
+      Invictus revealed that Iapetus created it to save Cronus, and that he had bound his own soul to it. Bec theorized that it was his phylactery, so that cleansing it pushed his soul out, perhaps into a living body; its cleansing had also cleansed the Celestial Hand.
 ---

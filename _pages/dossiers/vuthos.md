@@ -13,7 +13,7 @@ statbox:
 descriptions:
   - session: "06e01"
     content: |
-      Orc co-guide hired by Bruck to help lead the SPI through the jungle to the Manufeai encampment.
+      Jovial orc of the Blood Hand, brought along by Bruck as co-guide on the tough trek through the jungle, where he happily speared and ate the huge spiders and other creatures they met. At the sight of the massacre, he seemed rattled.
 ---
 
 TODO

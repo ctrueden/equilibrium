@@ -10,16 +10,25 @@ statbox:
 descriptions:
   - session: "07e02"
     content: |
-      Pirate captain who loudly proclaimed his artifacts and boons at the auction, including promises to sail anyone back if he obtained the potion.
+      Pirate captain who accepted Callie's rum-drinking challenge, then cast a spell to sober up while she stayed tipsy, and regaled the agents with stories of his magic ship. He was the third guest called in to negotiate.
+  - session: "07e03"
+    content: |
+      Called in to negotiate, he instead jumped on a table and made a public offer: if he won the potion, Stormcloud would get on his boat, he'd fix the elves' Tree, recover Invictus's book, tell the SPI what happened to its missing agents, make Orbach a pirate, and give Tremere nothing. Then he stomped out.
+  - session: "07e04"
+    content: |
+      Missing since his speech, he returned from outside with scratched-up arms, claiming he had wrestled a tree into submission in order to relieve himself on it.
   - session: "07e05"
     content: |
-      Fought the carnivorous plant alongside the party and was eaten, only to escape later.
+      Followed the shrieking to the Preservatory, where the carnivorous plant grabbed and ate him. Vondal's detect thoughts caught him fuming that Orbach had tried to frame him.
   - session: "10e02"
     content: |
-      Convinced the party to trust Seirye and Anne Bonny about Melora's warnings. Insisted on continuing to the Cornucopia to help Meroe.
+      Summoned by "Seirye" with her bracelet of friends on the sixth day of the desert crossing, revealing her to be his first mate, Anne "Bonny" Qin. He insisted that the goddess Melora really had warned them that a great calamity was coming, and that the artifacts needed to be secured.
   - session: "10e03"
     content: |
-      Challenged Pelor regarding the relocation of the Cornucopia, invoking the goddess Melora's will.
+      When Pelor objected to the agents interfering with the Cornucopia, Bram fired back that his "much more awesome" goddess Melora knew what was best for it.
+  - session: "10e04"
+    content: |
+      Teleported the agents to his ship, the Tempest, warned Bec not to open the ice chest in his quarters, and charted a course around a new chaos rift.
 ---
 
 Captain of the [Tempest pirate vessel](../relics/tempest), one of the eight artifacts somehow central to the integrity of reality itself. Together with SPI agents, facilitated a "heist" of the Cornucopia, to protect it from a vaguely defined future "calamity" prophesied by Melora, goddess of storms and the sea.

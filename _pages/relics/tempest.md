@@ -10,7 +10,7 @@ image3-source: https://www.pinterest.com/pin/200339883415303261/
 descriptions:
   - session: "10e04"
     content: |
-      Bram the Blithe's pirate dreadnought ship where the party teleported after hiding the Cornucopia. Constantly surrounded by a terrible storm.
+      Bram teleported the agents to his dreadnought, ringed by a terrible storm a mile or so out. From the crow's nest, his thri-kreen lookout spotted a chaos rift that "wasn't there before," and Bram charted a course around it.
 ---
 
 [Bram the Blithe](../dossiers/bram-the-blithe) captains a legendary ship that he claims was crafted by [Melora](../dossiers/melora), the goddess of storms and the sea. It is believed to be one of eight divine [relics](.) somehow central to the integrity of reality itself.

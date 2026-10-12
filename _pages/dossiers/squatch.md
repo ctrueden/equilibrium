@@ -9,10 +9,10 @@ statbox:
 descriptions:
   - session: "08e01"
     content: |
-      Strong man performer at the circus who interacted with the investigators.
+      Circus strong man, interviewed by the agents; he seemed somewhat fixated on the bodies.
   - session: "08e02"
     content: |
-      Circus golem whose internal squishy wound was investigated through exploratory surgery by Ozborn and Callie.
+      The golem complained that his tummy hurt in a weirdly squishy spot. Callie cut him open, revealing a fresh interior wound, then healed him.
 ---
 
 Squatch is the strong man of the [Zombozo](zombozo) circus. He is also a flesh

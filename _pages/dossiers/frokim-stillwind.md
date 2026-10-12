@@ -11,7 +11,7 @@ statbox:
 descriptions:
   - session: "15e02"
     content: |
-      Met privately with Lestache at the ball to arrange the delivery of a halfling perimeter defender for the Hunt.
+      A halfling seen by Freki's ravens meeting Lestache: he had arranged for a guardswoman who fancied herself a captain to be caught and exiled to the edge of Gangrel territory, and collected payment for delivering her.
 ---
 
 A shady character who [Hugin](hugin) and [Munin](munin) observed making a deal with [Lestache de Lyarcourt](lestache-de-lyarcourt) regarding the quarry for an upcoming vampire hunt.

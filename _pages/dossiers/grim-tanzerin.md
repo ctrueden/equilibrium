@@ -10,7 +10,7 @@ statbox:
 descriptions:
   - session: "14e01"
     content: |
-      Teleported to the meeting as one of three Arallu representatives; identified as a protective bodyguard with magical chain armor.
+      Teleported into Feathersworth's outpost with Lestache and Malachai, carrying a magical chain. Asked who he was, Lestache called him "nobody, protection."
 ---
 
 A goliath revenant, bodyguard of [Lestache de Lyarcourt](lestache-de-lyarcourt).

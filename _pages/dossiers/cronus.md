@@ -1,6 +1,7 @@
 ---
 nav-title: Cronus
 title: Cronus, Titan of Reaping
+aliases: [Brucolac, The Brucolac]
 image: https://i.pinimg.com/originals/ba/b4/35/bab435e926a974b6d6b464c96ebc592e.jpg
 image-source: https://www.pinterest.com/pin/18999629670353159/
 image-titan: https://i.pinimg.com/originals/b4/11/3d/b4113d1274248c1f324d46754dd32127.jpg
@@ -19,25 +20,25 @@ links:
 descriptions:
   - session: "12e11"
     content: |
-      A creature whose conjured form appeared in the vault, dispensing items from his pack before being dispelled.
-  - session: "14e00"
-    content: |
-      The vampire leader (Brucolac) who sent agents demanding SPI service; his archlich servant Timor Invictus has ceased attending meetings.
+      An illusory Brucolac appeared at the treasury, offering Bec "a gift": he pulled a ball of feathers from his bag, which became an owlbear samurai, then the corpse of Letharil Galere. Bec dispelled him.
   - session: "14e04"
     content: |
-      Named as the Brucolac; was once a god but became corrupted through the Book of the Dead; Hyperion hates him as a brother turned abomination.
+      Invictus revealed that the Brucolac was once a god, Hyperion's brother: when the gods overthrew the titans, Iapetus created the Book of the Dead to save the mortally wounded Cronus, but something went wrong, and Cronus became the Brucolac.
   - session: "15e06"
     content: |
-      Emerged from the defiled sarcophagus after the Death Tyrant's defeat and thanked the SPI for purging his sanctum of the abomination.
+      A stained glass window in the chapel had been altered to depict something like the agents' vision of the Brucolac, and the Necronomicon. As the agents fought the Death Tyrant, an enormous hand reached out of the sarcophagus.
   - session: "15e07"
     content: |
-      Confirmed he is the Brucolac (formerly Cronus); acknowledged his confusion about his past and the defiled state of his sanctum; allowed the SPI to depart and offered to send an agent.
+      Burst out of the sarcophagus where the Death Tyrant had been feeding on him, armored himself with a wave of his hand, and charmed Cal. After the tyrant's death, he thanked the agents for purging his sanctum, shaken and furious that this could happen. He said he remembered devouring them all, including "her," but not who she was. In exchange for Callie's visions, he offered to send an agent with them: Calderon, Orlok, or Elloia. Cal called him "uncle," and he let Cal go.
   - session: "15e08"
     content: |
-      Betrayed by the SPI team upon their return; engaged in direct combat and consumed part of their essences to heal his wounds before being shielded by Goratrix.
+      Trapped the teleport circle to waylay Cal, and fought him, hampered when time seemed to reset, which he blamed on Themis, whose interference he had not felt in millennia. He summoned Enoch, cast finger of death on Cal, and swallowed him whole; then, as Vondal pulled Cal back out through the Flux, he began consuming the Flux to manifest an hourglass, which Ozborn stole. Struck by a fatal blow, he did not die, but drained the agents' essence to heal, and Goratrix walled him off.
+  - session: "15e09"
+    content: |
+      Walled in by Goratrix, he intensified the chapel's oppressive aura as his clothes stitched themselves back together, pressed his will on Callie, and drained the agents' essence again before they teleported away.
   - session: "17e08"
     content: |
-      Manifested through the scrying crystal to psychically attack Oz, calling him "my child" and leaving him bloodied with a phantom vampire bite; revealed as an ancient and powerful entity with interest in Oz's bloodline.
+      When Ozborn tried to scry Orlok, the crystal ball filled with blood, an overwhelming charisma reached out to embrace him, two gouts of blood spurted from his neck, and a voice said, "MY CHILD."
 ---
 
 One of the 12 [titans](../creatures/titans) from whom the [gods](../creatures/eternals) were born. Once the consort of [Rhea](rhea), now one of the three leaders of [Arallu](../locales/arallu), a vampire lord known as the Brucolac, Lord of All Bloodsworn.

@@ -9,7 +9,7 @@ statbox:
 descriptions:
   - session: "01e01"
     content: |
-      Proprietor of the Beastly Colosseum in Haven, interviewed by SPI agents investigating a petrification murder.
+      Dwarven arenamaster of the Beastly Colosseum, interviewed by the agents. Dartan owed her gambling debts, but she claimed to have "other ways" of collecting, through the Colosseum's arrangement with Xaryu's Perfect Order.
 ---
 
 Runs the Beastly Colosseum in Haven.

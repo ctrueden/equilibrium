@@ -9,10 +9,10 @@ session-date: 2026-09-05
 layout: session
 reviewed: false
 summary: >-
-  The night had grown heavy and watchful over the rough streets of Trell when a
+  The night had grown heavy and watchful over the rough streets of [Trell](../locales/trell) when a
   shadowy figure stepped out of a nearby alley, his smirk catching the dim light
-  as he approached the party. He introduced himself through Taelin's startled
-  recognition — Galloc, one of Kerwin's personal bodyguards — and offered a
+  as he approached the party. He introduced himself through [Taelin](../dossiers/taelin-fosse)'s startled
+  recognition — [Galloc](../dossiers/galloc), one of [Kerwin](../dossiers/kerwin-ulvas)'s personal bodyguards — and offered a
   casual warning about making too much noise in a neighborhood like this. The
   sharpest eyes among the group caught the subtle flicker of his gaze toward
   Taelin, a momentary tell that betrayed a hidden interest beneath his easy,
@@ -42,20 +42,20 @@ summary: >-
   buffer that had been wrapped around her was finally, visibly dissolving away.
 
 
-  Vondal, who had been quietly bottling up the knowledge of what Taelin had done
+  [Vondal](../dossiers/vondal), who had been quietly bottling up the knowledge of what Taelin had done
   that evening, could contain himself no longer. He blurted out the question
   that had been burning in him all night — was she freaking out because she had
   murdered a man? The words hung in the air, blunt and unavoidable. Taelin
-  didn't deny it. Ozborn, ever the pragmatist, knelt beside her and offered the
+  didn't deny it. [Ozborn](../dossiers/oz), ever the pragmatist, knelt beside her and offered the
   only comfort he knew how to give, remarking with genuine sincerity that he
   remembered his own first stabbing and that they could talk about it. It was,
   in its own strange way, the kindest thing anyone had said to her all evening.
 
 
-  The group made a swift decision to split up. Callie and Bec would escort
-  Taelin back to the SPI's local headquarters, keeping her safe inside a
+  The group made a swift decision to split up. [Callie](../dossiers/callie) and [Bec](../dossiers/bec) would escort
+  Taelin back to the [SPI](../orgs/spi)'s local headquarters, keeping her safe inside a
   shimmering protective dome that rendered them invisible to the outside world.
-  Freki and Ozborn would double back to track down Galloc and recover the stolen
+  [Freki](../dossiers/freki) and Ozborn would double back to track down Galloc and recover the stolen
   pouch. Taelin, still shaking, reluctantly climbed aboard the magical flying
   carpet and was ushered toward safety, the translucent barrier of the dome
   glowing softly around her as she stared out at the city she could no longer
@@ -78,7 +78,7 @@ summary: >-
   outdoors, the unmistakable signature of a tiefling who spent more time in
   alleys than drawing rooms. There was a second scent too, fainter and older,
   suggesting someone else had been present before Galloc emerged. His raven,
-  Huginn, appeared on a neighboring rooftop and signaled with a tilt of his
+  [Hugin](../dossiers/hugin), appeared on a neighboring rooftop and signaled with a tilt of his
   head, and the chase was on. Freki and Ozborn leaped and teleported their way
   across the rooftops of Trell, following the raven's guidance from building to
   building until they arrived at a flat roof featuring a small community garden.
@@ -118,7 +118,7 @@ summary: >-
 
 
   The intelligence pointed clearly toward a second bodyguard — a woman named
-  Preen, who matched the description of someone who could vanish at will and who
+  [Preen](../dossiers/preen), who matched the description of someone who could vanish at will and who
   had likely been the one to lift Taelin's bag while Galloc held the party's
   attention on the street. With that piece in place, Ozborn laid out a deal for
   Galloc plainly: the SPI would ensure the case never went to court and the
@@ -131,7 +131,7 @@ summary: >-
 
 
   The triumphant return to the local SPI office was immediately humbled by a
-  locked door. Vex had gone home for the night and taken the only key with him,
+  locked door. [Vex](../dossiers/vex-morradine) had gone home for the night and taken the only key with him,
   leaving behind nothing but an IOU note promising a visit to the locksmith.
   What followed was a prolonged and increasingly chaotic series of attempts to
   gain entry: Vondal's familiar Murphy, in cat form, managed to pop a window
@@ -149,7 +149,7 @@ summary: >-
   harbored a deep and well-documented trauma around the portable hole from a
   previous incident, grumbled through the entire process. Once inside, they used
   the office's teleportation circle to travel back to the main SPI headquarters,
-  where Mallory was waiting and the lights in Cassandra's lab were still
+  where [Mallory](../dossiers/mallory) was waiting and the lights in [Cassandra](../dossiers/cassandra)'s lab were still
   burning.
 
 
@@ -168,7 +168,7 @@ summary: >-
   been with Kerwin's firm for three years, and the carafe's influence had been
   present the entire time, slowly eroding her memories of her previous life, her
   partner, her interests, everything that had made her herself. Six weeks ago, a
-  business trip to Abriymoch on the judicial island of Phlegethos had taken her
+  business trip to Abriymoch on the judicial island of [Phlegethos](../locales/phlegethos) had taken her
   far enough from the artifact that her mind had begun to clear. She had used
   that clarity to write herself a letter, mailed it home, and returned to the
   firm knowing she would fall back under the influence — but trusting her
@@ -179,7 +179,7 @@ summary: >-
   the firm. When Kerwin refused to give it up, Taelin's anger had overtaken her,
   and the plan had ended in violence. She described the legal defense she had
   researched — constructive coercion by a hazardous artifact — and noted that
-  the lawyer Sorelda Voth's team had independently uncovered the same ancient
+  the lawyer [Serelda Voth](../dossiers/serelda-voth)'s team had independently uncovered the same ancient
   precedent and was likely planning to use it to pursue Kerwin's estate. The
   carafe, she insisted, could not be allowed to remain in circulation. It had
   already destroyed too many lives.
@@ -215,21 +215,21 @@ summary: >-
   complete confidence that he had a plan — it was a good plan, it was going to
   cost some money, and they were going to get the receipts.
 short_summary: >-
-  The party's evening in Trell took a tense turn when Galloc, one of Kerwin's
+  The party's evening in [Trell](../locales/trell) took a tense turn when [Galloc](../dossiers/galloc), one of [Kerwin](../dossiers/kerwin-ulvas)'s
   bodyguards, emerged from an alley and engaged them in a probing, friendly
   exchange that masked his true intentions. Though the group played it cool with
-  a cover story, Taelin remained visibly shaken throughout the encounter — and
+  a cover story, [Taelin](../dossiers/taelin-fosse) remained visibly shaken throughout the encounter — and
   moments after Galloc retreated into the shadows, she discovered her pouch had
   been stolen. Before the party could act, Taelin collapsed with a splitting
   headache as the magical buffer suppressing her corruption began to dissolve.
-  Vondal finally voiced what everyone had been avoiding, asking point-blank
-  whether she had killed someone that night. Taelin didn't deny it, and Ozborn
+  [Vondal](../dossiers/vondal) finally voiced what everyone had been avoiding, asking point-blank
+  whether she had killed someone that night. Taelin didn't deny it, and [Ozborn](../dossiers/oz)
   offered his own brand of gruff comfort by recounting his first stabbing. The
-  group split up: Callie and Bec escorted Taelin to the SPI's local headquarters
-  under a protective dome, while Freki and Ozborn doubled back to track Galloc.
-  Using rooftop parkour, a raven named Huginn, and intelligence gathered from a
+  group split up: [Callie](../dossiers/callie) and [Bec](../dossiers/bec) escorted Taelin to the [SPI](../orgs/spi)'s local headquarters
+  under a protective dome, while [Freki](../dossiers/freki) and Ozborn doubled back to track Galloc.
+  Using rooftop parkour, a raven named [Hugin](../dossiers/hugin), and intelligence gathered from a
   chatty tomato plant named Potato, the two agents deduced that a second
-  bodyguard — a tiefling woman named Preen — had likely lifted the pouch while
+  bodyguard — a tiefling woman named [Preen](../dossiers/preen) — had likely lifted the pouch while
   Galloc held the party's attention. Ozborn struck a deal with Galloc: the SPI
   would keep the case out of court and ensure the carafe left town in exchange
   for a tip on the artifact's location.
@@ -241,41 +241,41 @@ short_summary: >-
   steal the artifact — a plan that ended in violence when Kerwin refused to
   relinquish it. She cited constructive coercion by a hazardous artifact as her
   legal defense and urged the SPI to ensure the carafe never circulated again.
-  Cassandra attempted to purge the remaining corruption from Taelin's mind but
+  [Cassandra](../dossiers/cassandra) attempted to purge the remaining corruption from Taelin's mind but
   pushed herself to her limits in the effort, ultimately merging her remaining
   strength with Callie's so the gnome cleric could channel the power of three
   divine presences at once. The healing worked completely — Taelin's memories,
   identity, and sense of self were fully restored, including the name of her
   long-forgotten partner, Davan. With Taelin secured and the team regrouped,
-  Ozborn pulled Mallory aside to request discretionary funds to pursue the
+  Ozborn pulled [Mallory](../dossiers/mallory) aside to request discretionary funds to pursue the
   carafe through Trell's underworld channels, leveraging the deal he had struck
   with Galloc. Mallory approved without hesitation, and Ozborn assured the team
   with full confidence that he had a plan — a good one — and that they would
   absolutely be getting receipts.
 classic_summary: >-
   Last we left off, our agents found themselves navigating the treacherous
-  streets of Trell when a figure emerged from the shadows — Galloc, one of
-  Kerwin's personal bodyguards. The encounter was brief but charged, and it was
-  only after he retreated into the dark that the party realized Taelin's pouch
+  streets of [Trell](../locales/trell) when a figure emerged from the shadows — [Galloc](../dossiers/galloc), one of
+  [Kerwin](../dossiers/kerwin-ulvas)'s personal bodyguards. The encounter was brief but charged, and it was
+  only after he retreated into the dark that the party realized [Taelin](../dossiers/taelin-fosse)'s pouch
   had vanished from her side. Before they could act, Taelin collapsed under the
   weight of a dissolving magical buffer, and the truth of the evening came
   spilling out — she had killed a man, the carafe's influence had been
   unraveling her for years, and she could no longer even remember the name of
-  the person she had once loved. The group split: Callie and Bec escorted Taelin
-  to safety beneath a shimmering protective dome, while Freki and Ozborn took to
+  the person she had once loved. The group split: [Callie](../dossiers/callie) and [Bec](../dossiers/bec) escorted Taelin
+  to safety beneath a shimmering protective dome, while [Freki](../dossiers/freki) and [Ozborn](../dossiers/oz) took to
   the rooftops in pursuit of Galloc, guided by the keen instincts of a raven and
   the quiet testimony of a tomato plant named Potato.
 
 
   The chase led them to a rooftop garden and a tense negotiation with Galloc,
-  who denied the theft but agreed to a deal — the SPI would keep the case out of
+  who denied the theft but agreed to a deal — the [SPI](../orgs/spi) would keep the case out of
   court and see the carafe removed from the city, and in exchange, he would
   point them toward the artifact's location. The real culprit, it seemed, was a
-  second bodyguard named Preen, a tiefling woman who could vanish at will and
+  second bodyguard named [Preen](../dossiers/preen), a tiefling woman who could vanish at will and
   had likely lifted the pouch while Galloc held the party's attention. With that
   intelligence secured, the agents regrouped — after a prolonged and undignified
   battle with a locked office door — and made their way back to SPI
-  headquarters, where Mallory and Cassandra were waiting.
+  headquarters, where [Mallory](../dossiers/mallory) and [Cassandra](../dossiers/cassandra) were waiting.
 
 
   There, Taelin laid out the full scope of what the carafe had done to her:
@@ -293,14 +293,14 @@ classic_summary: >-
 middle_english_summary: |-
   Hearke well, ye souls of cunning trade,
   Who walk where law and shadow fade;
-  In Trell's dark streets, beneath dim light,
+  In [Trell](../locales/trell)'s dark streets, beneath dim light,
   A smirking figure pierced the night —
   'Twas Galloc, stepping from the shade.
 
   He spoke with ease and silver tongue,
   His warnings soft, his praises sung,
   Yet all the while his roving eye
-  Did mark the pouch that Taelin'd by —
+  Did mark the pouch that [Taelin](../dossiers/taelin-fosse)'d by —
   And swift as smoke, the deed was done.
 
   Then Taelin fell upon her knees,
@@ -309,52 +309,52 @@ middle_english_summary: |-
   And stole the life she thought she kept,
   Her partner's name lost on the breeze.
 
-  To rooftops then did Freki fly,
-  With Ozborn leaping, rooftop-high;
+  To rooftops then did [Freki](../dossiers/freki) fly,
+  With [Ozborn](../dossiers/oz) leaping, rooftop-high;
   A raven led, a tomato spoke,
-  And Galloc's hidden den was broke —
+  And [Galloc](../dossiers/galloc)'s hidden den was broke —
   A bargain struck beneath the sky.
 
-  At last, with Cassandra's power spent,
-  And Callie's faith and spirit lent,
+  At last, with [Cassandra](../dossiers/cassandra)'s power spent,
+  And [Callie](../dossiers/callie)'s faith and spirit lent,
   Three goddesses did burn as one,
   And Taelin's long corruption done —
   She woke, and knew what years had meant.
 snarky_summary: >-
-  So the party ran into Kerwin's bodyguard Galloc in a dark alley, somehow
+  So the party ran into [Kerwin](../dossiers/kerwin-ulvas)'s bodyguard [Galloc](../dossiers/galloc) in a dark alley, somehow
   managed not to blow their cover, and patted themselves on the back — right up
-  until they realized he had pickpocketed Taelin in broad darkness like it was
+  until they realized he had pickpocketed [Taelin](../dossiers/taelin-fosse) in broad darkness like it was
   nothing. Taelin then immediately collapsed on the street because the magical
   corruption that had been eating her brain for three years chose that exact
-  moment to start visibly dissolving, which is just great timing. Vondal, unable
+  moment to start visibly dissolving, which is just great timing. [Vondal](../dossiers/vondal), unable
   to hold it in for one more second, asked if she was freaking out because she
-  had committed murder, and Ozborn — bless him — responded to a woman's
+  had committed murder, and [Ozborn](../dossiers/oz) — bless him — responded to a woman's
   emotional breakdown by fondly reminiscing about his own first stabbing.
 
 
-  The team split up, Freki and Ozborn parkoured across rooftops with the help of
+  The team split up, [Freki](../dossiers/freki) and Ozborn parkoured across rooftops with the help of
   a raven and a chatty tomato named Potato, struck a deal with Galloc in a
   rooftop garden, and then returned triumphantly to a locked office door that
   defeated them for an embarrassing amount of time. They eventually got everyone
   inside via a magical extradimensional tiki lounge, teleported back to HQ, had
-  Cassandra and Callie perform a divine tag-team exorcism on Taelin's corrupted
+  [Cassandra](../dossiers/cassandra) and [Callie](../dossiers/callie) perform a divine tag-team exorcism on Taelin's corrupted
   mind, and now Ozborn is holding a bag of discretionary funds and telling
   everyone he has a plan. He has receipts. God help them all.
 limerick_style_summary: |-
-  From an alley stepped Galloc, all smiles,
+  From an alley stepped [Galloc](../dossiers/galloc), all smiles,
   A bodyguard steeped in dark wiles.
   He chatted them up,
   Then vanished — corrupt —
-  With Taelin's pouch gone by some miles!
+  With [Taelin](../dossiers/taelin-fosse)'s pouch gone by some miles!
 
   Poor Taelin then fell to her knees,
   Her mind crumbling fast by degrees.
-  Vondal blurted out loud,
+  [Vondal](../dossiers/vondal) blurted out loud,
   "Did you kill someone?" — proud —
-  And Ozborn said, "First stabs, I seize!"
+  And [Ozborn](../dossiers/oz) said, "First stabs, I seize!"
 
   On rooftops they leaped through the night,
-  With Huginn to guide their swift flight.
+  With [Hugin](../dossiers/hugin) to guide their swift flight.
   A tomato named Potato
   Spilled all that he'd seen, oh —
   And Galloc agreed to play right.
@@ -365,7 +365,7 @@ limerick_style_summary: |-
   They found their way's grace,
   And Vondal's ectoplasm's to blame.
 
-  Then Cassandra and Callie combined,
+  Then [Cassandra](../dossiers/cassandra) and [Callie](../dossiers/callie) combined,
   Three goddesses blazing aligned.
   Taelin's eyes opened clear,
   She remembered — "Davan's here!" —
@@ -376,7 +376,7 @@ memorable_moments:
     description: I remember my first stabbing. Let's talk about it.
     speaker: Ozborn
     context: >-
-      Attempting to comfort and distract Taylin after she collapsed in the
+      Attempting to comfort and distract Taelin after she collapsed in the
       street, clearly overwhelmed by guilt over murdering her boss
   - is_quote: false
     type: funny
@@ -408,11 +408,11 @@ memorable_moments:
     speaker: Vondal
     context: >-
       Vondal finally blurting out what he had been bottling up for the entire
-      session as Taylin collapsed in the street
+      session as Taelin collapsed in the street
   - is_quote: false
     type: intriguing
     description: >-
-      Taylin reveals she wrote herself a letter while clear-headed in Abriymoch,
+      Taelin reveals she wrote herself a letter while clear-headed in Abriymoch,
       which she mailed to herself so it would arrive after she returned to the
       artifact's influence — her only way to fight back.
     speaker: ''
@@ -424,11 +424,11 @@ memorable_moments:
     description: >-
       Cassandra merges her soul with Callie's, granting her access to a third
       divine presence, and Callie successfully invokes divine intervention to
-      purge three years of magical corruption from Taylin's mind.
+      purge three years of magical corruption from Taelin's mind.
     speaker: ''
     context: >-
       After Cassandra's own miracle attempt failed from exhaustion, the two
-      combined their power in a last-ditch effort to restore Taylin
+      combined their power in a last-ditch effort to restore Taelin
   - is_quote: false
     type: funny
     description: >-
@@ -445,12 +445,12 @@ memorable_moments:
     description: Just don't stick your finger in any pores.
     speaker: Freki
     context: >-
-      Reassuring Taylin that the necrophagic skin transport was perfectly safe
+      Reassuring Taelin that the necrophagic skin transport was perfectly safe
       before she reluctantly climbed aboard
   - is_quote: false
     type: intriguing
     description: >-
-      Galloc's eyes briefly flicker toward Taylin during the street encounter —
+      Galloc's eyes briefly flicker toward Taelin during the street encounter —
       a subtle tell caught only by the sharpest observers — revealing he has a
       specific interest in her.
     speaker: ''
@@ -460,7 +460,7 @@ memorable_moments:
 scenes:
   - title: A Shadowy Encounter in the Alley
     description: >-
-      The party is approached by a mysterious figure named Galloc after their
+      The party is approached by a mysterious figure named [Galloc](../dossiers/galloc) after their
       attempt to fake an injury and healing in the street.
     key_events:
       - >-
@@ -469,7 +469,7 @@ scenes:
       - >-
         The party members attempt to read Galloc's intentions, sensing he has an
         ulterior motive and is sizing them up.
-      - Galloc is identified by Taelin as one of Kerwin's bodyguards.
+      - Galloc is identified by [Taelin](../dossiers/taelin-fosse) as one of [Kerwin](../dossiers/kerwin-ulvas)'s bodyguards.
       - >-
         The party engages in a deceptive conversation with Galloc, pretending
         they are simply heading to dinner and that Kerwin is likely just working
@@ -496,32 +496,32 @@ scenes:
         pickpocketing her.
       - Taelin suddenly collapses to her knees with a severe headache.
       - >-
-        Callie and Bec realize the headache is not just from the theft, but a
+        [Callie](../dossiers/callie) and [Bec](../dossiers/bec) realize the headache is not just from the theft, but a
         sign that a magical enchantment or buffer around Taelin is finally
         fading away.
       - >-
-        Vondal struggles with the secret knowledge that Taelin recently murdered
+        [Vondal](../dossiers/vondal) struggles with the secret knowledge that Taelin recently murdered
         a man.
       - >-
-        Ozborn attempts to distract and comfort Taelin while the others assess
+        [Ozborn](../dossiers/oz) attempts to distract and comfort Taelin while the others assess
         her condition.
   - title: A Request for Asylum
     description: >-
-      Taelin requests legal protection from the SPI as the party discusses the
+      Taelin requests legal protection from the [SPI](../orgs/spi) as the party discusses the
       protocols for granting asylum.
     key_events:
       - >-
         Taelin formally requests asylum from the SPI, expressing fear of the
-        Trell legal system.
+        [Trell](../locales/trell) legal system.
       - >-
-        The party discusses the Aecus Concord, noting that all branches of the
+        The party discusses the [Aecus Concord](../orgs/ac), noting that all branches of the
         SPI are sworn to uphold good-faith requests for asylum.
       - >-
         Bec recalls specific SPI protocols regarding asylum that contradict her
-        previous instructions from Mallory.
+        previous instructions from [Mallory](../dossiers/mallory).
       - >-
         The group decides to split up: Callie, Bec, and Vondal will take Taelin
-        back to headquarters, while Freki and Ozborn go to track down Galloc.
+        back to headquarters, while [Freki](../dossiers/freki) and Ozborn go to track down Galloc.
   - title: Escorting Taelin to Safety
     description: >-
       Part of the party escorts Taelin toward the SPI headquarters using a
@@ -558,7 +558,7 @@ scenes:
         Freki detects a second, momentary scent in the alley, suggesting Galloc
         was not alone before he emerged.
       - >-
-        Freki reaches out mentally to his raven, Huginn, who signals Galloc's
+        Freki reaches out mentally to his raven, [Hugin](../dossiers/hugin), who signals Galloc's
         location from a neighboring rooftop.
       - >-
         Ozborn uses his teleportation ability to cross gaps between buildings by
@@ -567,7 +567,7 @@ scenes:
         Freki, in his hybrid lycan form, leaps across the six-foot gaps between
         rooftops to keep pace.
       - >-
-        The pair follows Huginn's lead across several buildings until they reach
+        The pair follows Hugin's lead across several buildings until they reach
         a flat roof featuring a garden.
   - title: The Rooftop Garden Discovery
     description: >-
@@ -639,7 +639,7 @@ scenes:
         tomatoes from the garden.
       - >-
         The intelligence gathered — a tiefling woman with a tail who can
-        disappear — points toward a second bodyguard named Preen.
+        disappear — points toward a second bodyguard named [Preen](../dossiers/preen).
   - title: Rooftop Negotiations and a Deal
     description: >-
       Ozborn and Freki negotiate a deal with Galloc to locate the stolen carafe
@@ -670,7 +670,7 @@ scenes:
       gain entry.
     key_events:
       - >-
-        The party discovers the office door is locked and Vex has already left
+        The party discovers the office door is locked and [Vex](../dossiers/vex-morradine) has already left
         for the night.
       - >-
         Vondal uses his familiar Murphy in cat form to pop a window latch and
@@ -700,7 +700,7 @@ scenes:
   - title: Arrival at SPI Headquarters and Briefing Mallory
     description: >-
       The team teleports back to the main SPI headquarters to report the murder,
-      secure their witness, and seek help for Taylin.
+      secure their witness, and seek help for Taelin.
     key_events:
       - >-
         The party uses a teleportation circle to travel from the local Trell
@@ -709,58 +709,58 @@ scenes:
         Ozborn discards his lockpicks in frustration after their failure at the
         office door.
       - >-
-        Bec and Ozborn brief Mallory on the situation, explaining that Taylin
+        Bec and Ozborn brief Mallory on the situation, explaining that Taelin
         murdered her boss while under the influence of a magical coffee pot.
       - >-
         Mallory questions the decision to leave a murder suspect alone in a
         portable hole with Callie.
       - >-
-        Callie recruits Cassandra from her lab to assist in evaluating Taylin's
+        Callie recruits [Cassandra](../dossiers/cassandra) from her lab to assist in evaluating Taelin's
         mental state.
       - >-
-        The party prepares to move Taylin from the portable hole to Mallory's
+        The party prepares to move Taelin from the portable hole to Mallory's
         office for a formal interrogation.
-  - title: Interrogating Taylin
+  - title: Interrogating Taelin
     description: >-
-      The party formally interviews Taylin at SPI headquarters, uncovering the
+      The party formally interviews Taelin at SPI headquarters, uncovering the
       full extent of Kerwin's magical coercion and the circumstances of his
       murder.
     key_events:
       - >-
-        Taylin explains she is the head of contracts for Alden Transitional
+        Taelin explains she is the head of contracts for Ulvan Transitional
         Assets and has worked for Kerwin for three years.
       - >-
-        Taylin describes a trip to Abriymoch six weeks ago where she began to
+        Taelin describes a trip to Abriymoch six weeks ago where she began to
         remember her life before the firm, including a partner whose name she
         can no longer recall.
       - >-
-        Taylin reveals she wrote herself a letter while clear-headed in
+        Taelin reveals she wrote herself a letter while clear-headed in
         Abriymoch, which contained a plan to steal the magical carafe to break
         Kerwin's influence.
       - >-
-        Taylin admits that her plan to take the carafe away from Kerwin led to a
+        Taelin admits that her plan to take the carafe away from Kerwin led to a
         confrontation where she became angry and killed him.
       - >-
         The party discusses the legal defense of 'constructive coercion by a
         hazardous artifact' and the potential for a lawsuit against Kerwin's
         estate.
       - >-
-        Taylin reveals that Kerwin had two bodyguards, Galloc and a woman named
+        Taelin reveals that Kerwin had two bodyguards, Galloc and a woman named
         Preen, who were associated with the Dock Workers Union.
       - >-
-        Ozborn theorizes that Preen was the one who pickpocketed Taylin's bag
+        Ozborn theorizes that Preen was the one who pickpocketed Taelin's bag
         while Galloc provided a distraction during their street encounter.
       - >-
-        Taylin mentions that the lawyer Sorelda Voth's team had already
+        Taelin mentions that the lawyer [Serelda Voth](../dossiers/serelda-voth)'s team had already
         uncovered the 'constructive coercion' legal precedent and may pursue
         Kerwin's estate.
   - title: A Miracle Attempted and Divine Intervention
     description: >-
       Cassandra and Callie combine their divine power to purge the magical
-      corruption from Taylin's mind.
+      corruption from Taelin's mind.
     key_events:
       - >-
-        Cassandra attempts to cast a powerful miracle to clear Taylin's mind,
+        Cassandra attempts to cast a powerful miracle to clear Taelin's mind,
         her eyes glowing solid white as she utters a word of power, but the
         effort leaves her exhausted.
       - >-
@@ -768,15 +768,15 @@ scenes:
         and power with Callie to bolster the gnome's divine connection.
       - >-
         Callie feels the presence of a third divine power alongside her usual
-        goddesses, Avandra and Erathis.
+        goddesses, [Avandra](../dossiers/avandra) and [Erathis](../dossiers/erathis).
       - >-
         Callie calls upon divine intervention, wishing for the removal of all
-        magical influences warping Taylin's mind.
+        magical influences warping Taelin's mind.
       - >-
-        A flash of energy erupts as Callie lays hands on Taylin, successfully
+        A flash of energy erupts as Callie lays hands on Taelin, successfully
         clearing the woman's mind and restoring her clarity.
       - >-
-        Taylin awakens alert and free from the previous mental fog, confirming
+        Taelin awakens alert and free from the previous mental fog, confirming
         the artifact had been influencing the entire firm for three years.
   - title: A Plan for the Carafe
     description: >-
@@ -796,10 +796,12 @@ scenes:
         Mallory agrees to the request, granting Ozborn access to the vault for
         the necessary coin.
       - >-
-        The party discusses the legal implications of Taylin's actions and the
+        The party discusses the legal implications of Taelin's actions and the
         potential for gang warfare in the city.
 npcs:
   - name: Galloc
+
+    wiki: ../dossiers/galloc
     description: >-
       A tiefling bodyguard formerly employed by Kerwin. He is observant,
       smirking, and possesses a glint in his eye that suggests profit-driven
@@ -809,25 +811,29 @@ npcs:
       was only paid to watch, not prevent it. He agreed to tip off the SPI about
       the carafe's location in exchange for the SPI leaving his crew alone.
   - name: Preen
+    wiki: ../dossiers/preen
     description: >-
       A mysterious tiefling woman and associate of Galloc, suspected of being
-      the actual thief who stole Taylin's bag while Galloc provided a
+      the actual thief who stole Taelin's bag while Galloc provided a
       distraction. She is described by the rooftop tomato plant as having a
       tail, singing to the plants, and sometimes disappearing suddenly.
   - name: Kerwin
+    wiki: ../dossiers/kerwin-ulvas
     description: >-
-      Taylin's deceased boss and owner of a hazardous magical coffee pot
+      Taelin's deceased boss and owner of a hazardous magical coffee pot
       artifact. He is described as condescending but occasionally kind, and he
       used the artifact's influence — apparently without fully realizing it — to
       coerce his employees for three years.
-  - name: Taylin
+  - name: Taelin
+    wiki: ../dossiers/taelin-fosse
     description: >-
-      The head of contracts for Alden Transitional Assets who murdered her boss,
+      The head of contracts for Ulvan Transitional Assets who murdered her boss,
       Kerwin, while attempting to break free from the influence of a magical
       coffee pot. She sought asylum from the SPI, claiming constructive coercion
       by a hazardous artifact. She was restored to full mental clarity through
       divine intervention by Callie and Cassandra.
-  - name: Huginn
+  - name: Hugin
+    wiki: ../dossiers/hugin
     description: >-
       One of Freki's ravens who assisted in the rooftop pursuit by scouting
       ahead and signaling the direction of Galloc's movements.
@@ -844,6 +850,7 @@ npcs:
       Galloc and a mysterious singing tiefling woman with a tail, and expressed
       a strong preference for the woman over Galloc, who smokes near its leaves.
   - name: Vex
+    wiki: ../dossiers/vex-morradine
     description: >-
       An SPI colleague who locked the local headquarters for the night and left,
       inadvertently locking his teammates out. He left an IOU note indicating
@@ -853,16 +860,18 @@ npcs:
       Vondal's familiar, who took the form of a cat to infiltrate the locked
       headquarters through a window and assist in opening it from the inside.
   - name: Mallory
+    wiki: ../dossiers/mallory
     description: >-
       A high-ranking official within the SPI who oversees the agents'
       operations. He was present at headquarters when the party returned,
       received their briefing on the murder and asylum request, and authorized
       discretionary funds for Ozborn's underworld operation.
   - name: Cassandra
+    wiki: ../dossiers/cassandra
     description: >-
       An expert researcher and powerful magic user at the SPI who works in a
       dedicated lab. She was found awake late, exhausted from paperwork. She
-      attempted a miracle to restore Taylin's mind, and when that failed due to
+      attempted a miracle to restore Taelin's mind, and when that failed due to
       exhaustion, she cast a soul extension spell to merge her power with
       Callie's, enabling a successful divine intervention.
 locations:
@@ -874,7 +883,7 @@ locations:
     description: >-
       A series of flat and sloped roofs overlooking a rough part of town,
       connected by narrow gaps and featuring occasional rooftop gardens. Freki
-      and Ozborn pursued Galloc across these rooftops guided by Huginn.
+      and Ozborn pursued Galloc across these rooftops guided by Hugin.
   - name: Rooftop Garden
     description: >-
       A community garden atop a tenement building featuring tomato plants and
@@ -888,37 +897,38 @@ locations:
       out for the night after Vex left, leading to a chaotic series of attempts
       to gain entry.
   - name: SPI Headquarters
+    wiki: ../locales/spi-hq
     description: >-
       The central base of operations for the Supernatural Phenomena
       Investigators, featuring offices, Cassandra's research lab, and a vault.
-      The party teleported here to debrief Mallory, interrogate Taylin, and seek
+      The party teleported here to debrief Mallory, interrogate Taelin, and seek
       Cassandra's expertise.
   - name: Abriymoch
     description: >-
       A city located on the island of Phlegethos in Trell, known as a judicial
-      center. Taylin traveled there six weeks ago on business, and it was during
+      center. Taelin traveled there six weeks ago on business, and it was during
       this trip that the artifact's influence over her began to recede, allowing
       her to write herself a plan.
   - name: Mallory's Office
     description: >-
       A professional space within the SPI headquarters where the team gathered
-      to conduct the formal interrogation of Taylin.
+      to conduct the formal interrogation of Taelin.
 items:
   - name: Taelin's Pouch
     description: >-
-      A coin pouch or purse that Taylin claimed contained everything important
+      A coin pouch or purse that Taelin claimed contained everything important
       to her, including a vital letter she had written to herself while
       clear-headed in Abriymoch. It was noticed missing shortly after the
       party's encounter with Galloc, and Preen is suspected of having stolen it.
   - name: Magical Flying Carpet
     description: >-
-      A magical transport device used by the party to move Taylin and several
+      A magical transport device used by the party to move Taelin and several
       members back toward headquarters quickly. It was noted to be too large to
       fit through standard windows.
   - name: Necrophagic Skin
     description: >-
       A magical, oiled, and looped-up skin used by the party as a safe transport
-      vessel. The party warned Taylin not to stick her finger in any pores.
+      vessel. The party warned Taelin not to stick her finger in any pores.
   - name: The Carafe
     description: >-
       A hazardous artifact, also referred to as the magical coffee pot, that
@@ -927,14 +937,14 @@ items:
       coercive influence over Kerwin's employees for three years. Its current
       location is unknown and it is sought by multiple parties, including the
       SPI and local criminal elements.
-  - name: Taylin's Letter
+  - name: Taelin's Letter
     description: >-
-      A letter Taylin wrote to herself while her mind was clear during her trip
+      A letter Taelin wrote to herself while her mind was clear during her trip
       to Abriymoch, detailing a plan to steal the carafe and escape Kerwin's
       control. It was stored in her stolen pouch.
-  - name: Taylin's Mask
+  - name: Taelin's Mask
     description: >-
-      An alchemical protective mask Taylin purchased from an alchemist in
+      An alchemical protective mask Taelin purchased from an alchemist in
       Abriymoch, intended to shield her from the gas emitted by the magical
       coffee pot.
   - name: Ozborn's Daggers
@@ -955,7 +965,7 @@ items:
     description: >-
       A magical circular cloth that, when unfolded, creates a ten-foot-deep
       extradimensional space. It is furnished with tiki torches, a table, and a
-      bottle of portable air. It was used to transport Taylin and Callie safely
+      bottle of portable air. It was used to transport Taelin and Callie safely
       into the SPI headquarters and to bypass the locked office door.
   - name: IOU Note
     description: >-
@@ -969,9 +979,9 @@ spells:
   - name: Tiny Hut
     description: >-
       A protective spell cast by Callie that created a shimmering, translucent
-      barrier around the group escorting Taylin. It allowed those inside to see
+      barrier around the group escorting Taelin. It allowed those inside to see
       out while remaining invisible to anyone on the outside, providing both
-      concealment and a sense of security for the distressed Taylin.
+      concealment and a sense of security for the distressed Taelin.
   - name: Speak with Plants
     description: >-
       Employed by Freki to communicate with the vegetation in the rooftop
@@ -983,7 +993,7 @@ spells:
     description: >-
       A rogue ability used by Ozborn to charm Galloc during their rooftop
       confrontation, successfully making the bodyguard view him as a trusted
-      peer rather than an enemy. It also had a brief effect on Taylin during the
+      peer rather than an enemy. It also had a brief effect on Taelin during the
       street encounter.
   - name: Mage Hand
     description: >-
@@ -999,7 +1009,7 @@ spells:
   - name: Wish
     description: >-
       A legendary and ultimate spell attempted by Cassandra in an effort to
-      perform a miracle and restore Taylin's mind. The initial attempt failed
+      perform a miracle and restore Taelin's mind. The initial attempt failed
       due to Cassandra's exhaustion from overwork, though the effort was visible
       as her eyes glowed solid white.
   - name: Soul Extension
@@ -1011,9 +1021,9 @@ spells:
   - name: Divine Intervention
     description: >-
       A powerful invocation by Callie, bolstered by Cassandra's merged soul
-      energy, which successfully purged the magical corruption from Taylin's
+      energy, which successfully purged the magical corruption from Taelin's
       mind. Callie's medallion burned hot as a flash of energy erupted,
-      restoring Taylin to full clarity.
+      restoring Taelin to full clarity.
 ---
 
 TBD

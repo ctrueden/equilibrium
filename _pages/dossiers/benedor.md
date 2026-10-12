@@ -13,7 +13,7 @@ statbox:
 descriptions:
   - session: "14e00"
     content: |
-      The High Priest of Pelor who invoked the SPI regarding the hurricane; believed it would cleanse the desert.
+      High Priest of Pelor, who, according to Victor Rocksmith, invoked the SPI to convince the dragons of Skyrealm not to dispel a hurricane heading for Aether, which Pelor had prophesied would cleanse and restore the desert.
 ---
 
 Saint Benedor the Luminary is the High Priest of [Pelor](pelor), Lord Commander of the [Luminous Defenders](../orgs/luminous-defenders), and Pontiff Prime of the [Radiant Union of Pelor](../locales/rup).

@@ -64,33 +64,27 @@ magic-items:
     value: TODO
 js: [sorttable]
 descriptions:
-  - session: "07e02"
-    content: |
-      Conversed with the pirate Alex Orbach during the auction, attempting to gather information.
-  - session: "07e04"
-    content: |
-      Assisted in investigating Tremere's murder and detected magic on his Periapt of Health.
   - session: "07e05"
     content: |
-      Pelted the carnivorous plant with magic missiles during the combat in the Arcane Lab.
+      Detected magic on Tremere's Periapt of Health, finding it genuine. In the fight with the shrieking plant, she pelted it with magic missiles, and saved Vondal from a necromantic curse with a healing potion and a prudent dispel magic.
   - session: "08e02"
     content: |
-      Performed exploratory surgery on Squatch the golem to investigate his internal injury.
+      Noticed a fresh interior wound in Squatch when Callie cut him open.
   - session: "09e01"
     content: |
-      Along with Vondal, created bubbles of stable reality in the crystalline flux that combined to form the yachtopus.
+      Created a bubble of stable reality in the Flux, which combined with Vondal's. She put to sleep the twisted creature found feeding on Orbach's body, and the agents brought it aboard the yachtopus.
   - session: "09e02"
     content: |
-      First to pass through the barrier back into SPI HQ from the chaotic flux realm.
+      First through the opening in the barrier into SPI HQ, she quickly told those inside what was going on.
   - session: "10e02"
     content: |
-      Asked practical questions about the morality of relocating the Cornucopia artifact.
+      Asked why they should take the Cornucopia, rather than one of the smaller relics.
   - session: "10e04"
     content: |
-      Deciphered an ancient druidic ritual to enable the teleportation of the Cornucopia.
+      Adapted a druidic group ritual from a history book Anne Bonny brought, and led the teleportation of the Cornucopia, barely competently, sending only the artifact.
   - session: "12e05"
     content: |
-      Cast a tiny hut for shelter near a dormina tree, protecting the party from mysterious psychic threats.
+      Cast a tiny hut to shelter the party beside the dormina tree. In the shared dream, she dispelled the Queen's servant, and told the Queen about the blighted spot where beetles had gone into the ground, suspecting it was related to her pain.
   - session: "12e06"
     content: |
       Worked alongside Enoki and others to perform a ritual that would calm the entire mushroom field at once.
@@ -99,94 +93,127 @@ descriptions:
       Traveled in the portable hole and cast rope trick for air; later warned about powerful illusion magic protecting the Fruit.
   - session: "12e08"
     content: |
-      Battled against thorns and the enemy combatants, used hypnotic gaze to charm one of the giant shrikes.
+      Knelt to the Green Knight guarding the Fruit, explaining that the Tree would perish without it. When Ozborn was polymorphed twice in quick succession, she deduced that at least two casters were at work; later she charmed one of the giant shrikes with her hypnotic gaze.
   - session: "12e09"
     content: |
-      Jumped down a portal after determining it was safe, discovering a mushroom infestation at the palace level of the Tree.
+      Took a leap of faith down the hole beside the Fruit, landing near the palace at the base of the Tree amid an infestation of death mushrooms. Using Prevailing Truth, she questioned Isis about how the Book, the Vortex, and Melora's prophesied Calamity were related.
   - session: "12e10"
     content: |
-      Hesitated watching others' reactions, then cast confusion on the party to incapacitate Isis and the gnome.
+      Cast confusion on everyone but Freki and herself; Isis and the gnome succumbed. She recognized Isis's true form as a doppelganger, and was eager to keep the body for study.
   - session: "12e11"
     content: |
-      Saw through shadow conjuration illusions, dispelled magical effects in the vault, and warned about powerful illusion magic.
+      Saw through the shadow conjuration illusions at the treasury. She dispelled the illusory Brucolac, realizing that all the effects were linked in a chain, and finally dispelled the illusory Tybalt, collapsing the spell.
   - session: "12e12"
     content: |
-      Used mage hand to hold and manipulate the Book during the final battle against the ooze.
+      Carried the Book with mage hand, aided by a Fey influence. In the throne room, she stopped Celes from touching the Book, and tore out a page for Freki's arrow of slaying instead.
   - session: "13e01"
     content: |
-      Tested the nature of a doppelganger's blood by reacting it with antitoxin and water, discovering its shapeshifting instability.
+      Tested Isis's blood with antitoxin and water: it distended and reacted, unable to hold one shape when confronted with another liquid. Callie disguised her as Sima to set a trap for their follower.
   - session: "13e02"
     content: |
-      Linked minds with other party members to learn about the changeling society and their belief that a Vanishing event caused the Flux.
+      Shared in the mind link through which the changelings of Alye'adu explained their imprints and anchors, and their belief that something at the Tower of Orsis caused the Vanishing.
   - session: "13e03"
     content: |
-      Cast Dispel Magic to remove magical snow and engaged the centaur with Magic Missile during the battle.
+      Dispelled the thickening magical snow that Talos had conjured.
   - session: "13e04"
     content: |
-      Failed a save against Talos's god-essence theft and felt permanently diminished; later helped address cultural concerns about Isis's body.
+      Failed her save against Talos's soul-pulling attack, and felt depleted in some ineffable way. Afterward, she apologized for her cultural insensitivity as she and Callie laid out Isis's body for the villagers.
   - session: "14e00"
     content: |
-      Supported the healing ritual for Mallory and later assisted in cleansing the monkey statue to free Cassandra's consciousness.
+      Raised a tiny hut around Mallory's bed and joined the ritual to heal him. Later, with Callie, she dispelled the magic on Ozborn's monkey, pulling Cassandra out of it.
   - session: "14e01"
     content: |
-      Received the spellbooks of Sartus Morningdew from the elves as a gift of trust; identified magical items on Arallu representatives.
+      Was entrusted with Sartus Morningdew's spellbooks. She noticed Cassandra had no shadow. In Arallu, she recognized that Malachai's spell would turn Feathersworth into a puppet, and asked Lestache directly about totenmaskes.
   - session: "14e02"
     content: |
-      Recognized Lady Ilyana Nightshade and cast dispel magic on Oz to break her charm; noticed the ring of Vecna she wore.
+      Recognized the winged woman as Lady Ilyana Nightshade, and her ring as bearing the symbol of Vecna. Silenced briefly by Nightshade's command, she then dispelled the charm on Ozborn.
   - session: "14e03"
     content: |
-      Discovered trapped souls in the Gallery of Whispers paintings; found a journal by Ilyana Nightshade detailing her alchemical research into undeath and the Philosopher's Stone.
+      Stopped the party from destroying the last flameskull so she could question it, learning that the positive energy came from "the Master," once Timor Invictus, who was trapped in a realm of endless suffering. She disarmed the trap on the study door with dispel magic, and recognized the floor diagram as a portal to be activated by pouring in each kind of magical energy.
   - session: "14e04"
     content: |
-      Offered Vecna a secret to gain knowledge and received visions of the crypts and the Celestial Hand; accepted the hand from Cal and consulted it for guidance.
+      Despite Callie's warning, offered Vecna's mirror a secret, and was shown the way through the crypts to a hand on a pedestal: "The time has come for a new wielder." She got the agents out of the mirror's plane by reversing the portal, opened the crypt door, and, urged by a dark-skinned elf only she could see, took up the Celestial Hand, sensing Sartus's presence in it. Divining with it, she learned that Munin "must lose control." She told Invictus the Hand bore nine elemental symbols, which shocked him.
   - session: "14e05"
     content: |
-      Recognized the difference between vampires and spawn; cast fire shield to burn the elegant vampire who grappled her.
+      Recognized most of Malak's vampires as spawn, lower ranking and more animalistic. When a vampire in a white dress grappled her for a bite, her fire shield burned it and the others who attacked her.
   - session: "15e00"
     content: |
-      Impacted Bilbo with a mace strike and gathered information about the halfling community and vampire politics.
+      Smacked a bat with her mace straight into Cal's abs. At Bilbo's, drinking only tea, she told how she joined the SPI to find her father, and pressed Vondal on how SPI HQ was destroyed.
   - session: "15e01"
     content: |
-      Found Bilbo's journal containing evidence of his internal conflict about preventing the rise of halfling undead.
+      Read Bilbo's journal, which bore a residue of illusion magic, and found that he had been used as a lure for other halflings, and wrote that he did what he could "to prevent them from rising as undead."
   - session: "15e02"
     content: |
-      Danced with Etria LeDuc at the vampire ball and conversed about magic and the nature of immortality; charmed by Etria's hedonistic philosophy.
+      Enjoyed Etria's banquet (and a plate of celery), noticing that the feast spell took one minute instead of ten, then danced with Etria and talked magic with her; when Etria professed that nothing matters after 500 years, Bec countered that mortals don't have time to get bored.
   - session: "15e03"
     content: |
-      Pursued Sophie through the undead-infested Soulbound Rest and used protective magic to shelter the team.
+      With Callie, put on a show presenting the candles of the deep as Clan SPI's offering. During the hunt, she lit the way with her shrouded mace of disruption, and raised a tiny hut on the flying carpet, a silent-running covered wagon that kept the Malachimera out.
   - session: "15e04"
     content: |
-      Used hypnotic gaze to temporarily control Sophie during the Hunt; disarmed her of the cursed sword.
+      Detected abjuration magic shielding Sophie's hideout, flew the carpet to it, and, inside, held Sophie with her hypnotic gaze so that Cal could knock the cursed sword from her hand.
   - session: "15e05"
     content: |
-      Supported the team's infiltration of the Soulbound Rest and prepared rituals to aid the mission.
+      Asked Goratrix about his feud with Lestache, and proposed joining forces to take down the Death Tyrant. Goratrix offered to teach her his telekinesis, and more, if she joined his clan.
   - session: "15e06"
     content: |
-      Vaulted over pews and engaged the Death Tyrant; cast cloud of daggers and snuck toward the sarcophagus containing the Brucolac.
+      Trapped the Death Tyrant in a cube of dazzling magic, which also snared Sophie, and reflected the tyrant's blast back so that it charmed itself. She vaulted over the pews.
   - session: "15e07"
     content: |
-      Discovered trapped souls in the Elysium Sanctum and learned from the Celestial Hand that it was once the Hand of Vecna; dispelled charms affecting Cal.
+      Sliced off many of the Death Tyrant's tentacles with a purple storm of cloud of daggers, then snuck toward the sarcophagus. Noticing something wrong with Cal, she dispelled the Brucolac's charm on him.
   - session: "15e08"
     content: |
-      Received guidance from the Celestial Hand during the Brucolac battle; felt her divinity manifest and cast powerful magic to help the team survive.
+      Turned the agents invisible as they raced back to the chapel on the carpet. Inside, the Celestial Hand spoke to her in three voices: the Brucolac sought to take Themis's power; they must stop him; or take it for herself. The Hand helped her divinity flourish, and, at the cost of psychic pain, she sensed that the power Ozborn could steal lay inside the Brucolac, whose magic was out of balance. She attacked him with chill touch and a dazzling rainbow, and fell unconscious when he drained the agents' essence.
   - session: "15e09"
     content: |
-      Returned to SPI HQ unconscious from the final battle; discovered she could hear spirits trapped within the Celestial Hand and located a hidden trap door in the basement.
+      Unconscious in the chapel, protected by a harp's enchantment, she was stabilized by Callie and teleported back to HQ, where Cassandra healed her. She showed Cassandra the Celestial Hand, formerly the Hand of Vecna, no longer evil. That night the Hand let her hear someone knocking and calling for help; it led her to a hidden trap door bearing Vecna's symbol in HQ's basement, which the Hand unsealed despite a voice warning that Vecna did not want it opened.
+  - session: "16e02"
+    content: |
+      Told Audreth the agents were under Nerull's protection, superseding the Furies. She mesmerized two of the Cerberus's heads with hypnotic pattern, helped restore Audreth, and, having seen a woman in a tower in the mirror shards, wanted to press on; she recognized Lorelei from Audreth's memory.
+  - session: "16e03"
+    content: |
+      Turned into a very angry potted plant by Vondal's wild magic, until Audreth's aura restored her. In the tower, she cast tiny hut so the agents could rest.
+  - session: "16e05"
+    content: |
+      Her madness, reshaped by Vondal, became a newfound fondness for killing people. Her planar duplicates gave her insight into where they had been; she threw a cloud of daggers at the shadow creatures, and an energy bolt at Shadow Oz.
+  - session: "16e06"
+    content: |
+      With Ozborn, discovered Lorelei asleep in a bedroll at the campsite, and recoiled when her detect magic showed the Flux tentacle reaching into Lorelei's brain. She told Lorelei her sister was safe.
+  - session: "16e07"
+    content: |
+      Cast hypnotic pattern at the monsters, most of which seemed immune, then hampered their spellcasting and hasted herself.
+  - session: "16e09"
+    content: |
+      Named the other Vondal "Nondal," and, frustrated by his non-answers, dispelled him, revealing a silver cord of astral projection; she noticed his gloves drawing in the wisps of Freki's soul.
   - session: "17e00"
     content: |
-      Helped assess Lorelei's Flux condition and participated in debates over cure methods; showed willingness to dispose of ethically problematic research materials and provided pragmatic guidance during heated strategy discussions.
+      Summed up that Lorelei was stable but still needed the Flux removed safely. At breakfast, she confessed to Mallory that she had kept changeling body parts out of scientific excitement; all that was left in her bag was goo.
+  - session: "17e02"
+    content: |
+      Called the Acrid Marshes "the armpit of Aecus." At Grohnea's, she asked eagerly about the soul larvae, and was the first to be treated, her thorns, woody skin and bushy eyebrows drawn out of her into a butterfly.
+  - session: "17e03"
+    content: |
+      Turned the agents invisible for the approach to the Storm Stables, spotted a crevice where they might slip into the glacier, and dispelled the enchantments on both Jorik and Magna, ending the fight.
   - session: "17e06"
     content: |
-      Delivered paralyzing enchantments that left enemies vulnerable to devastating attack; her magical precision proved critical in turning the tide against Rhyzophus's overwhelming force.
+      Paralyzed the giant Erka with an enchantment, leaving her open to Ozborn's 144-point onslaught, and tried to hold Rhyzophus as he fled. The giants targeted her, knocking her unconscious repeatedly; Callie kept reviving her.
+  - session: "17e07"
+    content: |
+      Found a notebook of runes predating the giants, describing magic to rewrite a person's essence, and dropped the corrupted behir eggs into the lava. She bluffed her way past suspicious hill giants by claiming Rhyzophus had made her look weird.
+  - session: "17e08"
+    content: |
+      Showed Ulgrim the way down through the hot spring to Rhyzophus's chamber, and explained, reluctantly, the soul larvae and the eggs.
   - session: "17e09"
     content: |
-      Provided expert knowledge about the bloom curse and its mechanisms; explored the ritual chamber's ancient magic and helped the party understand the scope of Rhyzophus's ambitions.
+      Blasted Ozborn's possessed crystal ball apart with magic missiles. At Grohnea's, she and Vondal studied the bloom curse's central flower: each petal a memory, protected by safeguards against being dispelled all at once.
   - session: "16e08"
     content: |
-      Transformed with green skin and body spines after defying Megaera's will; gained piercing damage on unarmed attacks and the ability to see in the dark, though at a stealth disadvantage.
+      Stood firm when Callie's flood swept the others off their feet. After the agents rejected Megaera's bargain, the Flux changed her: green skin and eyebrows, spines through her clothes, and green eyes that see in the dark, in shades of blue. She stepped into a prismatic zone with no air, and dispelled it from herself and Ozborn.
   - session: "16e04"
     content: |
-      After gazing into the Great Old One's eye, Bec lost her ability to take anything seriously; agents discovered they were trapped in a false Afterworld created by Flux corruption.
+      Guided by the Celestial Hand to a grate beneath a storage room, she freed someone who seemed to be Vondal. Her dispel magic on the illusion of Callie's mother awakened something in Callie. On the stairs, she and Callie willed the agents upward through the tower, and a whisper from Rafflesia Wildfall told her she needed to wake up. After the Great Old One's gaze, she was left permanently unable to take anything seriously.
+  - session: "18e00"
+    content: |
+      In her debrief, she omitted the fight between Freki and Oz, the Prometheus chamber, and the giants' redemption quest. Mallory faulted her leadership, since two agents were nearly killed on her watch, by each other. She helped Cassandra test Soul Extension, and placed contingency spells on the field agents using Cassandra's statuettes as anchors.
 ---
 
 An enchantress seeking to further her mastery of magic, and to find out what happened to her father.

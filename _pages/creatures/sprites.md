@@ -10,7 +10,7 @@ image-murder-source: https://www.pinterest.com/pin/326792516684269173/
 descriptions:
   - session: "12e04"
     content: |
-      A murder sprite was encountered in the blighted zone of the World Tree and engaged in combat.
+      The sprite Ozborn woke in the World Tree's blighted zone was a murder sprite; the agents fought it and other blighted monsters.
 ---
 
 TODO

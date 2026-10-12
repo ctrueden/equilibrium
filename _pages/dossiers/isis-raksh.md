@@ -11,23 +11,26 @@ statbox:
 descriptions:
   - session: "02e02"
     content: |
-      Isis Ra'ksh is a druid believed to have orchestrated the theft of the [Necronomicon](../relics/necronomicon) relic from the residence of [Dominic Tremere](dominic-tremere) (see [Case 02: Exchange and Extortion](../events/case-02)). The SPI believed her to be an ex-druid blighter intent on killing the [World Tree](../relics/yggdrasil) using the Book.
+      Named by Euryale as the recipient of the [Necronomicon](../relics/necronomicon), stolen from [Dominic Tremere](dominic-tremere)'s vault: an ex-druid who worships disease, "the worst person in the world to possess that book." The SPI believed her to be a blighter, probably a terrorist.
   - session: "10e04"
     content: |
       Evil druid who stole the Necronomicon. Currently hiding in the Deepwood while R. Martine Andrews pursues her.
   - session: "12e08"
     content: |
-      SPI agents encountered Isis with druidic powers at the World Tree's Fruit of Life, collaborating with the [Fruit's Guardian](erasmus) to defend it from outside interference, making her current motives decidedly unclear.
+      Cloaked in leaves, feathers and bone, she polymorphed Ozborn into a giant narwhal, crying that this was the moment she had waited for and she could not let the agents interfere. Unmasked by Freki and savaged by Eixam's swarm, she was healed by Phoebe and shielded by the thornbush, then cast a giant growth spell on a faerie dragon and the shrikes, and swung onto the dragon's back, where Ozborn's attack left her dying.
   - session: "12e09"
     content: |
-      Revealed to be controlled for the past month, afraid of the Vortex entity that corrupted her through the Book.
+      Called the agents the aggressors. Afraid of the Vortex, she said that telling everything would doom them all, but admitted that she had been controlled for the past month by a monster grown within her from the Book's corruption, which she wanted destroyed; she had taken the Book from Dominic Tremere's vault months earlier. When Peregrine Shackleton emerged from Phoebe's blood, she cried, "Don't hurt him! He's my friend!"
+  - session: "12e10"
+    content: |
+      Tried to protect the gnome, counterspelling Sartus and claiming everything was her fault. Confused by Bec's spell, she plane shifted the gnome away but could not escape herself; Phoebe struck her with lightning, and Ozborn killed her. Her skin sloughed off, revealing a doppelganger.
   - session: "13e01"
     content: |
-      Encountered as a doppelganger while alive; spoke with dead to reveal she was guarding against another Vanishing and came from Alye'adu.
+      Through Callie's speak with dead, her corpse revealed that her mission was to protect the world from another Vanishing by watching the nations and intervening in their affairs; that she came from Alye'adu; that she had been "stabbed by an artifact"; and that she had been their leader.
   - session: "13e04"
     content: |
-      The party confirmed that her doppelganger imprint was slain by Oz, and dead changelings cannot be resurrected; the villagers expressed shock and confronted the SPI about the killing.
+      Bec and Callie laid out her body for the villagers of Alye'adu, who were shocked; changelings are dead forever once dead. The agents explained what had happened, learning that Isis had led the village until she was deposed for speaking against the white crane.
   - session: "17e01"
     content: |
-      Discussed by Sissae as a fallen druid corrupted by the White Crane tattoo; her story served as a cautionary tale about the tattoo's insidious influence on those who bear it.
+      Sissae Moondrop, her anchor, told Cal that Isis had been an amazing druid, changed by the white crane tattoo into making bad choices and rambling about a vortex, and had tried to warn the village before she died.
 ---

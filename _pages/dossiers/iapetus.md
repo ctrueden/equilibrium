@@ -15,7 +15,7 @@ links:
 descriptions:
   - session: "14e04"
     content: |
-      Revealed as Hyperion's titan brother who created the Book of the Dead to save the mortally wounded Cronus.
+      Hyperion's titan brother, who, according to Invictus, created the Book of the Dead in an effort to save the mortally wounded Cronus.
 ---
 
 One of the 12 [titans](../creatures/titans) from whom the [gods](../creatures/eternals) were born. Obsessed with curing [Cronus](cronus) of vampirism somehow.

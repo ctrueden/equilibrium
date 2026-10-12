@@ -10,7 +10,7 @@ statbox:
 descriptions:
   - session: "14e00"
     content: |
-      Encountered in the village; recognized from a prior case involving the dwarf Hollerd Aldrimor.
+      Villager of Alye'adu whom Callie recognized as resembling the woman who had tried to turn the agents away from Hollerd's farm.
 ---
 
 An [Alye'adu](../locales/alyeadu) villager. Anchor of [Tasper Ironroot](tasper-ironroot).

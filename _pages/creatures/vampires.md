@@ -8,13 +8,13 @@ image-source: https://www.pinterest.com/pin/373446994114131178/
 descriptions:
   - session: "15e00"
     content: |
-      Revealed in detail through encounters in Sepulchralis; exist as undead aristocracy with complex political structures and dietary requirements.
+      Lestache's vampire bodyguards escorted Bilbo; Bilbo explained that vampires cannot enter a home uninvited, and that familiars tend to be eaten quickly in Sepulchralis.
   - session: "15e02"
     content: |
-      Multiple vampire clans gathered at the ball including Toreador, Ventru, Crispic, Brujah, Malkavian, Gangrel, and Nosferatu, revealing their hierarchical society.
+      The clans of the Council of Seven (Toreador, Ventru, Crispic, Brujah, Malkavian, Gangrel and Nosferatu) gathered at Lestache's ball, each pledging an item to the hunt's pot.
   - session: "17e08"
     content: |
-      Referenced as ancient enemies of giantkind; the agents assigned the freed giants a quest to destroy the halfling farm that serves as the vampire underworld's food source.
+      Cal presented the undead as long-standing foes of giantkind, sending the giants to destroy the vampires' food source, the halfling farm of Xaryuvia.
 ---
 
 BLAGH!

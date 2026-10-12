@@ -10,10 +10,8 @@ statbox:
 descriptions:
   - session: "01e01"
     content: |
-      Grizzled but fatherly Luminous Defender, a paladin of vengeance.
+      Donovan Morvain's then-unnamed partner in the Luminous Defenders: a grizzled but fatherly paladin of vengeance, friendlier than Morvain, whose badge bore a heart impaled on a dagger.
   - session: "09e04"
-    content: ""
-  - session: "10e01"
     content: |
-      Now a member of [MAD](../orgs/mad).
+      Arrived as part of the MAD posse that evicted the SPI from its headquarters.
 ---

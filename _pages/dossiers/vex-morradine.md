@@ -1,5 +1,6 @@
 ---
 title: Vex Morradine
+aliases: [Vex]
 image: https://i.pinimg.com/originals/82/85/5f/82855f74482d3d3d1a7eda083cf492aa.png
 image-source: https://www.pinterest.com/pin/12596073953272592/
 statbox:

@@ -7,10 +7,10 @@ image-source: https://www.pinterest.com/pin/250512798000305296/
 descriptions:
   - session: "07e03"
     content: |
-      Undead creatures that attacked the auction guests, using fire rays and spells. Destroyed or dispersed by Callie's turning effect and the party's combined efforts.
+      When a wave of antimagic or Flux plunged the study into darkness, three flameskulls attacked the agents with fire rays. Callie's turning destroyed one and sent the others fleeing, and the agents finished them off with Stormcloud's help.
   - session: "14e03"
     content: |
-      Revealed as the forms the charmed angels had previously held; attacked the party with life-draining beams.
+      Lady Nightshade's angelic servants turned into glowing balls of light, with echoes of the flameskulls they once were, draining life with beams of light. The last one told Bec of its Master below, once Timor Invictus, then flew off when the Master called.
 ---
 
 TODO

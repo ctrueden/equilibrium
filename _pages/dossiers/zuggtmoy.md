@@ -9,10 +9,10 @@ statbox:
 descriptions:
   - session: "12e05"
     content: |
-      A mushroom-faced entity whose psychic presence was felt when the Queen reached into the blighted ground.
+      When the Queen reached into the blighted ground, everyone saw a mushroom face in a psychic flash ("I SEEEE YOOUU..."), and mushroom tendrils raced up her arm. Callie had seen the same eyeless face in her dormina dream.
   - session: "12e12"
     content: |
-      A powerful entity possessing the Queen, expelled from her body via banishment and manifested as a black ooze before being obliterated.
+      Possessing the Queen, chained to her throne, she taunted Ozborn to untie her. Banished from the Queen by Vondal, she emerged as an enormous black ooze, and was obliterated by Freki's arrow wrapped in a page of the Book.
 ---
 
 \*ominous music plays\*

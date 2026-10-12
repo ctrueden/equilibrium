@@ -11,7 +11,7 @@ statbox:
 descriptions:
   - session: "14e00"
     content: |
-      Identified as an aarakocra (bird humanoid) living in the village.
+      A villager of Alye'adu who appears as a white, bipedal bird.
 ---
 
 An [Alye'adu](../locales/alyeadu) villager. Anchor of [Haye'wheekh](hayewheekh).

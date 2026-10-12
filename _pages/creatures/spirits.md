@@ -6,7 +6,7 @@ image-source: https://www.pinterest.com/pin/539939442837167770/
 descriptions:
   - session: "15e06"
     content: |
-      Spirits in the Soulbound Rest were turned by Callie's clerical power and fled before her divine authority.
+      A swarm of ghosts guarded the sarcophagus in the Soulbound Rest's chapel; Callie turned them, channeling Avandra.
 ---
 
 Spirits take many forms. Some are the souls or vestiges of those who once lived, while others are primal manifestations of nature.

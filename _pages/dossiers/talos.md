@@ -12,19 +12,22 @@ statbox:
 descriptions:
   - session: "06e04"
     content: |
-      Malosi chieftain who appeared while the party was transferring tattoos. Revealed himself as a well-muscled centaur with magical bling. Became interested in Cal's sword but backed down when refused.
+      Malosi chieftain, a well-muscled, bejeweled centaur with a spiked chain and a missing finger joint, who appeared in response to the tattoo transplant to challenge the SPI's presence in "his domain." Arrogant but perceptive, he disdainfully called Freki a "lycan," and asked to handle Cal's sword; when Cal refused, he backed down and let the agents leave.
+  - session: "06e05"
+    content: |
+      In Freki's vision of the past, he sneered among fire and blood, "There is nothing else I need from a lycan"; in a vision of what might be, he strangled Freki with a glowing fist and swung his spiked chain.
+  - session: "13e02"
+    content: |
+      Rode into Alye'adu with Cal's stolen sword at his hip.
   - session: "13e03"
     content: |
-      Invaded Alye'adu seeking to claim the shapeshifting powers of the changelings, revealing himself as a were-tiger-centaur capable of soul-stealing magic.
+      Followed the agents into Alye'adu with Cal's stolen sword, the Arkenstab, to take "what is his": the changelings' shapeshifting power. Throat singing, he chilled the air and brought down snow to stall the agents, but Vondal banished him for a minute, and when he returned, the agents had the better of him, and Cal snatched back his sword.
   - session: "13e04"
     content: |
-      Engaged in fierce combat with the SPI at Alye'adu but was defeated; yielded to the party and revealed they are 'godlings'; invited them to join the Malosi before vanishing with companions.
-  - session: "14e00"
-    content: |
-      Mentioned as a potential threat; discussed in context of the SPI's broader concerns.
+      Turned into a were-tiger-centaur ("You all stink of the gods. How fortunate for me"), and pulled at the agents' souls, stealing something from Bec and Cal. Cut in half by Ozborn, he was revivified by Andalla, healed himself, and yielded. Granting the war price under Selva custom, he called the agents godlings, whom he would have to kill if they became like "the others," invited them to join the Malosi, promised not to harm the village, and vanished with his companions.
   - session: "14e03"
     content: |
-      Glimpsed in Freki's memory in the mirror as a centaur who fought and defeated Freki's father; laughed condescendingly at his opponent.
+      In Freki's forgotten memory, shown in the mirror, Talos came to Freki's village for power, laughed at Freki's father, and killed him after a fight in which the weretiger raked him, crying "Abomination! God hater!"
 ---
 
 Leader of the [Malosi](../orgs/malosi) tribe.

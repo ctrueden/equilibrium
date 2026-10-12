@@ -29,12 +29,21 @@ links:
 - 5E Greek 2|https://2014.5e.tools/deities.html#demeter_greek_phb
 - 5E Greek 3|https://2014.5e.tools/deities.html#hera_greek_phb
 descriptions:
+  - session: "11e02"
+    content: |
+      A halfling ghost atop the Cornucopia, who spoke with Ozborn after the horn called him "my chosen avenger." Vondal theorized she had been put outside of reality.
+  - session: "12e07"
+    content: |
+      When Oz's winged monkey grew huge divine wings, he had a vision of a cloaked woman turning to reveal a red-haired woman in a green and yellow dress.
   - session: "14e00"
     content: |
-      Glimpsed in the mirror when Callie looked closer; seemed to shift identities with Dallah Thaun.
+      In the shattered mirror, the dark-haired woman Callie glimpsed turned blonde on closer look.
   - session: "14e04"
     content: |
-      Discussed as a dead god whose divine essence was used to create a vial; her power and her shadow must be reunited for vengeance against Invictus.
+      Invictus theorized that the divine essence in the agents came from a dead god. Erathis told Callie that to kill Invictus, "both she and her shadow must be of one mind."
+  - session: "17e00"
+    content: |
+      Cassandra felt she had been blessed her whole life by a "forgotten goddess," not one of the known gods.
 ---
 
 ...

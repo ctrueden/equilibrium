@@ -11,7 +11,13 @@ statbox:
 descriptions:
   - session: "13e04"
     content: |
-      A dwarf villager of Alye'adu who identified the psionic nature of the mysterious effects that temporarily disabled the inhabitants during the battle.
+      Dwarf villager who felt that whatever had disabled the villagers during the battle was psionic, and defended the white crane as a "force of nature" that had "done nothing but benefit us."
+  - session: "17e01"
+    content: |
+      Warned Callie that anyone who takes the white crane tattoo should accept its guidance seriously, or end up like Isis, and not to ask many questions about it, which could endanger the village; he thought it might relate to the Vanishing.
+  - session: "17e02"
+    content: |
+      Teleported the agents to Grohnea's cottage in the Acrid Marshes, guided by the mind link to Grohnea's anchor.
 ---
 
 An [Alye'adu](../locales/alyeadu) villager. Anchor of [Algernon Shimmerstone](algernon-shimmerstone).

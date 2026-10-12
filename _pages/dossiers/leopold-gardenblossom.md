@@ -17,13 +17,22 @@ statbox:
 descriptions:
   - session: "03e01"
     content: |
-      Known as the maker of Gurin's life clock; previously studied with Bronce at the dwarven university.
+      Bronce, after first denying knowing the name, admitted Gardenblossom had been his professor at the local dwarven university.
   - session: "03e02"
     content: |
-      Drew animated illusions to explain the life clock mechanism; reconnected it to its mystical core and determined it stopped at midnight.
+      Extremely old and crotchety professor at Kham Kuldohr Academy, who had written a paper on the Aldrimor life clock. Drawing animated illusions with his crayons, he explained that the clock would explode catastrophically if its mystical core were damaged, then reconnected the clock to its core, revealing it had stopped at exactly 12 o'clock. Over lunch, he told the agents the story of Mungus, Gurin and the almost-kings.
+  - session: "09e04"
+    content: |
+      Arrived with MAD to evict the SPI. Ghensh escorted him to the breach, where he got out a large number of scrolls and arcane paraphernalia.
   - session: "10e04"
     content: |
-      Gnomish professor who sent multiple messages trying to contact Cal and the party.
+      Scried on Cal and began to send him a message ("Where in the bajeezus are you?"), asking to meet, but Bec's dispel magic ended the scrying before he could say where.
+  - session: "10e05"
+    content: |
+      Replied to Callie's sending only to scoff at it as an inferior spell ("Back in my day—"), and did not respond again.
+  - session: "14e01"
+    content: |
+      Found Ozborn cheating at the casinos: "We've been looking for you!"
 ---
 
 From [Case 03](../events/case-03), a gnomish professor of magical theory. He's the one who made [Gurin Aldrimor](gurin-aldrimor)'s life clock. 

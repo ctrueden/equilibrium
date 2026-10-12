@@ -9,12 +9,9 @@ statbox:
   case: "13"
   pronunciation: "ahh-NOR-zjuh"
 descriptions:
-  - session: "14e00"
-    content: |
-      A marsh witch who splits time between the forest and marsh (also known as Grohnea).
   - session: "17e01"
     content: |
-      Guided the agents through the forest and served as liaison to Grohnea, providing crucial intelligence about the hag's nature, motivations, and the ancient magical chamber where dark rituals had been conducted.
+      Grohnea's human counterpart, an herbalist the agents found gathering plants in the woods outside Alye'adu. She warned that Grohnea walks between worlds and that some call her monstrous, and explained her bargains: she takes a part of one's soul, a memory, or rare goods, but her real interest is in collecting afflictions, enduring each one herself. Grohnea keeps a cosmic ledger, removing evil souls from the cycle of death and rebirth, even across time, and the memories she takes help her stay human. Anorje also warned the agents not to antagonize Claudius, the giant plant guarding her cottage.
 ---
 
 An [Alye'adu](../locales/alyeadu) villager. Anchor of [Grohnea](grohnea).

@@ -11,27 +11,51 @@ statbox:
   gender: male
   profession: SPI boss
 descriptions:
+  - session: "02e01"
+    content: |
+      When Vondal reported in and mentioned the Necronomicon, he ordered everyone back to HQ.
+  - session: "03e04"
+    content: |
+      Briefed on the case, he ordered further investigation into its magical aspects, wanting the necromancy trails fully explained.
+  - session: "06e02"
+    content: |
+      Over the sending stone, he warned that the Malosi are exceptionally formidable, and told the agents to gather intel, make a solid plan, capture the Flux weapon, cure Cal, and hire a new guide.
   - session: "07e01"
     content: |
-      Briefed the SPI on the latest happenings after Solomon's explosion and introduced the new case involving the artifact auction.
+      Briefed the Flux-addled agents: new Flux areas had emerged (including the Stormherd camp and the old HQ under the Mountain), and containing wild magic was now the SPI's top priority. He privately told Vondal he should fire him, but covered for him in the official file. He then gave the agents an invitation from P. Stormcloud to an auction at the sanctum of T. Invictus, with a briefing on artifacts on par with the Lamp of Seeming.
+  - session: "09e03"
+    content: |
+      Came to HQ, then left to get backup.
+  - session: "13e03"
+    content: |
+      The agents learned that he had been comatose in Alye'adu for the past four months.
   - session: "13e04"
     content: |
-      Discovered to have been comatose in Alye'adu for four months; offered as a potential anchor for Amisa-Swiftaxe's imprint after the battle.
+      Still comatose in Alye'adu. Vondal told Sima's doppelganger she could imprint on him, if she would find a better way of doing things.
   - session: "14e00"
     content: |
-      Rescued by the SPI agents at Alye'adu and recovered at Vondal's house after being severely burned by the Arkenstone; briefed the agents on recent SPI activities and missing agents.
+      Comatose in Alye'adu, burned by the pure elemental fire of the Arkenstone, he was healed by the agents using the stone itself as a focus. Over a beer, he caught up on events, was relieved Vondal hadn't screwed anything up, and set about reestablishing the SPI, putting out feelers to recover Sima's body from the elves and calling the field agents to a briefing.
   - session: "14e01"
     content: |
       Worked with Cassandra to restore the SPI HQ; approved the agents' participation in the Arallu investigation and warned about the delicate political balance there.
-  - session: "14e05"
+  - session: "15e09"
     content: |
-      Referenced in Callie's thought about needing to avoid unbalancing the political powers in Arallu.
+      Took the agents' debrief "in order," marveling at Nightshade's head. He seemed to have brain scramblies about his own recent work. When the trap door in the basement opened, Rubinia Elka emerged and stared at him in astonishment: Mallory, she said, was still down there.
+  - session: "16e01"
+    content: |
+      Heard the agents' account of Arallu, warned that the SPI was severely understaffed and needed recruits, and told Ozborn to fix his attitude, since the Elyrians were angry about the stone he stole. He could not pass the forcefield beneath HQ, and sent Cassandra down with the agents.
+  - session: "16e05"
+    content: |
+      The agents' account of these events was framed as an eventual debriefing with Mallory, whose questions shaped how it was told.
   - session: "17e00"
     content: |
-      Oversaw the debrief on Lorelei's condition and the ongoing Flux crisis in the tower; distributed back pay and fielded numerous reports of missing agents, new political complications, and the ominous security implications of the tower's strange multi-planar nature.
+      Learned that Rubinia and Lorelei had left, trusting Cassandra's decision and calling the necromancers allies. He handed out back pay, and reported the elves' terms for returning Sima's body, Squeaks and Rain missing, unrest in the vampire lands, Etria and Meerlinda joining the SPI, and Xaryuvia's likely admission to the Aecus Concord. Benching the agents until their Flux warping was cured, he suggested Sonan, their old colleagues, St. Benedor, or Grohnea, and made rescuing his double a priority.
   - session: "16e09"
     content: |
-      Agents confirmed that the true Mallory remained at SPI HQ; discovered a changeling doppelganger exists and was stranded in the Afterworld layer beneath the Flux.
+      Surprised by Vondal's arrival in his office, he confirmed he was really himself, and asked after the agents' wellbeing. The agents told him they thought the other Mallory was in the Afterworld.
+  - session: "18e00"
+    content: |
+      Debriefed the agents, with Eeoram conducting interviews alongside him. Pleased by the Fluxtaint cures, he rebuked Freki and Oz for their conflict, Vondal for killing Sissae unilaterally, and Bec for the infighting on her watch, and promoted Cal to team captain on probation. He paid back wages, reported new branch staff, Xaryuvia's admission to the Aecus Concord, and the resolution of the hurricane and goblin tunnel crises, then ordered the agents to take a break.
 ---
 
 The head of the [SPI](../orgs/spi) with a unique management style. He is a

@@ -14,7 +14,7 @@ statbox:
 descriptions:
   - session: "05e01"
     content: |
-      Master of Fire whose daughter Mishaal jumped from the Zenithal Summit and was trapped in the Demonweb Pits.
+      Master of Fire, who leaped from the Zenithal Summit after her daughter Mishaal and vanished with her. Vondal found them both bound in spiderwebs in a Flux-tainted demiplane, freed them, and drew the Flux corrupting Mishaal out through himself.
 ---
 
 Master of Fire at the [Progression of Symmetry](../orgs/progression-of-symmetry).

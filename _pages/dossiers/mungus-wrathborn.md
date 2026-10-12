@@ -11,10 +11,10 @@ statbox:
 descriptions:
   - session: "03e01"
     content: |
-      Longtime rival of Gurin Aldrimor; scheduled to meet with him on the day of his death for reconciliation.
+      Gurin's longtime rival, with whom Gurin had planned to meet later that day to reconcile their differences.
   - session: "03e02"
     content: |
-      Revealed the truth of his rivalry with Gurin and the almost-kings legend; implied sympathy for dissolving the clan system.
+      Won the duel against Gurin for Brie's heart long ago, but was accused of cheating and expelled from Clan Aldrimor. He showed the agents Gurin's letter begging him to visit, warned that Gurin's family would be shamed if the truth came out, and mused that the clans might be dissolved some day.
 ---
 
 Father of [Larsa](larsa-wrathborn) and [Cragger](cragger-wrathborn).

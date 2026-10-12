@@ -14,37 +14,28 @@ title: Cornucopia
 descriptions:
   - session: "10e02"
     content: |
-      Sought by the party to heal Meroe and Panthea. Guarded by Luminous Defender paladins near the Oasis.
+      Seirye urged the agents to steal it; they continued to it hoping to heal Meroe and Panthea. As Meroe reached it to drink, she dissolved into dust.
   - session: "10e03"
     content: |
-      Allowed to be relocated by Pelor after the party proved their valor against his stone statue guardians.
+      Pelor allowed its relocation after the agents defeated his stone guardians in a test of valor and resolve.
   - session: "10e04"
     content: |
       Teleported to the Rockwell family vault in Cognitutus by a druidic ritual led by Bec.
-  - session: "14e00"
+  - session: "11e02"
     content: |
-      Referenced as having been taken by the agents in the past, causing the desert to become overly dry.
-  - session: "14e01"
+      Its horn became a compelling hornblade, calling Ozborn its "chosen avenger"; when he touched it, his hand transformed and the Cornucopia lost its magical aura, until he rejected the illusion.
+  - session: "11e04"
     content: |
-      Referenced in context of the synergy it has with divine magic users.
-  - session: "14e02"
-    content: |
-      Mentioned as Oz's blade, which he wielded against Lady Nightshade.
+      Ozborn retrieved its horn, which became the Hornblade once he let the mysterious halfling spirit touch him: a +3 short sword of sharpness and wounding.
   - session: "14e03"
     content: |
-      Oz wielded it during combat; its negative energy cut through the manor's positive energy.
+      The Hornblade's necrotic, poisonous negative energy cut through the manor's positive energy as Ozborn skewered a flameskull.
   - session: "14e04"
     content: |
-      Oz's blade with divine-powered capabilities; used against Invictus but unable to kill him; has necrotic and poisonous damage.
-  - session: "14e05"
-    content: |
-      Oz's blade with necrotic properties; used throughout the battle against the undead forces.
-  - session: "15e02"
-    content: |
-      Mentioned as the source of Oz's blade transformation; associated with creative power and artifact crafting.
+      The Hornblade's divine power could not kill Invictus, though Ozborn kept stabbing compulsively.
   - session: "16e08"
     content: |
-      The Hornblade split into two smaller daggers after Oz's duplicate merged with him; both daggers retain teleportation properties but reduced power compared to the original relic.
+      When Ozborn's duplicate merged back into him, the two Hornblades they held could not coexist, and became two smaller daggers meant to be wielded together.
 ---
 
 A huge multitiered fountain topped by a horn of plenty, from which holy water springs. It is believed to be one of eight divine [relics](.) somehow central to the integrity of reality itself. It is said that worthy drinkers receive [Pelor](../dossiers/pelor)'s blessing, while the unworthy are judged.

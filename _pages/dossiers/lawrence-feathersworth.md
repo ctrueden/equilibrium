@@ -10,10 +10,10 @@ statbox:
 descriptions:
   - session: "14e00"
     content: |
-      Contacted by Arallu agents regarding a crisis at Evershroud Manor; arranged to meet with them about an investigation.
+      SPI field agent, contacted by an agent of the vampire Brucolac demanding the SPI's service: the archlich's manor in Arallu had begun to exude some power that kept undead out, and the archlich had stopped attending the Triumvirate's meetings.
   - session: "14e01"
     content: |
-      Arranged a meeting with Arallu representatives at his B&B outpost in Reena'seere; provided accommodations and information about Evershroud Manor.
+      Had opened an SPI outpost in a repurposed B&B in his hometown of Reena'seere, where he hosted the Arallan representatives, making tea and apologizing for the dinginess. At Evershroud, "Malachai" began casting a spell to turn him into a puppet.
 ---
 
 A super-mild half-elf, very tall and thin, secretly a frenzied berserker. Noble background.

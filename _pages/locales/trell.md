@@ -34,7 +34,7 @@ statbox:
 descriptions:
   - session: "14e00"
     content: |
-      Victor Rocksmith's homeland where a magical hurricane is emerging and threatening Aether.
+      Victor Rocksmith reported a political situation brewing, and a hurricane emerging from Trell toward Aether.
 ---
 
 A fiendish island territory off the northwestern coast.

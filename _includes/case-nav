@@ -1,0 +1,86 @@
+{%- comment -%}
+Left-hand navigation for the Events section: a tree of cases (newest first),
+each collapsible, listing its episodes. The case containing the current page
+starts expanded, and the current page is highlighted.
+
+Episodes belong to a case by URL prefix (case-17e09 belongs to case-17);
+prelude events belong to it via their `case` field (`case: prelude`).
+{%- endcomment -%}
+
+{%- comment -%} Cases, episodes and prelude events (but not GM notes pages, which share their URLs under /gm). {%- endcomment -%}
+{%- assign nav_events = site.pages | where_exp: "p", "p.layout == 'case' or p.layout == 'session' or p.case" -%}
+{%- assign nav_cases = nav_events | where: "layout", "case" | sort: "datestamp" | reverse -%}
+{%- assign nav_prelude = site.pages | where: "url", "/events/prelude" -%}
+{%- assign nav_groups = nav_cases | concat: nav_prelude -%}
+
+{%- assign nav_slug = page.url | remove: "/events/" -%}
+{%- if page.case -%}
+  {%- assign nav_current_case = page.case -%}
+{%- elsif page["session-number"] -%}
+  {%- comment -%} Episode slugs look like case-17e09; the case slug is case-17. {%- endcomment -%}
+  {%- assign nav_current_case = nav_slug | split: "e" | slice: 0, 2 | join: "e" -%}
+{%- else -%}
+  {%- assign nav_current_case = nav_slug -%}
+{%- endif -%}
+
+<nav id="session-nav">
+  <div class="session-nav-header">
+    <a href="{{site.baseurl}}/events">Cases</a>
+  </div>
+  <ul class="case-tree">
+    {%- for c in nav_groups -%}
+      {%- assign c_slug = c.url | remove: "/events/" -%}
+      {%- assign ep_prefix = c.url | append: "e" -%}
+      {%- if c.title contains "]" -%}
+        {%- assign c_id = c.title | split: "]" | first | remove: "[" | remove: "Case " -%}
+        {%- assign c_name = c.title | split: "] " | last -%}
+      {%- else -%}
+        {%- assign c_id = "" -%}
+        {%- assign c_name = c.title -%}
+      {%- endif -%}
+      <li>
+        <details class="case-group"{% if c_slug == nav_current_case %} open{% endif %}>
+          <summary{% if c.url == page.url %} class="current"{% endif %}>
+            <a href="{{site.baseurl}}{{ c.url }}">{% if c_id != "" %}<strong>{{ c_id }}</strong> {% endif %}{{ c_name }}</a>
+          </summary>
+          <ul class="session-list">
+            {%- if c_slug == "prelude" -%}
+              {%- assign c_children = nav_events | where: "case", c_slug | sort: "datestamp" -%}
+            {%- else -%}
+              {%- assign c_children = nav_events | where_exp: "e", "e.url contains ep_prefix" | sort: "datestamp" -%}
+            {%- endif -%}
+            {%- for ep in c_children -%}
+              {%- if ep.title contains "]" -%}
+                {%- assign e_id = ep.title | split: "]" | first | remove: "[" -%}
+                {%- assign e_name = ep.title | split: "] " | last -%}
+              {%- else -%}
+                {%- assign e_id = "" -%}
+                {%- assign e_name = ep.title -%}
+              {%- endif -%}
+              <li{% if ep.url == page.url %} class="current"{% endif %}>
+                <a href="{{site.baseurl}}{{ ep.url }}">{% if e_id != "" %}<strong>{{ e_id }}</strong> {% endif %}{{ e_name }}</a>
+                {%- if ep["session-date"] -%}
+                  <span class="session-list-date">{{ ep["session-date"] }}</span>
+                {%- endif -%}
+              </li>
+            {%- endfor -%}
+          </ul>
+        </details>
+      </li>
+    {%- endfor -%}
+  </ul>
+</nav>
+<script>
+  // Scroll the nav panel (not the page) so the current entry is visible.
+  (function() {
+    var nav = document.getElementById("session-nav");
+    var cur = nav && nav.querySelector(".current");
+    if (cur && nav.scrollHeight > nav.clientHeight) {
+      nav.scrollTop = cur.offsetTop - nav.clientHeight / 3;
+    }
+  })();
+</script>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

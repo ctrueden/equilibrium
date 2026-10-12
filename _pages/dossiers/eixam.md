@@ -10,13 +10,16 @@ statbox:
 descriptions:
   - session: "12e06"
     content: |
-      A locust-swarm creature who appeared and claimed they wished to help stop the Tree's destruction.
+      A swarm of locusts that settled onto the trunk ahead of the party and coalesced into a bipedal shape: "We are Eixam, and we have come to help."
   - session: "12e07"
     content: |
-      Offered to transport the party via a portable hole but was rejected when Enoki refused due to his hatred of locusts destroying mushroom fields.
+      Full of barely hidden malice, they offered to carry the party to the Fruit in a portable hole, but Enoki refused to travel with a locust, and Eixam buzzed off, only to shadow the party. They told Phoebe she shouldn't be there ("because it is not safe," a lie), and gave evasive answers about the illusory Fruit.
   - session: "12e08"
     content: |
-      Revealed surprise and frustration upon discovering Isis, then transformed into a swarm to attack her, devouring thorns and lacing her with bites and stings.
+      Surprised and frustrated to discover Isis there ("Isis! What are you doing?"), they dissolved into a swarm of locusts, spiders, scorpions and centipedes, devouring thorns and lacing Isis with bites and stings. They later reformed to join the parley.
+  - session: "12e09"
+    content: |
+      Angry that the agents abandoned the plan to take the seed; Erasmus's shrikes eyed them hungrily.
 ---
 
 TODO

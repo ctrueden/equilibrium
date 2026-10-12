@@ -11,7 +11,7 @@ statbox:
 descriptions:
   - session: "02e02"
     content: |
-      SPI agents apprehended the medusa suspect at her villa after she confessed to stealing the Necronomicon in exchange for a potion to restore her humanity.
+      Medusa living in a villa built into dwarven ruins outside Haven. Suspicious of the agents' ruse about Callie's petrified grandmother, she resisted arrest and was defeated with Martine Andrews' help. Under interrogation she admitted to trading the Necronomicon to Isis Ra'ksh for a potion that would make her human again, and the SPI let her use it in exchange for everything she knew.
 ---
 
 Euryale was a "dealer in information"&mdash;i.e., a blackmailer&mdash;who posed

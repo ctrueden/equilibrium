@@ -9,7 +9,7 @@ statbox:
 descriptions:
   - session: "11e05"
     content: |
-      A marid water genie who warned the party against pursuing the deep ones' lair, but granted them powerful magical boons—detect evil and good, invisibility, and control water—upon learning they carried the Hornblade.
+      A marid who appeared before the minisub, warning the agents to turn back or die. Learning that they carried the Hornblade, she said she had no choice but to help, granting Vondal and Callie detect evil and good at will, Callie invisibility, and Vondal control water, before plane shifting away.
 ---
 
 TODO

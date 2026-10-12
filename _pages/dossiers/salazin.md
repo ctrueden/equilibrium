@@ -7,6 +7,10 @@ statbox:
   gender: male
   color: blue
   case: "04"
+descriptions:
+  - session: "07e01"
+    content: |
+      Now the Rockwell family's imp servant, he brought Callie a summons from her parents.
 ---
 
 Once an employee of BlissCo at the [Euphoria](../locales/euphoria) resort, Salazin is now the Rockwell family imp due to a contract [Callie](callie) signed with him.

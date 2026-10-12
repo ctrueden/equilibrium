@@ -15,25 +15,8 @@
 
     <div id="session-layout">
 
-      <!-- Left column: case navigation -->
-      <nav id="session-nav">
-        <div class="session-nav-header">
-          <a href="{{site.baseurl}}/events">Cases</a>
-        </div>
-        <ul class="session-list">
-          {%- assign all_cases = site.pages | where: "layout", "case" | sort: "datestamp" -%}
-          {%- for c in all_cases -%}
-            {%- assign c_id = c.title | split: "]" | first | remove: "[" | remove: "Case " -%}
-            {%- assign c_name = c.title | split: "] " | last -%}
-            <li{% if c.url == page.url %} class="current"{% endif %}>
-              <a href="{{site.baseurl}}{{ c.url }}"><strong>{{ c_id }}</strong> {{ c_name }}</a>
-              {%- if c.when -%}
-                <span class="session-list-date">{{ c.when }}</span>
-              {%- endif -%}
-            </li>
-          {%- endfor -%}
-        </ul>
-      </nav>
+      <!-- Left column: case/episode navigation -->
+      {% include case-nav %}
 
       <!-- Middle column: main content -->
       <main id="session-content">
@@ -166,31 +149,6 @@
                 {%- endif -%}
                 {%- if poi.role -%}<br><small>{{ poi.role }}</small>{%- endif -%}
               </li>
-            {%- endfor -%}
-          </ul>
-        </details>
-        {%- endif -%}
-
-        {%- assign case_num = page.title | split: "]" | first | remove: "[Case " -%}
-        {%- assign ep_prefix = "/events/case-" | append: case_num | append: "e" -%}
-        {%- assign sorted_pages = site.pages | sort: "datestamp" -%}
-        {%- assign has_case_eps = false -%}
-        {%- for ep in sorted_pages -%}
-          {%- if ep.url contains ep_prefix and ep["session-number"] -%}
-            {%- assign has_case_eps = true -%}
-            {%- break -%}
-          {%- endif -%}
-        {%- endfor -%}
-        {%- if has_case_eps -%}
-        <details class="sidebar-section" open>
-          <summary>Episodes</summary>
-          <ul class="sidebar-list">
-            {%- for ep in sorted_pages -%}
-              {%- if ep.url contains ep_prefix and ep["session-number"] -%}
-                {%- assign e_id = ep.title | split: "]" | first | split: "e" | last -%}
-                {%- assign e_name = ep.title | split: "] " | last -%}
-                <li><a href="{{site.baseurl}}{{ ep.url }}"><strong>{{ e_id }}</strong> {{ e_name }}</a></li>
-              {%- endif -%}
             {%- endfor -%}
           </ul>
         </details>

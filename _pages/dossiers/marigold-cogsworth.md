@@ -10,10 +10,10 @@ statbox:
 descriptions:
   - session: "13e04"
     content: |
-      A changeling serving at Alye'adu who expressed relief at being able to leave the rotation and find a new anchor.
+      Apologized for being unable to help during the battle: the villagers could not move, or perhaps did not exist, for a while. Once the doppelganger agreed to imprint on Mallory, she was happy that the rotation would change so she could leave.
   - session: "14e00"
     content: |
-      Maintained the mind-link between changelings in the village but interfered with the healing ritual, causing it to spiral.
+      The only changeling present in Alye'adu, maintaining the villagers' mind link. She interfered with the agents' ritual to heal Mallory, and Callie had to heal her afterward.
 ---
 
 Servant of the Noffindorfs.

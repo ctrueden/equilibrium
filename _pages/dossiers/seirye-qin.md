@@ -12,7 +12,10 @@ statbox:
 descriptions:
   - session: "10e01"
     content: |
-      Sought to secure the Cornucopia by having the party teleport it away. Showed concern about Meroe's flux taint.
+      Wanted to secure the Cornucopia by teleporting it away with a group ritual. The agents were not convinced, but Meroe was willing to try anything to be healed.
+  - session: "10e02"
+    content: |
+      The "Seirye" traveling with the agents turned out to be her sister, Anne "Bonny" Qin, in disguise.
 ---
 
 Seirye Qin is an [SPI](../orgs/spi) agent who disappeared during the

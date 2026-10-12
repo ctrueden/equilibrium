@@ -11,7 +11,7 @@ links:
 descriptions:
   - session: "15e08"
     content: |
-      The Brucolac referenced her temporal interference during the critical moments of the battle, suggesting ancient connection.
+      The Brucolac blamed lost time, which Cal also felt, on interference from Themis that he had not felt in millennia. The Celestial Hand told Bec that the Brucolac sought to take Themis's power.
 ---
 
 One of the 12 [titans](../creatures/titans) from whom the [gods](../creatures/eternals) were born. Dedicated to law; neutral among titans.

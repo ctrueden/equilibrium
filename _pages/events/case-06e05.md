@@ -1,7 +1,7 @@
 ---
 title: "[06e05] The Stormherd"
 description: >-
-  Freki's dreamt about Talos; found and visited the Stormherd encampment.
+  Freki dreamt about Talos; found and visited the Stormherd encampment.
 datestamp: 50-04-07/05
 when: AC50 Cudo 07
 session-number: 16

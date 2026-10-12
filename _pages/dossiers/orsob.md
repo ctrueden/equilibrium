@@ -9,7 +9,7 @@ statbox:
 descriptions:
   - session: "12e05"
     content: |
-      A satyr representative of the Seelie Court who accepted Cal's oath of exile and shared tea in a mystical bargain.
+      Satyr summoned by the Queen to represent the Seelie Court, who accepted Cal's oath of exile over a cup of tea, and Callie's oath of service.
 ---
 
 A representative of the Seelie Court. [Cal](cal) drank his Oath Tea, vowing never to return to [Elyria](../locales/elyria) after the coming [Auran Apex](../calendar). Similarly, [Callie](callie) drank an oath swearing a year and a day of service to the Seelie Court.

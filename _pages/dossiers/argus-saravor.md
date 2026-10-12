@@ -9,7 +9,7 @@ statbox:
 descriptions:
   - session: "01e01"
     content: |
-      Monster trainer at the Beastly Colosseum; questioned by SPI agents about his whereabouts during the murder investigation.
+      Driven basilisk trainer at the Beastly Colosseum, and owner of the basilisk Panoptes. Questioned by Cal and Sima, he had no alibi: he had taken Panoptes for a walk outside the Colosseum on the night of the murder.
 ---
 
 * Monster trainer and handler.

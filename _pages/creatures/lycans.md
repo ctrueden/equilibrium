@@ -6,15 +6,12 @@ title: Lycans
 image: https://static.wikia.nocookie.net/forgottenrealms/images/c/ca/4e_shifters.jpg
 image-source: https://forgottenrealms.fandom.com/wiki/Shifter
 descriptions:
-  - session: "14e00"
-    content: |
-      Referenced when Freki questions about transformation abilities like werewolves.
   - session: "15e00"
     content: |
-      Freki discovered his true nature as a werewolf when bitten during vampire combat in Sepulchralis; capable of transforming into wolf form.
+      Bitten by a vampire, Freki transformed into a wolf; calmed, he realized he had always known of the beast within, and that he came from a village of lycanthropes.
   - session: "17e09"
     content: |
-      Freki's werewolf form was invoked to save Oz from vampiric poisoning, but the intervention created confusion and conflict between the allies over consent and healing methods.
+      Freki's werewolf bite, meant to counter the vampiric presence that attacked Ozborn, left Ozborn torn between vampiric and lycanthropic curses; Ulgrim said the bite had actually helped.
 ---
 
 ### List of lycans

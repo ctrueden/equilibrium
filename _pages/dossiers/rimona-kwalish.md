@@ -7,6 +7,10 @@ statbox:
   gender: female
   case: "11"
   pronunciation: "kway-LISH"
+descriptions:
+  - session: "11e04"
+    content: |
+      Regent of Cognitutus who, after the agents' speeches, loaned them her minisub, the Streamcutter, with its scout craft, the Crab.
 ---
 
 One of the [Cognitutus](../locales/cognitutus) Board of Regents.

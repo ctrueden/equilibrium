@@ -5,6 +5,13 @@ image-source: https://www.pinterest.com/pin/366410119702043790/
 statbox:
   race: demon
   case: ["16"]
+descriptions:
+  - session: "16e07"
+    content: |
+      Formed from two Furies and the shadow monkey, it failed to dispel Vondal's wall of light, and confused Ozborn with its whirling eyes.
+  - session: "16e08"
+    content: |
+      Duplicated itself to attack both Ozborns, and was killed by Ozborn as Callie's flood washed it away. Megaera raised it undead; it fought on, conjuring shadow creatures with its scream.
 ---
 
 A huge two-headed monster formed when two of the three Furies merged with the

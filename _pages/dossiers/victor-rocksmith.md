@@ -11,7 +11,7 @@ statbox:
 descriptions:
   - session: "14e00"
     content: |
-      Investigated a hurricane emerging from Trell and heading toward the sky-city of Aether; relayed the High Priest's prophecy about desert rejuvenation.
+      Hard-drinking, hard-smoking gnome sailor and SPI field agent in Trell, who reported a hurricane from Trell heading toward Aether, and St. Benedor's request that the SPI dissuade the dragons from dispelling it.
   - session: "14e01"
     content: |
       Updated the group on the brewing international incident between Pelor's High Priest and the dragons; traced the hurricane origin to a magical lighthouse.

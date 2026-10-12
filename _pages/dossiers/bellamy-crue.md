@@ -9,7 +9,7 @@ statbox:
 descriptions:
   - session: "01e01"
     content: |
-      Gorgon trainer at the Beastly Colosseum whose beast defeated a basilisk in the Ultimate Showdown of Stone.
+      Inquisitive gorgon trainer at the Beastly Colosseum, and owner of the gorgon Brutalis. Questioned by Cal and Sima, she had an alibi (a party, with Brutalis in his pen), and let slip that Argus had a thing for Rowena Darkshield.
 ---
 
 Competitor at the Beastly Colosseum in Haven.

@@ -78,133 +78,151 @@ magic-items:
 descriptions:
   - session: "03e03"
     content: |
-      Obtained a mysterious SPI file about Esprit Repose, a secret cabal of necromancers, while investigating Gurin's death.
+      Pensive and distracted, he made an excuse to leave the party, and later reappeared with a top secret SPI file on Esprit Repose that he claimed had "not been destroyed in the fire," and for which he admitted he shouldn't have clearance.
   - session: "03e04"
     content: |
-      Experienced wild magic surges and visions of light during combat with the necromancer Zanic Corbinic.
+      Saw a vision of a stone of light grasped by a figure of light; wild magic surges then split him into two Vondals, and later four, during the fight with Zanic.
   - session: "04e03"
     content: |
-      Dubbed the elder brain 'Brian' and fought through garbage tunnels; memory of following days lost to flux poisoning.
+      Dubbed the elder brain "Brian," in sympathy with its desire to unite the whole world in Flux.
   - session: "05e01"
     content: |
-      Blasted the Zenithal Summit platform with wild magic, opening a rift into the Demonweb Pits; freed Mishaal and Kára from spiderwebs.
+      Learning that an orphan was among the victims, he blasted the Summit platform with wild magic, and was sucked into the rift it opened. Inside a web-filled demiplane, he glimpsed a gargantuan spider, freed Mishaal and Kára, and extracted the Flux within them by channeling it through himself, falling unconscious, near death, until Sonan healed him.
   - session: "07e03"
     content: |
-      Used detect thoughts to read minds during the flameskull battle and investigated the body afterward.
-  - session: "07e04"
-    content: |
-      Cast spell to confirm the body was not healing naturally and speculated about soul damage.
+      In the flameskull fight, he blasted the skulls with scorching rays and an augmented witch bolt, finding the matrix of his magic incredibly aligned, making his attacks completely reliable. He recognized the knock spell cast nearby afterward.
   - session: "07e05"
     content: |
-      Used slow spell against the carnivorous plant but it backfired with necromantic energy, nearly killing him.
+      His detect thoughts found no mind in the lich, and caught the pirate's indignation. He sensed that Tremere's soul had been ripped out rather than passing on. Rushing to the plant fight, his slow spell rebounded off the plant's necromantic energy, and he nearly died and was nearly reincarnated into something horrible, until Bec dispelled the curse in a harmless burst of wild magic butterflies.
   - session: "08e02"
     content: |
-      Woke up in a trash heap nearly eaten by an otyugh, rescued by Weezer the kenku. Later discovered he had become a pony.
+      Woke in a trash heap ("Not again!"), turned into a pony, and was nearly eaten by an otyugh before Weezer stopped it. He bonded with Weezer over shinies.
   - session: "08e03"
     content: |
-      Used wild magic which accidentally turned himself and Ozborn into potted plants, then into a giant beanstalk.
+      His wild magic turned himself and Ozborn into potted plants, then exploded into a giant beanstalk, which everyone climbed into a mystical, sparkling realm to escape the landsharks.
   - session: "09e01"
     content: |
-      Created a stable reality bubble in the crystalline flux and willed it into the shape of a yachtopus for transport.
+      Shaped the combined reality bubble into a playground, then willed into existence a yachtopus, half octopus and half yacht, so everyone could ride together.
   - session: "10e01"
     content: |
-      Left the Amulet of Vecna's Lore in his house safe and secretly sent word that the party should depart.
-  - session: "10e02"
-    content: |
-      Received private information from Seirye about the various artifacts' locations and status.
+      Stashed the Amulet of Vecna's Lore in his house safe, along with his retirement savings. He noticed Panthea's lingering Flux taint, and, staying behind, sent an urchin with a note telling the others to set off for the portal without mentioning it to "them."
   - session: "10e04"
     content: |
       Suggested contacting the Warforged R. Martine Andrews about their status pursuing Isis Raksh.
+  - session: "10e05"
+    content: |
+      Befriended "Desky," a root-shedding desk in Mallory's old office that offered the agents alchemical loot, until he realized it was evil; he then peed on the loot so no one would touch it.
   - session: "12e06"
     content: |
       Found common ground with Enoki and assisted in the ritual to calm the corrupted mushrooms spreading across the Tree.
   - session: "12e07"
     content: |
-      Carried the portable hole via fly spell and later dispelled an owlbear that appeared to be an illusion.
+      Banished Freki out of the portable hole when he panicked. At the illusory Fruit, he cast wall of fire to stop Phoebe, burning away the mist and glamour, which flowed into his mouth.
   - session: "12e08"
     content: |
-      Cast scorching rays on Isis and attempted other magical support during the intense battle.
+      Projected into his familiar Murky, and burned Isis with a volley of scorching rays.
   - session: "12e09"
     content: |
-      Recalled important information about the Arkenstone potentially being explosive, mentioning the Book's self-protective feedback mechanisms.
+      Concluded that Erasmus was right: even if they took the seed, it could be infected by the same force afflicting the Tree. He warned Callie that the Arkenstone "might be explosive."
   - session: "12e10"
     content: |
-      Attempted a spell but failed and was poofed into feathers; later sided with destroying the Book first.
+      Tried to secure the gnome with a spell, but it fizzled and he vanished in a puff of feathers.
   - session: "12e11"
     content: |
-      Was briefly turned into an owlbear form by illusion magic but maintained awareness of the true threats.
+      In owlbear form after his wild magic mishap, he was stabbed by Ozborn, saw through the shadow conjuration, and vouched for Sartus's "big brain" plan to Lorissa.
   - session: "12e12"
     content: |
-      Cast banishment on Zuggtmoy with the help of Feymist channeling chaotic power, manipulated reality to make the ooze perceive Erasmus as its sworn enemy.
+      Cast banishment on the Queen at Lorissa's suggestion; empowered by Feymist flowing from the Tree, he broke through both layers of Zuggtmoy's will. In the fight with the black ooze, he made it Freki's oathbow's sworn enemy, cursed everyone but Bec with terrible luck, and set off three wild surges.
+  - session: "13e02"
+    content: |
+      Identified the veil as a protective misdirection field, not very powerful since it covered an area large enough for a small village.
+  - session: "13e03"
+    content: |
+      Banished Talos and Andalla for a minute, letting the agents prepare for their return.
   - session: "13e04"
     content: |
-      Assisted in the Alye'adu battle against Talos and Andalla, obtained intelligence on Mallory's doppelganger, and wove wild magic into a newly created door protecting the village.
-  - session: "14e00"
-    content: |
-      Met by the agents to coordinate their efforts; revealed that wild magic displacement may have scattered SPI agents across time and space.
+      Banished Talos and Andalla to let the agents regroup. Afterward, he offered Mallory to Sima's doppelganger as an anchor, lectured a light-fingered villager, and wove Flux into a wild magic door for the village.
   - session: "14e02"
     content: |
-      Cast mage armor and sensed Flux chaos throughout the manor; became affected by a wild magic surge that summoned a unicorn instead of disaster.
+      Appeared among Lady Nightshade's angelic figures, to her surprise as much as anyone's. Sensing Flux tendrils throughout the manor, he cast mage armor and triggered a wild surge that summoned a unicorn; his charm person on Ozborn succeeded, but shunted him to the Astral Plane, though he somehow remained present.
   - session: "14e03"
     content: |
-      Attempted to banish Lady Nightshade and failed; became terrified of Freki and drunk from wild magic; regained spell slots.
+      Despite a surge that left him terrified of Freki and drunk, his banishment sent Lady Nightshade and a flameskull away. He worked out how the elements on the divine chart correspond to the magic domains, and, in the mirror, saw Moradin end a past wild surge of his.
   - session: "14e04"
     content: |
-      Offered Vecna the secret that Freki is a werewolf, gaining knowledge that Freki is a pawn of the Raven Queen; helped Callie resist the potion multiple times.
+      Entranced by Vecna's mirror shards, he chased them into the mist shouting Freki's secret, and got lost, learning that Freki is a pawn of the Raven Queen. He checked in on Roger, and was roasted by Invictus for thinking he had mastered the Flux.
   - session: "14e05"
     content: |
-      Explained to Lestache that the Necronomicon was Invictus's phylactery, so this situation won't recur; advocated for Invictus's destruction.
+      Explained to Lestache what had happened to Invictus, and wanted him destroyed. In the battle, his familiar Murky was killed trying to save the monkey statue; he teleported the paralyzed Callie to safety inside the manor, and blew out the window with a gust of wind from his wand of wonder.
   - session: "15e00"
     content: |
-      Arrived at the confrontation after being ejected from the Wand of Wonder and engaged in a drinking game about the party's composition.
-  - session: "15e01"
-    content: |
-      Remained at Bilbo's house during the team's infiltration of the ball.
+      His wand of wonder set his hair aflame, sucked it in, and shot it out as a fireball, along with the ghost Roger. Drunk at Bilbo's, he reluctantly admitted that SPI HQ was destroyed in an accident during experiments on the Arkenstone, which brought the god of dwarves, after which he woke in a dumpster in a younger body; he insisted he did not bring the Flux.
   - session: "15e02"
     content: |
-      Attended the ball and conversed with Calderon the Cold about spiders, the Flux, and possibilities for mastering his wild magic through the Crispic clan.
-  - session: "15e03"
-    content: |
-      Appeared suddenly during the Hunt from the magical flames and created walls of light to weaken vampires.
+      Sensed a spider-filled plane nearby on the way to the ball. He argued loudly with "Bilbo" about his duties, and told Calderon the Cold that the Flux would eventually tear reality apart, considering Calderon's offer of a place in his clan.
   - session: "15e04"
     content: |
-      Used walls of light to disable Enoch during combat and relentlessly attacked the vampire despite his healing abilities.
+      Appeared out of Enoch's flames, remembering nothing since the hunt's introduction, and summoned a horizontal wall of light that stopped Enoch's healing. When Enoch offered to talk once the light was gone, Vondal shot him with it; Enoch turned invisible and called him a fool. In the fight that followed, he turned a vampire to stone.
   - session: "15e05"
     content: |
-      Sensed an immensely evil presence deep within the Soulbound Rest and investigated magical anomalies in the defiled ground.
+      Struck a deal with Goratrix for the agents' safety, and insisted on resting before going on. At the Soulbound Rest, he sensed a tremendously evil and powerful presence half a mile away.
   - session: "15e06"
     content: |
-      Channeled massive magical power through his form with green fur and incinerated the Death Tyrant, absorbing its power like Oscar the Grouch in a trash can.
+      Shut the agents in the chapel and raised a wall of light against the ghost swarm. Trying to shoot a beam at the Death Tyrant, he sprouted three eyestalks topped with Roger's head, becoming entangled with Xaryu.
   - session: "15e07"
     content: |
-      Touched a stained glass window and witnessed the birth of the Flux—three elves and a halfling performing a ritual on a tower, with one elf sabotaging the working.
+      Sprouting green fur with each beam, he incinerated the Death Tyrant. Sucked into a stained glass window, he witnessed the birth of the Flux: on a hill, three elves wielded a ring whose power would heal the world, until one of them sabotaged the ritual and it cracked; he recognized Janus Ilaris and Priscilla Stormcloud. The Brucolac warned him he was playing with fire.
   - session: "15e08"
     content: |
-      Engaged in a mental battle with the Brucolac and used the Flux itself to pull Cal from the creature's belly; his form transformed with glowing green fur.
+      Bent reality through the Flux to pull Cal out of the Brucolac's belly, glowing translucent until his fur burst into flame and a rain of fire fell around him, locked in a mental battle with the Brucolac.
   - session: "15e09"
     content: |
-      Returned to SPI HQ with Roger emerging from the Wand of Wonder; expressed hatred for the Flux and its lingering presence.
+      Squirted Roger out of the wand of wonder at HQ as the SPI's newest employee, and told Mallory of his vision of the Flux's birth.
+  - session: "16e03"
+    content: |
+      His banishment on the possessed monkey turned it into pulsating flesh, and a wild surge turned Bec into a potted plant, leaving everyone else vulnerable to piercing.
+  - session: "16e06"
+    content: |
+      Mused that combining the Flux and the Feywild could make the fictional real, and comprehended how the Flux bent down from the tower to form its mirror image below. Freki, turned monstrous, ate him in two bites, before Cassandra restored Freki. He insisted on his own version of events under "Mallory's" questioning, sensing the Flux had fragmented time.
+  - session: "16e07"
+    content: |
+      Conjured a duplicate of Callie and a huge wall of light that trapped and burned the shadow creatures, drawing on its power to attack them.
   - session: "17e00"
     content: |
-      Explored various questionable theories for removing Flux from an infected ally, suggesting approaches involving extraction and containment; encountered significant resistance to his ideas and later volunteered to become an anchor for a displaced changeling.
+      Recognized Fluxwarp, and proposed squeezing the Flux out of Lorelei like snake venom, or finding a Grand Elemental Master. He made lasagna, told Mallory about the traitorous elf behind the Flux, and lamented that the monk was cooler than him. Mallory told him he could not anchor Amisa until his Fluxtaint was under control.
+  - session: "17e03"
+    content: |
+      Rode in the portable hole, furnished with a bottle of endless air. Popping out briefly, his wand of wonder dropped an elephant on Jorik, which gored him, though he never left the hole.
+  - session: "17e04"
+    content: |
+      Hid with Callie in the portable hole, bluffing a passing giant by playing a guard who had wandered off for omelets. Using tongues, he got through to the behir by telling it to count its eggs.
+  - session: "17e05"
+    content: |
+      Hid with the agents in the portable hole; his familiar Murky shocked Verthandi, and she fell.
+  - session: "17e06"
+    content: |
+      Raised a wall of light shaped to spare his friends. When a giant attacked him in the portable hole, a wild surge made his and the giant Erka's feet grow enormous, bending something on a cosmic level.
   - session: "17e08"
     content: |
-      Used his gift for creature conversation to negotiate with the behir brood mother, convincing her that Cal was the new authority; reassured the giants about their fates and coordinated responses to the unfolding chaos.
+      Turned up underwater in the column into Rhyzophus's chamber. He reassured Ulgrim that the soul larvae punishment was reserved for the worst, and spoke with the behir brood mother, who called him "my morsel," telling her that Cal now led the giants and would punish them.
   - session: "17e09"
     content: |
-      Made a controversial decision to destroy Sissae's central bloom curse flower, killing her instantly to prevent her full transformation into mindless plants; justified the action as preserving more of her memories, and later had his pinky finger severed as payment for his magical wishes.
+      His rod of wonder's healing affected Ozborn as though he were undead. At Grohnea's, after appearing on fire, he argued for stopping Sissae's heart to stop the bloom curse, and did so, insisting they would find a way to resurrect her. He summoned Zanqaa, and Grohnea's wishes restored Sissae, at the cost of his pinky finger.
   - session: "16e09"
     content: |
-      Had a complete existential crisis when confronted with Nondal, unsure whether he was real or if the white crane was his true self; eventually recovered and returned home to sleep.
+      Shaken to the core, he wondered whether Nondal might be the real him, and he the fake. His banishment made Nondal flicker but not vanish. Back at HQ, after asking Mallory whether he was really himself, he went to bed.
   - session: "16e08"
     content: |
-      Developed bat-like ears, gained echolocation and doubled perception proficiency; constantly attracts bats to land on him, making stealth nearly impossible but senses greatly enhanced.
+      Sensed the area would be lost to the Flux if the battle went on. Lured into the Flux, he slowed Megaera with his rod of wonder, and she cracked in half. Afterward the Flux gave him huge bat ears, echolocation and sharpened senses, along with a following of bats. He led the agents "further up and further in" to a gate to the true Afterworld, which he found just as wrecked by the Flux, and to another Vondal waiting beyond it.
   - session: "16e05"
     content: |
-      Using his connection to the Flux, Vondal spliced reality to minimize the madness effects afflicting the agents; agents encountered shadow demons and shadow duplicates while pushing deeper into the Flux tunnels toward the tower's center.
+      Strained to influence the Flux to soften the agents' madness, trading their afflictions for others; he himself was left with a lasting revulsion toward the Great Old One. He argued to go upstream along the Flux-wreathed root, and flipped out at a shadow creature in the agents' midst.
   - session: "16e02"
     content: |
-      Recruited agents to perform a binding ritual restoring Audreth's mind; described the expanded World Tree roots as a sign of catastrophic reality damage requiring investigation at the source.
+      Blasted Audreth with scorching rays, and tried to befriend the Flux-damaged Cerberus. Remembering that Audreth was a warlock and a paladin of Pelor, he insisted on a ritual to restore Audreth's mind, drawing Pelor's sign and the Great Old One's tentacles on him, and it worked.
+  - session: "18e00"
+    content: |
+      Mallory berated him for killing Sissae unilaterally, given the cost of resurrection. With his Fluxtaint healed, he visited Alye'adu to become Amisa's anchor, but the changelings wanted to study his instability first.
 ---
 
 A veteran wild mage who's been working with the [SPI](../orgs/spi) for decades,

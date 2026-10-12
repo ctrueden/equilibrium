@@ -10,7 +10,7 @@ statbox:
 descriptions:
   - session: "15e02"
     content: |
-      Attended the ball as the Champion of Serene Wrath; observed the proceedings with apparent allies and intervened when Lestache grew agitated over Goratrix's theatrics.
+      The Peerless, Champion of Serene Wrath, whose retinue took posts around the room. Ozborn, disguised as Bilbo, gave Troile a vial of changeling blood. Troile spoke quietly with Lestache, told him to settle down when he lost his temper with Goratrix, and pledged a ruby of the war mage to the hunt.
 ---
 
 Leader of the [Brujah](https://whitewolf.fandom.com/wiki/Brujah) vampire clan in [Sepulchralis](../locales/sepulchralis).

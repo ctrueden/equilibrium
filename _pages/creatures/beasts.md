@@ -6,7 +6,7 @@ image-source: https://www.pinterest.com/pin/480266747762923441/
 descriptions:
   - session: "08e02"
     content: |
-      Dangerous creatures named Fair and Foul that were harbored beneath the circus grounds.
+      Meroe's bombs collapsed the ground into the underground lair of the landsharks (bulettes) Fair and Foul.
 ---
 
 Many fantastic beasts dwell throughout [Aecus](../locales/aecus). Here are some of them!

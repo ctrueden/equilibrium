@@ -4,9 +4,12 @@ title: Lamp of Seeming
 image: https://theromantic.com/wp-content/uploads/2015/07/romantic-genie-lamp-care-package-ideas.jpg
 image-source: https://theromantic.com/stories/carepackages/carepackages19.htm
 descriptions:
+  - session: "05e01"
+    content: |
+      Ra'faj used the lamp to transform himself into a white dragon inside the rift at the Zenithal Summit.
   - session: "09e04"
     content: |
-      Hidden by Ozborn and Cal with the genie Zanqaa to protect it from MAD seizure.
+      Taken from the evidence locker by Ozborn and Cal, and hidden in Vondal's ring by the genie Zanqaa, before MAD could seize it.
 ---
 
 A lamp of illusions made real, believed to be one of eight divine [relics](.) somehow central to the integrity of reality itself.

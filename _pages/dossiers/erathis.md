@@ -28,12 +28,18 @@ links:
 - 5E Exandria|https://2014.5e.tools/deities.html#erathis_exandria_egw
 - 5E Greek|https://2014.5e.tools/deities.html#athena_greek_phb
 descriptions:
-  - session: "14e00"
+  - session: "11e04"
     content: |
-      Referenced as the twin goddess to Avandra in Callie's pantheon.
+      Answering Callie's prayer, she warned that taking the Fountain from Cognitutus might make all they had built begin to topple.
+  - session: "11e08"
+    content: |
+      When Callie, grappled by a giant monster, cast zone of truth, Erathis spent a significant chunk of power to destroy the illusions around the party, revealing the two aboleths behind it all.
+  - session: "13e02"
+    content: |
+      When Callie spoke the name "Alye'adu" in Erathis's voice to open the veil, she sensed that Erathis already knew of the place.
   - session: "14e03"
     content: |
-      Identified on the divine map chart with specific elemental and domain attributes.
+      On the divine chart in Invictus's study, Erathis's symbol sat at the intersection of magma and water (war and knowledge).
 ---
 
 ## Precepts

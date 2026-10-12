@@ -8,6 +8,13 @@ statbox:
   gender: female
   locale: mountain
   pronunciation: "GREE-mah"
+descriptions:
+  - session: "17e01"
+    content: |
+      Goblin princess, "more herself than usual" during the monthly merge, who demanded the agents' help defending her clan from an inferior goblin clan before she would help them, and complained the SPI hadn't helped when "that owlbear" came out.
+  - session: "17e02"
+    content: |
+      Made the agents swear a goblin blood oath from a stinking cup of spit and bile to return when she calls, and promised, after a suspicious pause, not to die before then.
 ---
 
 Daughter of a goblin chieftain. Secretly a [changeling](../creatures/changelings), imprinted on [Mirga Grimshot](mirga-grimshot).

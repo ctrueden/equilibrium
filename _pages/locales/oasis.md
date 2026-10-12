@@ -6,7 +6,7 @@ image-source: https://www.pinterest.com/pin/187321665743002265/
 descriptions:
   - session: "10e02"
     content: |
-      The location of the Cornucopia artifact, where the party traveled for seven days through the desert. Defended by Luminous Defender paladins.
+      After seven days crossing the desert, the agents reached the Cornucopia, where two Luminous Defender paladins were stationed, two weeks off schedule.
 ---
 
 A city in the [Radiant Union of Pelor](rup). It is only able to exist thanks to the blessings of [Pelor](../dossiers/pelor) and the [Cornucopia](../relics/cornucopia) relic, which yield fertile lands deep in the otherwise barren [Desert of Ruin](desert).

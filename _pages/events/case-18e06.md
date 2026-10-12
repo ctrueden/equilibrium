@@ -10,8 +10,8 @@ layout: session
 reviewed: false
 summary: >-
   The morning began with the team assembling in the communal briefing room at
-  SPI Headquarters, where the real Mallory—not his changeling double,
-  Eeoram—emerged from his office to greet them. Freki, whose keen nose had grown
+  [SPI Headquarters](../locales/spi-hq), where the real [Mallory](../dossiers/mallory)—not his changeling double,
+  [Eeoram](../dossiers/eeoram-sufur)—emerged from his office to greet them. [Freki](../dossiers/freki), whose keen nose had grown
   attuned to the subtle synthetic scent of changelings, confirmed with quiet
   confidence that this was the genuine article: the same old dwarf, smelling of
   familiarity rather than artifice. Mallory wasted no time, tossing a heavy bag
@@ -19,12 +19,12 @@ summary: >-
   gold—and informing the group that receipts were expected upon their return.
 
 
-  The news came quickly and without ceremony: Kerwin Ovas had been found dead
+  The news came quickly and without ceremony: [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead
   that morning by his booking manager, and the Warlocks of the Archfiend had
   already sealed the building. Mallory pinned a series of magically-rendered
   portraits to the corkboard with practiced efficiency, each one so lifelike
   that only the faintest pencil shading betrayed the hand of an artist. He
-  walked the team through the key players: Serelda Voth, Kerwin's former wife,
+  walked the team through the key players: [Serelda Voth](../dossiers/serelda-voth), Kerwin's former wife,
   who had filed a sweeping legal complaint against Callie Rockwell seeking two
   hundred thousand gold pieces in damages and the submission of the carafe as
   evidence; and the law firm Vorak and Solm, who represented her and had
@@ -35,65 +35,65 @@ summary: >-
   Mallory explained that Kerwin's firm, Ursion and Brass, had already filed a
   brief arguing that voluntary and prolonged use of the carafe diminished the
   original seller's liability—a legal argument, not yet precedent, but one that
-  could help Callie's defense. He was clear about the limits of SPI's
+  could help [Callie](../dossiers/callie)'s defense. He was clear about the limits of [SPI](../orgs/spi)'s
   involvement: they would protect Callie physically and facilitate her access to
   legal counsel, but they would not bury evidence or coerce witnesses. He
   recommended the firm Perdition Mitigation, which had an office in Abermach,
   and suggested Callie's family connections might already open that door.
 
 
-  Taylin Fox was identified as Callie's most valuable legal asset. As a trained
+  [Taelin Fosse](../dossiers/taelin-fosse) was identified as Callie's most valuable legal asset. As a trained
   legal professional who had spent years inside Kerwin's operation and had
   watched the carafe's influence erode her own mind, her testimony could
   transform a weak defense into a compelling story of fraud and manipulation.
-  Mallory also flagged the bodyguards Gallic and Preen as persons of interest,
-  noting that Gallic was likely a freelancer working through Highmark
-  Ventures—the corporate arm of Mammon himself—and that Preen, an
+  Mallory also flagged the bodyguards [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen) as persons of interest,
+  noting that Galloc was likely a freelancer working through Highmark
+  Ventures—the corporate arm of [Mammon](../dossiers/mammon) himself—and that Preen, an
   extraordinarily skilled thief, was believed to be in possession of the missing
-  carafe. Bec was quietly warned not to be briefed on the Highmark angle until
+  carafe. [Bec](../dossiers/bec) was quietly warned not to be briefed on the Highmark angle until
   more was known about where his loyalties truly lay.
 
 
   The briefing continued with a breakdown of the Harbor District's three
   competing factions. The Blues, anchored by the Dockworkers' Union and led by
-  the pragmatic Soran Kell, controlled the docks and the financial lifeblood of
+  the pragmatic [Sorra Kell](../dossiers/sorra-kell), controlled the docks and the financial lifeblood of
   the region from their base at the Rusted Capstan. The Scarlets—who called
   themselves the Asmodials—operated out of the Ramshackle Ram, where a cold and
-  calculating information broker named Vordas Shek listened to everything from
-  behind the bar. The Crimsons, led by the guarded and bitter Seth Aldris at the
+  calculating information broker named [Vordas Shek](../dossiers/vordas-shek) listened to everything from
+  behind the bar. The Crimsons, led by the guarded and bitter [Ceth Aldras](../dossiers/ceth-aldras) at the
   Ember Keep, harbored a deep hatred for the Scarlets that felt rooted in
   something far older and more personal than mere rivalry.
 
 
-  Mallory also introduced Thresh, a contract devil serving as the Harbor
+  Mallory also introduced [Thresh](../dossiers/thresh), a contract devil serving as the Harbor
   District's notary, who kept meticulous records of every legal filing in the
   area and would answer direct questions—but only direct questions. He then
   outlined five investigative priorities: securing legal protection for Callie,
-  clarifying the deal struck with Gallic, interviewing Kerwin's surviving staff
+  clarifying the deal struck with Galloc, interviewing Kerwin's surviving staff
   before the Warlocks got to them, informing Serelda of her ex-husband's death,
-  and investigating the contract draft left behind by the Knoffendorfs. Vondal
+  and investigating the contract draft left behind by the Noffindorfs. [Vondal](../dossiers/vondal)
   raised a sharp legal observation—if the carafe had compromised Kerwin's
   sanity, his divorce from Serelda might be legally invalid, meaning she could
   stand to inherit his entire estate and might have little reason to continue
   her lawsuit against Callie. Mallory agreed it was worth exploring and said he
-  would discuss the angle with Taylin while the team was in the field.
+  would discuss the angle with Taelin while the team was in the field.
 
 
   Before the briefing concluded, Mallory attempted to conceal a final sheet of
-  paper in his folder. Ozborn noticed immediately and, with a dazzling
+  paper in his folder. [Ozborn](../dossiers/oz) noticed immediately and, with a dazzling
   double-bump maneuver that left even Mallory momentarily outmaneuvered, slipped
   the paper free and flung it behind his back to Bec. Mallory sighed and
   admitted Ozborn could have simply asked, to which Ozborn replied that there
   would be no fun in that. The paper turned out to be a crude, hand-written list
   featuring stick figures and frowny faces—Mallory's charmingly informal
   personal notes on the investigation, complete with a tiny dagger drawn next to
-  Gallic's name and a little dress sketched beside Serelda's. Bec was also
-  handed a key to the Trell office door, sparing the team any future acrobatic
+  Galloc's name and a little dress sketched beside Serelda's. Bec was also
+  handed a key to the [Trell](../locales/trell) office door, sparing the team any future acrobatic
   entries through windows.
 
 
   Before departing, Callie slipped into the women's dormitory to check on
-  Cassandra, who lay deeply asleep with dark circles carved beneath her eyes.
+  [Cassandra](../dossiers/cassandra), who lay deeply asleep with dark circles carved beneath her eyes.
   Performing a quiet ritual of magical sensing, Callie discovered a powerful
   divine aura radiating from the sleeping woman—one that seemed, impossibly, to
   cast a shadow that vanished the moment she looked for it directly. The aura
@@ -104,21 +104,21 @@ summary: >-
 
 
   The team teleported back to Trell and arrived at the SPI's local branch
-  office, where their contact Vex greeted them with a freshly brewed cup of
+  office, where their contact [Vex](../dossiers/vex-morradine) greeted them with a freshly brewed cup of
   local herbal tea he described as an upgraded offering. Freki's sharp nose
   caught the unfamiliar, slightly sooty aftertaste of ingredients native to
   Trell's rocky terrain—natural, but foreign. The party briefed Vex on Kerwin's
-  death and Taylin's asylum, and the moment Highmark Ventures was mentioned, Vex
+  death and Taelin's asylum, and the moment Highmark Ventures was mentioned, Vex
   went completely still. He recovered smoothly, but those paying close attention
   sensed a flicker of genuine uncertainty beneath his composed exterior—not
   deception exactly, but the quiet discomfort of a man who hoped the answer to a
   question was no, without being entirely sure.
 
 
-  Vex provided two residential addresses on a scrap of paper—one for Zarlis
-  Shale, Kerwin's finance manager, and one for Serelda Voth—and advised the team
-  to reach Zarlis before the Warlocks did. As they walked through the overcast,
-  smoggy streets toward the older district where Zarlis lived, Vex filled in
+  Vex provided two residential addresses on a scrap of paper—one for [Xarlus
+  Shale](../dossiers/xarlus-shale), Kerwin's finance manager, and one for Serelda Voth—and advised the team
+  to reach Xarlus before the Warlocks did. As they walked through the overcast,
+  smoggy streets toward the older district where Xarlus lived, Vex filled in
   additional details about the factions. He revealed his own past as a Highmark
   debt collector, explaining with quiet confidence that the locals gave him a
   wide berth out of experience and fear. Meanwhile, Freki's ravens delivered a
@@ -130,7 +130,7 @@ summary: >-
   The team arrived at a hostel in a more developed part of the city, its
   cobblestone streets and multi-story stone buildings a marked contrast to the
   crumbling Harbor District. They found unit 36 on the third floor and knocked,
-  waking a groggy and shirtless Zarlis Shale, whose large dark eyes were even
+  waking a groggy and shirtless Xarlus Shale, whose large dark eyes were even
   dewier than usual with sleep. His apartment was startlingly humble for a man
   who managed the finances of a thriving commercial operation—a small bed, a
   cooking pot, and three books leaning against the wall were the sum of his
@@ -141,28 +141,28 @@ summary: >-
 
   Ozborn and Vex took the lead, ushering the rest of the party into the hallway
   to conduct a more focused conversation. Ozborn broke the news of Kerwin's
-  death plainly, and Zarlis received it with a kind of stunned, tech-bro
+  death plainly, and Xarlus received it with a kind of stunned, tech-bro
   optimism—his first instinct was to suggest simply resurrecting his boss and
   asking him directly who had killed him, apparently unaware that Trell required
   a legal permit for such magic. He spoke warmly of Kerwin and the business,
   describing himself as deeply invested in its success and hoping to eventually
-  become a partner. When pressed about Highmark Ventures, Zarlis confirmed that
+  become a partner. When pressed about Highmark Ventures, Xarlus confirmed that
   the company's security had been contracted through a shell company widely
   understood to be a Highmark proxy, though he had never personally dealt with
-  Gallic or Preen.
+  Galloc or Preen.
 
 
-  Zarlis admitted that lawyers representing Serelda had visited the office
+  Xarlus admitted that lawyers representing Serelda had visited the office
   multiple times during his tenure, though he had always been excluded from
   those meetings. He also confirmed that the only copy of the company's
   financial ledger remained at the now-sealed crime scene, making it
   inaccessible. Ozborn warned him to stay in his apartment and away from the
-  Warlocks, and Zarlis pushed back, questioning whether the SPI even had the
+  Warlocks, and Xarlus pushed back, questioning whether the SPI even had the
   authority to tell him what to do. Ozborn bluffed confidently about having a
-  warrant; Zarlis called the bluff just as confidently. The standoff ended with
+  warrant; Xarlus called the bluff just as confidently. The standoff ended with
   Ozborn promising to look into the possibility of resurrecting Kerwin on
-  Zarlis's behalf, and Callie offering a quiet touch of divine healing to ease
-  the pounding headache that had been building behind Zarlis's eyes as the
+  Xarlus's behalf, and Callie offering a quiet touch of divine healing to ease
+  the pounding headache that had been building behind Xarlus's eyes as the
   carafe's lingering influence continued to unravel.
 
 
@@ -172,84 +172,84 @@ summary: >-
   nook at the very top of the stairwell, clinging to the rafters like a spider.
   Moments later, a young tiefling wreathed in fire strode up the stairs two at a
   time and pounded on the locked door, announcing himself as a representative of
-  the Infernal Order of Asmodeus and demanding that Zarlis Shale open up
+  the Infernal Order of [Asmodeus](../dossiers/asmodeus) and demanding that Xarlus Shale open up
   immediately. The party held their breath, scattered between the window ledge
   and the rafters, as the Warlocks arrived to claim their own piece of the
   investigation.
 short_summary: >-
   The session opened with the team receiving a thorough briefing from the real
-  Mallory at SPI Headquarters—confirmed genuine by Freki's nose—who informed
-  them that Kerwin Ovas had been found dead that morning, with the Warlocks of
+  [Mallory](../dossiers/mallory) at [SPI Headquarters](../locales/spi-hq)—confirmed genuine by [Freki](../dossiers/freki)'s nose—who informed
+  them that [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead that morning, with the Warlocks of
   the Archfiend already sealing the scene. Mallory outlined the key players,
-  including Kerwin's ex-wife Serelda Voth and her legal team at Vorak and Solm,
-  the potentially invaluable witness Taylin Fox, and the dangerous bodyguards
-  Gallic and Preen—the latter believed to be in possession of the missing
+  including Kerwin's ex-wife [Serelda Voth](../dossiers/serelda-voth) and her legal team at Vorak and Solm,
+  the potentially invaluable witness [Taelin Fosse](../dossiers/taelin-fosse), and the dangerous bodyguards
+  [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen)—the latter believed to be in possession of the missing
   carafe. He assigned five investigative priorities, funded the team with five
-  hundred gold pieces, and set firm ethical limits on SPI's involvement.
-  Notably, Vondal raised the sharp legal point that the carafe's influence on
+  hundred gold pieces, and set firm ethical limits on [SPI](../orgs/spi)'s involvement.
+  Notably, [Vondal](../dossiers/vondal) raised the sharp legal point that the carafe's influence on
   Kerwin's sanity might invalidate his divorce from Serelda, potentially making
-  her his heir and undermining her lawsuit against Callie—an angle Mallory
-  agreed to explore with Taylin. Before departing, Ozborn cheekily pickpocketed
+  her his heir and undermining her lawsuit against [Callie](../dossiers/callie)—an angle Mallory
+  agreed to explore with Taelin. Before departing, [Ozborn](../dossiers/oz) cheekily pickpocketed
   Mallory's personal notes—a charming hand-drawn sheet of stick figures and
   dagger doodles—and Callie quietly checked on the mysteriously sleeping
-  Cassandra, whose own divine aura seemed to cast an impossible shadow,
+  [Cassandra](../dossiers/cassandra), whose own divine aura seemed to cast an impossible shadow,
   suggesting she had been magically suppressing her need for rest until her body
   finally gave out.
 
 
-  The team teleported to Trell, where their contact Vex briefed them further and
-  provided addresses for Kerwin's finance manager Zarlis Shale and Serelda Voth,
-  urging them to reach Zarlis before the Warlocks did. A notable moment of
+  The team teleported to [Trell](../locales/trell), where their contact [Vex](../dossiers/vex-morradine) briefed them further and
+  provided addresses for Kerwin's finance manager [Xarlus Shale](../dossiers/xarlus-shale) and Serelda Voth,
+  urging them to reach Xarlus before the Warlocks did. A notable moment of
   tension arose when Highmark Ventures was mentioned—Vex went briefly but
   visibly still, betraying quiet unease beneath his composed exterior. The party
-  found Zarlis in a surprisingly sparse apartment, groggy and stunned by the
+  found Xarlus in a surprisingly sparse apartment, groggy and stunned by the
   news of Kerwin's death, though his first instinct was to simply suggest
   resurrecting his boss. He confirmed that Highmark-linked security had been
   contracted through a shell company and that Serelda's lawyers had made
   repeated visits to the office, though he had been excluded from those
   meetings. The conversation was cut short when rapid footsteps on the stairs
   heralded the arrival of a fiery young tiefling representing the Infernal Order
-  of Asmodeus, demanding entry—leaving the party scrambling out windows and
+  of [Asmodeus](../dossiers/asmodeus), demanding entry—leaving the party scrambling out windows and
   clinging to rafters as the Warlocks moved in to claim their own piece of the
   investigation.
 classic_summary: >-
-  Last we left off, our investigators gathered at SPI Headquarters for a morning
-  briefing with the real Mallory—confirmed genuine by Freki's ever-reliable
-  nose—who wasted no time delivering grim news: Kerwin Ovas had been found dead,
+  Last we left off, our investigators gathered at [SPI Headquarters](../locales/spi-hq) for a morning
+  briefing with the real [Mallory](../dossiers/mallory)—confirmed genuine by [Freki](../dossiers/freki)'s ever-reliable
+  nose—who wasted no time delivering grim news: [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead,
   his building already sealed by the Warlocks of the Archfiend. Mallory laid out
   the full picture with characteristic efficiency: a vengeful ex-wife named
-  Serelda Voth pursuing a devastating lawsuit, a pair of dangerous bodyguards
-  with ties to the corporate arm of Mammon himself, three feuding factions
+  [Serelda Voth](../dossiers/serelda-voth) pursuing a devastating lawsuit, a pair of dangerous bodyguards
+  with ties to the corporate arm of [Mammon](../dossiers/mammon) himself, three feuding factions
   carving up the Harbor District, and a missing carafe at the center of it all.
   The team was handed five investigative priorities, a bag of five hundred gold
-  pieces, and—after Ozborn's rather theatrical interception of a concealed
+  pieces, and—after [Ozborn](../dossiers/oz)'s rather theatrical interception of a concealed
   document—Mallory's charmingly hand-drawn personal notes, complete with stick
-  figures and a tiny dagger beside Gallic's name.
+  figures and a tiny dagger beside [Galloc](../dossiers/galloc)'s name.
 
 
-  Teleporting to Trell, the group touched base with their local contact Vex, who
+  Teleporting to [Trell](../locales/trell), the group touched base with their local contact [Vex](../dossiers/vex-morradine), who
   received the mention of Highmark Ventures with a stillness that spoke volumes,
   before setting out through smoggy streets toward the humble apartment of
-  Zarlis Shale, Kerwin's finance manager. They found him groggy, shirtless, and
+  [Xarlus Shale](../dossiers/xarlus-shale), Kerwin's finance manager. They found him groggy, shirtless, and
   startlingly optimistic—his first instinct upon learning of his employer's
   murder was to suggest a simple resurrection, apparently unaware of Trell's
   permitting requirements. The conversation yielded useful threads: lawyers for
   Serelda had visited the office repeatedly, the financial ledger remained
-  locked inside the sealed crime scene, and Zarlis had never personally dealt
-  with Gallic or Preen, though he confirmed the security arrangement's Highmark
+  locked inside the sealed crime scene, and Xarlus had never personally dealt
+  with Galloc or [Preen](../dossiers/preen), though he confirmed the security arrangement's Highmark
   connections.
 
 
   Now, as the team balanced themselves between window ledges and rafters, a
   young tiefling wreathed in flame came pounding up the stairs—a representative
-  of the Infernal Order of Asmodeus, arriving to claim his own piece of the
-  investigation. With the Warlocks at the door and Zarlis on the other side of
+  of the Infernal Order of [Asmodeus](../dossiers/asmodeus), arriving to claim his own piece of the
+  investigation. With the Warlocks at the door and Xarlus on the other side of
   it, our investigators find themselves caught between the law, the flames, and
   a mystery that grows more tangled with every floor they climb...
 middle_english_summary: |-
   Harke well, ye souls of curious mind,
   To deeds of daring, darkly twined;
-  Where Mallory, stout and silver-haired,
+  Where [Mallory](../dossiers/mallory), stout and silver-haired,
   Did lay the grim case, nothing spared—
   A dead man's name upon the wind!
 
@@ -259,15 +259,15 @@ middle_english_summary: |-
   A lawsuit carved a ruinous path,
   And Warlocks sealed the doors shut fast!
 
-  Then Ozborn, swift of hand and wit,
+  Then [Ozborn](../dossiers/oz), swift of hand and wit,
   Did steal the page—Mallory submit!
   With stick-drawn men and daggers small,
   The notes revealed the truth of all,
   And laughter rang where candles lit!
 
-  To Trell they leapt through magic's door,
-  And Vex stood still at Highmark's lore;
-  Then Zarlis, bleary, shirtless, pale,
+  To [Trell](../locales/trell) they leapt through magic's door,
+  And [Vex](../dossiers/vex-morradine) stood still at Highmark's lore;
+  Then [Xarlus](../dossiers/xarlus-shale), bleary, shirtless, pale,
   Did hear his master's mortal tale,
   And dreamed of life restored once more!
 
@@ -278,57 +278,57 @@ middle_english_summary: |-
   What fate awaits them, who would dare?
 snarky_summary: >-
   When last we left our intrepid investigators, they were treated to a full
-  Mallory briefing—which is basically a PowerPoint presentation if PowerPoint
+  [Mallory](../dossiers/mallory) briefing—which is basically a PowerPoint presentation if PowerPoint
   were a corkboard, magically rendered portraits, and a secret sheet of paper
-  with stick figures on it that Ozborn absolutely had to steal through an
+  with stick figures on it that [Ozborn](../dossiers/oz) absolutely had to steal through an
   unnecessarily dramatic double-bump maneuver. The case? A dead music mogul, a
   furious ex-wife swinging a two-hundred-thousand-gold lawsuit like a wrecking
   ball, a missing magic carafe, bodyguards with ties to the literal corporate
   arm of the god of greed, and three gang factions who all hate each other for
-  reasons that are definitely not personal. Oh, and Cassandra is apparently
+  reasons that are definitely not personal. Oh, and [Cassandra](../dossiers/cassandra) is apparently
   running on fumes and divine magic in a way that is deeply concerning and that
   everyone agreed to deal with later, as one does.
 
 
-  The team then teleported to Trell, had a very normal conversation with their
-  contact Vex—who definitely did not visibly short-circuit when Highmark
+  The team then teleported to [Trell](../locales/trell), had a very normal conversation with their
+  contact [Vex](../dossiers/vex-morradine)—who definitely did not visibly short-circuit when Highmark
   Ventures was mentioned—and proceeded to wake up a shirtless finance bro named
-  Zarlis Shale, whose apartment contained a bed, a pot, and three books, and
+  [Xarlus Shale](../dossiers/xarlus-shale), whose apartment contained a bed, a pot, and three books, and
   whose first response to learning his boss was murdered was "have you
   considered just bringing him back to life?" Ozborn bluffed about having a
-  warrant. Zarlis called it. Nobody won. And now a fire-wreathed tiefling is
+  warrant. Xarlus called it. Nobody won. And now a fire-wreathed tiefling is
   pounding on the door while the party dangles out of a third-floor window,
   which is, honestly, a very on-brand way to end a Tuesday.
 limerick_style_summary: |-
-  Old Mallory tossed coin on the table,
+  Old [Mallory](../dossiers/mallory) tossed coin on the table,
   And briefed them as fast as he was able:
-  "Kerwin Ovas is dead,
+  "[Kerwin Ulvas](../dossiers/kerwin-ulvas) is dead,
   Warlocks sealed up his stead—
   Now go sort this mess, if you're able!"
 
-  Then Ozborn pulled off a slick heist,
+  Then [Ozborn](../dossiers/oz) pulled off a slick heist,
   And snatched Mallory's notes in a trice;
   Stick figures and all,
   Pinned up on the wall—
-  A dagger by Gallic sufficed!
+  A dagger by [Galloc](../dossiers/galloc) sufficed!
 
-  To Trell they arrived through the haze,
-  Where Vex froze at Highmark's dark name;
+  To [Trell](../locales/trell) they arrived through the haze,
+  Where [Vex](../dossiers/vex-morradine) froze at Highmark's dark name;
   He smoothed out his face,
   But they all saw the trace
   Of a man who knew more than he'd claim!
 
-  They woke Zarlis Shale, barely dressed,
+  They woke [Xarlus Shale](../dossiers/xarlus-shale), barely dressed,
   Whose apartment was humble at best;
   "Just resurrect him!"
   He said on a whim—
-  Ozborn bluffed warrants; Zarlis wasn't impressed!
+  Ozborn bluffed warrants; Xarlus wasn't impressed!
 
   Now footsteps came fast up the stair,
   A tiefling in flames filled the air;
   The party held tight
   To the rafters in fright—
-  The Warlocks of Asmodeus were there!
+  The Warlocks of [Asmodeus](../dossiers/asmodeus) were there!
 memorable_moments:
   - is_quote: false
     type: funny
@@ -351,7 +351,7 @@ memorable_moments:
     type: intriguing
     description: >-
       Mallory's secret list is revealed to be a crude, hand-written note with
-      stick figures and frowny faces—one of Serelda with a dress, one of Gallic
+      stick figures and frowny faces—one of Serelda with a dress, one of Galloc
       holding a tiny dagger.
     speaker: ''
     context: >-
@@ -389,28 +389,28 @@ memorable_moments:
   - is_quote: false
     type: funny
     description: >-
-      Freki takes one of Zarlis's three books—The Psychology of Money—from his
+      Freki takes one of Xarlus's three books—The Psychology of Money—from his
       apartment while the party interrogates him, then reads it aloud during the
       interrogation.
     speaker: ''
     context: >-
-      Freki casually helps himself to a third of Zarlis's entire book collection
+      Freki casually helps himself to a third of Xarlus's entire book collection
       mid-interrogation, moving his lips as he reads
   - is_quote: true
     type: funny
     description: >-
       If we just bring him back to life, we can ask him, who killed you?
       Wouldn't that be easier?
-    speaker: Zarlis Shale
+    speaker: Xarlus Shale
     context: >-
-      Zarlis, still in shock and apparently unaware of Trell's resurrection
+      Xarlus, still in shock and apparently unaware of Trell's resurrection
       permit requirements, proposes the most direct solution to the murder
       investigation
   - is_quote: false
     type: dramatic
     description: >-
       A young tiefling wreathed in fire from the Infernal Order of Asmodeus
-      pounds on Zarlis's locked door as the party escapes through the window and
+      pounds on Xarlus's locked door as the party escapes through the window and
       Ozborn hides in the rafters.
     speaker: ''
     context: >-
@@ -437,76 +437,76 @@ memorable_moments:
 scenes:
   - title: Morning Briefing at SPI Headquarters
     description: >-
-      The party gathers for a morning briefing with Mallory, who provides funds
-      and intelligence regarding their mission in Trell.
+      The party gathers for a morning briefing with [Mallory](../dossiers/mallory), who provides funds
+      and intelligence regarding their mission in [Trell](../locales/trell).
     key_events:
       - Freki changes his familiar, Murky, back into the form of a cat.
       - >-
         The party meets with Mallory, confirming he is the original dwarf and
-        not the changeling double, Eeoram, based on subtle differences in beard
+        not the changeling double, [Eeoram](../dossiers/eeoram-sufur), based on subtle differences in beard
         hair and scent.
       - >-
         Mallory provides the party with a heavy bag containing 500 gold pieces
         worth of mixed currency for their mission expenses.
       - >-
-        Mallory reveals that Kerwin Ovas was found dead that morning, and the
+        Mallory reveals that [Kerwin Ulvas](../dossiers/kerwin-ulvas) was found dead that morning, and the
         building has been sealed by Warlocks of the Archfiend.
       - >-
         Mallory begins a briefing using a corkboard, displaying magically-aided
-        portraits of key figures including Serelda Voth, Callie Rockwell, and
-        Kerwin Ovas.
+        portraits of key figures including [Serelda Voth](../dossiers/serelda-voth), Callie Rockwell, and
+        Kerwin Ulvas.
       - >-
         The party learns that Serelda Voth has filed a legal complaint against
         Callie Rockwell, seeking 200,000 gold pieces in damages related to the
         carafe.
-      - Bec is given a key to the SPI office in Trell to avoid future lockouts.
+      - Bec is given a key to the [SPI](../orgs/spi) office in Trell to avoid future lockouts.
       - >-
         Mallory explains the legal situation regarding Serelda Voth's lawsuit
         and the potential defense strategies, including a preemptive filing by
         Kerwin's law firm, Ursion and Brass.
       - >-
-        Taylin Fox is identified as a crucial legal asset due to her
+        [Taelin Fosse](../dossiers/taelin-fosse) is identified as a crucial legal asset due to her
         professional background and firsthand experience with the carafe's
         influence.
       - >-
         The party is warned about the power of Trell's Warlock Enforcement and
-        their connection to Asmodeus.
+        their connection to [Asmodeus](../dossiers/asmodeus).
   - title: The Harbor District Briefing
     description: >-
       Mallory provides the SPI agents with a detailed breakdown of the factions,
       informants, and suspects operating within the Harbor District.
     key_events:
       - >-
-        Mallory details the background of Kerwin's bodyguards, Gallic and Preen,
+        Mallory details the background of Kerwin's bodyguards, [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen),
         linking them to Highmark Ventures.
       - >-
         The three primary harbor factions—the Blues (Dockworkers' Union), the
         Scarlets, and the Crimsons—are introduced along with their respective
         leaders and headquarters.
       - >-
-        Soran Kell is introduced as a pragmatic, older leader of the Blues who
+        [Sorra Kell](../dossiers/sorra-kell) is introduced as a pragmatic, older leader of the Blues who
         runs the Rusted Capstan.
       - >-
-        Vordas Shek is introduced as a cold information broker who fronts as a
+        [Vordas Shek](../dossiers/vordas-shek) is introduced as a cold information broker who fronts as a
         bartender at the Ramshackle Ram.
       - >-
-        Seth Aldris is introduced as the watchful, paranoid leader of the
+        [Ceth Aldras](../dossiers/ceth-aldras) is introduced as the watchful, paranoid leader of the
         Crimsons at the Ember Keep.
       - >-
         Mallory advises the team on how to approach the various faction leaders,
         authorizing the use of gold for bribes and information broker fees.
       - >-
-        Mallory presents information on Melissa Dorleac and Zarlis Shale, urging
+        Mallory presents information on Melissa Dorleac and [Xarlus Shale](../dossiers/xarlus-shale), urging
         the party to interview them before local authorities do.
       - >-
-        Thresh, a contract devil serving as Harbor District Notary, is
+        [Thresh](../dossiers/thresh), a contract devil serving as Harbor District Notary, is
         identified as a potential source of legal filing information.
       - >-
         The party is warned about potential conflicting loyalties regarding
-        Bec's history with Highmark Ventures.
+        [Bec](../dossiers/bec)'s history with Highmark Ventures.
   - title: Ozborn Steals Mallory's Secret List
     description: >-
-      Mallory attempts to conceal a personal note from the party, but Ozborn
+      Mallory attempts to conceal a personal note from the party, but [Ozborn](../dossiers/oz)
       successfully pickpockets it in a dazzling display of sleight of hand.
     key_events:
       - >-
@@ -528,31 +528,31 @@ scenes:
   - title: Five Avenues of Investigation
     description: >-
       Mallory outlines five key avenues of investigation and the party discusses
-      legal strategies and the Knoffendorf contract.
+      legal strategies and the Noffindorf contract.
     key_events:
       - >-
         Mallory outlines five investigative priorities: legal protection for
-        Callie, clarifying the deal with Gallic, interviewing Kerwin's staff,
-        informing Serelda, and investigating the Naufendorf contract.
+        [Callie](../dossiers/callie), clarifying the deal with Galloc, interviewing Kerwin's staff,
+        informing Serelda, and investigating the Noffindorf contract.
       - >-
-        Vondal proposes a legal loophole: if the carafe compromised Kerwin's
+        [Vondal](../dossiers/vondal) proposes a legal loophole: if the carafe compromised Kerwin's
         sanity, his divorce from Serelda might be legally invalid, meaning she
         could inherit his estate and potentially drop her lawsuit.
       - >-
-        Mallory agrees to discuss this legal strategy with Taylin while the
+        Mallory agrees to discuss this legal strategy with Taelin while the
         party goes into the field.
       - >-
-        The party discusses the Knoffendorf contract draft left on Kerwin's
+        The party discusses the Noffindorf contract draft left on Kerwin's
         desk, which Callie recalls overhearing snippets of during her
         surveillance.
       - >-
         Mallory notes that the carafe bears the signature markings of the
-        Knoffendorfs, suggesting they are the creators.
+        Noffindorfs, suggesting they are the creators.
       - >-
         The party considers the risks of reaching out to the volatile
-        Knoffendorfs to gain leverage.
+        Noffindorfs to gain leverage.
       - >-
-        The party suggests hiring Taylin as an SPI administrative assistant due
+        The party suggests hiring Taelin as an SPI administrative assistant due
         to her transferable legal skills.
       - >-
         Ozborn collects a handful of thumbtacks from Mallory's office to mix
@@ -560,7 +560,7 @@ scenes:
   - title: Checking on Cassandra
     description: >-
       Before departing for Trell, Callie performs a ritual to sense any
-      lingering magical effects on the deeply sleeping Cassandra.
+      lingering magical effects on the deeply sleeping [Cassandra](../dossiers/cassandra).
     key_events:
       - >-
         The party visits the women's dormitory to check on Cassandra, who is
@@ -595,7 +595,7 @@ scenes:
   - title: Return to Trell and Briefing Vex
     description: >-
       The party teleports back to the Trell SPI office, where they coordinate
-      their next investigative steps with their local contact, Vex, over freshly
+      their next investigative steps with their local contact, [Vex](../dossiers/vex-morradine), over freshly
       brewed tea.
     key_events:
       - >-
@@ -603,22 +603,22 @@ scenes:
         serves them a unique local herbal tea he describes as an upgraded
         offering.
       - >-
-        Freki smells the tea and notes it has a slightly sooty aftertaste from
+        [Freki](../dossiers/freki) smells the tea and notes it has a slightly sooty aftertaste from
         unfamiliar local ingredients.
       - >-
-        The party briefs Vex on Kerwin's death and Taylin's current asylum
+        The party briefs Vex on Kerwin's death and Taelin's current asylum
         status at headquarters.
       - >-
         Vex becomes visibly still and tense when the party mentions Highmark
         Ventures.
       - >-
         Vex provides the party with the personal residential addresses for
-        Zarlis Shale and Serelda Voth on a scrap of paper.
+        Xarlus Shale and Serelda Voth on a scrap of paper.
       - >-
         Vex notes that Melissa Dorleac is likely already in custody with the
-        Warlocks, but suggests Zarlis Shale may not yet have been found.
+        Warlocks, but suggests Xarlus Shale may not yet have been found.
       - >-
-        Freki communes with his ravens, Hugin and Munin, who warn him that Trell
+        Freki communes with his ravens, [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin), who warn him that Trell
         lies at the center of the flux storm and that he is not grounded in his
         power there.
   - title: Walking the Streets of Trell and Faction Briefing
@@ -629,7 +629,7 @@ scenes:
     key_events:
       - >-
         The party sets off on a twenty-minute walk through a run-down
-        neighborhood toward Zarlis's residence.
+        neighborhood toward Xarlus's residence.
       - >-
         Vex explains that the office's poor location was chosen by his
         predecessor to blend in with the surroundings.
@@ -642,95 +642,94 @@ scenes:
         severed.
       - >-
         Vex explains the three primary factions: the Blues (Dockworkers' Union
-        led by Soran Kahl, based at the Rusted Capstan), the Scarlets (also
+        led by Sorra Kell, based at the Rusted Capstan), the Scarlets (also
         known as the Asmodials, based at the Ramshackle Ram), and the Crimsons
-        (led by Seth Aldris, based at the Ember Keep).
+        (led by Ceth Aldras, based at the Ember Keep).
       - >-
-        Vex hints that Vordis Shek may only maintain an allegiance of
+        Vex hints that Vordas Shek may only maintain an allegiance of
         convenience with the Scarlets.
       - >-
         The party crosses into a more developed, older district with cobblestone
         streets and multi-story stone buildings.
-  - title: Arrival at the Hostel and Waking Zarlis Shale
+  - title: Arrival at the Hostel and Waking Xarlus Shale
     description: >-
-      The party arrives at Zarlis Shale's hostel and wakes him with the news of
-      Kerwin Ovas's death.
+      The party arrives at Xarlus Shale's hostel and wakes him with the news of
+      Kerwin Ulvas's death.
     key_events:
       - >-
         The party arrives at a hostel in a more developed district and interacts
-        with a bored receptionist who confirms Zarlis Shale lives in unit 36 on
+        with a bored receptionist who confirms Xarlus Shale lives in unit 36 on
         the third floor.
       - >-
         The group ascends the stairs and knocks on the door, waking a groggy and
-        shirtless Zarlis Shale.
+        shirtless Xarlus Shale.
       - >-
-        Bec identifies herself as SPI and informs Zarlis that his boss, Kerwin
-        Ovas, was stabbed to death and the magical carafe was stolen.
-      - Zarlis expresses shock and concern over his future employment.
+        Bec identifies herself as SPI and informs Xarlus that his boss, Kerwin Ulvas, was stabbed to death and the magical carafe was stolen.
+      - Xarlus expresses shock and concern over his future employment.
       - >-
-        Freki searches the room and discovers Zarlis only owns three books, one
+        Freki searches the room and discovers Xarlus only owns three books, one
         of which—The Psychology of Money—he takes to read.
       - >-
-        The party notes Zarlis's cramped, humble apartment, which contains only
+        The party notes Xarlus's cramped, humble apartment, which contains only
         a small bed, a cooking pot, and a few books.
-  - title: Interrogation of Zarlis Shale
+  - title: Interrogation of Xarlus Shale
     description: >-
-      Ozborn and Vex conduct a private interrogation of Zarlis Shale while the
+      Ozborn and Vex conduct a private interrogation of Xarlus Shale while the
       rest of the party waits in the hallway.
     key_events:
       - >-
         Ozborn ushers the rest of the party out of the room to conduct a more
         focused interrogation with Vex.
       - >-
-        Ozborn employs his natural charm and Panache ability to lower Zarlis's
+        Ozborn employs his natural charm and Panache ability to lower Xarlus's
         defenses, though he senses the same slippery, malleable quality he
-        noticed with Taylin.
+        noticed with Taelin.
       - >-
-        Zarlis reveals he has worked for Kerwin for about a year and was deeply
-        invested in the success of Olin's Transitional Assets, hoping to
+        Xarlus reveals he has worked for Kerwin for about a year and was deeply
+        invested in the success of Ulvan Transitional Assets, hoping to
         eventually become a partner.
       - >-
-        Zarlis expresses shock at Kerwin's death and naively suggests using
+        Xarlus expresses shock at Kerwin's death and naively suggests using
         resurrection magic to identify the killer, unaware that Trell requires a
         legal permit for resurrection.
       - >-
-        Vex questions Zarlis about the company's ties to Highmark Ventures;
-        Zarlis admits the company's security was contracted through a shell
+        Vex questions Xarlus about the company's ties to Highmark Ventures;
+        Xarlus admits the company's security was contracted through a shell
         company likely linked to Highmark.
       - >-
-        Zarlis mentions that lawyers representing Serelda had visited the office
+        Xarlus mentions that lawyers representing Serelda had visited the office
         multiple times, though he was excluded from those meetings.
       - >-
-        Zarlis states the only copy of the company's financial ledger remains at
+        Xarlus states the only copy of the company's financial ledger remains at
         the now-sealed office.
       - >-
-        Ozborn warns Zarlis to stay in his apartment for his own safety and away
+        Ozborn warns Xarlus to stay in his apartment for his own safety and away
         from the Warlocks.
       - >-
-        Zarlis challenges the SPI's authority, asking for a warrant before
+        Xarlus challenges the SPI's authority, asking for a warrant before
         disclosing sensitive financial information.
-      - Ozborn bluffs about having a warrant, and Zarlis calls his bluff.
+      - Ozborn bluffs about having a warrant, and Xarlus calls his bluff.
       - >-
-        Vex informs Zarlis that resurrection requires a permit in Trell, which
-        Zarlis did not know.
+        Vex informs Xarlus that resurrection requires a permit in Trell, which
+        Xarlus did not know.
       - >-
         The party senses that the carafe's influence is unraveling around
-        Zarlis, likely giving him a strong headache.
+        Xarlus, likely giving him a strong headache.
       - >-
-        Callie offers divine healing to soothe Zarlis's headache, which he
+        Callie offers divine healing to soothe Xarlus's headache, which he
         eventually accepts.
       - >-
         Ozborn promises to look into the possibility of resurrecting Kerwin on
-        Zarlis's behalf.
+        Xarlus's behalf.
   - title: Escape from the Hostel
     description: >-
-      The party makes a hasty exit from Zarlis's apartment as the Infernal Order
+      The party makes a hasty exit from Xarlus's apartment as the Infernal Order
       of Asmodeus arrives to investigate.
     key_events:
       - The party hears rapid footsteps approaching from the stairs below.
       - >-
         Ozborn opens the window to facilitate a quick escape for the group and
-        Zarlis.
+        Xarlus.
       - Vondal locks the apartment door behind the group to delay the pursuers.
       - >-
         Ozborn leaps into the rafters of the hallway using his ring, hiding
@@ -738,87 +737,102 @@ scenes:
       - >-
         A menacing young tiefling wreathed in fire, representing the Infernal
         Order of Asmodeus, strides up the stairs and pounds on the door,
-        demanding Zarlis Shale open up.
+        demanding Xarlus Shale open up.
 npcs:
   - name: Mallory
+
+    wiki: ../dossiers/mallory
     description: >-
       The dwarven manager of the SPI, known for his dogged attention to detail
       and professional demeanor. He conducts the morning briefing using a
       corkboard with magically-aided portraits, provides mission funds, and
       outlines five key investigative priorities for the party.
   - name: Eeoram
+    wiki: ../dossiers/eeoram-sufur
     description: >-
       A changeling who recently impersonated Mallory. Freki identifies him as
       distinct from the real Mallory by a synthetic, tangy scent unlike the real
       dwarf's familiar smell.
-  - name: Taylin Fox
+  - name: Taelin Fosse
+    wiki: ../dossiers/taelin-fosse
     description: >-
-      A trained legal professional and former employee of Kerwin Ovas who
+      A trained legal professional and former employee of Kerwin Ulvas who
       admitted to killing him and has requested asylum with the SPI. She is
       identified as Callie's best potential legal witness and is currently
       recovering at headquarters.
   - name: Cassandra
+    wiki: ../dossiers/cassandra
     description: >-
       A high-ranking SPI official who is currently suffering from extreme
       exhaustion after recent magical exertions. She exudes a powerful divine
       aura that Callie identifies as part of her nature rather than an external
       enchantment.
-  - name: Kerwin Ovas
+  - name: Kerwin Ulvas
+    wiki: ../dossiers/kerwin-ulvas
     description: >-
       The recently deceased former owner of the carafe whose commercial success
       was built on involuntary social manipulation. His death was discovered by
       his booking manager and has triggered a jurisdictional dispute in Trell.
   - name: Serelda Voth
+    wiki: ../dossiers/serelda-voth
     description: >-
-      The former wife of Kerwin Ovas who has filed a significant tort action
+      The former wife of Kerwin Ulvas who has filed a significant tort action
       against Callie Rockwell, seeking 200,000 gold pieces in damages and the
-      submission of the carafe as evidence. She has family connections to Blisco
+      submission of the carafe as evidence. She has family connections to BlissCo
       and is represented by the law firm Vorak and Solm Abermach.
-  - name: Gallic
+  - name: Galloc
+    wiki: ../dossiers/galloc
     description: >-
       A former dock security guard and freelancer believed to be associated with
-      Highmark Ventures who was hired to protect Kerwin Ovas but failed to
+      Highmark Ventures who was hired to protect Kerwin Ulvas but failed to
       prevent his death.
   - name: Preen
+    wiki: ../dossiers/preen
     description: >-
       An extraordinarily skilled thief associated with the dock workers who is
       believed to have stolen and hidden the carafe. She is considered a
-      slippery figure unlikely to surface unless Gallic personally contacts her.
-  - name: Soran Kell
+      slippery figure unlikely to surface unless Galloc personally contacts her.
+  - name: Sorra Kell
+    wiki: ../dossiers/sorra-kell
     description: >-
       A pragmatic leader at least in her mid-sixties, possibly kept young by
       dragon blood, who has run the Dockworkers' Union for over 30 years and
       operates the Rusted Capstan as an unofficial union hall and dispute
       resolution office.
   - name: Vordas Shek
+    wiki: ../dossiers/vordas-shek
     description: >-
       A cold, professional information broker who fronts as a bartender at the
       Ramshackle Ram. He listens carefully to everything and has no visible
       loyalties, shifting allegiances based on convenience.
-  - name: Seth Aldris
+  - name: Ceth Aldras
+    wiki: ../dossiers/ceth-aldras
     description: >-
       A watchful, paranoid leader who runs the Ember Keep and the Crimson
       faction. He harbors a deep hatred for the Scarlets and is noted for being
       guarded and uninterested in small talk.
   - name: Melissa Dorleac
     description: >-
-      Kerwin Ovas's booking manager who discovered his body and called the
+      Kerwin Ulvas's booking manager who discovered his body and called the
       authorities. She is considered a key witness who is likely already in
       Warlock custody.
-  - name: Zarlis Shale
+  - name: Xarlus Shale
+    wiki: ../dossiers/xarlus-shale
     description: >-
-      The finance manager for Kerwin Ovas's firm, Olin's Transitional Assets. He
+      The finance manager for Kerwin Ulvas's firm, Ulvan Transitional Assets. He
       lives in a surprisingly humble hostel room despite his professional
       standing, likely due to the lingering influence of the carafe. He is
       cooperative but defensive about his late boss, naively suggests
       resurrection as a solution, and is slowly recovering from the artifact's
       mental influence.
   - name: Thresh
+    wiki: ../dossiers/thresh
     description: >-
       A Histophilis, or contract devil, serving as the Harbor District Notary.
       He is a neutral bureaucrat who keeps records of all legal filings but only
       provides information in response to precise, direct questions.
   - name: Vex
+    wiki: ../dossiers/vex-morradine
     description: >-
       The SPI's local contact and branch manager in Trell. A flamboyant,
       well-dressed tiefling and former debt collector for Highmark Ventures, he
@@ -827,6 +841,7 @@ npcs:
       subtle uncertainty about whether his ties to the company are truly
       severed.
   - name: Mammon
+    wiki: ../dossiers/mammon
     description: >-
       The powerful figure described as running the island of Trell and
       overseeing Highmark Ventures, his personal corporation.
@@ -837,15 +852,17 @@ npcs:
       not grounded in his power there, though neither is his enemy.
   - name: Hostel Receptionist
     description: >-
-      A bored woman working the front desk of the hostel who confirms Zarlis
+      A bored woman working the front desk of the hostel who confirms Xarlus
       Shale lives in unit 36 and directs the party to the stairs.
   - name: Infernal Order Warlock
     description: >-
       A young but exceptionally powerful tiefling wreathed in fire representing
-      the Infernal Order of Asmodeus, who arrives at Zarlis's apartment door
+      the Infernal Order of Asmodeus, who arrives at Xarlus's apartment door
       demanding entry as the session ends.
 locations:
   - name: SPI Headquarters
+
+    wiki: ../locales/spi-hq
     description: >-
       The central base of operations for the Supernatural Phenomena
       Investigators, featuring sterile offices, communal briefing rooms with
@@ -873,7 +890,7 @@ locations:
       criminal underworld.
   - name: The Rusted Capstan
     description: >-
-      A tavern and unofficial union hall run by Soran Kell, serving as the
+      A tavern and unofficial union hall run by Sorra Kell, serving as the
       primary hub for the Blue faction of dock workers.
   - name: The Ramshackle Ram
     description: >-
@@ -882,9 +899,9 @@ locations:
   - name: The Ember Keep
     description: >-
       The heavily guarded stronghold of the Crimson faction, a
-      Tiefling-dominated territory run by Seth Aldris, noted for extreme
+      Tiefling-dominated territory run by Ceth Aldras, noted for extreme
       paranoia.
-  - name: Zarlis Shale's Apartment
+  - name: Xarlus Shale's Apartment
     description: >-
       A small, cramped unit (number 36) on the third floor of a hostel in an
       older, more developed district of Trell. The room contains a small bed, a
@@ -905,13 +922,13 @@ items:
   - name: Magically-Aided Briefing Portraits
     description: >-
       Photorealistic depictions of key figures including Serelda Voth, Callie
-      Rockwell, and Kerwin Ovas, created through magical means rather than
+      Rockwell, and Kerwin Ulvas, created through magical means rather than
       traditional artistry. Callie detects a faint lingering magical aura on
       them.
   - name: The Carafe
     description: >-
-      A powerful and corrupting artifact that caused mental scarring to Taylin
-      and other employees of Kerwin Ovas. It is now missing, believed to be in
+      A powerful and corrupting artifact that caused mental scarring to Taelin
+      and other employees of Kerwin Ulvas. It is now missing, believed to be in
       the possession of the thief Preen, and is sought as evidence in Serelda
       Voth's lawsuit against Callie.
   - name: SPI Trell Office Key
@@ -923,9 +940,9 @@ items:
       A crude, hand-written note on a scrap of paper featuring stick figures and
       frowny faces, outlining Mallory's five key investigative priorities. It
       was pickpocketed from his folder by Ozborn and flung to Bec.
-  - name: Knoffendorf Contract
+  - name: Noffindorf Contract
     description: >-
-      A draft of a legal agreement left by the Knoffendorfs in Kerwin Ovas's
+      A draft of a legal agreement left by the Noffindorfs in Kerwin Ulvas's
       office, potentially serving as evidence of their desire to reclaim the
       carafe. It is believed to still be at the now-sealed crime scene.
   - name: Thumbtacks
@@ -941,22 +958,22 @@ items:
   - name: Address Scrap
     description: >-
       A piece of paper Vex ripped from his notes containing the residential
-      addresses of Zarlis Shale and Serelda Voth, provided to the party to aid
+      addresses of Xarlus Shale and Serelda Voth, provided to the party to aid
       their investigation.
   - name: The Psychology of Money
     description: >-
       A book titled 'The Psychology of Money: Timeless Lessons on Wealth, Greed,
-      and Happiness' found among Zarlis Shale's small collection of three books.
+      and Happiness' found among Xarlus Shale's small collection of three books.
       Freki takes it from the apartment to read, noting it has no pictures.
-  - name: Zarlis's Ledger
+  - name: Xarlus's Ledger
     description: >-
-      A financial record of Olin's Transitional Assets kept by Zarlis Shale. He
+      A financial record of Ulvan Transitional Assets kept by Xarlus Shale. He
       claims the only copy remains at the now-sealed crime scene office, making
       it inaccessible to the party.
   - name: SPI Business Card
     description: >-
       A professional identification card used by SPI agents to provide contact
-      information to witnesses and persons of interest, given to Zarlis Shale
+      information to witnesses and persons of interest, given to Xarlus Shale
       during the interrogation.
 spells:
   - name: Detect Magic
@@ -978,7 +995,7 @@ spells:
       Briefly considered by Ozborn for discrete communication in the streets of
       Trell, but ultimately avoided due to concerns about wild magic surges.
       Later used by Ozborn to whisper a secret instruction to Vex during the
-      interrogation of Zarlis.
+      interrogation of Xarlus.
 ---
 
 TBD

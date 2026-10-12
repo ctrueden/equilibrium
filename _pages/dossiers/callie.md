@@ -65,130 +65,157 @@ magic-items:
 descriptions:
   - session: "01e01"
     content: |
-      Fed a list of suspects to her assistant Gavin Pepperpotts for verification during the initial investigation of the Stone Showdown murder.
+      Passed Dominic Tremere's list of suspects to her assistant Gavin Pepperpotts, who recognized only two of the names.
   - session: "07e04"
     content: |
-      Cast speak with dead on Tremere's corpse to interrogate him about his murder.
+      Confronted Alex Orbach, believing he had stolen both the Necronomicon and her family heirloom, and made him produce his quantum-linked chalk. Her speak with dead on Tremere's corpse named Orbach as the murderer, before the spell unraveled for unknown reasons.
   - session: "08e01"
     content: |
-      Investigated the circus murders and spoke with Brother Alabastor about the case.
-  - session: "08e03"
-    content: |
-      Helped evacuate the party by climbing Vondal's magical beanstalk to escape the landsharks.
+      Cast speak with dead on the murdered investor Vanesse, who said she had stepped back from a huge clown, and that she had been serious about investing in the circus.
   - session: "09e03"
     content: |
-      Used the Arkenstone as a focus for a joint Dispel Magic ritual to cure Meroe and Panthea of flux taint.
+      Joined hands with her fellow casters for a group dispel magic, then again using the Arkenstone in Cal's sword as a focus, whereupon all her magic was sucked into the sword. When Meroe and Panthea ran, she shot at them with her crossbow, then saved Meroe's life with Vondal's wand of healing after Ozborn stabbed her. She healed Freki again after his sparring match with Mary Reed.
   - session: "10e02"
     content: |
-      Spoke with Seirye about the puzzlebox and expressed belief in her mission despite party skepticism.
-  - session: "10e03"
-    content: |
-      Participated in battling the guardians and ultimately defeated them alongside the party.
+      Tried to talk Seirye down after Freki's rude interrogation, and gave her a little information about the puzzlebox.
   - session: "10e04"
     content: |
-      Suggested hiding the Cornucopia in her parents' underwater gnome vault in Cognitutus and led the teleportation ritual to move it there.
+      Proposed teleporting the Cornucopia to her parents' vault in Cognitutus, and drew the sigil sequence. When her mother demanded an explanation, she replied that she was saving the world and family honor. She also sent to R. Martine Andrews, offering help.
   - session: "10e05"
     content: |
-      Ate cheese while preparing for the demonic incursion in the SPI HQ demiplane.
+      Sent to Gardenblossom asking what was going on (and that she still loved the clock). At the corrupted HQ, a branch she tried to heal disintegrated, revealing it as undead; Vondal's magic made her burst into blinding light; and she reluctantly put back the alchemical fire she had tried to sneak from the evil desk's loot.
   - session: "12e05"
     content: |
-      Experienced euphoric visions of adventures with allies and encountered a mushroom-faced figure in her dreaming state.
+      Ate dormina fruit and dreamed of adventures with old friends, until she found Sima chained in a cave, and was swallowed by a figure with an eyeless mushroom face. In the shared dream, she swore the oath of service with Orsob.
   - session: "12e06"
     content: |
-      Assisted in Enoki's calming ritual and helped coordinate the party's efforts against the mushroom infestation.
+      Healed Oz's psychic damage from the mushroom attack, but felt as though stabbed in the soul by pure death and evil. She then helped Enoki with his ritual to calm the mushrooms.
   - session: "12e07"
     content: |
-      Levitated while being pulled by Cal, assisted with scouting, and helped search for the Fruit of Life.
+      Calmed Freki's panic in the portable hole, then levitated up the Tree, towed by Freki. She recalled that Hyperion, whom Cal asked Phoebe about, is the name of a titan.
   - session: "12e08"
     content: |
-      Summoned a spiritual weapon and cast bless during combat, maintained a psychic link with the World Tree, and cast zone of truth to force truth on her enemy.
+      Asked the Green Knight who had summoned him, to no avail. In the battle with Isis, she blessed herself, Oz and Freki, and sliced into Isis with a spiritual weapon.
   - session: "12e09"
     content: |
-      Used sending spells to communicate with Tybalt about the Book and Queen's locations.
+      Kept in touch by sending: with Bec, who had survived the jump down the hole, and with Tybalt, who said the Queen was in her chambers and the Book safe in the royal vault, and to leave it alone.
   - session: "12e10"
     content: |
-      Cast cure wounds on Phoebe, sensing both her goddesses and an unfamiliar divine presence as Feymist coalesced.
+      Healed Phoebe with cure wounds, sensing her goddesses and a less familiar divine presence as Feymist infused her hand. She chose not to calm Phoebe's rage against Isis.
   - session: "12e11"
     content: |
-      Cast calm emotions and spiritual weapon during the vault battle, performed healing rituals to erase the writings from the Necronomicon.
+      Cast calm emotions against the illusions' waves of terror, helping Freki shake off his stun and Ozborn see through the illusion; struck the dark Oz-ghost with a spiritual weapon; and healed the wounded with a prayer of healing. She contributed three spell slots to the ritual on the Book.
   - session: "12e12"
     content: |
-      Sensed the Book's remaining evil, maintained her bond with the World Tree, and was splattered with the black ooze during combat.
+      Sensed Sartus's spirit dissipating, leaving a lifeless husk, and that the Book was still evil, though much less so. In the throne room, the black ooze gushed all over her.
   - session: "13e01"
     content: |
-      Cast a sending to Enoki to check on him and assisted in identifying the veil protecting Alye'adu by channeling Erathis's divine knowledge.
+      Checked in on Enoki by sending, and cast speak with dead on Isis, who revealed she came from Alye'adu, on a mission to protect the world from another Vanishing by watching the nations and intervening in their affairs. She disguised Bec as Sima, and herself and Ozborn as trees, to ambush whatever followed them.
   - session: "13e02"
     content: |
-      Learned about the changeling system of imprints and anchors and discovered that Erathis had prior knowledge of Alye'adu.
+      Channeled divinity to learn that the veil would open to one who knew the place's name, which she had heard from Isis's corpse; speaking "Alye'adu" with Erathis's voice as Ozborn stabbed the veil, she tore it open, sensing that Erathis already knew of the place. Inside, she learned of the changelings' imprints and anchors, and asked about the white crane tattoo, which several villagers considered helpful.
   - session: "13e03"
     content: |
-      Channeled divine magic to identify Talos's stalling tactics and cast Spirit Guardians and Spiritual Weapon during the battle against the centaur and orc.
+      Saw through Talos's stalling ("Stop horsing around!"), then waited where he would return from Vondal's banishment with spirit guardians and a spiritual weapon.
   - session: "13e04"
     content: |
-      Used Spiritual Weapon and Spirit Guardians against the shapeshifters; later cast Augury to confirm weaving flux around Alye'adu's entrance was advisable.
+      Fought Talos and Andalla with spirit guardians and a spiritual weapon, and calmed Talos's rage with a 5th-level calm emotions. Later, her augury from Erathis approved Vondal's plan to weave Flux into the village's door.
   - session: "14e00"
     content: |
-      Investigated the village status, determined the inhabitants included changelings and an owlbear; attempted healing ritual for Mallory using the Arkenstone.
+      Recognized the villager Respa as resembling the woman from Hollerd's farm. She led the healing of Mallory with the Arkenstone, then sent to Cassandra and saw Ozborn's monkey come to life in answer. She saw herself in the mirror the monkey shattered, divined with augury that dispelling the monkey was wise, and did so with Bec, freeing Cassandra. Her sendings found Eeoram's spirit not on this plane, and summoned Squeaks to a briefing.
   - session: "14e01"
     content: |
-      Had a clairvoyant vision while holding magical items at Gavin's Emporium; saw a forbidden door and a secret only she could know.
+      At Gavin's Emporium, holding sovereign glue and a cube of mending, she had a vision of a door hiding infinite forbidden knowledge and a secret only she could know, which she might seal forever, or enter first. At the meeting with the Arallans, she sensed Malachai expected something to happen if the agents went to the Chamber of Whispers.
   - session: "14e02"
     content: |
-      Identified the ring as belonging to Vecna, the goddess of secrets; petted the summoned unicorn and was suffused with holy power.
+      Noticed that Nightshade's ring bore the symbol of Vecna, who deals in secrets. She petted the unicorn of Vondal's wild magic surge and was suffused with holy power, snatched Nightshade's potion from the charmed Ozborn, and, ordered to drink it, barely resisted after a delicious taste.
   - session: "14e03"
     content: |
-      Resisted Lady Nightshade's potion offer with Vondal's help; cast Calm Emotions to break charm and fear; negotiated with a remaining flameskull.
+      Barely resisted Lady Nightshade's potion again, with Vondal's help, then cast calm emotions to free her frightened and charmed friends.
   - session: "14e04"
     content: |
-      Warned Bec and Vondal about Vecna's temptation; prayed to Erathis for guidance on how to kill Invictus; discovered the hand's connection to divine power.
+      Warned Bec and Vondal against trading secrets to Vecna's mirror, and made the group promise not to engage with any more paranormal phenomena without agreement. She told Cal that the Celestial Hand and his sword shared the same energy, resisted Malachai's binding spell, and learned from Erathis that killing Invictus required vengeance shared wholeheartedly by "she" and "her shadow."
   - session: "14e05"
     content: |
-      Reminded everyone of Mallory's warning about not unbalancing Arallu's powers; got paralyzed by ghouls and had to be healed by Vondal.
+      Reminded everyone of Mallory's warning not to unbalance Arallu's powers. Swarmed by Malak's ghouls and ghasts, she was paralyzed, until Vondal teleported her back inside the manor. From the window, she deflected Malak's mind magic, destroyed the retreating mist vampire with sacred flame, and struck Malak with a spiritual weapon.
   - session: "15e00"
     content: |
-      Took shelter in Bilbo's garlic-blessed safehouse and toasted to the living; discovered her goddesses had somehow merged into a single Avandra.
+      Calmed the transformed Freki with calm emotions. At Bilbo's, she recognized the house's raven imagery as Nerull's, and was visited by her goddess Avandra, who told her she was doing a great job.
   - session: "15e02"
     content: |
-      Attended the vampire ball and conversed with Lord Enoch, inadvertently revealing details about Invictus and the Necronomicon's cleansing.
+      Disguised Ozborn as Bilbo. At the ball, the charming Enoch the Wise plied her with drinks, and she told him more than she intended about Invictus's fate. When Lestache unveiled his creature, she found her goddess badge showing Avandra on both sides, with no sign of Erathis, and heard Avandra laughing in her mind.
   - session: "15e03"
     content: |
-      Used Guidance and Blessing to help the team navigate the haunted Soulbound Rest and flee from pursuing vampires.
+      Knew the sword of retribution would make its wielder paranoid, then turn her into a devil. She made a show of the agents' offering to the hunt's pot, and during the hunt channeled Avandra to send a shrieking duplicate of herself to distract the Brujah, blessing and guiding her friends through unhallowed ground.
   - session: "15e04"
     content: |
-      Turned undead to scatter pursuing vampires and used spiritual weapon in combat; found herself mysteriously swapped with Sophie.
+      Hid the flying carpet behind a building. Reaching for calm emotions in Sophie's hideout, she found Avandra had replaced it with another spell, which swapped her with Sophie. Later, she turned undead to scatter the vampires grappling Cal, and felt someone watching her: Goratrix.
   - session: "15e05"
     content: |
-      Rested with the team and prepared for the assault on the Soulbound Rest.
+      Asked Sophie about her service to Tiamat, sensing feelings she could not say aloud. She swapped her boots of elvenkind for boots of false tracks, and cast pass without trace before Freki carried the others into the Soulbound Rest in the portable hole.
   - session: "15e06"
     content: |
-      Witnessed the death of the Death Tyrant and turned undead ghosts; conversed with the Brucolac and learned of its mysterious nature.
+      Turned the ghosts guarding the sarcophagus, channeling Avandra, and dissipated the rest with her spiritual weapon.
   - session: "15e07"
     content: |
-      Had visions of ghosts swarming the chapel and managed the team's escape; offered the Brucolac valuable intelligence about the Flux in exchange for safe passage.
+      Had a vision of a harp driving an army of ghosts to feed the Death Tyrant, with another will weaving reality behind it, and urged the agents to kill it or flee. She shared her visions with the Brucolac, which he deemed worth sending an agent along with them.
   - session: "15e08"
     content: |
-      Created a massive duplicate of herself and attacked the Brucolac with a giant deck of cards; cooperated with Oz and Vondal in the coordinated effort.
+      Calmed Sophie out of the charm she had cast on Ozborn. In the chapel, she had a vision of a shrine to her goddesses at HQ that she did not build, but that still happened. Connected to Ozborn through Avandra, she conjured a kaiju-sized duplicate of herself that fired a giant deck of cards at the Brucolac ("IS THIS YOUR CARD?").
   - session: "15e09"
     content: |
-      Escaped the collapsing Elysium Sanctum and returned to SPI HQ; received divine approval from her goddesses and rested.
+      Stabilized Bec, then teleported the agents out of the Brucolac's chapel to SPI HQ, landing in the women's dorm by the shrine to her goddesses. That night, touching the Celestial Hand, she too heard the voices from the basement, and her tarot reading on opening the trap door drew the Hermit, reversed.
+  - session: "16e02"
+    content: |
+      Was bitten by a three-headed beast that leapt out of a mirror shard. She stabilized the fallen Audreth, sensing he was not really their enemy, healed the group with mass healing word, and suggested using the place's responsiveness to focus on the people they sought.
+  - session: "16e03"
+    content: |
+      Blessed her friends and summoned Avandra's rapier as a spiritual weapon, which finally nudged the flesh-beast into oblivion, restoring Cassandra.
+  - session: "16e05"
+    content: |
+      Was compelled for a few minutes to do whatever anyone told her. Her tarot reading counseled patience. She rebuked the shadow creatures, sending two fleeing, and healed Ozborn at his request.
+  - session: "16e06"
+    content: |
+      Was mauled to 1 hit point by the monstrous Freki, then healed everyone. When contingent realities collapsed into one, she found herself brimming with vitality, with copies of her items and some spell slots restored.
+  - session: "16e07"
+    content: |
+      Took a lightning bolt that Ozborn dodged, then kept the team going with bless and mass healing, until Megaera's psychic blast sapped her intellect.
+  - session: "16e09"
+    content: |
+      Sensed that the gate opened onto the real Afterworld where Nerull rules. She brought everyone home with a strained word of recall, Ozborn teleporting to his dagger, landing at her shrine to the goddesses, where Vondal offered a cookie and Freki a lilac sprig.
   - session: "17e00"
     content: |
-      Met with Mallory to discuss recovery options after recent Flux exposure, displaying initiative in proposing consultation with various healers and developing a fresh spell list to aid her companions.
+      Woke to Lorelei's screams and closed her Flux sores with heal. At the debrief, she communed with her goddesses: Avandra favored Grohnea over Saint Benedor, Erathis did not; both said the monk was not a real Vondal; and Bram "technically" knew where the missing agents were.
+  - session: "17e02"
+    content: |
+      Sent to Hyperion on Cal's behalf and felt a soul-deep chill on reaching him. Grohnea's soul larva drew her glitter out of her.
   - session: "17e03"
     content: |
-      Successfully learned to fly using her wings for the first time; readied herself for potential combat while flying on the party's carpet and took decisive magical action when battle erupted.
+      Chose to lose her glitter but keep her wings, and took a ward from Grohnea that would reveal a creature's weakness once; Grohnea put her in charge of deciding when the agents return. At the Storm Stables, she fluttered to Cal's side, but fumbled her dispel magic on Magna.
+  - session: "17e05"
+    content: |
+      Struck Verthandi with a spiritual weapon, but was blinded by the twin giants' jewels and stunned by Rhyzophus's onslaught.
   - session: "17e06"
     content: |
-      Received a blessing from Munin, the spirit of memory, which granted her wisdom and clarity even while blinded by magical assault; used healing and sacred flame to support her allies throughout the extended battle.
+      Struck by the corrupted storm cloud, she felt Munin's spirit enter her, granting calm, wisdom and relief from her afflictions, and a vision through the raven cloak: Rubinia contained Lorelei's Flux in a necromantic "flesh partition," leaving her stable but with sharp teeth, claws and scars. She kept her friends alive through the battle, then placed soul larvae in the mouths of the fallen giants for Grohnea.
+  - session: "17e07"
+    content: |
+      Placed soul larvae in the dead giants, which returned as butterflies. Investigating Rhyzophus's desk, she recognized Prometheus's symbol. During Cal's show of force, she used thaumaturgy to boom orders and thunder.
+  - session: "17e08"
+    content: |
+      Calmed two of the behirs with calm emotions, letting Kavaki coax them back toward their pens.
   - session: "17e09"
     content: |
-      Punched Vondal in fury when he impulsively destroyed Sissae's heart flower, ending her life even as they debated how to save her; managed the chaotic teleportation back to Grohnea's cottage and used magic to douse Vondal when he manifested in flames.
+      Put her Clamulet of Protection from Turning on the infected Ozborn, and healed the group. She brought everyone back to Grohnea's cottage, a chaotic, painful trip, and doused the flaming Vondal with her decanter of endless water. When Vondal killed Sissae, Callie punched him.
   - session: "16e08"
     content: |
-      Manifested pixie wings and acquired enhanced reflexive abilities after gazing into the Great Old One's eye and rejecting Megaera's offer; gained new permanent spell-casting abilities tied to her newfound grace.
+      Used her Trident of Fish Command and control water to wash the Demogorgons away. When Megaera demanded "death for life," Erathis warned that letting Cassandra die would earn boons and saving her would bring fury; urged on by Avandra's curiosity, Callie saved Cassandra with an aura of life. Overwhelmed by the Flux, she felt an ancient power take her body as a vessel, and woke with pixie wings that shed glitter.
   - session: "16e04"
     content: |
-      When gazing into the Great Old One's eye, Callie became temporarily suggestible and willing to follow any order; Vondal's intervention fragmented reality to minimize the psychic damage to all agents.
+      Stabbed the aboleth's seed growing in a vision of her mother with her Trident of Fish Command, resisting its screaming will. Her trident turned rainbow-hued, and her goddess pin showed her own face. When the Great Old One's eye fell on them, she found she could make up a spell, and cast a "zone of reality" that pierced the illusions, waking everyone screaming; she was left dazed and suggestible.
+  - session: "18e00"
+    content: |
+      Puzzled over the clamulet around Ozborn's neck, which shouldn't exist, since she had given it to Sophie Steelboots; with Bec and Cassandra, she concluded it came from one of the parallel realities folded into them in the phantom Afterworld. She joined Cassandra's contingency research.
 ---
 
 A well-off gnome who is "not the muscle," specializes in ancient and mystical objects, and is "sometimes clairvoyant."

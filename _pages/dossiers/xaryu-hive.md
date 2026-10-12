@@ -7,18 +7,15 @@ statbox:
   profession: overlord
   case: "15"
 descriptions:
-  - session: "15e02"
-    content: |
-      Mentioned as a dangerous beholder crime lord with multiple manifestations; likely creator of the fallen Death Tyrant.
   - session: "15e07"
     content: |
-      The Death Tyrant was revealed to be a rebellious piece of Xaryu that sought to destroy all non-Xaryu entities.
+      Sophie suspected the Brucolac was in league with Xaryu, and warned that Xaryu is always watching.
   - session: "17e00"
     content: |
-      Mentioned as a powerful political force seeking inclusion in the Aecus Concord; their entry seems certain despite Mallory's efforts to exclude them.
+      Mallory reported that his efforts to keep Xaryuvia out of the Aecus Concord had failed; it was unknown who the Xaryu hive would send to join the SPI.
   - session: "17e08"
     content: |
-      Confirmed as the controlling force behind the enslavement of the halfling colony of Xaryuvia through a beholder servant; the freed giants received the quest to destroy this beholder and liberate the colony.
+      Cal sent the giants of the Storm Stables to destroy the beholders that control Xaryuvia's halflings, the vampires' food source.
 ---
 
 *not to be confused with:

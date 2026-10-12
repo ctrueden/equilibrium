@@ -9,27 +9,27 @@ statbox:
   class: holy sorcerer
   case: ["07", "12"]
 descriptions:
-  - session: "07e02"
-    content: |
-      Elf representative at the auction who attempted to hire Alex Orbach to find a bothersome item for his people.
   - session: "07e04"
     content: |
-      Encountered at the murder scene, claiming to have singlehandedly killed a dozen flameskulls.
+      Tried to hire Alex Orbach to obtain a bothersome item for the elven treasury, pressing that Orbach had reportedly obtained it once before. Later, in the foyer, he seemed mystically winded, complaining he had killed at least a dozen skulls singlehandedly.
   - session: "07e05"
     content: |
-      Remained with the body during the plant attack, along with Stormcloud and Orbach.
+      Stayed with the body during the plant attack, along with Stormcloud and Orbach; Orbach slipped away unnoticed.
+  - session: "11e09"
+    content: |
+      Seen in a vision by Bec, waiting at an SPI teleportation circle.
   - session: "12e01"
     content: |
-      Met the SPI agents at an Estanesse contact circle to discuss urgent matters.
+      Waited anxiously at an SPI contact circle in Estanesse for the agents to meet him.
   - session: "12e02"
     content: |
-      Guided the party to the elven treasure vault in Estanesse, where they traded merfolk treasures for powerful magical items to aid their quest for the Acorn of Life.
+      Escorted the agents to the elven treasure vault, where they traded merfolk treasure for magic items to aid their climb in search of the Acorn of Life.
   - session: "12e03"
     content: |
-      Guided the party up the World Tree's golden path, where they discovered a blighted zone containing sleeping sprites and roving beetles.
+      Climbed the World Tree with the agents, past its immature "golden path" of trees, into a blighted zone.
   - session: "12e05"
     content: |
-      Sent an animal messenger to the Queen reporting the party's progress on their quest.
+      Polymorphed the elephant into a crow and sent it as an animal messenger to the Queen: "Our journey continues, and all is well." He identified the dormina tree, whose fruit brings euphoric slumber.
   - session: "12e06"
     content: |
       Seemed ill at ease in the natural setting and was less helpful during the mushroom-calming ritual.
@@ -38,19 +38,22 @@ descriptions:
       Cast fly spells and warned of illusion magic, warned Phoebe the Fruit was not real.
   - session: "12e08"
     content: |
-      Cast command plants to interfere with the thornbush growing around Isis.
+      Cast command plants to hinder the thornbush protecting Isis.
   - session: "12e10"
     content: |
-      Attempted to cast hold person on the gnome but had it counterspelled by Isis.
+      Tried to hold the gnome with hold person, but Isis counterspelled. He kept the doppelganger's hand, saying it would help unmake the words in the Book of the Dead, and persuaded the agents to go for the Book in the treasury without telling Tybalt. Tybalt was waiting at the entrance: "I knew you wouldn't listen to me."
   - session: "12e11"
     content: |
-      Was possessed by Janus but freed by dispel magic; explained the plan to cleanse the Book to Lorissa Stormseeker.
+      Taken in by the illusions at the treasury, he cried "Run, you fools!" and fled, but returned once Callie calmed him, saving his magic for the Book and fighting with a longsword. He explained his plan to erase the Book's writings to Lorissa Stormseeker.
   - session: "12e12"
     content: |
-      Became unresponsive after the cleansing ritual, his spirit and divine connection rapidly dissipating, and he was later confirmed dead.
+      Stopped breathing after the ritual to cleanse the Book; Callie sensed his spirit and divine connection rapidly dissipating, leaving only a lifeless husk.
   - session: "14e01"
     content: |
-      Left behind spellbooks that Bec now possesses; acknowledged as having had strong connections to the land.
+      His spellbooks were entrusted to Bec.
+  - session: "14e04"
+    content: |
+      Bec felt his presence in the Celestial Hand, cleansed along with the Necronomicon.
 ---
 
 TODO

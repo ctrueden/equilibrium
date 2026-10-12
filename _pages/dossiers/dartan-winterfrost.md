@@ -6,6 +6,10 @@ statbox:
   race: [elf (wood), human]
   gender: male
   case: "01"
+descriptions:
+  - session: "01e01"
+    content: |
+      Dominic Tremere's trusted accountant, found petrified in his tiny apartment with pieces broken off and missing. His ledger showed he had been skimming from Tremere, and a locked chest held IOUs and losing tickets from the Beastly Colosseum.
 ---
 
 Close confidante and accountant of [Dominic Tremere](dominic-tremere), trusted with his finances. Secretly had a gambling addition betting on Beastly Colosseum fights with Tremere's money, and was cooking the books to support it. The medusa [Pulchritudinous Euryale](pulchritudinous-euryale) found out and blackmailed him into sneaking a piece of chalk into Tremere's vault, then killed him with her petrifying gaze, damaging his statue afterward to make it look like a monster attack.

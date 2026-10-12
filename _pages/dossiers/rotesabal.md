@@ -9,12 +9,9 @@ statbox:
   case: "13"
   pronunciation: "ROHT-sah-bul"
 descriptions:
-  - session: "14e00"
-    content: |
-      Mentioned as having a little friend in the village.
   - session: "17e01"
     content: |
-      Encountered conducting mysterious alchemical experiments in the village; kept to himself but allowed the party to pass without interference.
+      Found "experimenting" in his laboratory, randomly mixing things with his not-monkey friend; neither liked outsiders much.
 ---
 
 An [Alye'adu](../locales/alyeadu) villager. Anchor of [Brother Alabastor](alabastor).

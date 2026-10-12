@@ -10,10 +10,10 @@ statbox:
 descriptions:
   - session: "12e09"
     content: |
-      Discovered hidden inside the hamadryad Phoebe's form; protected by Isis who cares for him.
+      Emerged, unconscious, from the blood gushing out of Phoebe after Freki and Ozborn attacked her. Isis begged the agents not to hurt him, calling him her friend.
   - session: "12e10"
     content: |
-      Revealed to be barely conscious inside Phoebe, barely escaped via Isis's plane shift before confusion overtook her.
+      Woken in Freki's jaws, the gnome protested that he was being oppressed, and that they had good reasons for everything. Struck by Phoebe's lightning and confused by Bec's spell, he was whisked away when Isis plane shifted him to safety.
 ---
 
 Who is this guy?

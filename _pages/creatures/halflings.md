@@ -9,10 +9,10 @@ image2-source: https://forgottenrealms.fandom.com/wiki/Halfling
 descriptions:
   - session: "15e00"
     content: |
-      Enslaved by vampires as livestock and servants; maintained in settlements like Xaryuvia under constant threat of being hunted or consumed.
+      Bilbo revealed that the halflings of Xaryuvia are kept by the Xaryu beholders as livestock for the vampires of Arallu.
   - session: "15e02"
     content: |
-      Featured prominently in the vampire Hunt with Sophie Steelboots selected as quarry; subject to exile and predation by the undead.
+      An exiled halfling guardswoman, Sophie Steelboots, was the quarry of the vampires' hunt, delivered to Lestache by the halfling Frokim.
 ---
 
 [halfling](https://dungeonsdragons.fandom.com/wiki/Halfling)

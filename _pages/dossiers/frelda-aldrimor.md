@@ -7,6 +7,10 @@ statbox:
   clan: Aldrimor
   gender: female
   case: "03"
+descriptions:
+  - session: "03e01"
+    content: |
+      Seen in Callie's clairvoyant vision when she touched the life clock: a dwarf expecting a child, being told by a young gnome scholar that the clock would forevermore be tied to her child.
 ---
 
 Mother of [Gurin](gurin-aldrimor).

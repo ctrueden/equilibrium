@@ -12,16 +12,16 @@ statbox:
 descriptions:
   - session: "06e03"
     content: |
-      A Malosi dragon shaman encountered near the portal entrance. Used powerful magic against Freki's bird and warned the party against entering the portal.
+      Orc dragon shaman of the Malosi, who vaporized Freki's raven Hugin when it scouted the tree portal, then blasted Freki with devastating, partly uncontrolled auras. After Callie bluffed them into an uneasy truce, she warned the agents that the chieftain Talos would kill them for trespassing, and sent them to Kavaki's favorite spot by the river.
+  - session: "06e05"
+    content: |
+      In Freki's vision, Sabrina scolded her that "that bird was his friend!" She grinned that spirit animals are delicious, and turned into a raven.
   - session: "13e03"
     content: |
-      Invaded Alye'adu alongside Talos as a goristro demon, wielding powerful divine magic to defend against the SPI's assault.
+      Followed the agents into Alye'adu with Talos, in the form of Freki's raven Munin, seeking the changelings' power. When the fight turned against Talos, she pulled a figurine from her pocket and turned into a goristro demon.
   - session: "13e04"
     content: |
-      Revived Talos after he was cleaved in half; transformed into a raven and escaped with Talos and Mengiris after the battle.
-  - session: "14e00"
-    content: |
-      Mentioned as the dragon shaman who killed Cassandra during an ambush at SPI HQ.
+      In goristro form, she cast blade barrier through the agents, and resisted Bec's magic. When Ozborn cut Talos in half, she revivified him, then changed back; as the Malosi withdrew, she turned into a raven and perched on Mengiris's shoulder.
 ---
 
 TODO

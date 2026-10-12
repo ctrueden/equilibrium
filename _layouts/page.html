@@ -15,12 +15,26 @@
   <body>
     {% include nav %}
     <h1>{{page.title}}</h1>
+    {%- comment -%} Event pages (other than the timeline index) get the case navigation. {%- endcomment -%}
+    {%- assign url_head = page.url | slice: 0, 8 -%}
+    {%- if url_head == "/events/" and page.url != "/events/" -%}
+      {%- assign with_case_nav = true -%}
+    {%- endif -%}
+    {%- if with_case_nav %}
+    <div id="session-layout" class="nav-only">
+      {% include case-nav %}
+      <main id="session-content">
+    {%- endif %}
     <div id="content">
       {% include statbox %}
       {{content}}
       {% include sessions %}
       {% include gm %}
     </div>
+    {%- if with_case_nav %}
+      </main>
+    </div>
+    {%- endif %}
     {% include footer %}
   </body>
 </html>

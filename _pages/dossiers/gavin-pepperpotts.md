@@ -9,10 +9,13 @@ statbox:
 descriptions:
   - session: "01e01"
     content: |
-      Callie's assistant, recognized two names from the suspect list provided by Tremere.
+      Callie's assistant. Of the names on Dominic Tremere's list, he recognized only two.
   - session: "12e11"
     content: |
-      A shadow version sent a sending to Callie about a crazy intruder spraying blood that made him feel itchy and hungry.
+      A shadow version of Gavin sent Callie a desperate sending: a crazy guy had sprayed him with blood, and he felt itchy and hungry.
+  - session: "14e01"
+    content: |
+      Callie had a vision while shopping at his Emporium; he asked whether she'd seen tomorrow's lottery numbers, and suggested she visit just to see him sometime.
 ---
 
 TODO

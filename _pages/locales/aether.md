@@ -10,7 +10,7 @@ image2-source: https://www.pinterest.com/pin/aether-the-ethereal-realm--30638558
 descriptions:
   - session: "14e00"
     content: |
-      A sky-city threatened by an unnatural hurricane from Trell.
+      Victor Rocksmith reported that a hurricane from Trell was heading toward the island-city.
 ---
 
 Capital city of the [Zephyr Federation](zephyr).

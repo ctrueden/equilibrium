@@ -6,6 +6,13 @@ statbox:
   race: undead (beholder)
   profession: tyrant
   case: "15"
+descriptions:
+  - session: "15e06"
+    content: |
+      The Death Tyrant, a gross, house-sized undead beholder rising from the sarcophagus in the Soulbound Rest's chapel: "Serve me and be liberated. Oppose me and die." Its blast, reflected by Bec, charmed itself.
+  - session: "15e07"
+    content: |
+      Fed on the ghosts swarming the chapel and on the Brucolac in his sarcophagus, ignoring his order to leave ("I hunger." "I know."). Grievously wounded by Freki's arrow of slaying, it was incinerated by Vondal.
 ---
 
 *not to be confused with:

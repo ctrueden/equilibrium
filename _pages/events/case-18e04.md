@@ -9,17 +9,17 @@ session-date: 2026-06-26
 layout: session
 reviewed: false
 callie_journal: >-
-  I'm so excited I start flapping my wings like a hummingbird. I know these guys! "Noffindorfs! It's them!" I call down to Bec, as quietly as I can. Nobody noticed anything. I'm sneaky! =D
+  I'm so excited I start flapping my wings like a hummingbird. I know these guys! "Noffindorfs! It's them!" I call down to [Bec](../dossiers/bec), as quietly as I can. Nobody noticed anything. I'm sneaky! =D
 
-  The three rainbow guys proceed through the office and are greeted by Taylin. I can't hear a thing inside. They go upstairs.
+  The three rainbow guys proceed through the office and are greeted by [Taelin](../dossiers/taelin-fosse). I can't hear a thing inside. They go upstairs.
 
   That seems like a good opportunity to head down and tell Bec what's going on. She's even heard of the Noffindorfs. They sure are well-gnome! Hehehe.
 
   Once I'm done filling in Bec, I fly back up to see if I can listen through the windows up there. I can still smell the coffee pot out here, but I'm pretty much down-window, hehehe.
 
-  Meanwhile, across the street, Oz and Freki are watching the entrance to see who's coming and going. Suddenly there's a scraping sound behind them. It's Vex, with food.
+  Meanwhile, across the street, [Oz](../dossiers/oz) and [Freki](../dossiers/freki) are watching the entrance to see who's coming and going. Suddenly there's a scraping sound behind them. It's [Vex](../dossiers/vex-morradine), with food.
 
-  Vondal wonders where Bec and I are, and gets something like a psychic flash that reveals where we are, and in relation, where Kerwin is and how he is accompanied by gnomes. Kerwin, it turns out, even *feels* stinky. That's really some curse, that coffee pot curse. Vondal sends a message to Bec, who replies telling him that the Noffindorfs are in there with Kerwin.
+  [Vondal](../dossiers/vondal) wonders where Bec and I are, and gets something like a psychic flash that reveals where we are, and in relation, where [Kerwin](../dossiers/kerwin-ulvas) is and how he is accompanied by gnomes. Kerwin, it turns out, even *feels* stinky. That's really some curse, that coffee pot curse. Vondal sends a message to Bec, who replies telling him that the Noffindorfs are in there with Kerwin.
 
   While he's doing WORK, Freki and Oz tuck into the food. Did you think I wouldn't find out?!
 
@@ -29,13 +29,13 @@ callie_journal: >-
 
   Obviously, I am not enjoying any of this, as I'm straining my ears to hear what's happening in Kerwin's office. "We are prepared to make you a substantial offer. We understand your reluctance to part with the artifact, but as it so happens, we have a personal interest in this and are prepared to double our previous offer. With this you could retire and live comfortably for the rest of your life. And in addition, we can offer you a cure?"
 
-  Kerwin thinks the very idea is preposterous, but the Noffindorfs claim they never fail at their endeavors. Kerwin wants his contracts expert to look at it. "Taylin! Get in here!" he calls.
+  Kerwin thinks the very idea is preposterous, but the Noffindorfs claim they never fail at their endeavors. Kerwin wants his contracts expert to look at it. "Taelin! Get in here!" he calls.
 
   The green Noffindorf was trembling slightly when they placed the contract. From the indigo girl (hehe) I sense something like desperation.
 
-  Taylin comes in and says "Yes?" She sounds...strange. She looks like she's about to cry. Her eyes are moist. And yet, beneath the tears...she's furious. My estimation of her improves, and I also feel bad for her. We've got to get her out of this. She flips the pages like a speed reader and declares it perfect.
+  Taelin comes in and says "Yes?" She sounds...strange. She looks like she's about to cry. Her eyes are moist. And yet, beneath the tears...she's furious. My estimation of her improves, and I also feel bad for her. We've got to get her out of this. She flips the pages like a speed reader and declares it perfect.
 
-  "Wow, a ringing endorsement! That's very rare from you, Taylin!" says Kerwin, and reads a couple of pages. "I've seen enough. No deal."
+  "Wow, a ringing endorsement! That's very rare from you, Taelin!" says Kerwin, and reads a couple of pages. "I've seen enough. No deal."
 
   "What do you mean no deal? This is an offer that we cannot improve upon. Surely you understand that."
 
@@ -45,13 +45,13 @@ callie_journal: >-
 
   Kerwin starts whistling. It sounds purposeful, but not necessarily loud. Nothing happens. He says "Stupid imps!" and closes the window, locking it. Ooh, that's a good cover for me. If anyone asks, that was an imp in the back alley and not someone with no stealth skill whatsoever. The odor from the coffee pot lessens after the window shuts.
 
-  Across the street, Vondal notes that the rainbow gnomes have left the building looking dejected. Bec tells him telepathically that Kerwin came to the window and closed it. She doesn't know whether he saw me or not. But it's only moments before I'm on the ground. I quickly fill her in, and we wonder if maybe Taylin would like a drink or seven. I bet she would!
+  Across the street, Vondal notes that the rainbow gnomes have left the building looking dejected. Bec tells him telepathically that Kerwin came to the window and closed it. She doesn't know whether he saw me or not. But it's only moments before I'm on the ground. I quickly fill her in, and we wonder if maybe Taelin would like a drink or seven. I bet she would!
 
   Vondal and co. watch the Noffindorfs get in their vehicle. It has cool doors that open up somehow. Wild! The boys are getting ready to follow it, when it suddenly collapses in on itself and vanishes without a trace. Vondal updates Bec that they have departed this plane of existence.
 
-  Bec tells him that we have a plan. If Taylin comes out, tail her. They will be tailin' Taylin. We're going to get her liquored up and find out of what she needs to unburden herself. "Bec's plan is to seduce Sad Woman with alcohol and get her to spill her boss's secrets." I mean, it sounds kinda dumb when you say it like that, but this is a solid plan!
+  Bec tells him that we have a plan. If Taelin comes out, tail her. They will be tailin' Taelin. We're going to get her liquored up and find out of what she needs to unburden herself. "Bec's plan is to seduce Sad Woman with alcohol and get her to spill her boss's secrets." I mean, it sounds kinda dumb when you say it like that, but this is a solid plan!
 
-  I fly back up to see where Taylin is. Kerwin bellows for her attendance again. She's sitting at her desk, looking at a sheet of paper. She stands up, opens a drawer in her desk, and pulls out a little bag that she ties to her belt. She walks resolutely to the stairs.
+  I fly back up to see where Taelin is. Kerwin bellows for her attendance again. She's sitting at her desk, looking at a sheet of paper. She stands up, opens a drawer in her desk, and pulls out a little bag that she ties to her belt. She walks resolutely to the stairs.
 
   I follow her up, naturally, and fly around to the window that's still open. Now she's wearing a mask that covers her mouth and nose.
 
@@ -67,25 +67,25 @@ callie_journal: >-
 
   ("Telling dad jokes without being a father is a real...faux pa" says Nate, out of game. "What do you call an alligator in a vest? An in-vesti-gator" says Allen. I just wanted to note that.)
 
-  I flap the hell back to the ground, while Bec and Vondal make plans to follow Taylin.
+  I flap the hell back to the ground, while Bec and Vondal make plans to follow Taelin.
 
-  She tries to tell me the guys are tailin' Taylin, but I interrupt to tell him Taylin killed him! She killed Kerwin! Stabbed him right in the chest! Bec still wants to go through with the plan. OK! Coolcoolcool!
+  She tries to tell me the guys are tailin' Taelin, but I interrupt to tell him Taelin killed him! She killed Kerwin! Stabbed him right in the chest! Bec still wants to go through with the plan. OK! Coolcoolcool!
 
-  With Vondal's direction, we work our way through the streets to intercept Taylin "by accident." Freki and Oz follow on the rooftops. Freki notices Vex slipping around a corner.
+  With Vondal's direction, we work our way through the streets to intercept Taelin "by accident." Freki and Oz follow on the rooftops. Freki notices Vex slipping around a corner.
 
-  Bec makes herself visible again and goes over to talk to Taylin. "Heeeeeyyyyy gurl!" she says.
+  Bec makes herself visible again and goes over to talk to Taelin. "Heeeeeyyyyy gurl!" she says.
 
-  Taylin jumps. "What are you doing here?" she demands.
+  Taelin jumps. "What are you doing here?" she demands.
 
   Bec says we came back to see her, because she was so pleasant before. Would she care for a drink?
 
   About this time, it occurs to me, I may have been able to help Kerwin. Maybe. He did seem awfully dead.
 
-  Taylin tries to say it's been a long day and maybe another time, but I jump in and ask if she could show us a good place for a drink. "Oh, this isn't the right part of town for that! Not for people like us," says Taylin, and adds that we should keep moving. Weird for a legit business to be located in a shady area, but I guess it isn't exactly a legit business.
+  Taelin tries to say it's been a long day and maybe another time, but I jump in and ask if she could show us a good place for a drink. "Oh, this isn't the right part of town for that! Not for people like us," says Taelin, and adds that we should keep moving. Weird for a legit business to be located in a shady area, but I guess it isn't exactly a legit business.
 
-  Oz artlessly falls off a building into the street in front of us. He wants drinks too! He mentions how each bar seems to have a color theme, which reminds him he's still dressed like Kerwin, haha. As soon as he changes his clothes, Taylin visibly exhales.
+  Oz artlessly falls off a building into the street in front of us. He wants drinks too! He mentions how each bar seems to have a color theme, which reminds him he's still dressed like Kerwin, haha. As soon as he changes his clothes, Taelin visibly exhales.
 
-  "Where did you come from?" Taylin asks hesitantly.
+  "Where did you come from?" Taelin asks hesitantly.
 
   Then Freki pops out of nowhere, like that helps. "We were just playing this game, because he's so small...I just throw him as hard as I can. We call it jumpy-tossy."
 
@@ -103,13 +103,13 @@ callie_journal: >-
 
   On our way, Oz smoothly sidles up to her and tries Panache. Honestly, it rarely fails. And yet...it fails. She says she'd tooooootally love to...some other time. Denied! LOL. LMAO. Hey, it happens to all guys sometimes!
 
-  Bec is attuned to magic that causes emotions in others, and she studied the cursed carafe. She knows, and none of the rest of us notice, that Taylin has kind of a shield against this kind of charm.
+  Bec is attuned to magic that causes emotions in others, and she studied the cursed carafe. She knows, and none of the rest of us notice, that Taelin has kind of a shield against this kind of charm.
 
   "We have to keep him talking!" Bec whispers to Vondal, through their secret telepathy.
 
   "Ow! Ow! I was in that hole so long I pulled a hammy!" Vondal groans.
 
-  While Taylin is leaning over Vondal trying to help, Bec tells Oz why his Panache failed.
+  While Taelin is leaning over Vondal trying to help, Bec tells Oz why his Panache failed.
 
   "Hold my spider!" says Vondal, handing Murky (in spider form) to her.
 
@@ -117,20 +117,20 @@ callie_journal: >-
 
   Bec suggests that I heal Vondal. Oh yeah, that is what I do. I make a big show out of it. In the name of AVANDRA, be GONE, ye minions of hamstring pain! Vondal is still hamming it up, so Freki just picks him up and throws him over a shoulder.
 
-  At this point, Bec could really use a drink, as could I. Probably Taylin too, if we're being honest.
+  At this point, Bec could really use a drink, as could I. Probably Taelin too, if we're being honest.
 
   A shady-looking man steps out of the shadows and says, "I know of a good bar, sweetheart. Want me to show you?"
 summary: >-
   The night took a sharp turn when a magical bubble vehicle glided silently up
-  to Kerwin's office building and disgorged three short, cloaked figures onto
+  to [Kerwin](../dossiers/kerwin-ulvas)'s office building and disgorged three short, cloaked figures onto
   the street. Each wore a different color—yellow, green, and indigo—and moved
   with the implicit arrogance of people who had never once doubted their own
   importance. After the last of them stepped out, the indigo-cloaked figure
   raised a hand and the vehicle shrank impossibly into their palm, vanishing as
-  though it had never existed. Callie, hovering invisibly outside the upper
+  though it had never existed. [Callie](../dossiers/callie), hovering invisibly outside the upper
   windows, recognized them immediately: the Noffindorfs, the infamous gnome
   magical architects whose rainbow cloaks were known across the world. She
-  whisper-shouted the name down to her ally Bec below, whose sharp ears
+  whisper-shouted the name down to her ally [Bec](../dossiers/bec) below, whose sharp ears
   caught it, her memory supplying the rest—these were brilliant, obsessive
   craftspeople who worked for anyone with the right price and a sufficiently
   interesting challenge, and at least one of them was known to specialize in
@@ -138,14 +138,14 @@ summary: >-
 
 
   Across the street, perched on a rooftop with a commanding view of the
-  building's entrance, Ozborn, Freki, and Vondal had been keeping watch when
-  their SPI contact Vex Morradine scaled the three-story wall with breathtaking
+  building's entrance, [Ozborn](../dossiers/oz), [Freki](../dossiers/freki), and [Vondal](../dossiers/vondal) had been keeping watch when
+  their [SPI](../orgs/spi) contact [Vex Morradine](../dossiers/vex-morradine) scaled the three-story wall with breathtaking
   ease and set down a bag of food. Vondal hauled himself up after, managing the
   climb competently if not gracefully, and the group found themselves treated to
   an elaborate spread of Trellian cuisine—saltbrick flatbread with a faint
   metallic undertone, cold ember broth made from roasted bones and mineral
   water, brimstone pickles cured in sulfurous spring water, char-pressed fish
-  from the cold deep waters around Minauros, and harbor devil eggs topped with
+  from the cold deep waters around [Minauros](../locales/minauros), and harbor devil eggs topped with
   fermented red bite pepper paste. Vex narrated each dish with the gravity of a
   sommelier while Ozborn ate everything within reach, and Vondal politely
   declined most of it in favor of his more familiar dwarven palate. Meanwhile,
@@ -159,7 +159,7 @@ summary: >-
   desperation, offering Kerwin double their previous bid for a mysterious
   artifact and sweetening the deal with a promised cure for his condition. The
   green-cloaked Noffindorf produced a thick sheaf of contract papers, and Kerwin
-  summoned Taelin to review the legal details. Callie, pressing close to the
+  summoned [Taelin](../dossiers/taelin-fosse) to review the legal details. Callie, pressing close to the
   cracked window to hear, observed Taelin's face with unsettling clarity—tears
   glittered in her eyes, and beneath them burned a barely contained fury. She
   reviewed the contract rapidly and urged Kerwin to accept, but he refused,
@@ -226,22 +226,22 @@ summary: >-
   healing over Vondal, invoking divine authority with sweeping gestures and
   solemn proclamations, and Taelin watched the whole spectacle with wide eyes,
   apparently convinced. The group continued walking together through the dark
-  streets of Trell, waiting for the magical barrier around Taelin's mind to
+  streets of [Trell](../locales/trell), waiting for the magical barrier around Taelin's mind to
   dissolve completely, none of them letting on that they knew exactly what she
   had done in that office—or that the carafe she had stolen was sitting in the
   bag at her hip.
 short_summary: >-
   The night took a dramatic turn when three of the Noffindorfs—infamous gnome
-  magical architects in bright colored cloaks—arrived at Kerwin's office
+  magical architects in bright colored cloaks—arrived at [Kerwin](../dossiers/kerwin-ulvas)'s office
   building via a magical bubble vehicle and made a desperate pitch to
   purchase a mysterious artifact, offering double their previous bid and a
-  promised cure for Kerwin's condition. Callie observed the meeting invisibly
-  from outside the window while Ozborn, Freki, Vondal, and their SPI contact Vex
-  Morradine kept watch from a nearby rooftop. Kerwin refused the deal, skeptical
+  promised cure for Kerwin's condition. [Callie](../dossiers/callie) observed the meeting invisibly
+  from outside the window while [Ozborn](../dossiers/oz), [Freki](../dossiers/freki), [Vondal](../dossiers/vondal), and their [SPI](../orgs/spi) contact [Vex
+  Morradine](../dossiers/vex-morradine) kept watch from a nearby rooftop. Kerwin refused the deal, skeptical
   of the cure and unwilling to give up the magical carafe, and the Noffindorfs
   departed disappointed—their vehicle vanishing instantly, foiling any attempt
   to follow. Shortly after, Callie witnessed a swift and irreversible act:
-  Taelin, Kerwin's own associate, pleaded one final time for him to accept the
+  [Taelin](../dossiers/taelin-fosse), Kerwin's own associate, pleaded one final time for him to accept the
   deal and abandon the carafe, and when he refused, she drove a dagger through
   his chest, wiped the blade clean, and slipped the carafe into her bag before
   walking out without a second glance.
@@ -249,19 +249,19 @@ short_summary: >-
 
   The party scrambled to intercept Taelin as she exited the building, with
   Ozborn making a dramatically intentional rooftop dismount and Freki managing a
-  far less graceful descent via drainpipe. Bec and Callie staged a casual street
+  far less graceful descent via drainpipe. [Bec](../dossiers/bec) and Callie staged a casual street
   encounter with Taelin, while Ozborn attempted to use his supernatural charm on
   her—only for Bec to observe the magic deflect off an invisible mental barrier
   already wrapped around Taelin's mind. To buy time for the protection to fade,
   Vondal feigned a leg cramp, used his familiar Murky in spider form to distract
   Taelin, and Callie launched into an elaborate theatrical healing performance
   that left Taelin wide-eyed and convinced. The group fell into step beside her
-  through the dark streets of Trell, keeping up the ruse and waiting for her
+  through the dark streets of [Trell](../locales/trell), keeping up the ruse and waiting for her
   mental defenses to dissolve—all while knowing full well that she had just
   committed murder and that the stolen carafe was sitting in the bag at her hip.
 classic_summary: >-
   Last we left off, our party found themselves deep in the shadowed streets of
-  Trell, keeping a careful vigil on the office building of one Kerwin Ulvas—a
+  [Trell](../locales/trell), keeping a careful vigil on the office building of one [Kerwin Ulvas](../dossiers/kerwin-ulvas)—a
   singular and unsettling figure whose connection to a mysterious magical
   carafe had drawn the attention of powerful forces. From rooftop and window
   alike, the group watched as three gnomish figures in colored cloaks—the
@@ -272,9 +272,9 @@ classic_summary: >-
   imploding into nothing before anyone could give chase.
 
 
-  What none of them were prepared for was what came next. Callie, hovering
+  What none of them were prepared for was what came next. [Callie](../dossiers/callie), hovering
   invisibly at the fourth-floor window, bore silent witness as Kerwin's own
-  assistant Taelin—tears in her eyes and fury barely contained beneath them—made
+  assistant [Taelin](../dossiers/taelin-fosse)—tears in her eyes and fury barely contained beneath them—made
   one final plea for him to let go of the carafe and step back from the edge of
   whatever he had become. When he refused, she drove a dagger through his chest
   with quiet, terrible resolve, wiped the blade clean, slipped the carafe into
@@ -289,17 +289,17 @@ classic_summary: >-
   that the stolen artifact swings gently at her hip with every step she takes...
 snarky_summary: >-
   When last we left our intrepid group of definitely-not-suspicious loiterers,
-  they were staking out an office building in Trell while eating what can only
-  be described as a sulfur-forward charcuterie board, courtesy of their SPI
-  contact Vex. The evening's entertainment included three color-coded gnome
+  they were staking out an office building in [Trell](../locales/trell) while eating what can only
+  be described as a sulfur-forward charcuterie board, courtesy of their [SPI](../orgs/spi)
+  contact [Vex](../dossiers/vex-morradine). The evening's entertainment included three color-coded gnome
   architects arriving in a magic bubble car, one (1) dramatic assassination
-  witnessed through a cracked window, and Ozborn doing backflips off a roof
-  because of course he did. Freki also attempted a rooftop leap, caught a
+  witnessed through a cracked window, and [Ozborn](../dossiers/oz) doing backflips off a roof
+  because of course he did. [Freki](../dossiers/freki) also attempted a rooftop leap, caught a
   drainpipe, and we will leave it at that.
 
 
   Now the whole gang is casually strolling through the city streets next to
-  Taelin—who has just murdered her boss and stolen a magical artifact and is
+  [Taelin](../dossiers/taelin-fosse)—who has just murdered her boss and stolen a magical artifact and is
   absolutely not acting weird about it—while they wait for the invisible
   brain-shield around her mind to wear off so Ozborn's charm can actually work.
   It's fine. Everything is fine. The spider was a nice touch.
@@ -307,19 +307,19 @@ limerick_style_summary: |-
   Three gnomes in bright cloaks came to call,  
   Their bubble-car shrank to nothing at all.  
   They offered a cure,  
-  But Kerwin said "Sure—no,"  
+  But [Kerwin](../dossiers/kerwin-ulvas) said "Sure—no,"  
   And the Noffindorfs left down the hall.
 
-  Poor Taelin had tears in her eyes,  
+  Poor [Taelin](../dossiers/taelin-fosse) had tears in her eyes,  
   Beneath them burned fury in disguise.  
   She begged him to quit,  
   He refused every bit,  
   So she stabbed him and took her prize.
 
-  Callie watched from the window above,  
+  [Callie](../dossiers/callie) watched from the window above,  
   Then dove down to warn those she loved.  
-  Ozborn flipped off the roof,  
-  Freki gave us the proof  
+  [Ozborn](../dossiers/oz) flipped off the roof,  
+  [Freki](../dossiers/freki) gave us the proof  
   That drainpipes beat grace push-comes-to-shove.
 
   Ozborn turned on his charm with a grin,  
@@ -328,7 +328,7 @@ limerick_style_summary: |-
   Left his gift far behind,  
   Though its edges were wearing quite thin.
 
-  Now they walk through the dark streets of Trell,  
+  Now they walk through the dark streets of [Trell](../locales/trell),  
   With a murderer under their spell—  
   Well, almost in place,  
   With a spider-like grace,  
@@ -427,7 +427,7 @@ scenes:
   - title: The Arrival of the Noffindorfs
     description: >-
       The party observes three mysterious cloaked figures arriving in a magical
-      vehicle and entering Kerwin's office building.
+      vehicle and entering [Kerwin](../dossiers/kerwin-ulvas)'s office building.
     key_events:
       - >-
         A magical bubble vehicle hovers up to the building and three short
@@ -437,30 +437,30 @@ scenes:
         after the group disembarks.
       - >-
         The three figures enter the building and head toward Kerwin's upper
-        office, escorted by Taelin.
+        office, escorted by [Taelin](../dossiers/taelin-fosse).
       - >-
-        Callie, currently invisible, attempts to communicate the identity of the
+        [Callie](../dossiers/callie), currently invisible, attempts to communicate the identity of the
         newcomers to her allies by whisper-shouting 'Noffindorfs' down from her
         vantage point.
       - >-
-        Bec considers using a helm of telepathy to coordinate, but realizes the
+        [Bec](../dossiers/bec) considers using a helm of telepathy to coordinate, but realizes the
         magical conflict between maintaining invisibility and using the helm
         simultaneously.
       - >-
-        Freki hears the whisper and recalls historical information about the
+        [Freki](../dossiers/freki) hears the whisper and recalls historical information about the
         Noffindorfs being famous gnome magical architects known for their
         artistry and obsession with novel challenges.
       - >-
         Callie flies down to share information with Bec, noting the Noffindorfs'
-        association with Blisco Legal and their expertise in ciphers and codes.
+        association with BlissCo Legal and their expertise in ciphers and codes.
   - title: Rooftop Reconnaissance and a Trellian Feast
     description: >-
-      While Callie and Bec spy on Kerwin's office from the alley, Vex Morradine
+      While Callie and Bec spy on Kerwin's office from the alley, [Vex Morradine](../dossiers/vex-morradine)
       arrives on the rooftop with an elaborate spread of exotic Trellian
       cuisine.
     key_events:
       - >-
-        Vondal uses a magical ability to sense the city around him, locating Bec
+        [Vondal](../dossiers/vondal) uses a magical ability to sense the city around him, locating Bec
         and Callie in the alley behind Kerwin's building and sensing Kerwin and
         three gnomes inside.
       - >-
@@ -475,10 +475,10 @@ scenes:
       - >-
         Vex begins laying out an elaborate spread of Trellian cuisine,
         explaining each dish: saltbrick flatbread, cold ember broth, brimstone
-        pickles, char-pressed fish from Minauros, and harbor devil eggs topped
+        pickles, char-pressed fish from [Minauros](../locales/minauros), and harbor devil eggs topped
         with fermented red bite pepper paste.
       - >-
-        Ozborn enthusiastically consumes the majority of the food while Vondal
+        [Ozborn](../dossiers/oz) enthusiastically consumes the majority of the food while Vondal
         politely declines the more exotic dishes.
   - title: The Noffindorf Negotiation
     description: >-
@@ -604,7 +604,7 @@ scenes:
         distraction, who though cautious still finds it cute.
       - >-
         Callie performs a highly theatrical and deceptive faith healing on
-        Vondal, invoking the name of Avandra, which successfully convinces
+        Vondal, invoking the name of [Avandra](../dossiers/avandra), which successfully convinces
         Taelin of its legitimacy.
       - >-
         The party continues walking with Taelin toward a better neighborhood,
@@ -617,10 +617,11 @@ npcs:
       cloaks—arrived at Kerwin's office in a magical bubble vehicle. They are
       known for working for anyone for the right price, being obsessed with
       novel and beautiful projects, and one specializes in ciphers and codes.
-      They are associated with Blisco Legal. They made a substantial offer to
+      They are associated with BlissCo Legal. They made a substantial offer to
       Kerwin—double their previous bid plus a promised cure for his
       condition—but were rejected and departed looking disappointed.
   - name: Kerwin
+    wiki: ../dossiers/kerwin-ulvas
     description: >-
       A mysterious and 'stinky' businessman in Trell who possesses a magical
       coffee pot artifact. He deals in bloodlocked spells and operates from a
@@ -629,6 +630,7 @@ npcs:
       to relinquish the artifact. He was subsequently stabbed and killed by his
       own assistant, Taelin, who then stole the carafe.
   - name: Taelin
+    wiki: ../dossiers/taelin-fosse
     description: >-
       Kerwin's assistant and head of contracts. She appeared emotionally
       distressed during the Noffindorf negotiation, with tears in her eyes and
@@ -639,6 +641,7 @@ npcs:
       supernatural charm due to a mysterious temporary magical barrier around
       her mind.
   - name: Vex Morradine
+    wiki: ../dossiers/vex-morradine
     description: >-
       An SPI contact who demonstrated remarkable athletic ability by scaling a
       three-story building to deliver a gourmet Trellian meal to the agents on
@@ -690,7 +693,7 @@ items:
   - name: The Magical Carafe (Coffee Pot)
     description: >-
       A powerful artifact in Kerwin's possession that corporate entities like
-      Blisco Legal and the Noffindorfs are desperate to acquire. It was
+      BlissCo Legal and the Noffindorfs are desperate to acquire. It was
       previously identified as being made for closing deals, with prolonged
       exposure causing a permanent alchemical change in judgment described as a
       'trust bypass.' Kerwin refuses to part with it, claiming its effects on

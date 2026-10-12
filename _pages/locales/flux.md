@@ -38,40 +38,31 @@ statbox:
 descriptions:
   - session: "13e04"
     content: |
-      Vondal used wild magic to weave the Flux around Alye'adu's entrance, transforming it into a wild magic door to protect the village.
-  - session: "14e00"
-    content: |
-      Referenced as wild magic that may have scattered agents; discussed in Mallory's context.
+      With Erathis's approval via Callie's augury, Vondal wove Flux into the destroyed door of Alye'adu, creating a wild magic door.
   - session: "14e02"
     content: |
-      Sensed throughout Evershroud Manor, creating wild magic surges and chaotic tendrils everywhere.
+      Vondal sensed Evershroud Manor chaotically infused with Flux, its tendrils everywhere, triggering a wild magic surge.
   - session: "14e03"
     content: |
-      Present throughout the manor as chaotic tendrils; pulled directly into Lady Nightshade when she ripped open reality.
+      Lady Nightshade ripped open reality with her scythe and grabbed the Flux, which crawled up her arm and transformed her into a creature of mouths.
   - session: "14e04"
     content: |
-      Described as unreality, everything outside the world; kept out by divine binding of elements; appears to be breaking down with a potential missing ninth element.
-  - session: "14e05"
-    content: |
-      Referenced by Vondal when using his Wand of Wonder to avoid igniting it in the manor's environment.
-  - session: "15e03"
-    content: |
-      Encountered as pervasive dark energy during the Hunt in the Soulbound Rest; presents constant magical danger.
+      Invictus explained that the Flux is everything that is not the world, unreality, kept out by the gods' binding of Aecus with the elements; a destroyed ninth element would explain the hole in the world.
   - session: "15e07"
     content: |
-      Revealed to have been created by the sabotage of a ritual performed on a tower by three elves and one halfling attempting healing magic.
+      Vondal witnessed its birth in a stained glass vision: a ritual by three elves to heal the world with a ring, which cracked at the apex of its power when one of them betrayed it.
   - session: "17e00"
     content: |
-      Remained a critical threat to the SPI tower and its inhabitants; Lorelei's infection from the Flux prompted urgent discussions about the planar instability affecting the tower and its unknown connection to the Feywild and Afterworld.
+      Mallory concluded that whatever was happening in the tower under, and in, the Flux, also tangled with the Feywild and perhaps the Afterworld, needed to stop.
   - session: "16e08"
     content: |
-      A catastrophic battle occurred at the heart of the Flux; reality fractured and reformed multiple times, agents were permanently transformed by the Flux's power, and a gate to the true Afterworld was revealed.
+      At the heart of the Flux, the battle sliced reality open; when Megaera's shield fell, waves of Flux washed over the agents, leaving prismatic zones, a null spot, and a crossroads of reality, and transforming everyone. The SPI badges protected the agents from worse.
   - session: "16e05"
     content: |
-      Shadow creatures emerged from the World Tree's corrupted roots, attacking agents; these undead Flux-touched entities bear the faces and forms of duplicates and split selves.
+      The agents woke in tunnels beside a great root wreathed in Flux, flowing in one direction, with shapes pushing out as though trying to escape. Shadowy undead creatures bubbled up from the roots and attacked, becoming shadow duplicates of whoever they fought.
   - session: "16e01"
     content: |
-      Agents discovered the Flux leaking from directly beneath SPI headquarters; it appears the World Tree roots are expanding and creating additional breach points throughout reality.
+      Beneath HQ, Vondal felt his perception of the Flux turned inside out: there, the Flux was leaking out and reality leaking in, as though the place were a linchpin holding something together.
 ---
 
 An uninhabitable zone bordering the nations.

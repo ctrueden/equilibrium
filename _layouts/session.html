@@ -18,32 +18,12 @@
 
     <div id="session-layout">
 
-      <!-- Left column: session navigation -->
-      <nav id="session-nav">
-        <div class="session-nav-header">
-          <a href="{{site.baseurl}}/">Equilibrium</a>
-        </div>
-        <ul class="session-list">
-          {%- assign all_episodes = site.pages | sort: "datestamp" | reverse -%}
-          {%- for ep in all_episodes -%}
-            {%- if ep["session-number"] and ep.url contains "/events/case-" -%}
-              {%- assign ep_id = ep.title | split: "]" | first | remove: "[" -%}
-              {%- assign ep_name = ep.title | split: "] " | last -%}
-              <li{% if ep.url == page.url %} class="current"{% endif %}>
-                <a href="/equilibrium{{ ep.url }}"><strong>{{ ep_id }}</strong> {{ ep_name }}</a>
-                {%- if ep["session-date"] -%}
-                  <span class="session-list-date">{{ ep["session-date"] }}</span>
-                {%- elsif ep["playedAt"] -%}
-                  <span class="session-list-date">{{ ep["playedAt"] }}</span>
-                {%- endif -%}
-              </li>
-            {%- endif -%}
-          {%- endfor -%}
-        </ul>
-      </nav>
+      <!-- Left column: case/episode navigation -->
+      {% include case-nav %}
 
       <!-- Middle column: main content -->
       <main id="session-content">
+        {% include episode-pager %}
         {%- assign gm-path = "/gm" | append: page.url -%}
         {%- assign gm-pages = site.pages | where: "url", gm-path -%}
         {%- for p in gm-pages -%}
@@ -160,6 +140,7 @@
 </details>
 {% endif %}
 
+        {% include episode-pager %}
       </main>
 
       <!-- Right column: reference sidebar -->

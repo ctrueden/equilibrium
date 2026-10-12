@@ -11,13 +11,13 @@ statbox:
 descriptions:
   - session: "03e01"
     content: |
-      Eldest nephew of Gurin; reported his uncle's death to SPI agents.
+      Gurin's eldest nephew, who met the agents at the keep. He told them Gurin had been about to reconcile with his rival Mungus Wrathborn, and that Bronce had left very early that morning.
+  - session: "03e03"
+    content: |
+      Bruck revealed that Hollerd had brought Gurin his evening meal on the night of his death, and that the two had argued loudly.
   - session: "03e04"
     content: |
-      Confronted by SPI at his farm and apprehended after admission of poisoning Gurin.
-  - session: "14e00"
-    content: |
-      Referenced in Callie's past case; a dwarf arrested for poisoning his uncle Gurin.
+      Apprehended at his farm. Callie defused a confrontation with a dwarf woman there by playing on her feelings for him, and after a brief contest of wits the agents returned him to the authorities.
 ---
 
 A farmer, and eldest nephew of [Gurin Aldrimor](gurin-aldrimor). Tough but dour, Hollerd is in many ways a stereotypical dwarf. He became a farmer because unlike his siblings, he was no good at smithing, soldiering or magic. He spent much of his life sulking because nobody believed in him, which was largely accurate.

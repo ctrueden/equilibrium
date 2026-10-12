@@ -44,7 +44,7 @@ links:
 descriptions:
   - session: "14e03"
     content: |
-      Identified on the divine map chart with specific elemental and domain attributes.
+      Appeared on the divine chart in Invictus's study, at the intersection of air and water (trickery and knowledge), as the combined form of Callie's goddesses.
 ---
 
 ## Precepts

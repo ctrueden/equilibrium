@@ -7,6 +7,13 @@ statbox:
   race: gnome
   gender: female
   case: "11"
+descriptions:
+  - session: "11e01"
+    content: |
+      The Rockwells' long-time cook, happy to see Callie, who told her that her parents were at a pre-arbitration meeting for Euphoria.
+  - session: "11e02"
+    content: |
+      Told Callie that her parents had split up, and suggested they might be mentally incompetent. When Freki declared "the cook is the source of the corruption!", she transformed into a monster.
 ---
 
 A long-time cook for the Rockwell family. She is friendly and honest.

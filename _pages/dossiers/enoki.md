@@ -10,19 +10,19 @@ statbox:
 descriptions:
   - session: "12e06"
     content: |
-      A cranky mushroom druid who performed a ritual to calm an infestation of corrupted fungi, then guided the party toward the Fruit of Life within the World Tree.
+      A tiny, cranky mushroom druid riding the poodle moth Cornelius, who berated the agents for riling up the mushrooms, then led a ritual with their help to calm them all at once, and collapsed for a nap. Apparently thousands of years old, he knew where the Fruit of Life was, and Vondal sweet-talked him into guiding them there.
   - session: "12e07"
     content: |
-      Guided the party toward the Fruit of Life, eventually leading them through a mist where a powerful hamadryad emerged.
+      Refused to travel with Eixam, whose locusts devour his mushroom pals. He bowed to the hamadryad Phoebe, whom he recognized. Beyond the illusory Fruit, he spotted the true heart of the Tree, but was trapped in a thicket of thorns that surged toward the party.
   - session: "12e08"
     content: |
-      Cast a summoning spell that brought forth mushrooms to push back against the growing thornbush protecting Isis.
+      Freki pulled him and Cornelius from the thornbush with a grappling arrow. In the battle with Isis, he summoned a field of mushrooms that pushed the thornbush back.
   - session: "12e09"
     content: |
       Entered the Tree trunk to wrangle the massive mushroom infestation, saying the situation was worse than expected.
   - session: "13e01"
     content: |
-      Received a sending from Callie asking about his well-being while the SPI pursued the doppelganger through the Selva.
+      Answered Callie's sending, still shooing the "unruly jackals" of mushrooms out of the Tree with his shillelagh.
 ---
 
 What a cute little guy!

@@ -6,7 +6,7 @@ image-source: https://www.pinterest.com/pin/157274211979460133/
 descriptions:
   - session: "06e01"
     content: |
-      Demonic reincarnations of dead Manufeai tribe members, bearing fiendish heads that would detach from their necks.
+      The Manufeai's grotesquely twisted corpses had fiendish heads that wobbled and broke off at the neck: vargouilles.
 ---
 
 TODO

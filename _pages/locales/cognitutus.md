@@ -19,6 +19,9 @@ descriptions:
   - session: "10e04"
     content: |
       Secret underwater gnome city where Callie's family vault was used to hide the Cornucopia artifact.
+  - session: "11e01"
+    content: |
+      The agents traveled to the vibrant underwater city of the gnomes with Callie's secret sigil sequence.
 ---
 A great city built by gnomes, which disappeared during the War of Countless Dead. Once on the west coast of Aecus, the story goes that it was reclaimed by the sea: the coastline collapsed, and the city sank. Some believe the event was an act of war, others a punishment by the gods. But no one living then has clear memories of exactly what happened. Since then, gnomes have been few and far between.
 

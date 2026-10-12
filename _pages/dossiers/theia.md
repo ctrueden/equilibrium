@@ -11,7 +11,7 @@ links:
 descriptions:
   - session: "17e09"
     content: |
-      Referenced as Hyperion's estranged wife and Titan of Brilliant Vision whose name was forbidden to speak; suggested as the likely source of help for locating Xaryuvia, though approaching her could result in Cal's disownment.
+      Ulgrim suggested seeking out the Titan of Brilliant Vision; Cal knew her as Hyperion's wife, who had left him after a profound disagreement about the Ordning, and whose name was forbidden: the one time Cal heard it spoken, the speaker disappeared.
 ---
 
 One of the 12 [titans](../creatures/titans) from whom the [gods](../creatures/eternals) were born. Once the consort of [Hyperion](hyperion).

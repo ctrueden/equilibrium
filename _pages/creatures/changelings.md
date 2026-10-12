@@ -11,19 +11,19 @@ image-source: https://www.pinterest.com/pin/317785317439793443/
 descriptions:
   - session: "12e10"
     content: |
-      Isis was revealed to be a doppelganger after being slain, shocking the party and raising questions about who else might be replaced.
+      After Ozborn killed Isis, her skin sloughed off to reveal a doppelganger; Bec had not even been sure they were real. The agents kept the body, and Ozborn tested everyone for doppelgangers with a bluff.
   - session: "13e01"
     content: |
-      Revealed to exist in secret through SPI investigation of a doppelganger; their leader Isis spoke of protecting the world from a second Vanishing.
+      Isis's corpse revealed that she came from Alye'adu, and had worked to prevent another Vanishing by watching the nations and intervening in their affairs. Her blood could not hold its shape when confronted with another liquid.
   - session: "13e02"
     content: |
-      The SPI infiltrated their hidden village of Alye'adu and learned of their imprint-anchor system and their mission to monitor nations for signs of catastrophe.
+      At Alye'adu, the agents learned that changelings are "imprints" of "anchors," one anchor per imprint, without which an imprint must find another or die; one villager had been Isis's anchor. Believing something at the Tower of Orsis caused the Vanishing fifty years ago, they had planted agents in nations around the world.
   - session: "13e03"
     content: |
-      Threatened when the centaur warlord Talos attempted to breach Alye'adu seeking to steal their shapeshifting powers for himself.
+      Talos and Andalla invaded Alye'adu, seeking to seize the changelings' shapeshifting power.
   - session: "13e04"
     content: |
-      The SPI defeated the shapeshifters who attacked the village; learned that changelings are permanently dead if slain, with no resurrection possible.
+      The agents learned that changelings are dead forever once slain. Many in Alye'adu considered the white crane a beneficial "force of nature"; Isis had been deposed as leader for speaking against it.
   - session: "14e00"
     content: |
       Present in the village; Marigold Cogsworth is identified as a changeling maintaining a mind-link.

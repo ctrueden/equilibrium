@@ -6,10 +6,6 @@ statbox:
   race: dwarf
   gender: female
   case: "03"
-descriptions:
-  - session: "14e00"
-    content: |
-      Encountered on Hollerd's farm; attempted to prevent the agents from arresting him.
 ---
 
 A farm hand on [Hollerd Aldrimor](hollerd-aldrimor)'s farm, who the [SPI agents](../orgs/spi) encountered while pursuing Hollerd to arrest him. She met them at the edge of the property, and told the agents Hollerd was not home, but they could tell she was lying. [Sima](sima) recognized Ironroot as from her village, but Tasper did not seem to recognize her in return. The agents entered the premises over her objections, and apprehended Hollerd.

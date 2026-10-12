@@ -34,13 +34,13 @@ statbox:
 descriptions:
   - session: "14e01"
     content: |
-      The underground necropolis where the SPI is summoned; described as having a delicate balance of power the SPI must not disrupt.
+      Arallan representatives asked the SPI to investigate Evershroud Manor. Mallory warned that the balance of power among Arallu's three factions was delicate, and that upsetting it could be a disaster.
   - session: "14e04"
     content: |
-      The underground undead realm beneath the manor where Invictus resides; described as a place that should never have existed.
+      Invictus urged the agents to burn it all down: "It should never have existed."
   - session: "14e05"
     content: |
-      The agents escaped the manor to find themselves trapped with no easy way home; attacked by undead forces outside.
+      Stranded outside Evershroud with no way home after Malachai's death, the agents were greeted by Lestache, then attacked by Malak and her vampires.
 ---
 A terrifying undead realm to the southwest, about which little is known.
 

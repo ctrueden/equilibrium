@@ -45,10 +45,10 @@ descriptions:
       The underground Arallan necropolis where an incident occurred that prompted the SPI summons.
   - session: "15e00"
     content: |
-      The underground vampire city where Lestache rules; Bilbo provided shelter to the SPI team in a garlic-blessed safehouse protected by talismans of Nerull.
+      The underground vampire city, where Bilbo gave the agents a flying carpet tour, pointing out the residences of Malak the Mad and Enoch the Wise, and sheltered them in his garlic-ringed home.
   - session: "15e02"
     content: |
-      Site of the vampire ball hosted by Lestache where multiple clan leaders gathered and the Hunt was announced.
+      Lestache's ball at the Château de Mécant gathered the clan heads of the Council of Seven, for a gladiatorial event and a hunt.
 ---
 
 A sprawling and labyrinthine necropolis located in eastern [Arallu](arallu).

@@ -8,6 +8,10 @@ statbox:
   locale: alyeadu
   case: "13"
   pronunciation: "MEER-gah"
+descriptions:
+  - session: "17e01"
+    content: |
+      Goblin who, with a long-suffering sigh, led the agents to Anorje in the woods, guarding her, and got herbs from Anorje for Cal's pain, impressed by his stoicism.
 ---
 
 An [Alye'adu](../locales/alyeadu) villager. Anchor of [Grimma Kral'mok](grimma-kralmok).

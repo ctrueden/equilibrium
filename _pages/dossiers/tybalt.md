@@ -11,25 +11,31 @@ statbox:
 descriptions:
   - session: "01e01"
     content: |
-      Canvassed the area around the murder victim's apartment, gathering witness statements about suspicious activity.
+      Canvassed the area around Dartan Winterfrost's apartment, and found a young boy who had seen a hooded figure being let into the apartment on the night of the murder.
   - session: "07e02"
     content: |
-      Mysterious guest at the auction who bonded his soul to another for certain powers. Checked the perimeter with Freki.
+      Attending the auction for his patron Janus Ilaris, he told Freki he had teleported in invisibly, having bonded his soul to another in exchange for certain powers. The two then checked the perimeter together.
   - session: "07e03"
     content: |
-      Channeled the ghost Janus Ilaris during the private meeting, becoming a marionette-like vessel.
+      Channeled his patron Janus Ilaris for Janus's private negotiation, hanging like a marionette with dead eyes. Afterward, he apologized to Cal for his patron's rudeness, and offered to compare notes.
   - session: "12e02"
     content: |
-      Awaited the party at the elven dwelling, revealing the terrible truth of the tree-melded—elves being consumed by the World Tree to sustain its life.
+      Woke Bec at the start of her rest. Asked what his patron was doing to help, he said he could only carry out his patron's will, but offered to use that leverage to get the agents a meeting with the Queen, and to help however he could.
   - session: "12e06"
     content: |
-      Sent messages about finding the Necronomicon on the forest floor and a warforged searching the area.
+      Sent word to Cal that the Book had been found on the forest floor, the Tree was getting worse, and the Queen was deathly ill, and that the Warforged was searching the area.
   - session: "12e07"
     content: |
-      Sent messages updating the party on the druid's lair location, Sima's death, and the infected Queen's awakening.
+      Sent word to Cal that the druid's lair had been found near the elderly tree-melded, with Sima dead and chained inside, and another Sima captured; that the infected Queen was awakening; and that the agents should beware a creature of vermin.
   - session: "12e09"
     content: |
-      Interrogated Sima and kept the Necronomicon secure in the royal vault while the Tree deteriorated.
+      Impatiently answered Callie's sending while busy interrogating Sima: the Queen remained in her chambers, and the Book was safe in the royal vault, away from her. Leave it alone.
+  - session: "12e10"
+    content: |
+      Was waiting at the treasury entrance when the agents came for the Book, and looked angrily at Sartus: "I knew you wouldn't listen to me."
+  - session: "12e11"
+    content: |
+      An illusory Tybalt, a shadow conjuration, manifested Janus at the treasury entrance. Bec's dispel magic on the unconscious illusion collapsed the spell.
 ---
 
 An often one-eyed half-elf with a demonstrated magical knack. Left the

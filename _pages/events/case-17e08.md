@@ -39,7 +39,7 @@ None of the giants follow him.
 
 "Go get your master, Tons of Fun!" Oz snaps.
 
-As he passes by, a [goliath](../creatures/goliath) in another barracks room steps forward and quietly closes her door.
+As he passes by, a [goliath](../creatures/goliaths) in another barracks room steps forward and quietly closes her door.
 
 "My lord, my lord! The broodmother is free!" says the giant who was tearassing around before. Oz sees this is true: she has curled herself all the way around a hill giant and is chomping down on it like a stick of beef jerky. A giant starts to stir from where he was unconscious on the ground. The broodmother stops eating long enough to barf lightning and disintegrate his head clean off.
 

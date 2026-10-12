@@ -8,6 +8,10 @@ statbox:
   race: orc
   gender: male
   case: "03"
+descriptions:
+  - session: "03e03"
+    content: |
+      According to Bruck, he was off on a midnight liaison with his "friend" on the night of Gurin's death.
 ---
 
 TODO

@@ -9,15 +9,18 @@ statbox:
   gender: male
   case: "07"
 descriptions:
+  - session: "07e02"
+    content: |
+      The second guest to enter private negotiations.
   - session: "07e04"
     content: |
-      Revealed to be the thief who stole the Necronomicon. Accused of Tremere's murder by the corpse, though he may have been framed.
+      Turned down offers from Sartus and Invictus to obtain a bothersome item, but a hint that he had obtained it once before sent Tremere storming out. He joined the procession to the body claiming to have fought skulls in the Preservatory. Callie, convinced he had stolen the Necronomicon and her family heirloom, made him empty his pockets: he produced quantum-linked magic chalk of his own Flux-harnessing design, which had gotten him kicked out of wizard college, but no puzzlebox. Tremere's corpse then named him as the murderer.
   - session: "07e05"
     content: |
-      Attempted to escape during the chaos of the plant attack but was caught by the party and restrained.
+      Slipped away unnoticed, apparently invisible, while the others fought the plant, but Cal tripped him with his whip in the zombie-filled doorway. Tied up and dragged back to the study, he conceded: "I almost made it. I guess it's time to make a deal."
   - session: "09e01"
     content: |
-      Found dead in the flux realm with his heart removed in the same manner as Tremere's murder.
+      Found dead in the Flux, his heart cut out in the same manner as Tremere's, with a twisted little creature in Priscilla Stormcloud's clothes eating it. The agents took his body with them.
 ---
 
 A disgraced magical-scholar-turned-criminal who developed forbidden Flux-based magic. Used his *flux entanglement* spell to link pieces of chalk, so that he could draw teleportation circles remotely to steal valuable objects, including the Rockwell family's Puzzlebox, believed to be one of eight relics somehow central to the integrity of reality itself. Also developed *flux disjunction* beads for use in a pinch, and crafted a *dimensional knife* using similar techniques. Believed to have killed Dominic Tremere in self defense, then attempted to frame Bram the Blithe. Later found dead within a bizarre crystalline Flux realm paralleling normal reality. Neither the Puzzlebox nor his spellbook have been recovered.

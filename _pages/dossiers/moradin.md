@@ -43,10 +43,13 @@ links:
 descriptions:
   - session: "14e03"
     content: |
-      Appeared to Vondal as a metaphysically huge dwarf-sized divine entity in the mirror, representing divine intervention in past events.
+      In the mirror beyond the portal, Vondal saw himself trigger a wild magic surge that sucked the agents into a singularity produced by the Arkenstone, which a dwarf-sized but metaphysically huge entity, Moradin, ended by divine intervention.
+  - session: "15e00"
+    content: |
+      Vondal said that the god of dwarves came when the experiments on the Arkenstone destroyed SPI HQ.
   - session: "15e07"
     content: |
-      Appeared in Cal's vision forging the Arkenstone into a sword while speaking of making people remember.
+      In Cal's vision at the middle stained glass window, Moradin, in full steampunk armor, forged the Arkenstone into a sword: "Mother... we will make them remember..."
 ---
 
 ## Precepts

@@ -6,6 +6,13 @@ statbox:
   race: yikarian
   gender: male
   case: "06"
+descriptions:
+  - session: "06e05"
+    content: |
+      Ancient yikarian diviner and leader of the Stormherd, received in a pavilion with a four-post bed, a spell book and a scrying pool. His nefarious intentions became clear, and Bec realized he had orchestrated Kavaki's possession, watching through his pool. When the agents tried to flee, he pulled the Flux Capacitor from under his pillow ("Behold the union of the elements!") and moved to break it.
+  - session: "06e06"
+    content: |
+      Broke the Flux Capacitor even as Cal made it fade from reality, then used his genie's final wish to retrieve it from before its destruction. He grew into a monstrous, many-headed abomination, sprouting first "sane" and then "insane" heads and crushing his own guards, until the agents destroyed him in an explosion of guts, blood and chaotic magic.
 ---
 
 Elder of the [Stormherd](../orgs/stormherd) tribe of

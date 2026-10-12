@@ -15,10 +15,16 @@ statbox:
 descriptions:
   - session: "12e05"
     content: |
-      Appeared to the party in the Feywild, revealed her impending death, and made binding oaths with several party members.
+      Summoned the agents in a shared dream to her table in the Feywild, where she offered the help of the Seelie and Unseelie Courts in exchange for oaths: service from the feytouched, exile from Elyria for the godtouched. She sadly told Cal that in seven days she would no longer be able to enforce an oath, which the more empathic agents took to mean she expected to die. Shown the blighted spot where the beetles had burrowed, she reached deep into the ground, hissing "I feel you... you will pay!", until mushroom tendrils raced up her arm; Freki swung to sever it, tripped, and struck her head.
+  - session: "12e06"
+    content: |
+      Tybalt reported that the Queen was deathly ill.
+  - session: "12e07"
+    content: |
+      Tybalt warned that the infected Queen was awakening, which spelled doom.
   - session: "12e12"
     content: |
-      Was possessed by Zuggtmoy and chained to her throne with cold iron; freed when Vondal cast banishment to expel the entity.
+      Possessed by Zuggtmoy, she was chained to her throne with roots wrapped in cold iron. Vondal's banishment, empowered by Feymist, drove the entity out of her as an enormous black ooze, which Freki obliterated; Celes found no trace of evil left in her, and the agents freed her from her chains.
 ---
 
 Queen of the [Fae](../creatures/fey).

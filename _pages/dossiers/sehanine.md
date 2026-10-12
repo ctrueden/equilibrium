@@ -66,7 +66,7 @@ links:
 descriptions:
   - session: "14e04"
     content: |
-      Appeared as a dark-skinned elf visible only to Bec, standing next to the Celestial Hand; whispered to put it on.
+      A dark-skinned elf in leathers, of the night, visible only to Bec, appeared beside her in the Hand's chamber and whispered, "Put it on."
 ---
 
 ## Precepts

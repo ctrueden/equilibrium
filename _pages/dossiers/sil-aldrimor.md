@@ -11,13 +11,16 @@ statbox:
 descriptions:
   - session: "03e01"
     content: |
-      Niece of Gurin and sister to Hollerd and Bronce; witnessed fighting subterranean goblinoids at the Army barracks.
+      Gurin's niece, a general of the dwarven army. The agents found her and Bronce at the barracks, fighting subterranean goblinoids and zombies.
+  - session: "03e02"
+    content: |
+      With Bronce, decided to destroy Gurin's zombified corpse: she cut off its head and burned the body.
   - session: "09e04"
     content: |
-      Former dwarven general of the armies, now stoic and silent, part of the MAD contingent seizing SPI HQ.
+      Former general of the dwarven armies, now dour and stoic, who arrived with the MAD posse to evict the SPI from HQ, and stayed silent throughout.
   - session: "14e00"
     content: |
-      No longer in charge of the dwarven lands; replaced by another leader.
+      Squeaks reported that she was no longer in charge in the dwarven lands.
 ---
 
 [Gurin](gurin-aldrimor)'s niece, sister to [Hollerd](hollerd-aldrimor) and

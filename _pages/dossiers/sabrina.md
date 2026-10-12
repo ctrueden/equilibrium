@@ -19,16 +19,13 @@ statbox:
 descriptions:
   - session: "06e03"
     content: |
-      Young entity with reality-warping powers who befriended Kavaki. Saved Callie from a fireball explosion using time manipulation and protective magic.
-  - session: "06e05"
+      A mischievous but friendly child, who stopped time to save Callie from Vondal's wild-magic fireball ("You should be more careful"). She explained that she sculpts karach, which forms where the Flux is strong, and had made a karach weapon for her friend Kavaki at Kavaki's insistence. At the SPI's request, she reached out to Kavaki psychically, draining herself and knocking Freki unconscious.
+  - session: "06e04"
     content: |
-      Accompanied the party south to search for the location where Kavaki was attacked.
-  - session: "06e06"
-    content: |
-      Fought alongside the SPI against the demonic manifestation created during the Flux Capacitor's destruction.
+      Channeled immense psychic energy to transplant Kavaki's Flux tattoos onto the agents, as Cal directed, warping reality in the process.
   - session: "13e04"
     content: |
-      Appeared at Alye'adu riding on an iron golem after the battle, revealed to be a githzerai with mysterious psionic powers affecting the village's memory.
+      Arrived on Mengiris's shoulder to take Talos and Andalla away. Bec suggested she might be a githzerai, which could explain the psionic-feeling effect that had disabled the villagers.
 ---
 
 TODO

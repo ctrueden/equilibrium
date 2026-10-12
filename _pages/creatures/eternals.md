@@ -7,10 +7,10 @@ image-source: https://forgottenrealms.fandom.com/wiki/Deity
 descriptions:
   - session: "13e04"
     content: |
-      The SPI party members were revealed by Talos to be 'godlings' with divine essence that he and his followers hunted, offering them a choice to join the Malosi or face destruction.
+      Talos called the agents godlings, saying they stank of the gods, and that if they became like "the others," he would have to kill them. He stole something of that divine essence from Bec and Cal.
   - session: "14e03"
     content: |
-      Referenced through the divine map chart; depicted as gods with specific elemental and domain associations.
+      In Invictus's study, a chart mapped the gods (and the agents and their associates) onto pairs of elements and magic domains; the agents spent quite some time working it out.
 ---
 
 The eternals, commonly worshipped as deities[*](https://dungeonsdragons.fandom.com/wiki/Deity), are the beings that built the modern world. Many continue to participate in its growth and development. Some are newcomers seeking to claim a place amongst the divinity.

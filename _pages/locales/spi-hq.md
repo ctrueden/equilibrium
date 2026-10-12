@@ -11,25 +11,25 @@ title: SPI Headquarters
 descriptions:
   - session: "02e02"
     content: |
-      SPI agents returned to headquarters for debriefing and to obtain supplies for dealing with petrification threats.
+      The agents returned to discuss the cases and the book with Mallory, and to pick up supplies for dealing with petrification.
   - session: "09e01"
     content: |
       The SPI's headquarters which the party discovered in the crystalline flux realm while riding the Yachtopus.
   - session: "10e05"
     content: |
-      Found to be corrupted by a demiplane of earth and besieged by demonic forces including a nightmare tree.
+      The agents teleported into HQ to find it corrupted: an undead branch crying out for water, an evil, root-shedding desk in Mallory's old office, and a bulging wall of elemental earth over the hole in Cassandra's lab. Beyond the earthen barrier, on a hilltop, waited a nightmare tree, a hezrou demon, and a chasme demon.
   - session: "12e01"
     content: |
-      Suffered a break-in; the Arkenstab was stolen and the crystalline flux rift was mysteriously repaired with karach.
+      Burglarized: the agents returned to find Cal's sword stolen, the crystalline Flux rift repaired with karach, and a mysterious monkey statue in the sword's place. They secured HQ by changing its teleportation sigil sequence.
   - session: "14e00"
     content: |
-      Mentioned as being mostly repaired; used as the agents' base of operations.
+      The agents told Mallory it was more or less repaired.
   - session: "16e09"
     content: |
-      The trapdoor to the Flux chamber beneath SPI HQ sealed itself after agents returned; only a faint spiritual whooshing remains detectable from within the now-inaccessible chamber.
+      Callie's word of recall brought the agents back to her shrine at HQ. Bec listened at the basement trap door, hearing only a spiritual whooshing, and closed it; it vanished without a seam.
   - session: "16e01"
     content: |
-      SPI discovered an otherworldly chamber beneath their headquarters where reality and the Flux converge, protected by an invisible forcefield that permits only those with Flux affinity to pass freely.
+      The trap door in the basement, which only Bec could open with the Celestial Hand, led past an invisible forcefield that Ozborn, Cassandra and the agents could pass through but Mallory could not, down to a realm resembling the Afterworld. Cassandra, who had found the building for the SPI, was sure it was safe.
 image-map: /equilibrium/assets/images/spi-map.jpg
 ---
 

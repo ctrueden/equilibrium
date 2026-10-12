@@ -11,10 +11,10 @@ statbox:
 descriptions:
   - session: "12e11"
     content: |
-      An elven guard captain who was convinced by the party to help them cleanse the Necronomicon of its evil writings.
+      Elite elven guard at the treasury, who warned that taking the Book would do immeasurable harm, but was convinced to help the agents cleanse it.
   - session: "12e12"
     content: |
-      Swore a vow to protect the Queen, fought in the throne room, and cast remove curse on the Book to complete its cleansing.
+      Sworn to protect the Queen and wanting revenge for Sartus, she tree strode with the agents to the throne room, where she quietly suggested banishment. Bladesinging, she tripped into the black ooze. Afterward, her remove curse fully cleansed the Book.
 ---
 
 One of the elven queen's bodyguards.

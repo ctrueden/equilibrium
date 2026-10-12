@@ -12,10 +12,10 @@ statbox:
 descriptions:
   - session: "03e01"
     content: |
-      Found dead in his quarters with necromancy traces; investigation revealed a sabotaged life clock and a poisoning.
-  - session: "14e00"
+      Elderly leader of Clan Aldrimor, found zombified in his locked room, his family life clock stopped at 3:32 with its mechanism broken. His family reluctantly allowed the agents to subdue him. He had been due to meet his longtime rival Mungus Wrathborn that day, to reconcile.
+  - session: "03e02"
     content: |
-      Mentioned as the uncle poisoned by Hollerd in a past SPI case.
+      Sil cut the head off his zombified corpse, and Bronce and Sil burned the body in the fireplace.
 ---
 
 Victim of [Punctuality and Perpetuity](../events/case-03).

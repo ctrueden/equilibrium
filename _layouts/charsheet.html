@@ -180,6 +180,13 @@
       }
 
       /* HP bar */
+      .cs-ac-note {
+        font-size: 0.68rem;
+        color: #777;
+        text-align: center;
+        margin-bottom: 4px;
+      }
+
       .cs-hp-row {
         display: flex;
         gap: 4px;
@@ -265,6 +272,7 @@
       .cs-feature-name { }
       .cs-feature-source { font-size: 0.6rem; color: #999; text-transform: uppercase; flex-shrink: 0; }
       .cs-feature-uses { font-size: 0.68rem; color: #666; font-style: italic; flex-shrink: 0; }
+      .cs-feature-list li > span:last-child { display: flex; gap: 0.5em; align-items: baseline; flex-shrink: 0; }
 
       /* Spellcasting bar */
       .cs-spell-bar {
@@ -313,7 +321,104 @@
   <body>
     {% include nav %}
 
+    {%- comment -%}
+      Derived statistics. Most values on the sheet are computed from the
+      ability scores, proficiency bonus, and proficiency lists; each
+      computed value can be adjusted via cs.bonuses, or overridden outright
+      by specifying it directly (e.g. cs.initiative, cs.spell_dc).
+    {%- endcomment -%}
     {%- assign cs = page.cs -%}
+    {%- assign bonus = cs.bonuses -%}
+    {%- assign checks_bonus = bonus.checks | plus: 0 -%}
+
+    {%- comment -%} Proficiency bonus: explicit, else by level, else by CR. {%- endcomment -%}
+    {%- if cs.proficiency -%}
+      {%- assign prof = cs.proficiency | plus: 0 -%}
+    {%- else -%}
+      {%- assign prof_basis = cs.level | default: cs.cr | plus: 0 | at_least: 1 -%}
+      {%- assign prof = prof_basis | minus: 1 | divided_by: 4 | plus: 2 -%}
+    {%- endif -%}
+    {%- assign half_prof = prof | divided_by: 2 -%}
+
+    {%- comment -%} Proficiency lists, normalized to "|key|key|" strings. {%- endcomment -%}
+    {%- assign prof_saves = "|" -%}
+    {%- for s in cs.saves -%}
+      {%- assign k = s | downcase | slice: 0, 3 -%}
+      {%- assign prof_saves = prof_saves | append: k | append: "|" -%}
+    {%- endfor -%}
+    {%- assign prof_skills = "|" -%}
+    {%- for s in cs.skills -%}
+      {%- assign k = s | downcase | remove: " " | remove: "_" | remove: "-" -%}
+      {%- assign prof_skills = prof_skills | append: k | append: "|" -%}
+    {%- endfor -%}
+    {%- assign expert_skills = "|" -%}
+    {%- for s in cs.expertise -%}
+      {%- assign k = s | downcase | remove: " " | remove: "_" | remove: "-" -%}
+      {%- assign expert_skills = expert_skills | append: k | append: "|" -%}
+    {%- endfor -%}
+
+    {%- comment -%} Skill bonuses; perception is needed for the passive score. {%- endcomment -%}
+    {%- assign skill_rows = "" -%}
+    {%- for sk in site.data.dnd.skills -%}
+      {%- assign needle = "|" | append: sk.key | append: "|" -%}
+      {%- assign v = cs.abilities[sk.ability] | minus: 10 | divided_by: 2 | plus: checks_bonus -%}
+      {%- if expert_skills contains needle -%}
+        {%- assign v = prof | times: 2 | plus: v -%}
+        {%- assign marker = "◉" -%}
+      {%- elsif prof_skills contains needle -%}
+        {%- assign v = v | plus: prof -%}
+        {%- assign marker = "●" -%}
+      {%- elsif cs.jack_of_all_trades -%}
+        {%- assign v = v | plus: half_prof -%}
+        {%- assign marker = "◐" -%}
+      {%- else -%}
+        {%- assign marker = "" -%}
+      {%- endif -%}
+      {%- for pair in bonus.skills -%}
+        {%- assign k = pair[0] | downcase | remove: " " | remove: "_" | remove: "-" -%}
+        {%- if k == sk.key -%}{%- assign v = v | plus: pair[1] -%}{%- endif -%}
+      {%- endfor -%}
+      {%- if sk.key == "perception" -%}{%- assign perception = v -%}{%- endif -%}
+      {%- capture row -%}
+        <div class="row">
+          <span class="bonus">{% include bonus value=v %}</span>
+          <span class="marker">{{ marker }}</span>
+          <span>{{ sk.name }} <span class="ability-tag">({{ sk.ability | upcase }})</span></span>
+        </div>
+      {%- endcapture -%}
+      {%- assign skill_rows = skill_rows | append: row -%}
+    {%- endfor -%}
+
+    {%- assign dex_mod = cs.abilities.dex | minus: 10 | divided_by: 2 -%}
+    {%- if cs.initiative -%}
+      {%- assign initiative = cs.initiative -%}
+    {%- else -%}
+      {%- assign init_val = dex_mod | plus: checks_bonus | plus: bonus.initiative -%}
+      {%- if cs.jack_of_all_trades -%}{%- assign init_val = init_val | plus: half_prof -%}{%- endif -%}
+      {%- capture initiative -%}{% include bonus value=init_val %}{%- endcapture -%}
+    {%- endif -%}
+    {%- if cs.passive_perception -%}
+      {%- assign passive_perception = cs.passive_perception -%}
+    {%- else -%}
+      {%- assign passive_perception = perception | plus: 10 | plus: bonus.passive_perception -%}
+    {%- endif -%}
+
+    {%- comment -%} Spellcasting. {%- endcomment -%}
+    {%- if cs.spell_ability and cs.spell_ability != "" -%}
+      {%- assign spell_key = cs.spell_ability | downcase | slice: 0, 3 -%}
+      {%- for a in site.data.dnd.abilities -%}
+        {%- if a.key == spell_key -%}{%- assign spell_ability_name = a.name -%}{%- endif -%}
+      {%- endfor -%}
+      {%- assign spell_mod = cs.abilities[spell_key] | minus: 10 | divided_by: 2 -%}
+      {%- assign spell_atk_val = spell_mod | plus: prof | plus: bonus.spell -%}
+      {%- if cs.spell_atk -%}
+        {%- assign spell_atk = cs.spell_atk -%}
+      {%- else -%}
+        {%- capture spell_atk -%}{% include bonus value=spell_atk_val %}{%- endcapture -%}
+      {%- endif -%}
+      {%- assign spell_dc = spell_atk_val | plus: 8 -%}
+      {%- if cs.spell_dc -%}{%- assign spell_dc = cs.spell_dc -%}{%- endif -%}
+    {%- endif -%}
 
     <div class="charsheet">
 
@@ -325,7 +430,13 @@
           <div class="cs-header-field">
             <span>Class &amp; Level</span>
             <span>
-              {{ cs.class }}{% if cs.level %} {{ cs.level }}{% endif %}
+              {%- comment -%} Omit the level if the class line already has levels (multiclass). {%- endcomment -%}
+              {%- assign class_has_level = false -%}
+              {%- for d in (0..9) -%}
+                {%- assign ds = d | append: "" -%}
+                {%- if cs.class contains ds -%}{%- assign class_has_level = true -%}{%- endif -%}
+              {%- endfor -%}
+              {{ cs.class }}{% if cs.level and class_has_level == false %} {{ cs.level }}{% endif %}
               {%- if cs.subclass %} ({{ cs.subclass }}){% endif %}
             </span>
           </div>
@@ -361,7 +472,7 @@
 
           <div class="cs-header-field">
             <span>Proficiency Bonus</span>
-            <span>{{ cs.proficiency }}</span>
+            <span>{% include bonus value=prof %}</span>
           </div>
         </div>
       </div>
@@ -374,11 +485,13 @@
 
           <!-- Ability Scores -->
           <div class="cs-abilities">
-            {%- for a in cs.abilities -%}
+            {%- for a in site.data.dnd.abilities -%}
+            {%- assign score = cs.abilities[a.key] -%}
+            {%- assign m = score | minus: 10 | divided_by: 2 -%}
             <div class="cs-ability">
-              <span class="cs-ability-name">{{ a.name }}</span>
-              <span class="cs-ability-mod">{{ a.mod }}</span>
-              <span class="cs-ability-score">{{ a.score }}</span>
+              <span class="cs-ability-name">{{ a.abbr }}</span>
+              <span class="cs-ability-mod">{% include bonus value=m %}</span>
+              <span class="cs-ability-score">{{ score }}</span>
             </div>
             {%- endfor -%}
           </div>
@@ -387,11 +500,14 @@
           <div class="cs-section">
             <div class="cs-section-label">Saving Throws</div>
             <div class="cs-saves-list">
-              {%- for s in cs.saves -%}
+              {%- for a in site.data.dnd.abilities -%}
+              {%- assign needle = "|" | append: a.key | append: "|" -%}
+              {%- assign v = cs.abilities[a.key] | minus: 10 | divided_by: 2 | plus: bonus.saves -%}
+              {%- if prof_saves contains needle -%}{%- assign v = v | plus: prof -%}{%- endif -%}
               <div class="row">
-                <span class="bonus">{{ s.bonus }}</span>
-                <span class="marker">{% if s.prof %}●{% else %} {% endif %}</span>
-                <span>{{ s.name }}</span>
+                <span class="bonus">{% include bonus value=v %}</span>
+                <span class="marker">{% if prof_saves contains needle %}●{% else %} {% endif %}</span>
+                <span>{{ a.name }}</span>
               </div>
               {%- endfor -%}
             </div>
@@ -401,20 +517,14 @@
           <div class="cs-section">
             <div class="cs-section-label">Skills</div>
             <div class="cs-skills-list">
-              {%- for sk in cs.skills -%}
-              <div class="row">
-                <span class="bonus">{{ sk.bonus }}</span>
-                <span class="marker">{{ sk.marker }}</span>
-                <span>{{ sk.name }} <span class="ability-tag">({{ sk.ability }})</span></span>
-              </div>
-              {%- endfor -%}
+              {{ skill_rows }}
             </div>
           </div>
 
           <!-- Passive Perception -->
           <div class="cs-section">
             <div class="cs-passive">
-              <div class="cs-passive-val">{{ cs.passive_perception }}</div>
+              <div class="cs-passive-val">{{ passive_perception }}</div>
               <div class="cs-passive-label">Passive Wisdom<br />(Perception)</div>
             </div>
           </div>
@@ -432,7 +542,7 @@
                 <span class="cs-stat-label">Armor<br>Class</span>
               </div>
               <div class="cs-stat">
-                <span class="cs-stat-val">{{ cs.initiative }}</span>
+                <span class="cs-stat-val">{{ initiative }}</span>
                 <span class="cs-stat-label">Initiative</span>
               </div>
               <div class="cs-stat">
@@ -440,6 +550,9 @@
                 <span class="cs-stat-label">Speed</span>
               </div>
             </div>
+            {%- if cs.ac_note and cs.ac_note != "" -%}
+            <div class="cs-ac-note">AC: {{ cs.ac_note }}</div>
+            {%- endif -%}
           </div>
 
           <!-- HP / Hit Dice -->
@@ -447,7 +560,7 @@
             <div class="cs-hp-row">
               <div class="cs-hp-box">
                 <div class="cs-hp-label">Hit Points</div>
-                <div class="cs-hp-val">{{ cs.hp }} / {{ cs.hp_max }}</div>
+                <div class="cs-hp-val">{{ cs.hp | default: cs.hp_max }} / {{ cs.hp_max }}</div>
               </div>
               <div class="cs-hp-box narrow">
                 <div class="cs-hp-label">Hit Dice</div>
@@ -462,14 +575,14 @@
           <!-- Spellcasting (if applicable) -->
           {%- if cs.spell_ability and cs.spell_ability != "" -%}
           <div class="cs-section">
-            <div class="cs-section-label">Spellcasting ({{ cs.spell_ability }})</div>
+            <div class="cs-section-label">Spellcasting ({{ spell_ability_name | default: cs.spell_ability }})</div>
             <div class="cs-spell-bar">
               <div class="cs-stat">
-                <span class="cs-stat-val">{{ cs.spell_dc }}</span>
+                <span class="cs-stat-val">{{ spell_dc }}</span>
                 <span class="cs-stat-label">Spell Save DC</span>
               </div>
               <div class="cs-stat">
-                <span class="cs-stat-val">{{ cs.spell_atk }}</span>
+                <span class="cs-stat-val">{{ spell_atk }}</span>
                 <span class="cs-stat-label">Spell Atk Bonus</span>
               </div>
             </div>
@@ -498,10 +611,57 @@
               </thead>
               <tbody>
                 {%- for w in cs.weapons -%}
+                {%- comment -%}
+                  Attack bonus: literal w.atk; else a save DC (w.save) against
+                  the spell DC; else computed from w.ability (an ability key,
+                  "finesse" for the better of STR/DEX, or "spell").
+                  Damage: literal w.dmg; else w.dice plus the ability modifier
+                  (not for spells, unless w.dmg_mod) and any magic/bonus.
+                {%- endcomment -%}
+                {%- assign w_ability = w.ability | downcase -%}
+                {%- if w_ability == "finesse" -%}
+                  {%- if cs.abilities.dex > cs.abilities.str -%}{%- assign w_ability = "dex" -%}{%- else -%}{%- assign w_ability = "str" -%}{%- endif -%}
+                {%- endif -%}
+                {%- if w_ability == "spell" -%}
+                  {%- assign w_mod = spell_mod -%}
+                  {%- assign w_atk = spell_atk_val -%}
+                {%- else -%}
+                  {%- assign w_key = w_ability | slice: 0, 3 -%}
+                  {%- assign w_mod = cs.abilities[w_key] | minus: 10 | divided_by: 2 -%}
+                  {%- assign w_atk = w_mod -%}
+                  {%- unless w.prof == false -%}{%- assign w_atk = w_atk | plus: prof -%}{%- endunless -%}
+                {%- endif -%}
+                {%- assign w_atk = w_atk | plus: w.magic | plus: w.atk_bonus -%}
+                {%- if w.atk -%}
+                  {%- assign atk = w.atk -%}
+                {%- elsif w.save -%}
+                  {%- capture atk -%}DC {{ spell_dc }} {{ w.save | capitalize }}{%- endcapture -%}
+                {%- elsif w.ability -%}
+                  {%- capture atk -%}{% include bonus value=w_atk %}{%- endcapture -%}
+                {%- else -%}
+                  {%- assign atk = "" -%}
+                {%- endif -%}
+                {%- if w.dmg -%}
+                  {%- assign dmg = w.dmg -%}
+                {%- elsif w.dice -%}
+                  {%- assign dmg_mod = 0 -%}
+                  {%- if w.ability and w.dmg_mod != false -%}
+                    {%- if w_ability != "spell" or w.dmg_mod -%}{%- assign dmg_mod = w_mod -%}{%- endif -%}
+                  {%- endif -%}
+                  {%- assign dmg_mod = dmg_mod | plus: w.magic | plus: w.dmg_bonus -%}
+                  {%- capture dmg -%}
+                    {{- w.dice -}}
+                    {%- if dmg_mod > 0 -%}+{{ dmg_mod }}{%- elsif dmg_mod < 0 -%}{{ dmg_mod }}{%- endif -%}
+                    {%- if w.type %} {{ w.type }}{% endif -%}
+                    {%- if w.extra %} {{ w.extra }}{% endif -%}
+                  {%- endcapture -%}
+                {%- else -%}
+                  {%- assign dmg = "" -%}
+                {%- endif -%}
                 <tr>
                   <td>{{ w.name }}</td>
-                  <td class="atk">{{ w.atk }}</td>
-                  <td>{{ w.dmg }}</td>
+                  <td class="atk">{{ atk }}</td>
+                  <td>{{ dmg }}</td>
                   <td>{{ w.range }}</td>
                 </tr>
                 {%- if w.props and w.props != "" -%}

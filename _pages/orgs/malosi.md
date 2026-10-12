@@ -1,6 +1,10 @@
 ---
 nav-title: Malosi
 title: The Malosi
+descriptions:
+  - session: "06e03"
+    content: |
+      The compass led the agents to the Malosi's tree portal, guarded by the dragon shaman Andalla, who warned that their chieftain Talos would kill trespassers.
 ---
 
 A Selva tribe that prizes strength above all else.

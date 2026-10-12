@@ -12,10 +12,10 @@ statbox:
 descriptions:
   - session: "13e04"
     content: |
-      An Alye'adu priestess who cautioned Vondal and Bec to keep their knowledge of Talos's vendetta against Asmodeus secret.
+      Changeling of Alye'adu, whose double knows Talos: she told Vondal and Bec that Talos had attacked Asmodeus many times, and asked them to keep the conversation to themselves. She was shocked by Vondal's power when he wove a wild magic door.
   - session: "14e00"
     content: |
-      A magic user in the village who helped establish protective barriers around Mallory's healing space.
+      Raised a magical barrier around the whole house while the agents attempted to heal Mallory.
 ---
 
 An [Alye'adu](../locales/alyeadu) villager, and priestess of [Sehanine](../dossiers/sehanine). Anchor of [Felannia](felannia).

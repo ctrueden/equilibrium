@@ -10,7 +10,10 @@ statbox:
 descriptions:
   - session: "13e04"
     content: |
-      A young-looking Alye'adu villager who stole Vondal's ring but was given a cookie and a lecture about her misbehavior instead of punishment.
+      A villager who looks like a child, who pocketed Vondal's ring while munching his cookies. He made her give it back, and gave her another cookie and a grandpa lecture.
+  - session: "17e01"
+    content: |
+      Spent the day lifting things from the agents, and took up Callie's challenge to snag Vondal's pipe, reporting that it was smelly, very magical, and blessed by a djinn.
 ---
 
 An [Alye'adu](../locales/alyeadu) child who charmed [Vondal](vondal) while stealing several of his belongings.

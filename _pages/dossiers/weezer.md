@@ -10,7 +10,7 @@ statbox:
 descriptions:
   - session: "08e02"
     content: |
-      Kenku animal trainer who rescued Vondal from an otyugh in the trash heap.
+      Kenku who stopped an otyugh from eating Vondal, stole the ball bearing Ozborn offered Squatch, and accused the pixies of stealing his shiny disguise hat.
 ---
 
 Weezer is the monster tamer and trainer for the [Zombozo](zombozo) circus.

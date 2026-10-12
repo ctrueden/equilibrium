@@ -6,6 +6,19 @@ statbox:
   race: gnome
   gender: female
   case: "11"
+descriptions:
+  - session: "11e04"
+    content: |
+      Regent of Cognitutus who agreed to join the agents' mission, meeting them at the west gate, guns in hand.
+  - session: "11e05"
+    content: |
+      Armed the party with guns, including a heavy machine gun, a torpedo launcher, and the Crab's flamethrower, "Toasty." As the Streamcutter neared the Void, her sanity seemed increasingly questionable.
+  - session: "11e08"
+    content: |
+      Found unconscious, along with Vondal, Ozborn and Cal, when the aboleths' realm dissolved.
+  - session: "11e09"
+    content: |
+      Returned to Cognitutus with Lini to update the Board of Regents, which proclaimed her and the SPI heroes.
 ---
 
 One of the Cognitutus Board of Regents. Insightful but impatient.

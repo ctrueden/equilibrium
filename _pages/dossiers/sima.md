@@ -12,25 +12,31 @@ statbox:
 descriptions:
   - session: "01e01"
     content: |
-      Interrogated monster trainers at the Beastly Colosseum about their whereabouts on the night of the murder.
+      With Cal, questioned the monster trainers Argus Saravor and Bellamy Crue about their whereabouts on the night of Dartan Winterfrost's murder.
   - session: "04e03"
     content: |
-      Located a path to an elder brain and embedded both axes into its corrupted form, preventing it from merging all consciousness.
+      Guided by a mysterious vision of a specific path through the garbage tunnels, she led the agents to the elder brain's pool, and embedded both of her axes into it, dashing its hopes of becoming one with all of Aecus.
   - session: "10e04"
     content: |
-      Entity whose cessation is causing issues with the flux and reality stability in the Deepwood.
+      R. Martine Andrews reported that Sima "has ceased."
+  - session: "12e05"
+    content: |
+      In Callie's dormina dream, Sima said she could not pay her gambling debt until she was freed from captivity, and Callie saw her chained to a cave wall.
+  - session: "12e07"
+    content: |
+      Tybalt reported finding Sima dead, chained inside the druid's lair, while another Sima had been captured: one of them must be an imposter.
   - session: "12e09"
     content: |
-      Encountered being interrogated by Tybalt, apparently having been captured or possessed.
+      Tybalt was busy interrogating "Sima" when Callie contacted him.
   - session: "13e01"
     content: |
-      An imprint of Sima was discovered to be a doppelganger fleeing toward the Veldt, pursued by the SPI for six days.
+      The agents pursued a doppelganger in her likeness through the Selva.
   - session: "13e04"
     content: |
-      Her doppelganger imprint was offered the chance to imprint on Mallory after the SPI defeated Talos and Andalla at Alye'adu.
+      The agents wondered whether to recover Sima's body and try to revive her, as her doppelganger agreed to imprint on Mallory.
   - session: "14e00"
     content: |
-      Discussed as possibly deceased; the agents considered recovering her body for potential resurrection by Cassandra.
+      Mallory offered to put out feelers to recover her body from the elves, in case Cassandra could resurrect her.
 ---
 
 A dwarven ranger with an affinity for animals, who "is the muscle" and believes

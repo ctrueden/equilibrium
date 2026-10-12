@@ -10,7 +10,7 @@ statbox:
 descriptions:
   - session: "05e01"
     content: |
-      Used the Lamp of Seeming to manipulate victims into jumping from the Zenithal Summit platform.
+      Red dragonborn acolyte who, when Vondal's wild magic tore open a rift at the summit, dove in with the Lamp of Seeming and used it to become a white dragon, then attacked the temple; the agents and elemental masters slew him. His journal revealed a scheme of sacrificing people as part of a secret cult, to unclear ends.
 ---
 
 An acolyte of the [Progression of Symmetry](../orgs/progression-of-symmetry)

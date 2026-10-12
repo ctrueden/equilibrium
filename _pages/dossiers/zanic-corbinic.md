@@ -9,9 +9,12 @@ statbox:
   age: 73
   case: "03"
 descriptions:
+  - session: "03e03"
+    content: |
+      Expelled on suspicion of organizing a terrorist network, according to Rubinia Elka, and named as a potential affiliate of Esprit Repose in Vondal's secret file. When the agents sought him at the Brandywhistle, a hooded figure burst out the back door.
   - session: "03e04"
     content: |
-      Necromancer member of Esprit Repose who was cornered and defeated by SPI agents after orchestrating Gurin Aldrimor's death.
+      Fought the agents, and was killed once his surprisingly robust crawling claw had been torn apart by hounds and burned. The agents brought his body to King Durak.
 ---
 
 Zanic was a writer who believed that dwarven law is exploitative of the masses in favor of the Seven Clans, and wanted equality for everyone across the [Mountain and the Veldt](../locales/mountain). He was anti-patriarchy, anti-slavery and anti-monarchy. Zanic sought to dissolve the Seven Clans in favor of an all-inclusive democratic assembly, by launching a movement called the Free Dwarven Society.

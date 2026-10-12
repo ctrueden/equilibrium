@@ -9,19 +9,19 @@ session-date: 2026-04-04
 layout: session
 reviewed: false
 callie_journal: >-
-  In strange news, the clamulet that I gave Oz isn't...quite the same one? Because I still have the original one. The one Oz has is a SHAMULET. J'accuse! It still seems to have the same power to protect against undeadening, though.
+  In strange news, the clamulet that I gave [Oz](../dossiers/oz) isn't...quite the same one? Because I still have the original one. The one Oz has is a SHAMULET. J'accuse! It still seems to have the same power to protect against undeadening, though.
 
 
-  Vondal wanted to buy a Faewild crystal and it just so happens that Gavin has three in stock! (I rolled a 1 on luck)
+  [Vondal](../dossiers/vondal) wanted to buy a [Feywild](../locales/feywild) crystal and it just so happens that [Gavin](../dossiers/gavin-pepperpotts) has three in stock! (I rolled a 1 on luck)
 
 
   Gavin offered to sell it for cost (200 gold), but Vondal just gave me 300 and called it a day. So now I have an extra 100 GP in case we need it for anything. Also, in case I didn't write it down last time, we all got 300 gold in payment when we came back from the last mission.
 
 
-  We have a new colleague called Rendal Thistledown. There are some other new delegates, including ou old friend Bilbo. I'm glad he lived! I mean...of course he lived, I knew he'd be fine. Etria and Meerlinda are the others from Arralu. I should probably return the flying carpet we borrowed from Bilbo.
+  We have a new colleague called Rendal Thistledown. There are some other new delegates, including ou old friend [Bilbo](../dossiers/bilbo). I'm glad he lived! I mean...of course he lived, I knew he'd be fine. [Etria](../dossiers/etria-leduc) and [Meerlinda](../dossiers/meerlinda-descant) are the others from [Arallu](../locales/arallu). I should probably return the flying carpet we borrowed from Bilbo.
 
 
-  Mallory asks Cal whether he can deal with having vampire colleagues. Cal says he'll wait until when -- not if -- they betray us, then he will gladly dispatch them. I feel like any of the three of them will make traveling and camping really tense. Oz flashes the holy symbol he stole from Bilbo at me, and that really makes the case: it would just be too weird to try and travel with Bilbo. Like god-tier awkwardness. I can't deal with that, so I cast my vote for Etria.
+  [Mallory](../dossiers/mallory) asks [Cal](../dossiers/cal) whether he can deal with having vampire colleagues. Cal says he'll wait until when -- not if -- they betray us, then he will gladly dispatch them. I feel like any of the three of them will make traveling and camping really tense. Oz flashes the holy symbol he stole from Bilbo at me, and that really makes the case: it would just be too weird to try and travel with Bilbo. Like god-tier awkwardness. I can't deal with that, so I cast my vote for Etria.
 
 
   So there are these people who donate blood to vampires. They're called "blood dolls" and the relationship usually ends badly. Sometimes they drink the vampire's blood in return to gain power, or sometimes they're killed by the vampire. Mallory is concerned that Etria will try to make a deal like that with one of us, so we should watch out.
@@ -30,14 +30,14 @@ callie_journal: >-
   Roger the ghost butler pops his three heads out of the wall and announces "Someone left a half-eaten sandwich on the table. I took care of it." Then he melts back into the wall.
 
 
-  Our next mission is to meet with the new Trell administrator, Vex Morradine. He has asked for me by name, which is slightly alarming. We're to give Mallory a sending stone update as soon as we know more.
+  Our next mission is to meet with the new [Trell](../locales/trell) administrator, [Vex Morradine](../dossiers/vex-morradine). He has asked for me by name, which is slightly alarming. We're to give Mallory a sending stone update as soon as we know more.
 summary: >-
-  The party's time in the hidden changeling village of Alye'adu began with a
-  small but meaningful act of kindness. Ayina, a devoted cleric of Sehanine,
-  used her considerable healing gifts to restore Vondal's missing pinky finger,
+  The party's time in the hidden changeling village of [Alye'adu](../locales/alyeadu) began with a
+  small but meaningful act of kindness. [Ayina](../dossiers/ayinalef), a devoted cleric of [Sehanine](../dossiers/sehanine),
+  used her considerable healing gifts to restore [Vondal](../dossiers/vondal)'s missing pinky finger,
   the one he had lost in a previous ordeal. With that matter settled, the
   villagers turned their attention to the far more pressing concern of Vondal's
-  condition. After careful study, Anorje and the others concluded that Vondal
+  condition. After careful study, [Anorje](../dossiers/anorje-mistral) and the others concluded that Vondal
   suffered from a kind of temporal instability, a mysterious affliction that
   caused him to skip through time and space without warning, often reappearing
   somewhere entirely different from where he had vanished. The villagers
@@ -54,14 +54,14 @@ summary: >-
   flux, he should seek to cleanse it before attempting to sync again. Ayina then
   offered a quiet and stunning revelation about her own situation: her
   changeling partner had long since been corrupted by infernal influence and now
-  served as a fallen cleric of Asmodeus, operating among literal devils in the
-  city of Trell. It was only their monthly link that kept her partner sane,
+  served as a fallen cleric of [Asmodeus](../dossiers/asmodeus), operating among literal devils in the
+  city of [Trell](../locales/trell). It was only their monthly link that kept her partner sane,
   which was precisely why Ayina had devoted herself so completely to the moon
   goddess Sehanine — not out of personal calling, but out of love and necessity.
 
 
   With all of this understood, Vondal chose to proceed. The villagers gathered
-  in a wide circle around him and the dying changeling, Amisa, for emotional
+  in a wide circle around him and the dying changeling, [Amisa](../dossiers/amisa-swiftaxe), for emotional
   support and ritual tradition. Vondal and Amisa clasped arms, and then
   something extraordinary and deeply unsettling began to happen. Amisa's
   physical form started to flow into Vondal like slow-moving molasses, creeping
@@ -87,15 +87,15 @@ summary: >-
   versa.
 
 
-  Back at SPI headquarters, a different kind of experiment was underway in
-  Cassandra's laboratory. The researcher had a theory about soul extension
+  Back at [SPI](../orgs/spi) headquarters, a different kind of experiment was underway in
+  [Cassandra](../dossiers/cassandra)'s laboratory. The researcher had a theory about soul extension
   magic, and she had crafted crude but bejeweled statuettes of each field agent
   in hopeful anticipation of her hypothesis panning out. When she finally tested
-  the magic with Bec, it worked. The two women briefly became one — not in the
+  the magic with [Bec](../dossiers/bec), it worked. The two women briefly became one — not in the
   sense of losing themselves, but in the sense that something celestial and
   shared within them expanded outward, allowing Bec to cast magic she could
   normally only use on herself onto Cassandra instead. The group then attempted
-  to extend this link to three people simultaneously, with Bec holding Callie's
+  to extend this link to three people simultaneously, with Bec holding [Callie](../dossiers/callie)'s
   statuette and Cassandra clasping both of them, so that a powerful latent spell
   could be stored within Callie to trigger automatically under a specific
   condition. The party spent some time debating the most useful triggers —
@@ -104,10 +104,10 @@ summary: >-
 
 
   During this discussion, Callie made a quiet and unsettling realization. She
-  had given her protective amulet to Sophie Steelboots before Sophie fled into
+  had given her protective amulet to [Sophie Steelboots](../dossiers/sophie-steelboots) before Sophie fled into
   the night, and yet here it was, hanging around her neck. When she examined it
   closely, it was clear this was not her amulet at all — it was a near-perfect
-  copy, right down to the smallest detail, but unmistakably a knockoff. Ozborn,
+  copy, right down to the smallest detail, but unmistakably a knockoff. [Ozborn](../dossiers/oz),
   with characteristic bluntness, declared it a shamulet, and the name stuck
   immediately. The group speculated that it might have originated from one of
   the alternate versions of Callie that had been folded into existence during
@@ -123,21 +123,21 @@ summary: >-
   a hardy creature to the edge of death on a failed resistance, or dealing
   grievous harm to those who managed to resist. Ozborn dubbed it Murder Oil and
   carefully produced two doses, storing them in separate vials with the full
-  intention of putting them to use. Meanwhile, Freki spent his downtime with a
+  intention of putting them to use. Meanwhile, [Freki](../dossiers/freki) spent his downtime with a
   remarkable tome that permanently strengthened his body beyond what most
-  warriors could achieve, and Vondal acquired a rare Feywild Shard through
+  warriors could achieve, and Vondal acquired a rare [Feywild](../locales/feywild) Shard through
   Callie's magic emporium — a warm, sunset-colored crystal that could enhance
   his spellcasting in unpredictable and wondrous ways — for the reasonable price
   of three hundred gold.
 
 
-  After roughly ten days of rest and preparation, Mallory called the team
-  together for a formal briefing. He informed them that Xaryuvia had nominated
-  three representatives for the Aecus Concord: a shady character named Frokim
-  Stillwind for the diplomatic arm, Sophie Steelboots for the military arm, and
+  After roughly ten days of rest and preparation, [Mallory](../dossiers/mallory) called the team
+  together for a formal briefing. He informed them that [Xaryuvia](../locales/xaryuvia) had nominated
+  three representatives for the [Aecus Concord](../orgs/ac): a shady character named [Frokim
+  Stillwind](../dossiers/frokim-stillwind) for the diplomatic arm, Sophie Steelboots for the military arm, and
   a man named Wrendle Thistledown for the SPI branch, of whom Mallory spoke with
   cautious optimism. The mention of Frokim's name triggered a flash of memory —
-  Freki had spoken that name at the vampire ball in Arallu, and the party
+  Freki had spoken that name at the vampire ball in [Arallu](../locales/arallu), and the party
   recalled him as the trader who had delivered Sophie to be hunted. Ozborn
   stated plainly and without hesitation that he wanted to kill that man, a
   sentiment that was not entirely discouraged.
@@ -145,9 +145,9 @@ summary: >-
 
   Mallory then delivered the more complicated news: Arallu had also sent three
   representatives of their own, apparently motivated by a desire not to appear
-  politically outmaneuvered by Xaryuvia. The three were Etria Leduc, a Toreador
+  politically outmaneuvered by Xaryuvia. The three were [Etria LeDuc](../dossiers/etria-leduc), a Toreador
   vampire and skilled harpist the party had found surprisingly charming;
-  Meerlinda Descant, a Crispic vampire with unsettling dominion over the realm
+  [Meerlinda Descant](../dossiers/meerlinda-descant), a Crispic vampire with unsettling dominion over the realm
   of dreams; and Bilbo Dragonsworn, a halfling the party had previously left
   tied up and invisible in a locked room. The party was given the authority to
   choose which of the three would join their branch. Mallory acknowledged his
@@ -161,7 +161,7 @@ summary: >-
   The debate over which candidate to accept was lively. Meerlinda's dream
   manipulation made her an immediate liability — the thought of someone who
   could reshape reality through sleep living in the same building was
-  unanimously rejected. Bilbo was suspected of being a sleeper agent still under
+  unanimously rejected. [Bilbo](../dossiers/bilbo) was suspected of being a sleeper agent still under
   the vampires' control, though some argued that keeping him close, where they
   could monitor him, was preferable to sending him somewhere less watchful.
   Etria, the hedonistic harpist who had shown a certain flair and
@@ -178,57 +178,57 @@ summary: >-
   handled this with the weary patience of a man who had seen stranger things,
   and the matter was resolved without further incident. With the briefing
   concluded, Mallory presented the team with their next assignment. They were to
-  travel to the Trell branch office and meet with a new administrator named Vex
-  Morradine at one o'clock that afternoon — which, as the party noted, was
+  travel to the Trell branch office and meet with a new administrator named [Vex
+  Morradine](../dossiers/vex-morradine) at one o'clock that afternoon — which, as the party noted, was
   alarmingly soon. Most intriguingly, Mallory revealed that the client behind
   this new request had asked for Calumnystra Rockwell by name specifically, and
   he tasked the team with reporting back their impressions of Vex once they had
   met him. With barely enough time to gather themselves, the party set out
   toward Trell, carrying with them more questions than answers.
 short_summary: >-
-  The party's time in the changeling village of Alye'adu centered on Vondal's
+  The party's time in the changeling village of [Alye'adu](../locales/alyeadu) centered on [Vondal](../dossiers/vondal)'s
   mysterious temporal instability, an affliction causing him to skip through
   time and space without warning. After the villagers diagnosed his condition,
-  Vondal underwent a profound ritual bonding with the dying changeling Amisa,
+  Vondal underwent a profound ritual bonding with the dying changeling [Amisa](../dossiers/amisa-swiftaxe),
   whose physical form slowly merged into him over the course of an hour,
   exchanging fragmented memories before separating into an entirely new
   individual named Ladnov — an exact mirror of Vondal who thanked him warmly for
   saving his life. The bond required monthly syncing rituals in Alye'adu, with
-  strict warnings never to draw on flux energy during the process. Ayina offered
+  strict warnings never to draw on flux energy during the process. [Ayina](../dossiers/ayinalef) offered
   a stunning personal revelation of her own: her changeling partner had fallen
-  to infernal corruption and now served as a cleric of Asmodeus among devils in
-  Trell, kept sane only by their monthly link — the true reason behind her
-  devotion to the moon goddess Sehanine.
+  to infernal corruption and now served as a cleric of [Asmodeus](../dossiers/asmodeus) among devils in
+  [Trell](../locales/trell), kept sane only by their monthly link — the true reason behind her
+  devotion to the moon goddess [Sehanine](../dossiers/sehanine).
 
 
-  Back at SPI headquarters, Cassandra successfully tested a soul extension magic
-  theory, briefly unifying with Bec to cast spells beyond her normal reach,
-  while the party debated and stored a latent emergency spell within Callie.
+  Back at [SPI](../orgs/spi) headquarters, [Cassandra](../dossiers/cassandra) successfully tested a soul extension magic
+  theory, briefly unifying with [Bec](../dossiers/bec) to cast spells beyond her normal reach,
+  while the party debated and stored a latent emergency spell within [Callie](../dossiers/callie).
   Callie also discovered that the protective amulet around her neck was a
-  near-perfect counterfeit — dubbed a "shamulet" by Ozborn — possibly
+  near-perfect counterfeit — dubbed a "shamulet" by [Ozborn](../dossiers/oz) — possibly
   originating from an alternate version of herself. Ozborn combined two deadly
-  poisons into a lethal contact substance he called Murder Oil, Freki
+  poisons into a lethal contact substance he called Murder Oil, [Freki](../dossiers/freki)
   permanently enhanced his physical capabilities through a rare tome, and Vondal
-  acquired a Feywild Shard crystal for his spellcasting. Mallory then briefed
-  the team on the Aecus Concord nominees, including the troubling Frokim
-  Stillwind — whom Ozborn immediately marked for death — and three Arallu
+  acquired a [Feywild](../locales/feywild) Shard crystal for his spellcasting. [Mallory](../dossiers/mallory) then briefed
+  the team on the [Aecus Concord](../orgs/ac) nominees, including the troubling [Frokim
+  Stillwind](../dossiers/frokim-stillwind) — whom Ozborn immediately marked for death — and three [Arallu](../locales/arallu)
   vampire candidates, from whom the party ultimately selected the charming
-  harpist Etria Leduc for their branch. The session closed with the team rushing
-  toward Trell for a meeting with new administrator Vex Morradine, spurred by the
+  harpist [Etria LeDuc](../dossiers/etria-leduc) for their branch. The session closed with the team rushing
+  toward Trell for a meeting with new administrator [Vex Morradine](../dossiers/vex-morradine), spurred by the
   unsettling detail that the mysterious client had asked for Callie by name.
 classic_summary: >-
   Last we left off, the party found themselves in the hidden changeling village
-  of Alye'adu, where a moment of grace preceded a moment of transformation. Ayina,
-  cleric of Sehanine, restored what had been taken from Vondal — his missing
+  of [Alye'adu](../locales/alyeadu), where a moment of grace preceded a moment of transformation. [Ayina](../dossiers/ayinalef),
+  cleric of [Sehanine](../dossiers/sehanine), restored what had been taken from [Vondal](../dossiers/vondal) — his missing
   finger — before the village turned its full attention to the far stranger
   matter of his affliction. After careful study, the changelings determined that
   Vondal suffered from a temporal instability, a condition that sent him
   skipping through time and space without warning. A solution was offered: a
-  sacred bond with a dying changeling named Amisa, one that would require
+  sacred bond with a dying changeling named [Amisa](../dossiers/amisa-swiftaxe), one that would require
   monthly syncing rituals back in Alye'adu and demanded that Vondal never reach
   for his flux energy during the rite itself. Ayina offered her own quiet
   revelation in kind — that her changeling partner had long since fallen to
-  infernal corruption and now walked among devils in the city of Trell, kept
+  infernal corruption and now walked among devils in the city of [Trell](../locales/trell), kept
   sane only by their monthly link, and that her devotion to Sehanine's light had
   been born not of calling, but of love. Vondal chose to proceed. In a ritual
   both extraordinary and deeply unsettling, Amisa's form flowed into him like
@@ -240,96 +240,96 @@ classic_summary: >-
   his life.
 
 
-  Back at SPI headquarters, the days that followed were filled with preparation
-  and revelation in equal measure. Cassandra's long-held theory about soul
-  extension magic proved itself true when she and Bec briefly became one, their
+  Back at [SPI](../orgs/spi) headquarters, the days that followed were filled with preparation
+  and revelation in equal measure. [Cassandra](../dossiers/cassandra)'s long-held theory about soul
+  extension magic proved itself true when she and [Bec](../dossiers/bec) briefly became one, their
   shared celestial nature expanding outward in a way that allowed Cassandra to
   cast magic she could normally only use on herself onto another. The group
-  worked to extend this link further, storing latent spells within Callie to
+  worked to extend this link further, storing latent spells within [Callie](../dossiers/callie) to
   trigger under carefully chosen conditions — though the debate over what those
   conditions should be was anything but brief. It was during this discussion
   that Callie made a quiet and unsettling discovery: the protective amulet she
-  had given to Sophie Steelboots was somehow back around her neck, except it
+  had given to [Sophie Steelboots](../dossiers/sophie-steelboots) was somehow back around her neck, except it
   wasn't — it was a near-perfect copy, unmistakably a knockoff, immediately and
-  permanently christened the shamulet by Ozborn. Elsewhere, Ozborn combined two
+  permanently christened the shamulet by [Ozborn](../dossiers/oz). Elsewhere, Ozborn combined two
   deadly poisons into a syrupy contact poison of terrifying potency he dubbed
-  Murder Oil, Freki strengthened his body beyond ordinary limits through a
-  remarkable tome, and Vondal acquired a warm, sunset-colored Feywild Shard to
+  Murder Oil, [Freki](../dossiers/freki) strengthened his body beyond ordinary limits through a
+  remarkable tome, and Vondal acquired a warm, sunset-colored [Feywild](../locales/feywild) Shard to
   enhance his spellcasting in wondrous and unpredictable ways.
 
 
-  When Mallory finally called the team together for their formal briefing, the
-  news was layered and complicated. Xaryuvia had nominated three
-  representatives for the Aecus Concord — among them Sophie Steelboots and the
-  immediately suspicious Frokim Stillwind, the very trader who had delivered
-  Sophie to be hunted at the vampire ball in Arallu, a man Ozborn declared he
+  When [Mallory](../dossiers/mallory) finally called the team together for their formal briefing, the
+  news was layered and complicated. [Xaryuvia](../locales/xaryuvia) had nominated three
+  representatives for the [Aecus Concord](../orgs/ac) — among them Sophie Steelboots and the
+  immediately suspicious [Frokim Stillwind](../dossiers/frokim-stillwind), the very trader who had delivered
+  Sophie to be hunted at the vampire ball in [Arallu](../locales/arallu), a man Ozborn declared he
   wanted dead without a moment's hesitation. Arallu had sent three of their own:
-  Etria Leduc, the charming Toreador harpist; Meerlinda Descant, a vampire with
+  [Etria LeDuc](../dossiers/etria-leduc), the charming Toreador harpist; [Meerlinda Descant](../dossiers/meerlinda-descant), a vampire with
   dominion over dreams; and Bilbo Dragonsworn, a halfling the party had last
   left tied up and invisible in a locked room. After considerable debate, the
   party chose Etria — Meerlinda's dream manipulation was unanimously rejected as
-  too dangerous to house under the same roof, and Bilbo's loyalties remained
+  too dangerous to house under the same roof, and [Bilbo](../dossiers/bilbo)'s loyalties remained
   deeply suspect. With that settled, Mallory delivered their next assignment:
-  travel to the Trell branch office and meet with a new administrator named Vex
-  Morradine — and do so by one o'clock that afternoon. Most intriguingly, the
+  travel to the Trell branch office and meet with a new administrator named [Vex
+  Morradine](../dossiers/vex-morradine) — and do so by one o'clock that afternoon. Most intriguingly, the
   client behind this new request had asked for Calumnystra Rockwell by name.
   With barely enough time to gather themselves, the party set out toward Trell,
   carrying with them more questions than answers...
 snarky_summary: >-
   When last we left our intrepid agents, they were neck-deep in the kind of
-  downtime that somehow manages to be more exhausting than actual combat. Vondal
+  downtime that somehow manages to be more exhausting than actual combat. [Vondal](../dossiers/vondal)
   got his pinky back, which is lovely, and then immediately had a mysterious
   dying changeling slowly absorb into his body like sentient molasses before
   re-emerging as an exact copy of himself named Ladnov — you know, as one does.
   The two are now cosmically bonded, sharing memories monthly, which means
-  Vondal's secrets have a very strict expiration date. Meanwhile, Cassandra
-  proved her soul extension theory works, Callie discovered her protective
-  amulet is actually a knockoff that nobody can fully explain, and Ozborn —
+  Vondal's secrets have a very strict expiration date. Meanwhile, [Cassandra](../dossiers/cassandra)
+  proved her soul extension theory works, [Callie](../dossiers/callie) discovered her protective
+  amulet is actually a knockoff that nobody can fully explain, and [Ozborn](../dossiers/oz) —
   bless him — spent his vacation time inventing a contact poison so lethal he
-  simply called it Murder Oil and called it a day. Freki got swole from a magic
+  simply called it Murder Oil and called it a day. [Freki](../dossiers/freki) got swole from a magic
   book. Vondal bought a sunset crystal from the criminal underground. Truly, a
   restful ten days.
 
 
-  Then Mallory called everyone into the briefing room and made things
-  considerably more complicated, as Mallory does. The Aecus Concord is taking
-  shape, and somehow the guest list includes the trader who sold Sophie to be
+  Then [Mallory](../dossiers/mallory) called everyone into the briefing room and made things
+  considerably more complicated, as Mallory does. [The Aecus Concord](../orgs/ac) is taking
+  shape, and somehow the guest list includes the trader who sold [Sophie](../dossiers/sophie-steelboots) to be
   hunted, a dream vampire who can reshape reality through sleep, a halfling the
   party personally left tied up and invisible in a locked room, and a charming
   harpist vampire who won the team's vote mostly by not being the other two.
   Ozborn has already filed a mental request to murder at least one of these
   people at the earliest legal opportunity. And if all that weren't enough, the
-  party's next assignment in Trell has a client who asked for Callie by name
+  party's next assignment in [Trell](../locales/trell) has a client who asked for Callie by name
   specifically — which is either very flattering or very ominous, and with this
   group, it's almost certainly both.
 limerick_style_summary: |-
-  In Alye'adu, Vondal clasped 'Misa's arm tight,  
+  In [Alye'adu](../locales/alyeadu), [Vondal](../dossiers/vondal) clasped 'Misa's arm tight,  
   Her form flowed to molasses in the light.  
   From him Ladnov emerged,  
   Their memories merged,  
   A twin born from flux on that mystical night!
 
-  Cassandra's statuettes glowed with a hum,  
-  Soul magic linked Bec, Callie, and some.  
+  [Cassandra](../dossiers/cassandra)'s statuettes glowed with a hum,  
+  Soul magic linked [Bec](../dossiers/bec), [Callie](../dossiers/callie), and some.  
   A shamulet appeared,  
   Its origins weird—  
   A copy from afterworld echoes had come!
 
-  Ozborn brewed his poisons with gleeful delight,  
+  [Ozborn](../dossiers/oz) brewed his poisons with gleeful delight,  
   Black Lotus and Belladonna combined right.  
   He called it Murder Oil,  
   Ready foes to foil,  
-  While Freki grew stronger and Vondal found light!
+  While [Freki](../dossiers/freki) grew stronger and Vondal found light!
 
-  Mallory briefed them on Concord's new cast,  
-  With Frokim and Sophie and shadows amassed.  
-  From Arallu's dark hall,  
-  They chose Etria's call,  
+  [Mallory](../dossiers/mallory) briefed them on Concord's new cast,  
+  With [Frokim](../dossiers/frokim-stillwind) and [Sophie](../dossiers/sophie-steelboots) and shadows amassed.  
+  From [Arallu](../locales/arallu)'s dark hall,  
+  They chose [Etria](../dossiers/etria-leduc)'s call,  
   And Roger complained of a sandwich harassed!
 
-  To Trell they now raced against one o'clock's chime,  
+  To [Trell](../locales/trell) they now raced against one o'clock's chime,  
   A client sought Callie—a curious sign.  
-  With Vex to be met,  
+  With [Vex](../dossiers/vex-morradine) to be met,  
   The stage had been set,  
   The party pressed onward through mystery and time!
 memorable_moments:
@@ -377,12 +377,12 @@ memorable_moments:
 scenes:
   - title: The Village of Alye'adu and Vondal's Condition
     description: >-
-      The party discusses Vondal's temporal instability and the requirements for
-      him to act as an anchor for a changeling in the village of Alye'adu.
+      The party discusses [Vondal](../dossiers/vondal)'s temporal instability and the requirements for
+      him to act as an anchor for a changeling in the village of [Alye'adu](../locales/alyeadu).
     key_events:
       - Ayina uses magic to regenerate Vondal's missing pinky finger.
       - >-
-        Anorje and the villagers conclude that Vondal suffers from temporal
+        [Anorje](../dossiers/anorje-mistral) and the villagers conclude that Vondal suffers from temporal
         instability, causing him to skip through time and space.
       - >-
         The villagers explain the necessity of a monthly 'syncing' ritual
@@ -392,7 +392,7 @@ scenes:
         could have catastrophic consequences.
       - >-
         Vondal agrees to proceed with the ritual to save a dying changeling
-        named Amisa, despite the risks of his condition.
+        named [Amisa](../dossiers/amisa-swiftaxe), despite the risks of his condition.
       - >-
         The party confirms they have previously shared the secret sigil sequence
         for the teleportation circle leading to Alye'adu.
@@ -424,32 +424,32 @@ scenes:
         promising to share research and memories through their monthly link.
   - title: Revelations of the Linked
     description: >-
-      Ayina explains the nature of the bonds between anchors and changelings,
+      [Ayina](../dossiers/ayinalef) explains the nature of the bonds between anchors and changelings,
       revealing the dark fate of her own partner.
     key_events:
       - >-
         Ayina reveals that her own changeling partner has been corrupted by
-        infernal influence and is now a fallen cleric of Asmodeus residing in
-        Trell.
+        infernal influence and is now a fallen cleric of [Asmodeus](../dossiers/asmodeus) residing in
+        [Trell](../locales/trell).
       - >-
         She explains that their monthly link is the only thing keeping her
         partner sane and preventing total corruption by infernal forces.
       - >-
-        Ayina describes her diligent study as a cleric of Sehanine specifically
+        Ayina describes her diligent study as a cleric of [Sehanine](../dossiers/sehanine) specifically
         to counteract the darkness of her partner during their communal
         sessions.
       - >-
-        Anorje is noted to have a similar dynamic, as her partner Grohnea
+        Anorje is noted to have a similar dynamic, as her partner [Grohnea](../dossiers/grohnea)
         carries the blood of a night hag but retains her humanity more
         effectively thanks to their bond.
   - title: Soul Extension Experiments
     description: >-
-      In Cassandra's lab, Bec and Callie experiment with soul extension magic
+      In [Cassandra](../dossiers/cassandra)'s lab, [Bec](../dossiers/bec) and [Callie](../dossiers/callie) experiment with soul extension magic
       and the contingency spell.
     key_events:
       - >-
         Cassandra demonstrates her soul extension magic using crude but
-        bejeweled statuettes she crafted to resemble each SPI agent.
+        bejeweled statuettes she crafted to resemble each [SPI](../orgs/spi) agent.
       - >-
         Bec and Cassandra successfully link their souls, allowing Cassandra to
         cast spells normally limited to herself on Bec, and vice versa.
@@ -473,8 +473,8 @@ scenes:
       amulet.
     key_events:
       - >-
-        The party recalls Callie giving her protective amulet to Sophie
-        Steelboots to help protect her from undead.
+        The party recalls Callie giving her protective amulet to [Sophie
+        Steelboots](../dossiers/sophie-steelboots) to help protect her from undead.
       - >-
         Callie discovers the amulet she possesses does not precisely match her
         memory of it from before, and the group dubs it the 'shamulet'.
@@ -488,7 +488,7 @@ scenes:
       improving physical capabilities, and sourcing rare magical items.
     key_events:
       - >-
-        Ozborn consults a shady underworld contact, who reveals the recipe for
+        [Ozborn](../dossiers/oz) consults a shady underworld contact, who reveals the recipe for
         Death Flower Oil: a lethal syrupy toxin created by combining Black Lotus
         and Belladonna.
       - >-
@@ -498,15 +498,15 @@ scenes:
         Ozborn is able to produce two doses of the oil from his existing
         supplies.
       - >-
-        Freki and Cal each study a Manual of Gainful Exercise, permanently
+        [Freki](../dossiers/freki) and [Cal](../dossiers/cal) each study a Manual of Gainful Exercise, permanently
         increasing their respective strength and raising their strength
         maximums.
       - >-
-        Mallory offers to take the now-depleted magical books into SPI storage,
+        [Mallory](../dossiers/mallory) offers to take the now-depleted magical books into SPI storage,
         noting their magic won't return for decades.
       - >-
-        Vondal seeks to acquire a Feywild Shard, and Callie contacts her
-        business associate Gavin, who recently acquired three of them from an
+        Vondal seeks to acquire a [Feywild](../locales/feywild) Shard, and Callie contacts her
+        business associate [Gavin](../dossiers/gavin-pepperpotts), who recently acquired three of them from an
         elf looking to offload them quickly.
       - >-
         Vondal pays 300 gold for the Feywild Shard, with 100 gold reserved for
@@ -514,19 +514,19 @@ scenes:
   - title: Mallory's Briefing on New Recruits
     description: >-
       Mallory calls the SPI agents together to announce new representatives
-      being assigned to the various branches of the Aecus Concord.
+      being assigned to the various branches of the [Aecus Concord](../orgs/ac).
     key_events:
       - >-
-        Mallory reveals that Xaryuvia has nominated three representatives for
-        the AC branches: Frokim Stillwind for TEAM, Sophie Steelboots for MAD,
+        Mallory reveals that [Xaryuvia](../locales/xaryuvia) has nominated three representatives for
+        the AC branches: [Frokim Stillwind](../dossiers/frokim-stillwind) for [TEAM](../orgs/team), Sophie Steelboots for [MAD](../orgs/mad),
         and Wrendle Thistledown for the SPI.
       - Mallory expresses a positive first impression of Wrendle Thistledown.
       - >-
         The party recalls Frokim Stillwind as a shady trader involved in
-        delivering Sophie Steelboots to be hunted by vampires in Arallu.
+        delivering Sophie Steelboots to be hunted by vampires in [Arallu](../locales/arallu).
       - >-
-        Mallory also announces that Arallu has sent three representatives: Etria
-        LeDuc, Meerlinda Descant, and Bilbo Dragonsworn.
+        Mallory also announces that Arallu has sent three representatives: [Etria
+        LeDuc](../dossiers/etria-leduc), [Meerlinda Descant](../dossiers/meerlinda-descant), and Bilbo Dragonsworn.
       - >-
         The party reacts with hostility and suspicion, recalling how the
         vampires of Arallu previously tried to hunt them.
@@ -538,14 +538,14 @@ scenes:
         Mallory asks the party for their opinions on which of the three Arallu
         representatives should join the SPI branch.
       - >-
-        The party discusses the risks of each candidate: Bilbo as a likely
+        The party discusses the risks of each candidate: [Bilbo](../dossiers/bilbo) as a likely
         sleeper agent, Meerlinda's dangerous dream-manipulation powers, and
         Etria's hedonistic but approachable personality.
       - >-
         Mallory asks Callisto if he can control his impulses and wait for a
         legitimate reason before dispatching any undead colleagues; Cal agrees
         to wait.
-      - The party votes and ultimately chooses Etria Leduc to join their branch.
+      - The party votes and ultimately chooses Etria LeDuc to join their branch.
       - >-
         Mallory warns the party about the nature of vampires and the corrupting
         influence of blood-doll relationships.
@@ -560,8 +560,8 @@ scenes:
         table, then retreats back into the wall.
       - Mallory presents a new mission involving the Trell branch office.
       - >-
-        The party is instructed to meet with the new branch administrator, Vex
-        Morradine, at 1 p.m. that day.
+        The party is instructed to meet with the new branch administrator, [Vex
+        Morradine](../dossiers/vex-morradine), at 1 p.m. that day.
       - >-
         Mallory reveals that a client has specifically requested Calumnystra
         Rockwell by name for this assignment.
@@ -570,12 +570,15 @@ scenes:
         their impressions of the new hire, Vex Morradine.
 npcs:
   - name: Ayinalef
+
+    wiki: ../dossiers/ayinalef
     description: >-
       A high-level cleric of Sehanine residing in Alye'adu. She uses powerful
       restorative magic to heal Vondal's missing pinky finger and explains the
       complexities of the anchor bond, including her own struggle to keep her
       corrupted changeling partner sane through their monthly link.
   - name: Anorje
+    wiki: ../dossiers/anorje-mistral
     description: >-
       A knowledgeable inhabitant of Alye'adu who analyzes Vondal's temporal
       condition, explains the mechanics of the anchor-changeling bond, and notes
@@ -583,6 +586,7 @@ npcs:
       of a night hag but retains her humanity more effectively thanks to their
       bond.
   - name: Amisa Swiftaxe
+    wiki: ../dossiers/amisa-swiftaxe
     description: >-
       A dying changeling from Alye'adu who was facing the loss of her memories and
       self. She undergoes the anchor ritual with Vondal, merging with him before
@@ -594,12 +598,14 @@ npcs:
       Vondal for saving his life and will share memories with Vondal through
       their monthly syncing link.
   - name: Cassandra
+    wiki: ../dossiers/cassandra
     description: >-
       A researcher at the SPI who has developed soul extension magic using crude
       but bejeweled statuettes of the agents. She successfully links her soul
       with Bec's and experiments with joining three souls simultaneously to
       enable shared spellcasting and contingency magic.
   - name: Mallory
+    wiki: ../dossiers/mallory
     description: >-
       The leader of the SPI branch who oversees the agents' activities, manages
       the storage of depleted magical artifacts, coordinates diplomatic
@@ -607,17 +613,20 @@ npcs:
       representatives from Xaryuvia and Arallu and asks them to choose their
       new teammate.
   - name: Gavin Pepperpotts
+    wiki: ../dossiers/gavin-pepperpotts
     description: >-
       A shady underworld contact who provides Ozborn with the expertise to
       combine Black Lotus and Belladonna into Death Flower Oil, and who also
       serves as Callie's criminal network contact for sourcing rare magical
       items like the Feywild Shard.
   - name: Sophie Steelboots
+    wiki: ../dossiers/sophie-steelboots
     description: >-
       A former associate of the party who fled after being hunted in Arallu. She
       was previously given Callie's protective amulet and has now been assigned
       to the Military Aid and Defense (MAD) branch of the Concord.
   - name: Frokim Stillwind
+    wiki: ../dossiers/frokim-stillwind
     description: >-
       A shady halfling trader nominated by Xaryuvia to join the diplomatic arm
       of the AC. The party recalls him as the individual who delivered Sophie
@@ -626,12 +635,14 @@ npcs:
     description: >-
       The new representative assigned to the SPI branch by Xaryuvia. Mallory
       expresses a positive first impression after their initial meeting.
-  - name: Etria Leduc
+  - name: Etria LeDuc
+    wiki: ../dossiers/etria-leduc
     description: >-
       A vampire of the Toreador clan who plays a magical harp capable of
       controlling others. Described as a hedonist, she is chosen by the party to
       join their SPI branch despite her undead nature.
   - name: Meerlinda Descant
+    wiki: ../dossiers/meerlinda-descant
     description: >-
       A vampire with the ability to manipulate the realm of dreams and alter
       reality's appearance. Formerly associated with Clan Goratrix, she is
@@ -643,12 +654,14 @@ npcs:
       for the vampires. Ozborn still possesses a holy symbol and carpet stolen
       from him.
   - name: Goratrix Ceoris
+    wiki: ../dossiers/goratrix-ceoris
     description: >-
       A power-hungry vampire mentioned as the former Crispic clan leader whose
       allies abandoned him during a confrontation with the SPI. He is currently
       missing, and word through the grapevine is that Calderon the Cold,
       previously Goratrix's second, is now in charge of the clan.
   - name: The Brucolac
+    wiki: ../dossiers/cronus
     description: >-
       A powerful titan vampire lord who may have survived a previous encounter
       with the party. Mallory's current theory is that he is the one who
@@ -659,12 +672,15 @@ npcs:
       domestic issues within the SPI headquarters, such as investigating a
       half-eaten sandwich left on the kitchen table.
   - name: Vex Morradine
+    wiki: ../dossiers/vex-morradine
     description: >-
       The newly hired branch administrator for the SPI office in the Archipelago
       of Trell. Mallory asks the party to evaluate his trustworthiness when they
       meet him.
 locations:
   - name: Alye'adu
+
+    wiki: ../locales/alyeadu
     description: >-
       A closely guarded village of changelings hidden within a forest,
       accessible via a secret teleportation circle with a closely guarded sigil

@@ -11,10 +11,10 @@ statbox:
 descriptions:
   - session: "02e01"
     content: |
-      Named by young Tremere as the likely murderer; later confirmed to be blackmailed into the crime.
+      Named by the newly cloned young Tremere as his murderer: he claimed she had stolen his necklace.
   - session: "02e02"
     content: |
-      Revealed to have blackmailed Euryale with knowledge of her medusa nature; handed over a necklace and confessed her role in Tremere's death.
+      Handed over Tremere's stolen necklace and confessed her role in his death, revealing the secret Euryale had used to blackmail her: her son Donovan is half fiend. In exchange for the SPI's discretion, she agreed to become an informant.
 ---
 
 Morvain is a noblewoman in the city of Haven, blackmailed into inadvertently killing Dominic Tremere, a rich dealer of antiquities.

@@ -13,7 +13,7 @@ statbox:
 descriptions:
   - session: "05e01"
     content: |
-      Grandmaster of Winds who called the SPI to investigate disappearances at the Zenithal Summit platform.
+      Grandmaster of Winds, who called in the SPI, off the record, when people kept jumping from the Zenithal Summit and disappearing, including Mishaal and then her mother Kára.
 ---
 
 Grandmaster of Winds at the [Progression of Symmetry](../orgs/progression-of-symmetry).

@@ -11,10 +11,10 @@ statbox:
 descriptions:
   - session: "17e02"
     content: |
-      Revealed as powerful storm creatures bred and maintained by storm giants as mounts; their eggs were corrupted by Rhyzophus in his experiments to create his own army of twisted beasts.
+      Cal explained that the Storm Stables, carved out of a glacier, breed behirs, storm creatures so dangerous no one may approach them, which high-ranking giants ride as mounts.
   - session: "17e04"
     content: |
-      Encountered by agents while infiltrating the stables; one specimen proved amenable to negotiation when offered freedom from captivity and promises of justice against those who stole its eggs.
+      The agents passed a behir sleeping among her eggs; she wanted to eat them, until Vondal pointed out that a giant had taken one of her eggs, and she began plotting revenge.
 ---
 
 Behirs are legendary lightning lizards tamed by the storm [giants](giants) for use as mounts.

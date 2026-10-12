@@ -13,13 +13,13 @@ statbox:
 descriptions:
   - session: "03e01"
     content: |
-      Wizard nephew found at army barracks; his room showed signs of necromantic activity and a missing vial.
+      Wizard nephew of Gurin, who had left the keep very early in the morning. A trail of necromancy led from Gurin's room up the side of his bed, and a vial was missing from his meticulously organized desk. The agents found him with Sil at the army barracks, where his fireball made short work of goblinoids and zombies. He at first denied knowing Leopold Gardenblossom, then admitted he had been his professor at the university where he studied wizardry.
   - session: "03e03"
     content: |
-      Interrogated at Aldrimor Keep after evidence of the crawling claw necromantic technique surfaced.
+      Named, on "unreliable testimony," as a potential affiliate of Esprit Repose in the secret SPI file Vondal produced.
   - session: "03e04"
     content: |
-      Confronted at Aldrimor Keep and admitted to covering up his brother Hollerd's crime, establishing their deal with the SPI.
+      Confronted at Aldrimor Keep, he admitted covering up his brother Hollerd's actions. The agents struck a deal: Bronce and Hollerd would pay for their crimes, and the SPI would keep the secret of Esprit Repose for the good of the dwarven kingdom, in exchange for Rubinia Elka's full cooperation in the future.
 ---
 
 Youngest nephew of Gurin Aldrimor. A self-proclaimed wordsmith, he illicitly practiced necromancy as a member of Esprit Repose.

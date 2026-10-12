@@ -19,40 +19,43 @@ image-round-source: https://www.pinterest.com/pin/29906785017371239/
 descriptions:
   - session: "07e03"
     content: |
-      Discovered to be the pommel of Cal's sword, making it a focus for divine artifact research.
+      Revealed by Stormcloud to be the pommel of Cal's sword, given to him by Hyperion around the time the stone disappeared.
   - session: "09e03"
     content: |
-      Used by the party as a focus for a powerful group Dispel Magic ritual to cure Meroe and Panthea of flux taint.
+      Used by the agents as a focus to empower a group dispel magic, it sucked all of Callie's magic into Cal's sword.
   - session: "13e03"
     content: |
-      Wielded by Talos the centaur warlord when he invaded the changeling village of Alye'adu alongside the orc shaman Andalla.
+      Talos wielded it when he invaded Alye'adu, until Cal grabbed it back from him in a flash that melted the snow around them.
   - session: "13e04"
     content: |
-      Reclaimed by Cal during the fierce battle at Alye'adu, its recovery crucial to the victory against the shapeshifter-hungry attackers.
+      Cal kept his reclaimed sword as part of the war price.
   - session: "14e00"
     content: |
-      Used by Cal to channel healing energy for Mallory; demonstrated increased power and a coldness like vengeance.
+      Placed on Mallory's forehead as the focus for a healing ritual, it exploded with healing light and sacred fire, saving him. It vibrated when Bec and Callie dispelled Cassandra out of the monkey.
   - session: "14e01"
     content: |
-      Glowing in the manor's radiant atmosphere; synergizes with Cal's power.
-  - session: "14e02"
-    content: |
-      Cal held the sword while facing Lady Nightshade; its pommel glowed in her presence.
+      Pulsed with more power than ever, but shocked Cal with cold, like vengeance, whenever he grasped it. Cassandra said it synergizes with divine casting. Cal used it to incinerate the false Malachai.
   - session: "14e03"
     content: |
-      Cal wielded it during the battle; it started vibrating when dispel magic was cast on the angels.
+      In the mirror beyond the portal, Vondal saw a wild surge suck the agents into a singularity produced by the Arkenstone, until Moradin intervened.
   - session: "14e04"
     content: |
-      Cal's sword glowed like an ember when near the Celestial Hand; brighter when moved closer, indicating shared divine energy.
+      Glowed like an ember near the Celestial Hand, brighter as it came closer; Callie felt they shared the same kind of energy.
   - session: "14e05"
     content: |
-      Cal's sword glowed in the presence of vampires; exploded with radiant light to destroy undead enemies.
+      Its pommel glowed in the presence of Malak's vampires, and it exploded with radiant light, destroying undead.
+  - session: "15e00"
+    content: |
+      Vondal admitted that SPI HQ was destroyed in an accident during experiments on the Arkenstone, and had new ideas for enhancing its resonance.
   - session: "15e07"
     content: |
-      Wielded by Cal and used to cut free from within the Brucolac's stomach; revealed connection to Moradin through a vision of its forging.
+      In Cal's vision at the chapel's stained glass window, Moradin forged the Arkenstone into a sword.
   - session: "17e06"
     content: |
-      Cal's fiery sword manifested its full destructive potential during the final battle, unleashing massive infernos when it connected with the cult's lieutenants.
+      In the tentacle form of Cal's were-sheep hoof, his fiery sword engulfed the giant Ormar in a fireball.
+  - session: "17e07"
+    content: |
+      Cal's glowing sword cleaved the giant Thok's head in two, then exploded in flames.
 ---
 
 A stone sacred to the [dwarven people](../creatures/dwarves), believed to be one of eight divine [relics](.) somehow central to the integrity of reality itself.

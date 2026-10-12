@@ -48,6 +48,10 @@ links:
 - 5E Dawn War|https://2014.5e.tools/deities.html#melora_dawn%20war_dmg
 - 5E Exandria|https://2014.5e.tools/deities.html#melora_exandria_egw
 - 5E Greek|https://2014.5e.tools/deities.html#poseidon_greek_phb
+descriptions:
+  - session: "07e01"
+    content: |
+      According to Belifax, she lives in the eye of the Relentless Hurricane, at the helm of a mighty vessel she built with her own two hands; in Trell, her worship is forbidden, and sometimes punished by sending offenders into the hurricane.
 ---
 
 ## Precepts

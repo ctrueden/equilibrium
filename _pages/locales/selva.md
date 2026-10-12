@@ -24,10 +24,10 @@ image2-source: https://www.pinterest.com/pin/52284045666122393/
 descriptions:
   - session: "13e01"
     content: |
-      The SPI pursued a doppelganger through the rainforest for six days while being shadowed by a mysterious third raven with unknown intentions.
+      The agents pursued the doppelganger through the Selva for six days, shadowed by a mysterious third raven, until her trail ended abruptly near the Veldt.
   - session: "13e04"
     content: |
-      Honored by warrior tradition when Talos yielded to the SPI, allowing them to set terms for peace, demonstrating the Selva's cultural emphasis on combat prowess.
+      In accordance with Selva custom, Talos let the agents name their war price when he yielded.
 ---
 [Orcish](../creatures/orcs) tribes that vie for control of rainforest territory. Deep in the jungle to the southeast, it is said that monstrous [aberrations](https://dungeonsdragons.fandom.com/wiki/Aberration) and even [abominations](https://dungeonsdragons.fandom.com/wiki/Abomination) rampage freely.
 

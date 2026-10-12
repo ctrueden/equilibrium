@@ -12,7 +12,7 @@ statbox:
 descriptions:
   - session: "08e01"
     content: |
-      Jailed by the Luminous Defenders on suspicion of murdering two investors at the circus. Denied the accusation and made knock-knock jokes.
+      Clown jailed by the Luminous Defenders for the murders at the circus. He told the agents he didn't do it, and made knock-knock jokes.
 ---
 
 Zombozo is the ringmaster of the Zombozo circus. He also serves as one of two

@@ -10,13 +10,13 @@ statbox:
 descriptions:
   - session: "17e01"
     content: |
-      Revealed as a mysterious symbol granted to changelings, promising good fortune and guidance but concealing darker motives; suspected of driving bearers toward dangerous ideologies and corrupting their judgment.
+      In Alye'adu, almost everyone bears a white crane tattoo, said to bring good fortune, meaning and prophetic dreams; Rejal Bickerbeard warned Callie not to ask too many questions about it. Sissae Moondrop blamed it for Isis's corruption.
   - session: "16e09"
     content: |
-      Nondal (the white crane) used Monastic Open Hand techniques to leech the agents' souls through magical gloves; agents ultimately dispersed him through Dispel Magic, revealing his use of astral projection techniques.
+      Called "Nondal" by Bec, since he said his name did not matter, he answered the agents' questions with calm non-answers: he sought understanding of death, not power over it, and was "here because I am supposed to be here." Attacked, he displaced, slipped Freki's vines, and leeched part of Freki's soul with two open-palm strikes. Bec's dispel magic dissolved him, revealing an astral projection: a duplicate body, not his own.
   - session: "16e08"
     content: |
-      Encountered at the gate to the Afterworld, this figure appears to be a version of Vondal who sought power over death and gained fundamental understanding of the Afterworld's secrets.
+      Beyond a divine gate to the true Afterworld, at the heart of the Flux, the agents found another Vondal meditating on a pedestal. He effortlessly dodged their attacks, removed and returned Ozborn's dagger, healed himself, and debated balance with Freki, radiating patience and pity. He said he had come for power over death, and gotten it. He has no scent, and a white crane tattoo on his ankle.
 ---
 
 A mysterious person taking the form of [Vondal](vondal), but who is most unlike Vondal in temperament.

@@ -76,127 +76,160 @@ magic-items:
 descriptions:
   - session: "06e02"
     content: |
-      Met the gnoll elder Ni and agreed to help investigate the tribe's mysterious tragedy. Hired as a guide by the SPI for 11 gold per day.
+      Wildling ranger who had witnessed the massacre: a Malosi goliath had blasted the camp with a Flux-based weapon. He exchanged tokens with Ni, binding him to help her and her to use the weapon for good; gathered herbs to soothe Cal's vargouille itch; and agreed to guide the SPI for 11 gold a day, payable upon first access to a teleportation circle.
   - session: "07e01"
     content: |
-      Scouted the 4th Circle of Estanesse for 24 hours and reported the location and arriving guests.
+      Accepted Mallory's offer to join the SPI full-time, and Cassandra healed his fragmented essence. He then staked out the 4th Circle of Estanesse for 24 hours ahead of the auction, watching the guests arrive.
   - session: "07e04"
     content: |
-      Followed Dominic Tremere to the Conservatory and overheard his conversation with the lich.
+      Recalled following Tremere as he stormed out of the room, and overhearing his conversation with the lich.
   - session: "07e05"
     content: |
-      Shot the carnivorous plant with arrows and heroically ripped his way out of its gullet in werewolf form.
+      Failed to sniff out the missing heart, but followed a shrieking to the Preservatory. He shot the carnivorous plant and leapt down its gullet, then, partially digested, transformed into a werewolf and tore his way out. He nearly devoured the plant's heart, but felt vile necromancy spreading into his limb.
   - session: "08e01"
     content: |
-      Performed at the circus and spoke privately with Meroe about a performance opportunity.
-  - session: "10e01"
+      Woke from a vision of lying in blood beside Cal's corpse, the murder weapon in his hand, and insisted on checking on Cal, who was only asleep. At the circus, he showed Meroe his transformation, and she invited him to perform with them that night.
+  - session: "09e01"
     content: |
-      Gave Ceowyn Mandragoran a branch from the Shadow Forest tree, claiming it was involved in the Incident.
+      Intuited two ways out of the Flux: toward crisis but also salvation, or away from harm but also from destiny. He traced the flow to its center, where the agents saw SPI HQ.
+  - session: "10e02"
+    content: |
+      Rudely interrogated Seirye about the heist, then left to scout for water, hurrying back in time to help kill the worm that attacked the camp.
   - session: "12e05"
     content: |
-      Reappeared after being trapped in a force maze, rejoining the party's journey up the World Tree.
+      Reappeared in a puff of brimstone, claiming to have been trapped in a force maze. In the shared dream, he declined to take a side, swearing only to protect his friends; when mushroom tendrils spread up the Queen's arm, he swung his greatsword to sever it, tripped, and brought it down on her head.
   - session: "12e07"
     content: |
-      Attempted to enter a portable hole but panicked due to discomfort with magic, was banished by Vondal, and then flew alongside Callie.
+      Panicked inside the portable hole and wolfed out, until Vondal banished him from it; he then flew, towing Callie. He alone passed through the illusory border to see the Tree's true heart, and Enoki trapped in a surging thicket of thorns.
   - session: "12e08"
     content: |
-      Transformed into hybrid form, brutally attacked the spellcaster and tore off her mask, revealing Isis Ra'ksh beneath.
+      Pulled Enoki and Cornelius out of the thornbush with a grappling arrow. When the cloaked druid refused to restore Ozborn, he transformed, tore into her, and knocked off her mask, revealing Isis Ra'ksh. He later regained control of himself, and killed jellyfish Oz to restore his natural form.
   - session: "12e09"
     content: |
-      Dropped into the portal with a declaration to enemies, discovering the ground level of the World Tree.
+      Dropped down the hole ("Swift defeat to my enemies"). Sensing something off about Phoebe as Isis spoke of the Vortex, he heard her whisper "let me out," smelled blood where a plant creature should have none, and lunged at her throat in beast form.
   - session: "12e10"
     content: |
-      Wolfed out and lunged at Phoebe's throat when sensing something wrong, grappling the unconscious gnome.
+      Held the unconscious gnome in his jaws, shook him awake, and refused to let go even when Phoebe's lightning struck them both.
   - session: "12e11"
     content: |
-      Transformed and attacked shadow illusions, resisted the mind blast from Janus, and engaged throughout the vault battle.
+      Shot at the illusory Tybalt, believing he wasn't real, but was stunned by Janus's mind blast, bleeding from the nose. Freed from the stun by Callie's calm emotions, he took hybrid form to fight.
   - session: "12e12"
     content: |
-      Shot a lightning arrow at the ooze, incorporated a page of the Necronomicon into an arrow of slaying to obliterate the entity, but suffered oily corruption on his hand.
+      Slew the black ooze with an arrow of slaying wrapped in a page torn from the Book, leaving his hand feeling oily. When Ozborn brought the Hornblade down on the Book, Freki's ravens appeared spectrally, and out of respect for the elves and the Tree he leapt onto the Book, taking the blow; he survived with a single hit point.
   - session: "13e01"
     content: |
-      Led the SPI team in pursuing a doppelganger suspected to be an imprint of Sima, discovering an invisible veil and a mysterious third raven following the party through the Selva toward Alye'adu.
+      Sensed they were being followed by something connected to him: a third raven, which his ravens called a facsimile with Munin's power, keeping its distance half a mile away, amused by him. His ravens told him his purpose was to devour the world, or to prevent others from doing so. He resolved that the party's priority was staying together.
   - session: "13e02"
     content: |
-      Discovered that the doppelganger vanished through an invisible veil, later learning about the changeling village of Alye'adu and its system of imprints and anchors.
+      His ravens told him the doppelganger had walked through a veil they could not follow without knowing what she knew. Outside the agents' mind link with the changelings, he watched the centaur Talos ride into the village with Cal's sword at his hip.
   - session: "13e03"
     content: |
-      Fought alongside the party against the centaur warlord Talos and the orc shaman Andalla, who had infiltrated the changeling village seeking to steal their shapeshifting powers.
+      Fired arrows at Talos, but they deflected off some invisible shield.
   - session: "13e04"
     content: |
-      Engaged in a fierce battle with Talos in his were-tiger-centaur form, discovering he and Hugin/Munin had been spiritually affected by Talos's god-stealing attack.
+      Fired a special arrow point-blank into Talos. When Talos yielded, Freki named the war price: the bracers, and that Talos leave. Talos called the agents godlings, and told Freki with a smirk that he was glad at least one person from his village had been strong enough to survive.
   - session: "14e00"
     content: |
-      Questioned villagers about lycanthropy and discovered other animal-form users in the settlement; participated in Cassandra's rescue.
+      Asked the villagers of Alye'adu about shapeshifting like his. He talked with Cassandra's monkey, and smelled on it the same magic as Andalla's demon figurine.
   - session: "14e01"
     content: |
-      Crafted special arrows during downtime; later collected DNA samples from field agents by scent.
+      Crafted more special arrows, and collected a hair from most of his colleagues in case he ever needed to track them. At Evershroud, he caught the fleeing false Malachai with a grappling arrow.
   - session: "14e02"
     content: |
-      Offered a mutually beneficial alliance to Lady Nightshade but she demanded worship instead; attacked her with an ensnaring strike when she attempted mental control.
+      Offered Lady Nightshade a mutually beneficial alliance, but refused her terms; feeling her try to take over his mind ("That is gonna cost you an arrow"), he shot her with ensnaring strike.
   - session: "14e03"
     content: |
-      Shot Lady Nightshade in the neck as she emerged from a rift, closing it on her head and killing her; discovered memories through a mystical mirror showing his father's death.
+      Shot a lightning arrow into Nightshade's rift, and later shot her in the neck as she climbed back out, so that the rift snapped shut and took her head off. In the mirror beyond the portal, Munin showed him what he had forgotten: his father, a weretiger, fighting Talos as their village burned, and falling to Talos's finishing blow.
   - session: "14e04"
     content: |
-      Received revelation from Hugin and Munin that he is a pawn with a great destiny involving death; learned he was born under the sign of death and brings death with him; resolved to kill Talos.
+      Tracked the lost Vondal by scent. His ravens told him he was born under the sign of death, a bringer of death whose power might destroy him or save everyone, and that he would get another shot at Talos; but when he pressed about his lost memory, Munin grew spooked and the ravens vanished. In the Gallery of Whispers, he declined a portrait's offer to tell him about Munin if he came inside. He shot Invictus with an acid arrow, to no avail.
   - session: "14e05"
     content: |
-      Felt an urge to claw when attacked by a vampire; initially reached for his sword but that felt wrong; began a transformation into a wolf form.
+      Attacked by vampires, he felt the urge to claw, and reaching for his sword felt wrong. When a vampire bit him and drained his blood, it awakened the beast within, and he could not control it: he became a wolf.
   - session: "15e00"
     content: |
-      Discovered his true nature as a werewolf when bitten during vampire combat and calmly accepted his wolf heritage with help from Callie and his mystical ravens Hugin and Munin.
+      Calmed by Callie in wolf form, he realized he had always known about the beast within, and gained a deeper understanding of his wolf nature; his ravens returned, freed from Vecna's hold. He told the others he came from a village of lycanthropes, and that Talos had killed his father.
   - session: "15e01"
     content: |
-      Conspired with the SPI team to subdue Bilbo and use him as a disguise for infiltrating the vampire ball in Sepulchralis.
+      Sniffed out glowcap mushrooms growing in soil that smelled faintly of decaying flesh. When Bilbo turned invisible, Freki smelled where he was and grappled him, but Bilbo wriggled free.
   - session: "15e02"
     content: |
-      Attended the ball and observed vampire politics; followed Lestache's suspicious movements and used his ravens to spy on a clandestine meeting.
+      Chatted with vampires curious about his werewolf nature while trying to tail Lestache, and sent his ravens to spy on him, learning that a halfling, Frokim, had delivered an exiled guardswoman to Lestache. He asked the ravens to search for captive halflings to free, and asked Lestache to stop treating the halfling village like a vegetable garden.
   - session: "15e03"
     content: |
-      Tracked Sophie through illusory scents and navigated undead hazards in the Soulbound Rest; drew first blood against her to win the Hunt.
+      Feigned fear of fire as a distraction while Ozborn slipped Sophie a gift. He tracked Sophie through seven illusory scent trails, and, near the end, sent Hugin and Munin to a mysterious building to find her and tell her the agents were on her side.
   - session: "15e04"
     content: |
-      Clashed directly with the cursed Sophie and worked with Cal to overcome her and secure their victory in the Hunt.
+      When his ravens vanished near Sophie's hideout, he crashed through a window, and was deafened by her defenses. Inside, among three Sophies, he bit the real one, drawing first blood to win the hunt, but the sword turned her against him. Later, his arrow of tidal force ensnared the vampires in kelp and running water.
   - session: "15e05"
     content: |
-      Carried the portable hole containing the SPI team through the Soulbound Rest with remarkable stealth and navigation.
+      Carried the others into the Soulbound Rest in the portable hole, opening it periodically so they could breathe. Bolstered by Meerlinda's illusion of his home, he led Sophie stealthily past graves and ghosts, including a sorrowful ghostly Goratrix, to a huge chapel.
   - session: "15e06"
     content: |
-      Shot the Death Tyrant with lightning arrows and made a spiritual oath to slay it; his ravens appeared to guide his final arrow toward the creature.
+      Lightly shot Sophie in the back to jostle her out of Bec's trap, and zapped the Death Tyrant with a lightning arrow.
   - session: "15e07"
     content: |
-      Engaged the Brucolac in direct combat and received encouragement from his ravens Hugin and Munin to embrace all his forms equally.
+      Hit the Death Tyrant's central eye with a hail of thorns. He made an arrow of slaying from a wall tentacle and swore an oath on his bow; Hugin and Munin appeared to escort the arrow, grievously wounding the tyrant. He smelled Ozborn's sword in the window's shadow woman, and Cal's in the other.
   - session: "15e08"
     content: |
-      Grappled Enoch during the Brucolac battle; resisted bloodlust and listened to his ravens' guidance about his true nature.
+      Growled in Goratrix's face, then grappled Enoch in the chapel. His ravens urged him to let the bloodlust go and come back to himself, since all his forms are him; with their distraction, he bit Enoch's bat form into mist.
   - session: "15e09"
     content: |
-      Escaped the Brucolac's sanctum and attempted to destroy the mist form of Enoch; returned to SPI HQ and checked on his raven companions.
+      Slashed Enoch's mist form apart as it fled toward a crack in the foundation. He grappled Goratrix so his ghost could reach him, possibly disrupting Goratrix's teleport. Back at HQ, he swiped Ozborn's dagger of venom while Ozborn slept.
+  - session: "16e02"
+    content: |
+      In hybrid form, with a camouflaging feathered cloak, he struck Megaera with hail of thorns, and finally shot her through the throat; the mists of Flux absorbed her. He pressed Audreth about Mallory's actions during the ambush.
+  - session: "16e03"
+    content: |
+      Sheltered Callie under his cloak when the Furies shrieked, shot Tisiphone with an acid arrow, and fired hail of thorns into the flesh-beast's maw. In the tower, he smelled the monster dog and found a staircase down, with sleeping sounds below.
+  - session: "16e05"
+    content: |
+      Under the madness, as Vondal reshaped it, he believed he could squeeze himself in anywhere. He found tracks of many strange creatures fleeing downstream, and one set of sandaled footprints striding purposefully through their campsite. In the fight, his arrow of tidal force scattered the shadow creatures, and in wolf form he tore Shadow Oz to goo, knocking the real Ozborn out too.
+  - session: "16e06"
+    content: |
+      Was revealed to have two alternate selves, one sprouting heads, and suddenly transformed into a three-headed monster like the Cerberus, eating Vondal and mauling Callie down to 1 hit point, until Cassandra's divine spell restored him. His ravens told him the veil had been tampered with. Later he marked the shadow monkey for death.
+  - session: "16e07"
+    content: |
+      Rained hail of thorns on the shadow creatures, dodged their attacks, and threw his cloak over Audreth, who seemed to fade.
   - session: "17e00"
     content: |
-      Found himself connected to Lorelei's protection through the raven cloak via a symbiotic bond; consulted his bird companions on next steps and made the difficult choice to let allies depart into uncertain danger.
+      Guided by Hugin, he wrapped his cloak around the Fluxwarped Lorelei, which stabilized her through a force symbiotically connected to him. That night, he caught Lorelei and Rubinia sneaking out, and, trusting his ravens, who chose to go with them, let them go.
+  - session: "17e02"
+    content: |
+      Introduced the agents to Claudius, the giant hybrid orchid guarding Grohnea's cottage, using his plant speech. Grohnea let him take what he wanted from her conservatory for the mission.
+  - session: "17e03"
+    content: |
+      Set Jorik's beard on fire with an arrow and shot him with an arrow of dreadful glare, then unrolled the portable hole to let Vondal out, and charged in wolf form. He took a transmutation ward from Grohnea.
   - session: "17e04"
     content: |
-      Calmed a behir by offering to free it from captivity in exchange for patience; established a dangerous alliance with the creature that might be useful if the mission went poorly.
+      Tried to calm a suspicious behir with speak with animals, offering to free it if it didn't eat them; it scoffed that it was not trapped and would eat him. Once Vondal showed it an egg was missing, it turned its rage toward revenge. Freki told Kavaki the agents sought "to return to equilibrium."
+  - session: "17e05"
+    content: |
+      Lassoed Rhyzophus with an entangling arrow, trying to pull him out of his water column, and withstood Skalfang's axe.
   - session: "17e06"
     content: |
-      Killed multiple enemy giants in rapid succession through savage melee attacks while in werewolf form, becoming a legend in the process with his relentless assault and tactical positioning.
+      Pulled Callie behind him, killed Skalfang ("Say I did it singlehandedly!") and another giant in werewolf form, biting with a spectral second mouth, and finally killed Rhyzophus as he tried to escape up his water column.
+  - session: "17e07"
+    content: |
+      Wanted to return the uncorrupted behir eggs to their mother. During Cal's show of force, he shot the charging Thok twice with lightning arrows, leaving the killing blow to Cal.
   - session: "17e08"
     content: |
-      Attempted to heal Oz's vampiric wound by biting him in werewolf form, believing lycanthropy could counteract vampiric corruption; the action worked but led to violent misunderstanding when Oz retaliated.
+      Escorted Ulgrim down to Rhyzophus's chamber with Bec. When Ozborn was attacked through the crystal ball, Freki grabbed the ball in wolf form, then bit Ozborn to save him.
   - session: "17e09"
     content: |
-      Confronted Oz about consent after his unauthorized healing bite, demanding apology and threatening severe consequences if such violation occurred again; remained a loyal ally despite the tension.
+      After his bite, Ozborn stabbed at him, and later confronted him about consent, warning that if it happened again, Freki's last thoughts should be of his home in the Selva. At Grohnea's, Freki sensed they had been gone far longer than three days.
   - session: "16e09"
     content: |
-      Led the party in confronting Nondal at the Afterworld gate; managed to grapple and attack Nondal despite his elusive nature, and later discovered a death magic effect implanted in his body.
+      Questioned the other Vondal ("Nondal") about his power over death, and, after Ozborn's attack, grappled him and ensnared him with a vine arrow. Nondal struck him twice with open palms, leeching part of his soul and leaving a vibrating "death hand" in him, Freki sensing he was being tested. Back at HQ, he told Mallory he thought he was missing part of his soul.
   - session: "16e08"
     content: |
-      Transformed with venomous fangs and a poisonous bite; everything around him dies and turns to dust beneath his feet, making him a harbinger of blight wherever he walks.
+      Leapt at Megaera in wolf form and hung from her by his teeth. After the agents rejected her bargain, the Flux gave him larger, venomous teeth, and plants now wither to dust where he walks. He had a vision, from before sight existed, of a center where everything comes together in equilibrium. At the gate to the Afterworld, he told the other Vondal that he wanted the world restored to its natural balance.
   - session: "16e04"
     content: |
-      After gazing into the Great Old One's eye, Freki experienced intense revulsion toward the Flux; Vondal's intervention replaced this with a delusion that he could squeeze through any space.
+      Saw through the false Raven Queen's realm as a hallucination, and shoved his mirror shard in her face. After the Great Old One's gaze, he was left desperate to escape the encroaching Flux, though he still remembered his friends.
+  - session: "18e00"
+    content: |
+      Rolled true in Grohnea's extraction ritual, focusing on his ideal rather than his fear, and emerged with a deep sense of oneness, knowing that Hugin and Munin are not pawns of the Raven Queen but ancient instruments of Gaia, fatefully tied to him. He crafted specialty arrows with Grohnea, and found that plants no longer wither where he walks. Mallory rebuked him: "Do not bite non-hostiles, ESPECIALLY fellow agents!"
 ---
 
 Freki is a bounty hunter who venerates nature and despises magic. He prowls the [Selva](../locales/selva), seeking prey.

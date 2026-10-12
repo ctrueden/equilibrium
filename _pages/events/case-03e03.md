@@ -1,7 +1,7 @@
 ---
 title: "[03e03] Esprit Repose"
 description: >-
-  Questioned Elka, Bruck back at Aldrimor manor, Larsa at the Brandywhistle.
+  Questioned Elka, and Bruck back at Aldrimor manor; sought Zanic at the Brandywhistle.
 datestamp: 50-03-14/03
 when: AC50 Solis 14
 session-number: 6

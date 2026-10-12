@@ -15,16 +15,16 @@ statbox:
 descriptions:
   - session: "07e03"
     content: |
-      Translucent elven ghost summoned by Priscilla Stormcloud to meet with Tybalt during the private interviews.
+      Called in by Stormcloud for his private negotiation, the Vengeful Ghost appeared, translucent in elven finery, with Tybalt hanging beneath him like a marionette. He later spoke with Tybalt privately in the dining area, and psionically pushed Cal out of the room ("Begone, mortal!").
   - session: "12e05"
     content: |
-      A representative of the Unseelie Court who sealed Oz's oath with a painful psychic seal.
-  - session: "14e01"
+      Summoned by the Queen to represent the Unseelie Court, he sealed Ozborn's oath of exile with a painful wave of psionic energy.
+  - session: "12e11"
     content: |
-      Described as the spirit head of the undead trinity; occasionally possesses people.
+      An illusory Janus manifested through an illusory Tybalt at the treasury, mind-blasting the agents ("Begone, unworthy!"), and possessed Cal until Phoebe dispelled him.
   - session: "15e07"
     content: |
-      Appeared as a ghostly apparition in the defiled sanctuary and may have orchestrated the Death Tyrant's influence on the Brucolac.
+      One of the three elves Vondal saw in the stained glass vision of the Flux's creation. Cal suspected him of directing the ghosts to feed the Death Tyrant.
 ---
 
 The vengeful ghost. One of the unholy triumvariate of Arallu.

@@ -11,6 +11,13 @@ statbox:
   race: gnome
   gender: male
   case: "11"
+descriptions:
+  - session: "11e01"
+    content: |
+      Gruff security consultant, hired to protect the Cornucopia, whom the agents found writing in the Rockwell study. He claimed Callie's parents were at an important meeting, repeatedly mentioned "horrors from the deep," and left behind a sketch of protective spells around the Cornucopia with a cartoonish fish monster in the margin.
+  - session: "11e02"
+    content: |
+      Pressed Callie to sign off on an expensive plan to wall in the Cornucopia with stone, force, and a battery of wards.
 ---
 
 A "security specialist" contractor who worked alone, now deceased. He had been

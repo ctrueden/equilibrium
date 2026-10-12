@@ -11,16 +11,16 @@ statbox:
 descriptions:
   - session: "12e11"
     content: |
-      An owlbear samurai who appeared in the vault battle as a conjured gift from the Brucolac illusion.
+      When the illusory Brucolac threw down a ball of feathers, an owlbear samurai appeared: Vondal in Rain's body, mentally conflated with him. Ozborn stabbed him before realizing he was an ally.
   - session: "12e12"
     content: |
-      Carried Sartus's lifeless body and participated in the throne room battle.
+      Welcomed back by Vondal, now separated from him, he carried Sartus's lifeless body out of the shaking treasury.
   - session: "14e00"
     content: |
-      Greeted the agents at Vondal's house; an owlbear recruited as an SPI field agent.
+      Greeted Mallory and the agents at Vondal's house: "Boss! And you guys!"
   - session: "14e01"
     content: |
-      Relaxing at Vondal's house in his bathrobes; not actively participating in field operations.
+      Had been chilling at Vondal's house in Vondal's bathrobes; he attended the all-staff meeting.
 ---
 
 One of the SPI agents who disappeared during the [fire at SPI HQ](../events/spi-fire).

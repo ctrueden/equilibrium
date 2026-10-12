@@ -10,6 +10,10 @@ statbox:
   profession: king
   age: 288
   case: "03"
+descriptions:
+  - session: "03e04"
+    content: |
+      The agents brought Zanic Corbinic's body to his palace and spoke with him.
 ---
 
 King of the [dwarves](../creatures/dwarves) under the [Mountain](../locales/mountain). Husband of [Brie Fireforge](brie-fireforge).

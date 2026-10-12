@@ -1,0 +1,45 @@
+{%- comment -%}
+Previous/next links between episodes (in datestamp order, across cases),
+plus a link up to the current episode's case.
+{%- endcomment -%}
+
+{%- assign pager_sorted = site.pages | where_exp: "p", "p.url contains '/events/case-'" | sort: "datestamp" -%}
+{%- assign pager_prev = nil -%}
+{%- assign pager_next = nil -%}
+{%- assign pager_found = false -%}
+{%- for ep in pager_sorted -%}
+  {%- unless ep["session-number"] and ep.url contains "/events/case-" -%}{%- continue -%}{%- endunless -%}
+  {%- if pager_found -%}
+    {%- assign pager_next = ep -%}
+    {%- break -%}
+  {%- elsif ep.url == page.url -%}
+    {%- assign pager_found = true -%}
+  {%- else -%}
+    {%- assign pager_prev = ep -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign pager_case_slug = page.url | remove: "/events/" | split: "e" | slice: 0, 2 | join: "e" -%}
+{%- assign pager_case_url = "/events/" | append: pager_case_slug -%}
+{%- assign pager_case = pager_sorted | where: "url", pager_case_url | first -%}
+
+<nav class="episode-pager">
+  <span class="pager-prev">
+    {%- if pager_prev -%}
+    <a href="{{site.baseurl}}{{ pager_prev.url }}" title="{{ pager_prev.title | escape }}">&larr; {{ pager_prev.title | split: "]" | first | remove: "[" }}</a>
+    {%- endif -%}
+  </span>
+  <span class="pager-up">
+    {%- if pager_case -%}
+    <a href="{{site.baseurl}}{{ pager_case.url }}">{{ pager_case.title }}</a>
+    {%- endif -%}
+  </span>
+  <span class="pager-next">
+    {%- if pager_next -%}
+    <a href="{{site.baseurl}}{{ pager_next.url }}" title="{{ pager_next.title | escape }}">{{ pager_next.title | split: "]" | first | remove: "[" }} &rarr;</a>
+    {%- endif -%}
+  </span>
+</nav>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

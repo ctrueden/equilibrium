@@ -19,16 +19,19 @@ cases: [01, 02, 05, 10, 12]
 descriptions:
   - session: "01e01"
     content: |
-      Made contact with SPI agents via magic while they were at an inn, summoning them with news of Tremere's death.
+      R. Martine Andrews, Dominic Tremere's emotionless synthetic butler. Late that night she magically contacted the agents at their inn: "SPI. Come quickly. He is dead."
   - session: "02e01"
     content: |
-      Aided SPI agents in combat against undead shadowspawn that emerged from Tremere's secret vault.
+      Persuaded by the agents to join the fight against the undead shadowspawn that burst from Tremere's secret vault, she displayed extraordinary combat abilities.
   - session: "02e02"
     content: |
-      Aided SPI agents in confronting and defeating Euryale at her villa.
+      Accompanied the agents to Euryale's villa and helped defeat her. Back at the manor, the agents told her privately that Isis Ra'ksh now had the Necronomicon; when Tremere called for wine to celebrate, she was gone.
   - session: "10e04"
     content: |
-      Sentient warforged artifact pursuing Isis Raksh in the Deepwood. Reported the Tree is dying and reality has fissured.
+      Answering Callie's sending, she reported that Isis Ra'ksh lurked in the Deepwood, the Tree was dying, and reality had fissured; that Sima had ceased and she felt herself eroding; and that the eye of Orsus must be damaged, and the agents should fix it.
+  - session: "12e12"
+    content: |
+      Burst into the throne room with two of her elite hunters after the battle, pushing past a flustered Anastasia Starflower.
 ---
 
 R. Martine Andrews, Dominic Tremere's former butler and iron woman. She is an artificial consciousness, believed to be one of eight divine relics somehow central to the integrity of reality itself.

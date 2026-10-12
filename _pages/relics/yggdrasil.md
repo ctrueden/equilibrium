@@ -9,12 +9,15 @@ image3-source: https://www.pinterest.com/pin/620582023638302386/
 image4-source: https://www.pinterest.com/pin/202099102004491804/
 image5-source: https://www.pinterest.com/pin/10555380365884748/
 descriptions:
+  - session: "12e02"
+    content: |
+      The dying World Tree was being kept alive by the tree-melded, elves who gave it their life force, one dying each day. Sartus's plan would kill the tree, to be reborn, which is why the Queen and most elves preferred to stop the druid and recover the Necronomicon.
   - session: "12e03"
     content: |
-      The World Tree's immature golden path was explored by the party as they began their ascent to find the Acorn of Life.
+      The agents began climbing the World Tree, finding its immature "golden path" of trees, and then a blighted zone of dead trees.
   - session: "16e05"
     content: |
-      The World Tree's corrupted roots serve as both terrain and obstacle in the Flux tunnels beneath reality; shadow creatures emerge from beneath the massive roots, attacking any who travel upstream.
+      Beneath HQ, Flux flowed along a great root of the World Tree, from which shadowy undead creatures bubbled up to attack the agents.
 ---
 
 An enormous tree at the base of which lies the elven city of [Estanesse](../locales/estanesse). It is believed to be one of eight divine [relics](.) somehow central to the integrity of reality itself.

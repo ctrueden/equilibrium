@@ -1,7 +1,7 @@
 ---
 title: "[17e09] Soul Toll"
 description: >-
-  TODO
+  The agents return to Grohnea's cottage with Ozborn torn between two curses, to find Sissae consumed by a bloom curse, and Vondal takes drastic action.
 datestamp: 50-06-13/09
 when: AC50 Vis 13
 session-number: 96
@@ -9,16 +9,16 @@ session-date: 2026-01-17
 layout: session
 reviewed: false
 callie_journal: >-
-  Because Oz is getting bitten by Freki, I move over to see if there's any way I can help. Not like I have any good ideas.
+  Because [Oz](../dossiers/oz) is getting bitten by [Freki](../dossiers/freki), I move over to see if there's any way I can help. Not like I have any good ideas.
 
 
   Freaked out, Oz tries to stab Freki to get him to let go. Freki steps back.
 
 
-  Vondal uses the Rod of Wonder to try healing, but it doesn't work for some reason. It kind of...kind of looks like when you heal an undead creature?
+  [Vondal](../dossiers/vondal) uses the Rod of Wonder to try healing, but it doesn't work for some reason. It kind of...kind of looks like when you heal an undead creature?
 
 
-  Bec fires a bunch of magic missiles into the crystal ball, exploding it. Awwwww all that moneyyyyy. Oz flips out. "I don't know what that was, but I do know a dirty whore when I see one!" He'll apologize later. Or else.
+  [Bec](../dossiers/bec) fires a bunch of magic missiles into the crystal ball, exploding it. Awwwww all that moneyyyyy. Oz flips out. "I don't know what that was, but I do know a dirty whore when I see one!" He'll apologize later. Or else.
 
 
   As soon as I get next to Oz, I put the Clamulet over his head. Maybe it can help him stop turning undead. Ulgrim orders Oz to kneel, concentrate, and resist. Then he starts chanting. Vondal tries playing a calming song. He's not giving birth, Vondal.
@@ -30,13 +30,13 @@ callie_journal: >-
   Ulgrim says, "What sorcery is this? The force that infects you is stronger than any I've ever seen. We  will need more power." Oh, he's looking at ME!
 
 
-  Ulgrim says Freki's bite actually helped Oz, but Oz isn't having it. Ulgrim strongly suggests they put aside their differences. He proposes that we seek out Thea, the Titan of Brilliant Vision. Cal knows this is Hyperion's wife. No one is allowed to speak of her. The one time Cal witnessed her mentioned, the person who said the name disappeared.
+  Ulgrim says Freki's bite actually helped Oz, but Oz isn't having it. Ulgrim strongly suggests they put aside their differences. He proposes that we seek out [Theia](../dossiers/theia), the Titan of Brilliant Vision. [Cal](../dossiers/cal) knows this is [Hyperion](../dossiers/hyperion)'s wife. No one is allowed to speak of her. The one time Cal witnessed her mentioned, the person who said the name disappeared.
 
 
   "Do you know how to reach her?" Cal asks. Ulgrim thinks he does, and Cal unhesitatingly says we should do it. Ulgrim seems surprised, which makes sense given the risk if Hyperion finds out.
 
 
-  I think about how we get back to Grohnea's, given that Freki and Oz are pretty badly damaged. We can't really hang around on this iceberg, freezing to death. We all feel like we're being torn apart (I take 11 damage), so maybe that was wrong, but at least we all end up back in the witch's cottage. In a few hours, hopefully I'll be able to feel my feet.
+  I think about how we get back to [Grohnea](../dossiers/grohnea)'s, given that Freki and Oz are pretty badly damaged. We can't really hang around on this iceberg, freezing to death. We all feel like we're being torn apart (I take 11 damage), so maybe that was wrong, but at least we all end up back in the witch's cottage. In a few hours, hopefully I'll be able to feel my feet.
 
 
   Vondal isn't here, though. Wonder where he is now? He should carry a little book like mine and write down where he's been. Also *what* he's been. Oh, what is he right now is on fire. Thinking fast, I whip out my Decanter of Endless Water and soak him, extinguishing the flames as well as the entire room.
@@ -45,7 +45,7 @@ callie_journal: >-
   We look around for Grohnea, but she doesn't seem to be here. Freki goes outside to talk to Claudius, his carnivorous plant buddy. Claudius's main bulk seems to have moved around to the garden room area, so Freki goes back inside to walk there through the house.
 
 
-  Sitting under the tree in the garden area is Sissae, completely covered in vines and flowers. Grohnea is walking carefully around, observing closely. When the vines wander too close to Grohnea, Claudius smacks them. Finding what she was looking for, Grohnea plucks a single flower. This turns into a soul butterfly, which she guides into a crystal soul container. She has a lot of these containers, and she puts this new one among them. Cal also notices that her hands were very steady throughout the harvest.
+  Sitting under the tree in the garden area is [Sissae](../dossiers/sissae-moondrop), completely covered in vines and flowers. Grohnea is walking carefully around, observing closely. When the vines wander too close to Grohnea, Claudius smacks them. Finding what she was looking for, Grohnea plucks a single flower. This turns into a soul butterfly, which she guides into a crystal soul container. She has a lot of these containers, and she puts this new one among them. Cal also notices that her hands were very steady throughout the harvest.
 
 
   She looks at us, and greets us kindly, though she doesn't seem to recognize us. She did say that might happen. She says our auras are extraordinary. Anyway, she's busy, and can only deal with one thing at a time. Freki offers to help with anything she needs, and she says she's capable of harvesting most of the flowers, but has never succesfully dealt with a bloom curse before. She points at the flower in the middle, which is growing out of Sissae's heart.
@@ -106,9 +106,9 @@ callie_journal: >-
 summary: >-
   The party found themselves in the aftermath of their confrontation with the
   cult at the Storm Stables, dealing with the remaining giants and cultists.
-  Ulgrim, the bear shaman, and Kavaki, their old ally who had been acting as a
+  Ulgrim, the bear shaman, and [Kavaki](../dossiers/kavaki), their old ally who had been acting as a
   mole, proved sympathetic to their cause. The Brood Mother, whose eggs had been
-  corrupted by the cult leader Rhyzophus, had already taken her vengeance by
+  corrupted by the cult leader [Rhyzophus](../dossiers/rhyzophus), had already taken her vengeance by
   dragging off and eating several hill giants. The party took Ulgrim to the
   underground hot spring to show him the ancient ritual chamber—a place
   originally designed to promote someone to godhood, but which Rhyzophus had
@@ -116,24 +116,24 @@ summary: >-
 
 
   The conversation turned to the soul larvae that the party had been using to
-  extract souls from their defeated enemies. Bec carried these strange entities
+  extract souls from their defeated enemies. [Bec](../dossiers/bec) carried these strange entities
   in a pouch, and the party explained to Ulgrim that they needed these souls as
-  payment to Grohnea, a changeling who could remove their curses. Grohnea had
-  previously used two of these larvae to cure Callie and Bec, transforming them
+  payment to [Grohnea](../dossiers/grohnea), a changeling who could remove their curses. Grohnea had
+  previously used two of these larvae to cure [Callie](../dossiers/callie) and Bec, transforming them
   into butterflies that Grohnea somehow absorbed, but she told them she needed
   more souls to help anyone further, which had set them on this quest in the
   first place.
 
 
-  Cal, acting as Hyperion's representative, delivered justice to the remaining
+  [Cal](../dossiers/cal), acting as [Hyperion](../dossiers/hyperion)'s representative, delivered justice to the remaining
   giants and cultists. He gave them a choice: undertake a quest of redemption or
-  face death. The quest he proposed was to free the halfling colony of Xaryuvia
+  face death. The quest he proposed was to free the halfling colony of [Xaryuvia](../locales/xaryuvia)
   from the tyranny of the Xaryu beholder hive. The problem was that no one knew
   where Xaryuvia was located. The party began discussing how to find it,
   considering using their scrying abilities to locate someone who might know.
 
 
-  They decided to scry on Orlok, hoping he might provide a lead. As Ozborn made
+  They decided to scry on [Orlok](../dossiers/orlok), hoping he might provide a lead. As [Ozborn](../dossiers/oz) made
   mental contact through the crystal ball, he felt a third presence—something
   neither him nor Orlok—connect to his mind. A voice spoke the words "my child,"
   and then Oz felt a psychic attack strike him. Blood burst from a vampire bite
@@ -141,7 +141,7 @@ summary: >-
   The party watched in horror as Oz began bleeding profusely from the wound.
 
 
-  Freki, in his werewolf form, immediately lunged forward and bit Oz on the same
+  [Freki](../dossiers/freki), in his werewolf form, immediately lunged forward and bit Oz on the same
   wound, believing his lycanthropic essence could help counteract the vampiric
   attack. Oz experienced intense pain from both the psychic assault and Freki's
   physical bite, but the unnatural spurting of blood began to slow. Freki
@@ -179,7 +179,7 @@ summary: >-
 
 
   Discussion briefly returned to how the questing giants might discover
-  Xaryuvia's location. Ulgrim reluctantly suggested they seek out Theia, the
+  Xaryuvia's location. Ulgrim reluctantly suggested they seek out [Theia](../dossiers/theia), the
   Titan of Brilliant Vision, for treatment. The mention of Theia's name struck
   Cal with deep significance: he recalled that Theia was Hyperion's wife and his
   own stepmother, though her name was forbidden to be spoken. She had left
@@ -195,7 +195,7 @@ summary: >-
   Meanwhile, Oz, still reeling from the attack and Freki's intervention,
   confronted the werewolf about consent. He made it clear that Freki should have
   asked before biting him, and threatened that if it happened again, Freki's
-  last thoughts should be of his home in the Selva. The tension between them was
+  last thoughts should be of his home in the [Selva](../locales/selva). The tension between them was
   palpable, but the urgency of Oz's condition took precedence over their
   conflict.
 
@@ -204,8 +204,8 @@ summary: >-
   everyone back to Grohnea's cottage, but she had conflicting memories about how
   the release should be handled. The teleportation proved chaotic and unstable,
   causing reality to shear around them. Everyone took significant damage as they
-  were pulled back through the magical tunnel. Vondal, attempting to help,
-  channeled the Flux to tamp down on the reality shear, but manifested a wild
+  were pulled back through the magical tunnel. [Vondal](../dossiers/vondal), attempting to help,
+  channeled the [Flux](../locales/flux) to tamp down on the reality shear, but manifested a wild
   surge as a column of fire engulfing him when they arrived. Callie quickly used
   her Decanter of Endless Water to douse the flames, thoroughly drenching both
   Vondal and the interior of Grohnea's cottage.
@@ -214,7 +214,7 @@ summary: >-
   The party found themselves in Grohnea's tea room, but she was nowhere to be
   seen. Freki attempted to speak with Claudius, the sentient plant that grew
   around the cottage, but found him deeply agitated and focused elsewhere.
-  Following the plant's attention, they discovered Sissae in the garden room,
+  Following the plant's attention, they discovered [Sissae](../dossiers/sissae-moondrop) in the garden room,
   sitting serenely at the base of a tree. She was covered in glowing flowering
   vines, dozens of different varieties blooming across her body. A giant owl
   with a third eye and mask sat nearby, writing intently in floating books with
@@ -224,7 +224,7 @@ summary: >-
   Grohnea appeared from behind the tree, carefully harvesting the flowers from
   Sissae's body. As she cut each bloom, it transformed into a luminous soul
   butterfly that she guided into crystal containers. She explained that Sissae
-  had come to her requesting removal of her White Crane tattoo, but when Grohnea
+  had come to her requesting removal of her [White Crane](../dossiers/white-crane) tattoo, but when Grohnea
   attempted the procedure, a defense mechanism in the tattoo triggered a bloom
   curse. The flowers were extracting Sissae's memories one by one, and if left
   unchecked, she would eventually transform into a field of plants with no mind
@@ -265,7 +265,7 @@ summary: >-
   moved to harvest the remaining flowers before they wilted, managing to capture
   two more soul butterflies. As the flowers dissipated, the party experienced
   fleeting tastes of Sissae's memories—fragments of her past that they could
-  almost grasp but which slipped away like rain. Then they heard voices: Isis
+  almost grasp but which slipped away like rain. Then they heard voices: [Isis](../dossiers/isis-raksh)
   speaking telepathically about "a gift from a benefactor" and letting "the
   vortex think it's still controlling me," followed by an older version of
   Grohnea's voice whispering "Gods, forgive me." The present Grohnea appeared
@@ -279,7 +279,7 @@ summary: >-
   requested.
 
 
-  Vondal summoned his genie companion, Zanqaa the Devoted, hoping for magical
+  Vondal summoned his genie companion, [Zanqaa the Devoted](../dossiers/zanqaa), hoping for magical
   intervention. The genie clarified that he had already granted Vondal and the
   others all their wishes, and was not a slave but rather lingered out of
   gratitude for his liberation from a previous arrangement. Vondal suggested
@@ -301,7 +301,7 @@ summary: >-
   &gt; * Bec's growing psychopathy and love of killing (though her allies do not
   know)
 
-  &gt; * Vondal's terror of the Great Old One and bat-like features
+  &gt; * Vondal's terror of the [Great Old One](../dossiers/great-old-one) and bat-like features
 
   &gt; * Oz's antlers and doubled speed along with his dual vampiric and
   lycanthropic infections
@@ -319,34 +319,34 @@ summary: >-
 short_summary: >+
   The party dealt with the aftermath of their confrontation at the Storm
   Stables, showing the sympathetic bear shaman Ulgrim the ancient ritual chamber
-  that cult leader Rhyzophus had corrupted. Cal, acting as Hyperion's
+  that cult leader [Rhyzophus](../dossiers/rhyzophus) had corrupted. [Cal](../dossiers/cal), acting as [Hyperion](../dossiers/hyperion)'s
   representative, offered the remaining giants and cultists a quest of
-  redemption: free the halfling colony of Xaryuvia from beholder tyranny. When
-  the party attempted to scry on Orlok for information, a third presence invaded
-  Oz's mind, calling him "my child" before launching a psychic attack that
-  caused him to bleed profusely from a phantom vampire bite. Freki, in werewolf
+  redemption: free the halfling colony of [Xaryuvia](../locales/xaryuvia) from beholder tyranny. When
+  the party attempted to scry on [Orlok](../dossiers/orlok) for information, a third presence invaded
+  [Oz](../dossiers/oz)'s mind, calling him "my child" before launching a psychic attack that
+  caused him to bleed profusely from a phantom vampire bite. [Freki](../dossiers/freki), in werewolf
   form, bit Oz on the same wound in an attempt to counteract the vampiric
   influence with lycanthropic essence, which worked but led to Oz retaliate
   violently, believing Freki had gone feral. The party realized Oz was becoming
   undead, afflicted with both vampiric and lycanthropic forces battling within
   him. Ulgrim created a protective cocoon that would last three days, but
   admitted the infection was beyond his power. He also suggested the questing
-  giants seek out Theia, the Titan of Brilliant Vision—Hyperion's estranged
+  giants seek out [Theia](../dossiers/theia), the Titan of Brilliant Vision—Hyperion's estranged
   wife, whose name was forbidden to speak—for her aid in locating Xaryuvia
   within the catacombs. Cal gave his blessing despite knowing it could result in
-  his disownment, and the party chaotically teleported back to Grohnea's
+  his disownment, and the party chaotically teleported back to [Grohnea](../dossiers/grohnea)'s
   cottage.
 
 
-  They discovered Grohnea harvesting glowing soul butterflies from Sissae, who
+  They discovered Grohnea harvesting glowing soul butterflies from [Sissae](../dossiers/sissae-moondrop), who
   was covered in flowering vines—the result of a bloom curse triggered when
-  Grohnea attempted to remove her White Crane tattoo. The curse was extracting
+  Grohnea attempted to remove her [White Crane](../dossiers/white-crane) tattoo. The curse was extracting
   Sissae's memories and would soon transform her into mindless plants. As the
-  party debated how to help, Vondal impulsively destroyed the central egret
+  party debated how to help, [Vondal](../dossiers/vondal) impulsively destroyed the central egret
   orchid growing from Sissae's heart with an eldritch blast, killing her
   instantly but stopping the curse. Grohnea managed to harvest two more memory
   butterflies before the flowers disintegrated. Vondal summoned the genie
-  Zanqaa, who granted Grohnea's wish to restore Sissae to life, leaving her
+  [Zanqaa](../dossiers/zanqaa), who granted Grohnea's wish to restore Sissae to life, leaving her
   whole but unconscious. Grohnea said she would need soul larvae to cure Oz's
   curses, but the party had brought them at her earlier behest. Grohnea
   confirmed she could use the six soul larvae to help cure the party's various
@@ -356,14 +356,14 @@ short_summary: >+
 classic_summary: >
   Last we left off, after confronting the cult at the ice palace and dealing
   with the aftermath, the party found themselves navigating increasingly
-  dangerous waters. They had secured soul larvae to pay Grohnea for curse
+  dangerous waters. They had secured soul larvae to pay [Grohnea](../dossiers/grohnea) for curse
   removal, delivered justice to the remaining cultists by tasking them with
-  freeing the halfling colony of Xaryuvia from beholder tyranny, and attempted
-  to scry on Orlok for information. But the scrying went catastrophically wrong
-  when a third presence—something ancient and malevolent—invaded Oz's mind,
+  freeing the halfling colony of [Xaryuvia](../locales/xaryuvia) from beholder tyranny, and attempted
+  to scry on [Orlok](../dossiers/orlok) for information. But the scrying went catastrophically wrong
+  when a third presence—something ancient and malevolent—invaded [Oz](../dossiers/oz)'s mind,
   speaking the words "my child" before launching a psychic assault that
   manifested as a vampiric attack. Blood erupted from a phantom bite wound on
-  his neck, and in a moment of desperate instinct, Freki bit Oz in werewolf
+  his neck, and in a moment of desperate instinct, [Freki](../dossiers/freki) bit Oz in werewolf
   form, believing his lycanthropic essence could counteract the vampiric
   corruption. The chaos escalated as Oz, thinking Freki had gone feral,
   retaliated with devastating attacks while the party scrambled to understand
@@ -374,18 +374,18 @@ classic_summary: >
   lycanthropic curses battling for dominance within his body. Ulgrim's
   protective ritual bought them three days at most, and the party decided to
   return to Grohnea, who might have the skills to save Oz. Ulgrim and the
-  ex-cultists, with Cal's permission, decided to seek Theia, the Titan of
-  Brilliant Vision—Hyperion's estranged wife whose name Hyperion forbid to be
+  ex-cultists, with [Cal](../dossiers/cal)'s permission, decided to seek [Theia](../dossiers/theia), the Titan of
+  Brilliant Vision—[Hyperion](../dossiers/hyperion)'s estranged wife whose name Hyperion forbid to be
   spoken—for help locating Xaryuvia. After a chaotic teleportation back to
-  Grohnea's cottage that left the agents battered and Vondal briefly on fire,
-  they discovered Sissae trapped in a bloom curse, her memories being extracted
+  Grohnea's cottage that left the agents battered and [Vondal](../dossiers/vondal) briefly on fire,
+  they discovered [Sissae](../dossiers/sissae-moondrop) trapped in a bloom curse, her memories being extracted
   as flowers while she slowly transformed into mindless vegetation. In a
   split-second decision that shocked everyone, Vondal destroyed the central
   orchid growing from her heart, killing her instantly but preserving more of
   her memories for resurrection.
 
 
-  Now, with Sissae restored to life through Zanqaa's wish magic but still
+  Now, with Sissae restored to life through [Zanqaa](../dossiers/zanqaa)'s wish magic but still
   unconscious, Grohnea has confirmed she can use the six soul larvae to help
   cure the party's various afflictions—but only if they can clearly define who
   they truly are beneath the curses. As each member contemplates their
@@ -403,41 +403,41 @@ snarky_summary: >
   D&D.
 
 
-  Ozborn tried to scry on Orlok and accidentally got psychically attacked by
+  [Ozborn](../dossiers/oz) tried to scry on [Orlok](../dossiers/orlok) and accidentally got psychically attacked by
   what's probably a vampire god who called him "my child" before making his neck
-  explode like a blood fountain. Freki, in peak werewolf logic, decided the BEST
+  explode like a blood fountain. [Freki](../dossiers/freki), in peak werewolf logic, decided the BEST
   response was to bite Oz on the same wound without asking, because apparently
   consent is optional when you're trying to counteract vampirism with
   lycanthropy. Oz, reasonably assuming his friend had gone feral, immediately
   stabbed him repeatedly with magic daggers while Freki ran away screaming "IT'S
-  WORKING!" Cal wisely decided to allow the giants to seek out Theia—Hyperion's
-  estranged wife whose name is literally forbidden—to find Xaryuvia (which will
-  probably get him disowned) so that he could ditch out back to Grohnea's to
+  WORKING!" [Cal](../dossiers/cal) wisely decided to allow the giants to seek out [Theia](../dossiers/theia)—[Hyperion](../dossiers/hyperion)'s
+  estranged wife whose name is literally forbidden—to find [Xaryuvia](../locales/xaryuvia) (which will
+  probably get him disowned) so that he could ditch out back to [Grohnea](../dossiers/grohnea)'s to
   cure Oz's dual monster infection. But teleporting back to Grohnea's cottage
   ripped a hole in the space-time continuum, causing everyone massive damage,
-  and then they found Sissae being consumed by a memory-eating bloom curse.
-  Vondal's solution? Eldritch blast her heart flower and kill her instantly,
-  then argue they could just resurrect her later. Callie was so mad she punched
+  and then they found [Sissae](../dossiers/sissae-moondrop) being consumed by a memory-eating bloom curse.
+  [Vondal](../dossiers/vondal)'s solution? Eldritch blast her heart flower and kill her instantly,
+  then argue they could just resurrect her later. [Callie](../dossiers/callie) was so mad she punched
   him right at crotch height, and Grohnea casually wished for Vondal's pinky
-  finger to be severed because why not add amputation to the chaos? Zanqaa the
+  finger to be severed because why not add amputation to the chaos? [Zanqaa](../dossiers/zanqaa) the
   genie resurrected Sissae, and now the party has to decide which parts of their
   curses define who they are versus what they want to cut away. Nothing says
   "character development" like existential crisis during curse removal while
   your friend is quickly morphing into a vampire-werewolf hybrid.
 limerick_style_summary: |
   They cleaned up the ice palace mess,  
-  With Ulgrim and Kavaki no less.  
+  With Ulgrim and [Kavaki](../dossiers/kavaki) no less.  
   They showed him the spring,  
   That dark ritual thing,  
-  Where Rhyzophus had caused such distress.
+  Where [Rhyzophus](../dossiers/rhyzophus) had caused such distress.
 
-  Cal offered the cultists a quest,  
-  To free halfling Xaryuvia oppressed.  
-  They scried upon Orlok,  
+  [Cal](../dossiers/cal) offered the cultists a quest,  
+  To free halfling [Xaryuvia](../locales/xaryuvia) oppressed.  
+  They scried upon [Orlok](../dossiers/orlok),  
   But suffered a shock—  
-  A vampire's bite pierced Ozborn's neck!
+  A vampire's bite pierced [Ozborn](../dossiers/oz)'s neck!
 
-  Freki bit down with his jaw,  
+  [Freki](../dossiers/freki) bit down with his jaw,  
   His lycanthropy countering the flaw.  
   But Ozborn struck back,  
   A furious attack,  
@@ -447,11 +447,11 @@ limerick_style_summary: |
   Both vampire and werewolf collide.  
   Ulgrim's bear shield,  
   Three days it should yield,  
-  But Grohnea they'd need as their guide.
+  But [Grohnea](../dossiers/grohnea) they'd need as their guide.
 
-  At Grohnea's they found Sissae cursed,  
+  At Grohnea's they found [Sissae](../dossiers/sissae-moondrop) cursed,  
   With flowers of memory, immersed.  
-  Vondal blasted her heart,  
+  [Vondal](../dossiers/vondal) blasted her heart,  
   A controversial start—  
   Then wished back to life, death reversed!
 memorable_moments:
@@ -496,39 +496,39 @@ scenes:
     key_events:
       - >-
         The party dealt with the remaining cultists and giants after their
-        leader's defeat, with Ulgrim the bear shaman and Kavaki appearing
+        leader's defeat, with Ulgrim the bear shaman and [Kavaki](../dossiers/kavaki) appearing
         sympathetic.
       - >-
-        Rhizopus, the main cult leader, was revealed to have been corrupting the
+        [Rhyzophus](../dossiers/rhyzophus), the main cult leader, was revealed to have been corrupting the
         Brood Mother's eggs to create lightning elementals.
       - >-
-        Vondal had warned the Brood Mother about Rhizopus's actions, leading her
+        [Vondal](../dossiers/vondal) had warned the Brood Mother about Rhyzophus's actions, leading her
         to seek vengeance by consuming some of the defeated giants.
       - >-
         The party took Ulgrim to an underground hot spring, revealing an ancient
         ritual chamber in the ice palace, capable of promoting godhood, which
-        Rhizopus had misused.
+        Rhyzophus had misused.
       - >-
         The party explained to Ulgrim about the soul larva used to extract souls
-        from defeated giants, which Bec currently holds.
+        from defeated giants, which [Bec](../dossiers/bec) currently holds.
       - >-
-        Gronia had previously used soul larva to remove curses from Callie and
+        [Grohnea](../dossiers/grohnea) had previously used soul larva to remove curses from [Callie](../dossiers/callie) and
         Bec, transforming the larva into butterflies.
       - >-
-        Gronia requires more souls to continue removing curses, initiating the
-        quest to free the halfling colony of Zaryudia from beholders.
+        Grohnea requires more souls to continue removing curses, initiating the
+        quest to free the halfling colony of [Xaryuvia](../locales/xaryuvia) from beholders.
       - >-
-        Cal, as Hyperion's representative, told the remaining giants and
+        [Cal](../dossiers/cal), as [Hyperion](../dossiers/hyperion)'s representative, told the remaining giants and
         cultists they must complete a quest of redemption or face death.
   - title: The Scrying Incident and Freki's Intervention
     description: >-
-      While attempting to locate Zaryudia by scrying Orlock, Ozborn was
-      psychically attacked, leading to a physical vampire bite and Freki's
+      While attempting to locate Xaryuvia by scrying [Orlok](../dossiers/orlok), [Ozborn](../dossiers/oz) was
+      psychically attacked, leading to a physical vampire bite and [Freki](../dossiers/freki)'s
       immediate, wolfish intervention.
     key_events:
-      - The party decided to scry Orlock to find the location of Zaryudia.
+      - The party decided to scry Orlok to find the location of Xaryuvia.
       - >-
-        Upon making mental contact with Orlock, Ozborn felt a third, unknown
+        Upon making mental contact with Orlok, Ozborn felt a third, unknown
         presence connect to his mind, which spoke the words 'my child'.
       - >-
         Ozborn then suffered a psychic attack, manifesting as a gushing vampire
@@ -600,7 +600,7 @@ scenes:
         proves too tenacious to fully remove.
   - title: Seeking Theia and Confronting Hyperion's Wrath
     description: >-
-      Ulgrim suggests seeking Theia, the Titan of Brilliant Vision, prompting
+      Ulgrim suggests seeking [Theia](../dossiers/theia), the Titan of Brilliant Vision, prompting
       Cal to recall forbidden knowledge about her and her past conflict with
       Hyperion.
     key_events:
@@ -615,68 +615,68 @@ scenes:
         Cal understands that seeking Theia would anger Hyperion, potentially
         leading to his disownment.
       - >-
-        Cal considers Themis, the Titaness of cosmic order and justice, as an
+        Cal considers [Themis](../dossiers/themis), the Titaness of cosmic order and justice, as an
         alternative, but Ulgrim dismisses her as less invested and difficult to
         find.
       - >-
         Despite the risks, Cal gives his blessing to seek Theia, and Kavaki
-        pledges to join the quest to free Zaryudia.
+        pledges to join the quest to free Xaryuvia.
       - >-
         Ozborn confronts Freki about consent, threatening to remember Freki's
-        home village, the Selva, if it happens again.
+        home village, the [Selva](../locales/selva), if it happens again.
       - >-
-        The party decides to return to Gronia's cottage to seek a cure for
+        The party decides to return to Grohnea's cottage to seek a cure for
         Ozborn's afflictions.
-  - title: Chaotic Teleportation to Gronia's Cottage
+  - title: Chaotic Teleportation to Grohnea's Cottage
     description: >-
-      Callie attempts to teleport the party back to Gronia's cottage, but
+      Callie attempts to teleport the party back to Grohnea's cottage, but
       conflicting memories about the ward's function lead to a chaotic arrival,
       inflicting damage on everyone.
     key_events:
       - >-
         Callie attempts to use a ward of returning to transport the party to
-        Gronia's cottage, but is unsure of the correct procedure due to
+        Grohnea's cottage, but is unsure of the correct procedure due to
         conflicting memories.
       - >-
         The teleportation process is unstable, causing everyone in the party to
         take 23 points of damage.
       - >-
-        Vondal, experiencing the Flux as reality folding, attempts to activate a
+        Vondal, experiencing the [Flux](../locales/flux) as reality folding, attempts to activate a
         wild surge to dissipate the effect.
       - >-
-        Vondal appears in Gronia's cottage engulfed in a column of fire, causing
+        Vondal appears in Grohnea's cottage engulfed in a column of fire, causing
         him terror and burning.
       - >-
         Callie, acting quickly, uses her Decanter of Endless Water to douse the
         flames, thoroughly drenching Vondal and the cottage interior.
   - title: Discovering Sissae's Bloom Curse
     description: >-
-      The party searches Gronia's cottage and discovers Sisai afflicted by a
-      mysterious bloom curse, with Gronia attempting to harvest soul butterflies
+      The party searches Grohnea's cottage and discovers [Sissae](../dossiers/sissae-moondrop) afflicted by a
+      mysterious bloom curse, with Grohnea attempting to harvest soul butterflies
       from her.
     key_events:
-      - The party finds themselves in Gronia's tea room, but Gronia is absent.
+      - The party finds themselves in Grohnea's tea room, but Grohnea is absent.
       - >-
         Freki attempts to speak with Claudius, a sentient plant outside the
         cottage, who is agitated and focused elsewhere.
       - >-
-        The party investigates and finds Sisai, covered in glowing flowering
+        The party investigates and finds Sissae, covered in glowing flowering
         vines, in a serene, catatonic state at the base of a tree in the garden
         room.
       - >-
         A giant owl with a third eye and mask is observed writing in books
         nearby.
       - >-
-        Gronia is seen harvesting soul butterflies from Sisai's flowers and
+        Grohnea is seen harvesting soul butterflies from Sissae's flowers and
         collecting them in crystal containers.
       - >-
-        Gronia acknowledges the party's presence, sensing their extraordinary
+        Grohnea acknowledges the party's presence, sensing their extraordinary
         essences.
       - >-
-        Gronia explains that Sisai is afflicted by a 'bloom curse,' triggered
-        when she attempted to remove Sisai's tattoo.
+        Grohnea explains that Sissae is afflicted by a 'bloom curse,' triggered
+        when she attempted to remove Sissae's tattoo.
       - >-
-        She identifies a large, dangerous egret orchid growing from Sisai's
+        She identifies a large, dangerous egret orchid growing from Sissae's
         heart, stating that harvesting it will trigger something unpleasant
         without aid.
   - title: Debating the Bloom Curse and Vondal's Impulsive Act
@@ -690,51 +690,51 @@ scenes:
         learning they extract memories and are difficult to remove.
       - >-
         The party holds a private conference to discuss strategies, considering
-        options like waking Sisai, dispelling the curse, or helping Gronia
+        options like waking Sissae, dispelling the curse, or helping Grohnea
         harvest smaller flowers.
       - >-
-        Gronia urges a quick decision as the curse is accelerating, giving them
+        Grohnea urges a quick decision as the curse is accelerating, giving them
         only 10-20 minutes before the transformation becomes irreversible.
       - >-
         The party brainstorms several ideas, with Ozborn claiming he can use
         chronomancy to 'rewind time' if their chosen solution fails.
       - >-
-        Gronia reveals that the egret orchid requires the party's 'special
+        Grohnea reveals that the egret orchid requires the party's 'special
         properties' or 'fragments' to stabilize Sissae during its extraction.
       - >-
         Vondal, without warning, uses Eldritch Blast to vaporize the egret
         orchid growing from Sissae's heart, killing her instantly.
-      - Gronia reacts with horror and dismay at Vondal's action.
+      - Grohnea reacts with horror and dismay at Vondal's action.
       - >-
-        Gronia swiftly attempts to pluck remaining flowers from Sissae's body to
+        Grohnea swiftly attempts to pluck remaining flowers from Sissae's body to
         capture more memories before they wilt, managing to save two.
   - title: Aftermath and Mysterious Voices
     description: >-
       In the wake of Sissae's death, the party experiences fleeting memories and
-      hears mysterious voices, followed by Gronia's revelation about lacking
+      hears mysterious voices, followed by Grohnea's revelation about lacking
       materials.
     key_events:
       - >-
         The party experiences a fleeting taste of Sissae's memories as the
         flowers dissipate.
-      - An older Gronia's voice is heard saying, 'A gift from a benefactor'
+      - An older Grohnea's voice is heard saying, 'A gift from a benefactor'
       - >-
-        A voice, identified as Isis, from Sissae's memory, speaks telepathically
+        A voice, identified as [Isis](../dossiers/isis-raksh), from Sissae's memory, speaks telepathically
         to the party, stating 'I'm going to let the vortex think it's still
         controlling me.'
       - >-
-        An older Gronia's voice is heard whispering 'Gods, forgive me', which
-        the present Gronia also seems to hear, appearing shocked.
+        An older Grohnea's voice is heard whispering 'Gods, forgive me', which
+        the present Grohnea also seems to hear, appearing shocked.
       - >-
-        Gronia then states she cannot help Ozborn with his curses because she
+        Grohnea then states she cannot help Ozborn with his curses because she
         lacks the necessary materials, specifically 'the head of an angel'.
       - >-
-        Claudius interjects, reminding Gronia that she sent the party to
+        Claudius interjects, reminding Grohnea that she sent the party to
         retrieve those materials, confirming they possess soul larvae.
       - Callie, enraged by Ozborn's actions, attacks Freki.
-  - title: Genie's Intervention and Sisai's Resurrection
+  - title: Genie's Intervention and Sissae's Resurrection
     description: >-
-      Vondal summons his genie, Zanqaa the Devoted, who grants Grohnea's wish to
+      Vondal summons his genie, [Zanqaa the Devoted](../dossiers/zanqaa), who grants Grohnea's wish to
       remove Vondal's pinky finger, as well as to restore Sissae to life.
     key_events:
       - >-
@@ -759,12 +759,12 @@ scenes:
       - Finally, Grohnea decides to save her third wish for another time...
   - title: Curse Recap and Homework Assignment
     description: >-
-      Gronia confirms she can use the collected soul larvae to help the party
+      Grohnea confirms she can use the collected soul larvae to help the party
       with their curses, and the GM recaps each character's afflictions, tasking
       players with conceptualizing their self-image for the next session's cure.
     key_events:
       - >-
-        Gronia confirms she can use the six soul larvae the party possesses to
+        Grohnea confirms she can use the six soul larvae the party possesses to
         help with their curses.
       - >-
         The GM recaps the various curses affecting the party members: Bec's
@@ -774,7 +774,7 @@ scenes:
         mushrooms, and fuzzy brain.
       - >-
         Players are instructed to conceptualize their self-image in writing for
-        the next session, to guide Gronia in extracting the parts of their
+        the next session, to guide Grohnea in extracting the parts of their
         curses that don't align with their desired identity.
       - >-
         The party discusses which curses they want to prioritize removing, with
@@ -789,21 +789,24 @@ npcs:
       Titan of Brilliant Vision, for aid. He enthusiastically joins the quest to
       free Xaryuvia.
   - name: Kavaki
+    wiki: ../dossiers/kavaki
     description: >-
       An old ally of the party who had been acting as a mole within the cult.
       She pledges to join the quest to free Xaryuvia, offering her arm to Cal
       and Callie in a gesture of solidarity.
   - name: Rhyzophus
+    wiki: ../dossiers/rhyzophus
     description: >-
       The main leader of the cult, who was using the ice palace's ritual chamber
       to corrupt the Brood Mother's eggs to create lightning elementals. He has
       been defeated by the party.
   - name: Brood Mother
     description: >-
-      A cunning creature whose eggs were being corrupted by Rhizopus. She sought
+      A cunning creature whose eggs were being corrupted by Rhyzophus. She sought
       vengeance by consuming some of the defeated giants after waiting for an
       opportunity.
   - name: Grohnea
+    wiki: ../dossiers/grohnea
     description: >-
       A changeling who lives in a swamp cottage and is skilled in dealing with
       curses and soul larvae. She is found harvesting soul butterflies from
@@ -812,10 +815,12 @@ npcs:
       resurrect Sissae and confirms she can use the party's soul larvae to cure
       their afflictions.
   - name: Orlok
+    wiki: ../dossiers/orlok
     description: >-
       An individual the party attempted to scry to gain information about
       Xaryuvia, leading to Ozborn's psychic attack.
   - name: Brucolac
+    wiki: ../dossiers/cronus
     description: >-
       A powerful vampire mentioned as potentially being strong enough to inflict
       the kind of vampiric curse Ozborn is experiencing, even from a distance.
@@ -827,6 +832,7 @@ npcs:
       vines growing from her. He speaks Common and remembers the party,
       confirming that Grohnea had sent them to retrieve materials.
   - name: Sissae
+    wiki: ../dossiers/sissae-moondrop
     description: >-
       Isis's anchor, found in a serene, catatonic state at the base of a tree in
       Grohnea's garden room. She is covered in glowing flowering vines due to a
@@ -835,6 +841,7 @@ npcs:
       Eldritch Blast but later resurrected by Grohnea's wish, though she remains
       unresponsive.
   - name: Zanqaa
+    wiki: ../dossiers/zanqaa
     description: >-
       A genie summoned by Vondal. He has a history with Vondal, having been
       liberated from a previous arrangement, and expresses lingering gratitude.
@@ -842,6 +849,7 @@ npcs:
       Ozborn's pinky finger, but states he has already granted wishes to Vondal
       and the others.
   - name: Theia
+    wiki: ../dossiers/theia
     description: >-
       The Titan of Brilliant Vision, Hyperion's wife, and Cal's stepmother. Her
       name is taboo due to a profound disagreement with Hyperion regarding the
@@ -849,11 +857,13 @@ npcs:
       is associated with the sky, stars, jewels, and revealing hidden truths,
       but also with waning power.
   - name: Themis
+    wiki: ../dossiers/themis
     description: >-
       The Titaness of cosmic order and justice, known as an Oracle. She is
       rumored to appear when great injustice occurs, but Ulgrim believes she
       would not be invested in the mission and is difficult to find.
   - name: Hyperion
+    wiki: ../dossiers/hyperion
     description: >-
       The Titan of Ice, known for being rules-oriented and strict about the
       Ordning. He had a significant falling out with his wife, Theia, over this
@@ -864,6 +874,7 @@ npcs:
       is confident in his ability to hold the fort until reinforcements arrive
       and is tasked by the party to send for them.
   - name: Isis
+    wiki: ../dossiers/isis-raksh
     description: >-
       Her voice is heard telepathically by the party from within Sissae's fading
       memories, stating 'A gift from a benefactor' and 'I'm going to let the
@@ -872,26 +883,28 @@ locations:
   - name: Ice Palace
     description: >-
       An ancient structure containing a ritual chamber, originally capable of
-      promoting someone to godhood, but corrupted by Rhizopus to manipulate the
+      promoting someone to godhood, but corrupted by Rhyzophus to manipulate the
       Brood Mother's eggs. The party recently defeated the cult here and left it
       in the care of two storm giants.
   - name: Hot Spring (underground)
     description: >-
       An underground location within the ice palace where the party took Ulgrim
       to show him the ritual chamber and explain the events that transpired.
-  - name: Zaryudia
+  - name: Xaryuvia
+    wiki: ../locales/xaryuvia
     description: >-
       A halfling colony suffering under the control of beholders, which the
       party is tasked with freeing as a quest of redemption for the remaining
       giants and cultists.
-  - name: Gronia's Cottage
+  - name: Grohnea's Cottage
     description: >-
-      A swamp house with a tea room and a garden room, where Gronia conducts her
+      A swamp house with a tea room and a garden room, where Grohnea conducts her
       work. The cottage becomes drenched in water after Callie uses her Decanter
       of Endless Water to put out Vondal's fire. The garden room is the largest
-      part, with glass openings for light, containing a central tree where Sisai
+      part, with glass openings for light, containing a central tree where Sissae
       is found afflicted by a bloom curse.
   - name: The Selva
+    wiki: ../locales/selva
     description: >-
       The region where Freki originated, mentioned by Ozborn as a place to
       remember if Freki's actions cause further harm.
@@ -966,10 +979,10 @@ spells:
   - name: Eldritch Blast
     description: >-
       A powerful magical attack used by Ozborn to impulsively vaporize the egret
-      orchid growing from Sisai's heart, resulting in her immediate death.
+      orchid growing from Sissae's heart, resulting in her immediate death.
   - name: Wish
     description: >-
-      A powerful magical effect granted by Sunclaw the genie. Gronia uses it to
-      restore Sisai to life after she was killed by Ozborn. Cal also uses it to
+      A powerful magical effect granted by Sunclaw the genie. Grohnea uses it to
+      restore Sissae to life after she was killed by Ozborn. Cal also uses it to
       wish for Ozborn's pinky finger, which is immediately severed.
 ---

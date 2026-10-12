@@ -23,7 +23,10 @@ case: ["16"]
 descriptions:
   - session: "16e04"
     content: |
-      When Audreth invited his patron to look upon the false Afterworld realm, the Great Old One's gaze directly affected all agents, inducing madness tailored to each; agents experienced incomprehensible visions and psychic damage.
+      Audreth invited his patron to look upon the tower, and its giant eye zoomed in, overshadowing everything; the agents were left seizing, connected by Flux tentacles, until Audreth broke free and Callie's zone of reality woke them, each scarred by madness in their own way.
+  - session: "16e08"
+    content: |
+      Its eye returned, watching the battle with great interest; Vondal, Bec and Freki felt they had come home.
 ---
 
 {% include img pinimg="d97d334546eaf0603f1917710d8b76dd.jpg" pin=66780006969423814 style="width: 100%" %}

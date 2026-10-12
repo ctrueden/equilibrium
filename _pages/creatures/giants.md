@@ -7,10 +7,10 @@ image-source: https://www.pinterest.com/pin/480266747755710649/
 descriptions:
   - session: "17e05"
     content: |
-      Several giants served as reluctant soldiers for Rhyzophus's cult at the Storm Stables, held in place by magical enchantments that overrode their autonomy and free will.
+      At the Storm Stables, the agents found giants who had been ensorcelled into Rhyzophus's service, and others who served him willingly, such as Verthandi and Skalfang.
   - session: "17e07"
     content: |
-      The surviving giant cultists were offered redemption through a dangerous quest to free the halfling colony of Xaryuvia from beholder tyranny; most accepted the quest in hopes of restoring their honor.
+      Rhyzophus's followers had lined up by size, despite his supposed opposition to the Ordning. Cowed by Cal, who killed the challenger Thok, they bowed and returned to their quarters to await individual judgment; Mira argued the hill giants should be executed, Kavaki that everyone has potential.
 ---
 
 *Note: This description is copied from elsewhere on the Internet, where it often appears on campaign setting websites (e.g. [1](https://www.worldanvil.com/w/northwest-faerun-kalarian/a/giant-species), [2](https://penrith.fandom.com/wiki/Giants), [3](https://the-miros-underground.obsidianportal.com/wikis/giants), [4](https://yourdnd.com/item.php?id=C1158AFE-3700-847A-4335-049D4ACA4C77)). I am uncertain of its origin, or I would credit it here.*

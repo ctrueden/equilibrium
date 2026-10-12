@@ -8,6 +8,10 @@ statbox:
   race: beholder
   profession: crime lord cult leader
   case: "01"
+descriptions:
+  - session: "15e00"
+    content: |
+      Bilbo said there are at least six Xaryu, beholders who hold his people in thrall, keeping them as livestock for the vampires: "You don't stand a chance."
 ---
 
 *not to be confused with:

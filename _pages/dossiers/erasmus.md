@@ -12,10 +12,13 @@ statbox:
 descriptions:
   - session: "12e08"
     content: |
-      A faerie dragon guardian who aided Isis by enlarging himself and three shrikes, then polymorphing Oz into a crimson jellyfish.
+      An invisible faerie dragon at Isis's side, enlarged by her giant growth spell. With the dying Isis across his back, he turned invisible, polymorphed Ozborn into a crimson jellyfish, and then offered to parley: "You're being dumb, you know. The real threat is down there."
+  - session: "12e09"
+    content: |
+      Introduced himself as the guardian of the Tree's seed, which needed fifteen more years to grow, and told the agents to go fix the Queen instead.
   - session: "12e12"
     content: |
-      Referenced by Vondal as Freki's oathbow sworn enemy, whose form the ooze temporarily took when manipulated by reality magic.
+      Still the sworn enemy of Freki's oathbow, so when Vondal made the black ooze Freki's sworn enemy, it took Erasmus's form.
 ---
 
 TODO

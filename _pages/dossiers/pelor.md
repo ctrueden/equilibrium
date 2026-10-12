@@ -45,10 +45,13 @@ links:
 descriptions:
   - session: "10e03"
     content: |
-      Manifest through a stone statue to test the party's valor. Allowed the Cornucopia's relocation if they defeated his guardians.
-  - session: "14e00"
+      Speaking through the largest stone guardian statue at the Cornucopia, he raged at mortals interfering with an artifact that protects an entire nation, then proposed a test of valor and resolve: defeat his guardians, and he would allow the relocation. The agents won, and he assented, also allowing Panthea to drink from the Water of Life.
+  - session: "11e02"
     content: |
-      The deity who granted prophecy to Saint Benedor about the hurricane's cleansing power.
+      When Vondal appeared in the Cornucopia's fountain, Pelor told him he was not worthy of its power, and flung him out.
+  - session: "11e04"
+    content: |
+      Backhandedly blessed Freki, letting him breathe either water or air. When Freki opened his mind to him, Pelor told him: "The future is yours to shape."
 ---
 
 ## Precepts

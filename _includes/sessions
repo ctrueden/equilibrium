@@ -11,7 +11,7 @@ Each session appears as a collapsible card, with the latest session expanded by 
     {% unless desc.content == "" %}
       <details class="session-card" {% if forloop.last %}open{% endif %}>
         <summary>
-          <span class="session-tag">Case {{ desc.session }}</span>
+          <span class="session-tag"><a href="{{ site.baseurl }}/events/case-{{ desc.session }}">{{ desc.session }}</a></span>
         </summary>
         <div class="session-content">
           {{ desc.content | markdownify }}

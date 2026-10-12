@@ -6,7 +6,7 @@ image-source: https://www.pinterest.com/pin/70437479904299/
 descriptions:
   - session: "06e01"
     content: |
-      The City of Chaos where the SPI encountered Bruck and learned of the mysterious tragedy befalling the Manufeai tribe.
+      The City of Chaos, where the agents came looking for a guide to the Manufeai, and found Bruck.
 ---
 A city deep in the [Selva](selva), a gate-town at the jungle's edge.
 

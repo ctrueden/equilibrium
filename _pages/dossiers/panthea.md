@@ -8,27 +8,30 @@ statbox:
   profession: acrobat
   case: ["08", "09", "10"]
 descriptions:
+  - session: "08e01"
+    content: |
+      Trapeze artist, interviewed by the agents; the bodies were found toward the end of her act.
   - session: "08e02"
     content: |
-      Circus acrobat who revealed she had a past incident with Zombozo that was emotionally significant.
+      Interviewed again in depth, she was strangely emotional about a past incident in which Zombozo had gotten "out of control."
   - session: "08e03"
     content: |
-      Reluctantly fought alongside Meroe but ultimately agreed to surrender in exchange for fair treatment, apologizing before being pushed off the carpet.
+      When Meroe implored her to "remember her promise," she reluctantly apologized and pushed Ghensh off his carpet. After Meroe was critically injured, the agents persuaded her to surrender, in exchange for fair treatment.
   - session: "09e01"
     content: |
       Underwent reality warping in the crystalline flux zone, eventually transforming into an anemone form.
   - session: "09e03"
     content: |
-      Also suffered from flux taint that was dispelled along with Meroe. The two fled together from SPI HQ.
+      Tried to escape HQ with Meroe after the agents' dispel magic went awry, and was shot at by Callie.
   - session: "10e01"
     content: |
-      Revealed to be suffering from flux taint but kept it secret from the party.
+      Vondal saw that she was also still affected by Flux taint, though he had yet to tell the others.
   - session: "10e02"
     content: |
-      Revealed to be Ozborn in disguise when a chunk of her hair transformed into him. Also carried flux taint.
+      Ripped out a chunk of her hair, which turned into Ozborn as Seirye beat it with her quarterstaff.
   - session: "10e03"
     content: |
-      Judged by Pelor and drank from the Water of Life, which cleansed her soul and allowed her to pass on to the afterlife.
+      Allowed by Pelor to drink from the Water of Life, she was judged: wracked with pain, she fell dead. Pelor said her soul was cleansed and in a better place.
 ---
 
 Panthea was an acrobat in the [Zombozo](zombozo) circus. She performed with the

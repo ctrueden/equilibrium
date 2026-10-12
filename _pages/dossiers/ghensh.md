@@ -7,27 +7,27 @@ statbox:
   gender: male
   class: bard
 descriptions:
-  - session: "07e02"
+  - session: "06e04"
     content: |
-      Overheard Sartus and Invictus attempting to hire Alex Orbach to find a mysterious item.
-  - session: "07e03"
-    content: |
-      Participated in battling the flameskulls in the Study.
+      When the psychic fuzz of the tattoo transplant cleared, this dragonborn was present, bearing one of the tattoos, and everyone took for granted that he had always been there.
   - session: "07e04"
     content: |
-      Flew around under the torture chamber searching for clues about Tremere's murder.
-  - session: "07e05"
-    content: |
-      Joined the fight against the carnivorous plant and was nearly pushed off his magic carpet by Panthea.
+      Overheard Sartus try to hire Alex Orbach over a game of dragonchess, and Invictus offer double. At the crime scene, he flew beneath the torture chamber, just above the pit of zombies, searching for clues.
   - session: "08e02"
     content: |
-      Arrived at the circus investigation alongside Callie and Cal. Later helped during the combats.
+      Went to investigate around the circus.
+  - session: "08e03"
+    content: |
+      Pushed off his carpet by Panthea, at Meroe's urging.
   - session: "09e01"
     content: |
       Imposed his will on reality in the crystalline flux, turning everything to pure platinum.
-  - session: "10e04"
+  - session: "09e02"
     content: |
-      Serenaded the old HQ guard Lomagret Drakehead while the party escaped the Flux-consumed facility.
+      Brought the yachtopus to port against the barrier around HQ; eventually his carpet speared through it and unrolled into an opening the agents could slip through.
+  - session: "10e01"
+    content: |
+      Distracted the guard Lomagret Drakehead at the old HQ by serenading her, then got drunk with her, while the others escaped.
 ---
 
 ***Stranger than fiction (Performance).*** You perceive the narrative arc of the universe, compelling you to burst into an impromptu story which parallels reality.

@@ -11,7 +11,13 @@ statbox:
 descriptions:
   - session: "15e02"
     content: |
-      Appeared at the ball as champion of the Crispic clan; discussed spiders, the Flux, and offered Vondal a place within his clan to master wild magic.
+      Goratrix's companion, introduced as the Bane of Spiderkind. He told Vondal his clan had worked hard to contain the spiders, asked how the Flux had scarred him, and offered him a place in the clan to master his power, in exchange for serving to destroy the spiders.
+  - session: "15e03"
+    content: |
+      Faced off against Lestache during the hunt, until the Malachimera arrived.
+  - session: "15e07"
+    content: |
+      Offered by the Brucolac as an agent to accompany the SPI, knowing all about spiders and tunnels.
   - session: "18e00"
     content: |
       With Goratrix seemingly out of the picture, Calderon is now the acting head of Crispic clan.

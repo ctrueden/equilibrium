@@ -9,6 +9,10 @@ statbox:
   locale: alyeadu
   case: "13"
   pronunciation: "NAHR-treb"
+descriptions:
+  - session: "17e01"
+    content: |
+      Cooking with Vondal, he credited his white crane tattoo with good fortune and prophetic dreams, and offered to give Vondal one.
 ---
 
 An [Alye'adu](../locales/alyeadu) villager. Anchor of [Bertrand Abernathy](bertrand-abernathy).

@@ -42,9 +42,15 @@ links:
 - 5E Greek|https://2014.5e.tools/deities.html#hecate_greek_phb
 - Wolfpack Legends|https://wolfpack-legends-dd.fandom.com/wiki/Vecna
 descriptions:
+  - session: "14e02"
+    content: |
+      Lady Nightshade's ring bore the symbol of Vecna.
+  - session: "14e03"
+    content: |
+      A bookmarked story in Invictus's library told how Vecna lost her hand. The door to Invictus's chamber required the power of the Goddess of Secrets.
   - session: "14e04"
     content: |
-      Her influence tainted the mirror chamber; she tempted characters with secrets in exchange for hidden knowledge; the Celestial Hand carries her power but may not be under her complete control.
+      Her influence tainted the mirror chamber: each shard offered hidden knowledge in exchange for a secret, which is then forgotten. Invictus was surprised Bec could wear the Celestial Hand, suggesting even Vecna's power had limits, and said a secret lost to Vecna could be relearned, at a toll.
 ---
 
 ## Precepts

@@ -9,21 +9,24 @@ statbox:
   profession: pyrotechnician
   case: ["08", "09", "10"]
 descriptions:
+  - session: "08e01"
+    content: |
+      Busy circus performer who runs the light show. Talking privately with Freki, she revealed she believed the circus would be more profitable with her in charge.
   - session: "08e02"
     content: |
-      Circus manager who became increasingly suspicious during the investigation. Panicked and activated a booby-trapped underground lair when pressed.
+      Angry at the surgery on Squatch, but reluctantly thankful when Callie mended him. Pressed hard by the agents, she grew agitated and triggered her trap: wired bombs beneath her desk exploded, collapsing the ground into the lair of the landsharks Fair and Foul.
   - session: "08e03"
     content: |
-      Fought against the SPI using magic and owlbear allies, then was defeated and critically injured before agreeing to surrender.
+      Tried to kill everyone with magic, casting obscuring mist, and confusion on the owlbears Fuzzy and Wuzzy. After she was critically injured, Panthea surrendered.
   - session: "09e03"
     content: |
-      Recovered from flux corruption after Callie used the Arkenstone as a focus for Dispel Magic. Later fled with Panthea.
+      After the agents' group dispel magic went awry, she and Panthea tried to escape HQ; Callie shot at them, and Ozborn stabbed Meroe, nearly killing her, before Callie saved her life with a wand of healing.
   - session: "10e01"
     content: |
-      Experienced a resurgence of flux taint while fleeing with the party to the old HQ.
+      Suffered a resurgence of Flux taint, and was willing to do anything to get healed.
   - session: "10e02"
     content: |
-      Afflicted with a mysterious disease during the desert journey that resembled mummy rot. Confessed to framing Zombozo for the circus murders and throwing up dead bees.
+      Grew steadily sicker crossing the desert, with an affliction resembling mummy rot or undeath, but neither; she even threw up dead bees. She confessed to framing Zombozo for the circus murders, because he had killed her parents when she was 13. Carried comatose to the Cornucopia, she woke, insisted she was fine, and reached to drink from it; when a Luminous Defender laid a hand on her shoulder, it passed through her like sand, and she dissolved into dust.
 ---
 
 Meroe was an alchemist wizard, and pyrotechnician of the [Zombozo](zombozo)

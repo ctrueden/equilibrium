@@ -10,10 +10,13 @@ statbox:
 descriptions:
   - session: "15e00"
     content: |
-      Lestache's faithful halfling familiar escorted the agents to Sepulchralis and offered shelter in his garlic-blessed safehouse beneath the vampire city.
+      Lestache's halfling familiar, who flew to the agents on a carpet with an invitation to his master's ball, a promise of safety, and a tour of Sepulchralis. He sheltered them in his home, ringed with garlic and talismans of Nerull, and over a question-for-a-question drinking game revealed he had been a cleric of Tiamat from Xaryuvia, banished and hunted by vampires before Lestache took him as a familiar. He seemed to be under a charm, twitching whenever he praised his master.
   - session: "15e01"
     content: |
-      Subdued by the SPI team and bound at his house while they used his guise to infiltrate Lestache's vampire ball.
+      Wore an amulet of Nerull openly, kept a holy symbol of Tiamat, and believed it his fate to serve Nerull. Returning with a drooling ghast to summon the agents to dinner, he agreed with Oz's plan to liberate his people, but twitched that he would have to turn on them if they attacked Lestache. When Oz floated disguising someone as him, he turned invisible and slipped away from Freki, until Cal caught him with his whip.
+  - session: "15e02"
+    content: |
+      Left tied up and invisible on his bed while Ozborn impersonated him at the ball.
 ---
 
 Familiar of [Lestache de Lyarcourt](lestache-de-lyarcourt).

@@ -14,10 +14,10 @@ statbox:
 descriptions:
   - session: "14e02"
     content: |
-      Confronted the agents on the manor's grand staircase with black wings; attempted to charm them into servitude with a potion and divine magic.
+      The black-winged figure on Evershroud's grand staircase, demanding that the agents pledge service, leave, or die. Wanting worship, she offered knowledge and power in exchange, and her ring bore Vecna's symbol. She summoned angelic figures with broken-off wings, Vondal among them, silenced Bec, deflected Ozborn's sword, charmed him, and tried to make him and Callie drink her potion.
   - session: "14e03"
     content: |
-      Challenged Callie to drink her potion; grabbed the Flux from reality's rift, transforming into a mouth-creature; was killed when Freki's arrow closed the rift on her neck.
+      Ripped a hole in reality with her scythe and grabbed the Flux, which crawled up her arm and, when Freki shot into the rift, snapped her arm off, revealing her as a creature of mouths shrieking "We will consume you all!" Banished by Vondal, she climbed back out of the rift, even more mutated, until Freki's arrow closed it on her neck, beheading her. Her journal revealed three centuries of research into joining Invictus in undeath: she had created and eaten a Philosopher's Stone, gaining eternal life but endless hunger and thirst.
 ---
 
 ...

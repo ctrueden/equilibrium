@@ -11,13 +11,13 @@ statbox:
 descriptions:
   - session: "03e02"
     content: |
-      Revealed the location of necromancer Zanic Corbinic at the Brandywhistle tavern after her father's loose talk.
+      Mungus's daughter, who tried to quiet him; persuaded by Vondal, she admitted that sympathizers were sheltering Zanic Corbinic at the Brandywhistle tavern in the Flintlock district.
   - session: "03e03"
     content: |
-      Discovered Zanic Corbinic's body after he was defeated by SPI agents at the Brandywhistle tavern.
+      The Brandywhistle's barkeep was upset to learn that Larsa had tipped off the authorities about the tavern.
   - session: "03e04"
     content: |
-      Arrived at the scene after Zanic's defeat and learned of his death.
+      Arrived after the fight and discovered Zanic's body; upset, she left to tell the Brandywhistle.
 ---
 
 Daughter of [Mungus](mungus-wrathborn), sister of [Cragger](cragger-wrathborn).

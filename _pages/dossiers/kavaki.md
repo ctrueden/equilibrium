@@ -16,16 +16,34 @@ statbox:
 descriptions:
   - session: "06e03"
     content: |
-      Goliath warrior of the Malosi tribe who had been possessed and compelled to commit terrible acts. Met the SPI at the river with Sabrina and Mengiris.
+      After Sabrina reached out to her psychically, she stumbled through the trees, grievously wounded, muttered "It's gone," and collapsed in exhaustion.
   - session: "06e04"
     content: |
-      Recounted her ordeal of possession and control, agreeing to lend her six Flux tattoos to the SPI to help them recover their strength.
+      Healed by Callie, she reluctantly told her story: ambushed while sleeping in the jungle, her body was taken over by a foreign power, and she was a helpless witness as it had Sabrina make the Flux Capacitor, marched to the Manufeai, slaughtered them, and absorbed their essence; then it marched far south, where she was bludgeoned unconscious and the weapon taken. Her Flux tattoos grew unstable and threatened her life; after Cal swore in the tongue of giants to help bring those responsible back into the Ordning, she agreed to lend her tattoos to the SPI, then guided the agents south toward where she had been attacked.
+  - session: "06e05"
+    content: |
+      Had met the Stormherd only once, as enemies, and barely escaped with her life. In Solomon's pavilion, she recognized his guards as the yakfolk she had fought.
+  - session: "07e01"
+    content: |
+      In Cal's memories, the two parted ways with mutual respect, and a sense that they would meet again.
   - session: "17e04"
     content: |
-      Revealed herself as an undercover mole within Ordning's Downfall, having infiltrated the cult to prevent disaster; became a trusted ally and helped the agents plan a strategy to eliminate Rhyzophus.
+      Found the agents sneaking past a behir nest and took them to her secret break room in the Storm Stables, where she works. Asked to join Rhyzophus's new order, she had gone along because being dead would do no one any good, but suspected he sought only his own power. Wary until she learned they had freed Jorik, she agreed to help them, telling of the hot spring below, with ancient runes, where Rhyzophus takes certain behir eggs.
+  - session: "17e05"
+    content: |
+      Drew the agents a map of the Storm Stables, and delivered Ozborn's dagger to Rhyzophus as bait. Then she surprised everyone by joining them in the portable hole, armed with a borrowed mace that lit up like a torch.
+  - session: "17e06"
+    content: |
+      At Ozborn's suggestion, she brutally finished off the fallen Verthandi with the agents' borrowed mace, objecting when Callie placed a soul larva in her mouth.
   - session: "17e07"
     content: |
-      Claimed Skalfang's massive greataxe as her own and supported Cal's authority by vouching for him before the assembled giants; demonstrated her shift from mole to open ally.
+      Helped calm Cal, then claimed Skalfang's enormous greataxe as her own. Before the assembled giants, she vouched that "the cult has been beheaded," and argued with Mira that even the hill giants had potential.
+  - session: "17e08"
+    content: |
+      Thought the behirs' feast on the hill giants "a kind of justice," but, with Callie's calm emotions, coaxed two of them back to their smashed pens.
+  - session: "17e09"
+    content: |
+      Pledged to join the giants' quest to free Xaryuvia.
 ---
 
 * Kavaki tells them she was not in control of her body. She was a helpless witness to her own actions.

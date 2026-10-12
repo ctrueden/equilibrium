@@ -13,10 +13,10 @@ statbox:
 descriptions:
   - session: "06e03"
     content: |
-      Malosi goliath who accompanied Sabrina and protected her. Unaffected by Sabrina's powerful psychic disruption during the tattoo transplant attempt.
+      Sabrina's armored protector, wielding a very large two-handed sword, who stood watch by the river. Detecting magic on it revealed a "black hole" of magic, and it was unaffected by Sabrina's psychic disruption.
   - session: "13e04"
     content: |
-      A suit of iron armor accompanied Sabrina and Andalla as they vanished from Alye'adu after the failed invasion attempt.
+      The suit of armor clanked up with Sabrina on its shoulder, and vanished with her, Talos and Andalla.
 ---
 
 TODO

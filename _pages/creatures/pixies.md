@@ -7,10 +7,10 @@ image-source: https://www.pinterest.com/pin/506866133061119876/
 descriptions:
   - session: "08e01"
     content: |
-      A collective of pixies who formed part of Zombozo's performance act at the circus.
+      The circus's pixies performed in several acts. The mysterious ten-foot "second clown" from Zombozo's opening act, wrapped head to toe in bandages, turned out to be a pixie swarm, exploding into pixies before the agents' eyes.
   - session: "08e02"
     content: |
-      Scattered and driven away by Freki summoning his ravens Hugin and Munin.
+      Pestered with questions, they scattered when Freki summoned his ravens.
 ---
 
 TODO

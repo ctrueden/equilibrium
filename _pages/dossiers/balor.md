@@ -6,6 +6,13 @@ image-source: https://pathfinder.fandom.com/wiki/Balor
 statbox:
   race: [elf (high), halfling, demon (balor)]
   case: "09"
+descriptions:
+  - session: "09e01"
+    content: |
+      A twisted, small creature wearing Priscilla Stormcloud's clothes, found eating Orbach's heart. Bec put it to sleep and the agents took it aboard the yachtopus, where it awoke and transformed into a huge demon.
+  - session: "09e02"
+    content: |
+      Fought the agents as they tried to break through the barrier into SPI HQ, but seemed reluctant or unable to approach Ghensh's carpet, or to enter the agents' reality bubbles.
 ---
 
 During the events of [Amalgamation and Anathema](../events/case-09), an insane

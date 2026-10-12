@@ -6,7 +6,7 @@ image-source: https://forgottenrealms.fandom.com/wiki/Githzerai
 descriptions:
   - session: "13e04"
     content: |
-      Sabrina, a githzerai psion, appeared at Alye'adu with psionic powers capable of affecting memory and temporarily disabling the inhabitants.
+      Bec suggested that Sabrina might be a githzerai, which could explain the psionic effect that had disabled the villagers.
 ---
 
 ### List of githzerai

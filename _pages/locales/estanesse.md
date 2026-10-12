@@ -23,6 +23,10 @@ image-treasury-entry: https://i.pinimg.com/originals/bc/6e/c2/bc6ec292572e527c28
 image-treasury-entry-source: https://www.pinterest.com/pin/145522631701247945/
 image-throne-room: https://i.pinimg.com/originals/15/97/aa/1597aa682e3ec06fca7d9b3a9d5acb20.jpg
 image-throne-room-source: https://www.pinterest.com/pin/161074124166559381/
+descriptions:
+  - session: "12e10"
+    content: |
+      The agents walked an hour from the base of the Tree up through lowtown, midtown and hightown to the palace treasury, a building on a branch with a single entrance, guarded by elite elves.
 ---
 
 Capital city of [Elyria](elyria).

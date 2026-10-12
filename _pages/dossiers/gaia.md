@@ -15,7 +15,7 @@ statbox:
 descriptions:
   - session: "14e03"
     content: |
-      Depicted on the portal as the Divine Mother, predating the eternals and representing the source of all life.
+      Her symbol, representing the Divine Mother, perhaps the source of all life, sat at the nature/nature square of the divine chart in Invictus's study. Cal recognized it from a letter his father received, and recalled him claiming he "used to be a god."
 ---
 
 The Divine All-Mother, believed by many to be the source of all life. According to many [creation myths](../religion), Gaia predates the [eternals](../creatures/eternals) and even the [titans](../creatures/titans). There are some who claim that [Aecus](../locales/aecus) itself *is* Gaia, with all elemental forces merely her aspects.

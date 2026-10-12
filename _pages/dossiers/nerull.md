@@ -57,13 +57,19 @@ links:
 descriptions:
   - session: "14e04"
     content: |
-      Identified as the Raven Queen and Freki's patron; Hugin and Munin serve her; associated with death and destiny.
+      Vondal learned, through Vecna's mirror, that Freki is a pawn of the Raven Queen, and that his ravens Hugin and Munin are her servants.
+  - session: "15e01"
+    content: |
+      Bilbo's home was full of Nerull's talismans; he wore Nerull's amulet openly, and said it was his fate to serve her.
   - session: "16e08"
     content: |
-      The Raven Queen opened a gate to the true Afterworld specifically to allow agents to confront Nondal and prevent him from achieving his goals of understanding and controlling death.
+      Freki leapt at the flying being that had been Megaera, which offered the agents a choice ("Death for life. Choose."), and reacted with fury when Callie saved Cassandra.
   - session: "16e01"
     content: |
-      Through Freki's ravens Hugin and Munin, the Raven Queen's presence was confirmed beneath SPI headquarters; the Afterworld seems inexplicably connected to the Flux breach.
+      Beneath HQ, Freki sensed he had passed beyond the veil of death, and his ravens appeared; Bec noted that they are servants of the Raven Queen.
+  - session: "16e09"
+    content: |
+      According to Freki's ravens, the Raven Queen held open the gate to her Afterworld so that the agents could deal with Nondal.
 ---
 
 ## Precepts

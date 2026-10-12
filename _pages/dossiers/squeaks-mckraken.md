@@ -12,9 +12,12 @@ statbox:
 descriptions:
   - session: "14e00"
     content: |
-      Called to SPI HQ for an all-staff meeting; reported a karach super-bloom in the dwarven tunnels spreading from an old SPI outpost.
+      SPI field agent, summoned by Callie's sending to a briefing. Investigating in the dwarven lands, he had been called in about the goblin territory, which seemed to have been encased in karach or crystalline Flux.
   - session: "14e01"
     content: |
       Reported a karach super-bloom in dwarven tunnels originating from the sealed old SPI outpost; established an outpost under the mountain.
+  - session: "18e00"
+    content: |
+      Rescued from the crystals in the goblin tunnels, he gratefully returned to field duty, though his memory of the incident was full of holes.
 ---
 Contemplative half-orc monk (way of shadow) from hundreds of years ago. Speaks with a thick, antiquated accent. Has a fascination with hats ("Oh, look at these new styles!"), and wears a kilt. Hermit background.

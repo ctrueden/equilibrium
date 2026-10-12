@@ -6,7 +6,7 @@ image-source: https://www.pinterest.com/pin/817403401100502888/
 descriptions:
   - session: "15e06"
     content: |
-      The defiled chapel within the Soulbound Rest where the Death Tyrant dwelt and the Brucolac was imprisoned; site of visions about the creation of the Flux.
+      The desecrated chapel at the heart of the Soulbound Rest, perhaps once a church of Pelor, partly pulled out of reality. Ghosts guarded a sarcophagus at its altar where the Death Tyrant lay, beneath stained glass windows of an obscured goddess and an altered image of the Brucolac and the Necronomicon.
 ---
 
 A ruined church at the center of the Soulbound Rest cemetary in [Sepulchralis](sepulchralis).

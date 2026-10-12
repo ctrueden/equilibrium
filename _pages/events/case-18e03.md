@@ -12,28 +12,28 @@ callie_journal: >-
   As we enter, we see there are a couple of tieflings here.
 
 
-  "All rise for our Lady Bec," says Freki.
+  "All rise for our Lady [Bec](../dossiers/bec)," says [Freki](../dossiers/freki).
 
 
   "Did I say watermelon?" Bec mutters.
 
 
-  A blue-skinned woman greets us cheerfully. Bec tells her we're from the SPI. That doesn't seem to be a big surprise to her, so she leads us back, still very cheerful. Weirdly cheerful, even. Her name is Taelin, and she's been with Kerwin since he first got into this business. Bec tries to ask more questions, but Taelin just tells her Kerwin would be happy to help us.
+  A blue-skinned woman greets us cheerfully. Bec tells her we're from the [SPI](../orgs/spi). That doesn't seem to be a big surprise to her, so she leads us back, still very cheerful. Weirdly cheerful, even. Her name is [Taelin](../dossiers/taelin-fosse), and she's been with [Kerwin](../dossiers/kerwin-ulvas) since he first got into this business. Bec tries to ask more questions, but Taelin just tells her Kerwin would be happy to help us.
 
 
   Taelin knocks on the door and announces us; Kerwin says we can come right in.
 
 
-  Freki noticeable flinches as we get closer to the door. Oz nudges me and points at him, and I realize that his pupils are crazy wide. Bec has also clocked this, so she asks Freki to stay outside and "guard the door."
+  Freki noticeable flinches as we get closer to the door. [Oz](../dossiers/oz) nudges me and points at him, and I realize that his pupils are crazy wide. Bec has also clocked this, so she asks Freki to stay outside and "guard the door."
 
 
   Taelin is confused about why we need a guard. Bec says something not entirely convincing about feral imps. Taelin says she should go inform Kerwin. As soon as she opens the door, a wave of eye-watering stink rolls over us. Nobody throws up, but it's still early yet.
 
 
-  Bec says on second thought, Freki should come with us. We all go in. After all the attractive residents of Trell that we've met, Kerwin is...well...he looks like King Butterface from Uggo Island. His skin is a weird yellow, his chest is sunken, and his eyes are...um...shining with ooze. His belly is distended not in a fat way, more like an ill way.
+  Bec says on second thought, Freki should come with us. We all go in. After all the attractive residents of [Trell](../locales/trell) that we've met, Kerwin is...well...he looks like King Butterface from Uggo Island. His skin is a weird yellow, his chest is sunken, and his eyes are...um...shining with ooze. His belly is distended not in a fat way, more like an ill way.
 
 
-  Taelin whispers something to Kerwin. Suddenly Freki is like, "Did you just call him your sun and stars?!" Okay, Vondal. Taelin is embarrassed, poor thing.
+  Taelin whispers something to Kerwin. Suddenly Freki is like, "Did you just call him your sun and stars?!" Okay, [Vondal](../dossiers/vondal). Taelin is embarrassed, poor thing.
 
 
   "Are you an item or something?" says Oz.
@@ -78,7 +78,7 @@ callie_journal: >-
   "It's the secret of my success and the source of our disagreement, I'm afraid."
 
 
-  Bec asks for more details. Kerwin says Serelda wanted him to choose between his business and her, and he chose the business. He's open about the fact that he doesn't look as he did in his youth (you don't say), but he doesn't care. That's mere aesthetics to him. He mentions that I sold him the coffee pot and says he owes me a debt of gratitude, because his business is flourishing now. Maybe I can explain how it works?
+  Bec asks for more details. Kerwin says [Serelda](../dossiers/serelda-voth) wanted him to choose between his business and her, and he chose the business. He's open about the fact that he doesn't look as he did in his youth (you don't say), but he doesn't care. That's mere aesthetics to him. He mentions that I sold him the coffee pot and says he owes me a debt of gratitude, because his business is flourishing now. Maybe I can explain how it works?
 
 
   Since he asked me directly, I answer that I'm glad it's working out for him, but I don't know how it works. The coffee pot wasn't in my possession that long. Meanwhile, Bec's gears are turning on that very topic. She doesn't tell us until later, but she thinks this coffee pot was specifically made to give its user an edge in sales and business.
@@ -87,7 +87,7 @@ callie_journal: >-
   "Do you make the coffee, or is it always there?" Bec asks.
 
 
-  "It never runs out!" says Kerin, cheerfully. Everyone here is so happy. It's very strange.
+  "It never runs out!" says Kerwin, cheerfully. Everyone here is so happy. It's very strange.
 
 
   "Why did you choose this over your wife?" Bec asks.
@@ -153,13 +153,13 @@ callie_journal: >-
   They think so, yes.
 
 
-  Oz asks whether they're aware that Kerin might retire after the next big deal. The ladies are perfectly happy with whatever Kerwin wants to do. The guy doesn't get why you'd stop when you're raking in so much money. Anyway, they've all signed NDA's so there's a limit to how much they can tell us.
+  Oz asks whether they're aware that Kerwin might retire after the next big deal. The ladies are perfectly happy with whatever Kerwin wants to do. The guy doesn't get why you'd stop when you're raking in so much money. Anyway, they've all signed NDA's so there's a limit to how much they can tell us.
 
 
   Taelin thinks they'd all be set for life if Kerwin retired, which is a weird thing to say about your boss. But she hopes the business keeps going because it's so fun to work here! Look, I have managed employees, and this is more like a religion. Or a cult.
 
 
-  Oz asks about Serelda. They try to demur, but they let slip that Serelda has filed all kinds of papers trying to get ahold of the coffee pot. "And she has a lot of big feelings," says Taelin. "It wasn't a marriage of convenience?" says the red-skinned tiefling (he's the bookkeeper and his name is Zarlas Shale). "She comes from a wealthy family. He married up, to be honest."
+  Oz asks about Serelda. They try to demur, but they let slip that Serelda has filed all kinds of papers trying to get ahold of the coffee pot. "And she has a lot of big feelings," says Taelin. "It wasn't a marriage of convenience?" says the red-skinned tiefling (he's the bookkeeper and his name is [Xarlus Shale](../dossiers/xarlus-shale)). "She comes from a wealthy family. He married up, to be honest."
 
 
   While we're talking to the office staff, Freki notices some plants. Fernadette! He goes to talk to his new friends. He asks them if anyone comes in after hours. One of them is kind of low-key distressed. It doesn't like it here and would like to live somewhere else. Also it wants some water, which Freki gives it from a nearby watercooler.
@@ -177,7 +177,7 @@ callie_journal: >-
   "We have an inside man now!" Freki says.
 
 
-  Oz hands me the papers he pilfered and we head back to the office to see if Vex knows of a good place to eat.
+  Oz hands me the papers he pilfered and we head back to the office to see if [Vex](../dossiers/vex-morradine) knows of a good place to eat.
 
 
   Vex asks how it went and Freki says, "We made our mark." On the carpet. Heyo!
@@ -212,22 +212,22 @@ callie_journal: >-
 
   Around 6:30, I see three people come up into the main office. They're wearing hooded cloaks. One is bright yellow. One is green. They're pretty short; gnomes or dwarves maybe? The third one is wearing an indigo blue cloak. Oh yeah -- the Noffindorfs!
 summary: >-
-  The SPI agents made their way to the third floor of a recently renovated
-  building in Minauros's Harbor District, where a sign bearing a steaming coffee
+  The [SPI](../orgs/spi) agents made their way to the third floor of a recently renovated
+  building in [Minauros](../locales/minauros)'s Harbor District, where a sign bearing a steaming coffee
   pot marked their destination: Ulvan Transitional Assets. A deep, sulfurous,
   and sickeningly sweet odor seeped through the very frame of the glass-walled
-  office door, and Freki, whose senses were sharper than most, caught a
+  office door, and [Freki](../dossiers/freki), whose senses were sharper than most, caught a
   concentrated waft of it the moment the door swung open — his eyes dilating as
   the smell hit him like a wave. Inside, three tiefling employees worked
   cheerfully at their desks, each wearing a slight, unsettling smile that seemed
   to belong to people who had forgotten what it felt like to have a bad day.
 
 
-  They were greeted by Taelin Fosse, a blue-skinned tiefling who had been with
-  Kerwin Ulvas since the very first year of his business. She radiated a
+  They were greeted by [Taelin Fosse](../dossiers/taelin-fosse), a blue-skinned tiefling who had been with
+  [Kerwin Ulvas](../dossiers/kerwin-ulvas) since the very first year of his business. She radiated a
   kind of infectious, almost brainwashed cheerfulness — not the happiness of
   someone having a good day, but the deep, structural contentment of someone
-  whose capacity for doubt had been quietly erased. Bec, whose training made her
+  whose capacity for doubt had been quietly erased. [Bec](../dossiers/bec), whose training made her
   acutely sensitive to such things, sensed that Taelin was not charmed in any
   conventional sense, but that something far more insidious had taken root in
   her — as though her mind had been washed clean of any instinct to question the
@@ -255,7 +255,7 @@ summary: >-
   bronze coffee pot sitting on his desk like a trophy, its strange markings
   etched around the base, its aroma filling the room with that same cloying,
   sulfurous sweetness that had been seeping through the building since their
-  arrival. He admitted freely that it had cost him his marriage — that Sorelda
+  arrival. He admitted freely that it had cost him his marriage — that [Serelda](../dossiers/serelda-voth)
   had demanded he choose between her and the carafe, and that he had chosen
   wrong, by which he meant he had chosen correctly. Bec examined the pot closely
   and came to a chilling conclusion: it was not a charm spell, not an
@@ -270,10 +270,10 @@ summary: >-
 
   The conversation turned to business, and Kerwin revealed that Ulvan
   Transitional Assets dealt in shipping, distressed acquisitions, and the
-  controversial licensing of bloodlocked spells — a practice common in Trell,
+  controversial licensing of bloodlocked spells — a practice common in [Trell](../locales/trell),
   where arcane research could be patented and sold under strict legal contracts
-  that prevented the spells from being freely copied. Callie's blood ran cold at
-  the mention of it, recognizing the implications immediately. Ozborn,
+  that prevented the spells from being freely copied. [Callie](../dossiers/callie)'s blood ran cold at
+  the mention of it, recognizing the implications immediately. [Ozborn](../dossiers/oz),
   meanwhile, deployed his considerable charm, calling Kerwin "Baby Bear" with
   such disarming confidence that the businessman's guard dropped entirely for a
   moment. When Ozborn pressed him about Taelin, Kerwin dismissed her coldly —
@@ -299,7 +299,7 @@ summary: >-
   employees that Freki had been kicked in the head by a mule as a child.
 
 
-  Back at the SPI branch, the party debriefed with Vex Morradine, laying out
+  Back at the SPI branch, the party debriefed with [Vex Morradine](../dossiers/vex-morradine), laying out
   everything they had learned. They debated their options — theft, replacement,
   finding a cure, or leveraging Kerwin's desire to close his major deal — and
   Ozborn produced the business contract he had quietly lifted from Kerwin's desk
@@ -307,7 +307,7 @@ summary: >-
   expensive rug. Vex warned them that Trell's laws were strict and that the
   Harbor District's color-coded gangs made any of the local taverns a political
   minefield, before agreeing to fetch dinner while the others conducted a
-  stakeout of Kerwin's building. The party suspected that Sorelda herself, or
+  stakeout of Kerwin's building. The party suspected that Serelda herself, or
   someone acting on her behalf, had already attempted to access the office — the
   plant's memory of a light-footed visitor two days prior pointed to exactly
   that.
@@ -332,27 +332,27 @@ summary: >-
   Noffindorf manufacturing subsidiary at the center of Kerwin's most lucrative
   and secretive deal.
 short_summary: >-
-  The SPI agents visited Ulvan Transitional Assets in Minauros's Harbor
-  District, where they met Kerwin Ulvas, a tiefling businessman whose body
+  The [SPI](../orgs/spi) agents visited Ulvan Transitional Assets in [Minauros](../locales/minauros)'s Harbor
+  District, where they met [Kerwin Ulvas](../dossiers/kerwin-ulvas), a tiefling businessman whose body
   was being grotesquely consumed from the inside out due to his dependence on a
   mysterious bronze coffee pot. The pot emitted a sulfurous, alchemical aroma
   that bypassed rational thought entirely, stripping those exposed of their
   instinct for skepticism — a effect so prolonged in his employees that it had
-  permanently altered their behavior. His assistant Taelin displayed this
+  permanently altered their behavior. His assistant [Taelin](../dossiers/taelin-fosse) displayed this
   unsettling, deep-seated devotion firsthand, and was visibly wounded when
-  Kerwin coldly dismissed any personal connection to her. After Bec identified
+  Kerwin coldly dismissed any personal connection to her. After [Bec](../dossiers/bec) identified
   the pot's mechanism and the group proposed finding either a cure or a
-  replacement in exchange for the item, Kerwin agreed to the deal. Freki,
+  replacement in exchange for the item, Kerwin agreed to the deal. [Freki](../dossiers/freki),
   meanwhile, communed with the office's ailing palm tree, which conveyed chronic
   distress from the foul air and a memory of a light-footed visitor returning to
-  the office two days prior — suggesting someone, possibly Sorelda or her agent,
-  had already made a move on the location. Ozborn quietly lifted a business
+  the office two days prior — suggesting someone, possibly [Serelda](../dossiers/serelda-voth) or her agent,
+  had already made a move on the location. [Ozborn](../dossiers/oz) quietly lifted a business
   contract from Kerwin's desk before the group departed.
 
 
-  Back at the SPI branch, the party debriefed with Vex Morradine and weighed their
+  Back at the SPI branch, the party debriefed with [Vex Morradine](../dossiers/vex-morradine) and weighed their
   options before splitting up for a stakeout of Kerwin's building. Bec and
-  Callie went invisible and monitored the alley, while Ozborn and Freki — after
+  [Callie](../dossiers/callie) went invisible and monitored the alley, while Ozborn and Freki — after
   a chaotic rooftop climb involving an involuntary backflip and a teleporting
   dagger — took up a vantage point across the street. As evening fell, a magical
   bubble carriage arrived and three short, hooded figures in yellow, green, and
@@ -361,9 +361,9 @@ short_summary: >-
   family tied to the secretive manufacturing deal at the heart of Kerwin's most
   lucrative business arrangement.
 classic_summary: >-
-  Last we left off, our agents of the SPI made their way to the Harbor District
-  of Minauros, climbing to the third floor of a freshly renovated building to pay
-  a visit to a man named Kerwin Ulvas — proprietor of Ulvan Transitional
+  Last we left off, our agents of the [SPI](../orgs/spi) made their way to the Harbor District
+  of [Minauros](../locales/minauros), climbing to the third floor of a freshly renovated building to pay
+  a visit to a man named [Kerwin Ulvas](../dossiers/kerwin-ulvas) — proprietor of Ulvan Transitional
   Assets, dealer in shipping, distressed acquisitions, and the legally murky
   trade of bloodlocked spells. What they found there was not merely a successful
   businessman, but a man being slowly devoured by his own ambition — his skin
@@ -373,26 +373,26 @@ classic_summary: >-
   charm or enchantment, but through something alchemical and olfactory — a
   mechanism that stripped away every instinct for doubt while leaving its
   victims feeling perfectly, terrifyingly clear-headed. His employees had been
-  altered beyond easy recovery, and Taelin Fosse, his most devoted assistant,
+  altered beyond easy recovery, and [Taelin Fosse](../dossiers/taelin-fosse), his most devoted assistant,
   bore the deepest marks of all.
 
 
   The agents negotiated carefully, proposing to find Kerwin either a cure for
   his deteriorating condition or a suitable replacement for the carafe in
-  exchange for the item itself — a deal he accepted. Freki, ever attuned to the
+  exchange for the item itself — a deal he accepted. [Freki](../dossiers/freki), ever attuned to the
   living world around him, paused long enough to commune with the office's
   executive palm tree, which had been silently growing away from the pot's foul
   aura for years and carried with it a memory: a light-footed visitor, two days
-  prior, returning after a long absence. Meanwhile, Ozborn had quietly relieved
+  prior, returning after a long absence. Meanwhile, [Ozborn](../dossiers/oz) had quietly relieved
   Kerwin's desk of a rather important business contract, and the party brought
-  everything back to Vex Morradine for a full debrief.
+  everything back to [Vex Morradine](../dossiers/vex-morradine) for a full debrief.
 
 
   Now, as night settled over the Harbor District, the group split to conduct a
   stakeout of Kerwin's building — and their patience was rewarded. A magical
   carriage shaped like a floating bubble arrived at the front of the building,
   and from it stepped three short, cloaked figures in yellow, green, and indigo.
-  Callie felt the cold weight of recognition settle over her as they disappeared
+  [Callie](../dossiers/callie) felt the cold weight of recognition settle over her as they disappeared
   inside: the rainbow-colored cloaks of the Noffindorf family, connected to the
   very manufacturing subsidiary at the heart of Kerwin's most secretive and
   lucrative deal. Whatever is moving in the shadows of Ulvan Transitional
@@ -401,7 +401,7 @@ classic_summary: >-
 snarky_summary: >-
   Welcome to the episode where the party visited a perfectly normal office
   building and found a man who is literally being digested alive by a coffee pot
-  — and he's fine with it. Great. Kerwin Ulvas, tiefling entrepreneur and
+  — and he's fine with it. Great. [Kerwin Ulvas](../dossiers/kerwin-ulvas), tiefling entrepreneur and
   cautionary tale in a waistcoat, has built his entire business empire on a
   magic carafe that makes everyone around him incapable of thinking he's a bad
   idea. His employees have the glazed, structural contentment of people who have
@@ -412,20 +412,20 @@ snarky_summary: >-
 
 
   The party struck a deal — cure the man or replace the pot, get the pot — and
-  then immediately started a rooftop stakeout that involved Ozborn falling off a
+  then immediately started a rooftop stakeout that involved [Ozborn](../dossiers/oz) falling off a
   wall, executing an accidental backflip, and eventually just teleporting up
   like a normal person. Their patience paid off when a bubble-shaped magic
   carriage pulled up and deposited three cloaked figures in coordinated rainbow
   colors directly into Kerwin's building. The Noffindorf family has arrived,
-  and Callie recognized them instantly, because of course the most secretive and
+  and [Callie](../dossiers/callie) recognized them instantly, because of course the most secretive and
   lucrative deal in the city is connected to the people already circling this
   cursed coffee pot. Everything is fine.
 limerick_style_summary: |-
-  To Minauros's harbour they climbed,  
+  To [Minauros](../locales/minauros)'s harbour they climbed,  
   Where sulfur and sweetness were rhymed.  
   A carafe of bronze  
   Stripped doubt from the pawns —  
-  And Kerwin was rotting, slimed!
+  And [Kerwin](../dossiers/kerwin-ulvas) was rotting, slimed!
 
   His skin had gone yellow-green sour,  
   His teeth black as mold in a tower.  
@@ -433,14 +433,14 @@ limerick_style_summary: |-
   O'er his wife — like as not —  
   And called it his finest hour!
 
-  Bec studied the carafe with care:  
+  [Bec](../dossiers/bec) studied the carafe with care:  
   No charm spell, but something more rare —  
   Alchemical trust,  
   Inhaled like a gust,  
   That left victims blissfully unaware!
 
   The palm tree grew away from the stench,  
-  And Freki knelt down on the bench.  
+  And [Freki](../dossiers/freki) knelt down on the bench.  
   It whispered of feet,  
   Light-footed, discreet —  
   A visitor, two days hence!
@@ -448,7 +448,7 @@ limerick_style_summary: |-
   Then nightfall brought cloaks of the rainbow,  
   Three figures stepped out from their bubble-carriage's glow.  
   The Noffindorf name  
-  Set Callie's blood aflame —  
+  Set [Callie](../dossiers/callie)'s blood aflame —  
   The deal's shadowed players now show!
 memorable_moments:
   - is_quote: false
@@ -538,7 +538,7 @@ memorable_moments:
 scenes:
   - title: Arrival at Ulvan Transitional Assets
     description: >-
-      The SPI agents arrive at the office of Kerwin Ulvas to investigate the
+      The [SPI](../orgs/spi) agents arrive at the office of [Kerwin Ulvas](../dossiers/kerwin-ulvas) to investigate the
       cursed coffee carafe.
     key_events:
       - >-
@@ -551,16 +551,16 @@ scenes:
         The agents observe several tiefling employees working through the large
         glass wall on the third floor.
       - >-
-        Freki opens the door to the office, revealing a bustling workspace
+        [Freki](../dossiers/freki) opens the door to the office, revealing a bustling workspace
         staffed by tieflings.
       - >-
         Freki is momentarily overwhelmed by a concentrated waft of the magical
         odor, causing his eyes to dilate.
       - >-
-        The agents are greeted by Taelin, a blue-skinned tiefling who seems
+        The agents are greeted by [Taelin](../dossiers/taelin-fosse), a blue-skinned tiefling who seems
         disturbingly and infectiously cheerful.
       - >-
-        Bec analyzes Taelin's demeanor and senses that she is not merely charmed
+        [Bec](../dossiers/bec) analyzes Taelin's demeanor and senses that she is not merely charmed
         but fundamentally, emotionally compromised — as if her brain has been
         washed.
       - >-
@@ -594,13 +594,13 @@ scenes:
         embarrassment to Taelin.
       - >-
         Kerwin welcomes the SPI and offers a handshake with his gnarled,
-        claw-like hand; Callie and Bec accept, while Ozborn offers an elbow
+        claw-like hand; [Callie](../dossiers/callie) and Bec accept, while [Ozborn](../dossiers/oz) offers an elbow
         bump.
       - >-
         Ozborn and Freki notice that Bec's eyes have gone low, indicating she
         has been affected by the magical odor.
       - >-
-        The party questions Kerwin about his ex-wife Sorelda's concerns; Kerwin
+        The party questions Kerwin about his ex-wife [Serelda](../dossiers/serelda-voth)'s concerns; Kerwin
         says her feelings come as no surprise but that there is nothing he can
         do.
       - >-
@@ -633,7 +633,7 @@ scenes:
         bloodlocked spells.
       - >-
         Callie's blood runs cold when Kerwin mentions spell licensing,
-        recognizing it as the Trell practice of bloodlocking patented spells.
+        recognizing it as the [Trell](../locales/trell) practice of bloodlocking patented spells.
       - >-
         Ozborn uses a charismatic 'Panache' maneuver, calling Kerwin 'Baby
         Bear,' which momentarily lowers Kerwin's guard and makes him more
@@ -668,7 +668,7 @@ scenes:
       business's success and the impact of the mysterious coffee pot.
     key_events:
       - >-
-        The party speaks with Taelin Fosse, Nalista Dorlies, and Xarlus Shale
+        The party speaks with Taelin Fosse, [Nalista Dorlies](../dossiers/nalista-dorlies), and [Xarlus Shale](../dossiers/xarlus-shale)
         about the history of the business.
       - >-
         The employees reveal that Kerwin was once considered rude, but the
@@ -679,13 +679,13 @@ scenes:
         money.
       - >-
         Nalista Dorlies refuses to discuss Kerwin's personal life or his
-        ex-wife, Sorelda, citing professional boundaries and NDAs.
+        ex-wife, Serelda, citing professional boundaries and NDAs.
       - >-
-        Ozborn uses persuasion to pressure the staff into admitting that Sorelda
+        Ozborn uses persuasion to pressure the staff into admitting that Serelda
         has been a 'thorn' in the business's side with her relentless legal
         filings.
       - >-
-        The employees reveal that Sorelda is from a wealthy family and that
+        The employees reveal that Serelda is from a wealthy family and that
         Kerwin married up; after the divorce, she took the money she had brought
         into the marriage.
       - >-
@@ -709,7 +709,7 @@ scenes:
       - The party concludes their meeting and departs the office.
   - title: Post-Meeting Debrief and Planning the Stakeout
     description: >-
-      The party returns to the SPI branch to debrief with Vex Morradine and plan
+      The party returns to the SPI branch to debrief with [Vex Morradine](../dossiers/vex-morradine) and plan
       their next move regarding Kerwin Ulvas and the cursed coffee carafe.
     key_events:
       - >-
@@ -734,7 +734,7 @@ scenes:
         dangers of the local gangs, advising against eating at any of the
         gang-dominated taverns in the Harbor District.
       - >-
-        The party suspects Sorelda may have already attempted to steal the
+        The party suspects Serelda may have already attempted to steal the
         carafe herself, based on the plant's memory of a light-footed visitor
         two days prior.
       - >-
@@ -789,18 +789,22 @@ scenes:
         Noffindorf subsidiary mentioned in Kerwin's deal.
 npcs:
   - name: Vex Morradine
+
+    wiki: ../dossiers/vex-morradine
     description: >-
       The new administrator of the Trell branch of the SPI in Minauros. He
       listens to the party's report, provides guidance on the legal implications
       of their proposed actions in Trell, warns them about the local gangs, and
       agrees to fetch dinner during the stakeout.
-  - name: Sorelda
+  - name: Serelda
+    wiki: ../dossiers/serelda-voth
     description: >-
       The party's client and Kerwin's ex-wife, who served Callie with a legal
       tort filing demanding the acquisition of the cursed carafe. The party
       suspects she may have already attempted to steal the item herself, and
       that she may be under pressure from outside parties.
   - name: Taelin Fosse
+    wiki: ../dossiers/taelin-fosse
     description: >-
       A blue-skinned tiefling who serves as head of contracts at Ulvan
       Transitional Assets and has been with Kerwin since his first year in
@@ -808,8 +812,9 @@ npcs:
       cheerfulness and devotion to her employer. She appeared visibly hurt when
       Kerwin dismissed her coldly in front of the party.
   - name: Kerwin Ulvas
+    wiki: ../dossiers/kerwin-ulvas
     description: >-
-      A tiefling man in his early 50s and Sorelda's ex-husband. Once
+      A tiefling man in his early 50s and Serelda's ex-husband. Once
       well-dressed and handsome, he now has sulfurous yellow-green skin, glowing
       oozing eyes, black-green stained teeth, and a distended, barrel-like
       physique from daily use of the cursed carafe. He is ruthlessly successful,
@@ -817,12 +822,14 @@ npcs:
       toll. He is brokering a major spell licensing deal with an Noffindorf
       subsidiary.
   - name: Xarlus Shale
+    wiki: ../dossiers/xarlus-shale
     description: >-
       A red-skinned tiefling employee at Ulvan Transitional Assets who handles
       the company's ledgers and finances. He was somewhat offended by Freki's
       attempts to micromanage the office plants and departed the office during
       the evening stakeout.
   - name: Nalista Dorlies
+    wiki: ../dossiers/nalista-dorlies
     description: >-
       A purple-skinned tiefling employee responsible for scheduling and managing
       the firm's numerous bookings. She is professional and cautious about
