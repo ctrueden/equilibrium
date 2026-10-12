@@ -3,7 +3,7 @@ layout: case
 title: "[Case 18] Curses and Carafes"
 description: >-
   A dangerous artifact might fall into the wrong hands if the SPI does not intervene.
-datestamp: 50-06-25/00a
+datestamp: 50-06-22/00a
 when: AC50 Vis 22 - ?
 province:
   name: Trell

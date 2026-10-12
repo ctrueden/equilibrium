@@ -2,7 +2,7 @@
 title: "[15e00] Bonding with Bilbo"
 description: >-
   After defending themselves from a vampire attack, Lestache's servant Bilbo escorts the agents to his house in Sepulchralis, the underground vampire city, where they take shelter.
-datestamp: 50-06-04/00b
+datestamp: 50-06-03/00
 when: AC50 Vis 03
 session-number: 68
 session-date: 2024-02-17
