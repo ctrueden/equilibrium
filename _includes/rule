@@ -10,15 +10,15 @@ Usage:
 Arguments:
 
   ref  - The rule: [kind:]Name[|args], with 5etools' tag arguments (see
-         _bin/fivetools.py), e.g. spell:Fireball, feat:Alert|XPHB.
+         _bin/5e.py), e.g. spell:Fireball, feat:Alert|XPHB.
   text - The text shown. Defaults to the rule's name.
 
-References are resolved by _bin/fivetools.py, into _data/fivetools.json;
+References are resolved by _bin/5e.py, into _data/dnd5e.json;
 without that file (e.g. on GitHub Pages) only the text is shown.
 {%- endcomment -%}
 {%- assign _ref = include.ref | append: "" -%}
-{%- assign _key = site.data.fivetools.pages[page.path].refs[_ref] | default: site.data.fivetools.refs[_ref] -%}
-{%- assign _rule = site.data.fivetools.entries[_key] -%}
+{%- assign _key = site.data.dnd5e.pages[page.path].refs[_ref] | default: site.data.dnd5e.refs[_ref] -%}
+{%- assign _rule = site.data.dnd5e.entries[_key] -%}
 {%- if include.text -%}
   {%- assign _text = include.text -%}
 {%- elsif _rule -%}

@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-fivetools.py — 5etools rules tooltips for the local (GM) site build.
+5e.py — 5etools rules tooltips for the local (GM) site build.
 
 Usage:
-    _bin/fivetools.py              # clone if needed, resolve, write data
-    _bin/fivetools.py -v           # also list every resolved reference
-    _bin/fivetools.py --no-clone   # never touch the network
-    _bin/fivetools.py --lookup "Sneak Attack" [--edition 2024]
+    _bin/5e.py              # clone if needed, resolve, write data
+    _bin/5e.py -v           # also list every resolved reference
+    _bin/5e.py --no-clone   # never touch the network
+    _bin/5e.py --lookup "Sneak Attack" [--edition 2024]
 
 The 5etools data (https://github.com/5etools-mirror-3) aggregates published
 D&D content that is not licensed for redistribution, so it is never
@@ -14,7 +14,7 @@ committed: the repositories are cloned into the gitignored `_external/`
 folder (where Jekyll does not look), and this script copies in only what
 the site needs, as gitignored build artifacts:
 
-- `_data/fivetools.json`: the rules entries referenced by the site's pages,
+- `_data/dnd5e.json`: the rules entries referenced by the site's pages,
   pre-rendered to HTML, plus a per-page map from referencing text to links.
 - `assets/5etools/`: any images those entries use.
 
@@ -65,7 +65,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 EXTERNAL = ROOT / '_external'
 PAGES = ROOT / '_pages'
-OUT_DATA = ROOT / '_data' / 'fivetools.json'
+OUT_DATA = ROOT / '_data' / 'dnd5e.json'
 OUT_IMG = ROOT / 'assets' / '5etools'
 
 EDITIONS = ['2014', '2024']

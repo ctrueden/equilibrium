@@ -1,7 +1,7 @@
 // Rules tooltips: shows the rule text of a `.rule-ref[data-tip]` link,
 // taken from its <template id="tip-KEY">, when it is hovered or focused.
 // On touch screens, the first tap shows the tooltip, and the second
-// follows the link. See _includes/fivetools and _bin/fivetools.py.
+// follows the link. See _includes/5e and _bin/5e.py.
 (function () {
   'use strict';
   if (window.ruleTips) return;

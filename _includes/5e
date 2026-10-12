@@ -1,16 +1,16 @@
 {%- comment -%}
 Rules tooltips: the tooltip contents for the 5etools rules referenced on
-this page, and the script that shows them (see _bin/fivetools.py).
+this page, and the script that shows them (see _bin/5e.py).
 
-_data/fivetools.json exists only in local (GM) builds, after running
-_bin/fivetools.py; without it, this include outputs nothing.
+_data/dnd5e.json exists only in local (GM) builds, after running
+_bin/5e.py; without it, this include outputs nothing.
 {%- endcomment -%}
-{%- if site.data.fivetools -%}
-{%- assign _ft = site.data.fivetools.pages[page.path] -%}
+{%- if site.data.dnd5e -%}
+{%- assign _ft = site.data.dnd5e.pages[page.path] -%}
 {%- if _ft.tips.size > 0 %}
 <div class="rule-tips" hidden>
 {%- for k in _ft.tips -%}
-<template id="tip-{{ k }}">{{ site.data.fivetools.entries[k].html }}</template>
+<template id="tip-{{ k }}">{{ site.data.dnd5e.entries[k].html }}</template>
 {%- endfor -%}
 </div>
 {%- endif %}
