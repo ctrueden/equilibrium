@@ -55,7 +55,7 @@ summary: >-
   offered a quiet and stunning revelation about her own situation: her
   changeling partner had long since been corrupted by infernal influence and now
   served as a fallen cleric of [Asmodeus](../dossiers/asmodeus), operating among literal devils in the
-  city of [Trell](../locales/trell). It was only their monthly link that kept her partner sane,
+  country of [Trell](../locales/trell). It was only their monthly link that kept her partner sane,
   which was precisely why Ayina had devoted herself so completely to the moon
   goddess Sehanine — not out of personal calling, but out of love and necessity.
 

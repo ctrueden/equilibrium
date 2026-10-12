@@ -21,7 +21,7 @@ callie_journal: >-
   [Bec](../dossiers/bec) fires a bunch of magic missiles into the crystal ball, exploding it. Awwwww all that moneyyyyy. Oz flips out. "I don't know what that was, but I do know a dirty whore when I see one!" He'll apologize later. Or else.
 
 
-  As soon as I get next to Oz, I put the Clamulet over his head. Maybe it can help him stop turning undead. Ulgrim orders Oz to kneel, concentrate, and resist. Then he starts chanting. Vondal tries playing a calming song. He's not giving birth, Vondal.
+  As soon as I get next to Oz, I put the Clamulet over his head. Maybe it can help him stop turning undead. [Ulgrim](../dossiers/ulgrim-bearwalker) orders Oz to kneel, concentrate, and resist. Then he starts chanting. Vondal tries playing a calming song. He's not giving birth, Vondal.
 
 
   I cast Mass Healing Word at level 3, healing everyone for 6 points. But it doesn't *quite* work as well as it should on Oz. Damn!
@@ -106,8 +106,8 @@ callie_journal: >-
 summary: >-
   The party found themselves in the aftermath of their confrontation with the
   cult at the Storm Stables, dealing with the remaining giants and cultists.
-  Ulgrim, the bear shaman, and [Kavaki](../dossiers/kavaki), their old ally who had been acting as a
-  mole, proved sympathetic to their cause. The Brood Mother, whose eggs had been
+  [Ulgrim](../dossiers/ulgrim-bearwalker), the bear shaman, and [Kavaki](../dossiers/kavaki), their old ally who had been acting as a
+  mole, proved sympathetic to their cause. [The Brood Mother](../dossiers/behir-brood-mother), whose eggs had been
   corrupted by the cult leader [Rhyzophus](../dossiers/rhyzophus), had already taken her vengeance by
   dragging off and eating several hill giants. The party took Ulgrim to the
   underground hot spring to show him the ancient ritual chamber—a place
@@ -318,7 +318,7 @@ summary: >-
   choices they made would define who they would become.
 short_summary: >+
   The party dealt with the aftermath of their confrontation at the Storm
-  Stables, showing the sympathetic bear shaman Ulgrim the ancient ritual chamber
+  Stables, showing the sympathetic bear shaman [Ulgrim](../dossiers/ulgrim-bearwalker) the ancient ritual chamber
   that cult leader [Rhyzophus](../dossiers/rhyzophus) had corrupted. [Cal](../dossiers/cal), acting as [Hyperion](../dossiers/hyperion)'s
   representative, offered the remaining giants and cultists a quest of
   redemption: free the halfling colony of [Xaryuvia](../locales/xaryuvia) from beholder tyranny. When
@@ -371,7 +371,7 @@ classic_summary: >
 
 
   When the dust settled, Oz found himself afflicted with both vampiric and
-  lycanthropic curses battling for dominance within his body. Ulgrim's
+  lycanthropic curses battling for dominance within his body. [Ulgrim](../dossiers/ulgrim-bearwalker)'s
   protective ritual bought them three days at most, and the party decided to
   return to Grohnea, who might have the skills to save Oz. Ulgrim and the
   ex-cultists, with [Cal](../dossiers/cal)'s permission, decided to seek [Theia](../dossiers/theia), the Titan of
@@ -426,7 +426,7 @@ snarky_summary: >
   your friend is quickly morphing into a vampire-werewolf hybrid.
 limerick_style_summary: |
   They cleaned up the ice palace mess,  
-  With Ulgrim and [Kavaki](../dossiers/kavaki) no less.  
+  With [Ulgrim](../dossiers/ulgrim-bearwalker) and [Kavaki](../dossiers/kavaki) no less.  
   They showed him the spring,  
   That dark ritual thing,  
   Where [Rhyzophus](../dossiers/rhyzophus) had caused such distress.
@@ -496,11 +496,11 @@ scenes:
     key_events:
       - >-
         The party dealt with the remaining cultists and giants after their
-        leader's defeat, with Ulgrim the bear shaman and [Kavaki](../dossiers/kavaki) appearing
+        leader's defeat, with [Ulgrim](../dossiers/ulgrim-bearwalker) the bear shaman and [Kavaki](../dossiers/kavaki) appearing
         sympathetic.
       - >-
         [Rhyzophus](../dossiers/rhyzophus), the main cult leader, was revealed to have been corrupting the
-        Brood Mother's eggs to create lightning elementals.
+        [Brood Mother](../dossiers/behir-brood-mother)'s eggs to create lightning elementals.
       - >-
         [Vondal](../dossiers/vondal) had warned the Brood Mother about Rhyzophus's actions, leading her
         to seek vengeance by consuming some of the defeated giants.
@@ -781,6 +781,8 @@ scenes:
         some being harder to separate from identity than others.
 npcs:
   - name: Ulgrim
+
+    wiki: ../dossiers/ulgrim-bearwalker
     description: >-
       A bear shaman who was part of the cult but proved sympathetic to the
       party's cause. He performs a ritual on Ozborn to protect him from vampiric
@@ -801,6 +803,7 @@ npcs:
       to corrupt the Brood Mother's eggs to create lightning elementals. He has
       been defeated by the party.
   - name: Brood Mother
+    wiki: ../dossiers/behir-brood-mother
     description: >-
       A cunning creature whose eggs were being corrupted by Rhyzophus. She sought
       vengeance by consuming some of the defeated giants after waiting for an

@@ -4,6 +4,7 @@ image: https://i.pinimg.com/736x/5a/fa/5f/5afa5f343363e7f1090a58f200db5da1.jpg
 image-source: https://www.pinterest.com/pin/490259109430214258/
 statbox:
   race: devil (phistophilus)
+  gender: male
   locale: trell
   profession: notary
   case: ["18"]

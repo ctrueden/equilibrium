@@ -3,7 +3,7 @@ title: Sorra Kell
 image: https://i.pinimg.com/originals/cf/58/6c/cf586ce2c178ec5f98eb52177f9896f3.jpg
 image-source: https://www.pinterest.com/pin/9429480465727910/
 statbox:
-  race: tiefling
+  race: [tiefling, dragonborn]
   gender: female
   locale: trell
   profession: tavern owner

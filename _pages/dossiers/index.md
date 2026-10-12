@@ -35,6 +35,7 @@ title: Dossiers
       <option value="15">[15] Halflings and Hemophilia | Arallu: Sepulchralis</option>
       <option value="16">[16] Tunnels and Turpitude | The Afterworld?</option>
       <option value="17">[17] Misery and Mending | Arallu: Acrid Marshes</option>
+      <option value="18">[18] Curses and Carafes | Trell: Minauros</option>
     </select>
   </span>
   <span class="item">
@@ -49,6 +50,7 @@ title: Dossiers
       <option value="elf">Elf</option>
       <option value="eternal">Eternal</option>
       <option value="fey">Fey</option>
+      <option value="giant">Giant</option>
       <option value="githzerai">Githzerai</option>
       <option value="gnoll">Gnoll</option>
       <option value="gnome">Gnome</option>

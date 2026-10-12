@@ -3,6 +3,7 @@ title: Galloc
 image: https://i.pinimg.com/originals/37/b2/49/37b2497ba3b924312f3dfdc65ef07304.jpg
 image-source: https://www.pinterest.com/pin/11751649021626039/
 statbox:
+  race: tiefling
   gender: male
   locale: trell
   profession: bodyguard
