@@ -270,7 +270,10 @@ _bin/review-session.py --fix "Zarlis=Xarlus" --fix "Gallic=Galloc" --apply case-
 ```
 It (1) links the first mention of each known entity in each recap field
 (each is its own tab), in the scenes and in the Markdown body; (2) fills in
-missing `wiki:` links in the npcs/locations/items sidebars; and (3) flags
+missing `wiki:` links in the npcs/locations/items/spells sidebars (items and
+spells with no wiki page get a `rules:` link to 2014.5e.tools / 5e.tools
+instead, from the local 5etools data; `--edition 2024` prefers the 2024
+rules); and (3) flags
 capitalized names with no wiki page, suggesting close matches as probable
 misspellings. Fix misspellings with `--fix OLD=NEW` (or by hand), and add
 recurring ones to the target page's `aliases:`. Names come from

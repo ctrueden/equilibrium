@@ -14,7 +14,10 @@ For each page, it:
    each is shown as its own tab), in the scenes, and in the markdown body.
    Only unambiguous names are linked: full titles, `nav-title`s, `aliases`,
    and distinctive first/last names (see _bin/entities.py).
-2. Fills in missing `wiki:` links of the npcs/locations/items sidebar lists.
+2. Fills in missing `wiki:` links of the npcs/locations/items/spells sidebar
+   lists. Items and spells with no wiki page get a `rules:` link to the D&D
+   rules on 5e.tools instead, when the local 5etools data (see
+   _bin/dnd5e.py) knows them; the data itself is never copied into the site.
 3. Flags capitalized names that match no wiki page: either probable
    misspellings of a known name (add the misspelling to that page's
    `aliases:` front matter, and fix the text), or new entities that may
@@ -43,7 +46,9 @@ TEXT_KEYS = ['notes', 'callie_journal', 'summary', 'short_summary',
 # Fields whose prose is linked as one unit.
 SCENE_KEYS = ['scenes']
 # Sidebar reference lists: entries get a `wiki:` link when resolvable.
-SIDEBAR_KEYS = ['npcs', 'locations', 'items']
+SIDEBAR_KEYS = ['npcs', 'locations', 'items', 'spells']
+# Sidebar lists whose unlinked names are looked up in the 5etools rules.
+RULES_KEYS = {'items': 'equipment', 'spells': 'spell'}
 # Sidebar lists whose unlinked names are worth flagging.
 FLAG_SIDEBAR_KEYS = ['npcs', 'locations']
 # Capitalized words that are not names.
@@ -196,11 +201,52 @@ def suggest(name, index):
 
 
 # ---------------------------------------------------------------------------
+# D&D rules links (5etools)
+# ---------------------------------------------------------------------------
+
+class Rules:
+    """Finds items and spells in the local 5etools data, loaded on first
+    use; finds nothing if the data is absent (run _bin/dnd5e.py to clone it)."""
+
+    def __init__(self, edition='2014'):
+        self.edition = edition
+        self.builder = None
+        self.ctx = {}
+
+    def load(self):
+        if self.builder is None:
+            import importlib
+            dnd5e = importlib.import_module('dnd5e')
+            datasets = {ed: dnd5e.Dataset(ed) for ed in dnd5e.EDITIONS
+                        if (dnd5e.repo_dir(ed, 'src') / 'data').exists()}
+            if not datasets:
+                print('No 5etools data in _external/ (run _bin/dnd5e.py); '
+                      'not linking items and spells to the rules.', file=sys.stderr)
+            self.dnd5e = dnd5e
+            self.datasets = datasets
+            self.builder = dnd5e.Builder(dnd5e.Resolver(datasets), '') if datasets else False
+        return self.builder
+
+    def lookup(self, name, kind):
+        """Returns (url, description) for a spell or item name, or None."""
+        b = self.load()
+        if not b:
+            return None
+        ctx = self.ctx.setdefault(kind, self.dnd5e.Context(self.edition, kind=kind))
+        e = b.find(self.dnd5e.clean_name(name), ctx)
+        url = e and self.dnd5e.entry_url(e, self.datasets[e['edition']])
+        if not url:
+            return None
+        return url, f'[{e["edition"]}] {e["kind"]} {e["name"]} ({e["source"]})'
+
+
+# ---------------------------------------------------------------------------
 # Page processing
 # ---------------------------------------------------------------------------
 
-def sidebar_links(fm_text, regions, index, report):
-    """Insert `wiki:` under sidebar entries that lack one."""
+def sidebar_links(fm_text, regions, index, report, rules=None):
+    """Insert `wiki:` under sidebar entries that lack one; or, for items and
+    spells without a wiki page, `rules:` linking to the D&D rules."""
     inserts = []
     for key in SIDEBAR_KEYS:
         if key not in regions:
@@ -211,13 +257,17 @@ def sidebar_links(fm_text, regions, index, report):
         for i, m in enumerate(entries):
             end = entries[i + 1].start() if i + 1 < len(entries) else len(region)
             body = region[m.end():end]
-            if re.search(r'^\s*wiki:', body, re.M):
+            if re.search(r'^\s*(?:wiki|rules):', body, re.M):
                 continue
             name = m.group(2).strip('"\'')
             ent = index.lookup(name)
-            if not ent:
-                continue
             indent = m.group(1) + '  '
+            if not ent:
+                hit = rules and key in RULES_KEYS and rules.lookup(name, RULES_KEYS[key])
+                if hit:
+                    inserts.append((a + m.end(), f'\n{indent}rules: "{hit[0]}"'))
+                    report.append(f'  sidebar {key}: {name} -> {hit[1]}\n      {hit[0]}')
+                continue
             inserts.append((a + m.end(), f'\n{indent}wiki: {ent.link}'))
             note = '' if name in (ent.title, ent.front.get('nav-title')) else \
                 f'  (sidebar says "{name}"; page title is "{ent.title}")'
@@ -246,7 +296,7 @@ def apply_fixes(text, fixes):
     return text
 
 
-def review(path, linker, index, apply, fixes=()):
+def review(path, linker, index, apply, fixes=(), rules=None):
     text = path.read_text(encoding='utf-8')
     original = text
     text = apply_fixes(text, fixes)
@@ -273,7 +323,7 @@ def review(path, linker, index, apply, fixes=()):
         fm_text = fm_text[:a] + new + fm_text[b:]
 
     # 2. Sidebar lists.
-    fm_text = sidebar_links(fm_text, top_level_regions(fm_text), index, report)
+    fm_text = sidebar_links(fm_text, top_level_regions(fm_text), index, report, rules)
 
     # 3. Markdown body.
     if body.strip():
@@ -327,6 +377,8 @@ def main():
     ap.add_argument('--fix', action='append', default=[], metavar='OLD=NEW',
                     help='correct a misspelled name first (repeatable), '
                          'e.g. --fix "Zarlis=Xarlus"')
+    ap.add_argument('--edition', default='2014', choices=['2014', '2024'],
+                    help='D&D rules edition to prefer when linking items and spells')
     args = ap.parse_args()
 
     pages = [p.resolve() for p in args.pages]
@@ -338,8 +390,9 @@ def main():
     index = entities.Index(ROOT)
     linker = Linker(index)
     fixes = [tuple(f.split('=', 1)) for f in args.fix]
+    rules = Rules(args.edition)
     for p in pages:
-        review(p, linker, index, args.apply, fixes)
+        review(p, linker, index, args.apply, fixes, rules)
 
 
 if __name__ == '__main__':

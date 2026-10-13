@@ -213,6 +213,8 @@
               <li>
                 {%- if item.wiki -%}
                   <a href="{{ item.wiki }}">{{ item.name }}</a>
+                {%- elsif item.rules -%}
+                  <a href="{{ item.rules }}" target="_blank" rel="noopener">{{ item.name }}</a>
                 {%- elsif item.name -%}
                   {{ item.name }}
                 {%- else -%}
@@ -231,7 +233,13 @@
           <ul class="sidebar-list">
             {%- for spell in page.spells -%}
               <li>
-                {{ spell.name }}
+                {%- if spell.wiki -%}
+                  <a href="{{ spell.wiki }}">{{ spell.name }}</a>
+                {%- elsif spell.rules -%}
+                  <a href="{{ spell.rules }}" target="_blank" rel="noopener">{{ spell.name }}</a>
+                {%- else -%}
+                  {{ spell.name }}
+                {%- endif -%}
                 {%- if spell.description -%}<br><small>{{ spell.description }}</small>{%- endif -%}
               </li>
             {%- endfor -%}
