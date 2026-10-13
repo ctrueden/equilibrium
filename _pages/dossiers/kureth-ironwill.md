@@ -1,5 +1,6 @@
 ---
 title: Kureth Ironwill
+image: https://i.pinimg.com/originals/82/9c/b1/829cb17c39145020eb205cd01388e5fc.png
 statbox:
   race: giant (goliath)
   gender: male

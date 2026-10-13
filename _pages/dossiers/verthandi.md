@@ -1,5 +1,6 @@
 ---
 title: Verthandi
+image: https://i.pinimg.com/originals/a8/ec/7c/a8ec7c35ed9f53a36ccb3a4c2c2c45ac.png
 statbox:
   race: giant (stone)
   gender: female

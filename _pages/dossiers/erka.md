@@ -1,5 +1,6 @@
 ---
 title: Erka
+image: https://i.pinimg.com/originals/81/7a/a5/817aa581e0cf5f33e40787fcb8306d3e.jpg
 statbox:
   race: giant (stone)
   gender: female

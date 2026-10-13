@@ -1,6 +1,7 @@
 ---
 title: Ulgrim Bearwalker
 aliases: [Ulgrim]
+image: https://i.pinimg.com/originals/09/b4/bb/09b4bb5b88c0748e35dfa2c34ddc9dd3.jpg
 statbox:
   race: giant (goliath)
   gender: male

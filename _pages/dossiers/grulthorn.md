@@ -1,5 +1,6 @@
 ---
 title: Grulthorn
+image: https://i.pinimg.com/originals/dc/29/73/dc2973e19d836b16b1616c4c9d09cf0a.png
 statbox:
   race: giant (hill)
   gender: male

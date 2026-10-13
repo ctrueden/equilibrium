@@ -1,8 +1,7 @@
 ---
 title: Rhyzophus
 aliases: [Rhizopus]
-#image: TODO
-#image-source: TODO
+image: https://i.pinimg.com/originals/07/fb/20/07fb2015cbc37863c324d1636324412b.jpg
 statbox:
   race: [giant (cloud)]
   gender: male
