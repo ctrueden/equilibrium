@@ -439,11 +439,46 @@ img.img {
 
 #session-layout {
   display: grid;
-  grid-template-columns: 13em 1fr 16em;
+  grid-template-columns: var(--nav-w, 13em) 1fr var(--side-w, 16em);
   grid-template-areas: "nav content sidebar";
   gap: 1em;
   align-items: start;
   margin-top: 1em;
+  position: relative;
+}
+
+/* Draggable handles in the gaps between the columns (added by resize-columns.js). */
+.column-gripper {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 1em;
+  cursor: col-resize;
+  touch-action: none;
+  z-index: 1;
+}
+
+.column-gripper::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 2px;
+  margin-left: -1px;
+  border-radius: 1px;
+  background: transparent;
+  transition: background 0.15s;
+}
+
+.column-gripper:hover::after,
+.column-gripper.dragging::after {
+  background: sandybrown;
+}
+
+body.column-resizing {
+  cursor: col-resize;
+  user-select: none;
 }
 
 /* Shared panel border */
@@ -512,7 +547,7 @@ img.img {
 
 /* Event pages without a reference sidebar: navigation + content only. */
 #session-layout.nav-only {
-  grid-template-columns: 13em 1fr;
+  grid-template-columns: var(--nav-w, 13em) 1fr;
   grid-template-areas: "nav content";
 }
 
@@ -759,7 +794,7 @@ img.img {
 /* Responsive: stack columns on narrower screens */
 @media (max-width: 1000px) {
   #session-layout {
-    grid-template-columns: 11em 1fr 14em;
+    grid-template-columns: var(--nav-w, 11em) 1fr var(--side-w, 14em);
   }
 }
 
@@ -777,6 +812,10 @@ img.img {
   #session-sidebar {
     position: static;
     max-height: none;
+  }
+
+  .column-gripper {
+    display: none;
   }
 }
 
