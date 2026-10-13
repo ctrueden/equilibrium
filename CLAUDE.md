@@ -228,6 +228,24 @@ the generated HTML can be adjusted site-wide in one place:
 External images are cached for local development by `_bin/cache-images.py`,
 which scans the built `_site` for `<img>` URLs (so build the site first).
 
+### GM image gallery
+
+`_pages/gm/gallery.md` holds prospective images, as `images:` entries of
+the form `source|image|tag tag tag` (lowercase singular tags, multi-word
+ones hyphenated: `stone-giant`); the page filters them by tag. Once an
+image is used on a page, it is removed from the gallery.
+
+```bash
+_bin/ingest-image.py 00fe9dcf57bf11a5177df5dc24186615 stone-giant male  # Pinterest image hash
+_bin/ingest-image.py 1028087421185063112 giant      # pin ID: image scraped from the pin
+_bin/ingest-image.py PAGE_URL IMAGE_URL elf         # any source page + image
+_bin/ingest-image.py --retag giant                  # model-tag existing images tagged giant
+_bin/ingest-image.py --prune                        # drop images already used on pages
+```
+It caches the image (as `cache-images.py` does), asks a local Ollama vision
+model for tags (`--no-ai` to skip, `--model` to choose), merges them with
+the given tags, and adds or updates the gallery entry. `-n` is a dry run.
+
 ---
 
 ## GM Assistant YAML Ingestion

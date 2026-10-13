@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S python3 -P
 """
 Download and cache all external images referenced by the built site into /assets/cache
 
