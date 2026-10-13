@@ -3,7 +3,7 @@ title: Equilibrium D&D
 description: A D&D5E game.
 markdown: kramdown
 baseurl: /equilibrium
-exclude: ["_pages/gm/.git", "_external"]
+exclude: ["_pages/gm/.git", "_cloud", "_external"]
 kramdown:
   syntax_highlighter: rogue
 plugins:
