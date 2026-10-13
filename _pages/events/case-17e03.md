@@ -14,15 +14,15 @@ layout: session
 I choose to lose the glitter but keep my new wings. They're interesting, and I already have all kinds of ideas for inventions to help me live with them. Plus: flying! I'm a little stumbly right now, since I'm not used to them, but I'll practice whenever I have time.
 
 * For my ward, I choose to learn a specific weakness of any creature. This will work one time, when I decide to use it.
-* Oz chose Enhancement for his ward, triggered when he wants: one extra attack for eight rounds.
-* Vondal took Displacement: on his next wild surge, he gets (up to) a plus or minus 16 to whatever he rolls.
-* Freki took Transmutation: he can turn into a creature of his choice, for up to 8 total minutes (in 1 minute intervals).
+* [Oz](../dossiers/oz) chose Enhancement for his ward, triggered when he wants: one extra attack for eight rounds.
+* [Vondal](../dossiers/vondal) took Displacement: on his next wild surge, he gets (up to) a plus or minus 16 to whatever he rolls.
+* [Freki](../dossiers/freki) took Transmutation: he can turn into a creature of his choice, for up to 8 total minutes (in 1 minute intervals).
 * Grohnia also gives us all a ward against the cold, which I really appreciate...
 * ...and puts me in charge of deciding when we come back. I guess I have the right mix of smarts and cowardice. I accept!
 
-We find ourselves on a glacier. It looks really cold but I can't feel it, ha ha ha. There's an enormous door, like really tremendously colossal, about a mile away. There's also some giants, probably lookouts. We decide to hop onto the flying carpet for the trip. Bec has made us invisible, since it's not like there's anything to look at out here. Aside from the ice shelf with the door in it, there's nothing but plain white nothing as far as the eye can see; anything moving would draw attention. Vondal hops into our portable hole, for which he requisitioned a bottle of endless air. I think he also found a couch on the curb somewhere and dragged that in there, and who knows what other amenities he's got. Probably a cookie jar or two.
+We find ourselves on a glacier. It looks really cold but I can't feel it, ha ha ha. There's an enormous door, like really tremendously colossal, about a mile away. There's also some giants, probably lookouts. We decide to hop onto the flying carpet for the trip. [Bec](../dossiers/bec) has made us invisible, since it's not like there's anything to look at out here. Aside from the ice shelf with the door in it, there's nothing but plain white nothing as far as the eye can see; anything moving would draw attention. Vondal hops into our portable hole, for which he requisitioned a bottle of endless air. I think he also found a couch on the curb somewhere and dragged that in there, and who knows what other amenities he's got. Probably a cookie jar or two.
 
-On our way towards the door, Cal recognizes one of the lookouts as Jorik Iceshield, an honorable and paternal figure in the Ordning, not the kind of hothead who would support an uprising. The other looks vaguely familiar, but he can't place her. He also knows there's probably some other way in besides the big giant door, but he doesn't know any specific location.
+On our way towards the door, [Cal](../dossiers/cal) recognizes one of the lookouts as Jorik Iceshield, an honorable and paternal figure in the Ordning, not the kind of hothead who would support an uprising. The other looks vaguely familiar, but he can't place her. He also knows there's probably some other way in besides the big giant door, but he doesn't know any specific location.
 
 When we reach the ice shelf, about 250 feet from the lookouts, Cal hops off the carpet and instructs us to look for another way in while he goes to talk to Jorik. We're just looking for little cracks or holes in the ice somewhere.
 
@@ -30,7 +30,7 @@ Heading towards the entrance, Cal is spotted by Jorik. The two lookouts approach
 
 Cal tells them that he's heard some troubling rumors, but he's talking to them because he knows they're honorable. Jorik confirms that the stables aren't safe inside and invites Cal to look inside. But Cal can't see much due to his short stature, so Jorik lifts him up on his hand. Inside the cave, Cal can see some exploded giants. They still have heads, but...not much else.
 
-Cal decides to tell them that he heard rumors that a cult had taken over this place. The lookouts confirm this and say that Hyperion told them to keep anyone from going in, including him. Jorik says he saw it happen with his own eyes: when they entered the cave, the storm grew inside them uncontrollably until it tore out of the from the inside. "Not a fate I would wish on my worst enemies. So I'm afraid there's nothing much for you to do here," Jorik concludes.
+Cal decides to tell them that he heard rumors that a cult had taken over this place. The lookouts confirm this and say that [Hyperion](../dossiers/hyperion) told them to keep anyone from going in, including him. Jorik says he saw it happen with his own eyes: when they entered the cave, the storm grew inside them uncontrollably until it tore out of the from the inside. "Not a fate I would wish on my worst enemies. So I'm afraid there's nothing much for you to do here," Jorik concludes.
 
 Cal tells them that Hyperion sent him, but Jorik isn't just going to take his word for it and orders Cal to step back. "How do I know you have not been compromised by the cult?" "I could ask you the same question," Cal claps back.
 

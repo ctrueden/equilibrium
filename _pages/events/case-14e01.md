@@ -12,7 +12,7 @@ layout: session
 
 {% include tab id="summary" label="Summary" first=true %}
 
-Over the next few days, [Mallory](../dossiers/mallory) (the real one!) and [Cassandra](../dossiers/cassandra) work to get the SPI HQ back into shape.
+Over the next few days, [Mallory](../dossiers/mallory) (the real one!) and [Cassandra](../dossiers/cassandra) work to get the [SPI HQ](../locales/spi-hq) back into shape.
 
 * All field agents are called back to base for an all-staff meeting on Woodsday, Vis 03. This includes:
 
@@ -21,7 +21,7 @@ Over the next few days, [Mallory](../dossiers/mallory) (the real one!) and [Cass
   - [Lawrence Feathersworth](../dossiers/lawrence-feathersworth)
   - [Victor Rocksmith](../dossiers/victor-rocksmith)
 
-* Meanwhile, our SPI agent heroes have two days off: Vis 01 and Vis 02. Or they can help rebuild HQ.
+* Meanwhile, our [SPI](../orgs/spi) agent heroes have two days off: Vis 01 and Vis 02. Or they can help rebuild HQ.
 
 Some notable things relating our heroes:
 
@@ -33,14 +33,14 @@ Some notable things relating our heroes:
 
 At the all-staff meeting: various agents share information about current events:
 
-- In the absence of leadership, McKraken, Feathersworth, and Rocksmith have started to establish SPI outputs in three of the nations: Squeaks under the Mountain, Featherworth in Reena'seere. Rocksmith in Trell.
+- In the absence of leadership, McKraken, Feathersworth, and Rocksmith have started to establish SPI outputs in three of the nations: Squeaks under the [Mountain](../locales/mountain), Featherworth in [Reena'seere](../locales/reenaseere). Rocksmith in [Trell](../locales/trell).
 
 - Cassandra remembers what happened to her: she and Mallory ([Eeoram](../dossiers/eeoram-sufur), really) were back at the base, trying to deal with [the Breach](case-09), when they were ambushed by the [Malosi](../orgs/malosi). Before she could react, she was slain by [Andalla](../dossiers/andalla) the dragon shaman. Cassandra felt Andalla pulling at her spirit, trying to consume her, but she managed to flee into the nearby monkey statue, which she sensed could house souls. But once inside, she realized the soul of a monkey was already within, and they began to comingle. Cassandra remembers being inside the statue, her consciousness fading, but striving with all her will to drive the intruders as far away as she could. She doesn't know what happened to Eeoram, but she remembers him being there with her right before the ambush...
 
 - Squeaks McKraken has been working on a case in the dwarven lands:
-  - Dwarves aren't fighting goblins anymore because goblins stopped coming.
+  - [Dwarves](../creatures/dwarves) aren't fighting goblins anymore because goblins stopped coming.
   - When dwarves investigated, they found karach had spread up from the tunnel depths: a "super bloom" of karach!
-  - The karach is unstable, and Flux oozes in various places. Squeaks was unable to delve deeper on his own, but he was able to connect the source to the old SPI HQ, behind the sealed off stone wall.
+  - The karach is unstable, and [Flux](../locales/flux) oozes in various places. Squeaks was unable to delve deeper on his own, but he was able to connect the source to the old SPI HQ, behind the sealed off stone wall.
 
 - Lawrence Feathersworth has been in contact with [Arallu](../locales/arallu) about an incident that occurred in [Sepulchralis](../locales/sepulchralis), the underground Arallan necropolis.While agents of Arallu are the ones who contacted him asking for the SPI's help, he has not yet been successful in arranging passage to Arallu to actually investigate what happened. But he knows some details of the incident:
   - [Evershroud Manor](../locales/evershroud-manor), the primary residence of [Timor Invictus](../dossiers/timor-invictus), suddenly exploded with positive energy on Rixa 25. It is believed that Invictus was inside at the time, and he has not been heard from since.
@@ -48,11 +48,11 @@ At the all-staff meeting: various agents share information about current events:
   - The undead themselves cannot enter, for fearing of being quickly destroyed by the positive energy suffusing the place.
 
 - Victor Rocksmith has also been in diplomacy mode:
-  - He has spoken with agents of [Saint Benedor](../dossiers/benedor), who wants the SPI to ensure that an unnatural hurricane from Trell reaches Oasis, to rejuvenate the land, and insists that the SPI owes a debt to his nation for their actions regarding the Cornucopia.
-  - But the dragons of Skyrealm have pledged to unravel the hurricane using air countermagic, and have forbidden the SPI from interfering. It is a brewing international incident.
+  - He has spoken with agents of [Saint Benedor](../dossiers/benedor), who wants the SPI to ensure that an unnatural hurricane from Trell reaches [Oasis](../locales/oasis), to rejuvenate the land, and insists that the SPI owes a debt to his nation for their actions regarding the [Cornucopia](../relics/cornucopia).
+  - But the dragons of [Skyrealm](../locales/skyrealm) have pledged to unravel the hurricane using air countermagic, and have forbidden the SPI from interfering. It is a brewing international incident.
   - Rocksmith is not sure what to do, but he was able to trace the origin of the hurricane back to a magical lighthouse on the shores of Trell...
 
-- Rain has been chilling at Vondal's house in Vondal's bathrobes. :-D
+- Rain has been chilling at [Vondal](../dossiers/vondal)'s house in Vondal's bathrobes. :-D
 
 Feathersworth has arranged for the Arallan representatives to meet at the SPI outpost in Reena'seere.
 
@@ -66,11 +66,11 @@ Mallory asks Callie and Bec to help repair the ol' HQ, which is pretty trashed.
 
 Bec goes to see the elves and is presented with the spellbooks of Sartus Morningdew. They think that if anyone can use his books to the best effect, it's Bec. Aww!
 
-Oz decides to go to "Gnome Vegas" to cheat at the casinos. He succeeds! But then Leopold shows up and says "We've been looking for you!" Oz tips the dealer 10% of his winnings and says to always remember the name of Freki the werewolf!
+Oz decides to go to "Gnome Vegas" to cheat at the casinos. He succeeds! But then [Leopold](../dossiers/leopold-gardenblossom) shows up and says "We've been looking for you!" Oz tips the dealer 10% of his winnings and says to always remember the name of Freki the werewolf!
 
 Cal hangs out at HQ to fix up the training room. He also talks to Mallory and spars with Cassandra (who is boosting her AC with magic). She has some cool magic that makes people not want to hit her. She also tells him his sword synergizes with divine casting. Neat!
 
-Callie goes back to see Gavin at the Emporium. She asks whether he has anything that can help repair HQ. Then, holding a bottle of glue that can stick anything to anything (Sovreign Glue) and a Cube of Mending, she has a vision of a door behind which is the promise of infinite, forbidden knowledge. AND a secret that only Callie can know. She could use the items to seal the door forever OR go in there, get the secrets, and THEN seal it! But before she can make a decision, the vision ends. Gavin asks if she saw tomorrow's lottery numbers and suggests that she come back sometime when she doesn't need anything, just to see him. Aww!
+Callie goes back to see [Gavin](../dossiers/gavin-pepperpotts) at the Emporium. She asks whether he has anything that can help repair HQ. Then, holding a bottle of glue that can stick anything to anything (Sovreign Glue) and a Cube of Mending, she has a vision of a door behind which is the promise of infinite, forbidden knowledge. AND a secret that only Callie can know. She could use the items to seal the door forever OR go in there, get the secrets, and THEN seal it! But before she can make a decision, the vision ends. Gavin asks if she saw tomorrow's lottery numbers and suggests that she come back sometime when she doesn't need anything, just to see him. Aww!
 
 ### All-Staff Meeting
 
@@ -78,11 +78,11 @@ Rain the Owlbear, Cassandra, Mallory, Squeaks McKraken, Victor Rocksmith, and La
 
 Oz comes in late, when we're recapping the World Tree events.
 
-Mallory congratulates us on saving the World Tree and giving the Necronomicon to the elves. Although we did piss off the RUP by stealing their artifact.
+Mallory congratulates us on saving the World Tree and giving the [Necronomicon](../relics/necronomicon) to the elves. Although we did piss off the [RUP](../locales/rup) by stealing their artifact.
 
 Squeaks McKraken opened an outpost under the mountain, not the same one as the old, sealed off outpost. The dwarves refused to reopen that one because there's a flux leak down there. Squeaks thinks the leak originated in the old SPI outpost and is slowly spreading karach.
 
-Victor Rocksmith set up an outpost in Trell, his homeland. St. Benedor has had a vision that a hurricane will come and rejuvenate the desert that we destroyed by stealing their cornucopia. Unfortunately, the dragons of Zephyr plan to stop the hurricane to prevent it from damaging the Sky Realm. Victor investigated the origin of the hurricane and found it emerged from one of the Trell magic lighthouses. They absorb storm energy, but are not supposed to let any out.
+Victor Rocksmith set up an outpost in Trell, his homeland. St. Benedor has had a vision that a hurricane will come and rejuvenate the desert that we destroyed by stealing their cornucopia. Unfortunately, the dragons of [Zephyr](../locales/zephyr) plan to stop the hurricane to prevent it from damaging the Sky Realm. Victor investigated the origin of the hurricane and found it emerged from one of the Trell magic lighthouses. They absorb storm energy, but are not supposed to let any out.
 
 Lawrence Feathersworth opened his outpost in his hometown, Reena'seere, a half-elven city that Bec is also from. Some reps from Arallu came out to see him. He arranged a meeting with them for tomorrow over lunch to hear more about their request. Basically, a manor belonging to one of their leaders has begun radiating positive energy and they can't enter it. They need someone living to investigate it.
 

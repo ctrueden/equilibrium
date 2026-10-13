@@ -64,7 +64,7 @@ That doesn't really explain which way to go, so I try to focus on the explanatio
 
 Mallory: "So, you believe you encountered someone impersonating Vondal? Tell me exactly what happened."
 
-Audreth fades back into reality, cool! Audreth tells us that he asked for help from his patron (that eyeball) to wake up from the obviously fake Afterworld situation. It worked, but he peered into the Void a little bit and went slightly insane. Upon waking up, Audreth saw us all wrapped in tentacles, so he broke himself free of them. But then he noticed there were two Vondals&mdash;one awake and the other still asleep. The awake one looked at him and said "thank you" in an arrogant, un-Vondal-like way, then folded himself away somehow and disappeared. Since everyone else was still tentacularly asleep, Audreth decided to wake me up by begging [Pelor](../dossiers/pelor) for some extra mojo. After I was done screaming, I ad libbed a new spell I call *zone of reality* that set everyone else straight on what's really real!
+Audreth fades back into reality, cool! Audreth tells us that he asked for help from his patron (that eyeball) to wake up from the obviously fake [Afterworld](../locales/afterworld) situation. It worked, but he peered into the Void a little bit and went slightly insane. Upon waking up, Audreth saw us all wrapped in tentacles, so he broke himself free of them. But then he noticed there were two Vondals&mdash;one awake and the other still asleep. The awake one looked at him and said "thank you" in an arrogant, un-Vondal-like way, then folded himself away somehow and disappeared. Since everyone else was still tentacularly asleep, Audreth decided to wake me up by begging [Pelor](../dossiers/pelor) for some extra mojo. After I was done screaming, I ad libbed a new spell I call *zone of reality* that set everyone else straight on what's really real!
 
 > It's not a sex thing!
 
@@ -72,7 +72,7 @@ Audreth fades back into reality, cool! Audreth tells us that he asked for help f
 
 Audreth seems convinced that the awake Vondal wasn't really (any flavor of) Vondal.
 
-Audreth says the reason they set out on their journey to begin with was that Lorelei saw it in a dream. Mallory said HQ had been breached and wanted a Flux expert to look at. Lorelei's dream said they would enter the Flux in a rift under the mountain and we'd have success. They started at the previous SPI headquarters to get into the Flux. Rubinia used Earth Gliding to allow them to move around underground. On the fifth day of the journey, they thought they were close. The Flux was thick. "How long has it been since we set out, anyway?"
+Audreth says the reason they set out on their journey to begin with was that [Lorelei](../dossiers/lorelei-nocturne) saw it in a dream. Mallory said HQ had been breached and wanted a Flux expert to look at. Lorelei's dream said they would enter the Flux in a rift under the mountain and we'd have success. They started at the previous [SPI](../orgs/spi) headquarters to get into the Flux. [Rubinia](../dossiers/rubinia-elka) used Earth Gliding to allow them to move around underground. On the fifth day of the journey, they thought they were close. The Flux was thick. "How long has it been since we set out, anyway?"
 
 > Nate joined the game in December 2017.  
 > In game time, we've known Oz for two months.

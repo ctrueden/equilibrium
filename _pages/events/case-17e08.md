@@ -25,7 +25,7 @@ Bec tries to tell him no, but he is skeptical. They end up having to explain the
 
 They discuss the ancient origins of the chamber and what we found Rhyzophus doing with the eggs.
 
-Ulgrim then wants to know more about the soul larva. Bec admits that this is not [Hyperion's](../dossiers/hyperion) judgement, but an extracirricular task. Ulgrim says he didn't know most of these mummified giants. He knew Verthandi from a past encounter, but didn't know she was here.
+Ulgrim then wants to know more about the soul larva. Bec admits that this is not [Hyperion's](../dossiers/hyperion) judgement, but an extracirricular task. Ulgrim says he didn't know most of these mummified giants. He knew [Verthandi](../dossiers/verthandi) from a past encounter, but didn't know she was here.
 
 Freki wonders how this is even possible. How could there be anyone Ulgrim didn't know in this small (relatively) place? Ulgrim says these people were kept separated. Vondal reassures him that this is a harsh punishment, but it is reserved for harsh, bad a-holes. Which is true!
 

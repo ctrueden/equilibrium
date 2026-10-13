@@ -16,19 +16,19 @@ layout: session
 
 *GM's note: NOT FINALIZED*
 
-Freki asks Sophie why she chose this particular rundown shack, and she says she followed her faith here. It's where she's supposed to be. Okay, I get that.
+[Freki](../dossiers/freki) asks [Sophie](../dossiers/sophie-steelboots) why she chose this particular rundown shack, and she says she followed her faith here. It's where she's supposed to be. Okay, I get that.
 
-Goratrix says he's brought our winnings here. Meerlinda sets a bag down outside the door. What a mensch, this guy.
+[Goratrix](../dossiers/goratrix-ceoris) says he's brought our winnings here. [Meerlinda](../dossiers/meerlinda-descant) sets a bag down outside the door. What a mensch, this guy.
 
-Bec asks why Goratrix has a beef with Lestache, but Gortrix says it's the other way around. Lestache is jealous because Goratrix built this city (not the ruins, the good part).
+[Bec](../dossiers/bec) asks why Goratrix has a beef with [Lestache](../dossiers/lestache-de-lyarcourt), but Gortrix says it's the other way around. Lestache is jealous because Goratrix built this city (not the ruins, the good part).
 
 Freki, with his low charisma, says Goratrix basically built like a block of a city, then. Oh dear, we should probably stop letting him talk.
 
-Vondal asks what Goratrix wants. Goratrix says we should all ask ourselves that more often. He considers. It's power. Power is the thing he wants, and we are powerful. But so is he, so he holds our lives in his hands. 
+[Vondal](../dossiers/vondal) asks what Goratrix wants. Goratrix says we should all ask ourselves that more often. He considers. It's power. Power is the thing he wants, and we are powerful. But so is he, so he holds our lives in his hands. 
 
 We try to suss out what the hell he wants. It seems he could, uh, take us now or wait until we're even more powerful. But that's risky, since we might get killed by someone else while he's waiting.
 
-Goratrix says if there's a Death Tyrant, then maybe the Zaryu tribe has a fallen member. So, is the SPI bound to stop it or what? Well...yes and no. Lacking our halfling murder squad, we'd probably just send this one up the flagpole and see if anyone salutes.
+Goratrix says if there's a Death Tyrant, then maybe the Zaryu tribe has a fallen member. So, is the [SPI](../orgs/spi) bound to stop it or what? Well...yes and no. Lacking our halfling murder squad, we'd probably just send this one up the flagpole and see if anyone salutes.
 
 Sophie asks Goratrix why he even cares what we do. He says it's an event of interest, so he wants to know how we're going to proceed. He'd rather we not bring more SPI agents down here. Freki doesn't get why this is a problem. Goratrix explains that these things wash over the whole land and destroy everything, and he's really not down with that. Bec proposes that we join forces temporarily to take down the Death Tyrant.
 
@@ -40,7 +40,7 @@ Vondal suggests we take a rest. Since 3/4 of the current party is spellcasters, 
 
 Sophie thinks we need to go, but Vondal thinks we should stay put and rest. She is really keen to grab her cursed sword and go. That sword is like a bad boyfriend, she just will not accept the truth about it. 
 
-I chat up Sophie about her service to Tiamat. She says most of her people follow Tiamat, who is the Best God. She didn't know Bilbo, though. I get the impression that she may have some other feelings about Tiamat, but she's not at liberty to say them out loud. She's used to being constantly watched by Zaryu and Tiamat, I guess.
+I chat up Sophie about her service to [Tiamat](../dossiers/tiamat). She says most of her people follow Tiamat, who is the Best God. She didn't know [Bilbo](../dossiers/bilbo), though. I get the impression that she may have some other feelings about Tiamat, but she's not at liberty to say them out loud. She's used to being constantly watched by Zaryu and Tiamat, I guess.
 
 Freki really likes Sophie. She's his favorite halfling; she's only stabbed him once so far. Is this the only criterion, or...? Maybe it's just the most relevant one.
 

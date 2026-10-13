@@ -977,20 +977,25 @@ items:
       during the interrogation.
 spells:
   - name: Detect Magic
+
+    rules: "https://2014.5e.tools/spells.html#detect%20magic_phb"
     description: >-
       Cast by Callie as a ritual on the sleeping Cassandra, revealing a powerful
       divine aura exuding from her that strangely seems to cast a shadow that
       isn't physically there. The aura is identified as part of Cassandra's
       nature rather than an external enchantment.
   - name: Mage Armor
+    rules: "https://2014.5e.tools/spells.html#mage%20armor_phb"
     description: >-
       Cast as a ritual by Vondal before the party departed for Trell, providing
       magical protection for eight hours of investigation.
   - name: Teleportation Circle
+    rules: "https://2014.5e.tools/spells.html#teleportation%20circle_phb"
     description: >-
       Used by the party to instantly travel from SPI Headquarters to the branch
       office in Trell.
   - name: Message
+    rules: "https://2014.5e.tools/spells.html#message_phb"
     description: >-
       Briefly considered by Ozborn for discrete communication in the streets of
       Trell, but ultimately avoided due to concerns about wild magic surges.

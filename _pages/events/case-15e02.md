@@ -80,7 +80,7 @@ Lestache wearily tells Goratrix he could have just extended an invitation, but G
 
 Oz introduces him as "the hidden, the tiny, the pink man in the boat, Goratrix Clitoris!" Everybody laughs. Goratrix is mad, as Oz intended, but Lestache is like, "Obviously I didn't tell him to do that. It was pretty hilarious, tho."
 
-Goratrix tries another spell-like incantation, but Lestache stops him from making a big scene. One of Goratrix's entourage, [Meerlinda Descant](../dossiers/meerlinda-descant), introduces herself with the title "Weaver of Dreams" as reality appears to shift all around us. She then proceeds to announce another of Goratrix's companions, [Calderon the Cold](../dossiers/calderon-the-cold), Bane of Spiderkind, with an illusion of Calderon destroying spiders. Then she performs three illusions as part of introducing Goratrix. The first is an important-looking room with Goratrix the most important ("Archmage of the Crispic Clan"). The second is the whole city, laid out before us ("Architect of Sepulchris"). The third is him ordering around a bunch of gargoyles ("Supreme Commander of Gargoyles").
+Goratrix tries another spell-like incantation, but Lestache stops him from making a big scene. One of Goratrix's entourage, [Meerlinda Descant](../dossiers/meerlinda-descant), introduces herself with the title "Weaver of Dreams" as reality appears to shift all around us. She then proceeds to announce another of Goratrix's companions, [Calderon the Cold](../dossiers/calderon-the-cold), Bane of Spiderkind, with an illusion of Calderon destroying spiders. Then she performs three illusions as part of introducing Goratrix. The first is an important-looking room with Goratrix the most important ("Archmage of the [Crispic Clan](../orgs/clan-crispic)"). The second is the whole city, laid out before us ("Architect of Sepulchris"). The third is him ordering around a bunch of gargoyles ("Supreme Commander of [Gargoyles](../creatures/gargoyles)").
 
 Lestache is all, "Do you *have* to do the whole thing *every time*, sheesh!" He starts calling Goratrix increasingly elaborate names ("Pompous cockolorum! Conniving snollygoster! You purveyor of falseness and untidy monstrosities!"). He's getting all lathered up when Troile tells him to settle down.
 
@@ -100,7 +100,7 @@ Freki asks if Hugin and Munin can find the captive halflings and let them free? 
 
 There's a brief vamp fight. The band stops playing while they fight, then starts up again when there's a clear winner.
 
-Later, Lestache (who is announced as "Your host Lestache de Lyarcourt, Fragrant Flower of the Château de Mécant) asks if everybody is ready for the first event of the evening. There's a smattering of applause and someone yells, "What is it, Lestache?" He keeps doing his ringmaster thing. He promises he has something "weird and wonderful" and hypes up the crowd.
+Later, Lestache (who is announced as "Your host Lestache de Lyarcourt, Fragrant Flower of the [Château de Mécant](../locales/chateau-de-mecant)) asks if everybody is ready for the first event of the evening. There's a smattering of applause and someone yells, "What is it, Lestache?" He keeps doing his ringmaster thing. He promises he has something "weird and wonderful" and hypes up the crowd.
 
 A big box, covered with a dark curtain, gets rolled into the hall. The curtain is pulled away with a flourish to reveal:
 

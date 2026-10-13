@@ -12,29 +12,29 @@ layout: session
 
 {% include tab id="notes" label="Notes" first=true %}
 
-Callie, Bec, Freki pass save and see through shadow conjuration illusion. It's a magical construct.
+Callie, [Bec](../dossiers/bec), [Freki](../dossiers/freki) pass save and see through shadow conjuration illusion. It's a magical construct.
 
 Bec: "So you didn't believe in it enough though to actually *come* here to stop us?"
 
-Tybalt: "It's doesn't matter whether *I* am here... what matters is that *he* is." And he floats up anime-style, manifesting Janus.
+[Tybalt](../dossiers/tybalt): "It's doesn't matter whether *I* am here... what matters is that *he* is." And he floats up anime-style, manifesting [Janus](../dossiers/janus-ilaris).
 
 Freki: "They're not real!" and shoots an arrow at Tybalt's eyepatch, thinking it will go through... but it thunks! Then he shoots another one, and it's deflected by some invisible shield.
 
-Oz (bluffing): "Apologies, we're still not used to these forms... We've taken the forms we believe to be most beneficial to our cause..." Trying to convey that they are actually [doppelgangers](../creatures/changelings). 32 persuasion.
+[Oz](../dossiers/oz) (bluffing): "Apologies, we're still not used to these forms... We've taken the forms we believe to be most beneficial to our cause..." Trying to convey that they are actually [doppelgangers](../creatures/changelings). 32 persuasion.
 
 Janus raises an eyebrow, seemingly unconvinced and ignorant: "What nonsense is this?"
 
-Oz: "Oh come now, don't be coy, we all know what we're talking about here." He moves in front of Sartus.
+Oz: "Oh come now, don't be coy, we all know what we're talking about here." He moves in front of [Sartus](../dossiers/sartus-morningdew).
 
 Bec: "Who else is involved in this? Are the guards up there on our side?" She moves behind Sartus.
 
 Sartus: "Run, you fools!" He takes some steps back, then turns and runs.
 
-Dark Oz appears! Tells the monkey to fuck off. Then to Oz: "And now for you" and channels the dark ghost lady! She points the Hornblade at Oz, and Oz looks down and believes his Hornblade has reverted to the Cornucopia horn.
+Dark Oz appears! Tells the monkey to fuck off. Then to Oz: "And now for you" and channels the dark ghost lady! She points the Hornblade at Oz, and Oz looks down and believes his Hornblade has reverted to the [Cornucopia](../relics/cornucopia) horn.
 
 Janus: "Begone, unworthy!" and does *mind blast*. Everyone is blasted back five feet. Freki fails the save and takes 13 psychic damage and is stunned for one round. He is bleeding out his nostrils.
 
-Cal recognizes that his undead sense is not tingling. He lashes out with his whip, grabbing Tybalt/Janus and pulling him into melee with Oz and himself.
+[Cal](../dossiers/cal) recognizes that his undead sense is not tingling. He lashes out with his whip, grabbing Tybalt/Janus and pulling him into melee with Oz and himself.
 
 [Callie](../dossiers/callie) receives a sending from shadow-[Gavin](../dossiers/gavin-pepperpotts): "Help! There's a crazy guy wrecking our shop! I tried to stop him but he sprayed me with blood! I feel... so itchy... and hungry..."
 
@@ -66,7 +66,7 @@ Cal is possessed by Janus. He throws sartus out of the room with the whip.
 
 Callie casts *spiritual weapon* next to the Oz-ghost lady, and hits her! It is fully effective. There is a flash, and they see another woman in gold and green in a negative instant. Only momentarily.
 
-Phoebe finishes casting a summoning spell, and six pixie knights appear with shortbows. They shoot at the dark-Oz ghost, but only one hits.
+[Phoebe](../dossiers/phoebe) finishes casting a summoning spell, and six pixie knights appear with shortbows. They shoot at the dark-Oz ghost, but only one hits.
 
 Phoebe then casts *dispel magic* on Janus-inside-Cal. Oz makes a choice to cleverly sidestep the challenge of continuing to battle the dark-Oz ghost... and they disperse!
 
@@ -87,7 +87,7 @@ Female guard: "If you come in here, we will be forced to fight you. We have our 
 
 Oz suddenly remembers about his monkey, and decides to go back and look for him quickly. He finds the monkey in statue form lying on the ground just outside the treasury building. When he picks up the monkey statue, he feels a wave of assurance and relief wash over him.
 
-Lorissa: "If you take this book, it will do immeasurable harm. Nothing good will come of it."
+[Lorissa](../dossiers/lorissa-stormseeker): "If you take this book, it will do immeasurable harm. Nothing good will come of it."
 
 Vondal-as-Owlbear: "Sartus, explain why this is not bad plan. Sartus maybe not most popular, but pretty big brain boy over here!"
 
@@ -99,7 +99,7 @@ Book is encased in translucent crystal.
 
 TODO -- describe how the party got the Book out of there, and performed the ritual to erase the writings.
 
-Meanwhile, Oz steals the Ioun Stone of Mastery! But he accidentally cracks it when he uses the Hornblade to split the crystal casing. It has 9/10 HP remaining.
+Meanwhile, Oz steals the [Ioun](../dossiers/ioun) Stone of Mastery! But he accidentally cracks it when he uses the Hornblade to split the crystal casing. It has 9/10 HP remaining.
 
 {% include tab id="callie" label="Callie's Journal" %}
 
@@ -111,7 +111,7 @@ A giant appears and tosses two things out of its pack or pocket: a samurai owlbe
 
 I cast Spiritual Weapon at level 4, so damage is 2d8 plus my spellcasting modifier (7).
 
-After the battle, Freki and Vondal were pretty wounded, so I cast Prayer of Healing at level 5. 4+5+4+8+7+(7) = 35
+After the battle, Freki and [Vondal](../dossiers/vondal) were pretty wounded, so I cast Prayer of Healing at level 5. 4+5+4+8+7+(7) = 35
 
 As we all pray/cast ritual magic on the book, I am forced to contribute 3 more spell slots toward the spell. I contribute one level 4, one level 3, and one level 1.
 

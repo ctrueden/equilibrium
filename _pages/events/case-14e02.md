@@ -32,7 +32,7 @@ Freki pulls out his bow because this is pretty hostile. He feels an attempt to t
 
 Lady Nightshade tries to force everyone to obey her. It works on Oz, who suddenly sees how totally reasonable and awesome she is. Why doesn't anybody else get it??
 
-Vondal casts *mage armor*. He senses that this place is chaotically infused with Flux. There are tendrils everywhere! There is a wild magic surge, but Vondal feels that now that he knows about the place, he might be able to avoid it next time. There's a lot of positive energy in this place, so much that we're all healing slowly every round. So the result is that a unicorn appears and nuzzles Vondal.
+Vondal casts *mage armor*. He senses that this place is chaotically infused with [Flux](../locales/flux). There are tendrils everywhere! There is a wild magic surge, but Vondal feels that now that he knows about the place, he might be able to avoid it next time. There's a lot of positive energy in this place, so much that we're all healing slowly every round. So the result is that a unicorn appears and nuzzles Vondal.
 
 Callie pets the unicorn. It touches its horn to her hand and she is suffused with holy power!
 

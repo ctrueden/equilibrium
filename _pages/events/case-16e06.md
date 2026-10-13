@@ -69,7 +69,7 @@ What did? The dream. Okay, then. Vondal gives her a cookie for refreshment and a
 
 She introduces herself as Lorelei Nocturne and asks who the hell we are. Audreth says he's glad she's okay, but he sounds a little skeptical.
 
-Lorelei wants to know where her sister is, meaning [Rubinia](../dossiers/rubinia-elka). Bec tells her that Rubinia is fine, back at SPI headquarters, which is true as far as we know.
+Lorelei wants to know where her sister is, meaning [Rubinia](../dossiers/rubinia-elka). Bec tells her that Rubinia is fine, back at [SPI](../orgs/spi) headquarters, which is true as far as we know.
 
 Mallory asks us what happened to the coins we found at the campsite. We're back in the office again. But now we realize he looks more like [Eeoram](../dossiers/eeoram-sufur), the one who went on the quest with Lorelei, Rubinia, and Audreth. Freki answers instinctively that Oz has the coins. Of course he does, where else would coins be? Freki senses a slight tinge of satisfaction from Eeoram.
 
@@ -119,7 +119,7 @@ Oz is fidgeting with his dagger when he suddenly throws it with majestic accurac
 
 The monster with Cassandra's face has the monkey statue. One of the hands crushes the statue and the monster laps up some kind of energy from it.
 
-Wait, no: the shadow monkey, along with several of its shadow friends, and the three Furies, all come bursting through one of the two giant root-covered openings before us. Two of the Furies merge with the shadow monkey and transform into a huge two-headed Demogorgon monster. The third Fury merges with more shadows and becomes another horrible-looking thing, while the remaining shadows turn into more ape-like things.
+Wait, no: the shadow monkey, along with several of its shadow friends, and the three Furies, all come bursting through one of the two giant root-covered openings before us. Two of the Furies merge with the shadow monkey and transform into a huge two-headed [Demogorgon](../dossiers/demogorgon) monster. The third Fury merges with more shadows and becomes another horrible-looking thing, while the remaining shadows turn into more ape-like things.
 
 We're all pretty tired right now, but we have monsters to fight. But my bathtub....
 

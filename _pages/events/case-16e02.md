@@ -14,26 +14,26 @@ layout: session
 
 {% include tab id="callie" label="Callie's Journal" first=true %}
 
-"The living are not welcome here," says Audreth. "Now you will pay the final price."
+"The living are not welcome here," says [Audreth](../dossiers/audreth). "Now you will pay the final price."
 
-"At least we're still living," Bec whispers to me.
+"At least we're still living," [Bec](../dossiers/bec) whispers to me.
 
-We gear up for battle. Oz starts out with a solid attack, though he's surprised to find out his poison dagger is missing. Then he saunters away and hands things over to Freki, who's looking strangely pleased with himself.
+We gear up for battle. [Oz](../dossiers/oz) starts out with a solid attack, though he's surprised to find out his poison dagger is missing. Then he saunters away and hands things over to [Freki](../dossiers/freki), who's looking strangely pleased with himself.
 
 > Curtis: "Did you hear what I said before about how you can't perceive things in the periphery of your senses here?"  
 > Nate: "No, I didn't even perceive that."
 
 Freki is in hybrid form with a feathery cloak and says, "We are not your enemies, and you don't want us to become that." He readies his bow.
 
-Audreth calls, "Megaera!" He yields, for now, and heals himself.
+Audreth calls, "[Megaera](../dossiers/megaera)!" He yields, for now, and heals himself.
 
 That name sounds familiar to me and Bec. It's some kind of legendary creature, which Bec is surprised to find actually exists. In whatever way things exist IN THIS OTHERWORLDLY PLACE UNDER OUR HEADQUARTERS.
 
-Bec kneels to look Audreth in the eye and tells him we have members under the protection of Nerull, which supercedes the authority of the Furies, which she thinks doesn't exist anyway.
+Bec kneels to look Audreth in the eye and tells him we have members under the protection of [Nerull](../dossiers/nerull), which supercedes the authority of the Furies, which she thinks doesn't exist anyway.
 
 I'm already at eye level, so I don't kneel. I just ask him to explain why he's under our headquarters. He just says we shouldn't be here, which I'm not even arguing with!
 
-Cassandra doesn't think Audreth will listen to us. She starts casting a spell of some kind.
+[Cassandra](../dossiers/cassandra) doesn't think Audreth will listen to us. She starts casting a spell of some kind.
 
 Audreth looks outraged. "Honorless!" he says, and stands up.
 
@@ -45,11 +45,11 @@ Freki fires Hail of Thorns at the flying creature and lands two great attacks on
 
 Oz slices up Audreth again, snicker-snack. He's badly wounded, but not dead yet.
 
-Vondal attacks Audreth with Scorching Ray. Audreth's eyes turn to inky black voids. He isn't channeling Flux like a wild mage, the Flux is channeling *him*. Something reaches through the voids to grab at Vondal. Creepy! So creepy! And we just came from a whole undead, underground city!
+[Vondal](../dossiers/vondal) attacks Audreth with Scorching Ray. Audreth's eyes turn to inky black voids. He isn't channeling [Flux](../locales/flux) like a wild mage, the Flux is channeling *him*. Something reaches through the voids to grab at Vondal. Creepy! So creepy! And we just came from a whole undead, underground city!
 
 Vondal strikes back for 69 damage, nice.
 
-There are a bunch of mirrors floating around reflecting...what? Oz sees Mallory, also surrounded by mirror shards. He panics, shifting through all kinds of shapes, unable to stay with just one. Bec sees a woman in a tower surrounded by strange creatures, which she is smiling at. Freki sees Audreth drinking water from the river, after which he gets a vacant expression that is the hallmark of ensorcellment. Vondal sees us doing some sort of ritual to help Audreth recover his memories. I see a shadowy beast with three heads. The heads turn toward me, trying to bite me. The heads have no eyes. But then, it opens more mouths and it DOES have eyes and there are so many and it jumps through the mirror and it's RIGHT HERE!!! The beast bites me and fire drips into the wounds. Yaaaaah!!!
+There are a bunch of mirrors floating around reflecting...what? Oz sees [Mallory](../dossiers/mallory), also surrounded by mirror shards. He panics, shifting through all kinds of shapes, unable to stay with just one. Bec sees a woman in a tower surrounded by strange creatures, which she is smiling at. Freki sees Audreth drinking water from the river, after which he gets a vacant expression that is the hallmark of ensorcellment. Vondal sees us doing some sort of ritual to help Audreth recover his memories. I see a shadowy beast with three heads. The heads turn toward me, trying to bite me. The heads have no eyes. But then, it opens more mouths and it DOES have eyes and there are so many and it jumps through the mirror and it's RIGHT HERE!!! The beast bites me and fire drips into the wounds. Yaaaaah!!!
 
 > Damage I took: 36 points from the many-toothed dog
 
@@ -80,7 +80,7 @@ I stabilize Audreth. I have the feeling he's not really our enemy, and I don't w
 > Spell cast: Mass Healing Word at level 4  
 > Everyone who I healed regains 12 HP
 
-Cassandra uses Hold Monster to restrain the Cerberus. "Got him!"
+Cassandra uses Hold Monster to restrain the [Cerberus](../creatures/cerberus). "Got him!"
 
 Vondal tells us that he's just Flux-damaged, we can help him and bring his mind back, we owe it to him to try. It's a stirring speech, and I think he's talking about Audreth, but no. He means the dog. I sigh and roll my eyes. Freki has a plan to establish dominance over it, which sounds like a better idea, but never mind. Oz hasn't murdered anything in the last five minutes, so he's gonna kill it.
 
@@ -103,11 +103,11 @@ Cassandra heals herself with a minor assist from Vondal's wand of healing. I cas
 
 Oz wants to kill the unconscious guy, naturally, but Vondal actually steps in the way this time and insists that we cast some sort of ritual to heal his mind. I'm not sure what that would entail, but luckily Bec has some ideas. Maybe something tied to his identity would help him recover his memories? Vondal remembers that Audreth was a Warlock and a Paladin of Peylor.
 
-Cassandra listens to what Vondal says, then says that if he's a Warlock and a Paladin, that means he's pledged to two entities. We would need to restore the ties to both of them. Besides Peylor, who else might he be pledged to? "The Great Old One," Vondal thinks. The Great Old One is linked to the Flux somehow. If it gazes upon you, it drives you mad.
+Cassandra listens to what Vondal says, then says that if he's a Warlock and a Paladin, that means he's pledged to two entities. We would need to restore the ties to both of them. Besides Peylor, who else might he be pledged to? "[The Great Old One](../dossiers/great-old-one)," Vondal thinks. The Great Old One is linked to the Flux somehow. If it gazes upon you, it drives you mad.
 
 Vondal gets right to work. He makes the sign of Peylor over Audreth's heart, draws tentacles representing the Great Old One over his stomach, and puts a piece of paper with "The Great Old One" and "Peylor" written on it in his mouth. Bec, Cassandra and I help Vondal with the ritual.
 
-Audreth sits up and recognizes Vondal! The ritual was successful! Bec explains that we're underneath HQ. Audreth thinks that means they were successful in reaching "the source." They came from the mountain. There were four of them on the mission: Audreth, Rubinia, Mallory, and Lorelei.
+Audreth sits up and recognizes Vondal! The ritual was successful! Bec explains that we're underneath HQ. Audreth thinks that means they were successful in reaching "the source." They came from the mountain. There were four of them on the mission: Audreth, [Rubinia](../dossiers/rubinia-elka), Mallory, and [Lorelei](../dossiers/lorelei-nocturne).
 
 Oz is confused about the number of Mallorys that exist. I explain that the Mallory down here is a changeling, and the one upstairs is the original one. We used to work for the changeling, but then he disappeared and now the original is back. Simple! Oz says he saw Mallory shifting shapes rapidly in the mirror shards, and not on purpose.
 

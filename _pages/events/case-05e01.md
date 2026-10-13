@@ -9,7 +9,7 @@ session-date: 2016-05-28
 session-event: https://www.facebook.com/events/556824827819445/
 layout: session
 ---
-* SPI agents travel to the temple of the [Progression of Symmetry](../orgs/progression-of-symmetry), a reclusive monastic order situated at the ultimate summit of the Cliffs of Transcendance.
+* [SPI](../orgs/spi) agents travel to the temple of the [Progression of Symmetry](../orgs/progression-of-symmetry), a reclusive monastic order situated at the ultimate summit of the [Cliffs of Transcendance](../locales/cliffs).
 * Agents speak with [Ou-sh-](../dossiers/oush), the Grandmaster of Winds, one of four elemental masters of the monastic order. She is the one who called the SPI to investigate. They Progression is sworn not to get involved in corporeal affairs, instead pledging their lives to self-reflection and spiritual pursuit.
 * Ou-sh- tells the agents that people have been jumping from the Zenithal Summit platform and disappearing. When Mishaal, daughter of the Master of Fire [Kára Halfdandóttir](../dossiers/kara-halfdandottir), became one of the victims, her mother leaped after her and also disappeared, so Ou-sh- called for the SPI in response.
 * Agents speak with [Ceowyn Mandragoran](../dossiers/ceowyn-mandragoran), Master of Earth, who expresses his support for the Progression's policy of non-intervention.

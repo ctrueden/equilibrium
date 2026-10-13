@@ -957,11 +957,13 @@ items:
       A magical ring worn by Freki that enhances the wearer's athletic ability,
       allowing for significant leaps between buildings.
   - name: Thieves' Tools
+    rules: "https://2014.5e.tools/items.html#thieves'%20tools_phb"
     description: >-
       A set of specialized picks and implements used by Ozborn in an
       unsuccessful attempt to open the office door after the lock was damaged by
       Vondal's Mage Hand. Ozborn discarded them in frustration afterward.
   - name: Portable Hole
+    rules: "https://2014.5e.tools/items.html#portable%20hole_dmg"
     description: >-
       A magical circular cloth that, when unfolded, creates a ten-foot-deep
       extradimensional space. It is furnished with tiki torches, a table, and a
@@ -983,6 +985,7 @@ spells:
       out while remaining invisible to anyone on the outside, providing both
       concealment and a sense of security for the distressed Taelin.
   - name: Speak with Plants
+    rules: "https://2014.5e.tools/spells.html#speak%20with%20plants_phb"
     description: >-
       Employed by Freki to communicate with the vegetation in the rooftop
       community garden. He had a lengthy and surprisingly informative
@@ -996,17 +999,20 @@ spells:
       peer rather than an enemy. It also had a brief effect on Taelin during the
       street encounter.
   - name: Mage Hand
+    rules: "https://2014.5e.tools/spells.html#mage%20hand_phb"
     description: >-
       A spectral, floating hand used by Vondal to attempt to manipulate the
       internal tumblers of the locked office door from the inside. The attempt
       failed and accidentally gummed up the mechanism with ectoplasm, making the
       lock harder to pick afterward.
   - name: Teleport
+    rules: "https://2014.5e.tools/spells.html#teleport_phb"
     description: >-
       A high-level transportation spell used by the party to travel instantly
       from the local Trell office branch back to the main SPI headquarters using
       a sigil sequence known only to certain party members.
   - name: Wish
+    rules: "https://2014.5e.tools/spells.html#wish_phb"
     description: >-
       A legendary and ultimate spell attempted by Cassandra in an effort to
       perform a miracle and restore Taelin's mind. The initial attempt failed

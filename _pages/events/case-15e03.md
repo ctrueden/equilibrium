@@ -14,11 +14,11 @@ layout: session
 
 *GM's note: NOT FINALIZED*
 
-I know that the sword that the halfling took will make people paranoid and then turn into a devil. The sword may have influenced her to take it. Oz noted that Orlock used tongs to put it into the cage. Oz tries to tell her that the sword is evil, but she just clings to it harder and says he can take it out of her cold dead hands. It's sad when people get bitter, and cling to weapons or religion or antipathy toward people who aren't like them...or people who are exactly like them....
+I know that the sword that the halfling took will make people paranoid and then turn into a devil. The sword may have influenced her to take it. [Oz](../dossiers/oz) noted that [Orlock](../dossiers/orlok) used tongs to put it into the cage. Oz tries to tell her that the sword is evil, but she just clings to it harder and says he can take it out of her cold dead hands. It's sad when people get bitter, and cling to weapons or religion or antipathy toward people who aren't like them...or people who are exactly like them....
 
-We decide to throw in the Candles of the Deep as Clan SPI's offering. Bec and I make a huge show, based on the ritual elements of how the vampires put in their items. We demonstrate how they work underwater using Oz's vase of endless water. It's a pretty good show, if I do say so myself! Freki pretends to freak out at the sight of the fire, which attracts the vampires' attention. Meanwhile, Oz sneaks over and gives Sophie my Clamulet, which should help her against undead. She already has something around her neck, which Oz recognizes as an amulet of Tiamat (since he just saw that symbol in Bilbo's house).
+We decide to throw in the Candles of the Deep as Clan [SPI](../orgs/spi)'s offering. [Bec](../dossiers/bec) and I make a huge show, based on the ritual elements of how the vampires put in their items. We demonstrate how they work underwater using Oz's vase of endless water. It's a pretty good show, if I do say so myself! [Freki](../dossiers/freki) pretends to freak out at the sight of the fire, which attracts the vampires' attention. Meanwhile, Oz sneaks over and gives [Sophie](../dossiers/sophie-steelboots) my Clamulet, which should help her against undead. She already has something around her neck, which Oz recognizes as an amulet of [Tiamat](../dossiers/tiamat) (since he just saw that symbol in [Bilbo](../dossiers/bilbo)'s house).
 
-With the offering complete, Lestache announces that the hunt can begin. Orlok, since their clan is not participating, guards the valuables. Lestache also lets us know that we can't pull any funny business like hanging around and waiting for Sophie.
+With the offering complete, [Lestache](../dossiers/lestache-de-lyarcourt) announces that the hunt can begin. Orlok, since their clan is not participating, guards the valuables. Lestache also lets us know that we can't pull any funny business like hanging around and waiting for Sophie.
 
 They open the cage so the "fox" can run. Dragon wings pop out of Sophie's back and she flies away! Lestache seems surprised, although it's hard to tell with him how much is part of the show. But then he suggests that they start hunting right away instead of giving her a head start, so it seems more clear now.
 
@@ -26,13 +26,13 @@ Oz tries to challenge the vamps' courage on the basis that they shouldn't need t
 
 Freki keeps sniffing around. Seems like it's time to go.
 
-Enoch bids us good luck and then turns into some kind of winged demon and flies away. What a man! I hope we don't have to fight him!
+[Enoch](../dossiers/enoch-the-wise) bids us good luck and then turns into some kind of winged demon and flies away. What a man! I hope we don't have to fight him!
 
 We head out and Freki tries to track Sophie. He smells her scent going in 7 different directions, but he knows that this is a magical illusion and he knows which one is the right one. Go, Freki, go!
 
 We continue on and enter an area that feels wrong. It is unhallowed ground, which is the opposite of hallowed ground and resists the living. Ugh, I can't wait to get out of here. Bec wants to pull out her Mace of Disruption for the light. She puts a cloth over it so it's not like a beacon in the darkness. There are some skeletons in the distance, but they don't seem to have seen us. They have no eyes, how could they?
 
-We end up kind of sandwiched between the Brujah and Enoch, oh no. In order to follow the trail, we need to follow Enoch while avoiding the Brujah. I channel Avandra and send a duplicate of myself shrieking down the alley to distract the Brujah while we go ahead.
+We end up kind of sandwiched between the Brujah and Enoch, oh no. In order to follow the trail, we need to follow Enoch while avoiding the Brujah. I channel [Avandra](../dossiers/avandra) and send a duplicate of myself shrieking down the alley to distract the Brujah while we go ahead.
 
 We feel a horrible sense of oppression and surveillance. It's the Malachimera, urggghhhh. We decide not to attack it because that would draw unwanted attention. Bec wants to make us a tiny hut on the flying carpet to keep us safe in case it attacks. She does, so we have a silent-running covered wagon now!
 
@@ -42,15 +42,15 @@ At a fork in the road, Freki isn't sure which way Sophie went. We know which way
 
 Oz decides to make the carpet do a barrel roll, which probably seemed like a good idea at the time but feels less good to me and Bec, who are rattling around like the last bean in the can. Oz and Freki each manage to grab one of us, wheeeeeeeeeeeeeeeeeeeeeeeeeeew. Unfortunately, the Malachimera is still on top of the dome.
 
-But then, it shoots some kind of a fireball at Malak and disintegrates their cloud of bats. Malak is set on fire and if not destroyed, is at least distracted. I'm going to write ha-ha because I can't laugh while we're trying to be stealthy. 
+But then, it shoots some kind of a fireball at [Malak](../dossiers/malak-the-mad) and disintegrates their cloud of bats. Malak is set on fire and if not destroyed, is at least distracted. I'm going to write ha-ha because I can't laugh while we're trying to be stealthy. 
 
-Calderon the Cold and Lestache are facing off against each other. Heh heh.
+[Calderon the Cold](../dossiers/calderon-the-cold) and Lestache are facing off against each other. Heh heh.
 
 Malachimera is banging on the dome again. Will anyone rid us of this turbulent abomination? We decide to use melee attacks against it, which we can do through the dome. I Bless Freki, Oz, and Bec. The dome kind of mutes the effect of Freki's arrows. Also, things have a way of passing through this thing. However, their combined attacks dislodge it and it ends up under the carpet. Not sure I like that any better, TBH.
 
 We can see Lestache and Calderon ahead of us, so we try to take the carpet over their heads. Lestache spots us, but luckily they're both distracted by the arrival of Malachimera! Go, creature, go! You my friend.
 
-I drop Bless for the time being so I can give Guidance to Freki. We need to know where we're going. Behind us, Lestache calls, "You idiot! They're getting away!" But then he's on fire and we are sailing away, ha-ha-ha-ha-ha. It's almost like treating living creatures as playthings has some kind of consequences? Well, Malachai wasn't alive, but it's the principle of the thing.
+I drop Bless for the time being so I can give Guidance to Freki. We need to know where we're going. Behind us, Lestache calls, "You idiot! They're getting away!" But then he's on fire and we are sailing away, ha-ha-ha-ha-ha. It's almost like treating living creatures as playthings has some kind of consequences? Well, [Malachai](../dossiers/malachai-hawthorne) wasn't alive, but it's the principle of the thing.
 
 We almost fly into a bunch of mummies that were camoflaged against these ruins, yikes! We're surrounded by all kinds of weird undead things, on unhallowed ground, and just overall this is one of the worst situations I've ever been in, including when I was stranded at the bottom of the ocean. I have to pick who to Guide, and I choose Oz this time because I feel like we need to stay hidden. I'm not scared, you're scared!
 
@@ -62,6 +62,6 @@ We can see Sophie across the way. She yells, "I'm the one you want, you sons of 
 
 Enoch is distracted by Sophie (or possibly "Sophie") and flies away from us. But then, like an idiot, Oz yells out, "Hey asshole, your wings look like shit!" It's a use of Panache we've never seen before! This will grab Enoch's attention...obviously...but also gives him disadvantage against anybody but Oz. Meanwhile, the Gangrel go after Sophie.
 
-Freki sends Hugin and Munin over to the mystery building to find out if Sophie is in there and let her know that we're on her side if she is. Enoch comes back around the corner as a hellbeast and calls Oz out. Oz kisses his monkey and jumps out of the hut, ready to rumble!
+Freki sends [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin) over to the mystery building to find out if Sophie is in there and let her know that we're on her side if she is. Enoch comes back around the corner as a hellbeast and calls Oz out. Oz kisses his monkey and jumps out of the hut, ready to rumble!
 
 {% include endtabs %}

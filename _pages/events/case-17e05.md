@@ -66,7 +66,7 @@ I summon my Spiritual Weapon and swing it at Verthandi! Kaboom! Then I try Sacre
 
 Murky flaps over and shocks Verthandi. She falls down. Oz mutters, "Murder butterfly!"
 
-Another giant, Skalfang, roars, "What trickery is this!" He swings his great axe down at Cal. Somehow, Cal isn't split in half like a damn log. Go, Cal! Then Skalfang turns to Freki and tries again. Freki also withstands the attack, and I can see him immediately start to heal. Nice!
+Another giant, [Skalfang](../dossiers/skalfang), roars, "What trickery is this!" He swings his great axe down at Cal. Somehow, Cal isn't split in half like a damn log. Go, Cal! Then Skalfang turns to Freki and tries again. Freki also withstands the attack, and I can see him immediately start to heal. Nice!
 
 Then Skalfang aims a freezing ray at Oz. He hits Oz and ice crystallizes around Oz's feet, slowing him down! "Hoh hoh hoh!" Skalfang gloats.
 

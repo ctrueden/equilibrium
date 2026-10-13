@@ -10,13 +10,13 @@ session-event: https://www.facebook.com/events/2573562936206382/
 layout: session
 ---
 
-1. One by one, the pillar lights go out. Freki, Bec and Callie all have darkvision, but it is half as effective as normal.
-2. The fish people meander off, back through the glass. There is no sign of Cal, Aurora, Vondal or Oz.
+1. One by one, the pillar lights go out. [Freki](../dossiers/freki), [Bec](../dossiers/bec) and [Callie](../dossiers/callie) all have darkvision, but it is half as effective as normal.
+2. The fish people meander off, back through the glass. There is no sign of [Cal](../dossiers/cal), Aurora, [Vondal](../dossiers/vondal) or [Oz](../dossiers/oz).
 3. Callie is still connected to the über-fish. It is harming her psyche, but she can feel her mom deeper in the structure.
 4. The party argues with each other, as they fall victim to the psychological tactics of the evil overlords.
 5. After jabbing her trident into one of the suspicious columns, Callie establishes a psychic link with whatever is in charge of this place. She can feel her mother's psyche and decides to follow it.
 6. The party drifts down into a coliseum and is surrounded by fish people! Continuing to follow her mother's trail, Callie leads the party into a cave. Inside is a giant monster!!!
-7. After being grappled, Callie casts Zone of Truth to force the creature to stop lying. Her goddesses smile down and Erathis uses a significant chunk of power to destroy the illusions surrounding the party. They can now see that there are two aboleths whose will is holding the place and the giant monster together.
+7. After being grappled, Callie casts Zone of Truth to force the creature to stop lying. Her goddesses smile down and [Erathis](../dossiers/erathis) uses a significant chunk of power to destroy the illusions surrounding the party. They can now see that there are two aboleths whose will is holding the place and the giant monster together.
 8. Freki RIPS APART THE ABOLETHS like a total wolfman.
 9. Bec casts magic missile, kapow!!!
 10. The aboleths die and the whole place dissolves into a barfy mess. Callie's mom is free but has no hands or mouth. Vondal, Oz, Cal, and Aurora are there but unconscious.

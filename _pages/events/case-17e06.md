@@ -19,13 +19,13 @@ Status effects at session start:
 
 {% include tab id="callie" label="Callie's Journal" %}
 
-**The Ambush Develops Not Necessarily To The Giants' Advantage**
+**The Ambush Develops Not Necessarily To The [Giants](../creatures/giants)' Advantage**
 
 I am stunned by the weight of injustice, and also electricity. The horrible storm cloud comes over to [me](../dossiers/callie) and [Bec](../dossiers/bec) and hovers overhead. Then it attacks us. Perfect. FML.
 
 > I take 17 damage from this attack
 
-Then I feel an icy cold protective force enter my body, followed by a white-hot rage. It's [Munin](../dossiers/munin), who greets me without words. She's the spirit of memory, an aspect of knowledge. Despite my suddenly roiling emotions, I manage to stay calm. Then I experience what seems to be a memory of [Lorelei](../dossiers/lorelei-nocturne) and [Rubinia](../dossiers/rubinia-elka). From the perspective of...um, the cloak? Rubinia talks about containing something in a "flesh partition" using Necromancy. Sounds very above-board. The raven cloak is draped over Lorelei, protecting her from the worst of whatever is affecting her. Rubinia is sticking pieces of flesh into Lorelei. Earlier, Lorelei says she feels her "corporeal body" being pulled apart. After the surgery, Lorelei's condition is stable, but certain parts of her have changed: sharp teeth, clawed fingernails, and something like scars across her skin. Rubinia asks her how she's feeling. "Amazing," Lorelei replies, showing off her sharp teeth with a grin. The Flux is now contained. Rubinia pulls the cloak off, ending the vision.
+Then I feel an icy cold protective force enter my body, followed by a white-hot rage. It's [Munin](../dossiers/munin), who greets me without words. She's the spirit of memory, an aspect of knowledge. Despite my suddenly roiling emotions, I manage to stay calm. Then I experience what seems to be a memory of [Lorelei](../dossiers/lorelei-nocturne) and [Rubinia](../dossiers/rubinia-elka). From the perspective of...um, the cloak? Rubinia talks about containing something in a "flesh partition" using Necromancy. Sounds very above-board. The raven cloak is draped over Lorelei, protecting her from the worst of whatever is affecting her. Rubinia is sticking pieces of flesh into Lorelei. Earlier, Lorelei says she feels her "corporeal body" being pulled apart. After the surgery, Lorelei's condition is stable, but certain parts of her have changed: sharp teeth, clawed fingernails, and something like scars across her skin. Rubinia asks her how she's feeling. "Amazing," Lorelei replies, showing off her sharp teeth with a grin. [The Flux](../locales/flux) is now contained. Rubinia pulls the cloak off, ending the vision.
 
 > I now get +10 to all Wisdom-based rolls! I'm also not stunned, or blind, or disadvantaged.
 

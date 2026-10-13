@@ -35,7 +35,7 @@ Freki says, "I'm not sure anybody should have that power. Not me and not you."
 
 Nondal is mildly amused. He says he's seeking understanding, not power. He didn't understand this place, but now he does.
 
-Bec and [Vondal](../dossiers/vondal) are terrified beyond the capacity for rational thought. [Myself](../dossiers/callie), I feel sure that this portal has opened from the material realm to the real Afterworld where [Nerull the Raven Queen](../dossiers/nerull) rules. This gate is where souls pass through from life to death.
+Bec and [Vondal](../dossiers/vondal) are terrified beyond the capacity for rational thought. [Myself](../dossiers/callie), I feel sure that this portal has opened from the material realm to the real [Afterworld](../locales/afterworld) where [Nerull the Raven Queen](../dossiers/nerull) rules. This gate is where souls pass through from life to death.
 
 Bec says, "I think that gate opened for us, so we're more special than you."
 

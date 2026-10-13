@@ -13,19 +13,19 @@ layout: session
 
 We enter the cave through the little crevasse and can hear the voices of the giants booming off towards the main entrance. It sounds to me like Jorik is trying to explain that an elephant appeared and who can explain it? There's another giant, unknown to me, who sounds contemptuous. However, their conversation ends without any conflict and it sounds like the other giant went away, so we're free to explore. Explore the enormous, dark caves filled with ten-legged dragons and maniacal cultists. Hooray.
 
-I'm happy to let Oz go ahead and check for traps ahead of us. We hit a fork and decide to turn towards the door, where hopefully we can get behind the cultists who are waiting to ambush us, and ambush them instead.
+I'm happy to let [Oz](../dossiers/oz) go ahead and check for traps ahead of us. We hit a fork and decide to turn towards the door, where hopefully we can get behind the cultists who are waiting to ambush us, and ambush them instead.
 
 Along the way, we see a small opening through the rock that leads to a larger cavern where a behir sleeps surrounded by eggs. Fun fact about behir eggs: they vary in size, with the smaller eggs generally resulting in smaller offspring! I read all about these when I was trying to get a trade in exotic pets going in my emporium. (That didn't work out; not enough repeat customers.)
 
-Anyway, there's no reason why we need to go in there, so for once we leave it and move on. Oz stops so suddenly we almost bump into him, then he turns around and tells us in a flurry of whispers that there's a giant doing some sort of "wiggly fingers" to the eggs, which I assume means magic. Or omelets, suggests Vondal. But probably magic. We all try to back up in a line like idiot dominoes and my armor clunks against something. Sorry!!!
+Anyway, there's no reason why we need to go in there, so for once we leave it and move on. Oz stops so suddenly we almost bump into him, then he turns around and tells us in a flurry of whispers that there's a giant doing some sort of "wiggly fingers" to the eggs, which I assume means magic. Or omelets, suggests [Vondal](../dossiers/vondal). But probably magic. We all try to back up in a line like idiot dominoes and my armor clunks against something. Sorry!!!
 
-Vondal throws the portable hole onto the wall and Vondal pulls me in with him. Meanwhile, Freki tosses some small rock or something in the vicinity of the giant. From the hole, I hear some angry giant gibberish. Vondal plays the part of a screwup guard who abandoned his post to go eat omelets. The (real) giant leaves, so I guess that worked!
+Vondal throws the portable hole onto the wall and Vondal pulls me in with him. Meanwhile, [Freki](../dossiers/freki) tosses some small rock or something in the vicinity of the giant. From the hole, I hear some angry giant gibberish. Vondal plays the part of a screwup guard who abandoned his post to go eat omelets. The (real) giant leaves, so I guess that worked!
 
-In its lair, the behir starts snuffling around, trying to find out what's disturbing its nap. It's getting distressingly close to us. Vondal convinces Freki to carry us, plus Bec, in the hole. It's dark in here, but it would probably also be dark in the behir's colon, so I'm fine with it.
+In its lair, the behir starts snuffling around, trying to find out what's disturbing its nap. It's getting distressingly close to us. Vondal convinces Freki to carry us, plus [Bec](../dossiers/bec), in the hole. It's dark in here, but it would probably also be dark in the behir's colon, so I'm fine with it.
 
 "Psst! What are you doing?" comes a whisper from behind Freki.
 
-Bec, who is halfway into the hole, climbs out. I poke my head out and look for the owner of the mystery voice. It's Kavaki, our old friend with the cool tattoos! We hustle over (quietly) to talk to her.
+Bec, who is halfway into the hole, climbs out. I poke my head out and look for the owner of the mystery voice. It's [Kavaki](../dossiers/kavaki), our old friend with the cool tattoos! We hustle over (quietly) to talk to her.
 
 While we go to talk to Kavaki, Freki tries Speak with Animals to see if he can calm the behir down. "We're your friends," he says.
 
@@ -55,9 +55,9 @@ Oz drags Freki and Vondal over (quietly) to where Kavaki is. She leads us all in
 
 "How did you come upon it? It seems like not in your normal range...?" Bec asks.
 
-"What do you know of my normal range!" Kavaki says. Sheesh, crabby. "Why are *you* here? Were you sent by Hyperion?"
+"What do you know of my normal range!" Kavaki says. Sheesh, crabby. "Why are *you* here? Were you sent by [Hyperion](../dossiers/hyperion)?"
 
-She explains that the former court vizier, Rhyzophus, is trying to establish a new order among the giants. Right now, the smaller giants are simply considered lesser. For obvious reasons, a lot of giants aren't happy with that. She was asked to join, so she came, because being dead won't do anybody any good. However, she thinks Rhyzophus's real goal is just his own power. So are *we* here to gain more power?
+She explains that the former court vizier, [Rhyzophus](../dossiers/rhyzophus), is trying to establish a new order among the giants. Right now, the smaller giants are simply considered lesser. For obvious reasons, a lot of giants aren't happy with that. She was asked to join, so she came, because being dead won't do anybody any good. However, she thinks Rhyzophus's real goal is just his own power. So are *we* here to gain more power?
 
 "We seek to return to equilibrium that we knew before," says Freki. This strikes us all as very profound. We all go quiet for a moment.
 

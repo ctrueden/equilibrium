@@ -716,6 +716,7 @@ items:
       to handle and must be managed with a poisoner's kit. Two doses were
       produced from Ozborn's existing supplies.
   - name: Poisoner's Kit
+    rules: "https://2014.5e.tools/items.html#poisoner's%20kit_phb"
     description: >-
       A collection of tools including protective gloves and other implements
       used by Ozborn to safely handle and refine dangerous toxins such as Death
@@ -729,10 +730,12 @@ items:
       Also known as deadly nightshade, this plant is combined with Black Lotus
       to create the lethal Death Flower Oil.
   - name: Manual of Gainful Exercise
+    rules: "https://2014.5e.tools/items.html#manual%20of%20gainful%20exercise_dmg"
     description: >-
       Magical books studied by Freki and Cal during downtime that permanently
       increase the reader's physical strength and raise their strength maximum.
   - name: Feywild Shard
+    rules: "https://2014.5e.tools/items.html#feywild%20shard_tce"
     description: >-
       A warm crystal that glints with the sunset colors of the Feywild sky,
       sourced by Callie through her associate Gavin. It can be attached to a
@@ -749,10 +752,13 @@ items:
       party jokes about returning.
 spells:
   - name: Regenerate
+
+    rules: "https://2014.5e.tools/spells.html#regenerate_phb"
     description: >-
       A powerful healing spell cast by Ayina to fully restore Vondal's missing
       pinky finger at the start of the session.
   - name: Teleportation Circle
+    rules: "https://2014.5e.tools/spells.html#teleportation%20circle_phb"
     description: >-
       A magical means of travel used to reach the village of Alye'adu, requiring
       a closely guarded sigil sequence that was previously shared with the SPI
@@ -764,6 +770,7 @@ spells:
       enabling shared thoughts and the ability to cast normally self-only spells
       on linked companions.
   - name: Contingency
+    rules: "https://2014.5e.tools/spells.html#contingency_phb"
     description: >-
       A complex spell taking ten minutes to cast that allows the caster to store
       another spell within their soul, to be triggered instantaneously when a
@@ -771,6 +778,7 @@ spells:
       defensive applications, such as teleportation, anti-magic fields, healing,
       and retaliatory strikes.
   - name: Scrying
+    rules: "https://2014.5e.tools/spells.html#scrying_phb"
     description: >-
       A divination method referenced in the context of a past event where a
       powerful vampire—believed to be the Brucolac—was able to physically attack

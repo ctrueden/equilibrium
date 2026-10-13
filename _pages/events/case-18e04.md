@@ -734,6 +734,7 @@ items:
       and after they enter, it vibrates intensely before imploding and vanishing
       entirely.
   - name: Helm of Telepathy
+    rules: "https://2014.5e.tools/items.html#helm%20of%20telepathy_dmg"
     description: >-
       A magical helmet owned by Bec that allows for telepathic communication and
       monitoring of thoughts. It requires concentration to use, which conflicts
@@ -741,6 +742,7 @@ items:
       wearing it due to its notably dorky appearance—described as resembling a
       brain with a single purple eye-hole.
   - name: Ring of Mind Shielding
+    rules: "https://2014.5e.tools/items.html#ring%20of%20mind%20shielding_dmg"
     description: >-
       A ring worn by Callie to protect her thoughts. She considers removing it
       to facilitate telepathic contact with Bec via the helm, but the plan is
@@ -762,6 +764,7 @@ items:
       several defects in the contract's trade language and ultimately rejects
       it, though the gnomes leave it behind.
   - name: Bag of Holding
+    rules: "https://2014.5e.tools/items.html#bag%20of%20holding_dmg"
     description: >-
       A magical satchel carried by Taelin, worn on her belt. After murdering
       Kerwin, she uses it to conceal and transport the stolen magical carafe,
@@ -773,6 +776,7 @@ items:
       private office to filter out the overwhelming magical stench, removing it
       before she exits the building.
   - name: Ring of Jumping
+    rules: "https://2014.5e.tools/items.html#ring%20of%20jumping_dmg"
     description: >-
       A magical ring worn by Ozborn that enhances his leaping ability. He uses
       it to descend dramatically from the three-story rooftop, combining it with
@@ -784,6 +788,7 @@ items:
       clothing—which he had been wearing throughout the stakeout—back into
       regular attire when he meets Taelin on the street.
   - name: Portable Hole
+    rules: "https://2014.5e.tools/items.html#portable%20hole_dmg"
     description: >-
       A magical item that creates a localized extradimensional space. Vondal
       uses it to be carried discreetly during the rooftop descent and street
@@ -821,6 +826,8 @@ items:
       Vex Morradine.
 spells:
   - name: Invisibility
+
+    rules: "https://2014.5e.tools/spells.html#invisibility_phb"
     description: >-
       Used by Callie and Bec to remain unseen while spying on Kerwin's office
       from outside the windows. The spell requires concentration, which creates
@@ -834,12 +841,14 @@ spells:
       locate Bec and Callie in the alley behind Kerwin's building and to sense
       the presence of Kerwin and the three gnomes inside the office.
   - name: Message
+    rules: "https://2014.5e.tools/spells.html#message_phb"
     description: >-
       A cantrip used by Vondal throughout the session to whisper telepathically
       to Bec across the street, allowing for silent coordination between the two
       groups. He uses it to relay information about the gnomes' arrival, their
       departure, and Taelin leaving the building.
   - name: Find Familiar
+    rules: "https://2014.5e.tools/spells.html#find%20familiar_phb"
     description: >-
       The party briefly attempts to use their familiars—Caesar the monkey and
       Murky the spider—to track the Noffindorfs' departing vehicle. The plan
@@ -847,6 +856,7 @@ spells:
       pursue it. Murky is later placed on Taelin's hand as part of a
       distraction, biting her in the process.
   - name: Detect Thoughts
+    rules: "https://2014.5e.tools/spells.html#detect%20thoughts_phb"
     description: >-
       A spell associated with the Helm of Telepathy that Bec considers using to
       monitor Callie's thoughts for information sharing. The plan is abandoned

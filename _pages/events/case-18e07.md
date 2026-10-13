@@ -9,25 +9,25 @@ session-date: 2026-10-10
 layout: session
 reviewed: false
 summary: >-
-  A warlock of the infernal order of Asmodeus stood at the door of Xarlus
-  Shale's cramped little efficiency. Small flames danced across his skin and
+  A warlock of the infernal order of [Asmodeus](../dossiers/asmodeus) stood at the door of [Xarlus
+  Shale](../dossiers/xarlus-shale)'s cramped little efficiency. Small flames danced across his skin and
   over the fiery tattoos that covered his body. He pounded on the wood and
-  demanded that someone open it. Above him, Ozborn Underfoot had crept into the
+  demanded that someone open it. Above him, [Ozborn Underfoot](../dossiers/oz) had crept into the
   ceiling of the hallway and clung there, trying not to sweat. The warlock could
   not see him. Inside the apartment, the rest of the party had already thrown
   open the window and were climbing out, because they had heard the bang on the
-  door. Vondal had turned the key in the lock to buy them a few extra moments.
+  door. [Vondal](../dossiers/vondal) had turned the key in the lock to buy them a few extra moments.
   Then he stepped away and vanished, and the key vanished with him.
 
 
   Behind the locked door, the party argued in whispers. They worried that the
   local law would take Xarlus away, and that any interrogation they needed would
-  be lost. Bec reasoned that a crew of strangers who answered to nobody would
+  be lost. [Bec](../dossiers/bec) reasoned that a crew of strangers who answered to nobody would
   tear the apartment apart and ruin the investigation. Precedent said the agents
   might outrank local law enforcement, but the answer depended on the
   circumstances, and nothing about this case was clear-cut. They agreed the
   safest course was to get their witness out of the room and out of reach of
-  anyone they could not trust. Freki went through the window first and waited on
+  anyone they could not trust. [Freki](../dossiers/freki) went through the window first and waited on
   the fire escape, ready to carry Xarlus across the alley on his back.
 
 
@@ -44,7 +44,7 @@ summary: >-
 
 
   Xarlus was stunned and slow, but he stumbled toward the window and clambered
-  through, helped by a rush of adrenaline. Callie whispered urgently for him to
+  through, helped by a rush of adrenaline. [Callie](../dossiers/callie) whispered urgently for him to
   hurry. She followed him out a moment later, her wings fluttering at just the
   right instant to keep her steady. Freki seized Xarlus around the middle and
   tried to heave him over his shoulder. Xarlus wriggled in confusion and slowed
@@ -107,7 +107,7 @@ summary: >-
 
 
   A shadow slipped silently through the apartment window and came to stand
-  beside Bec. It was Vex, and the only reason she knew was that he had landed so
+  beside Bec. It was [Vex](../dossiers/vex-morradine), and the only reason she knew was that he had landed so
   close to her. In a single smooth motion a crossbow bolt shot from a concealed
   mechanism in his sleeve and struck the warlock in the arm. The jolt made Vael,
   the warlock, lose his grip, and he fell five stories and hit the ground hard.
@@ -182,7 +182,7 @@ summary: >-
   told him gently what she could do. He was terrified, but he had stopped being
   surprised, and he stepped close. She touched his finger through the bars, and
   in the next moment a tiny mouse streaked through the cage and ran away into
-  the alley. Freki called on his ravens, Hugin and Munin, to find the warlock
+  the alley. Freki called on his ravens, [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin), to find the warlock
   who had vanished into the brimstone. Munin reported that Vael had stepped
   through space but was still near. Hugin spoke only of "the one who comes." Vex
   then stepped out of the shadow, as if he had never been hidden, and looked
@@ -199,18 +199,18 @@ summary: >-
   be taking that, I think." He turned to the others and said coldly that they
   would discuss their trespass afterward.
 short_summary: >-
-  A fire-wreathed warlock of Asmodeus's infernal order, later named Vael,
-  pounded on the door of Xarlus Shale's cramped apartment while the party
-  slipped out the window. Vondal locked the door and vanished with the key.
-  Ozborn clung unseen to the hallway ceiling, and Bec hid beside the door and
+  A fire-wreathed warlock of [Asmodeus](../dossiers/asmodeus)'s infernal order, later named Vael,
+  pounded on the door of [Xarlus Shale](../dossiers/xarlus-shale)'s cramped apartment while the party
+  slipped out the window. [Vondal](../dossiers/vondal) locked the door and vanished with the key.
+  [Ozborn](../dossiers/oz) clung unseen to the hallway ceiling, and [Bec](../dossiers/bec) hid beside the door and
   silently conjured a fog. The party feared that local law, or Vael's allies,
   would take Xarlus and end any chance of interrogating him, so they chose to
-  get him out of reach. Freki's attempt to carry the stunned Xarlus across the
+  get him out of reach. [Freki](../dossiers/freki)'s attempt to carry the stunned Xarlus across the
   alley failed when the rusty fire escape railings tore away. The two nearly
-  fell six stories, but Callie's pixie dust and Bec's feather fall saved them.
+  fell six stories, but [Callie](../dossiers/callie)'s pixie dust and Bec's feather fall saved them.
   Vael then appeared on the sixth-floor landing and tricked Xarlus into reaching
   for him. Freki wrenched Xarlus free, and all three fell. Vael's flames burned
-  Xarlus, and Callie healed him, but she sensed how fragile he was. Vex then
+  Xarlus, and Callie healed him, but she sensed how fragile he was. [Vex](../dossiers/vex-morradine) then
   appeared and shot Vael with a hidden crossbow. This broke Vael's grip, and he
   fell to the alley.
 
@@ -230,20 +230,20 @@ short_summary: >-
   party they would discuss their trespass afterward.
 classic_summary: >-
   Last we left off, the party's investigation brought them to the cramped
-  apartment of Xarlus Shale, a witness whose testimony they could not afford to
+  apartment of [Xarlus Shale](../dossiers/xarlus-shale), a witness whose testimony they could not afford to
   lose. As they questioned whether the local law could be trusted, a
-  fire-wreathed warlock of the infernal order of Asmodeus began pounding on the
-  door. With Vondal locking the way and vanishing, Ozborn clinging unseen to the
-  ceiling, and Bec weaving a silent fog, the group decided the safest course was
+  fire-wreathed warlock of the infernal order of [Asmodeus](../dossiers/asmodeus) began pounding on the
+  door. With [Vondal](../dossiers/vondal) locking the way and vanishing, [Ozborn](../dossiers/oz) clinging unseen to the
+  ceiling, and [Bec](../dossiers/bec) weaving a silent fog, the group decided the safest course was
   to spirit Xarlus out the window and away from anyone they could not trust.
 
 
   What followed was a desperate escape across the fire escape, six stories above
-  the alley. Freki's leap shattered the rusted railings, Callie's pixie wings
+  the alley. [Freki](../dossiers/freki)'s leap shattered the rusted railings, [Callie](../dossiers/callie)'s pixie wings
   and healing kept Xarlus alive, and Bec's feather fall saved them from the
   drop. The warlock, Vael, appeared above them and nearly lured Xarlus back into
   his grasp, but Freki wrenched him free and all three tumbled through the air.
-  A bolt from Vex's sleeve, a lightning beam from Bec, and a flaming dagger
+  A bolt from [Vex](../dossiers/vex-morradine)'s sleeve, a lightning beam from Bec, and a flaming dagger
   hurled by Ozborn through a plate-glass window all struck the warlock. Vael
   answered with a cage of force, a beacon of hellfire, a barbed devil, and dark
   beams that hurled Bec from the platform. Callie turned herself and Xarlus into
@@ -258,19 +258,19 @@ classic_summary: >-
 snarky_summary: >-
   Welcome to the most coordinated the party has ever been: a six-story fire
   escape escape, with a witness who just wants to go home. A fire-covered
-  warlock of Asmodeus named Vael showed up at Xarlus Shale's door, pounded on it
+  warlock of [Asmodeus](../dossiers/asmodeus) named Vael showed up at [Xarlus Shale](../dossiers/xarlus-shale)'s door, pounded on it
   like a landlord with a grudge, and the party's solution was to climb out the
-  window. Sure. Vondal locked the door and vanished with the key, Ozborn hung
-  from the ceiling trying not to sweat, and Bec made a stealth fog, because
+  window. Sure. [Vondal](../dossiers/vondal) locked the door and vanished with the key, [Ozborn](../dossiers/oz) hung
+  from the ceiling trying not to sweat, and [Bec](../dossiers/bec) made a stealth fog, because
   nothing says "we're not here" like a mysterious cloud seeping under the door.
-  Then Freki jumped, the railings all fell off the building, and Xarlus ended up
+  Then [Freki](../dossiers/freki) jumped, the railings all fell off the building, and Xarlus ended up
   dangling by one hand. Who among us hasn't had that kind of Tuesday?
 
 
   The fight only got dumber from there, in the best way. Ozborn rode the warlock
-  like a bull, Vex shot him with a sleeve crossbow, Bec got blasted off a
+  like a bull, [Vex](../dossiers/vex-morradine) shot him with a sleeve crossbow, Bec got blasted off a
   platform, and Vael caged half the party in invisible bars half an inch apart.
-  That was a mistake, because Callie turned into a mouse and then turned Xarlus
+  That was a mistake, because [Callie](../dossiers/callie) turned into a mouse and then turned Xarlus
   into a mouse too. Then Vex, the guy who was supposed to be saving the day, got
   mind-controlled into handing over the mouse by the tail. And just when you
   thought it couldn't get worse, a grizzled older warlock showed up and said
@@ -283,13 +283,13 @@ limerick_style_summary: |-
   And the fire escape fell all the same!
 
   Down they drifted by feather-fall's grace,
-  While Ozborn dove into the place.
+  While [Ozborn](../dossiers/oz) dove into the place.
   His dagger flew true
   With a green flame it threw,
   And Vael got a burn on his face!
 
-  Callie turned them to mice in a cage,
-  But Vex was enthralled by the mage.
+  [Callie](../dossiers/callie) turned them to mice in a cage,
+  But [Vex](../dossiers/vex-morradine) was enthralled by the mage.
   He gave up the mouse
   In the dark alley house,
   And a bearded one stepped on the stage!
@@ -415,7 +415,7 @@ memorable_moments:
 scenes:
   - title: The Warlock at the Door
     description: >-
-      A warlock of the infernal order of Asmodeus arrives at Xarlus Shale's
+      A warlock of the infernal order of [Asmodeus](../dossiers/asmodeus) arrives at [Xarlus Shale](../dossiers/xarlus-shale)'s
       apartment door while the party prepares to flee with their witness.
     key_events:
       - >-
@@ -423,31 +423,31 @@ scenes:
         with small flames dancing over his body, pounds on the apartment door
         and issues a final warning.
       - >-
-        Ozborn Underfoot clings to the ceiling above the warlock in the hallway,
+        [Ozborn Underfoot](../dossiers/oz) clings to the ceiling above the warlock in the hallway,
         hidden and watching the warlock's growing rage from above.
       - >-
-        Vondal locks the apartment door to buy the party time, then mysteriously
+        [Vondal](../dossiers/vondal) locks the apartment door to buy the party time, then mysteriously
         vanishes from the room, taking the key with him.
       - >-
         The party debates their legal standing versus local law enforcement and
         decides to smuggle Xarlus Shale out of the building to protect their
         investigation.
       - >-
-        Bec takes an offensive position by the door, readying a magical cane
+        [Bec](../dossiers/bec) takes an offensive position by the door, readying a magical cane
         that appears from seemingly nowhere.
       - >-
         Using a crystal of subtlety, Bec silently casts a fog cloud that begins
         to fill the room and seep under the door toward the warlock.
   - title: The Escape Through the Window
     description: >-
-      The party scrambles to exit through the apartment window, with Freki
+      The party scrambles to exit through the apartment window, with [Freki](../dossiers/freki)
       leading the way to prepare for extracting Xarlus Shale.
     key_events:
       - >-
         Freki exits through the window and positions himself on the fire escape,
         preparing to carry Xarlus Shale across the alley.
       - >-
-        Callie urges Xarlus Shale to follow Freki out the window, whispering to
+        [Callie](../dossiers/callie) urges Xarlus Shale to follow Freki out the window, whispering to
         avoid alerting the warlock in the hallway.
       - >-
         Xarlus Shale clambers through the window, adrenaline helping him manage
@@ -539,10 +539,10 @@ scenes:
         wrist while they are still descending through the air.
       - >-
         Ozborn, still inside the building, frantically pounds on a neighbor's
-        door claiming SPI emergency to find a way out.
+        door claiming [SPI](../orgs/spi) emergency to find a way out.
   - title: Vex Intervenes
     description: >-
-      The mysterious operative Vex makes a dramatic entrance, shooting the
+      The mysterious operative [Vex](../dossiers/vex-morradine) makes a dramatic entrance, shooting the
       warlock and sending him plummeting to the ground.
     key_events:
       - >-
@@ -728,7 +728,7 @@ scenes:
         Callie touches Xarlus through the bars and transforms him into a mouse,
         which immediately scurries forty feet away into the alley.
       - >-
-        Freki calls upon his raven companions Hugin and Munin to track the
+        Freki calls upon his raven companions [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin) to track the
         vanished Vael; Munin reports he stepped through space but remains
         nearby, and Hugin cryptically references 'the one who comes.'
       - >-
@@ -756,6 +756,7 @@ npcs:
       steep spiritual cost. He is referred to as an 'initiate' by the grizzled
       warlock who arrives at the end of the session.
   - name: Xarlus Shale
+    wiki: ../dossiers/xarlus-shale
     description: >-
       A skinny, hipster-like civilian and the party's primary witness, described
       as having very thin arms and looking like someone who might have a latte
@@ -764,6 +765,7 @@ npcs:
       by Vael's proximity, healed by Callie, trapped in a force cage with a
       werewolf, and ultimately transformed into a mouse to escape.
   - name: Vex
+    wiki: ../dossiers/vex-morradine
     description: >-
       A mysterious and highly skilled operative who moves with supernatural
       silence. He carries a concealed crossbow mechanism in his sleeve and a
@@ -827,11 +829,13 @@ items:
       distance. It was central to the plan to leap from one fire escape to
       another across the alley.
   - name: Boots of Elvenkind
+    rules: "https://2014.5e.tools/items.html#boots%20of%20elvenkind_dmg"
     description: >-
       Magical footwear worn by Callie that allow her to move with absolute
       silence, granting advantage on stealth checks that rely on moving
       silently.
   - name: Cloak of Elvenkind
+    rules: "https://2014.5e.tools/items.html#cloak%20of%20elvenkind_dmg"
     description: >-
       A camouflage cloak worn by Callie whose color shifts to match the
       environment, granting advantage on stealth checks made to hide.
@@ -862,6 +866,7 @@ items:
       it to summon a barbed devil to his side as a tactical shield during the
       battle.
   - name: Force Absorbing Tattoo
+    rules: "https://2014.5e.tools/items.html#force%20absorbing%20tattoo_tce"
     description: >-
       A magical green tattoo on Bec's skin that, when activated as a bonus
       action, reduces incoming damage from physical and magical attacks. Bec
@@ -874,12 +879,15 @@ items:
       magic, causing fire to leap to the nearby barbed devil.
 spells:
   - name: Fog Cloud
+
+    rules: "https://2014.5e.tools/spells.html#fog%20cloud_phb"
     description: >-
       Cast silently by Bec using a crystal of subtlety, this spell created a
       thick, heavily obscured area of fog that filled Xarlus Shale's apartment
       and began seeping under the door toward the warlock in the hallway. The
       fog also puffed out the window as the party escaped.
   - name: Feather Fall
+    rules: "https://2014.5e.tools/spells.html#feather%20fall_phb"
     description: >-
       Cast by Bec as the party dangled from the broken fire escape, this spell
       slowed the descent of up to five falling creatures, allowing Freki and
@@ -887,11 +895,13 @@ spells:
       reaction after being blasted off the fire escape railing by Vael's
       eldritch blasts.
   - name: Mass Healing Word
+    rules: "https://2014.5e.tools/spells.html#mass%20healing%20word_phb"
     description: >-
       A divine spell cast by Callie while descending through the air, channeling
       healing energy into Xarlus Shale to mend his mangled hand, broken fingers,
       and fire-burned wrist, restoring him to full health.
   - name: Witch Bolt
+    rules: "https://2014.5e.tools/spells.html#witch%20bolt_phb"
     description: >-
       Cast by Bec, this spell created a sustained crackling beam of energy
       connecting her to Vael on the ground below. It dealt continuous damage
@@ -912,12 +922,14 @@ spells:
       entire harbor district. It served as a signal to summon Vael's brothers to
       his location.
   - name: Eldritch Blast
+    rules: "https://2014.5e.tools/spells.html#eldritch%20blast_phb"
     description: >-
       Beams of dark, agonizing energy fired by Vael, augmented to cause intense
       pain and physically repel targets upon impact. Two beams struck Bec,
       knocking her backward through the fire escape railing and over the edge of
       the platform.
   - name: Polymorph
+    rules: "https://2014.5e.tools/spells.html#polymorph_phb"
     description: >-
       A shapeshifting spell used by Callie, a gift of her devotion to Avandra.
       She first used it to transform herself into a mouse to slip through the
@@ -931,6 +943,7 @@ spells:
       a mystical connection between the two and dealing fire damage to both
       simultaneously.
   - name: Mage Armor
+    rules: "https://2014.5e.tools/spells.html#mage%20armor_phb"
     description: >-
       A protective magical ward surrounding Bec that provided a base layer of
       defense against Vael's eldritch blasts during the confrontation.

@@ -76,7 +76,7 @@ Alternately, when Sartus requests an alternate bargain, the voices of the Courts
 
 Ozborn swears: "The sun in your kingdom shall not shine again upon this face," the vow sealed by a painful wave of psionic energy from [Janus Ilaris](../dossiers/janus-ilaris) representing the Unseelie Court, summoned by the queen in flesh and blood.
 
-Cal is shocked to see the ghost, and refuses to swear an oath with him. He offers to swear an oath with the Queen, but she smiles sadly and says that in 7 days' time, she will no longer be capable of enforcing such an oath. (The more astute and empathic amongst the SPI infer that the queen thinks she is going to die!) But the queen summons [Orsob](../dossiers/orsob), a satyr, to represent the Seelie Court, and Cal swears the oath of exile by drinking a cup of tea with him:
+Cal is shocked to see the ghost, and refuses to swear an oath with him. He offers to swear an oath with the Queen, but she smiles sadly and says that in 7 days' time, she will no longer be capable of enforcing such an oath. (The more astute and empathic amongst the [SPI](../orgs/spi) infer that the queen thinks she is going to die!) But the queen summons [Orsob](../dossiers/orsob), a satyr, to represent the Seelie Court, and Cal swears the oath of exile by drinking a cup of tea with him:
 
 {% include img page="dossiers/orsob" width=200 %}
 

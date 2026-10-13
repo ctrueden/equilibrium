@@ -10,7 +10,7 @@ session-event: https://www.facebook.com/events/726888512091068/
 layout: session
 ---
 
-The SPI is on the trail of a suspected [doppelganger](../creatures/changelings), the spitting image of [one of their former colleagues](../dossiers/sima).
+The [SPI](../orgs/spi) is on the trail of a suspected [doppelganger](../creatures/changelings), the spitting image of [one of their former colleagues](../dossiers/sima).
 
 {% include quote text="Sometimes you can tell when people are lying because their eyes are going up and to the left, and sometimes it's because their face is just falling off." source="Anna" %}
 
@@ -24,7 +24,7 @@ At camp the first night, [Freki](../dossiers/freki) confronts Cal about his beha
 Unruly jackals! That's what they are. It's going to take ages to shoo them out. But they'll listen to me. They always do, eventually. *\*brandishes shillelegh\**
 " %}
 
-Where is [doppel-Sima](../dossiers/amisa-swiftaxe) going? Northeast, from Deepwood into [Selva](../locales/selva), toward the dwarven Veldt. General direction of the [Mountain](../locales/mountain).
+Where is [doppel-Sima](../dossiers/amisa-swiftaxe) going? Northeast, from [Deepwood](../locales/deepwood) into [Selva](../locales/selva), toward the dwarven Veldt. General direction of the [Mountain](../locales/mountain).
 
 After six days, Freki is considering scouting ahead to confront the fake Sima.
 

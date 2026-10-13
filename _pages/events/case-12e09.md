@@ -52,7 +52,7 @@ Everyone else follows suit. The hole leads to the ground level of the [Tree](../
 
 On the surface, the Tree is covered in bands of black and gray mushrooms. [Enoki](../dossiers/enoki) mumbles, smacking the tree trunk's infected mushrooms with his staff. "It's worse than I thought" he says. He quickly says his goodbyes and squeezes into the tree trunk, to wrangle the mushrooms.
 
-Callie casts *sending* to Tybalt:
+Callie casts *sending* to [Tybalt](../dossiers/tybalt):
 {% include quote text="
 Tybalt, where as you? We are going to try to save the queen? Is she near? And, do you have the Book? If not, where&mdash;
 " %}
@@ -85,9 +85,9 @@ Vondal: "You ever hear of the 'Arkenstone'?"\\
 Callie: "Maybe... what's it worth to ya?"\\
 Vondal: "Just sayin'... it might be explosive."
 
-Vondal [about not remember which heretical deity Cal worships]: "I'll have to ask him when he exists again."
+Vondal [about not remember which heretical deity [Cal](../dossiers/cal) worships]: "I'll have to ask him when he exists again."
 
-Isis is afraid of the Vortex. She says the more she says, the worse it gets. "Telling you everything would doom us all."
+[Isis](../dossiers/isis-raksh) is afraid of the Vortex. She says the more she says, the worse it gets. "Telling you everything would doom us all."
 
 Bec uses Prevailing Truth. How is it all related? What is the entity that needs to be destroyed?
 
@@ -95,7 +95,7 @@ Bec uses Prevailing Truth. How is it all related? What is the entity that needs 
 - The monster grew because of corruption from the Book.
 - She obtained the Book months ago, from the vault of [Dominic Tremere](../dossiers/dominic-tremere). WHY?
 - The power wants to be found? Perhaps. Could reach out to the entity that had the most ability to release it. Or the ability to enhance its power to break free of the Book.
-- The SPI removed the [Cornucopia](../relics/cornucopia) in response to a prophecy of a coming Calamity.
+- The [SPI](../orgs/spi) removed the [Cornucopia](../relics/cornucopia) in response to a prophecy of a coming Calamity.
 - Is the Calamity somehow related to the Vortex?
 - What if... the Calamity of the world spoken of by [Melora](../dossiers/melora) seems strongly related to the Vortex that Isis, you, are speaking of.
 - What if what Isis did is because of the Calamity?
@@ -104,7 +104,7 @@ Bec: "Did you get the Book to keep it safe from the Calamity, but then it corrup
 
 Vondal [to Isis]: "How'd you even know about it?"
 
-Freki's Animal Instinct senses something off about Phoebe. As Isis talks about the Vortex, Phoebe seems to be getting increasingly fidgety and uncomfortable. "Let me out let me out let me out let me out..." Freki hears her whisper, so quietly no one else notices. And he smells... blood. She is a plant creature&mdash;he should not be able to smell blood. Overcome with suspicion and paranoia, he transforms into beast form and lunges at Phoebe's throat. Fresh red blood spurts out, and Phoebe cries out.
+Freki's Animal Instinct senses something off about [Phoebe](../dossiers/phoebe). As Isis talks about the Vortex, Phoebe seems to be getting increasingly fidgety and uncomfortable. "Let me out let me out let me out let me out..." Freki hears her whisper, so quietly no one else notices. And he smells... blood. She is a plant creature&mdash;he should not be able to smell blood. Overcome with suspicion and paranoia, he transforms into beast form and lunges at Phoebe's throat. Fresh red blood spurts out, and Phoebe cries out.
 
 Oz notices, and immediately springs into action, stabbing Phoebe with both his swords. As more blood gushes forth, it congeals into... a [small man](../dossiers/peregrine-shackleton). Unconscious, on the ground.
 

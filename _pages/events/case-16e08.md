@@ -24,7 +24,7 @@ layout: session
 
 [Lorelei](../dossiers/lorelei-nocturne) swings her scythe, and again, reality is sliced. Fire erupts from underneath her and now that area is just, like, on fire. [Vondal](../dossiers/vondal) intuits that if this goes on much longer, the whole area will be lost to [the Flux](../locales/flux).
 
-Freki shoots at the Demogorgon, who he had previously sworn to destroy. The arrow pierces reality and dammit people, stop this before we all die! REALITY IS WHERE I KEEP ALL MY STUFF!!!
+Freki shoots at the [Demogorgon](../dossiers/demogorgon), who he had previously sworn to destroy. The arrow pierces reality and dammit people, stop this before we all die! REALITY IS WHERE I KEEP ALL MY STUFF!!!
 
 [I](../dossiers/callie) get a feeling in my head like sand in all my brain's wrinkles. Thanks, I hate it.
 
@@ -48,13 +48,13 @@ Holding the Trident of Fish Command, I feel at home in the water. I hop up, gett
 
 As the Demogorgon is washed away, Oz takes the opportunity to stabbinate him SO GOOD, dealing a killing blow.
 
-Audreth pops out of the water, but he's some kind of weird Flux chimera. He lurches over towards Bec. Then Megaera turns, gazing at the Audreth thing, and says, "Petulant child." And then to us: "Release him from his suffering."
+Audreth pops out of the water, but he's some kind of weird Flux chimera. He lurches over towards Bec. Then [Megaera](../dossiers/megaera) turns, gazing at the Audreth thing, and says, "Petulant child." And then to us: "Release him from his suffering."
 
 All of us who carry the [SPI](../orgs/spi) badge can tell that Audreth is still in there somewhere, if only we could figure out how to get him out. [Cassandra](../dossiers/cassandra) drags herself to her feet and speaks a *divine word*. Audreth stumbles back and one of the monsters dissipates. As he stumbles back, Oz takes another opportunity to stab him right through the heart. The body dissipates and the souls of the creature and Audreth spin towards Megaera and she absorbs them. "Good. It has been made right," she says.
 
 The [giant eyeball that eyeballed us before](../dossiers/great-old-one) is back, and watching with great interest. Vondal, Bec, and Freki feel like they've come home. It's a wonderful and perfect home. They don't need to do anything. Doing things is irrelevant here. ...I can't really relate.
 
-"So strong. Yet so weak," says Megaera. "All is right. Now prove yourselves." She releases the souls she just captured and Hugin and Munin's wings spread out over the area. Those of us who felt at home in the Flux feel homesick, like they just lost something and they need to get back to it. Oz feels intense pain because there are two of him and that's *impossible*. Not normal impossible, actually impossible. One Oz holds the [Hornblade](../relics/cornucopia#hornblade) in his left hand; the other Oz holds it in his right. But the relic is singular; the two cannot coexist. As the two Ozes merge into one, the two Hornblades are somehow diminished&mdash;still two of them, but smaller: daggers that are meant to be wielded together. That is also impossible, but that's how things are now.
+"So strong. Yet so weak," says Megaera. "All is right. Now prove yourselves." She releases the souls she just captured and [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin)'s wings spread out over the area. Those of us who felt at home in the Flux feel homesick, like they just lost something and they need to get back to it. Oz feels intense pain because there are two of him and that's *impossible*. Not normal impossible, actually impossible. One Oz holds the [Hornblade](../relics/cornucopia#hornblade) in his left hand; the other Oz holds it in his right. But the relic is singular; the two cannot coexist. As the two Ozes merge into one, the two Hornblades are somehow diminished&mdash;still two of them, but smaller: daggers that are meant to be wielded together. That is also impossible, but that's how things are now.
 
 "It may be your time to die...or not," Megaera said. The Demogorgon, raised from the dead, gets up and roars.
 
@@ -80,7 +80,7 @@ Dolly the Battering Ram is less effective, ramming the Deadogorgon but not doing
 
 Lorelei casts a spell and a noxious cloud of gas descends over the mass of shadows, but also catches the Battering Ram.
 
-I stop concentrating on Bless, and instead throw out an Aura of Life that surrounds all my teammates, including Cassandra. Erathis lets me know that Megaera will give us all boons if I let Cassandra die, but will react with fury if I try to save Cassandra. Avandra really wants to see what happens if I reject this deal, and honestly? So do I. I sculpt the spell so that Cassandra's life is saved.
+I stop concentrating on Bless, and instead throw out an Aura of Life that surrounds all my teammates, including Cassandra. [Erathis](../dossiers/erathis) lets me know that Megaera will give us all boons if I let Cassandra die, but will react with fury if I try to save Cassandra. [Avandra](../dossiers/avandra) really wants to see what happens if I reject this deal, and honestly? So do I. I sculpt the spell so that Cassandra's life is saved.
 
 > Spell: Aura of Life at lvl 4
 

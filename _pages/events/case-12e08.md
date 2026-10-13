@@ -10,7 +10,7 @@ session-event: https://www.facebook.com/events/1299318844229169/
 layout: session
 ---
 
-Thanks to the *tree stride* power of [Phoebe](../dossiers/phoebe) the [Hamadryad](../creatures/dryads#hamadryads), the SPI agents and allies reached what they believed to be the heart of the [World Tree](../relics/yggdrasil), the secret womb of the Fruit of Life, only to find that the vision of the Fruit was a powerful illusion, masking a pit into which they would have fallen, had they naively approached the Fruit.
+Thanks to the *tree stride* power of [Phoebe](../dossiers/phoebe) the [Hamadryad](../creatures/dryads#hamadryads), the [SPI](../orgs/spi) agents and allies reached what they believed to be the heart of the [World Tree](../relics/yggdrasil), the secret womb of the Fruit of Life, only to find that the vision of the Fruit was a powerful illusion, masking a pit into which they would have fallen, had they naively approached the Fruit.
 
 Beyond its threshold, [Freki](../dossiers/freki) sees [Enoki](../dossiers/enoki) and his poodle moth Cornelius entangled in an enormous thornbush, and hears him crying out for help!
 
@@ -27,7 +27,7 @@ The other agents continue to advance cautiously until they are outside the thres
 
 Speaking in a masculine voice, the knight demands they cease their attempts to interfere with the Fruit, or face destruction. "Leave or perish. The fruit must not be disturbed." The scholars in the group recognize this figure as a Green Knight, a supernatural fey creature summoned to aid the cause of the wilds in times of need.
 
-Bec kneels and explains to the knight that we need the Fruit or the tree will perish anyway.
+[Bec](../dossiers/bec) kneels and explains to the knight that we need the Fruit or the tree will perish anyway.
 
 The hamadryad Phoebe says, "Stand down, sir knight. It is as she says." The knight, however, says he is bound to protect and says we will be destroyed if we persist.
 

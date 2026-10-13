@@ -18,7 +18,7 @@ layout: session
 * Also, Vondal is a pony now.
 * [Ghensh](../dossiers/ghensh) goes to investigate. But then, the golem [Squatch](../dossiers/squatch) says his tummy hurts. Ozborn asks to look at it. The golem is agreeable. The part that hurts is weirdly… squishy. Ozborn and [Callie](../dossiers/callie) decide to do an "exploratory-investigatory surgery." Ozborn attempts to bribe the golem with a ball bearing, but the Kenku bird-man runs over and steals it.
 * Vondal and the bird-man talk about shinies. He accuses the pixies of stealing his shiny disguise hat.
-* Callie cuts open the golem and Bec notices that it has a fresh interior wound. Afterwards, [Meroe](../dossiers/meroe) and [Panthea](../dossiers/panthea) come over angry and Callie uses a heal wounds spell to mend the golem. Meroe is reluctantly thankful.
+* Callie cuts open the golem and [Bec](../dossiers/bec) notices that it has a fresh interior wound. Afterwards, [Meroe](../dossiers/meroe) and [Panthea](../dossiers/panthea) come over angry and Callie uses a heal wounds spell to mend the golem. Meroe is reluctantly thankful.
 * The party interviews Panthea and Meroe again in some depth. They suss out that there was a past incident of [Zombozo](../dossiers/zombozo) getting "out of control," which Panthea is emotional about somehow...
 * [other things that have been forgotten in the mists of time]
 * The party presses Meroe increasingly harder. She becomes agitated, and decided to pull the trigger on her trap: a wired underground infrastructure of bombs. The ground from her desk explodes outward and collapses, exposing the underground lair of the [landsharks](../creatures/beasts#bulettes) Fair and Foul.

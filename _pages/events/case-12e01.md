@@ -12,6 +12,6 @@ layout: session
 
 The agents return to [SPI HQ](../locales/spi-hq) to find that [Cal](../dossiers/cal)'s sword, the [Arkenstab](../relics/arkenstone), has been *stolen*! And someone repaired the [crystalline flux](../locales/flux#crystalline-flux) rift with karach! And where did this monkey come from?!
 
-The decide to secure SPI HQ by changing the proverbial locks—i.e. the teleportation sigil sequence. At the same time, the meet with [Sartus Morningdew](../dossiers/sartus-morningdew), who is waiting anxiously at an SPI contact circle in Estanesse.
+The decide to secure SPI HQ by changing the proverbial locks—i.e. the teleportation sigil sequence. At the same time, the meet with [Sartus Morningdew](../dossiers/sartus-morningdew), who is waiting anxiously at an [SPI](../orgs/spi) contact circle in Estanesse.
 
 TODO: Flesh out these notes in more detail.

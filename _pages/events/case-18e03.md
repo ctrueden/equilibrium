@@ -926,6 +926,7 @@ items:
       the Noffindorf visitors commanded it to shrink into his hand before
       entering the building. The party had never seen anything like it before.
   - name: Sending Stone
+    rules: "https://2014.5e.tools/items.html#sending%20stone_ai"
     description: >-
       A magical communication device held by Callie, used to maintain contact
       with other party members or SPI headquarters during the stakeout.
@@ -941,6 +942,8 @@ items:
       into caring for the plants.
 spells:
   - name: Speak with Plants
+
+    rules: "https://2014.5e.tools/spells.html#speak%20with%20plants_phb"
     description: >-
       Used by Freki to commune with the executive palm tree in Kerwin's main
       office. The spell granted the plant limited sentience and animation,
@@ -949,17 +952,20 @@ spells:
       its unnatural growth away from the coffee pot, and a memory of a
       light-footed visitor two days prior.
   - name: Invisibility
+    rules: "https://2014.5e.tools/spells.html#invisibility_phb"
     description: >-
       Cast by Bec on herself and Callie, rendering them completely unseen for up
       to an hour to facilitate their stealthy movement through the alleyway
       during the stakeout. Bec recast it after the first hour to maintain their
       concealment.
   - name: Levitate
+    rules: "https://2014.5e.tools/spells.html#levitate_phb"
     description: >-
       A magical ability used by Callie to float silently through the alleyway
       and ascend to higher vantage points near Kerwin's office windows during
       the stakeout, avoiding the need to climb.
   - name: Major Image
+    rules: "https://2014.5e.tools/spells.html#major%20image_phb"
     description: >-
       Discussed by Bec as a potential method to create a convincing illusory
       duplicate of the coffee pot — visible, audible, olfactory, and

@@ -10,10 +10,10 @@ session-event: https://www.facebook.com/events/1449096395400192/
 layout: session
 ---
 
-1. Went to the dwarven city under the Mountain.
-2. Went to the keep of Gurin Aldrimor.
-3. Met Hollerd, the eldest nephew. Hollerd said that Gurin was about to meet with Mungus Wrathborn, Gurin's longtime rival, to reconcile their differences, later today.
-4. Followed a trail of necromancy from Gurin's room to Bronce's room. The trail of necromancy led up the side of Bronce's bed.
+1. Went to the dwarven city under the [Mountain](../locales/mountain).
+2. Went to the keep of [Gurin Aldrimor](../dossiers/gurin-aldrimor).
+3. Met [Hollerd](../dossiers/hollerd-aldrimor), the eldest nephew. Hollerd said that Gurin was about to meet with [Mungus Wrathborn](../dossiers/mungus-wrathborn), Gurin's longtime rival, to reconcile their differences, later today.
+4. Followed a trail of necromancy from Gurin's room to [Bronce](../dossiers/bronce-aldrimor)'s room. The trail of necromancy led up the side of Bronce's bed.
 5. Another trail of necromancy from Gurin's room led outside the keep.
 6. Bronce's things were meticulously organized, but there was a missing vial from his desk drawer. Bronce had all manner of wizardly items, including some potentially useful for necromancy.
 7. Hollerd said that Bronce left very early in the morning.
@@ -22,6 +22,6 @@ layout: session
 10. Everyone returned to Aldrimor Keep, and opened the crime scene door.
 11. The siblings reluctantly allowed the party to subdue the zombified Gurin.
 12. The party studied the crime scene. Of the two necromancy trails, one led up the clock, and the other led to Gurin's bed.
-13. The clock was stopped at 3:32, but Callie noticed the mechanism was somehow broken, such that the hands could be freely moved—something clearly not intended in the original design. Unfortunately, due to the clock's gnomish overcomplexity, only an expert on the clock's inner workings would be able to deduce the actual time when the breakage occurred.
-14. Callie was admiring and studying the clock, touched it, and had a clairvoyant episode where she saw a young gnome scholar talking to a mother-to-be dwarf called Frelda about how the clock would forevermore be tied to her child.
-15. After initially denying that he knew the name Leopold Gardenblossom, Bronce admitted to knowing him as a professor at a local dwarven university, where Bronce had studied wizardry.
+13. The clock was stopped at 3:32, but [Callie](../dossiers/callie) noticed the mechanism was somehow broken, such that the hands could be freely moved—something clearly not intended in the original design. Unfortunately, due to the clock's gnomish overcomplexity, only an expert on the clock's inner workings would be able to deduce the actual time when the breakage occurred.
+14. Callie was admiring and studying the clock, touched it, and had a clairvoyant episode where she saw a young gnome scholar talking to a mother-to-be dwarf called [Frelda](../dossiers/frelda-aldrimor) about how the clock would forevermore be tied to her child.
+15. After initially denying that he knew the name [Leopold Gardenblossom](../dossiers/leopold-gardenblossom), Bronce admitted to knowing him as a professor at a local dwarven university, where Bronce had studied wizardry.

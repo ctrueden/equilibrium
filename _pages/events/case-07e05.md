@@ -10,27 +10,27 @@ session-event: https://www.facebook.com/events/1924681181132378/
 layout: session
 ---
 
-* Bec Galere, Freki Sarin, Cal and Vondal are present for the continuing investigation.
+* [Bec Galere](../dossiers/bec), [Freki Sarin](../dossiers/freki), [Cal](../dossiers/cal) and [Vondal](../dossiers/vondal) are present for the continuing investigation.
 * Quick recap of who is representing which artifacts:
-  * Death - Necronomicon - Isis Ra'ksh - Not present
-  * Knowledge - Puzzlebox - Alex Orbach (by process of elimination!)
-  * Light - Arkenstone - Cal's sword
-  * Life - Cornucopia - in Oasis - Not present (or possibly Janus Ilaris? WTF?)
-  * Nature - Tree - Sartus Morningdew representing the Fey Queen
-  * Tempest - Ship - Bram the Blithe, Captain of the Tempest
-  * Trickery - Lamp - Mallory and the SPI representing
-  * War - Martine Andrews - Not present - Dominic Tremere fronting
-  * Open question - Why is Tybalt Nightbreeze / Janus Ilaris here?
+  * Death - [Necronomicon](../relics/necronomicon) - [Isis Ra'ksh](../dossiers/isis-raksh) - Not present
+  * Knowledge - [Puzzlebox](../relics/puzzlebox) - [Alex Orbach](../dossiers/alex-orbach) (by process of elimination!)
+  * Light - [Arkenstone](../relics/arkenstone) - Cal's sword
+  * Life - [Cornucopia](../relics/cornucopia) - in [Oasis](../locales/oasis) - Not present (or possibly [Janus Ilaris](../dossiers/janus-ilaris)? WTF?)
+  * Nature - Tree - [Sartus Morningdew](../dossiers/sartus-morningdew) representing the [Fey](../creatures/fey) Queen
+  * [Tempest](../relics/tempest) - Ship - [Bram the Blithe](../dossiers/bram-the-blithe), Captain of the Tempest
+  * Trickery - Lamp - [Mallory](../dossiers/mallory) and the [SPI](../orgs/spi) representing
+  * War - Martine Andrews - Not present - [Dominic Tremere](../dossiers/dominic-tremere) fronting
+  * Open question - Why is [Tybalt Nightbreeze](../dossiers/tybalt) / Janus Ilaris here?
 * Vondal casts detect thoughts. He tries to target the lich, but finds no mind to target. At that moment, Tremere accuses Orbach; Vondal swaps his focus! Then he targets the pirate, who is thinking: "That dick! Of course he tried to frame me! I'd never eat that shitty heart."
 * Bec thought the speak with dead should have lasted longer. Vondal believed "something is wrong with the body"—like its soul had not transitioned properly to the next plane, but instead had been somehow ripped out.
 * Cal asked whether the Periapt of Health is genuine. Bec detected magic, focusing on the periapt, and saw that it was moderately magical with a conjuration healing aura! It appeared to be real.
 * Freki tried to sniff out where the heart might have gone. But his search was fruitless, and eventually he gave up in frustration. But he did hear a quasi-horrific shrieking from the far door of the library. The door was slightly open, and he saw an arcane laboratory within. The strange shrieking sound was louder here. Freki signaled to Cal, who came closer.
 * The shriek suddenly intensified. The following people proceeded quickly but cautiously to the Preservatory through the Arcane Lab: Cal, Freki, Bec, Bram, Timor, Murky. They passed a beholder in a jar! And all kinds of pickled somethings. There were also skulls and scented candles.
-* The following people refused to be distracted and remained with the body: Vondal, Priscilla, Alex and Sartus.
+* The following people refused to be distracted and remained with the body: Vondal, [Priscilla](../dossiers/priscilla-stormcloud), Alex and Sartus.
 * Where did Tybalt Nightbreeze go? He was lost in the shuffle...
 * The SPI fought the murderous shrieking mega plant!
   * It grabbed the pirate with its main tentacle, and ate him shortly thereafter.
-  * Invictus fed the plant a previously-unseen corpse hanging from the ceiling, which kept the plant distracted for a moment.
+  * [Invictus](../dossiers/timor-invictus) fed the plant a previously-unseen corpse hanging from the ceiling, which kept the plant distracted for a moment.
   * Freki shot it with an arrow (which worked! Was the geas not applicable somehow? Or no longer in effect?), then ring-of-jumped down its gullet.
   * Cal Indiana-Jones'd down to the ground with his whip, but couldn't stab through the plant's thick outer casing.
   * Bec pelted the plant with magic missiles.

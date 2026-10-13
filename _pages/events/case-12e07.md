@@ -16,7 +16,7 @@ layout: session
 
 The party is cautiously interested in learning more about Eixam's proposal, although they can sense that Eixam is full of malice. Eixam suggest a convoluted plan to travel via getting into a portable hole, which is an extradimensional space that can be folded up and carried by Eixam, who will fly directly to the Fruit.
 
-Unfortunately, [Enoki](../dossiers/enoki) *hates* Eixam because locusts eat his mushroom pals. "They insatiably devour whole fields. Out of balance." He flat refuses to go with Eixam. So the SPI agents decline Eixam's help, who buzzes off.
+Unfortunately, [Enoki](../dossiers/enoki) *hates* Eixam because locusts eat his mushroom pals. "They insatiably devour whole fields. Out of balance." He flat refuses to go with Eixam. So the [SPI](../orgs/spi) agents decline Eixam's help, who buzzes off.
 
 Enoki offers to carry them in the portable hole instead, after chastising them for not telling him about it before.
 

@@ -26,11 +26,11 @@ I am able to perceive that the centaur is trying to stall us, so I yell, "Stop h
 
 Everybody prepares to fight. Freki fires off some arrows at the centaur, but they deflect off of him somehow. An invisible shield of some kind?
 
-Vondal banishes the centaur and orc. They will reappear in the same place in one minute.
+[Vondal](../dossiers/vondal) banishes the centaur and orc. They will reappear in the same place in one minute.
 
 I cast Spirit Guardians at level 3 and move into the area where the centaur and orc will be, so my spirit guardians can affect them. I also cast Spiritual Weapon at level 2.
 
-Bec decides to Dispel Magic on the snow, which has been coming down more thickly and making it hard to move. It dispells. Yay!
+[Bec](../dossiers/bec) decides to Dispel Magic on the snow, which has been coming down more thickly and making it hard to move. It dispells. Yay!
 
 When we're all ready, Vondal lets his concentration go and the centaur and orc pop back in.
 
@@ -38,8 +38,8 @@ I attack using my spiritual weapon and do 15 damage, yay!
 
 We pretty much own the centaur, so the orc pulls a little figurine out of her pocket and turns into a Goriostro (sp?), a big scary demon.
 
-Cal grabs his sword out of the centaur's hand. There is a flash and all the snow in a five foot radius melts.
+[Cal](../dossiers/cal) grabs his sword out of the centaur's hand. There is a flash and all the snow in a five foot radius melts.
 
-Oz stabs the centaur, who seems to...like it....
+[Oz](../dossiers/oz) stabs the centaur, who seems to...like it....
 
 {% include endtabs %}

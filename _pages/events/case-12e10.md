@@ -20,7 +20,7 @@ After that, things happen fast&mdash;very fast.
 
 "We can't let him escape," says [Sartus](../dossiers/sartus-morningdew), then tries to cast *hold person* on the gnome. But Isis counterspells it using *dispel magic*.
 
-"I agree," Vondal says, "We have to secure that guy immediately." He points his fingers at the gnome and casts a spell, but it fizzles out, with Vondal poofing out in a puff of feathers!
+"I agree," [Vondal](../dossiers/vondal) says, "We have to secure that guy immediately." He points his fingers at the gnome and casts a spell, but it fizzles out, with Vondal poofing out in a puff of feathers!
 
 {% include quote text="I like to think that Curtis just *winged* that." source="Michael" %}
 

@@ -21,16 +21,16 @@ layout: session
 
 {% include tab id="callie" label="Callie's Journal" %}
 
-Bec casts Hypnotic Pattern in the general direction of the badness. Most of the creatures looked like they're just immune to it, but one of them seemed to have to resist it.
+[Bec](../dossiers/bec) casts Hypnotic Pattern in the general direction of the badness. Most of the creatures looked like they're just immune to it, but one of them seemed to have to resist it.
 
-One of them summons a lightning bolt down on our heads. Oz jumps out of the way, the bastard, and I take the hit.
+One of them summons a lightning bolt down on our heads. [Oz](../dossiers/oz) jumps out of the way, the bastard, and I take the hit.
 
-Two shadows with whipping tentacles and snapping mouths lash out at Audreth, who is focusing on keeping his aura up and preventing the Flux from destroying us all.
+Two shadows with whipping tentacles and snapping mouths lash out at [Audreth](../dossiers/audreth), who is focusing on keeping his aura up and preventing the [Flux](../locales/flux) from destroying us all.
 
-> I cast Bless on everyone except Cassandra.  
+> I cast Bless on everyone except [Cassandra](../dossiers/cassandra).  
 > Sorry, catch you later, gurl!
 >
-> Then I use Mass Healing Word on myself, Audreth, and Vondal. We regain 4 HP each.
+> Then I use Mass Healing Word on myself, Audreth, and [Vondal](../dossiers/vondal). We regain 4 HP each.
 >
 > Spent: 1 3rd level spell, 1 5th level spell
 
@@ -44,11 +44,11 @@ Cassandra holds out her arms and divine light envelops us. Then she heals Audret
 
 Oz attacks and then sidles up to us mages like we make good shields or something.
 
-Lorelei moves right up in Megaera's grill and orders her to die. Then she starts swinging her scythe like a freaking <strike>lunatic</strike> hero! She does some damage to it, but it's pretty tough. Her scythe lights up with some other kind of power, but she doesn't manage to hit the Fury.
+[Lorelei](../dossiers/lorelei-nocturne) moves right up in [Megaera](../dossiers/megaera)'s grill and orders her to die. Then she starts swinging her scythe like a freaking <strike>lunatic</strike> hero! She does some damage to it, but it's pretty tough. Her scythe lights up with some other kind of power, but she doesn't manage to hit the Fury.
 
-Freki fires the hell out of some arrows and a Hail of Thorns rains down. Then he whips off his cloak and manages to toss it over Audreth, who seems to...fade. Nice shots!
+[Freki](../dossiers/freki) fires the hell out of some arrows and a Hail of Thorns rains down. Then he whips off his cloak and manages to toss it over Audreth, who seems to...fade. Nice shots!
 
-The Demogorgon casts Dispel Magic to eliminate the wall of light, but fails. Another one of the creatures tries to dispel it, but no dice. Finally, another one takes a mighty leap OVER the wall and WAY too close to my personal bubble.
+The [Demogorgon](../dossiers/demogorgon) casts Dispel Magic to eliminate the wall of light, but fails. Another one of the creatures tries to dispel it, but no dice. Finally, another one takes a mighty leap OVER the wall and WAY too close to my personal bubble.
 
 One of the tentacles whips out and hits Cassandra. Oz reacts by stabbing the tentacle, since it's right there and all.
 

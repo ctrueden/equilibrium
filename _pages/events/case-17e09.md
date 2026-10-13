@@ -509,7 +509,7 @@ scenes:
         ritual chamber in the ice palace, capable of promoting godhood, which
         Rhyzophus had misused.
       - >-
-        The party explained to Ulgrim about the soul larva used to extract souls
+        The party explained to Ulgrim about the [soul larva](../creatures/soul-larvae) used to extract souls
         from defeated giants, which [Bec](../dossiers/bec) currently holds.
       - >-
         [Grohnea](../dossiers/grohnea) had previously used soul larva to remove curses from [Callie](../dossiers/callie) and
@@ -913,12 +913,15 @@ locations:
       remember if Freki's actions cause further harm.
 items:
   - name: Soul Larva
+
+    wiki: ../creatures/soul-larvae
     description: >-
       Magical entities used to extract souls from defeated giants and to remove
       curses. When used to remove a curse, they transform into butterflies and
       are absorbed by the recipient. The party possesses six of them, which
       Grohnea can use to help cure their afflictions.
   - name: Crystal Ball (Scrying Orb)
+    rules: "https://2014.5e.tools/items.html#crystal%20ball_dmg"
     description: >-
       A magical item used for scrying, which Ozborn used to attempt to contact
       Orlok, leading to a psychic attack. It was dropped during the attack and
@@ -934,6 +937,7 @@ items:
       his physical wounds, his ongoing curse caused them to knit in an
       unsettling, unnatural manner.
   - name: Amulet of Protection from Turning (Clamulet)
+    rules: "https://2014.5e.tools/items.html#amulet%20of%20protection%20from%20turning_tftyp"
     description: >-
       An amulet obtained from fish people, worn by Callie. It provides
       resistance against undead attacks, allowing a second roll if the wearer
@@ -941,11 +945,13 @@ items:
       influence, granting him advantage on Charisma saving throws against such
       effects.
   - name: Instrument of Illusions
+    rules: "https://2014.5e.tools/items.html#instrument%20of%20illusions_xge"
     description: >-
       Vondal's musical instrument, used to play a haunting, calming song that
       helps Ozborn focus and resist the chaotic magical influences affecting
       him. It can create illusionary effects, such as a 'ghost gal' smiling.
   - name: Decanter of Endless Water
+    rules: "https://2014.5e.tools/items.html#decanter%20of%20endless%20water_dmg"
     description: >-
       A magical decanter that Callie uses to produce a geyser of water,
       drenching Grohnea's cottage to put out Vondal's wild magic fire.
@@ -962,28 +968,35 @@ items:
       these containers on her desk.
 spells:
   - name: Dispel Magic
+
+    rules: "https://2014.5e.tools/spells.html#dispel%20magic_phb"
     description: >-
       A spell attempted by Bec to remove the magical afflictions from Ozborn.
       While it pounds against the magical effects, it only creates a slight
       crack, indicating the tenacity of the curses.
   - name: Magic Missile
+    rules: "https://2014.5e.tools/spells.html#magic%20missile_phb"
     description: >-
       A spell cast by Bec at fourth level, used to shatter the scrying orb into
       many pieces after Ozborn's psychic attack.
   - name: Cure Wounds
+    rules: "https://2014.5e.tools/spells.html#cure%20wounds_phb"
     description: >-
       A healing spell cast by Callie on Ozborn. While it heals him, the wounds
       knit up in a creepy, unnatural way, suggesting an unusual healing process
       due to his afflictions.
   - name: Mass Healing Word
+    rules: "https://2014.5e.tools/spells.html#mass%20healing%20word_phb"
     description: >-
       A healing spell cast by Callie to restore hit points to multiple party
       members after their chaotic magical travel.
   - name: Eldritch Blast
+    rules: "https://2014.5e.tools/spells.html#eldritch%20blast_phb"
     description: >-
       A powerful magical attack used by Ozborn to impulsively vaporize the egret
       orchid growing from Sissae's heart, resulting in her immediate death.
   - name: Wish
+    rules: "https://2014.5e.tools/spells.html#wish_phb"
     description: >-
       A powerful magical effect granted by Sunclaw the genie. Grohnea uses it to
       restore Sissae to life after she was killed by Ozborn. Cal also uses it to

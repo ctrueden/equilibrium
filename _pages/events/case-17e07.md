@@ -11,13 +11,13 @@ layout: session
 
 {% include tab id="callie" label="Callie's Journal" first=true %}
 
-I feel Munin trying to withdraw from my body. I could hold on, but I respect this spirit's independence. Freki tries to ask how I am through the connection with Munin, and I try to indicate that I'm okay. My emotions feel less heightened as Munin withdraws, and the mental link to Freki breaks.
+I feel [Munin](../dossiers/munin) trying to withdraw from my body. I could hold on, but I respect this spirit's independence. [Freki](../dossiers/freki) tries to ask how I am through the connection with Munin, and I try to indicate that I'm okay. My emotions feel less heightened as Munin withdraws, and the mental link to Freki breaks.
 
-Cal is flying around in angry little circles, looking for more stuff to kill. Freki tries to talk him down through Hugin, but it doesn't work.
+[Cal](../dossiers/cal) is flying around in angry little circles, looking for more stuff to kill. Freki tries to talk him down through [Hugin](../dossiers/hugin), but it doesn't work.
 
-Bec and I finish putting the soul larvae in the mouths of the recently killed giants. They crawl back out again as butterflies, then climb into the little bag that I brought the soul larvae in.
+[Bec](../dossiers/bec) and I finish putting the soul larvae in the mouths of the recently killed giants. They crawl back out again as butterflies, then climb into the little bag that I brought the soul larvae in.
 
-Kavaki places a hand on Cal and says, "I need your sword. Calm yourself." She's trying to get through to the Cal within.
+[Kavaki](../dossiers/kavaki) places a hand on Cal and says, "I need your sword. Calm yourself." She's trying to get through to the Cal within.
 
 "Sheepy can't sword," Bec murmurs.
 
@@ -27,17 +27,17 @@ Freki asks whether Hugin can help get Cal back into halfling form. Hugin conveys
 
 Kavaki and Freki both try to help with the Hugin/Cal situation. With their help, he's able to calm down.
 
-"Good. I am glad you are not forever changed. We need his head," says Kavaki, nodding at Rhyzophus. "The others will not be cowed without it."
+"Good. I am glad you are not forever changed. We need his head," says Kavaki, nodding at [Rhyzophus](../dossiers/rhyzophus). "The others will not be cowed without it."
 
 Cal is still a little dazed, but Kavaki understands that a rage like that takes some recovery time.
 
-We start poking around, investigating the cave. Hey, there's a desk! I love desks! So full of interesting information! This one is stuffed full of ritual stuff, for all kinds of purposes. It's got an evil vibe, unsurprisingly. I see a lot of primordial and elemental symbolism, relating to the titans still walking the earth and shaping it. Bec finds a notebook filled with runes predating even giants. This stuff is proto-arcane, involving rewriting the very essence of things. One might be able to enhance parts of a person while leaving others intact. It could be used to enhance a person without corruption...or corrupt them utterly. I notice the symbol of Prometheus, who championed mortals standing up against godly power. The palace above was probably built for one of the titans, but this particular chamber may be linked to Prometheus, who worked cunningly in the shadows to shape mortals into something capable of challenging divine power. Rhyzophus used it to create slaves, but its power doesn't *have* to be used that way. And here we are, standing in a place that was designed to elevate mortals to godhood!
+We start poking around, investigating the cave. Hey, there's a desk! I love desks! So full of interesting information! This one is stuffed full of ritual stuff, for all kinds of purposes. It's got an evil vibe, unsurprisingly. I see a lot of primordial and elemental symbolism, relating to the titans still walking the earth and shaping it. Bec finds a notebook filled with runes predating even giants. This stuff is proto-arcane, involving rewriting the very essence of things. One might be able to enhance parts of a person while leaving others intact. It could be used to enhance a person without corruption...or corrupt them utterly. I notice the symbol of [Prometheus](../dossiers/prometheus), who championed mortals standing up against godly power. The palace above was probably built for one of the titans, but this particular chamber may be linked to Prometheus, who worked cunningly in the shadows to shape mortals into something capable of challenging divine power. Rhyzophus used it to create slaves, but its power doesn't *have* to be used that way. And here we are, standing in a place that was designed to elevate mortals to godhood!
 
 Freki hears us talking and asks if we can take whatever we found, but no. Bec explains that the magic is ingrained in the entire place. *But can the baddies get it?* he wants to know. Not really, Rhyzophus surely must have spent weeks preparing in a very specific way. It's not like a switch anyone could just flip on and get powerful. Bec thinks he's probably been working on this for longer than any of us have been alive. *\[GM's note: Rhyzophus has been working on this for a few months. But the structure, this chamber, and probably all the runes, seem to have been here for thousands of years...\]*
 
-Kavaki picks up Skalfang's enormous greatax, which it looks like is now her enormous greatax. Bec asks if there's anything she shouldn't touch. She wants to remove some of the more evil items. There's plenty of lava right here, I'm just saying. Bec *mage hand*s the corrupted eggs into the lava, so that nothing more evil than us gets ahold of them. Freki wants to take the good (relatively speaking) eggs back to the broodmother.
+Kavaki picks up [Skalfang](../dossiers/skalfang)'s enormous greatax, which it looks like is now her enormous greatax. Bec asks if there's anything she shouldn't touch. She wants to remove some of the more evil items. There's plenty of lava right here, I'm just saying. Bec *mage hand*s the corrupted eggs into the lava, so that nothing more evil than us gets ahold of them. Freki wants to take the good (relatively speaking) eggs back to the broodmother.
 
-We stow the nice staves and the neutral eggs into our portable hole. As we do, it occurs to me that Vondal isn't there anymore...and if we're going to retrace our steps, how did we even get here? Thinking about it makes my head hurt, ow!
+We stow the nice staves and the neutral eggs into our portable hole. As we do, it occurs to me that [Vondal](../dossiers/vondal) isn't there anymore...and if we're going to retrace our steps, how did we even get here? Thinking about it makes my head hurt, ow!
 
 Kavaki points at the column of water and says that's the way out. Is it, though? Freki starts sniffing around and we didn't seem to leave a trail, which is pretty weird. We all climbed out of the portable hole, apparently, but how did that get in here? There aren't even any damn doors!
 
@@ -54,9 +54,9 @@ Freki sneaks around to get a better vantage point to surreptitiously protect his
 
 The goliath steps forward and is like, "...YOU? Really?" She looks at Kavaki. "Seems like you had help."
 
-"Do not underestimate me. I am son of Hyperion, Lord of the Realm!"
+"Do not underestimate me. I am son of [Hyperion](../dossiers/hyperion), Lord of the Realm!"
 
-"He speaks the truth. It is over, Mira. The cult has been beheaded," says Kavaki.
+"He speaks the truth. It is over, [Mira](../dossiers/mira-frostveins). The cult has been beheaded," says Kavaki.
 
 "How do I know this is not a trick?" says Mira, but quietly, not belligerently.
 
@@ -196,7 +196,7 @@ Cal uses his awesome glowing sword to deliver the coup de grace, cleaving Thok's
 
 "The mess hall will suffice, along with the barracks. Why don't you come up here, too," Cal suggests.
 
-The elderly goliath -- Ulgrim Bearwalker -- comes up the stairs. "You have done well. What would you have of me?"
+The elderly goliath -- [Ulgrim Bearwalker](../dossiers/ulgrim-bearwalker) -- comes up the stairs. "You have done well. What would you have of me?"
 
 Cal asks him why he's here. Rhyzophus asked him to come. This goliath is against the Ordning as a violation of natural balance, so even if Rhyzophus was a madman, he wanted to see where this all led. 
 
@@ -212,7 +212,7 @@ Ulgrim says his only sin was the treason itself; he didn't hurt anyone. He also 
 
 Cal is struggling a bit with this, because he really gets the injustice here, and yet he can't support treason as a way to create change. Ulgrim was interested in seeing the monsters that Rhyzophus promised, but Rhyzophus never delivered (and will not, now). Ulgrim wants to see the chamber that Cal spoke of, where Rhyzophus did his magic.
 
-Thinking Ulgrim could be a good ally, Cal says he can go along with Freki and Bec to see the divine chamber. Meanwhile, I poke a soul larva down what's left of Thok's neck. It obediently crawls down there and comes back out, covered in blood and guts, and looking a lot beefier. Okay, then.
+Thinking Ulgrim could be a good ally, Cal says he can go along with Freki and Bec to see the divine chamber. Meanwhile, I poke a [soul larva](../creatures/soul-larvae) down what's left of Thok's neck. It obediently crawls down there and comes back out, covered in blood and guts, and looking a lot beefier. Okay, then.
 
 Cal asks Kavaki and Mira who else is worth saving. Mira says the hill giants should be executed, but the others are worth saving. They have "potential." Kavaki says everyone has potential, even dummies. Mira thinks the hill giants are just plain evil, but Kavaki says they don't have to be. 
 

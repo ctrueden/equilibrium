@@ -39,7 +39,7 @@ It stares straight at Cal and something seems to pass between them. For the firs
 
 The Brucolac looks at the Death Tyrant and orders it to leave. The Death Tyrant doesn't react in any way.
 
-I have a vision of an army of ghosts, swarming into the church, over us, and towards the Death Tyrant. I also hear the strumming of a harp, driving the ghosts towards the Death Tyrant. As more ghosts enter, the desecration gets worse. As the harp plays, everything ripples, shifts, and changes. It feels a bit like the Feywild. There's yet another will behind that, someone weaving reality. The feeling gets more intense until I snap out of it. I call out to my teammates, "We have to get out of here or kill the Death Tyrant NOW!"
+I have a vision of an army of ghosts, swarming into the church, over us, and towards the Death Tyrant. I also hear the strumming of a harp, driving the ghosts towards the Death Tyrant. As more ghosts enter, the desecration gets worse. As the harp plays, everything ripples, shifts, and changes. It feels a bit like the [Feywild](../locales/feywild). There's yet another will behind that, someone weaving reality. The feeling gets more intense until I snap out of it. I call out to my teammates, "We have to get out of here or kill the Death Tyrant NOW!"
 
 The Death Tyrant sucks in the nearest ghosts. Its eye stalks look around and then it moves toward the Brucolac. It's like, "I hunger" and the Brucolac says "I know." I'm tilting towards RUN at this point.
 
@@ -51,7 +51,7 @@ The Brucolac kind of offhandedly uses the power of this horrible place to do som
 
 > Michael: "If we *all* fail, then it's not a very good teacher."
 
-On the fly, Freki makes an arrow of slaying out of wall tentacle, prays to his bird friends, and swears an oath on his bow: "A swift death to those who have wronged me. May my bow strike true, and may this be the end of you." The bow whispers something back in Elven. Vondal seems like he's weaving some kind of massive enchantment or something (six sorcery points!) to help Freki's aim, too. Even with all the help, the arrow flies straight and true, but not exactly at the right...spot.... Hugin and Munin appear to escort the arrow!!! The Death Tyrant looks grievously wounded! Then it turns an eye stalk on Freki and shoots a ray at him.
+On the fly, Freki makes an arrow of slaying out of wall tentacle, prays to his bird friends, and swears an oath on his bow: "A swift death to those who have wronged me. May my bow strike true, and may this be the end of you." The bow whispers something back in Elven. Vondal seems like he's weaving some kind of massive enchantment or something (six sorcery points!) to help Freki's aim, too. Even with all the help, the arrow flies straight and true, but not exactly at the right...spot.... [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin) appear to escort the arrow!!! The Death Tyrant looks grievously wounded! Then it turns an eye stalk on Freki and shoots a ray at him.
 
 The air starts to ripple OH NO IT'S JUST LIKE MY VISIONNNNNNNNNNNNNNNNN
 
@@ -83,7 +83,7 @@ Bec is trying to figure out what it all means, but she realizes that she can't g
 
 Cal touches the middle window.
 
-> GM's note: Cal has a vision of [Moradin](../dossiers/moradin) in full steampunk armor, as he forges the Arkenstone into a sword:
+> GM's note: Cal has a vision of [Moradin](../dossiers/moradin) in full steampunk armor, as he forges the [Arkenstone](../relics/arkenstone) into a sword:
 >
 > {% include img page="dossiers/moradin" variant="armor" link="none" %} <!-- https://www.pinterest.com/pin/468515167466783890/ -->
 >

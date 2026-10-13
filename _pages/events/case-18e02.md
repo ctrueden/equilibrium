@@ -768,6 +768,7 @@ items:
       demands the recovery of the cursed coffee pot as evidence and seeks a
       settlement to restore Serelda's reputation.
   - name: Sending Stone
+    rules: "https://2014.5e.tools/items.html#sending%20stone_ai"
     description: >-
       A magical communication device in the SPI field team's possession, which
       can be used to contact Mallory across a great distance to seek advice or
@@ -782,6 +783,7 @@ items:
       look like whatever the wearer desires, which Ozborn considered using to
       blend in with the monochromatic tavern factions.
   - name: Ball Bearings
+    rules: "https://2014.5e.tools/items.html#ball%20bearings%20(bag%20of%201%2c000)_phb"
     description: >-
       Small metal spheres from Ozborn's kit, given to Freki and used as
       makeshift nose plugs to help block out the overwhelming magical stench
@@ -802,10 +804,12 @@ spells:
       contract and security devils, and an unnatural fire essence welling up
       from the island.
   - name: Mage Armor
+    rules: "https://2014.5e.tools/spells.html#mage%20armor_phb"
     description: >-
       A protective magical force cast as a ritual by Vondal prior to the
       meeting, providing magical defense without expending a spell slot.
   - name: Sending
+    rules: "https://2014.5e.tools/spells.html#sending_phb"
     description: >-
       A third-level spell cast by Callie to contact her mother across a great
       distance. Callie sent a 25-word message warning about the lawsuit from
@@ -813,6 +817,7 @@ spells:
       warning that the Voth family is linked to BlissCo Legal and urging Callie
       to disentangle herself from Trell's legal system as soon as possible.
   - name: True Seeing
+    rules: "https://2014.5e.tools/spells.html#true%20seeing_phb"
     description: >-
       A high-level divination spell cast by Vondal on himself and Callie before
       entering Kerwin Ulvas's office building. Vondal spent six sorcery points

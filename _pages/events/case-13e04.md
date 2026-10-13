@@ -50,7 +50,7 @@ Freki fires his special arrow point-blank into Talos. It does damage, although t
 
 Vondal banishes the enemies. They're gone for a little while. We get the opportunity to rearrange our battle order and prepare actions.
 
-I break concentration on my Spirit Guardians and cast Calm Emotions at fifth level on Talos as soon as they reappear (it has to be 5th or above to hit Talos because he has an Ioun Stone or something that absorbs spells 4th level or lower). He barely manages to throw off the calm, but he looks tired now and the cold doesn't return.
+I break concentration on my Spirit Guardians and cast Calm Emotions at fifth level on Talos as soon as they reappear (it has to be 5th or above to hit Talos because he has an [Ioun](../dossiers/ioun) Stone or something that absorbs spells 4th level or lower). He barely manages to throw off the calm, but he looks tired now and the cold doesn't return.
 
 Vondal did Shocking Grasp with Murky.
 
@@ -108,9 +108,9 @@ Vondal orders the kid to give the ring back before she gets hurt. He gives her a
 
 The villagers want to know what happened with Isis. There seems to be no point in keeping anything from them, especially since Vondal is going to spill it anyway. Bec says something about the cult of the white crane and the dwarf guy objects that it isn't a cult, but a "force of nature" that has "done nothing but benefit us." Isis was the leader of the village, but she was deposed for saying bad words about the white crane.
 
-We explain about the blood mage gnome that was inside the hamadryad Phoebe and how Isis tried to protect him after he was expelled from Phoebe's body. He escaped, but Oz killed Isis.
+We explain about the blood mage gnome that was inside the hamadryad [Phoebe](../dossiers/phoebe) and how Isis tried to protect him after he was expelled from Phoebe's body. He escaped, but Oz killed Isis.
 
-Ayina says to Vondal and Bec that she knows the centaur, or at least [her double](../dossiers/felannia) does. Talos has attacked the Lord of the Devils, [Asmodeus](../dossiers/asmodeus), many times. She asks if Bec/Vondal knows why he would do that. Vondal tells her that they met him once before in some kind of demiplane. Talos expressed admiration for Cal's sword and was angry at us for invading his territory. Bec recalls that Asmodeus might be almost a god himself, and Talos seems to hate any kind of god. Ayina tells Vondal and Bec to keep their conversation to themselves.
+Ayina says to Vondal and Bec that she knows the centaur, or at least [her double](../dossiers/felannia) does. Talos has attacked the Lord of the [Devils](../creatures/devils), [Asmodeus](../dossiers/asmodeus), many times. She asks if Bec/Vondal knows why he would do that. Vondal tells her that they met him once before in some kind of demiplane. Talos expressed admiration for Cal's sword and was angry at us for invading his territory. Bec recalls that Asmodeus might be almost a god himself, and Talos seems to hate any kind of god. Ayina tells Vondal and Bec to keep their conversation to themselves.
 
 Vondal and Bec head off to take a look at the destroyed "door" to the village. Seeing them, Callie joins them. Vondal wants to weave some [flux](../locales/flux) around the door. Callie casts Augury (knowledge domain, once per day) to ask [Erathis](../dossiers/erathis) whether this will have a good result or not. Weal! It's a go!
 
@@ -121,7 +121,7 @@ Vondal's magic gets sucked up and woven into a wild magic door. Ayina is shocked
 - Should we try to recover [Sima](../dossiers/sima)'s body and see if we can revive her? Or will one of us volunteer to be the anchor for Sima's double?
 - What happened to Mallory, and is there anything we can do for him? Vondal wants to find [Mallory's doppelganger](../dossiers/eeoram-sufur).
 - What was Talos talking about?
-- Vondal has a big lead on what happened to the SPI agents, and will want to follow up on it.
+- Vondal has a big lead on what happened to the [SPI](../orgs/spi) agents, and will want to follow up on it.
 - Freki wants to find out what happened to Hugin and Munin. They were somehow held at bay during the battle.
 
 {% include endtabs %}

@@ -14,9 +14,9 @@ The party divvies up the merpeople treasure. They decide to store the treasure c
 
 When they get to the elven dwelling in the tree, everybody eats dinner and then they all go to bed. We are soooo tired!
 
-Bec is woken up right at the beginning of her rest by ~~some bastard~~[Tybalt](../dossiers/tybalt). She comes out of her room and discovers the *tree-melded*. These elves are being absorbed by the tree, supplying their own life force to keep the tree alive. Her father is one of them! Every day one of these tree-melded gives up their own life so the tree doesn't die. So far it hasn't been him, but it could be any time.
+[Bec](../dossiers/bec) is woken up right at the beginning of her rest by ~~some bastard~~[Tybalt](../dossiers/tybalt). She comes out of her room and discovers the *tree-melded*. These elves are being absorbed by the tree, supplying their own life force to keep the tree alive. Her father is one of them! Every day one of these tree-melded gives up their own life so the tree doesn't die. So far it hasn't been him, but it could be any time.
 
-Bec's father says that it is a great honor to be joined with the tree, and it would have been a dishonor if he refused, so he did it and didn't tell his family in case seeing them broke his resolve. He points out that [Sartus](../dossiers/sartus-morningdew)'s plan will end up killing the tree, and the tree-melded along with it. The tree will be reborn, but there would be destruction in the meantime. This is why the Queen and most of the elves favor stopping the Druid and taking the Necronomicon back.
+Bec's father says that it is a great honor to be joined with the tree, and it would have been a dishonor if he refused, so he did it and didn't tell his family in case seeing them broke his resolve. He points out that [Sartus](../dossiers/sartus-morningdew)'s plan will end up killing the tree, and the tree-melded along with it. The tree will be reborn, but there would be destruction in the meantime. This is why the Queen and most of the elves favor stopping the Druid and taking the [Necronomicon](../relics/necronomicon) back.
 
 Bec asks Tybalt what his patron is doing to help this situation. Tybalt says he can't speak to his patron's intentions, he can only carry out his patron's will. Tybalt offers to use his patron's leverage to get the party a meeting with the Queen if that's what we want. He can't go with us if we decide to join the hunt for the Druid, but he will try to help however he can.
 
@@ -32,6 +32,6 @@ Item | Negotiated price (gp) | Rarity
 [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind) | 2500 | Uncommon
 [Bracers of Archery](https://www.dndbeyond.com/magic-items/4593-bracers-of-archery) | 1500 | Uncommon
 
-The treasure vault also has an [Ioun Stone of Mastery](https://www.dndbeyond.com/magic-items/4938-ioun-stone-of-mastery), which is a Legendary (Major) treasure that Oz considers bargaining for, but then decides it would be better to come back later to steal it instead.
+The treasure vault also has an [Ioun Stone of Mastery](https://www.dndbeyond.com/magic-items/4938-ioun-stone-of-mastery), which is a Legendary (Major) treasure that [Oz](../dossiers/oz) considers bargaining for, but then decides it would be better to come back later to steal it instead.
 
 Geared up, the agents set out to begin scaling the Tree in search of the legendary Acorn of Life.

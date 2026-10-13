@@ -10,19 +10,19 @@ session-event: https://www.facebook.com/events/155732931708617/
 layout: session
 ---
 
-* Freki's birds pecked him awake. Laying in a pool of blood. Not his own blood. Next to him, Cal was dead. Freki held the murder weapon limply in one hand.
-* Flash back to the real world—in Mallory's office.
-  * Cassandra found them at the fourth teleportation circle of Estenesse.
+* [Freki](../dossiers/freki)'s birds pecked him awake. Laying in a pool of blood. Not his own blood. Next to him, [Cal](../dossiers/cal) was dead. Freki held the murder weapon limply in one hand.
+* Flash back to the real world—in [Mallory](../dossiers/mallory)'s office.
+  * [Cassandra](../dossiers/cassandra) found them at the fourth teleportation circle of Estenesse.
   * No sign of anyone else. Where did they go?
   * Mallory said that he does not know the location of any of the others.
 * Mallory gave the agents their next case: murder at the circus!
 * Freki was very disturbed by his vision (or whatever it was). He was fully convinced Cal was dead. But Mallory promised that Cal was just sleeping in his quarters, still recovering from the party's recent ordeal at the auction. Freki insisted on checking on Cal in his room, where he was indeed found in a deep slumber.
 * Agents went to Sanctum and found the LD chapter house. They met [Brother Alabastor](../dossiers/alabastor).
-  * He led them to Zombozo's cell. Zombozo told them he didn't do it.
+  * He led them to [Zombozo](../dossiers/zombozo)'s cell. Zombozo told them he didn't do it.
   * Knock knock! Who's there? Harry! Harry who? Harry up and get me out of here!
   * Knock knock! Who's there? Toodle! Toodle who? Buh-bye!
   * Brother Alabastor and two paladins then escorted them to the circus.
-* The agents met and interviewed Meroe, Panthea and Squatch.
+* The agents met and interviewed [Meroe](../dossiers/meroe), [Panthea](../dossiers/panthea) and [Squatch](../dossiers/squatch).
   * Meroe seemed pretty busy.
   * Squatch seemed somewhat fixated on the bodies.
 * The order of acts in the show:
@@ -32,7 +32,7 @@ layout: session
 
   1. Bodies were found towards the end of this act.
 
-3. Animal act (Weezer)
+3. Animal act ([Weezer](../dossiers/weezer))
 4. Intermission
 5. Comedy redux
 6. Strong man
@@ -42,7 +42,7 @@ layout: session
   * He showed her his transformation shtick.
   * Meroe invited Freki to perform with them that night.
   * He learned that she believes the circus will be more profitable with her in charge.
-* Callie cast speak with dead on Vanesse:
+* [Callie](../dossiers/callie) cast speak with dead on Vanesse:
 
 1. Who did you see last? My husband
 2. Why were you killed? I don't know

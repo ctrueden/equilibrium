@@ -34,7 +34,7 @@ Oz: "Aww Brando, do we think that's a good idea? I don't think that's such a gre
 
 Cal: "We need to *kill* the Book."
 
-Freki overhears: "I don't know that it's a bad idea. 'cause the Book is clearly magic."
+[Freki](../dossiers/freki) overhears: "I don't know that it's a bad idea. 'cause the Book is clearly magic."
 
 Oz, Cal, and Freki continue to debate it.
 
@@ -50,7 +50,7 @@ Callie senses that the Book is still evil, but much less so? "It was always an e
 
 * Rain hefts Sartus's lifeless husk over his shoulder.
 * Vondal and Murky and Freki and Rain run for the entrance.
-* Bec tries to heft the Book with *mage hand*. It's hard at first, but suddenly it gets easy; Callie feels a divine assist from some Fey influence.
+* Bec tries to heft the Book with *mage hand*. It's hard at first, but suddenly it gets easy; Callie feels a divine assist from some [Fey](../creatures/fey) influence.
 * Phoebe and Lorissa follow them out.
 
 Oz: "That owlbear's gonna eat that guy!"
@@ -151,6 +151,6 @@ As everyone frees the Queen from her chains, an argument can be heard through th
 
 ......................
 
-Six days later, the agents are tracking the [Sima doppelganger](../dossiers/amisa-swiftaxe) east through the Deepwood.
+Six days later, the agents are tracking the [Sima doppelganger](../dossiers/amisa-swiftaxe) east through the [Deepwood](../locales/deepwood).
 
 And Freki senses that they in turn are being followed...

@@ -18,7 +18,7 @@ There's no time to think about that, though, because each of the thousands of mi
 
 Some sort of vapor comes out of Vondal's mouth and he hears, "What you seek is in the crypt." He complains about the customer service and demands a refund.
 
-Callie tries to warn Bec that she'll lose any knowledge she offers here, like a sacrifice. But it's too late, Bec offers up [[[[[[the knowledge of karach and its uses]]]]]] something?
+[Callie](../dossiers/callie) tries to warn Bec that she'll lose any knowledge she offers here, like a sacrifice. But it's too late, Bec offers up [[[[[[the knowledge of karach and its uses]]]]]] something?
 
 Bec hears a voice say, "The time has come for you to accept your destiny. What you seek is here." This is followed by a flurry of images of the crypts here, including a correct path and how to open the doors, leading to a pedestal with a hand on it. "The time has come for a new wielder."
 
@@ -130,7 +130,7 @@ Bec is waiting in the foyer and hears the noise we're making downstairs. She com
 
 Bec goes in to talk to Invictus. She asks him whether Vecna is still the master of the hand. He is surprised that Bec is able to wear it and thinks even Vecna's power apparently has limits. Bec asks if he can help, and he says no amount of help would make up for the bad things he's done. But he'll try anyway. He mentions the dead god again, and Bec asks if that is the power of the nine elements she saw inscribed on the hand. Invictus is shocked. There were never nine! But if there were... that changes everything! It explains the hole in the world. The gods bound the world with the elements. If one of them has really been destroyed, then the world would be unraveling.
 
-"You don't know what [the Flux](../locales/flux) is? It is everything that is not the world. It is unreality. The gods bound Aecus so the Flux would be kept out." Then he roasts Vondal for thinking he had mastery over such a primordial power.
+"You don't know what [the Flux](../locales/flux) is? It is everything that is not the world. It is unreality. The gods bound [Aecus](../locales/aecus) so the Flux would be kept out." Then he roasts Vondal for thinking he had mastery over such a primordial power.
 
 Bec asks Invictus whether it's possible to restore a memory lost to Vecna. He says yes, it's possible to learn something again, but Vecna will exact some kind of toll.
 

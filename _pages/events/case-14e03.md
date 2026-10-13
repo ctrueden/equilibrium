@@ -14,7 +14,7 @@ layout: session
 
 [Lady Nightshade](../dossiers/ilyana-nightshade) challenges [Callie](../dossiers/callie) to drink it again. Callie passes, but only barely and only with [Vondal](../dossiers/vondal)'s help, again!
 
-Vondal shows her the SPI badge (?). She says, "You are the ones we need." She then swings her scythe and rips a hole in reality through which we can see the pulse of the [Flux](../locales/flux). She punches into the rift and grabs the Flux. It starts crawling up her arm. Gross! This could [give her immense power](https://youtu.be/1qlegJJ1RTA?t=487). [Bec](../dossiers/bec) and Callie think that the Flux is using her more than the other way around, though.
+Vondal shows her the [SPI](../orgs/spi) badge (?). She says, "You are the ones we need." She then swings her scythe and rips a hole in reality through which we can see the pulse of the [Flux](../locales/flux). She punches into the rift and grabs the Flux. It starts crawling up her arm. Gross! This could [give her immense power](https://youtu.be/1qlegJJ1RTA?t=487). [Bec](../dossiers/bec) and Callie think that the Flux is using her more than the other way around, though.
 
 [Freki](../dossiers/freki) shoots into the rift with a lightning arrow and the Flux snaps the angel's arm off at the elbow. She's kinda pissed! And also made out of mouths! The mouths shriek, "We will consume you aaaaaalllllll!"
 
@@ -36,7 +36,7 @@ Bec, Vondal, and Callie sense that the angel has an overwhelming desire to eat u
 
 Oz attacks one of the skulls and stabbinates it. The [hornblade](../relics/cornucopia) has necrotic, poisonous damage. Its negative energy cuts through the positive energy of the room. The glowy flamy light of the skull dims. Oz skewered it good, so it's stuck like a shishkebab now.
 
-All the foes attempt to intimidate us. Oz and Cal are afraid, but everyone else shakes it off. The skulls hit Oz (and Cal?) with a beam of light that sucks some of his life force into Lady Nightshade. The unicorn taps Oz with its horn and he regains some health!
+All the foes attempt to intimidate us. Oz and [Cal](../dossiers/cal) are afraid, but everyone else shakes it off. The skulls hit Oz (and Cal?) with a beam of light that sucks some of his life force into Lady Nightshade. The unicorn taps Oz with its horn and he regains some health!
 
 Vondal tries to banish Lady Nightshade and one of the skulls, but unfortunately he becomes terrified of Freki and also drunk. He does regain some spell slots, so...nice? But the spell succeeds somehow, and Lady Nightshade and the skull disappear.
 
@@ -65,7 +65,7 @@ By the time we're done talking, Cal and Oz's wounds have healed. The positive en
 
 The party takes a quick look around. There's a banquet hall, a magic laboratory, a library. In the lab is a journal written in an elegant hand and signed by Illyana Nightshade. The journal begins 300 years ago. She appears to have been researching how to join Invictus in undeath. She successfully created a Philosopher's Stone, and then she ate it. It does seem to have given her eternal life, but she is now forever hungry and thirsty. Towards the end (about three years ago) are notes about how efforts to cure the insatiable hunger and thirst aren't working. Nothing about splitting apart and become a tooth monster, though.
 
-Next we look around the library. Oz snags a crystal ball that looks valuable. Bec tells him that it's used for scrying. There's a bookmarked story about how Vecna lost her hand.
+Next we look around the library. Oz snags a crystal ball that looks valuable. Bec tells him that it's used for scrying. There's a bookmarked story about how [Vecna](../dossiers/vecna) lost her hand.
 
 Timor (probably) tells us to find him upstairs.
 
@@ -73,7 +73,7 @@ Upstairs, there are three main areas: an art gallery, guest rooms, and a study. 
 
 Oz checks the study door for traps. It gives him a funny vibe. He grabs Cal and asks him to take a look too. Cal agrees it's weird. They feel like it would be a bad idea to open the door, but there's no clear reason for it. Bec can use Mage Hand to open it safely, perhaps.
 
-Meanwhile, some of us remember when we were talking to Malachai, he mentioned the "Gallery of Whispers." Maybe we should check there? We all gather in there to hide from whatever explosion or whatever is going to happen when the study door opens. She casts Mage Hand, and...the door is...locked.
+Meanwhile, some of us remember when we were talking to [Malachai](../dossiers/malachai-hawthorne), he mentioned the "Gallery of Whispers." Maybe we should check there? We all gather in there to hide from whatever explosion or whatever is going to happen when the study door opens. She casts Mage Hand, and...the door is...locked.
 
 The skull whispers, "Why did you defy the Master?" to a painting. Each of the paintings is a portrait making an emotional face. Vondal thinks the Mirror of Living Memory might have trapped souls in these paintings. There aren't legends to that effect, but still.
 
@@ -81,7 +81,7 @@ Murky touches a painting and hears a wail of misery. Vondal tells us to touch th
 
 Vondal and I grant Bec some extra fate juice as she attempts to remove the trap on the study door with Dispel Magic. She's able to avoid the trap and doesn't set it off. 
 
-Door's still locked, though, so Oz is going to try to pick the lock. Inside, the eight magic domains are scrawled on the floor -- a portal? On the desk is a scroll covered in divine symbols, as well as figures resembling each of us and some of our associates (Sartus, Tybalt, Bram the Blithe, and Timor Invictus). Mine is next to Avandra's symbol, natch. Avanadra appears to be at the intersection of air and sand, whatever that means.
+Door's still locked, though, so Oz is going to try to pick the lock. Inside, the eight magic domains are scrawled on the floor -- a portal? On the desk is a scroll covered in divine symbols, as well as figures resembling each of us and some of our associates ([Sartus](../dossiers/sartus-morningdew), [Tybalt](../dossiers/tybalt), [Bram the Blithe](../dossiers/bram-the-blithe), and Timor Invictus). Mine is next to Avandra's symbol, natch. Avanadra appears to be at the intersection of air and sand, whatever that means.
 
 Bec wanders away to look at the portal. She knows a lot about portals and can see magical rivulets for channeling magic energy. She postulates that maybe we need to pour each of the types of magical energy into it, in order to activate the portal.
 
@@ -89,14 +89,14 @@ Cal looks at the paper with the figures and notices that all the people represen
 
 Everyone gathers around and tries to figure out the paper with the tokens and symbols. Vondal figures out that the elements correspond to the magic domains:
 
-* Water -- Knowledge
-* Storm -- Tempest
-* Air -- Trickery
-* Sand -- Life
-* Fire -- Light
-* Magma -- War
-* Earth -- Nature
-* Ice -- Death
+* Water -- [Knowledge](https://2014.5e.tools/classes.html#cleric_phb,state:sub_tempest_phb=b1~sub_community_humblewoodcampaignsetting=b1~sub_death_dmg=b1~sub_knowledge_phb=b1~sub_life_phb=b1~sub_light_phb=b1~sub_nature_phb=b1~sub_trickery_phb=b1~sub_war_phb=b1)
+* Storm -- [Tempest](https://2014.5e.tools/classes.html#cleric_phb,state:sub_tempest_phb=b1~sub_community_humblewoodcampaignsetting=b1~sub_death_dmg=b1~sub_knowledge_phb=b1~sub_life_phb=b1~sub_light_phb=b1~sub_nature_phb=b1~sub_trickery_phb=b1~sub_war_phb=b1)
+* Air -- [Trickery](https://2014.5e.tools/classes.html#cleric_phb,state:sub_tempest_phb=b1~sub_community_humblewoodcampaignsetting=b1~sub_death_dmg=b1~sub_knowledge_phb=b1~sub_life_phb=b1~sub_light_phb=b1~sub_nature_phb=b1~sub_trickery_phb=b1~sub_war_phb=b1)
+* Sand -- [Life](https://2014.5e.tools/classes.html#cleric_phb,state:sub_tempest_phb=b1~sub_community_humblewoodcampaignsetting=b1~sub_death_dmg=b1~sub_knowledge_phb=b1~sub_life_phb=b1~sub_light_phb=b1~sub_nature_phb=b1~sub_trickery_phb=b1~sub_war_phb=b1)
+* Fire -- [Light](https://2014.5e.tools/classes.html#cleric_phb,state:sub_tempest_phb=b1~sub_community_humblewoodcampaignsetting=b1~sub_death_dmg=b1~sub_knowledge_phb=b1~sub_life_phb=b1~sub_light_phb=b1~sub_nature_phb=b1~sub_trickery_phb=b1~sub_war_phb=b1)
+* Magma -- [War](https://2014.5e.tools/classes.html#cleric_phb,state:sub_tempest_phb=b1~sub_community_humblewoodcampaignsetting=b1~sub_death_dmg=b1~sub_knowledge_phb=b1~sub_life_phb=b1~sub_light_phb=b1~sub_nature_phb=b1~sub_trickery_phb=b1~sub_war_phb=b1)
+* Earth -- [Nature](https://2014.5e.tools/classes.html#cleric_phb,state:sub_tempest_phb=b1~sub_community_humblewoodcampaignsetting=b1~sub_death_dmg=b1~sub_knowledge_phb=b1~sub_life_phb=b1~sub_light_phb=b1~sub_nature_phb=b1~sub_trickery_phb=b1~sub_war_phb=b1)
+* Ice -- [Death](https://2014.5e.tools/classes.html#cleric_phb,state:sub_tempest_phb=b1~sub_community_humblewoodcampaignsetting=b1~sub_death_dmg=b1~sub_knowledge_phb=b1~sub_life_phb=b1~sub_light_phb=b1~sub_nature_phb=b1~sub_trickery_phb=b1~sub_war_phb=b1)
 
 I'm confused about why [Avandra](../dossiers/avandra) and [Erathis](../dossiers/erathis) are on here under two things, when each represents just one domain. Also, [the combined form](../dossiers/ioun) is also on this chart. What?
 
@@ -129,18 +129,18 @@ We spent quite some time figuring this out!
 | Ioun          | Air + Water      | Trickery + Knowledge  |
 | Moradin       | Water + Fire     | Knowledge + Light     |
 | Vecna         | Water + Ice      | Knowledge + Death     |
-| Brandobaris   |
-| Kord          | Magma            |
-| Melora        |
+| Brandobaris   |                  |                       |
+| Kord          | Magma            |                       |
+| Melora        |                  |                       |
 | (spider)      | Magma + Air      | War + Trickery        |
-| Sehanine      |
+| Sehanine      |                  |                       |
 | Pelor         | Fire + Sand      | Light + Life          |
-| Bahamut       | Magma
+| Bahamut       | Magma            |                       |
 | (cornucopia@) | Earth + Sand     | Nature + Life         |
 | Nerull        | Sand + Ice       | Life + Death          |
-| Sune          | Magma            |
-| Gruumsh       |
-| Tiamat        |
+| Sune          | Magma            |                       |
+| Gruumsh       |                  |                       |
+| Tiamat        |                  |                       |
 
 | Mortals       | Elements         | Domains               |
 |---------------|------------------|-----------------------|
@@ -150,8 +150,8 @@ We spent quite some time figuring this out!
 | Freki         | Earth + Ice      | Nature + Death        |
 | Oz            | Air + Ice        | Trickery + Death      |
 | Vondal        | Water + Storm    | Knowledge + Tempest   |
-| Bram          | Storm + Ice      | 
-| Sartus^       | Water + Sand     | 
+| Bram          | Storm + Ice      |                       |
+| Sartus^       | Water + Sand     |                       |
 | Tybalt*       | Air + Fire       | Trickery  + Light     |
 | Invictus*     | Fire + Storm     | Light + Tempest       |
 

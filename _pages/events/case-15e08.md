@@ -126,7 +126,7 @@ The Brucolac opens his hands and screams. The Flux that Vondal used to pull Cal 
 
 Oz slices and dices Enoch the bat. He's not quite dust, but he's on his last wing. Freki still has him, so he attempts to use that same hand to punch the Brucolac. Then he still has a bite attack left, so he tries to bite the bat's head off (not enthusiastically, it must be noted). Hugin and Munin manifest, distracting Enoch enough to let Freki chomp him. Enoch poofs into mist.
 
-Bec attacks the Brucolac with *chill touch*. The Hand of Vecna is still in contact with Bec. The first voice says, "His power is out of balance," then something in [Elven](../creatures/elves) [GM's note: "all *kalina* and no *mori*"]. Bec knows it means the magicks of will and yielding, opposite forces that should be balanced.
+Bec attacks the Brucolac with *chill touch*. The Hand of [Vecna](../dossiers/vecna) is still in contact with Bec. The first voice says, "His power is out of balance," then something in [Elven](../creatures/elves) [GM's note: "all *kalina* and no *mori*"]. Bec knows it means the magicks of will and yielding, opposite forces that should be balanced.
 
 Bec casts a super sweet rainbow and I kind of wish I had some of those psychedelic fruits we got earlier. I think the Brucolac does too, because he seems distracted for just a moment.
 

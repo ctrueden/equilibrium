@@ -11,35 +11,35 @@ layout: session
 
 {% include tab id="callie" label="Callie's Journal" first=true %}
 
-In the morning, Grimma the goblin brings us a huge wooden cup filled with something stinky and insists we drink out of it. It smells like rancid meat. We have to swear a goblin blood oath before we leave. If I drink it and then barf, does it still count? She tells me it's literally impossible to throw up, which doesn't make me feel better.
+In the morning, [Grimma](../dossiers/grimma-kralmok) the goblin brings us a huge wooden cup filled with something stinky and insists we drink out of it. It smells like rancid meat. We have to swear a goblin blood oath before we leave. If I drink it and then barf, does it still count? She tells me it's literally impossible to throw up, which doesn't make me feel better.
 
-Rotesabal sticks his head out from a hut, the one with the teleportation circle, and watches us.
+[Rotesabal](../dossiers/rotesabal) sticks his head out from a hut, the one with the teleportation circle, and watches us.
 
 Grimma insists that we promised to help her and her people, so that's why we need to swear a blood oath. Anything less doesn't count. The pretty sparkly crystals have gotten everywhere and it's a nuisance!
 
-Freki tries to argue that for us, our word is our bond, no gross-smelling concoctions required. Grimma doesn't buy it, but she offers to go first as long as Freki. She hocks a loogie into the cauldron and drinks. Freki does the same. Bec volunteers to go next, to minimize how much other people's spit she's getting. After every one, Grimma says: "By blood and bile, by root and rot, I swear to return when Grimma calls, or may my dreams be filled with crawling things."
+[Freki](../dossiers/freki) tries to argue that for us, our word is our bond, no gross-smelling concoctions required. Grimma doesn't buy it, but she offers to go first as long as Freki. She hocks a loogie into the cauldron and drinks. Freki does the same. [Bec](../dossiers/bec) volunteers to go next, to minimize how much other people's spit she's getting. After every one, Grimma says: "By blood and bile, by root and rot, I swear to return when Grimma calls, or may my dreams be filled with crawling things."
 
-Cal asks her whether the oath is considered fulfilled if she dies before we fulfill it. "That's your problem, dingus!" is her opinion. She has no plans to die soon. Myself, I would never put anything this nasty in my mouth if I intended to break the promise I'm making on it.
+[Cal](../dossiers/cal) asks her whether the oath is considered fulfilled if she dies before we fulfill it. "That's your problem, dingus!" is her opinion. She has no plans to die soon. Myself, I would never put anything this nasty in my mouth if I intended to break the promise I'm making on it.
 
 "Are you asking me to promise I'm not going to die?" Grimma says incredulously. After a suspiciously long pause, she says, "Yeah, sure, I promise."
 
 Once we've all sworn the oath, she dumps the rest of the stuff out on the ground. Then she licks the cup and grimaces, so I guess that was as disgusting to her as to us. Looks like we're all in it together (?).
 
-Bickerbeard joins us and comments that he thought there were more of us. Sure enough, Vondal is missing. Hey! He didn't have to drink that disgusting sludge! Shenanigans!!! Grimma comments that she already dumped it out and she ain't makin' it again. Maybe I'll make my own version later and trick him into drinking it.
+[Bickerbeard](../dossiers/rejal-bickerbeard) joins us and comments that he thought there were more of us. Sure enough, [Vondal](../dossiers/vondal) is missing. Hey! He didn't have to drink that disgusting sludge! Shenanigans!!! Grimma comments that she already dumped it out and she ain't makin' it again. Maybe I'll make my own version later and trick him into drinking it.
 
 We go and teleport. Bec thinks that teleport has a mishap chance, but Bickerbeard doesn't seem concerned. He seems to know what he's doing.
 
-We find ourselves on a little patch of land rising up above some murky water with foul-smelling vapors. Even the sounds here are disgusting. These are the Acrid Marshes. Bec calls it "the armpit of Aecus," which is colorful for an elf moniker. The elves must seriously hate this place, just like we gnomes do. Cognitutus stays well clear of it, even before all the Flux damage that happened more recently. I've also heard this is kind of a supernatural dumping ground, and may even have been one of the reasons the titans were overthrown. These stories are sketchy, even for myths, involving a god named Zas that didn't exist, but there were conflicts surrounding the area. No matter what, though, everyone seems to agree that nobody sane should go here. So here we are!
+We find ourselves on a little patch of land rising up above some murky water with foul-smelling vapors. Even the sounds here are disgusting. These are the [Acrid Marshes](../locales/marshes). Bec calls it "the armpit of [Aecus](../locales/aecus)," which is colorful for an elf moniker. The elves must seriously hate this place, just like we gnomes do. [Cognitutus](../locales/cognitutus) stays well clear of it, even before all the [Flux](../locales/flux) damage that happened more recently. I've also heard this is kind of a supernatural dumping ground, and may even have been one of the reasons the titans were overthrown. These stories are sketchy, even for myths, involving a god named [Zas](../dossiers/zas) that didn't exist, but there were conflicts surrounding the area. No matter what, though, everyone seems to agree that nobody sane should go here. So here we are!
 
 Cal warns us that there are things called Bog Mummies here. He thinks they might be able to raise minions, and if we find any, we have to cut out the heart. Otherwise, they'll just get right back up again. "And eat it!" adds Freki, I think just to watch me dry heave.
 
-Freki starts calling for Claudius. Cal tells him to hush up, because he may attract unwanted attention. At least we don't have far to talk; Grohnea's house is right here.
+Freki starts calling for Claudius. Cal tells him to hush up, because he may attract unwanted attention. At least we don't have far to talk; [Grohnea](../dossiers/grohnea)'s house is right here.
 
 Bec compliments Bickerbeard's teleporting acumen. He says it's due to the mindlink; he's connected to Grohnea's anchor, which gives him a familiarity with the area even though he himself has never been here.
 
 The house seems to be perched on a bed of lilypads, somehow. What looks like an enormous orchid is growing all over the house. Its name is Claudius, and Freki was calling out to it respectfully. Freki has never seen one this big, plus it looks like a hybrid of three varieties. It tendrils are curling across the front door, blocking our path, but not necessarily uninvitingly.
 
-Ayina says everything looks fine to her. "Stay kind and respectful and I'm sure you'll be fine," she advises us. She and Rejal disappear.
+[Ayina](../dossiers/ayinalef) says everything looks fine to her. "Stay kind and respectful and I'm sure you'll be fine," she advises us. She and Rejal disappear.
 
 Freki uses his plant speech ability to introduce us to Claudius, tell him that we mean no harm, and ask him if he's happy here. It just sounds like a bunch of weird noises to the rest of us.
 
@@ -55,7 +55,7 @@ Cal silently fancy-foots his way over to the toad without touching the water. Hu
 
 "Thank you very much. What a pal. What a chum. My new best friend. What's your name?" says Claudius.
 
-Freki says he's from the SPI. That's not a name, so Freki says "Agent Sarin." Oh, that's his last name!
+Freki says he's from the [SPI](../orgs/spi). That's not a name, so Freki says "Agent Sarin." Oh, that's his last name!
 
 "Why would you choose to subject yourself to Her Malevolence?" asks Claudius.
 
@@ -89,7 +89,7 @@ Grohnea holds up two butterflies and says two of them are ready to use. She'll l
 
 "Are they just butterflies?" Bec asks doubtfully.
 
-"Of course not. These are soul larva," says Grohnea.
+"Of course not. These are [soul larva](../creatures/soul-larvae)," says Grohnea.
 
 When people die, their souls get shuttled to one place or another due to the machinations of the gods. Soul larva are not a part of this cycle. They're created, by someone with that specific power. 
 
@@ -111,7 +111,7 @@ We all think about our new...qualities. "You have geomantic drift, all of you," 
 
 Cal has. They're stables for storm creatures called behir. The stables are carved out of a glacier and the giants claim to have built them. Why breed a thing that's so dangerous nobody is allowed to go near them? High-ranking giants use them as mounts, apparently. 
 
-Grohnea has a candidate for us to collect the soul larva from. "In so doing, there would be many of the unworthy who could become my pretties. The reason that I care about this is that I care about this region and I care about Hyperion's household. I have a positive relationship with them and I would like to keep it that way. But the giants would not take kindly to an outsider such as myself interfering in their affairs."
+Grohnea has a candidate for us to collect the soul larva from. "In so doing, there would be many of the unworthy who could become my pretties. The reason that I care about this is that I care about this region and I care about [Hyperion](../dossiers/hyperion)'s household. I have a positive relationship with them and I would like to keep it that way. But the giants would not take kindly to an outsider such as myself interfering in their affairs."
 
 Cal wonders why Hyperion wouldn't just take care of any problems himself. That seems strange.
 
@@ -147,11 +147,11 @@ Catty gives us a little leather pouch with a number of squishy eggs. There are a
 
 "Oh no, dearie. But cults have leaders and such. I know you'll do well." It really does seem like she knows that.
 
-The cult is called Ordning's Downfall. She suggests we don't go through the marsh. She can transport us closer, but not *too* close, lets we be discovered.
+The cult is called [Ordning's Downfall](../orgs/ordnings-downfall). She suggests we don't go through the marsh. She can transport us closer, but not *too* close, lets we be discovered.
 
 "You must make a choice," she continues. "I can transport you such that you will later return here, or I can transport you such that you won't. Do you have the means to return here?"
 
-"You know we don't!" says Sissae, annoyed.
+"You know we don't!" says [Sissae](../dossiers/sissae-moondrop), annoyed.
 
 "Of course. That is why I offered the first option."
 
@@ -183,7 +183,7 @@ Grohnea continues, "The next time I meet you, I will not know you quite so well 
 
 She tells us that Ordning's Downfall is unhappy with how giant society is organized, so they've taken control of the storm stables. They've done some protective wards and enchantments against storm giants, otherwise they would already have been defeated. When we get back, we should try not to tell her too much about how it went, otherwise the future and the past might get entangled.
 
-The cult is led by someone who is only in it for personal gain, surprise surprise. His name is Rhyzophus, and he is a cloud giant enchanter who was once part of Hyperion's court. Cal remembers him getting exiled from giant society after being even more of an asshole than most giants. It seems Rhyzophus has gathered up similar malcontents&mdash;especially those with magical powers&mdash;and they're plotting a rebellion against the giant ruling class.
+The cult is led by someone who is only in it for personal gain, surprise surprise. His name is [Rhyzophus](../dossiers/rhyzophus), and he is a cloud giant enchanter who was once part of Hyperion's court. Cal remembers him getting exiled from giant society after being even more of an asshole than most giants. It seems Rhyzophus has gathered up similar malcontents&mdash;especially those with magical powers&mdash;and they're plotting a rebellion against the giant ruling class.
 
 "You spoke of meeting a friend that you knew before, who was a friend to you once again," Grohnea tells Cal.
 

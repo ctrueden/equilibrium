@@ -121,7 +121,7 @@ Oz pipes up that I need some better armor. Yeah, I do, as a matter of fact!
 
 Mallory tosses some bags of coin at us: back pay! [GM's note: except for Oz! All of his pay went to his debtors. XD] "You've all done good work and I want to thank you. You risk life and limb, but somebody's gotta do it and I appreciate you sticking to it."
 
-He's got a notepad. Lots of new business. The SPI has been trying to get [Sima's](../dossiers/sima) body back. The [elves](../creatures/elves) agreed to return the body and keep the secret of the [changelings](../creatures/changelings), but they have conditions. They want a waiver of their SPI duties until the [Tree](../relics/yggdrasil) planting (ETA: 20 years). They need all hands on deck for that, apparently. Meanwhile, the elves are willing to devote resources to recovering the elven agents lost in the [recent SPI fire](../events/spi-fire), but not willing to pledge new agents until the previous ones are saved. They also demanded the Ioun Stone of Mastery back, but Mallory argued that Oz should hold onto it for now, because it's better in action than in a vault. So it's our "ward" until [Tybalt's](../dossiers/tybalt) return. Oz had better not let anything happen to it!~ Mallory also paid off a number of the people who Oz owed money to.
+He's got a notepad. Lots of new business. The SPI has been trying to get [Sima's](../dossiers/sima) body back. The [elves](../creatures/elves) agreed to return the body and keep the secret of the [changelings](../creatures/changelings), but they have conditions. They want a waiver of their SPI duties until the [Tree](../relics/yggdrasil) planting (ETA: 20 years). They need all hands on deck for that, apparently. Meanwhile, the elves are willing to devote resources to recovering the elven agents lost in the [recent SPI fire](../events/spi-fire), but not willing to pledge new agents until the previous ones are saved. They also demanded the [Ioun](../dossiers/ioun) Stone of Mastery back, but Mallory argued that Oz should hold onto it for now, because it's better in action than in a vault. So it's our "ward" until [Tybalt's](../dossiers/tybalt) return. Oz had better not let anything happen to it!~ Mallory also paid off a number of the people who Oz owed money to.
 
 Cal tells Mallory that he still has a ton of magic items from [Invictus's](../dossiers/timor-invictus) [estate](../locales/evershroud-manor). And that [monster](../dossiers/ilyana-nightshade) head, which he pulls out of the bag.
 
@@ -191,7 +191,7 @@ The coins appeared after the other Mallory suggested that we had already found t
 
 "My ritual book is in my lab. Just bring them up there later," says Cassandra, sounding disgruntled.
 
-"Next. Based on what you told me, this tower is under the Flux, which is also in the Flux, which is also in the Feywild, and also maybe the Afterworld. Whatever's happening down there needs to not be happening. We have to find some way to stop it. [Nerull](../dossiers/nerull), much as I don't trust her, might be a resource. We're on the same side for this."
+"Next. Based on what you told me, this tower is under the Flux, which is also in the Flux, which is also in the [Feywild](../locales/feywild), and also maybe the [Afterworld](../locales/afterworld). Whatever's happening down there needs to not be happening. We have to find some way to stop it. [Nerull](../dossiers/nerull), much as I don't trust her, might be a resource. We're on the same side for this."
 
 "So tell me about [that monk guy](../dossiers/white-crane)," Mallory goes on.
 
