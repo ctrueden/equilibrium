@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-5e.py — 5etools rules tooltips for the local (GM) site build.
+dnd5e.py — 5etools rules tooltips for the local (GM) site build.
 
 Usage:
-    _bin/5e.py              # clone if needed, resolve, write data
-    _bin/5e.py -v           # also list every resolved reference
-    _bin/5e.py --no-clone   # never touch the network
-    _bin/5e.py --lookup "Sneak Attack" [--edition 2024]
+    _bin/dnd5e.py              # clone if needed, resolve, write data
+    _bin/dnd5e.py -v           # also list every resolved reference
+    _bin/dnd5e.py --no-clone   # never touch the network
+    _bin/dnd5e.py --lookup "Sneak Attack" [--edition 2024]
 
 The 5etools data (https://github.com/5etools-mirror-3) aggregates published
 D&D content that is not licensed for redistribution, so it is never

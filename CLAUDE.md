@@ -367,7 +367,7 @@ sheet in two columns.
 In local GM builds, the names on a sheet (features, spells, weapons,
 equipment, skills, senses, languages, condition immunities) link to their
 rules on 2014.5e.tools / 5e.tools, with the rules text in a hover tooltip.
-`_bin/5e.py` (run by `_bin/go.sh`; rerun it after editing a sheet)
+`_bin/dnd5e.py` (run by `_bin/go.sh`; rerun it after editing a sheet)
 resolves the names against the 5etools data and writes the gitignored
 `_data/dnd5e.json` (plus any images, in `assets/5etools/`). The 5etools
 data is NOT redistributable: the script clones it into the gitignored
@@ -420,7 +420,7 @@ printing a NOTE for each discrepancy so it can be checked.
   blurbs; write a YAML of corrections and `_bin/descriptions.py apply edits.yaml`.
   Blurbs must not reveal GM-only notes; length should track involvement.
 - **Check rules tooltips on charsheets:**
-  `_bin/5e.py` and review the unresolved names (add `ref:`s, fix typos)
+  `_bin/dnd5e.py` and review the unresolved names (add `ref:`s, fix typos)
 - **Run actor ingest:**
   `_bin/ingest-actor.py <json>` and review output
 - **Scaffold a new dossier stub:**

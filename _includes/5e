@@ -1,9 +1,9 @@
 {%- comment -%}
 Rules tooltips: the tooltip contents for the 5etools rules referenced on
-this page, and the script that shows them (see _bin/5e.py).
+this page, and the script that shows them (see _bin/dnd5e.py).
 
 _data/dnd5e.json exists only in local (GM) builds, after running
-_bin/5e.py; without it, this include outputs nothing.
+_bin/dnd5e.py; without it, this include outputs nothing.
 {%- endcomment -%}
 {%- if site.data.dnd5e -%}
 {%- assign _ft = site.data.dnd5e.pages[page.path] -%}
