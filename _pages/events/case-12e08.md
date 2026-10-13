@@ -22,6 +22,9 @@ The other agents continue to advance cautiously until they are outside the thres
 
 {% include img pinimg="e7d4d0eed01f418dd94354a1d0d5219d.jpg" pin=283375001525217177 width=200 %}
 
+<!-- alternate 1: https://i.pinimg.com/originals/d7/12/ac/d712ac25a50fbeb030c335729023f76f.jpg -->
+<!-- alternate 2: https://i.pinimg.com/originals/29/bf/f1/29bff1d939e9485fb207874872220c14.jpg -->
+
 Speaking in a masculine voice, the knight demands they cease their attempts to interfere with the Fruit, or face destruction. "Leave or perish. The fruit must not be disturbed." The scholars in the group recognize this figure as a Green Knight, a supernatural fey creature summoned to aid the cause of the wilds in times of need.
 
 Bec kneels and explains to the knight that we need the Fruit or the tree will perish anyway.
