@@ -205,6 +205,7 @@
         </details>
         {%- endif -%}
 
+        {%- assign rules = site.data.dnd5e.pages[page.path].html -%}
         {%- if page.items -%}
         <details class="sidebar-section" open>
           <summary>Items</summary>
@@ -214,7 +215,10 @@
                 {%- if item.wiki -%}
                   <a href="{{ item.wiki }}">{{ item.name }}</a>
                 {%- elsif item.rules -%}
+                  {%- assign rk = "item:" | append: item.name -%}
+                  {%- if rules[rk] -%}{{ rules[rk] }}{%- else -%}
                   <a href="{{ item.rules }}" target="_blank" rel="noopener">{{ item.name }}</a>
+                  {%- endif -%}
                 {%- elsif item.name -%}
                   {{ item.name }}
                 {%- else -%}
@@ -236,7 +240,10 @@
                 {%- if spell.wiki -%}
                   <a href="{{ spell.wiki }}">{{ spell.name }}</a>
                 {%- elsif spell.rules -%}
+                  {%- assign rk = "spell:" | append: spell.name -%}
+                  {%- if rules[rk] -%}{{ rules[rk] }}{%- else -%}
                   <a href="{{ spell.rules }}" target="_blank" rel="noopener">{{ spell.name }}</a>
+                  {%- endif -%}
                 {%- else -%}
                   {{ spell.name }}
                 {%- endif -%}

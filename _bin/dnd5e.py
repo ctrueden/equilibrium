@@ -1326,6 +1326,26 @@ class Builder:
                 out.append(html.escape(piece, quote=False))
         return ''.join(out) if hit else None
 
+    def session(self, rel, fm):
+        """Links the sidebar items and spells of a session page that have a
+        `rules:` URL (see review-session.py). The edition follows the URL."""
+        out, tips = {}, {}
+        for field, kind, key in (('items', 'equipment', 'item'), ('spells', 'spell', 'spell')):
+            for entry in fm.get(field) or []:
+                if not (isinstance(entry, dict) and entry.get('name') and entry.get('rules')):
+                    continue
+                if entry.get('wiki'):
+                    continue
+                edition = '2014' if '//2014.5e.tools/' in str(entry['rules']) else '2024'
+                ctx = Context(edition, kind=kind)
+                name = str(entry['name'])
+                e = self.find(clean_name(name), ctx)
+                self.note(rel, key, name, e)
+                html_ = e and self.link(name, e, tips)
+                if html_:
+                    out[f'{key}:{name}'] = html_
+        return out, tips
+
     def includes(self, rel, body, fm, ctx, refs, tips):
         for m in re.finditer(r'\{%-?\s*include\s+rule\s+(.*?)-?%\}', body):
             am = re.search(r'ref\s*=\s*"([^"]*)"|ref\s*=\s*\'([^\']*)\'', m.group(1))
@@ -1343,7 +1363,7 @@ class Builder:
     def scan(self):
         for path in sorted(PAGES.rglob('*.md')):
             text = path.read_text(encoding='utf-8')
-            if 'charsheet' not in text and 'include rule' not in text:
+            if 'charsheet' not in text and 'include rule' not in text and 'rules: "http' not in text:
                 continue
             fm, body = read_page(path)
             if fm is None:
@@ -1351,12 +1371,16 @@ class Builder:
             rel = path.relative_to(ROOT).as_posix()
             is_sheet = fm.get('layout') == 'charsheet' and fm.get('cs')
             has_includes = 'include rule' in body
-            if not (is_sheet or has_includes):
+            is_session = fm.get('layout') == 'session' and 'rules: "http' in text
+            if not (is_sheet or has_includes or is_session):
                 continue
             if self.verbose:
                 print(rel)
             if is_sheet:
                 ctx, fields, tips = self.charsheet(rel, fm, body)
+            elif is_session:
+                ctx = Context(fm.get('rules', 2014))
+                fields, tips = self.session(rel, fm)
             else:
                 ctx, fields, tips = Context(fm.get('rules', 2014)), {}, {}
             refs = {}
