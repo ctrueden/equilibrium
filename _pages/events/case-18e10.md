@@ -5,7 +5,7 @@ description: >-
 datestamp: 50-06-14/10
 when: AC50 Vis 22
 session-number: 107
-session-date: 2026-12-12
+session-date: 2027-01-16
 layout: session
 ---
 
