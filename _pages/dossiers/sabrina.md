@@ -15,7 +15,7 @@ statbox:
   gender: female
   class: psion
   tribe: Malosi
-  case: "06"
+  case: ["06", "13"]
 descriptions:
   - session: "06e03"
     content: |

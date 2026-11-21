@@ -12,7 +12,7 @@ statbox:
   race: giant (goliath)
   gender: female
   tribe: Malosi
-  case: "06"
+  case: ["06", "17"]
 descriptions:
   - session: "06e03"
     content: |

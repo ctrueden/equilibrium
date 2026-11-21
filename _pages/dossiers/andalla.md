@@ -8,7 +8,7 @@ statbox:
   class: dragon shaman
   tribe: Malosi
   pronunciation: "Ahn-DAH-lah"
-  case: "06"
+  case: ["06", "13"]
 descriptions:
   - session: "06e03"
     content: |
