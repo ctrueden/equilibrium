@@ -285,8 +285,8 @@ classic_summary: >-
   attempting to purge the remaining corruption — and when her strength gave out,
   she merged her essence with Callie's, allowing the gnome cleric to channel the
   power of three divine presences at once. The healing that followed was
-  complete and immediate. Taelin's eyes opened clear, and for the first time in
-  years, she remembered who she was. Now, with Taelin restored and a lead on the
+  complete and immediate. Taelin's eyes opened clear, and she fully remembered
+  who she was. Now, with Taelin restored and a lead on the
   carafe's location secured through the city's underworld, the party stands
   ready to move — and Ozborn, coin purse in hand, assures everyone that he has a
   plan...
