@@ -1,8 +1,10 @@
 ---
 
 title: Lamp of Seeming
-image: https://theromantic.com/wp-content/uploads/2015/07/romantic-genie-lamp-care-package-ideas.jpg
-image-source: https://theromantic.com/stories/carepackages/carepackages19.htm
+image-source: https://www.pinterest.com/pin/334955291054505038/
+image: https://i.pinimg.com/originals/c0/a5/f5/c0a5f58ccb41b30258f75bdb45926f88.jpg
+#image: https://theromantic.com/wp-content/uploads/2015/07/romantic-genie-lamp-care-package-ideas.jpg
+#image-source: https://theromantic.com/stories/carepackages/carepackages19.htm
 descriptions:
   - session: "05e01"
     content: |
