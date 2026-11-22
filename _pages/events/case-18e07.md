@@ -1,7 +1,7 @@
 ---
 title: "[18e07] The Hostile Hostel"
 description: >-
-  TODO
+  The agents flee Xarlus's apartment with their witness in tow, but a fire-wreathed young warlock refuses to let them go.
 datestamp: 50-06-14/07
 when: AC50 Vis 22
 session-number: 104

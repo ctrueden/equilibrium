@@ -1,7 +1,7 @@
 ---
 title: "[18e03] My Sun and My Stars"
 description: >-
-  TODO
+  The agents meet Kerwin Ulvas and see his cursed carafe firsthand, then stake out his office as rainbow-cloaked visitors arrive after dark.
 datestamp: 50-06-14/03
 when: AC50 Vis 22
 session-number: 100

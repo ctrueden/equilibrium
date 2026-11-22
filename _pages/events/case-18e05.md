@@ -1,7 +1,7 @@
 ---
-title: "[18e05] TBD"
+title: "[18e05] You Say Tomato, I Say Potato"
 description: >-
-  TODO
+  Taelin falls apart as the carafe's hold on her mind dissolves, while Freki and Ozborn hunt down the bodyguard who robbed her.
 datestamp: 50-06-14/05
 when: AC50 Vis 22
 session-number: 102

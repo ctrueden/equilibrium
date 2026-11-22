@@ -1,7 +1,7 @@
 ---
 title: "[18e04] Tailin' Taelin"
 description: >-
-  TODO
+  Spying on Kerwin's late-night meeting with the Noffindorfs, the agents witness a murder, then fall into step beside the killer.
 datestamp: 50-06-14/04
 when: AC50 Vis 22
 session-number: 101

@@ -1,7 +1,7 @@
 ---
-title: "[18e06] TBD"
+title: "[18e06] Interview Interrupted"
 description: >-
-  TODO
+  Mallory briefs the agents on Kerwin's murder, and they track down his finance manager Xarlus Shale, until the Warlocks of Asmodeus come knocking.
 datestamp: 50-06-14/06
 when: AC50 Vis 22
 session-number: 103
@@ -32,7 +32,7 @@ summary: >-
   weeks.
 
 
-  Mallory explained that Kerwin's firm, Ursion and Brass, had already filed a
+  Mallory explained that Kerwin's law firm, Ursion and Brass, had already filed a
   brief arguing that voluntary and prolonged use of the carafe diminished the
   original seller's liability—a legal argument, not yet precedent, but one that
   could help [Callie](../dossiers/callie)'s defense. He was clear about the limits of [SPI](../orgs/spi)'s

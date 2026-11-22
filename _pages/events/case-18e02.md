@@ -1,7 +1,7 @@
 ---
 title: "[18e02] Kind of a Craphole"
 description: >-
-  TODO
+  The agents meet Vex Morradine at the neglected Minauros branch and are hired by the imperious Serelda Voth, whose ex-husband is hooked on a cursed coffee pot he acquired from Callie's shop.
 datestamp: 50-06-14/02
 when: AC50 Vis 22
 session-number: 99

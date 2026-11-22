@@ -1,7 +1,7 @@
 ---
 title: "[18e01] Two Vondals, One Pipe"
 description: >-
-  TODO
+  Vondal participates in a changeling ritual in Alye'adu, and the agents ready themselves for Trell, where a mysterious client has asked for Callie by name.
 datestamp: 50-06-14/01
 when: AC50 Vis 22
 session-number: 98
