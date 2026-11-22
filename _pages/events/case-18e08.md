@@ -8,7 +8,7 @@ session-number: 105
 session-date: 2026-11-21
 layout: session
 callie_journal: >-
-  There's some wibbly-wobbly timey-wimey nonsense. The whole scene wavers like hot pavement. Also, there's throat singing and it starts to snow. Things are weird, man! The last time this happened there was a centaur, I'm pretty sure. I don't see one here, though.
+  There's some wibbly-wobbly timey-wimey nonsense. The whole scene wavers like hot pavement. Also, there's throat singing and it starts to snow. Things are weird, man! The last time this happened there was [a centaur](../dossiers/talos), I'm pretty sure. I don't see one here, though.
 
 
   The older warlock binds [Vael](../dossiers/vael), the younger one, which further infuriates the young hothead. He calls upon [Asmodeus](../dossiers/asmodeus) for more power, and it looks like he got his wish. His whole body is engulfed in magical flames and he rises off the ground.
@@ -41,7 +41,7 @@ callie_journal: >-
   Bec thinks maybe I should get Freki out of the cage, but I dunno, I think as soon as Asmodeus takes Vael out of this plane of existence, that cage is gone. Suddenly, the cage IS GONE. I don't think I wet 'em, but it might be close.
 
 
-  Anyway, Bec says she doesn't think there's anything that she'd be willing to trade. [Oz](../dossiers/oz) fear-stammers that he would totally make a wish. "What would you be willing to trade? Those daggers?" Asmodeus asks.
+  Anyway, Bec says she doesn't think there's anything that she'd be willing to trade. [Oz](../dossiers/oz) fear-stammers that he would totally make a wish. "What would you be willing to trade? [Those daggers](../relics/cornucopia)?" Asmodeus asks.
 
 
   Bec pokes Oz and suggests -- strongly -- that he should not make a deal with The Actual Devil. But Oz is all about the casino life and thinks we're all nerds. This is his God now, his own Personal Savior! He sounds more earnest than I would have expected. Like maybe he senses something we don't. Like he can feel the future truth of his statements.
@@ -89,10 +89,10 @@ callie_journal: >-
   I try to push Bec out of the bubble to prevent her from making this deal. Oz is enthusiastic about making deals with Asmodeus, and Vondal takes a straight-down-the-middle lassaiz-faire approach: he won't try to stop an adult from making a deal of their own free will, no matter how ill-advised. So: opinions differ on the utility of selling one's soul. Noted!
 
 
-  However, I'm too late. Asmodeus and Bec's deal occurred. She traded the Hand of Vecna to know the secret she originally traded the hand for. That there's a substance called [Karach](../relics/karach) that can mend [Flux](../locales/flux) somehow. She'd been struggling to recall this, and now she can. That said, the rest of us don't recall.
+  I finish pushing Bec out of the bubble -- however, I'm too late. Asmodeus and Bec's deal occurred. She traded the Hand of Vecna to know the secret she originally traded the hand for. That there's a substance called [Karach](../relics/karach) that can mend [Flux](../locales/flux) somehow. She'd been struggling to recall this, and now she can. That said, the rest of us don't recall.
 
 
-  Time goes back to normal. Vael's body crumbles to dust. The old warlock is...fine, apparently. So Vael summoned Asmodeus in the hopes that Asmodeus would help him against the warlock, and Asmodeus just...didn't him that favor, I guess.
+  Time goes back to normal. Vael's body crumbles to dust. The old warlock is...fine, apparently. So Vael summoned Asmodeus in the hopes that Asmodeus would help him against the warlock, and Asmodeus just...didn't do him that favor, I guess.
 
 
   Vex is back to his normal self. The mouse is gone. The grizzled warlock flips through the pages of a notebook and says, "Tell me everything."
@@ -107,7 +107,7 @@ callie_journal: >-
   "Who the fuck are you, buddy?" says Oz.
 
 
-  "My apologies. My name is Grieve. [Haskel Grieve](../dossiers/haskel-grieve), Warlock of [Mammon](../dossiers/mammon), at your service." without a hint of servitude in his voice.
+  "My apologies. My name is Grieve. [Haskel Grieve](../dossiers/haskel-grieve), Warlock of [Mammon](../dossiers/mammon), at your service." -- without a hint of servitude in his voice.
 
 
   Bec says this is an [SPI](../orgs/spi) matter, but Grieve disagrees. He thinks this is his jurisdiction, but he proposes that we cooperate.
