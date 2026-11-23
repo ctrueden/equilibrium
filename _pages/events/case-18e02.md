@@ -153,7 +153,7 @@ summary: >-
   heart of it, bluntly asking who was sponsoring her legal action. She
   deflected, calling it a family matter, but the party was unconvinced. Vex
   Morradine, who had gone very still during the exchange, identified her legal
-  representation as Vordache &amp; Solm — a predatory corporate entity linked to
+  representation as Vordache & Solm — a predatory corporate entity linked to
   Mammon's people, known for buying up debtors and binding them into indefinite
   servitude. Serelda swept out of the office shortly after, promising to return
   the following day for a progress report.
@@ -162,7 +162,7 @@ summary: >-
   After she left, the party turned to Vex for context. He explained the ruthless
   mechanics of Trell's legal and financial systems with the weary familiarity of
   someone who had spent years operating within them, describing how Vordache
-  &amp; Solm had once sold a man into eleven years of labor over a debt that had
+  & Solm had once sold a man into eleven years of labor over a debt that had
   started as a few hundred coins. He also mentioned that the previous SPI agent
   who had opened the Minauros branch — a gnome named [Victor Rocksmith](../dossiers/victor-rocksmith) — had been
   let go for unsatisfactory performance, leaving the office in its current state
@@ -233,7 +233,7 @@ short_summary: >-
   drinking from it daily and was now addicted, unable to stop without losing the
   benefits. Though Serelda's distress was largely performative, her anger was
   genuine, and the party suspected deeper motives. Vex identified her legal
-  representation as Vordache &amp; Solm, a predatory firm tied to [Mammon](../dossiers/mammon)'s
+  representation as Vordache & Solm, a predatory firm tied to [Mammon](../dossiers/mammon)'s
   people, and Callie's mother confirmed via sending stone that the Voth family
   was linked to BlissCo Legal — the same company that had financed [Euphoria](../locales/euphoria) —
   urging the party to disentangle from [Trell](../locales/trell)'s legal system quickly. With Vondal
@@ -264,7 +264,7 @@ classic_summary: >-
   cursed coffee pot that had left her ex-husband addicted, charming, and
   apparently unspeakable to look at. [Callie](../dossiers/callie) recognized the sale — a rude man who
   had refused to hear about the side effects — and Vex identified Serelda's
-  legal representation as Vordache &amp; Solm, a predatory firm with deep ties
+  legal representation as Vordache & Solm, a predatory firm with deep ties
   to Mammon's people. A message to Callie's mother confirmed the worst: the Voth
   family was linked to BlissCo Legal, the same company that had financed
   [Euphoria](../locales/euphoria).
@@ -566,7 +566,7 @@ scenes:
         quickly.
       - >-
         Vex Morradine identifies the woman's legal representation as connected
-        to 'Vordache &amp; Solm,' a predatory lawfirm linked to [Mammon](../dossiers/mammon)'s people,
+        to 'Vordache & Solm,' a predatory lawfirm linked to [Mammon](../dossiers/mammon)'s people,
         known for buying and enslaving debtors.
       - >-
         Serelda performs her outrage for the party, but the more perceptive
@@ -590,7 +590,7 @@ scenes:
     key_events:
       - >-
         Vex Morradine explains the ruthless nature of Trell's legal and
-        corporate systems, describing how Vordache &amp; Solm once sold a
+        corporate systems, describing how Vordache & Solm once sold a
         defaulting debtor into indefinite employment for a debt of $40,000.
       - >-
         The party reviews the history of a theme park transaction involving the
@@ -672,7 +672,7 @@ npcs:
   - name: Serelda Voth
     wiki: ../dossiers/serelda-voth
     description: >-
-      A wealthy Tiefling woman from a minor branch of the Abermach family,
+      A wealthy Tiefling woman from a minor branch of an Abriymoch family,
       representing 'old money.' She arrived at the SPI office to demand the
       recovery of a cursed coffee pot sold by Callie's family, serving legal
       papers for a tort filing in Abderlock court. Her outrage is performative,

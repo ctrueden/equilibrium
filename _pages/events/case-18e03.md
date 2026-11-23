@@ -652,7 +652,7 @@ scenes:
         Kerwin says he would be willing to part with it under those conditions.
       - >-
         Kerwin boasts about his legal protection, mentioning his lawyers at
-        Ursium and Brass and his intent to countersue his ex-wife.
+        Ercian & Brass and his intent to countersue his ex-wife.
       - >-
         Freki creates a bizarre distraction by scooting his rear across Kerwin's
         expensive hand-woven rug, claiming it might be worms.

@@ -27,18 +27,18 @@ summary: >-
   walked the team through the key players: [Serelda Voth](../dossiers/serelda-voth), Kerwin's former wife,
   who had filed a sweeping legal complaint against Callie Rockwell seeking two
   hundred thousand gold pieces in damages and the submission of the carafe as
-  evidence; and the law firm Vorak and Solm, who represented her and had
+  evidence; and the law firm Vordache & Solm, who represented her and had
   apparently been strategizing around Kerwin's own preemptive legal filing for
   weeks.
 
 
-  Mallory explained that Kerwin's law firm, Ursion and Brass, had already filed a
+  Mallory explained that Kerwin's law firm, Ercian & Brass, had already filed a
   brief arguing that voluntary and prolonged use of the carafe diminished the
   original seller's liability—a legal argument, not yet precedent, but one that
   could help [Callie](../dossiers/callie)'s defense. He was clear about the limits of [SPI](../orgs/spi)'s
   involvement: they would protect Callie physically and facilitate her access to
   legal counsel, but they would not bury evidence or coerce witnesses. He
-  recommended the firm Perdition Mitigation, which had an office in Abermach,
+  recommended the firm Perdition Mitigation, which had an office in Abriymoch,
   and suggested Callie's family connections might already open that door.
 
 
@@ -181,7 +181,7 @@ short_summary: >-
   [Mallory](../dossiers/mallory) at [SPI Headquarters](../locales/spi-hq)—confirmed genuine by [Freki](../dossiers/freki)'s nose—who informed
   them that [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead that morning, with the Warlocks of
   the Archfiend already sealing the scene. Mallory outlined the key players,
-  including Kerwin's ex-wife [Serelda Voth](../dossiers/serelda-voth) and her legal team at Vorak and Solm,
+  including Kerwin's ex-wife [Serelda Voth](../dossiers/serelda-voth) and her legal team at Vordache & Solm,
   the potentially invaluable witness [Taelin Fosse](../dossiers/taelin-fosse), and the dangerous bodyguards
   [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen)—the latter believed to be in possession of the missing
   carafe. He assigned five investigative priorities, funded the team with five
@@ -463,7 +463,7 @@ scenes:
       - >-
         Mallory explains the legal situation regarding Serelda Voth's lawsuit
         and the potential defense strategies, including a preemptive filing by
-        Kerwin's law firm, Ursion and Brass.
+        Kerwin's law firm, Ercian & Brass.
       - >-
         [Taelin Fosse](../dossiers/taelin-fosse) is identified as a crucial legal asset due to her
         professional background and firsthand experience with the carafe's
@@ -779,7 +779,7 @@ npcs:
       The former wife of Kerwin Ulvas who has filed a significant tort action
       against Callie Rockwell, seeking 200,000 gold pieces in damages and the
       submission of the carafe as evidence. She has family connections to BlissCo
-      and is represented by the law firm Vorak and Solm Abermach.
+      and is represented by the law firm Vordache & Solm.
   - name: Galloc
     wiki: ../dossiers/galloc
     description: >-
