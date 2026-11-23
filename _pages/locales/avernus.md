@@ -10,6 +10,8 @@ statbox:
   - Mining
   - Obsidian and crystal extraction
   - Labor exploitation
+  type: island
+  nation: "[The Trell Archipelago](trell)"
 ---
 
 A volcanic island transformed into an industrial heartland. Avernus is the engine of Trell's economy, where raw materials are extracted and processed into finished goods through brutal, relentless labor. The landscape itself—jagged obsidian and quartz crystals jutting from barren hills and lava-scarred terrain—serves as both resource and hazard, cutting and slicing any who move too carelessly.

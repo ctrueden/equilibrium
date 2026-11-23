@@ -1,5 +1,9 @@
 ---
 title: Rockwell Manor
+statbox:
+  type: site
+  nation: "[Cognitutus](cognitutus)"
+  case: ["11"]
 descriptions:
   - session: "11e01"
     content: |

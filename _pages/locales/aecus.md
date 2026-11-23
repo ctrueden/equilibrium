@@ -1,6 +1,8 @@
 ---
 title: Aecus
 image-map: /equilibrium/assets/images/aecus-map.jpg
+statbox:
+  type: world
 ---
 
 {% include img page="locales/aecus" variant="map" link="../assets/images/aecus-map.jpg" style="max-height: 80vh" %}

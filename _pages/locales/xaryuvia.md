@@ -1,11 +1,12 @@
 ---
-
-
-
 title: Xaryuvia
 aliases: [Zaryudia]
 image: https://i.pinimg.com/736x/83/a6/fa/83a6fa58c250c88ac12f2780193cd284.jpg
 image-source: https://www.pinterest.com/pin/underground-ruins--660129257856385016/
+statbox:
+  type: site
+  nation: "[Arallu](arallu)"
+  case: ["15", "16", "17", "18"]
 descriptions:
   - session: "15e00"
     content: |

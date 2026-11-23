@@ -12,6 +12,8 @@ statbox:
   - Archives and documentation
   - Diplomacy and arbitration
   - Contract enforcement
+  type: island
+  nation: "[The Trell Archipelago](trell)"
 ---
 
 A byzantine labyrinth of information where every deed, contract, and document of the Trell archipelago eventually finds its way to an archive. Maladomini is the heart of Trell's bureaucratic machinery, where permits are filed, NDAs are archived, contracts are recorded, and the paper trail of commerce is meticulously maintained.

@@ -11,6 +11,9 @@ statbox:
   - Black market adjacency
   - Extreme wealth inequality
   - Soul indentured servitude
+  type: island
+  nation: "[The Trell Archipelago](trell)"
+  case: ["18"]
 ---
 
 An economic powerhouse steeped in ramshackle chaos, the island of Minauros serves as Trell's international commerce and financial hub, where ships laden with goods arrive and depart in constant motion. Despite Minauros's muddy and barren landscape, the harbor teems with activity: shipping magnates, merchants, smugglers, and black market operators all conduct business in close proximity, their interests overlapping in murky ways.

@@ -1,7 +1,4 @@
 ---
-
-
-
 title: Sepulchralis
 image: https://i.pinimg.com/originals/a2/af/15/a2af1577d103409597de3ad3abdd0f0c.jpg
 image-source: https://www.pinterest.com/pin/346143921363833462/
@@ -39,6 +36,10 @@ image-grey-cavern: https://i.pinimg.com/736x/78/8d/fe/788dfe3a0c4f6d8803d8ca046a
 image-grey-cavern-source: https://www.pinterest.com/pin/4362930880231127/
 image-spiral-pool: https://i.pinimg.com/736x/a8/94/8b/a8948b904c393a05ed8655cac403bdb7.jpg
 image-spiral-pool-source: https://www.pinterest.com/pin/572449802628423135/
+statbox:
+  type: city
+  nation: "[Arallu](arallu)"
+  case: ["14", "15", "17"]
 descriptions:
   - session: "14e01"
     content: |

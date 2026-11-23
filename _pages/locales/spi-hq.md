@@ -1,13 +1,9 @@
 ---
-
-
-
-
-
-
-
 nav-title: SPI HQ
 title: SPI Headquarters
+statbox:
+  type: site
+  case: ["01", "02", "07", "08", "09", "10", "11", "12", "14", "15", "16", "18"]
 descriptions:
   - session: "02e02"
     content: |

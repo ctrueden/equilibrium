@@ -1,5 +1,8 @@
 ---
 title: Porta
+statbox:
+  type: city
+  nation: "[The Zephyr Federation](zephyr)"
 ---
 
 In the city of Porta, dragonborn soldiers keep the peace.

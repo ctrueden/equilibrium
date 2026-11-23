@@ -17,6 +17,8 @@ statbox:
   - S: deepwood
   - W: arallu
   - NW: ocean
+  type: nation
+  case: ["12", "16"]
 ---
 
 In the deep south lies a sprawling forest, home to the [elven people](../creatures/elves) and many other sylvan races. The forest's crowning feature is the Yggdrasil, the World Tree, said to have been planted at the dawn of time by the gods themselves.

@@ -1,5 +1,4 @@
 ---
-
 title: Skyrealm
 image: https://i.pinimg.com/originals/42/81/0f/42810fdb7c4db8b06576e39678e0ce5d.jpg
 image-source: https://www.pinterest.com/pin/359443614007132732/
@@ -12,6 +11,9 @@ statbox:
   - gargoyles
   cities:
   - aether
+  type: region
+  nation: "[The Zephyr Federation](zephyr)"
+  case: ["14"]
 ---
 
 Skyrealm is the northernmost part of the [Zephyr Federation](zephyr).

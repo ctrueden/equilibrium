@@ -1,5 +1,4 @@
 ---
-
 title: Cognitutus
 statbox:
   races:
@@ -13,6 +12,8 @@ statbox:
   - N: trell
   - S: arallu
   - W: ocean
+  type: nation
+  case: ["10", "11", "17", "18"]
 image: https://i.pinimg.com/originals/3b/ad/62/3bad6293be0e4802b87463065e98b213.png
 image-source: https://www.pinterest.com/pin/78320481014235853/
 descriptions:

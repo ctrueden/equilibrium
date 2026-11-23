@@ -10,6 +10,8 @@ statbox:
   - Ultra-wealth
   - Exclusive enclaves
   - Gated communities
+  type: island
+  nation: "[The Trell Archipelago](trell)"
 ---
 
 The seat of absolute power and the true heart of Trell. Nessus is an exclusive enclave reserved for the ultra-wealthy and most powerful entities in the archipelago. While the other islands serve specific economic functions—manufacturing, trade, law, research—Nessus exists to consolidate and celebrate power itself.

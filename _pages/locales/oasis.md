@@ -1,8 +1,11 @@
 ---
-
 title: Oasis
 image: https://i.pinimg.com/originals/b0/d5/56/b0d556289db36dfc2b8e293fc9ec443b.jpg
 image-source: https://www.pinterest.com/pin/187321665743002265/
+statbox:
+  type: city
+  nation: "[The Radiant Union of Pelor](rup)"
+  case: ["07", "10", "14"]
 descriptions:
   - session: "10e02"
     content: |

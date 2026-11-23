@@ -1,5 +1,9 @@
 ---
 title: Acrid Marshes
+statbox:
+  type: region
+  nation: "[Arallu](arallu)"
+  case: ["17"]
 descriptions:
   - session: "17e02"
     content: |

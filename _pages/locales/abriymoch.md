@@ -8,6 +8,8 @@ statbox:
   - "[Vordache & Solm](../orgs/vordache-solm)"
   - "[Ercian & Brass](../orgs/ercian-brass)"
   - "[Perdition Mitigation](../orgs/perdition-mitigation)"
+  type: city
+  case: ["18"]
 ---
 
 The great city of [Phlegethos](phlegethos), and the judicial center of

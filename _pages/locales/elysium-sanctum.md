@@ -1,8 +1,11 @@
 ---
-
 title: Elysium, Sanctum of the Reaped Harvest
 image: https://i.pinimg.com/736x/de/41/13/de41138d6526dcb337ec735d8575fd2f.jpg
 image-source: https://www.pinterest.com/pin/817403401100502888/
+statbox:
+  type: site
+  nation: "[Arallu](arallu)"
+  case: ["15"]
 descriptions:
   - session: "15e06"
     content: |

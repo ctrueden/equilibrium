@@ -2,6 +2,8 @@
 title: Bastion, Hall of Hyperion
 image: https://i.pinimg.com/originals/6e/d8/03/6ed8031a90d59e485145147d4d0a572f.jpg
 image-source: https://www.pinterest.com/pin/6544361939537432/
+statbox:
+  type: site
 ---
 
 > But one of the whole mammoth-brood still kept  

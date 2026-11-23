@@ -1,0 +1,69 @@
+{%- comment -%}
+Filtering for a gallery of pages (see the gallery include), by their statbox
+classes. Place the filters before the gallery, as a <div id="filters">
+containing one <select> per statbox key, whose id is the key and whose option
+values are slugified statbox values. Option "all" matches every page; option
+"other" matches pages with no value for the key, or with an unlisted value.
+A value matches its sub-values too: "undead" matches "undead-vampire".
+{%- endcomment -%}
+<style>
+#filters label {
+  margin-left: 1em;
+}
+#filters select {
+  margin-bottom: 1em;
+}
+#filters .item {
+  white-space: nowrap;
+}
+</style>
+
+<script>
+// Whether the class names a value of the given key, or a sub-value of it.
+function isValue(cls, key, value) {
+  var prefix = `${key}-${value}`;
+  return cls == prefix || cls.startsWith(`${prefix}-`);
+}
+
+function hasValue(item, key, value) {
+  for (const cls of item.classList) {
+    if (isValue(cls, key, value)) return true;
+  }
+  return false;
+}
+
+// Whether the item has no value for the key, or a value no option covers.
+function hasOtherValue(item, key) {
+  var listed = Array.from(document.getElementById(key).options)
+    .map(o => o.value).filter(v => v != 'all' && v != 'other');
+  var hasAny = false;
+  for (const cls of item.classList) {
+    if (!cls.startsWith(`${key}-`)) continue;
+    hasAny = true;
+    if (!listed.some(v => isValue(cls, key, v))) return true;
+  }
+  return !hasAny;
+}
+
+function matchesFilter(item, key, value) {
+  if (value == 'all') return true;
+  if (value == 'other') return hasOtherValue(item, key);
+  return hasValue(item, key, value);
+}
+
+function refreshVisibleItems() {
+  var selects = document.querySelectorAll('#filters select');
+  document.getElementById('gallery').querySelectorAll('div').forEach(function(item) {
+    var enabled = Array.from(selects).every(s => matchesFilter(item, s.id, s.value));
+    item.style.display = enabled ? 'inline-block' : 'none';
+  });
+}
+
+document.querySelectorAll('#filters select').forEach(function(s) {
+  s.addEventListener('change', refreshVisibleItems);
+});
+</script>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

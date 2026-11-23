@@ -1,7 +1,4 @@
 ---
-
-
-
 title: Arallu
 
 image: https://i.pinimg.com/originals/7f/87/d6/7f87d6ffc6a7098c890436481cf9ad1c.jpg
@@ -31,6 +28,8 @@ statbox:
     E: elyria
     NE: flux
     SW: glacier
+  type: nation
+  case: ["02", "07", "14", "15", "16", "17", "18"]
 descriptions:
   - session: "14e01"
     content: |

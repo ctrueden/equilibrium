@@ -11,6 +11,8 @@ statbox:
   - Bureaucracy
   - Middle-class commerce
   - Retail
+  type: island
+  nation: "[The Trell Archipelago](trell)"
 ---
 
 A paranoia-driven fortress-metropolis island so tremendous and sprawling it could be infinite—a labyrinthine maze that defies possibility, where one could wander the streets forever and get nowhere. Several miles tall and hundreds of miles across, Dis is both prison and commerce hub, where every transaction is logged, every movement tracked, every conversation monitored through the technomagic networks maintained by Omni Analytics.

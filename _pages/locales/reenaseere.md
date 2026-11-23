@@ -1,5 +1,9 @@
 ---
 title: Reena'seere
+statbox:
+  type: city
+  nation: "[Elyria](elyria)"
+  case: ["14"]
 ---
 
 A large town in northern Elyria, home to both humans and elves.

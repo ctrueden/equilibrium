@@ -11,6 +11,8 @@ statbox:
   - Maritime commerce
   - Bitter cold and harsh labor
   - Refugees and displaced persons
+  type: island
+  nation: "[The Trell Archipelago](trell)"
 ---
 
 A frozen hellscape of ice, snow, and violent seas, Stygia is the poorest of Trell's nine islands, a land of harsh maritime labor and bitter survival. The Great Sea surrounding it creates crucial shipping routes connecting all of Trell's islands to the wider world, making Stygia a vital nexus of commerce despite its brutal conditions.

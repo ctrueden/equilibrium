@@ -1,16 +1,4 @@
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 title: The Flux
 image: https://i.pinimg.com/originals/6f/17/84/6f17849499ed65465b5d5e10e9050bf3.jpg
 image-source: https://www.pinterest.com/pin/785948572465860728/
@@ -35,6 +23,8 @@ statbox:
   - SW: arallu
   - W: ocean
   - NW: trell
+  type: region
+  case: ["04", "05", "06", "07", "09", "10", "12", "13", "14", "15", "16", "17", "18"]
 descriptions:
   - session: "13e04"
     content: |

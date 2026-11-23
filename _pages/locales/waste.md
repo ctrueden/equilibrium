@@ -7,6 +7,8 @@ image3-source: https://www.pinterest.com/pin/370984088066572753/
 image4-source: https://www.pinterest.com/pin/360991726391964189/
 image5-source: https://www.pinterest.com/pin/598908450465472097/
 image6-source: https://www.pinterest.com/pin/122512052352427613/
+statbox:
+  type: region
 ---
 
 The [desert](desert) to the northeast is increasingly inhospitable further from the [Flux](flux), until even the sand dunes have been ground down to dust, with literally nothing else as far as the eye can see.

@@ -1,5 +1,4 @@
 ---
-
 nav-title: Trell
 image: https://i.pinimg.com/originals/8e/a5/3f/8ea53f6bd72e7cb1cb92df77622faaac.jpg
 image-source: https://www.pinterest.com/pin/726275877424302645/
@@ -31,6 +30,8 @@ statbox:
     SW: ocean
     W: ocean
     NW: hurricane
+  type: nation
+  case: ["04", "07", "14", "18"]
 descriptions:
   - session: "14e00"
     content: |

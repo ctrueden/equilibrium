@@ -12,6 +12,8 @@ statbox:
   - Potion manufacturing
   - Enchanting
   - Forbidden knowledge
+  type: island
+  nation: "[The Trell Archipelago](trell)"
 ---
 
 An island of living cold where arcane research thrives in frozen isolation. Cania serves as Trell's center for magical innovation and dangerous experimentation. Universities, laboratories, and enchanting facilities dot the frozen landscape, where researchers investigate cursed artifacts, develop new magical techniques, and push the boundaries of what is possible through magic.

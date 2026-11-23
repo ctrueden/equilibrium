@@ -20,6 +20,8 @@ statbox:
     S: veldt
     SW: flux
     NE: waste
+  type: nation
+  case: ["01", "02", "08", "10", "14", "15", "18"]
 ---
 
 The inhospitable desert lands in the northeast are governed by a [paladin](https://dungeonsdragons.fandom.com/wiki/Paladin) order known as the Luminous Defenders pledged to preserve and protect all life.

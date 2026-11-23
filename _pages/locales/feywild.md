@@ -1,8 +1,11 @@
 ---
-
-title: Feywild
+nav-title: Feywild
+title: The Feywild
 image: https://i.pinimg.com/originals/75/69/93/7569937dc147a3652518e62f1ddf2351.png
 image-source: https://www.pinterest.com/pin/576671927302447877/
+statbox:
+  type: plane
+  case: ["12", "15", "16"]
 descriptions:
   - session: "12e05"
     content: |

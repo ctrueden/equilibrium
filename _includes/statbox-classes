@@ -23,6 +23,14 @@ Produces slugified class names from a given page's statbox entries.
       {%- comment -%} Coerce value to string. {%- endcomment -%}
       {%- capture v -%} {{- val -}} {%- endcapture -%}
 
+      {%- comment -%}
+        Use a link's target page name: "[The Radiant Union](../locales/rup)" => "rup".
+      {%- endcomment -%}
+      {%- if v contains "](" -%}
+        {%- assign v = v | split: "](" | last | split: ")" | first
+          | split: "#" | first | split: "/" | last -%}
+      {%- endif -%}
+
       {%- comment -%} Convert key/value pair to web-case class name. {%- endcomment -%}
       {%- capture class -%} {{key | slugify}}-{{v | slugify}} {%- endcapture -%}
 

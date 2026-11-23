@@ -1,0 +1,31 @@
+{%- comment -%}
+A case filter for the gallery-filters include. Update it with each new case.
+{%- endcomment -%}
+  <span class="item">
+    <label for="case">Case</label>
+    <select id="case" name="case">
+      <option value="all">All</option>
+      <option value="01">[01] Petrification and Putrifaction | RUP: Haven</option>
+      <option value="02">[02] Exchange and Extortion | RUP: Haven</option>
+      <option value="03">[03] Punctuality and Perpetuity | Mountain</option>
+      <option value="04">[04] Ingestion and Incoherency | Trell: Euphoria</option>
+      <option value="05">[05] Tumbling and Transcendence | Zephyr: Porta</option>
+      <option value="06">[06] Mutilation and Metamorphosis | Selva</option>
+      <option value="07">[07] Hazards and Harbingers | Arallu</option>
+      <option value="08">[08] Revelry and Revenge | RUP: Sanctum</option>
+      <option value="09">[09] Amalgamation and Anathema | Flux</option>
+      <option value="10">[10] Capers and Calamity | RUP: Oasis</option>
+      <option value="11">[11] Hardships and Homecomings | Cognitutus</option>
+      <option value="12">[12] Burglary and Blight | Elyria: Estanesse</option>
+      <option value="13">[13] Facts and Facsimiles | Selva/Veldt: Alye'adu</option>
+      <option value="14">[14] Animus and Annihilation | Arallu: Evershroud Manor</option>
+      <option value="15">[15] Halflings and Hemophilia | Arallu: Sepulchralis</option>
+      <option value="16">[16] Tunnels and Turpitude | The Afterworld?</option>
+      <option value="17">[17] Misery and Mending | Arallu: Acrid Marshes</option>
+      <option value="18">[18] Curses and Carafes | Trell: Minauros</option>
+    </select>
+  </span>
+
+{%- comment -%}
+# vi:syntax=liquid
+{%- endcomment -%}

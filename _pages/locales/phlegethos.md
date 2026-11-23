@@ -12,6 +12,9 @@ statbox:
   - Corporate courts
   - Wealth and luxury
   - Victory and bankruptcy
+  type: island
+  nation: "[The Trell Archipelago](trell)"
+  case: ["18"]
 ---
 
 The island of Phlegethos is the judicial center of Trell, where the fates of corporations rise and fall through legal warfare. [Abriymoch](abriymoch), with its iconic Crystalline Palace, dominates the skyline—a gleaming monument to wealth and power. This is where the boardrooms meet, where contracts are signed, where empires crumble under the weight of judicial verdicts.

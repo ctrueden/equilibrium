@@ -1,12 +1,11 @@
 ---
-
-
-
-
-
 title: Alye'adu
 image: https://i.pinimg.com/originals/1c/55/00/1c5500e20b3fdda6a0bf81f68ff68547.jpg
 image-source: https://www.pinterest.com/pin/47358233562491935/
+statbox:
+  type: city
+  nation: "[The Selva](selva)"
+  case: ["13", "14", "17", "18"]
 descriptions:
   - session: "13e02"
     content: |

@@ -1,10 +1,10 @@
 ---
-
-
-
 title: The Afterworld
 image: https://i.pinimg.com/736x/a4/6f/71/a46f71be9acabae15ebf6b1748a50ee2.jpg
 image-source: https://www.pinterest.com/pin/454089574908174759/
+statbox:
+  type: plane
+  case: ["16", "17", "18"]
 descriptions:
   - session: "16e04"
     content: |

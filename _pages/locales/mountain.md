@@ -20,7 +20,8 @@ statbox:
     SW: elyria
     W: flux
     NW: zephyr
-
+  type: nation
+  case: ["03", "07", "13", "14", "18"]
 ---
 
 [Dwarves](../creatures/dwarves) dwell beneath a colossal volcano they uncreatively call the Great Mountain, and farm the surrounding Veldt lands. Actually, the dwarves have had quite a few names for their mountain throughout history, but as clans rose and fell, the name kept being changed. Now it is a sore point for the dwarves—so as a compromise, most simply call it "the Mountain" to avoid incurring the ire of their fellows. Plus, foreigners always mangle dwarven pronunciation anyway.

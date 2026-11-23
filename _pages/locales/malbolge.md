@@ -12,6 +12,8 @@ statbox:
   - Organized crime
   - Mining and slavery
   - Soul larvae trafficking
+  type: island
+  nation: "[The Trell Archipelago](trell)"
 ---
 
 Officially a mining district, the island of Malbolge is the seat of Trell's criminal underworld—a parallel economy running beneath and intertwined with every legitimate business on the other islands. The black markets here deal in everything: illegal goods, stolen artifacts, enslaved labor, and darker commodities that dare not be named in polite company.

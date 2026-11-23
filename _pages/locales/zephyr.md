@@ -21,6 +21,8 @@ statbox:
   - "[Tiamat](../dossiers/tiamat) (LE; Trickery, War): goddess of wealth, greed and vengeance"
   - "[Bahamut](../dossiers/bahamut) (LG; Life, War): god of justice and nobility"
   - "[Sardior](../dossiers/sardior) (LN; Knowledge, Trickery): deity of night, psionics and secrets."
+  type: nation
+  case: ["05", "14", "18"]
 ---
 
 At the northern edge of the world stand the Cliffs of Transcendence, a mountain range beyond which there is no more ground, only an open expanse of sky. Masses of earth dot the skies beyond that, though; the largest of these "sky islands" is Aether, the Azure City. South of the cliffs lies the Ventosa Flatland, a windy steppe, home to the two largest cities of Zephyr: Dono and Prendo.

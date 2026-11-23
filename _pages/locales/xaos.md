@@ -1,8 +1,11 @@
 ---
-
 title: Xaos
 image: https://i.pinimg.com/originals/e7/71/44/e7714443bdc9ad8481fe4a82161ca268.jpg
 image-source: https://www.pinterest.com/pin/70437479904299/
+statbox:
+  type: city
+  nation: "[The Selva](selva)"
+  case: ["06", "18"]
 descriptions:
   - session: "06e01"
     content: |

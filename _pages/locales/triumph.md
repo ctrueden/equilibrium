@@ -1,6 +1,9 @@
 ---
-
 title: Triumph
+statbox:
+  type: city
+  nation: "[The Radiant Union of Pelor](rup)"
+  case: ["14", "17"]
 descriptions:
   - session: "14e00"
     content: |
