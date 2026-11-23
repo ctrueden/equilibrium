@@ -1,5 +1,6 @@
 ---
-title: Potato
+nav-title: Potato
+title: Potato the Tomato Plant
 image: https://i.pinimg.com/originals/b2/81/cb/b281cb48145532394624ef4d2531b032.jpg
 image-source: https://www.pinterest.com/pin/361062095113668653/
 statbox:
