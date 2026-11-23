@@ -107,7 +107,7 @@ summary: >-
   While Ozborn kept Galloc talking, Freki turned his attention to the tomato
   plants and began to commune with them in the quiet, whispering language of
   growing things. The plant he spoke with — a cheerful, chatty specimen that
-  introduced itself as Potato — turned out to be a surprisingly reliable
+  introduced itself as [Potato](../dossiers/potato) — turned out to be a surprisingly reliable
   witness. Potato confirmed that Galloc visited often, sometimes covered in
   blood, and always smoking near the leaves in a way that clogged up its little
   pores. But there was also a woman who came to the roof: a tiefling with a tail
@@ -168,7 +168,7 @@ summary: >-
   been with Kerwin's firm for three years, and the carafe's influence had been
   present the entire time, slowly eroding her memories of her previous life, her
   partner, her interests, everything that had made her herself. Six weeks ago, a
-  business trip to Abriymoch on the judicial island of [Phlegethos](../locales/phlegethos) had taken her
+  business trip to [Abriymoch](../locales/abriymoch) on the judicial island of [Phlegethos](../locales/phlegethos) had taken her
   far enough from the artifact that her mind had begun to clear. She had used
   that clarity to write herself a letter, mailed it home, and returned to the
   firm knowing she would fall back under the influence — but trusting her
@@ -228,7 +228,7 @@ short_summary: >-
   group split up: [Callie](../dossiers/callie) and [Bec](../dossiers/bec) escorted Taelin to the [SPI](../orgs/spi)'s local headquarters
   under a protective dome, while [Freki](../dossiers/freki) and Ozborn doubled back to track Galloc.
   Using rooftop parkour, a raven named [Hugin](../dossiers/hugin), and intelligence gathered from a
-  chatty tomato plant named Potato, the two agents deduced that a second
+  chatty tomato plant named [Potato](../dossiers/potato), the two agents deduced that a second
   bodyguard — a tiefling woman named [Preen](../dossiers/preen) — had likely lifted the pouch while
   Galloc held the party's attention. Ozborn struck a deal with Galloc: the SPI
   would keep the case out of court and ensure the carafe left town in exchange
@@ -236,7 +236,7 @@ short_summary: >-
 
 
   Back at SPI headquarters, Taelin gave a full account of her three years under
-  the carafe's influence, explaining how a business trip to Abriymoch had
+  the carafe's influence, explaining how a business trip to [Abriymoch](../locales/abriymoch) had
   briefly cleared her mind enough to write herself a letter outlining a plan to
   steal the artifact — a plan that ended in violence when Kerwin refused to
   relinquish it. She cited constructive coercion by a hazardous artifact as her
@@ -264,7 +264,7 @@ classic_summary: >-
   the person she had once loved. The group split: [Callie](../dossiers/callie) and [Bec](../dossiers/bec) escorted Taelin
   to safety beneath a shimmering protective dome, while [Freki](../dossiers/freki) and [Ozborn](../dossiers/oz) took to
   the rooftops in pursuit of Galloc, guided by the keen instincts of a raven and
-  the quiet testimony of a tomato plant named Potato.
+  the quiet testimony of a tomato plant named [Potato](../dossiers/potato).
 
 
   The chase led them to a rooftop garden and a tense negotiation with Galloc,
@@ -333,7 +333,7 @@ snarky_summary: >-
 
 
   The team split up, [Freki](../dossiers/freki) and Ozborn parkoured across rooftops with the help of
-  a raven and a chatty tomato named Potato, struck a deal with Galloc in a
+  a raven and a chatty tomato named [Potato](../dossiers/potato), struck a deal with Galloc in a
   rooftop garden, and then returned triumphantly to a locked office door that
   defeated them for an embarrassing amount of time. They eventually got everyone
   inside via a magical extradimensional tiki lounge, teleported back to HQ, had
@@ -355,7 +355,7 @@ limerick_style_summary: |-
 
   On rooftops they leaped through the night,
   With [Hugin](../dossiers/hugin) to guide their swift flight.
-  A tomato named Potato
+  A tomato named [Potato](../dossiers/potato)
   Spilled all that he'd seen, oh —
   And Galloc agreed to play right.
 
@@ -626,7 +626,7 @@ scenes:
         frequently visits the garden, smokes near the plants, and sometimes has
         blood on him.
       - >-
-        Potato describes a woman who also visits the roof: she has a tail, sings
+        [Potato](../dossiers/potato) describes a woman who also visits the roof: she has a tail, sings
         to the plants, and sometimes disappears suddenly.
       - >-
         Freki learns that the woman is kinder than Galloc and that Galloc has
@@ -727,10 +727,10 @@ scenes:
       murder.
     key_events:
       - >-
-        Taelin explains she is the head of contracts for Ulvan Transitional
-        Assets and has worked for Kerwin for three years.
+        Taelin explains she is the head of contracts for [Ulvan Transitional
+        Assets](../orgs/ulvan-transitional-assets) and has worked for Kerwin for three years.
       - >-
-        Taelin describes a trip to Abriymoch six weeks ago where she began to
+        Taelin describes a trip to [Abriymoch](../locales/abriymoch) six weeks ago where she began to
         remember her life before the firm, including a partner whose name she
         can no longer recall.
       - >-
@@ -844,6 +844,7 @@ npcs:
       fondness for shiny pebbles. He accidentally opened the rooftop trapdoor by
       jumping on it.
   - name: Potato
+    wiki: ../dossiers/potato
     description: >-
       A sentient tomato plant in the rooftop community garden that Freki
       communed with using his nature-based magic. It provided information about
@@ -904,6 +905,7 @@ locations:
       The party teleported here to debrief Mallory, interrogate Taelin, and seek
       Cassandra's expertise.
   - name: Abriymoch
+    wiki: ../locales/abriymoch
     description: >-
       A city located on the island of Phlegethos in Trell, known as a judicial
       center. Taelin traveled there six weeks ago on business, and it was during
