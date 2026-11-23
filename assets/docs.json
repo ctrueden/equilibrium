@@ -1286,12 +1286,12 @@
     "title": "Ayinalef"
   },
   {
-    "body": "Ruler of the [Trell](../locales/trell) island of [Maladomini](../locales/maladomini).\n\nA master of byzantine bureaucracy and endless schemes, Baalzebul controls the archives and records of all Trell through the labyrinthine infrastructure of [Maladomini](../locales/maladomini). His seat of power is Grenpoli, the City of Diplomacy, where the Trell Political School trains the next generation of lawyers and arbitrators.\n\nThrough Perdition Mitigation, Baalzebul operates a vast insurance conglomerate, profiting from the endless contracts, NDAs, and arbitration disputes that plague Trell's corporate landscape. Every contract dispute, every legal conflict, every negotiation that requires neutral arbitration ends up in his domain, making him extraordinarily wealthy despite his relatively peripheral position in the Trell hierarchy of power and control.\n\nBaalzebul views younger power-players like [Glasya](./glasya) with disdain, sees himself as a rival of both [Dispater](./dispater) and [Mephistopheles](./mephistopheles). None truly trust him, but all must negotiate with him eventually.\n\nSee also:\n* https://forgottenrealms.fandom.com/wiki/Baalzebul\n",
+    "body": "Ruler of the [Trell](../locales/trell) island of [Maladomini](../locales/maladomini).\n\nA master of byzantine bureaucracy and endless schemes, Baalzebul controls the archives and records of all Trell through the labyrinthine infrastructure of [Maladomini](../locales/maladomini). His seat of power is Grenpoli, the City of Diplomacy, where the Trell Political School trains the next generation of lawyers and arbitrators.\n\nThrough [Perdition Mitigation](../orgs/perdition-mitigation), Baalzebul operates a vast insurance conglomerate, profiting from the endless contracts, NDAs, and arbitration disputes that plague Trell's corporate landscape. Every contract dispute, every legal conflict, every negotiation that requires neutral arbitration ends up in his domain, making him extraordinarily wealthy despite his relatively peripheral position in the Trell hierarchy of power and control.\n\nBaalzebul views younger power-players like [Glasya](./glasya) with disdain, sees himself as a rival of both [Dispater](./dispater) and [Mephistopheles](./mephistopheles). None truly trust him, but all must negotiate with him eventually.\n\nSee also:\n* https://forgottenrealms.fandom.com/wiki/Baalzebul\n",
     "id": "dossiers/baalzebul",
     "image": "https://i.pinimg.com/originals/79/d7/2e/79d72eb02e6aa2f6a2cacca39e90d94e.jpg",
     "image-source": "https://www.pinterest.com/pin/3799980930941643/",
     "statbox": {
-      "affiliation": "Perdition Mitigation",
+      "affiliation": "[Perdition Mitigation](../orgs/perdition-mitigation)",
       "alignment": "lawful evil",
       "allies": [],
       "enemies": [
@@ -1724,12 +1724,12 @@
     "title": "Belarra \"Bela\" Underleaf"
   },
   {
-    "body": "Ruler of the [Trell](../locales/trell) island of [Phlegethos](../locales/phlegethos), along with his daughter [Fierna](./fierna).\n\nA hedonist and master of corruption, Belial specializes in degradation and the perversion of innocence. Through BlissCo, he peddles entertainment, luxury, and experiences\u2014creating addictive escapism for the masses while hoarding true pleasure for the elite. His influence extends into every vice and indulgence across Trell.\n\nThough he shares rule with Fierna, Belial maintains his own interests and alliances. He distrusts [Glasya](./glasya), seeing her as a corrupting influence on his daughter, and constantly maneuvers to defeat his rivals [Dispater](./dispater) and [Mephistopheles](./mephistopheles).\n\nSee also:\n* https://forgottenrealms.fandom.com/wiki/Belial\n",
+    "body": "Ruler of the [Trell](../locales/trell) island of [Phlegethos](../locales/phlegethos), along with his daughter [Fierna](./fierna).\n\nA hedonist and master of corruption, Belial specializes in degradation and the perversion of innocence. Through [BlissCo](../orgs/blissco), he peddles entertainment, luxury, and experiences\u2014creating addictive escapism for the masses while hoarding true pleasure for the elite. His influence extends into every vice and indulgence across Trell.\n\nThough he shares rule with Fierna, Belial maintains his own interests and alliances. He distrusts [Glasya](./glasya), seeing her as a corrupting influence on his daughter, and constantly maneuvers to defeat his rivals [Dispater](./dispater) and [Mephistopheles](./mephistopheles).\n\nSee also:\n* https://forgottenrealms.fandom.com/wiki/Belial\n",
     "id": "dossiers/belial",
     "image": "https://i.pinimg.com/originals/78/e3/90/78e3905f8636114383df23948becaffd.jpg",
     "image-source": "https://www.pinterest.com/pin/415738609342238487/",
     "statbox": {
-      "affiliation": "BlissCo",
+      "affiliation": "[BlissCo](../orgs/blissco)",
       "alignment": "chaotic evil",
       "allies": [
         "Fierna"
@@ -1745,7 +1745,7 @@
     "title": "Belial"
   },
   {
-    "body": "A former employee of BlissCo at the [Euphoria](../locales/euphoria) resort, with whom [Tybalt Nightbreeze](tybalt) made a contract.\n",
+    "body": "A former employee of [BlissCo](../orgs/blissco) at the [Euphoria](../locales/euphoria) resort, with whom [Tybalt Nightbreeze](tybalt) made a contract.\n",
     "descriptions": [
       {
         "content": "Summoned by Callie, he whispered the legend of Melora to her and Bec, then offered them freshly baked blood cookies.",
@@ -3749,12 +3749,12 @@
     "title": "Felannia"
   },
   {
-    "body": "Ruler of the [Trell](../locales/trell) island of [Phlegethos](../locales/phlegethos), serving alongside [Belial](./belial).\n\nDaughter of Belial and a cunning operator in her own right, Fierna rules the island of pleasure and legal warfare. Through BlissCo, she provides the entertainment and experiences that fuel Trell's elite, while carefully navigating the treacherous politics of her father's court.\n\nThough bound to [Belial](./belial) by blood and rule, her relationship with him is complicated\u2014they are allied in common purpose but distinct in ambition. Fierna has forged her own alliance with [Glasya](./glasya), who she idolizes as a powerful female presence in the largely male-dominated hierarchy of Trell corporate rule. Together, they challenge the traditional order imposed by rivals like [Dispater](./dispater) and [Mephistopheles](./mephistopheles).\n\nSee also:\n* https://forgottenrealms.fandom.com/wiki/Fierna\n",
+    "body": "Ruler of the [Trell](../locales/trell) island of [Phlegethos](../locales/phlegethos), serving alongside [Belial](./belial).\n\nDaughter of Belial and a cunning operator in her own right, Fierna rules the island of pleasure and legal warfare. Through [BlissCo](../orgs/blissco), she provides the entertainment and experiences that fuel Trell's elite, while carefully navigating the treacherous politics of her father's court.\n\nThough bound to [Belial](./belial) by blood and rule, her relationship with him is complicated\u2014they are allied in common purpose but distinct in ambition. Fierna has forged her own alliance with [Glasya](./glasya), who she idolizes as a powerful female presence in the largely male-dominated hierarchy of Trell corporate rule. Together, they challenge the traditional order imposed by rivals like [Dispater](./dispater) and [Mephistopheles](./mephistopheles).\n\nSee also:\n* https://forgottenrealms.fandom.com/wiki/Fierna\n",
     "id": "dossiers/fierna",
     "image": "https://i.pinimg.com/originals/16/e6/ba/16e6ba4a2dbfc4301c72a39c7b80940a.jpg",
     "image-source": "https://www.pinterest.com/pin/2462974793077703/",
     "statbox": {
-      "affiliation": "BlissCo",
+      "affiliation": "[BlissCo](../orgs/blissco)",
       "alignment": "chaotic evil",
       "allies": [
         "Asmodeus",
@@ -4171,7 +4171,7 @@
     "title": "Gaia, Mother of Aecus"
   },
   {
-    "body": "Former dock security in Trell's harbor district, and bodyguard to\n[Kerwin Ulvas](kerwin-ulvas). Believed to freelance for Highmark Ventures,\nthe corporate arm of [Mammon](mammon).\n\nHe stepped out of an alley to engage the agents in friendly conversation\n([18e05](../events/case-18e05)), while his partner [Preen](preen) lifted\n[Taelin](taelin-fosse)'s pouch, carafe and all. [Ozborn](oz) later struck a\ndeal with him: the SPI keeps the case out of court and ensures the carafe\nleaves town, in exchange for a tip on the artifact's location.\n",
+    "body": "Former dock security in Trell's harbor district, and bodyguard to\n[Kerwin Ulvas](kerwin-ulvas). Believed to freelance for [Highmark Ventures](../orgs/highmark-ventures),\nthe corporate arm of [Mammon](mammon).\n\nHe stepped out of an alley to engage the agents in friendly conversation\n([18e05](../events/case-18e05)), while his partner [Preen](preen) lifted\n[Taelin](taelin-fosse)'s pouch, carafe and all. [Ozborn](oz) later struck a\ndeal with him: the SPI keeps the case out of court and ensures the carafe\nleaves town, in exchange for a tip on the artifact's location.\n",
     "id": "dossiers/galloc",
     "image": "https://i.pinimg.com/originals/37/b2/49/37b2497ba3b924312f3dfdc65ef07304.jpg",
     "image-source": "https://www.pinterest.com/pin/11751649021626039/",
@@ -4939,7 +4939,7 @@
     "title": "Ilyana Nightshade"
   },
   {
-    "body": "\n\n  \n    Case\n    \n      All\n      [01] Petrification and Putrifaction | RUP: Haven\n      [02] Exchange and Extortion | RUP: Haven\n      [03] Punctuality and Perpetuity | Mountain\n      [04] Ingestion and Incoherency | Trell: Euphoria\n      [05] Tumbling and Transcendence | Zephyr: Porta\n      [06] Mutilation and Metamorphosis | Selva\n      [07] Hazards and Harbingers | Arallu\n      [08] Revelry and Revenge | RUP: Sanctum\n      [09] Amalgamation and Anathema | Flux\n      [10] Capers and Calamity | RUP: Oasis\n      [11] Hardships and Homecomings | Cognitutus\n      [12] Burglary and Blight | Elyria: Estanesse\n      [13] Facts and Facsimiles | Selva/Veldt: Alye'adu\n      [14] Animus and Annihilation | Arallu: Evershroud Manor\n      [15] Halflings and Hemophilia | Arallu: Sepulchralis\n      [16] Tunnels and Turpitude | The Afterworld?\n      [17] Misery and Mending | Arallu: Acrid Marshes\n      [18] Curses and Carafes | Trell: Minauros\n    \n  \n  \n    Race\n    \n      All\n      Changeling\n      Devil\n      Dragon\n      Dragonborn\n      Dwarf\n      Elf\n      Eternal\n      Fey\n      Giant\n      Githzerai\n      Gnoll\n      Gnome\n      Halfling\n      Human\n      Lizardfolk\n      Merfolk\n      Orc\n      Spirit\n      Tiefling\n      Titan\n      Undead\n      Vampire\n      Other\n    \n  \n  \n    Gender\n    \n      All\n      Female\n      Male\n      Non-binary\n    \n  \n\n\n\n\n\n",
+    "body": "\n  \n  \n    Race\n    \n      All\n      Changeling\n      Devil\n      Dragon\n      Dragonborn\n      Dwarf\n      Elf\n      Eternal\n      Fey\n      Giant\n      Githzerai\n      Gnoll\n      Gnome\n      Halfling\n      Human\n      Lizardfolk\n      Merfolk\n      Orc\n      Spirit\n      Tiefling\n      Titan\n      Undead\n      Vampire\n      Other\n    \n  \n  \n    Gender\n    \n      All\n      Female\n      Male\n      Non-binary\n    \n  \n\n\n\n\n\n",
     "id": "dossiers",
     "title": "Dossiers"
   },
@@ -5994,12 +5994,12 @@
     "title": "Rufus Mallory"
   },
   {
-    "body": "Ruler of the [Trell](../locales/trell) island of [Minauros](../locales/minauros).\n\nGreed incarnate, Mammon cares for nothing but profit and accumulation. His island is the commercial heart of Trell, where all trade flows and no one is trusted. Through Highmark Ventures, he has created a financial system where credit crystals function as both currency and shackle\u2014debt enslavement masquerading as commerce.\n\nMammon is ruthlessly pragmatic. He does not concern himself with alliances born of ideology, only transactions that increase his wealth. Those who profit alongside him are temporary allies; those who cannot pay become his enemies, their souls converted to the currency of Trell itself.\n\nSee also:\n* https://forgottenrealms.fandom.com/wiki/Mammon\n",
+    "body": "Ruler of the [Trell](../locales/trell) island of [Minauros](../locales/minauros).\n\nGreed incarnate, Mammon cares for nothing but profit and accumulation. His island is the commercial heart of Trell, where all trade flows and no one is trusted. Through [Highmark Ventures](../orgs/highmark-ventures), he has created a financial system where credit crystals function as both currency and shackle\u2014debt enslavement masquerading as commerce.\n\nMammon is ruthlessly pragmatic. He does not concern himself with alliances born of ideology, only transactions that increase his wealth. Those who profit alongside him are temporary allies; those who cannot pay become his enemies, their souls converted to the currency of Trell itself.\n\nSee also:\n* https://forgottenrealms.fandom.com/wiki/Mammon\n",
     "id": "dossiers/mammon",
     "image": "https://i.pinimg.com/originals/17/75/84/1775840a38481d57ff05d8c1751e7e5f.jpg",
     "image-source": "https://www.pinterest.com/pin/7881368093384055/",
     "statbox": {
-      "affiliation": "Highmark Ventures",
+      "affiliation": "[Highmark Ventures](../orgs/highmark-ventures)",
       "alignment": "lawful evil",
       "allies": [
         "Trade partners"
@@ -6666,7 +6666,7 @@
     "title": "Murky"
   },
   {
-    "body": "Bookings manager for [Kerwin Ulvas](kerwin-ulvas) at Ulvan Transitional Assets.\nRefused to discuss Kerwin's personal life with the agents\n([18e03](../events/case-18e03)). She found Kerwin's body, and called in the\nWarlocks of the Archfiend.\n",
+    "body": "Bookings manager for [Kerwin Ulvas](kerwin-ulvas) at [Ulvan Transitional Assets](../orgs/ulvan-transitional-assets).\nRefused to discuss Kerwin's personal life with the agents\n([18e03](../events/case-18e03)). She found Kerwin's body, and called in the\nWarlocks of the Archfiend.\n",
     "id": "dossiers/nalista-dorlies",
     "image": "https://i.pinimg.com/originals/80/36/ff/8036ff7738b0b953a20d7271f3435d40.jpg",
     "image-source": "https://www.pinterest.com/pin/435582595210971725/",
@@ -7467,6 +7467,30 @@
     "title": "The Pixie Gang"
   },
   {
+    "body": "A cheerful, chatty tomato plant in a rooftop community garden in a rough\npart of [Trell](../locales/trell), atop the hideout of [Galloc](galloc).\n\"My name's Potato. At least it's not Audrey Too.\"\n\nWhen [Freki](freki) spoke with it ([18e05](../events/case-18e05)), Potato\nproved a surprisingly reliable witness: its account of a singing tiefling\nwoman who could vanish at will pointed the agents to [Preen](preen). It\nmuch prefers her company to Galloc's, who has never once sung to the plants.\nFreki promised to bring it food, sang to it to encourage its growth, and had\nhis ravens drop roadkill compost on the garden, departing as its \"Papa.\"\n",
+    "descriptions": [
+      {
+        "content": "Questioned by Freki via Speak with Plants in a rooftop garden, reported that Galloc visited often, sometimes bloodied, always smoking and clogging its pores; and that a kinder tiefling woman with a tail sang to the plants and sometimes vanished. Bid farewell to \"Papa,\" who promised it food.",
+        "session": "18e05"
+      }
+    ],
+    "id": "dossiers/potato",
+    "image": "https://i.pinimg.com/originals/b2/81/cb/b281cb48145532394624ef4d2531b032.jpg",
+    "image-source": "https://www.pinterest.com/pin/361062095113668653/",
+    "nav-title": "Potato",
+    "statbox": {
+      "case": [
+        "18"
+      ],
+      "locale": "trell",
+      "race": [
+        "plant",
+        "tomato"
+      ]
+    },
+    "title": "Potato the Tomato Plant"
+  },
+  {
     "body": "An extraordinarily skilled thief, and partner of [Galloc](galloc). She stole\n[Taelin](taelin-fosse)'s pouch, and the carafe within, while Galloc held the\nagents' attention ([18e05](../events/case-18e05)). Believed to still have it.\n",
     "id": "dossiers/preen",
     "image": "https://i.pinimg.com/originals/50/5e/e2/505ee23c6213467229a3e6a5b3f45e82.jpg",
@@ -8051,7 +8075,7 @@
     "title": "Sabrina"
   },
   {
-    "body": "Once an employee of BlissCo at the [Euphoria](../locales/euphoria) resort, Salazin is now the Rockwell family imp due to a contract [Callie](callie) signed with him.\n",
+    "body": "Once an employee of [BlissCo](../orgs/blissco) at the [Euphoria](../locales/euphoria) resort, Salazin is now the Rockwell family imp due to a contract [Callie](callie) signed with him.\n",
     "descriptions": [
       {
         "content": "Now the Rockwell family's imp servant, he brought Callie a summons from her parents.",
@@ -8830,7 +8854,7 @@
     "title": "Sune, Goddess of Love and Beauty"
   },
   {
-    "body": "Blue-skinned tiefling and trained legal professional, who oversaw contracts\nfor [Kerwin Ulvas](kerwin-ulvas) at Ulvan Transitional Assets for three years,\nunder the influence of his [carafe](../events/case-18).\n\nDuring a business trip to Abriymoch, her mind cleared long enough for her to\nwrite herself a letter laying out a plan to take the carafe from Kerwin. When\nhe refused to give it up, she killed him ([18e04](../events/case-18e04)). Her\npouch, carafe inside, was then stolen by [Preen](preen) while [Galloc](galloc)\nheld the agents' attention ([18e05](../events/case-18e05)).\n\n[Cassandra](cassandra) and [Callie](callie) purged the carafe's remaining\ncorruption from her mind, restoring her memories, her identity, and the name\nof her long-forgotten partner, Davan. She is now under [SPI](../orgs/spi)\nasylum, and argues constructive coercion by a hazardous artifact as her legal\ndefense. Her testimony may be key to Callie's own defense against\n[Serelda Voth](serelda-voth)'s lawsuit.\n",
+    "body": "Blue-skinned tiefling and trained legal professional, who oversaw contracts\nfor [Kerwin Ulvas](kerwin-ulvas) at [Ulvan Transitional Assets](../orgs/ulvan-transitional-assets) for three years,\nunder the influence of his [carafe](../events/case-18).\n\nDuring a business trip to [Abriymoch](../locales/abriymoch), her mind cleared long enough for her to\nwrite herself a letter laying out a plan to take the carafe from Kerwin. When\nhe refused to give it up, she killed him ([18e04](../events/case-18e04)). Her\npouch, carafe inside, was then stolen by [Preen](preen) while [Galloc](galloc)\nheld the agents' attention ([18e05](../events/case-18e05)).\n\n[Cassandra](cassandra) and [Callie](callie) purged the carafe's remaining\ncorruption from her mind, restoring her memories, her identity, and the name\nof her long-forgotten partner, Davan. She is now under [SPI](../orgs/spi)\nasylum, and argues constructive coercion by a hazardous artifact as her legal\ndefense. Her testimony may be key to Callie's own defense against\n[Serelda Voth](serelda-voth)'s lawsuit.\n",
     "id": "dossiers/taelin-fosse",
     "image": "https://i.pinimg.com/originals/70/36/50/703650394b01669fac7b07c77d1cca8c.jpg",
     "image-source": "https://www.pinterest.com/pin/44050902597026409/",
@@ -9785,7 +9809,7 @@
     "title": "Wrendle Thistledown"
   },
   {
-    "body": "Bookkeeper for [Kerwin Ulvas](kerwin-ulvas) at Ulvan Transitional Assets,\nhoping to one day become a partner in the firm. Lives in a sparse hostel\napartment, owning little more than a bed, a cooking pot, and three books.\n\nWhen the agents broke the news of Kerwin's death ([18e06](../events/case-18e06)),\nhis first instinct was to suggest resurrecting his boss&mdash;unaware that Trell\nrequires a permit for that. He confirmed that the firm's security was\ncontracted through a shell company likely linked to Highmark Ventures, and that\n[Serelda Voth](serelda-voth)'s lawyers had visited the office several times. The\nonly copy of the firm's financial ledger remains in the sealed office.\n\nLike [Taelin](taelin-fosse), he is coming out from under the carafe's influence.\n",
+    "body": "Bookkeeper for [Kerwin Ulvas](kerwin-ulvas) at [Ulvan Transitional Assets](../orgs/ulvan-transitional-assets),\nhoping to one day become a partner in the firm. Lives in a sparse hostel\napartment, owning little more than a bed, a cooking pot, and three books.\n\nWhen the agents broke the news of Kerwin's death ([18e06](../events/case-18e06)),\nhis first instinct was to suggest resurrecting his boss&mdash;unaware that Trell\nrequires a permit for that. He confirmed that the firm's security was\ncontracted through a shell company likely linked to [Highmark Ventures](../orgs/highmark-ventures), and that\n[Serelda Voth](serelda-voth)'s lawyers had visited the office several times. The\nonly copy of the firm's financial ledger remains in the sealed office.\n\nLike [Taelin](taelin-fosse), he is coming out from under the carafe's influence.\n",
     "id": "dossiers/xarlus-shale",
     "image": "https://i.pinimg.com/originals/00/b1/5f/00b15f14163246188c34cca2f04bcbbd.jpg",
     "image-source": "https://www.pinterest.com/pin/269793833913388455/",
@@ -9869,7 +9893,7 @@
     "title": "Xaryu of the Perfect Order"
   },
   {
-    "body": "An erstwhile employee of BlissCo at the [Euphoria](../locales/euphoria) resort, who made contact with [Callisto](cal) but then ran off...\n",
+    "body": "An erstwhile employee of [BlissCo](../orgs/blissco) at the [Euphoria](../locales/euphoria) resort, who made contact with [Callisto](cal) but then ran off...\n",
     "id": "dossiers/xoomish",
     "image": "https://i.pinimg.com/originals/4a/5a/80/4a5a801d996837b7a27f664708cfdf6c.jpg",
     "image-source": "https://www.pinterest.com/pin/427067977135999095/",
@@ -10423,7 +10447,7 @@
     "when": "AC50 Solis 14"
   },
   {
-    "body": "### Summary\n\nMind flayers infiltrated BlissCo's resort town of Euphoria via underground tunnels from the Flux. Though they were defeated by the Noffindorfs, a gnomish wizard family, and the tunnels sealed with magical wards, a young Elder Brain was (unbeknownst to the gnomes) left orphaned beneath the surface. Over time, it fused with the gray ooze garbage disposals which were installed in the sewer system, and absorbed thousands of vacationers into its psionic network of terror.\n\nBlissCo hired the SPI to investigate why they had lost all communication with Euphoria. The agents discovered that the sewers were crawling with horrific entities that devoured people, transforming them into zombie elements of the psionic geological network. Sima received a mysterious but powerful vision which directed the party deep into the tunnel network where they found [the Elder Brain, who Vondal dubbed \"Brian\"](../dossiers/brian-the-elder-brain) in sympathy due to its Flux-oriented nature.\n\n### Random notes\n\nThe agents met three different imps:\n\n* [Belifax](../dossiers/belifax) - Red - in contract with Tybalt\n* [Salazin](../dossiers/salazin) - Blue - in contract with Callie - went to \"pack his bags\" and then contact the founders\n* [Xoomish](../dossiers/xoomish) - Green - GONE - will \"get back to you\" about undead for Cal?\n\nThey also met Sophie, a little girl who had tragically been taken over by an intellect devourer.\n",
+    "body": "### Summary\n\nMind flayers infiltrated [BlissCo](../orgs/blissco)'s resort town of Euphoria via underground tunnels from the Flux. Though they were defeated by the Noffindorfs, a gnomish wizard family, and the tunnels sealed with magical wards, a young Elder Brain was (unbeknownst to the gnomes) left orphaned beneath the surface. Over time, it fused with the gray ooze garbage disposals which were installed in the sewer system, and absorbed thousands of vacationers into its psionic network of terror.\n\nBlissCo hired the SPI to investigate why they had lost all communication with Euphoria. The agents discovered that the sewers were crawling with horrific entities that devoured people, transforming them into zombie elements of the psionic geological network. Sima received a mysterious but powerful vision which directed the party deep into the tunnel network where they found [the Elder Brain, who Vondal dubbed \"Brian\"](../dossiers/brian-the-elder-brain) in sympathy due to its Flux-oriented nature.\n\n### Random notes\n\nThe agents met three different imps:\n\n* [Belifax](../dossiers/belifax) - Red - in contract with Tybalt\n* [Salazin](../dossiers/salazin) - Blue - in contract with Callie - went to \"pack his bags\" and then contact the founders\n* [Xoomish](../dossiers/xoomish) - Green - GONE - will \"get back to you\" about undead for Cal?\n\nThey also met Sophie, a little girl who had tragically been taken over by an intellect devourer.\n",
     "crime_scene": "Euphoria's sewer system and underground tunnels",
     "datestamp": "50-03-16/00",
     "description": "The entire population of a seaside resort has mysteriously vanished.",
@@ -13402,7 +13426,7 @@
         "wiki": "../dossiers/vex-morradine"
       },
       {
-        "description": "A wealthy Tiefling woman from a minor branch of an Abriymoch family, representing 'old money.' She arrived at the SPI office to demand the recovery of a cursed coffee pot sold by Callie's family, serving legal papers for a tort filing in Abderlock court. Her outrage is performative, but her anger and frustration are genuine \u2014 and she may still care about her ex-husband despite claiming otherwise. The party suspects she is being coached by a larger institution.",
+        "description": "A wealthy Tiefling woman from a minor branch of an Abriymoch family, representing 'old money.' She arrived at the SPI office to demand the recovery of a cursed coffee pot sold by Callie's family, serving legal papers for a tort filing in Abriymoch court. Her outrage is performative, but her anger and frustration are genuine \u2014 and she may still care about her ex-husband despite claiming otherwise. The party suspects she is being coached by a larger institution.",
         "name": "Serelda Voth",
         "wiki": "../dossiers/serelda-voth"
       },
@@ -14192,7 +14216,7 @@
   },
   {
     "body": "",
-    "classic_summary": "Last we left off, our agents found themselves navigating the treacherous streets of [Trell](../locales/trell) when a figure emerged from the shadows \u2014 [Galloc](../dossiers/galloc), one of [Kerwin](../dossiers/kerwin-ulvas)'s personal bodyguards. The encounter was brief but charged, and it was only after he retreated into the dark that the party realized [Taelin](../dossiers/taelin-fosse)'s pouch had vanished from her side. Before they could act, Taelin collapsed under the weight of a dissolving magical buffer, and the truth of the evening came spilling out \u2014 she had killed a man, the carafe's influence had been unraveling her for years, and she could no longer even remember the name of the person she had once loved. The group split: [Callie](../dossiers/callie) and [Bec](../dossiers/bec) escorted Taelin to safety beneath a shimmering protective dome, while [Freki](../dossiers/freki) and [Ozborn](../dossiers/oz) took to the rooftops in pursuit of Galloc, guided by the keen instincts of a raven and the quiet testimony of a tomato plant named Potato.\n\nThe chase led them to a rooftop garden and a tense negotiation with Galloc, who denied the theft but agreed to a deal \u2014 the [SPI](../orgs/spi) would keep the case out of court and see the carafe removed from the city, and in exchange, he would point them toward the artifact's location. The real culprit, it seemed, was a second bodyguard named [Preen](../dossiers/preen), a tiefling woman who could vanish at will and had likely lifted the pouch while Galloc held the party's attention. With that intelligence secured, the agents regrouped \u2014 after a prolonged and undignified battle with a locked office door \u2014 and made their way back to SPI headquarters, where [Mallory](../dossiers/mallory) and [Cassandra](../dossiers/cassandra) were waiting.\n\nThere, Taelin laid out the full scope of what the carafe had done to her: three years of slow erosion, a business trip that had briefly cleared her mind, and a letter she had written to herself as a lifeline. Cassandra, exhausted from a long night's work, pushed herself to the edge of her limits attempting to purge the remaining corruption \u2014 and when her strength gave out, she merged her essence with Callie's, allowing the gnome cleric to channel the power of three divine presences at once. The healing that followed was complete and immediate. Taelin's eyes opened clear, and she fully remembered who she was. Now, with Taelin restored and a lead on the carafe's location secured through the city's underworld, the party stands ready to move \u2014 and Ozborn, coin purse in hand, assures everyone that he has a plan...",
+    "classic_summary": "Last we left off, our agents found themselves navigating the treacherous streets of [Trell](../locales/trell) when a figure emerged from the shadows \u2014 [Galloc](../dossiers/galloc), one of [Kerwin](../dossiers/kerwin-ulvas)'s personal bodyguards. The encounter was brief but charged, and it was only after he retreated into the dark that the party realized [Taelin](../dossiers/taelin-fosse)'s pouch had vanished from her side. Before they could act, Taelin collapsed under the weight of a dissolving magical buffer, and the truth of the evening came spilling out \u2014 she had killed a man, the carafe's influence had been unraveling her for years, and she could no longer even remember the name of the person she had once loved. The group split: [Callie](../dossiers/callie) and [Bec](../dossiers/bec) escorted Taelin to safety beneath a shimmering protective dome, while [Freki](../dossiers/freki) and [Ozborn](../dossiers/oz) took to the rooftops in pursuit of Galloc, guided by the keen instincts of a raven and the quiet testimony of a tomato plant named [Potato](../dossiers/potato).\n\nThe chase led them to a rooftop garden and a tense negotiation with Galloc, who denied the theft but agreed to a deal \u2014 the [SPI](../orgs/spi) would keep the case out of court and see the carafe removed from the city, and in exchange, he would point them toward the artifact's location. The real culprit, it seemed, was a second bodyguard named [Preen](../dossiers/preen), a tiefling woman who could vanish at will and had likely lifted the pouch while Galloc held the party's attention. With that intelligence secured, the agents regrouped \u2014 after a prolonged and undignified battle with a locked office door \u2014 and made their way back to SPI headquarters, where [Mallory](../dossiers/mallory) and [Cassandra](../dossiers/cassandra) were waiting.\n\nThere, Taelin laid out the full scope of what the carafe had done to her: three years of slow erosion, a business trip that had briefly cleared her mind, and a letter she had written to herself as a lifeline. Cassandra, exhausted from a long night's work, pushed herself to the edge of her limits attempting to purge the remaining corruption \u2014 and when her strength gave out, she merged her essence with Callie's, allowing the gnome cleric to channel the power of three divine presences at once. The healing that followed was complete and immediate. Taelin's eyes opened clear, and she fully remembered who she was. Now, with Taelin restored and a lead on the carafe's location secured through the city's underworld, the party stands ready to move \u2014 and Ozborn, coin purse in hand, assures everyone that he has a plan...",
     "datestamp": "50-06-14/05",
     "description": "Taelin falls apart as the carafe's hold on her mind dissolves, while Freki and Ozborn hunt down the bodyguard who robbed her.",
     "id": "events/case-18e05",
@@ -14249,7 +14273,7 @@
       }
     ],
     "layout": "session",
-    "limerick_style_summary": "From an alley stepped [Galloc](../dossiers/galloc), all smiles,\nA bodyguard steeped in dark wiles.\nHe chatted them up,\nThen vanished \u2014 corrupt \u2014\nWith [Taelin](../dossiers/taelin-fosse)'s pouch gone by some miles!\n\nPoor Taelin then fell to her knees,\nHer mind crumbling fast by degrees.\n[Vondal](../dossiers/vondal) blurted out loud,\n\"Did you kill someone?\" \u2014 proud \u2014\nAnd [Ozborn](../dossiers/oz) said, \"First stabs, I seize!\"\n\nOn rooftops they leaped through the night,\nWith [Hugin](../dossiers/hugin) to guide their swift flight.\nA tomato named Potato\nSpilled all that he'd seen, oh \u2014\nAnd Galloc agreed to play right.\n\nThe office door locked \u2014 what a shame!\nA portable hole was their game.\nThrough tiki-torch space,\nThey found their way's grace,\nAnd Vondal's ectoplasm's to blame.\n\nThen [Cassandra](../dossiers/cassandra) and [Callie](../dossiers/callie) combined,\nThree goddesses blazing aligned.\nTaelin's eyes opened clear,\nShe remembered \u2014 \"Davan's here!\" \u2014\nAnd three years of fog left her mind.",
+    "limerick_style_summary": "From an alley stepped [Galloc](../dossiers/galloc), all smiles,\nA bodyguard steeped in dark wiles.\nHe chatted them up,\nThen vanished \u2014 corrupt \u2014\nWith [Taelin](../dossiers/taelin-fosse)'s pouch gone by some miles!\n\nPoor Taelin then fell to her knees,\nHer mind crumbling fast by degrees.\n[Vondal](../dossiers/vondal) blurted out loud,\n\"Did you kill someone?\" \u2014 proud \u2014\nAnd [Ozborn](../dossiers/oz) said, \"First stabs, I seize!\"\n\nOn rooftops they leaped through the night,\nWith [Hugin](../dossiers/hugin) to guide their swift flight.\nA tomato named [Potato](../dossiers/potato)\nSpilled all that he'd seen, oh \u2014\nAnd Galloc agreed to play right.\n\nThe office door locked \u2014 what a shame!\nA portable hole was their game.\nThrough tiki-torch space,\nThey found their way's grace,\nAnd Vondal's ectoplasm's to blame.\n\nThen [Cassandra](../dossiers/cassandra) and [Callie](../dossiers/callie) combined,\nThree goddesses blazing aligned.\nTaelin's eyes opened clear,\nShe remembered \u2014 \"Davan's here!\" \u2014\nAnd three years of fog left her mind.",
     "locations": [
       {
         "description": "The dark and rough urban environment where the party staged a fake injury, encountered Galloc, and where Taelin realized she had been robbed.",
@@ -14274,7 +14298,8 @@
       },
       {
         "description": "A city located on the island of Phlegethos in Trell, known as a judicial center. Taelin traveled there six weeks ago on business, and it was during this trip that the artifact's influence over her began to recede, allowing her to write herself a plan.",
-        "name": "Abriymoch"
+        "name": "Abriymoch",
+        "wiki": "../locales/abriymoch"
       },
       {
         "description": "A professional space within the SPI headquarters where the team gathered to conduct the formal interrogation of Taelin.",
@@ -14386,7 +14411,8 @@
       },
       {
         "description": "A sentient tomato plant in the rooftop community garden that Freki communed with using his nature-based magic. It provided information about Galloc and a mysterious singing tiefling woman with a tail, and expressed a strong preference for the woman over Galloc, who smokes near its leaves.",
-        "name": "Potato"
+        "name": "Potato",
+        "wiki": "../dossiers/potato"
       },
       {
         "description": "An SPI colleague who locked the local headquarters for the night and left, inadvertently locking his teammates out. He left an IOU note indicating the original key was lost.",
@@ -14497,7 +14523,7 @@
         "key_events": [
           "Freki initiates a conversation with a tomato plant in the rooftop garden using his nature-based magic, making audible whispering sounds.",
           "The tomato plant identifies itself as 'Potato' and reveals that Galloc frequently visits the garden, smokes near the plants, and sometimes has blood on him.",
-          "Potato describes a woman who also visits the roof: she has a tail, sings to the plants, and sometimes disappears suddenly.",
+          "[Potato](../dossiers/potato) describes a woman who also visits the roof: she has a tail, sings to the plants, and sometimes disappears suddenly.",
           "Freki learns that the woman is kinder than Galloc and that Galloc has never once sung to the plants.",
           "Freki promises to bring the plant food and sings to it to encourage growth, referring to himself as 'Agent Papa.'",
           "Ozborn watches the interaction with amusement while continuing to eat tomatoes from the garden.",
@@ -14547,8 +14573,8 @@
       {
         "description": "The party formally interviews Taelin at SPI headquarters, uncovering the full extent of Kerwin's magical coercion and the circumstances of his murder.",
         "key_events": [
-          "Taelin explains she is the head of contracts for Ulvan Transitional Assets and has worked for Kerwin for three years.",
-          "Taelin describes a trip to Abriymoch six weeks ago where she began to remember her life before the firm, including a partner whose name she can no longer recall.",
+          "Taelin explains she is the head of contracts for [Ulvan Transitional Assets](../orgs/ulvan-transitional-assets) and has worked for Kerwin for three years.",
+          "Taelin describes a trip to [Abriymoch](../locales/abriymoch) six weeks ago where she began to remember her life before the firm, including a partner whose name she can no longer recall.",
           "Taelin reveals she wrote herself a letter while clear-headed in Abriymoch, which contained a plan to steal the magical carafe to break Kerwin's influence.",
           "Taelin admits that her plan to take the carafe away from Kerwin led to a confrontation where she became angry and killed him.",
           "The party discusses the legal defense of 'constructive coercion by a hazardous artifact' and the potential for a lawsuit against Kerwin's estate.",
@@ -14584,8 +14610,8 @@
     ],
     "session-date": "2026-09-05",
     "session-number": 102,
-    "short_summary": "The party's evening in [Trell](../locales/trell) took a tense turn when [Galloc](../dossiers/galloc), one of [Kerwin](../dossiers/kerwin-ulvas)'s bodyguards, emerged from an alley and engaged them in a probing, friendly exchange that masked his true intentions. Though the group played it cool with a cover story, [Taelin](../dossiers/taelin-fosse) remained visibly shaken throughout the encounter \u2014 and moments after Galloc retreated into the shadows, she discovered her pouch had been stolen. Before the party could act, Taelin collapsed with a splitting headache as the magical buffer suppressing her corruption began to dissolve. [Vondal](../dossiers/vondal) finally voiced what everyone had been avoiding, asking point-blank whether she had killed someone that night. Taelin didn't deny it, and [Ozborn](../dossiers/oz) offered his own brand of gruff comfort by recounting his first stabbing. The group split up: [Callie](../dossiers/callie) and [Bec](../dossiers/bec) escorted Taelin to the [SPI](../orgs/spi)'s local headquarters under a protective dome, while [Freki](../dossiers/freki) and Ozborn doubled back to track Galloc. Using rooftop parkour, a raven named [Hugin](../dossiers/hugin), and intelligence gathered from a chatty tomato plant named Potato, the two agents deduced that a second bodyguard \u2014 a tiefling woman named [Preen](../dossiers/preen) \u2014 had likely lifted the pouch while Galloc held the party's attention. Ozborn struck a deal with Galloc: the SPI would keep the case out of court and ensure the carafe left town in exchange for a tip on the artifact's location.\n\nBack at SPI headquarters, Taelin gave a full account of her three years under the carafe's influence, explaining how a business trip to Abriymoch had briefly cleared her mind enough to write herself a letter outlining a plan to steal the artifact \u2014 a plan that ended in violence when Kerwin refused to relinquish it. She cited constructive coercion by a hazardous artifact as her legal defense and urged the SPI to ensure the carafe never circulated again. [Cassandra](../dossiers/cassandra) attempted to purge the remaining corruption from Taelin's mind but pushed herself to her limits in the effort, ultimately merging her remaining strength with Callie's so the gnome cleric could channel the power of three divine presences at once. The healing worked completely \u2014 Taelin's memories, identity, and sense of self were fully restored, including the name of her long-forgotten partner, Davan. With Taelin secured and the team regrouped, Ozborn pulled [Mallory](../dossiers/mallory) aside to request discretionary funds to pursue the carafe through Trell's underworld channels, leveraging the deal he had struck with Galloc. Mallory approved without hesitation, and Ozborn assured the team with full confidence that he had a plan \u2014 a good one \u2014 and that they would absolutely be getting receipts.",
-    "snarky_summary": "So the party ran into [Kerwin](../dossiers/kerwin-ulvas)'s bodyguard [Galloc](../dossiers/galloc) in a dark alley, somehow managed not to blow their cover, and patted themselves on the back \u2014 right up until they realized he had pickpocketed [Taelin](../dossiers/taelin-fosse) in broad darkness like it was nothing. Taelin then immediately collapsed on the street because the magical corruption that had been eating her brain for three years chose that exact moment to start visibly dissolving, which is just great timing. [Vondal](../dossiers/vondal), unable to hold it in for one more second, asked if she was freaking out because she had committed murder, and [Ozborn](../dossiers/oz) \u2014 bless him \u2014 responded to a woman's emotional breakdown by fondly reminiscing about his own first stabbing.\n\nThe team split up, [Freki](../dossiers/freki) and Ozborn parkoured across rooftops with the help of a raven and a chatty tomato named Potato, struck a deal with Galloc in a rooftop garden, and then returned triumphantly to a locked office door that defeated them for an embarrassing amount of time. They eventually got everyone inside via a magical extradimensional tiki lounge, teleported back to HQ, had [Cassandra](../dossiers/cassandra) and [Callie](../dossiers/callie) perform a divine tag-team exorcism on Taelin's corrupted mind, and now Ozborn is holding a bag of discretionary funds and telling everyone he has a plan. He has receipts. God help them all.",
+    "short_summary": "The party's evening in [Trell](../locales/trell) took a tense turn when [Galloc](../dossiers/galloc), one of [Kerwin](../dossiers/kerwin-ulvas)'s bodyguards, emerged from an alley and engaged them in a probing, friendly exchange that masked his true intentions. Though the group played it cool with a cover story, [Taelin](../dossiers/taelin-fosse) remained visibly shaken throughout the encounter \u2014 and moments after Galloc retreated into the shadows, she discovered her pouch had been stolen. Before the party could act, Taelin collapsed with a splitting headache as the magical buffer suppressing her corruption began to dissolve. [Vondal](../dossiers/vondal) finally voiced what everyone had been avoiding, asking point-blank whether she had killed someone that night. Taelin didn't deny it, and [Ozborn](../dossiers/oz) offered his own brand of gruff comfort by recounting his first stabbing. The group split up: [Callie](../dossiers/callie) and [Bec](../dossiers/bec) escorted Taelin to the [SPI](../orgs/spi)'s local headquarters under a protective dome, while [Freki](../dossiers/freki) and Ozborn doubled back to track Galloc. Using rooftop parkour, a raven named [Hugin](../dossiers/hugin), and intelligence gathered from a chatty tomato plant named [Potato](../dossiers/potato), the two agents deduced that a second bodyguard \u2014 a tiefling woman named [Preen](../dossiers/preen) \u2014 had likely lifted the pouch while Galloc held the party's attention. Ozborn struck a deal with Galloc: the SPI would keep the case out of court and ensure the carafe left town in exchange for a tip on the artifact's location.\n\nBack at SPI headquarters, Taelin gave a full account of her three years under the carafe's influence, explaining how a business trip to [Abriymoch](../locales/abriymoch) had briefly cleared her mind enough to write herself a letter outlining a plan to steal the artifact \u2014 a plan that ended in violence when Kerwin refused to relinquish it. She cited constructive coercion by a hazardous artifact as her legal defense and urged the SPI to ensure the carafe never circulated again. [Cassandra](../dossiers/cassandra) attempted to purge the remaining corruption from Taelin's mind but pushed herself to her limits in the effort, ultimately merging her remaining strength with Callie's so the gnome cleric could channel the power of three divine presences at once. The healing worked completely \u2014 Taelin's memories, identity, and sense of self were fully restored, including the name of her long-forgotten partner, Davan. With Taelin secured and the team regrouped, Ozborn pulled [Mallory](../dossiers/mallory) aside to request discretionary funds to pursue the carafe through Trell's underworld channels, leveraging the deal he had struck with Galloc. Mallory approved without hesitation, and Ozborn assured the team with full confidence that he had a plan \u2014 a good one \u2014 and that they would absolutely be getting receipts.",
+    "snarky_summary": "So the party ran into [Kerwin](../dossiers/kerwin-ulvas)'s bodyguard [Galloc](../dossiers/galloc) in a dark alley, somehow managed not to blow their cover, and patted themselves on the back \u2014 right up until they realized he had pickpocketed [Taelin](../dossiers/taelin-fosse) in broad darkness like it was nothing. Taelin then immediately collapsed on the street because the magical corruption that had been eating her brain for three years chose that exact moment to start visibly dissolving, which is just great timing. [Vondal](../dossiers/vondal), unable to hold it in for one more second, asked if she was freaking out because she had committed murder, and [Ozborn](../dossiers/oz) \u2014 bless him \u2014 responded to a woman's emotional breakdown by fondly reminiscing about his own first stabbing.\n\nThe team split up, [Freki](../dossiers/freki) and Ozborn parkoured across rooftops with the help of a raven and a chatty tomato named [Potato](../dossiers/potato), struck a deal with Galloc in a rooftop garden, and then returned triumphantly to a locked office door that defeated them for an embarrassing amount of time. They eventually got everyone inside via a magical extradimensional tiki lounge, teleported back to HQ, had [Cassandra](../dossiers/cassandra) and [Callie](../dossiers/callie) perform a divine tag-team exorcism on Taelin's corrupted mind, and now Ozborn is holding a bag of discretionary funds and telling everyone he has a plan. He has receipts. God help them all.",
     "spells": [
       {
         "description": "A protective spell cast by Callie that created a shimmering, translucent barrier around the group escorting Taelin. It allowed those inside to see out while remaining invisible to anyone on the outside, providing both concealment and a sense of security for the distressed Taelin.",
@@ -14624,13 +14650,13 @@
         "name": "Divine Intervention"
       }
     ],
-    "summary": "The night had grown heavy and watchful over the rough streets of [Trell](../locales/trell) when a shadowy figure stepped out of a nearby alley, his smirk catching the dim light as he approached the party. He introduced himself through [Taelin](../dossiers/taelin-fosse)'s startled recognition \u2014 [Galloc](../dossiers/galloc), one of [Kerwin](../dossiers/kerwin-ulvas)'s personal bodyguards \u2014 and offered a casual warning about making too much noise in a neighborhood like this. The sharpest eyes among the group caught the subtle flicker of his gaze toward Taelin, a momentary tell that betrayed a hidden interest beneath his easy, friendly manner. He was sizing them up, probing for weaknesses, and almost certainly angling for some kind of profit.\n\nThe party played it cool, spinning a convincing story about heading to dinner and assuring Galloc that Kerwin was probably just working late. Galloc, for his part, was disarmingly candid about his own role \u2014 he was paid to watch the streets, not to babysit his employer inside a building. He hinted at working in the gray spaces between what governments could legally do and what they actually needed done, a confession that landed with knowing nods from the more worldly members of the group. Taelin stood rigid throughout the exchange, visibly tense and distrustful, though not quite terrified of the man she clearly knew from her years at the firm.\n\nWhen Galloc finally retreated back into the shadows of the alley, the group exhaled and pressed onward toward dinner. It was only a few blocks later that Taelin's hand flew to her side and her face went pale \u2014 her pouch was gone. She insisted it contained everything important to her, and the party immediately suspected Galloc, the only stranger they had encountered close enough to have taken it. But before they could form a proper plan, Taelin crumpled to her knees, clutching her head as a splitting headache overtook her. Those with a healer's eye recognized what was happening: the magical buffer that had been wrapped around her was finally, visibly dissolving away.\n\n[Vondal](../dossiers/vondal), who had been quietly bottling up the knowledge of what Taelin had done that evening, could contain himself no longer. He blurted out the question that had been burning in him all night \u2014 was she freaking out because she had murdered a man? The words hung in the air, blunt and unavoidable. Taelin didn't deny it. [Ozborn](../dossiers/oz), ever the pragmatist, knelt beside her and offered the only comfort he knew how to give, remarking with genuine sincerity that he remembered his own first stabbing and that they could talk about it. It was, in its own strange way, the kindest thing anyone had said to her all evening.\n\nThe group made a swift decision to split up. [Callie](../dossiers/callie) and [Bec](../dossiers/bec) would escort Taelin back to the [SPI](../orgs/spi)'s local headquarters, keeping her safe inside a shimmering protective dome that rendered them invisible to the outside world. [Freki](../dossiers/freki) and Ozborn would double back to track down Galloc and recover the stolen pouch. Taelin, still shaking, reluctantly climbed aboard the magical flying carpet and was ushered toward safety, the translucent barrier of the dome glowing softly around her as she stared out at the city she could no longer trust.\n\nInside the dome, Taelin began to speak more freely. She described her condition in precise legal terms \u2014 constructive coercion by a hazardous artifact \u2014 and explained that the magical coffee pot had been warping the minds of everyone in Kerwin's orbit for years. She had known something was wrong, had even taken precautions, but the gas the carafe emitted had a way of making everything feel perfectly reasonable until you were far enough away from it to remember who you used to be. She had once had a partner, she said, and a life outside the firm, but she could no longer even recall her partner's name.\n\nMeanwhile, Freki dropped to a crouch in the alley where Galloc had stood and breathed in the lingering traces of the man's scent \u2014 brimstone and the outdoors, the unmistakable signature of a tiefling who spent more time in alleys than drawing rooms. There was a second scent too, fainter and older, suggesting someone else had been present before Galloc emerged. His raven, [Hugin](../dossiers/hugin), appeared on a neighboring rooftop and signaled with a tilt of his head, and the chase was on. Freki and Ozborn leaped and teleported their way across the rooftops of Trell, following the raven's guidance from building to building until they arrived at a flat roof featuring a small community garden.\n\nOzborn immediately helped himself to a tomato, eating it like a piece of hand fruit while Freki investigated the garden with considerably more focus. The scent trail ended near the tomato plants, and after careful searching, Freki discovered a cleverly concealed trapdoor hidden beneath the disturbed dust of the rooftop. Wary of traps, the two backed away and sent Ozborn's flying monkey, Churro, to open it. Churro scratched at it, pawed it, and jumped on it in mounting frustration until the door banged open on one of his leaps \u2014 and a hand reached up from below.\n\nGalloc climbed out of the trapdoor looking considerably less amused than he had on the street. He acknowledged that they had gone to impressive lengths to follow him, and the two agents launched into a layered conversation \u2014 Ozborn speaking aloud while simultaneously communicating in Thieves' Cant beneath the surface, pressing Galloc about the stolen bag. Galloc denied taking anything, but his eyes said otherwise. Freki let his own eyes shift to a cold, predatory yellow, and Galloc took one smooth step back, putting the trapdoor between them.\n\nWhile Ozborn kept Galloc talking, Freki turned his attention to the tomato plants and began to commune with them in the quiet, whispering language of growing things. The plant he spoke with \u2014 a cheerful, chatty specimen that introduced itself as Potato \u2014 turned out to be a surprisingly reliable witness. Potato confirmed that Galloc visited often, sometimes covered in blood, and always smoking near the leaves in a way that clogged up its little pores. But there was also a woman who came to the roof: a tiefling with a tail who sang to the plants, sometimes disappeared without warning, and was, in Potato's enthusiastic opinion, far better company than Galloc had ever been. Freki promised to bring food, sang a brief song to encourage growth, and bid farewell to his new tomato child, departing as Agent Papa.\n\nThe intelligence pointed clearly toward a second bodyguard \u2014 a woman named [Preen](../dossiers/preen), who matched the description of someone who could vanish at will and who had likely been the one to lift Taelin's bag while Galloc held the party's attention on the street. With that piece in place, Ozborn laid out a deal for Galloc plainly: the SPI would ensure the case never went to court and the carafe would leave town, and in exchange, Galloc would point them toward the artifact's current location. Galloc agreed, hinting that something would turn up soon if the agents kept their word and left his crew alone. He dropped back through the trapdoor, and the two agents made their way down from the rooftops \u2014 Freki via a rusted fire escape, Ozborn by dropping a dagger to the street below and appearing beside it.\n\nThe triumphant return to the local SPI office was immediately humbled by a locked door. [Vex](../dossiers/vex-morradine) had gone home for the night and taken the only key with him, leaving behind nothing but an IOU note promising a visit to the locksmith. What followed was a prolonged and increasingly chaotic series of attempts to gain entry: Vondal's familiar Murphy, in cat form, managed to pop a window latch and get inside, but the door remained stubbornly shut. Vondal attempted to manipulate the lock's internal mechanisms with a spectral hand, accidentally gumming up the tumblers with ectoplasm. By the time Freki and Ozborn arrived to find their teammates still locked out, Ozborn's attempt with his thieves' tools ended in failure and the eventual, disgusted disposal of the entire set into a nearby dumpster.\n\nThe party eventually coordinated a solution involving the portable hole \u2014 a magical extradimensional space furnished with tiki torches and a folding table \u2014 to get everyone inside without further damaging the property. Freki, who harbored a deep and well-documented trauma around the portable hole from a previous incident, grumbled through the entire process. Once inside, they used the office's teleportation circle to travel back to the main SPI headquarters, where [Mallory](../dossiers/mallory) was waiting and the lights in [Cassandra](../dossiers/cassandra)'s lab were still burning.\n\nBec and Ozborn briefed Mallory on the situation with the blunt efficiency of agents who had seen stranger things: there had been a murder, they had the suspect in custody, and she had formally requested asylum. Mallory raised an eyebrow at the detail that the murder suspect had been left alone in a portable hole with one of his best agents, but the party assured him that Callie was perfectly capable of handling herself. Cassandra was pulled from her lab, looking haggard from a long night of paperwork, and the group gathered in Mallory's office to conduct a proper interview.\n\nTaelin, now seated and somewhat steadier, laid out the full story with the precision of someone who had spent years managing legal documents. She had been with Kerwin's firm for three years, and the carafe's influence had been present the entire time, slowly eroding her memories of her previous life, her partner, her interests, everything that had made her herself. Six weeks ago, a business trip to Abriymoch on the judicial island of [Phlegethos](../locales/phlegethos) had taken her far enough from the artifact that her mind had begun to clear. She had used that clarity to write herself a letter, mailed it home, and returned to the firm knowing she would fall back under the influence \u2014 but trusting her clear-headed self to have left her a way out.\n\nThe letter had contained a plan to steal the carafe and break Kerwin's hold on the firm. When Kerwin refused to give it up, Taelin's anger had overtaken her, and the plan had ended in violence. She described the legal defense she had researched \u2014 constructive coercion by a hazardous artifact \u2014 and noted that the lawyer [Serelda Voth](../dossiers/serelda-voth)'s team had independently uncovered the same ancient precedent and was likely planning to use it to pursue Kerwin's estate. The carafe, she insisted, could not be allowed to remain in circulation. It had already destroyed too many lives.\n\nCassandra stepped forward and attempted to perform a miracle to clear the remaining corruption from Taelin's mind, her eyes blazing white as she uttered a word of incomprehensible power \u2014 but the effort left her trembling and spent. She had pushed herself too hard for too long. Rather than give up, she turned to Callie and offered what remained of her strength, merging her essence temporarily with the gnome cleric's so that Callie could channel the power of not two but three divine presences at once. Callie's medallion burned hot against her chest as she laid her hands on Taelin's head and called upon her goddesses with everything she had.\n\nThe flash of energy that followed was clean and complete. Taelin's eyes snapped open, sharp and clear, and she said simply that she thought it had worked. The three years of slow, grinding magical corruption dissolved in an instant, and for the first time in a very long time, Taelin was entirely herself again. She remembered the name of her partner \u2014 Davan \u2014 and the place she had once been offered a job, Crestfall, and all the things she had given up without ever quite realizing she was giving them up.\n\nWith Taelin restored and secured, Ozborn pulled Mallory aside for a quiet word. He explained that he had made contact with a figure in the local underworld who had agreed to provide a tip on the carafe's location, and that the criminal elements in Trell wanted the artifact gone just as badly as the SPI did. He requested discretionary funds to pursue the lead through the city's underworld channels, and Mallory granted it without hesitation. Ozborn looked at the bag of coin, looked at the rest of his team, and announced with complete confidence that he had a plan \u2014 it was a good plan, it was going to cost some money, and they were going to get the receipts.",
+    "summary": "The night had grown heavy and watchful over the rough streets of [Trell](../locales/trell) when a shadowy figure stepped out of a nearby alley, his smirk catching the dim light as he approached the party. He introduced himself through [Taelin](../dossiers/taelin-fosse)'s startled recognition \u2014 [Galloc](../dossiers/galloc), one of [Kerwin](../dossiers/kerwin-ulvas)'s personal bodyguards \u2014 and offered a casual warning about making too much noise in a neighborhood like this. The sharpest eyes among the group caught the subtle flicker of his gaze toward Taelin, a momentary tell that betrayed a hidden interest beneath his easy, friendly manner. He was sizing them up, probing for weaknesses, and almost certainly angling for some kind of profit.\n\nThe party played it cool, spinning a convincing story about heading to dinner and assuring Galloc that Kerwin was probably just working late. Galloc, for his part, was disarmingly candid about his own role \u2014 he was paid to watch the streets, not to babysit his employer inside a building. He hinted at working in the gray spaces between what governments could legally do and what they actually needed done, a confession that landed with knowing nods from the more worldly members of the group. Taelin stood rigid throughout the exchange, visibly tense and distrustful, though not quite terrified of the man she clearly knew from her years at the firm.\n\nWhen Galloc finally retreated back into the shadows of the alley, the group exhaled and pressed onward toward dinner. It was only a few blocks later that Taelin's hand flew to her side and her face went pale \u2014 her pouch was gone. She insisted it contained everything important to her, and the party immediately suspected Galloc, the only stranger they had encountered close enough to have taken it. But before they could form a proper plan, Taelin crumpled to her knees, clutching her head as a splitting headache overtook her. Those with a healer's eye recognized what was happening: the magical buffer that had been wrapped around her was finally, visibly dissolving away.\n\n[Vondal](../dossiers/vondal), who had been quietly bottling up the knowledge of what Taelin had done that evening, could contain himself no longer. He blurted out the question that had been burning in him all night \u2014 was she freaking out because she had murdered a man? The words hung in the air, blunt and unavoidable. Taelin didn't deny it. [Ozborn](../dossiers/oz), ever the pragmatist, knelt beside her and offered the only comfort he knew how to give, remarking with genuine sincerity that he remembered his own first stabbing and that they could talk about it. It was, in its own strange way, the kindest thing anyone had said to her all evening.\n\nThe group made a swift decision to split up. [Callie](../dossiers/callie) and [Bec](../dossiers/bec) would escort Taelin back to the [SPI](../orgs/spi)'s local headquarters, keeping her safe inside a shimmering protective dome that rendered them invisible to the outside world. [Freki](../dossiers/freki) and Ozborn would double back to track down Galloc and recover the stolen pouch. Taelin, still shaking, reluctantly climbed aboard the magical flying carpet and was ushered toward safety, the translucent barrier of the dome glowing softly around her as she stared out at the city she could no longer trust.\n\nInside the dome, Taelin began to speak more freely. She described her condition in precise legal terms \u2014 constructive coercion by a hazardous artifact \u2014 and explained that the magical coffee pot had been warping the minds of everyone in Kerwin's orbit for years. She had known something was wrong, had even taken precautions, but the gas the carafe emitted had a way of making everything feel perfectly reasonable until you were far enough away from it to remember who you used to be. She had once had a partner, she said, and a life outside the firm, but she could no longer even recall her partner's name.\n\nMeanwhile, Freki dropped to a crouch in the alley where Galloc had stood and breathed in the lingering traces of the man's scent \u2014 brimstone and the outdoors, the unmistakable signature of a tiefling who spent more time in alleys than drawing rooms. There was a second scent too, fainter and older, suggesting someone else had been present before Galloc emerged. His raven, [Hugin](../dossiers/hugin), appeared on a neighboring rooftop and signaled with a tilt of his head, and the chase was on. Freki and Ozborn leaped and teleported their way across the rooftops of Trell, following the raven's guidance from building to building until they arrived at a flat roof featuring a small community garden.\n\nOzborn immediately helped himself to a tomato, eating it like a piece of hand fruit while Freki investigated the garden with considerably more focus. The scent trail ended near the tomato plants, and after careful searching, Freki discovered a cleverly concealed trapdoor hidden beneath the disturbed dust of the rooftop. Wary of traps, the two backed away and sent Ozborn's flying monkey, Churro, to open it. Churro scratched at it, pawed it, and jumped on it in mounting frustration until the door banged open on one of his leaps \u2014 and a hand reached up from below.\n\nGalloc climbed out of the trapdoor looking considerably less amused than he had on the street. He acknowledged that they had gone to impressive lengths to follow him, and the two agents launched into a layered conversation \u2014 Ozborn speaking aloud while simultaneously communicating in Thieves' Cant beneath the surface, pressing Galloc about the stolen bag. Galloc denied taking anything, but his eyes said otherwise. Freki let his own eyes shift to a cold, predatory yellow, and Galloc took one smooth step back, putting the trapdoor between them.\n\nWhile Ozborn kept Galloc talking, Freki turned his attention to the tomato plants and began to commune with them in the quiet, whispering language of growing things. The plant he spoke with \u2014 a cheerful, chatty specimen that introduced itself as [Potato](../dossiers/potato) \u2014 turned out to be a surprisingly reliable witness. Potato confirmed that Galloc visited often, sometimes covered in blood, and always smoking near the leaves in a way that clogged up its little pores. But there was also a woman who came to the roof: a tiefling with a tail who sang to the plants, sometimes disappeared without warning, and was, in Potato's enthusiastic opinion, far better company than Galloc had ever been. Freki promised to bring food, sang a brief song to encourage growth, and bid farewell to his new tomato child, departing as Agent Papa.\n\nThe intelligence pointed clearly toward a second bodyguard \u2014 a woman named [Preen](../dossiers/preen), who matched the description of someone who could vanish at will and who had likely been the one to lift Taelin's bag while Galloc held the party's attention on the street. With that piece in place, Ozborn laid out a deal for Galloc plainly: the SPI would ensure the case never went to court and the carafe would leave town, and in exchange, Galloc would point them toward the artifact's current location. Galloc agreed, hinting that something would turn up soon if the agents kept their word and left his crew alone. He dropped back through the trapdoor, and the two agents made their way down from the rooftops \u2014 Freki via a rusted fire escape, Ozborn by dropping a dagger to the street below and appearing beside it.\n\nThe triumphant return to the local SPI office was immediately humbled by a locked door. [Vex](../dossiers/vex-morradine) had gone home for the night and taken the only key with him, leaving behind nothing but an IOU note promising a visit to the locksmith. What followed was a prolonged and increasingly chaotic series of attempts to gain entry: Vondal's familiar Murphy, in cat form, managed to pop a window latch and get inside, but the door remained stubbornly shut. Vondal attempted to manipulate the lock's internal mechanisms with a spectral hand, accidentally gumming up the tumblers with ectoplasm. By the time Freki and Ozborn arrived to find their teammates still locked out, Ozborn's attempt with his thieves' tools ended in failure and the eventual, disgusted disposal of the entire set into a nearby dumpster.\n\nThe party eventually coordinated a solution involving the portable hole \u2014 a magical extradimensional space furnished with tiki torches and a folding table \u2014 to get everyone inside without further damaging the property. Freki, who harbored a deep and well-documented trauma around the portable hole from a previous incident, grumbled through the entire process. Once inside, they used the office's teleportation circle to travel back to the main SPI headquarters, where [Mallory](../dossiers/mallory) was waiting and the lights in [Cassandra](../dossiers/cassandra)'s lab were still burning.\n\nBec and Ozborn briefed Mallory on the situation with the blunt efficiency of agents who had seen stranger things: there had been a murder, they had the suspect in custody, and she had formally requested asylum. Mallory raised an eyebrow at the detail that the murder suspect had been left alone in a portable hole with one of his best agents, but the party assured him that Callie was perfectly capable of handling herself. Cassandra was pulled from her lab, looking haggard from a long night of paperwork, and the group gathered in Mallory's office to conduct a proper interview.\n\nTaelin, now seated and somewhat steadier, laid out the full story with the precision of someone who had spent years managing legal documents. She had been with Kerwin's firm for three years, and the carafe's influence had been present the entire time, slowly eroding her memories of her previous life, her partner, her interests, everything that had made her herself. Six weeks ago, a business trip to [Abriymoch](../locales/abriymoch) on the judicial island of [Phlegethos](../locales/phlegethos) had taken her far enough from the artifact that her mind had begun to clear. She had used that clarity to write herself a letter, mailed it home, and returned to the firm knowing she would fall back under the influence \u2014 but trusting her clear-headed self to have left her a way out.\n\nThe letter had contained a plan to steal the carafe and break Kerwin's hold on the firm. When Kerwin refused to give it up, Taelin's anger had overtaken her, and the plan had ended in violence. She described the legal defense she had researched \u2014 constructive coercion by a hazardous artifact \u2014 and noted that the lawyer [Serelda Voth](../dossiers/serelda-voth)'s team had independently uncovered the same ancient precedent and was likely planning to use it to pursue Kerwin's estate. The carafe, she insisted, could not be allowed to remain in circulation. It had already destroyed too many lives.\n\nCassandra stepped forward and attempted to perform a miracle to clear the remaining corruption from Taelin's mind, her eyes blazing white as she uttered a word of incomprehensible power \u2014 but the effort left her trembling and spent. She had pushed herself too hard for too long. Rather than give up, she turned to Callie and offered what remained of her strength, merging her essence temporarily with the gnome cleric's so that Callie could channel the power of not two but three divine presences at once. Callie's medallion burned hot against her chest as she laid her hands on Taelin's head and called upon her goddesses with everything she had.\n\nThe flash of energy that followed was clean and complete. Taelin's eyes snapped open, sharp and clear, and she said simply that she thought it had worked. The three years of slow, grinding magical corruption dissolved in an instant, and for the first time in a very long time, Taelin was entirely herself again. She remembered the name of her partner \u2014 Davan \u2014 and the place she had once been offered a job, Crestfall, and all the things she had given up without ever quite realizing she was giving them up.\n\nWith Taelin restored and secured, Ozborn pulled Mallory aside for a quiet word. He explained that he had made contact with a figure in the local underworld who had agreed to provide a tip on the carafe's location, and that the criminal elements in Trell wanted the artifact gone just as badly as the SPI did. He requested discretionary funds to pursue the lead through the city's underworld channels, and Mallory granted it without hesitation. Ozborn looked at the bag of coin, looked at the rest of his team, and announced with complete confidence that he had a plan \u2014 it was a good plan, it was going to cost some money, and they were going to get the receipts.",
     "title": "[18e05] You Say Tomato, I Say Potato",
     "when": "AC50 Vis 22"
   },
   {
     "body": "",
-    "classic_summary": "Last we left off, our investigators gathered at [SPI Headquarters](../locales/spi-hq) for a morning briefing with the real [Mallory](../dossiers/mallory)\u2014confirmed genuine by [Freki](../dossiers/freki)'s ever-reliable nose\u2014who wasted no time delivering grim news: [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead, his building already sealed by the Warlocks of the Archfiend. Mallory laid out the full picture with characteristic efficiency: a vengeful ex-wife named [Serelda Voth](../dossiers/serelda-voth) pursuing a devastating lawsuit, a pair of dangerous bodyguards with ties to the corporate arm of [Mammon](../dossiers/mammon) himself, three feuding factions carving up the Harbor District, and a missing carafe at the center of it all. The team was handed five investigative priorities, a bag of five hundred gold pieces, and\u2014after [Ozborn](../dossiers/oz)'s rather theatrical interception of a concealed document\u2014Mallory's charmingly hand-drawn personal notes, complete with stick figures and a tiny dagger beside [Galloc](../dossiers/galloc)'s name.\n\nTeleporting to [Trell](../locales/trell), the group touched base with their local contact [Vex](../dossiers/vex-morradine), who received the mention of Highmark Ventures with a stillness that spoke volumes, before setting out through smoggy streets toward the humble apartment of [Xarlus Shale](../dossiers/xarlus-shale), Kerwin's finance manager. They found him groggy, shirtless, and startlingly optimistic\u2014his first instinct upon learning of his employer's murder was to suggest a simple resurrection, apparently unaware of Trell's permitting requirements. The conversation yielded useful threads: lawyers for Serelda had visited the office repeatedly, the financial ledger remained locked inside the sealed crime scene, and Xarlus had never personally dealt with Galloc or [Preen](../dossiers/preen), though he confirmed the security arrangement's Highmark connections.\n\nNow, as the team balanced themselves between window ledges and rafters, a young tiefling wreathed in flame came pounding up the stairs\u2014a representative of the Infernal Order of [Asmodeus](../dossiers/asmodeus), arriving to claim his own piece of the investigation. With the Warlocks at the door and Xarlus on the other side of it, our investigators find themselves caught between the law, the flames, and a mystery that grows more tangled with every floor they climb...",
+    "classic_summary": "Last we left off, our investigators gathered at [SPI Headquarters](../locales/spi-hq) for a morning briefing with the real [Mallory](../dossiers/mallory)\u2014confirmed genuine by [Freki](../dossiers/freki)'s ever-reliable nose\u2014who wasted no time delivering grim news: [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead, his building already sealed by the Order of Mammon warlocks. Mallory laid out the full picture with characteristic efficiency: a vengeful ex-wife named [Serelda Voth](../dossiers/serelda-voth) pursuing a devastating lawsuit, a pair of dangerous bodyguards with ties to the corporate arm of [Mammon](../dossiers/mammon) himself, three feuding factions carving up the Harbor District, and a missing carafe at the center of it all. The team was handed five investigative priorities, a bag of five hundred gold pieces, and\u2014after [Ozborn](../dossiers/oz)'s rather theatrical interception of a concealed document\u2014Mallory's charmingly hand-drawn personal notes, complete with stick figures and a tiny dagger beside [Galloc](../dossiers/galloc)'s name.\n\nTeleporting to [Trell](../locales/trell), the group touched base with their local contact [Vex](../dossiers/vex-morradine), who received the mention of [Highmark Ventures](../orgs/highmark-ventures) with a stillness that spoke volumes, before setting out through smoggy streets toward the humble apartment of [Xarlus Shale](../dossiers/xarlus-shale), Kerwin's finance manager. They found him groggy, shirtless, and startlingly optimistic\u2014his first instinct upon learning of his employer's murder was to suggest a simple resurrection, apparently unaware of Trell's permitting requirements. The conversation yielded useful threads: lawyers for Serelda had visited the office repeatedly, the financial ledger remained locked inside the sealed crime scene, and Xarlus had never personally dealt with Galloc or [Preen](../dossiers/preen), though he confirmed the security arrangement's Highmark connections.\n\nNow, as the team balanced themselves between window ledges and rafters, a young tiefling wreathed in flame came pounding up the stairs\u2014a representative of the Infernal Order of [Asmodeus](../dossiers/asmodeus), arriving to claim his own piece of the investigation. With the warlocks at the door and Xarlus on the other side of it, our investigators find themselves caught between the law, the flames, and a mystery that grows more tangled with every floor they climb...",
     "datestamp": "50-06-14/06",
     "description": "Mallory briefs the agents on Kerwin's murder, and they track down his finance manager Xarlus Shale, until the Warlocks of Asmodeus come knocking.",
     "id": "events/case-18e06",
@@ -14685,7 +14711,7 @@
       }
     ],
     "layout": "session",
-    "limerick_style_summary": "Old [Mallory](../dossiers/mallory) tossed coin on the table,\nAnd briefed them as fast as he was able:\n\"[Kerwin Ulvas](../dossiers/kerwin-ulvas) is dead,\nWarlocks sealed up his stead\u2014\nNow go sort this mess, if you're able!\"\n\nThen [Ozborn](../dossiers/oz) pulled off a slick heist,\nAnd snatched Mallory's notes in a trice;\nStick figures and all,\nPinned up on the wall\u2014\nA dagger by [Galloc](../dossiers/galloc) sufficed!\n\nTo [Trell](../locales/trell) they arrived through the haze,\nWhere [Vex](../dossiers/vex-morradine) froze at Highmark's dark name;\nHe smoothed out his face,\nBut they all saw the trace\nOf a man who knew more than he'd claim!\n\nThey woke [Xarlus Shale](../dossiers/xarlus-shale), barely dressed,\nWhose apartment was humble at best;\n\"Just resurrect him!\"\nHe said on a whim\u2014\nOzborn bluffed warrants; Xarlus wasn't impressed!\n\nNow footsteps came fast up the stair,\nA tiefling in flames filled the air;\nThe party held tight\nTo the rafters in fright\u2014\nThe Warlocks of [Asmodeus](../dossiers/asmodeus) were there!",
+    "limerick_style_summary": "Old [Mallory](../dossiers/mallory) tossed coin on the table,\nAnd briefed them as fast as he was able:\n\"[Kerwin Ulvas](../dossiers/kerwin-ulvas) is dead,\nWarlocks sealed up his stead\u2014\nNow go sort this mess, if you're able!\"\n\nThen [Ozborn](../dossiers/oz) pulled off a slick heist,\nAnd snatched Mallory's notes in a trice;\nStick figures and all,\nPinned up on the wall\u2014\nA dagger by [Galloc](../dossiers/galloc) sufficed!\n\nTo [Trell](../locales/trell) they arrived through the haze,\nWhere [Vex](../dossiers/vex-morradine) froze at [Highmark](../orgs/highmark-ventures)'s dark name;\nHe smoothed out his face,\nBut they all saw the trace\nOf a man who knew more than he'd claim!\n\nThey woke [Xarlus Shale](../dossiers/xarlus-shale), barely dressed,\nWhose apartment was humble at best;\n\"Just resurrect him!\"\nHe said on a whim\u2014\nOzborn bluffed warrants; Xarlus wasn't impressed!\n\nNow footsteps came fast up the stair,\nA tiefling in flames filled the air;\nThe party held tight\nTo the rafters in fright\u2014\nA warlock of [Asmodeus](../dossiers/asmodeus) was there!",
     "locations": [
       {
         "description": "The central base of operations for the Supernatural Phenomena Investigators, featuring sterile offices, communal briefing rooms with corkboards for mission planning, and barracks with curtained canopy beds for agents.",
@@ -14705,7 +14731,7 @@
         "name": "Trell SPI Office"
       },
       {
-        "description": "An overcast, smoggy, and dilapidated district where the buildings are falling apart, chosen by the previous SPI manager to blend into the criminal underworld.",
+        "description": "An overcast, smoggy, and dilapidated district where the buildings are falling apart, chosen by the [previous SPI manager](../dossiers/victor-rocksmith) to blend into the criminal underworld.",
         "name": "The Streets of Trell"
       },
       {
@@ -14760,7 +14786,7 @@
       },
       {
         "context": "A cryptic and ominous warning delivered as the party prepares to re-enter Trell for their investigation",
-        "description": "Freki's ravens Hugin and Munin warn him that Trell lies at the center of the flux storm\u2014the safest place from the flux, but profoundly dangerous because he is not grounded in his power there.",
+        "description": "Freki's ravens Hugin and Munin warn him that SPI HQ lies at the center of the flux storm\u2014the safest place from the flux, but profoundly dangerous because he is not grounded in his power there.",
         "is_quote": false,
         "speaker": "",
         "type": "intriguing"
@@ -14808,7 +14834,7 @@
         "type": "funny"
       }
     ],
-    "middle_english_summary": "Harke well, ye souls of curious mind,\nTo deeds of daring, darkly twined;\nWhere [Mallory](../dossiers/mallory), stout and silver-haired,\nDid lay the grim case, nothing spared\u2014\nA dead man's name upon the wind!\n\nThe portraits pinned, the coin was cast,\nFive hundred gold to hold them fast;\nA carafe lost, a widow's wrath,\nA lawsuit carved a ruinous path,\nAnd Warlocks sealed the doors shut fast!\n\nThen [Ozborn](../dossiers/oz), swift of hand and wit,\nDid steal the page\u2014Mallory submit!\nWith stick-drawn men and daggers small,\nThe notes revealed the truth of all,\nAnd laughter rang where candles lit!\n\nTo [Trell](../locales/trell) they leapt through magic's door,\nAnd [Vex](../dossiers/vex-morradine) stood still at Highmark's lore;\nThen [Xarlus](../dossiers/xarlus-shale), bleary, shirtless, pale,\nDid hear his master's mortal tale,\nAnd dreamed of life restored once more!\n\nNow fire walks upon the stair,\nA tiefling's voice cuts through the air;\nThe party clings to rafter's height,\nHalf-swallowed by the morning light\u2014\nWhat fate awaits them, who would dare?",
+    "middle_english_summary": "Harke well, ye souls of curious mind,\nTo deeds of daring, darkly twined;\nWhere [Mallory](../dossiers/mallory), stout and silver-haired,\nDid lay the grim case, nothing spared\u2014\nA dead man's name upon the wind!\n\nThe portraits pinned, the coin was cast,\nFive hundred gold to hold them fast;\nA carafe lost, a widow's wrath,\nA lawsuit carved a ruinous path,\nAnd warlocks sealed the doors shut fast!\n\nThen [Ozborn](../dossiers/oz), swift of hand and wit,\nDid steal the page\u2014Mallory submit!\nWith stick-drawn men and daggers small,\nThe notes revealed the truth of all,\nAnd laughter rang where candles lit!\n\nTo [Trell](../locales/trell) they leapt through magic's door,\nAnd [Vex](../dossiers/vex-morradine) stood still at [Highmark](../orgs/highmark-ventures)'s lore;\nThen [Xarlus](../dossiers/xarlus-shale), bleary, shirtless, pale,\nDid hear his master's mortal tale,\nAnd dreamed of life restored once more!\n\nNow fire walks upon the stair,\nA tiefling's voice cuts through the air;\nThe party clings to rafter's height,\nHalf-swallowed by the morning light\u2014\nWhat fate awaits them, who would dare?",
     "npcs": [
       {
         "description": "The dwarven manager of the SPI, known for his dogged attention to detail and professional demeanor. He conducts the morning briefing using a corkboard with magically-aided portraits, provides mission funds, and outlines five key investigative priorities for the party.",
@@ -14867,7 +14893,8 @@
       },
       {
         "description": "Kerwin Ulvas's booking manager who discovered his body and called the authorities. She is considered a key witness who is likely already in Warlock custody.",
-        "name": "Melissa Dorleac"
+        "name": "Nalista Dorlies",
+        "wiki": "../dossiers/nalista-dorlies"
       },
       {
         "description": "The finance manager for Kerwin Ulvas's firm, Ulvan Transitional Assets. He lives in a surprisingly humble hostel room despite his professional standing, likely due to the lingering influence of the carafe. He is cooperative but defensive about his late boss, naively suggests resurrection as a solution, and is slowly recovering from the artifact's mental influence.",
@@ -14890,7 +14917,7 @@
         "wiki": "../dossiers/mammon"
       },
       {
-        "description": "Mystical ravens associated with Freki that provide cryptic warnings, telling him that Trell lies at the center of the flux storm and that he is not grounded in his power there, though neither is his enemy.",
+        "description": "Mystical ravens associated with Freki that provide cryptic advice, telling him that SPI HQ lies at the center of the flux storm and that he is not grounded in his power there, though neither is his enemy.",
         "name": "Hugin and Munin"
       },
       {
@@ -14899,22 +14926,22 @@
       },
       {
         "description": "A young but exceptionally powerful tiefling wreathed in fire representing the Infernal Order of Asmodeus, who arrives at Xarlus's apartment door demanding entry as the session ends.",
-        "name": "Infernal Order Warlock"
+        "name": "Infernal Order Warlock",
+        "wiki": "../dossiers/vael"
       }
     ],
-    "reviewed": false,
     "scenes": [
       {
         "description": "The party gathers for a morning briefing with [Mallory](../dossiers/mallory), who provides funds and intelligence regarding their mission in [Trell](../locales/trell).",
         "key_events": [
-          "Freki changes his familiar, Murky, back into the form of a cat.",
+          "Freki changes his familiar, [Murky](../dossiers/murky), back into the form of a cat.",
           "The party meets with Mallory, confirming he is the original dwarf and not the changeling double, [Eeoram](../dossiers/eeoram-sufur), based on subtle differences in beard hair and scent.",
           "Mallory provides the party with a heavy bag containing 500 gold pieces worth of mixed currency for their mission expenses.",
-          "Mallory reveals that [Kerwin Ulvas](../dossiers/kerwin-ulvas) was found dead that morning, and the building has been sealed by Warlocks of the Archfiend.",
+          "Mallory reveals that [Kerwin Ulvas](../dossiers/kerwin-ulvas) was found dead that morning, and the building has been sealed by Order of [Mammon](../dossiers/mammon) warlocks.",
           "Mallory begins a briefing using a corkboard, displaying magically-aided portraits of key figures including [Serelda Voth](../dossiers/serelda-voth), Callie Rockwell, and Kerwin Ulvas.",
           "The party learns that Serelda Voth has filed a legal complaint against Callie Rockwell, seeking 200,000 gold pieces in damages related to the carafe.",
           "Bec is given a key to the [SPI](../orgs/spi) office in Trell to avoid future lockouts.",
-          "Mallory explains the legal situation regarding Serelda Voth's lawsuit and the potential defense strategies, including a preemptive filing by Kerwin's law firm, Ercian & Brass.",
+          "Mallory explains the legal situation regarding Serelda Voth's lawsuit and the potential defense strategies, including a preemptive filing by Kerwin's law firm, [Ercian & Brass](../orgs/ercian-brass).",
           "[Taelin Fosse](../dossiers/taelin-fosse) is identified as a crucial legal asset due to her professional background and firsthand experience with the carafe's influence.",
           "The party is warned about the power of Trell's Warlock Enforcement and their connection to [Asmodeus](../dossiers/asmodeus)."
         ],
@@ -14923,13 +14950,13 @@
       {
         "description": "Mallory provides the SPI agents with a detailed breakdown of the factions, informants, and suspects operating within the Harbor District.",
         "key_events": [
-          "Mallory details the background of Kerwin's bodyguards, [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen), linking them to Highmark Ventures.",
+          "Mallory details the background of Kerwin's bodyguards, [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen), linking them to [Highmark Ventures](../orgs/highmark-ventures).",
           "The three primary harbor factions\u2014the Blues (Dockworkers' Union), the Scarlets, and the Crimsons\u2014are introduced along with their respective leaders and headquarters.",
           "[Sorra Kell](../dossiers/sorra-kell) is introduced as a pragmatic, older leader of the Blues who runs the Rusted Capstan.",
           "[Vordas Shek](../dossiers/vordas-shek) is introduced as a cold information broker who fronts as a bartender at the Ramshackle Ram.",
           "[Ceth Aldras](../dossiers/ceth-aldras) is introduced as the watchful, paranoid leader of the Crimsons at the Ember Keep.",
           "Mallory advises the team on how to approach the various faction leaders, authorizing the use of gold for bribes and information broker fees.",
-          "Mallory presents information on Melissa Dorleac and [Xarlus Shale](../dossiers/xarlus-shale), urging the party to interview them before local authorities do.",
+          "Mallory presents information on [Nalista Dorlies](../dossiers/nalista-dorlies) and [Xarlus Shale](../dossiers/xarlus-shale), urging the party to interview them before local authorities do.",
           "[Thresh](../dossiers/thresh), a contract devil serving as Harbor District Notary, is identified as a potential source of legal filing information.",
           "The party is warned about potential conflicting loyalties regarding [Bec](../dossiers/bec)'s history with Highmark Ventures."
         ],
@@ -14953,7 +14980,7 @@
           "[Vondal](../dossiers/vondal) proposes a legal loophole: if the carafe compromised Kerwin's sanity, his divorce from Serelda might be legally invalid, meaning she could inherit his estate and potentially drop her lawsuit.",
           "Mallory agrees to discuss this legal strategy with Taelin while the party goes into the field.",
           "The party discusses the Noffindorf contract draft left on Kerwin's desk, which Callie recalls overhearing snippets of during her surveillance.",
-          "Mallory notes that the carafe bears the signature markings of the Noffindorfs, suggesting they are the creators.",
+          "Mallory notes that the carafe bears the signature markings of the [Noffindorfs](../orgs/noffindorfs), suggesting they are the creators.",
           "The party considers the risks of reaching out to the volatile Noffindorfs to gain leverage.",
           "The party suggests hiring Taelin as an SPI administrative assistant due to her transferable legal skills.",
           "Ozborn collects a handful of thumbtacks from Mallory's office to mix with his ball bearings for use as improvised caltrops."
@@ -14989,8 +15016,8 @@
           "The party briefs Vex on Kerwin's death and Taelin's current asylum status at headquarters.",
           "Vex becomes visibly still and tense when the party mentions Highmark Ventures.",
           "Vex provides the party with the personal residential addresses for Xarlus Shale and Serelda Voth on a scrap of paper.",
-          "Vex notes that Melissa Dorleac is likely already in custody with the Warlocks, but suggests Xarlus Shale may not yet have been found.",
-          "Freki communes with his ravens, [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin), who warn him that Trell lies at the center of the flux storm and that he is not grounded in his power there."
+          "Vex notes that [Nalista Dorlies](../dossiers/nalista-dorlies) is likely already in custody with the warlocks, but suggests Xarlus Shale may not yet have been found.",
+          "Freki communes with his ravens, [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin), who warn him that [SPI HQ](../locales/spi-hq) lies at the center of the [flux](../locales/flux) storm and that he is not grounded in his power there."
         ],
         "title": "Return to Trell and Briefing Vex"
       },
@@ -15024,7 +15051,7 @@
         "key_events": [
           "Ozborn ushers the rest of the party out of the room to conduct a more focused interrogation with Vex.",
           "Ozborn employs his natural charm and Panache ability to lower Xarlus's defenses, though he senses the same slippery, malleable quality he noticed with Taelin.",
-          "Xarlus reveals he has worked for Kerwin for about a year and was deeply invested in the success of Ulvan Transitional Assets, hoping to eventually become a partner.",
+          "Xarlus reveals he has worked for Kerwin for about a year and was deeply invested in the success of [Ulvan Transitional Assets](../orgs/ulvan-transitional-assets), hoping to eventually become a partner.",
           "Xarlus expresses shock at Kerwin's death and naively suggests using resurrection magic to identify the killer, unaware that Trell requires a legal permit for resurrection.",
           "Vex questions Xarlus about the company's ties to Highmark Ventures; Xarlus admits the company's security was contracted through a shell company likely linked to Highmark.",
           "Xarlus mentions that lawyers representing Serelda had visited the office multiple times, though he was excluded from those meetings.",
@@ -15053,8 +15080,8 @@
     ],
     "session-date": "2026-09-19",
     "session-number": 103,
-    "short_summary": "The session opened with the team receiving a thorough briefing from the real [Mallory](../dossiers/mallory) at [SPI Headquarters](../locales/spi-hq)\u2014confirmed genuine by [Freki](../dossiers/freki)'s nose\u2014who informed them that [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead that morning, with the Warlocks of the Archfiend already sealing the scene. Mallory outlined the key players, including Kerwin's ex-wife [Serelda Voth](../dossiers/serelda-voth) and her legal team at Vordache & Solm, the potentially invaluable witness [Taelin Fosse](../dossiers/taelin-fosse), and the dangerous bodyguards [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen)\u2014the latter believed to be in possession of the missing carafe. He assigned five investigative priorities, funded the team with five hundred gold pieces, and set firm ethical limits on [SPI](../orgs/spi)'s involvement. Notably, [Vondal](../dossiers/vondal) raised the sharp legal point that the carafe's influence on Kerwin's sanity might invalidate his divorce from Serelda, potentially making her his heir and undermining her lawsuit against [Callie](../dossiers/callie)\u2014an angle Mallory agreed to explore with Taelin. Before departing, [Ozborn](../dossiers/oz) cheekily pickpocketed Mallory's personal notes\u2014a charming hand-drawn sheet of stick figures and dagger doodles\u2014and Callie quietly checked on the mysteriously sleeping [Cassandra](../dossiers/cassandra), whose own divine aura seemed to cast an impossible shadow, suggesting she had been magically suppressing her need for rest until her body finally gave out.\n\nThe team teleported to [Trell](../locales/trell), where their contact [Vex](../dossiers/vex-morradine) briefed them further and provided addresses for Kerwin's finance manager [Xarlus Shale](../dossiers/xarlus-shale) and Serelda Voth, urging them to reach Xarlus before the Warlocks did. A notable moment of tension arose when Highmark Ventures was mentioned\u2014Vex went briefly but visibly still, betraying quiet unease beneath his composed exterior. The party found Xarlus in a surprisingly sparse apartment, groggy and stunned by the news of Kerwin's death, though his first instinct was to simply suggest resurrecting his boss. He confirmed that Highmark-linked security had been contracted through a shell company and that Serelda's lawyers had made repeated visits to the office, though he had been excluded from those meetings. The conversation was cut short when rapid footsteps on the stairs heralded the arrival of a fiery young tiefling representing the Infernal Order of [Asmodeus](../dossiers/asmodeus), demanding entry\u2014leaving the party scrambling out windows and clinging to rafters as the Warlocks moved in to claim their own piece of the investigation.",
-    "snarky_summary": "When last we left our intrepid investigators, they were treated to a full [Mallory](../dossiers/mallory) briefing\u2014which is basically a PowerPoint presentation if PowerPoint were a corkboard, magically rendered portraits, and a secret sheet of paper with stick figures on it that [Ozborn](../dossiers/oz) absolutely had to steal through an unnecessarily dramatic double-bump maneuver. The case? A dead music mogul, a furious ex-wife swinging a two-hundred-thousand-gold lawsuit like a wrecking ball, a missing magic carafe, bodyguards with ties to the literal corporate arm of the god of greed, and three gang factions who all hate each other for reasons that are definitely not personal. Oh, and [Cassandra](../dossiers/cassandra) is apparently running on fumes and divine magic in a way that is deeply concerning and that everyone agreed to deal with later, as one does.\n\nThe team then teleported to [Trell](../locales/trell), had a very normal conversation with their contact [Vex](../dossiers/vex-morradine)\u2014who definitely did not visibly short-circuit when Highmark Ventures was mentioned\u2014and proceeded to wake up a shirtless finance bro named [Xarlus Shale](../dossiers/xarlus-shale), whose apartment contained a bed, a pot, and three books, and whose first response to learning his boss was murdered was \"have you considered just bringing him back to life?\" Ozborn bluffed about having a warrant. Xarlus called it. Nobody won. And now a fire-wreathed tiefling is pounding on the door while the party dangles out of a third-floor window, which is, honestly, a very on-brand way to end a Tuesday.",
+    "short_summary": "The session opened with the team receiving a thorough briefing from the real [Mallory](../dossiers/mallory) at [SPI Headquarters](../locales/spi-hq)\u2014confirmed genuine by [Freki](../dossiers/freki)'s nose\u2014who informed them that [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead that morning, with the Warlocks of the Archfiend already sealing the scene. Mallory outlined the key players, including Kerwin's ex-wife [Serelda Voth](../dossiers/serelda-voth) and her legal team at [Vordache & Solm](../orgs/vordache-solm), the potentially invaluable witness [Taelin Fosse](../dossiers/taelin-fosse), and the dangerous bodyguards [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen)\u2014the latter believed to be in possession of the missing carafe. He assigned five investigative priorities, funded the team with five hundred gold pieces, and set firm ethical limits on [SPI](../orgs/spi)'s involvement. Notably, [Vondal](../dossiers/vondal) raised the sharp legal point that the carafe's influence on Kerwin's sanity might invalidate his divorce from Serelda, potentially making her his heir and undermining her lawsuit against [Callie](../dossiers/callie)\u2014an angle Mallory agreed to explore with Taelin. Before departing, [Ozborn](../dossiers/oz) cheekily pickpocketed Mallory's personal notes\u2014a charming hand-drawn sheet of stick figures and dagger doodles\u2014and Callie quietly checked on the sleeping [Cassandra](../dossiers/cassandra), whose own divine aura seemed to cast an impossible shadow, suggesting she had been magically suppressing her need for rest until her body finally gave out.\n\nThe team teleported to [Trell](../locales/trell), where their contact [Vex](../dossiers/vex-morradine) briefed them further and provided addresses for Kerwin's finance manager [Xarlus Shale](../dossiers/xarlus-shale) and Serelda Voth, urging them to reach Xarlus before the Warlocks did. A notable moment of tension arose when [Highmark Ventures](../orgs/highmark-ventures) was mentioned\u2014Vex went briefly but visibly still, betraying quiet unease beneath his composed exterior. The party found Xarlus in a surprisingly sparse apartment, groggy and stunned by the news of Kerwin's death, though his first instinct was to simply suggest resurrecting his boss. He confirmed that Highmark-linked security had been contracted through a shell company and that Serelda's lawyers had made repeated visits to the office, though he had been excluded from those meetings. The conversation was cut short when rapid footsteps on the stairs heralded the arrival of a fiery young tiefling representing the Infernal Order of [Asmodeus](../dossiers/asmodeus), demanding entry\u2014leaving the party scrambling out windows and clinging to rafters as the Warlocks moved in to claim their own piece of the investigation.",
+    "snarky_summary": "When last we left our intrepid investigators, they were treated to a full [Mallory](../dossiers/mallory) briefing\u2014which is basically a PowerPoint presentation if PowerPoint were a corkboard, magically rendered portraits, and a secret sheet of paper with stick figures on it that [Ozborn](../dossiers/oz) absolutely had to steal through an unnecessarily dramatic double-bump maneuver. The case? A dead music mogul, a furious ex-wife swinging a two-hundred-thousand-gold lawsuit like a wrecking ball, a missing magic carafe, bodyguards with ties to the literal corporate arm of the god of greed, and three gang factions who all hate each other for reasons that are definitely not personal. Oh, and [Cassandra](../dossiers/cassandra) is apparently running on fumes and divine magic in a way that is deeply concerning and that everyone agreed to deal with later, as one does.\n\nThe team then teleported to [Trell](../locales/trell), had a very normal conversation with their contact [Vex](../dossiers/vex-morradine)\u2014who definitely did not visibly short-circuit when [Highmark Ventures](../orgs/highmark-ventures) was mentioned\u2014and proceeded to wake up a shirtless finance bro named [Xarlus Shale](../dossiers/xarlus-shale), whose apartment contained a bed, a pot, and three books, and whose first response to learning his boss was murdered was \"have you considered just bringing him back to life?\" Ozborn bluffed about having a warrant. Xarlus called it. Nobody won. And now a fire-wreathed tiefling is pounding on the door while the party dangles out of a third-floor window, which is, honestly, a very on-brand way to end a Tuesday.",
     "spells": [
       {
         "description": "Cast by Callie as a ritual on the sleeping Cassandra, revealing a powerful divine aura exuding from her that strangely seems to cast a shadow that isn't physically there. The aura is identified as part of Cassandra's nature rather than an external enchantment.",
@@ -15077,7 +15104,7 @@
         "rules": "https://2014.5e.tools/spells.html#message_phb"
       }
     ],
-    "summary": "The morning began with the team assembling in the communal briefing room at [SPI Headquarters](../locales/spi-hq), where the real [Mallory](../dossiers/mallory)\u2014not his changeling double, [Eeoram](../dossiers/eeoram-sufur)\u2014emerged from his office to greet them. [Freki](../dossiers/freki), whose keen nose had grown attuned to the subtle synthetic scent of changelings, confirmed with quiet confidence that this was the genuine article: the same old dwarf, smelling of familiarity rather than artifice. Mallory wasted no time, tossing a heavy bag of mixed coin onto the table\u2014five hundred gold pieces worth of silver and gold\u2014and informing the group that receipts were expected upon their return.\n\nThe news came quickly and without ceremony: [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead that morning by his booking manager, and the Warlocks of the Archfiend had already sealed the building. Mallory pinned a series of magically-rendered portraits to the corkboard with practiced efficiency, each one so lifelike that only the faintest pencil shading betrayed the hand of an artist. He walked the team through the key players: [Serelda Voth](../dossiers/serelda-voth), Kerwin's former wife, who had filed a sweeping legal complaint against Callie Rockwell seeking two hundred thousand gold pieces in damages and the submission of the carafe as evidence; and the law firm Vordache & Solm, who represented her and had apparently been strategizing around Kerwin's own preemptive legal filing for weeks.\n\nMallory explained that Kerwin's law firm, Ercian & Brass, had already filed a brief arguing that voluntary and prolonged use of the carafe diminished the original seller's liability\u2014a legal argument, not yet precedent, but one that could help [Callie](../dossiers/callie)'s defense. He was clear about the limits of [SPI](../orgs/spi)'s involvement: they would protect Callie physically and facilitate her access to legal counsel, but they would not bury evidence or coerce witnesses. He recommended the firm Perdition Mitigation, which had an office in Abriymoch, and suggested Callie's family connections might already open that door.\n\n[Taelin Fosse](../dossiers/taelin-fosse) was identified as Callie's most valuable legal asset. As a trained legal professional who had spent years inside Kerwin's operation and had watched the carafe's influence erode her own mind, her testimony could transform a weak defense into a compelling story of fraud and manipulation. Mallory also flagged the bodyguards [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen) as persons of interest, noting that Galloc was likely a freelancer working through Highmark Ventures\u2014the corporate arm of [Mammon](../dossiers/mammon) himself\u2014and that Preen, an extraordinarily skilled thief, was believed to be in possession of the missing carafe. [Bec](../dossiers/bec) was quietly warned not to be briefed on the Highmark angle until more was known about where his loyalties truly lay.\n\nThe briefing continued with a breakdown of the Harbor District's three competing factions. The Blues, anchored by the Dockworkers' Union and led by the pragmatic [Sorra Kell](../dossiers/sorra-kell), controlled the docks and the financial lifeblood of the region from their base at the Rusted Capstan. The Scarlets\u2014who called themselves the Asmodials\u2014operated out of the Ramshackle Ram, where a cold and calculating information broker named [Vordas Shek](../dossiers/vordas-shek) listened to everything from behind the bar. The Crimsons, led by the guarded and bitter [Ceth Aldras](../dossiers/ceth-aldras) at the Ember Keep, harbored a deep hatred for the Scarlets that felt rooted in something far older and more personal than mere rivalry.\n\nMallory also introduced [Thresh](../dossiers/thresh), a contract devil serving as the Harbor District's notary, who kept meticulous records of every legal filing in the area and would answer direct questions\u2014but only direct questions. He then outlined five investigative priorities: securing legal protection for Callie, clarifying the deal struck with Galloc, interviewing Kerwin's surviving staff before the Warlocks got to them, informing Serelda of her ex-husband's death, and investigating the contract draft left behind by the Noffindorfs. [Vondal](../dossiers/vondal) raised a sharp legal observation\u2014if the carafe had compromised Kerwin's sanity, his divorce from Serelda might be legally invalid, meaning she could stand to inherit his entire estate and might have little reason to continue her lawsuit against Callie. Mallory agreed it was worth exploring and said he would discuss the angle with Taelin while the team was in the field.\n\nBefore the briefing concluded, Mallory attempted to conceal a final sheet of paper in his folder. [Ozborn](../dossiers/oz) noticed immediately and, with a dazzling double-bump maneuver that left even Mallory momentarily outmaneuvered, slipped the paper free and flung it behind his back to Bec. Mallory sighed and admitted Ozborn could have simply asked, to which Ozborn replied that there would be no fun in that. The paper turned out to be a crude, hand-written list featuring stick figures and frowny faces\u2014Mallory's charmingly informal personal notes on the investigation, complete with a tiny dagger drawn next to Galloc's name and a little dress sketched beside Serelda's. Bec was also handed a key to the [Trell](../locales/trell) office door, sparing the team any future acrobatic entries through windows.\n\nBefore departing, Callie slipped into the women's dormitory to check on [Cassandra](../dossiers/cassandra), who lay deeply asleep with dark circles carved beneath her eyes. Performing a quiet ritual of magical sensing, Callie discovered a powerful divine aura radiating from the sleeping woman\u2014one that seemed, impossibly, to cast a shadow that vanished the moment she looked for it directly. The aura was unmistakably Cassandra's own, not an external enchantment, and the group concluded she had likely spent weeks using her own magic to bypass her need for rest until the technique stopped working. They left her undisturbed, drawing the bed canopy closed to darken her corner of the room.\n\nThe team teleported back to Trell and arrived at the SPI's local branch office, where their contact [Vex](../dossiers/vex-morradine) greeted them with a freshly brewed cup of local herbal tea he described as an upgraded offering. Freki's sharp nose caught the unfamiliar, slightly sooty aftertaste of ingredients native to Trell's rocky terrain\u2014natural, but foreign. The party briefed Vex on Kerwin's death and Taelin's asylum, and the moment Highmark Ventures was mentioned, Vex went completely still. He recovered smoothly, but those paying close attention sensed a flicker of genuine uncertainty beneath his composed exterior\u2014not deception exactly, but the quiet discomfort of a man who hoped the answer to a question was no, without being entirely sure.\n\nVex provided two residential addresses on a scrap of paper\u2014one for [Xarlus Shale](../dossiers/xarlus-shale), Kerwin's finance manager, and one for Serelda Voth\u2014and advised the team to reach Xarlus before the Warlocks did. As they walked through the overcast, smoggy streets toward the older district where Xarlus lived, Vex filled in additional details about the factions. He revealed his own past as a Highmark debt collector, explaining with quiet confidence that the locals gave him a wide berth out of experience and fear. Meanwhile, Freki's ravens delivered a cryptic warning: Trell lay at the center of the flux storm, a place where neither Freki nor his enemies could draw on the power of nature\u2014the safest place from the flux, and yet profoundly dangerous for exactly that reason.\n\nThe team arrived at a hostel in a more developed part of the city, its cobblestone streets and multi-story stone buildings a marked contrast to the crumbling Harbor District. They found unit 36 on the third floor and knocked, waking a groggy and shirtless Xarlus Shale, whose large dark eyes were even dewier than usual with sleep. His apartment was startlingly humble for a man who managed the finances of a thriving commercial operation\u2014a small bed, a cooking pot, and three books leaning against the wall were the sum of his possessions. Freki quietly helped himself to one of the three books, a volume titled The Psychology of Money, and began reading it with his lips moving while the interrogation proceeded around him.\n\nOzborn and Vex took the lead, ushering the rest of the party into the hallway to conduct a more focused conversation. Ozborn broke the news of Kerwin's death plainly, and Xarlus received it with a kind of stunned, tech-bro optimism\u2014his first instinct was to suggest simply resurrecting his boss and asking him directly who had killed him, apparently unaware that Trell required a legal permit for such magic. He spoke warmly of Kerwin and the business, describing himself as deeply invested in its success and hoping to eventually become a partner. When pressed about Highmark Ventures, Xarlus confirmed that the company's security had been contracted through a shell company widely understood to be a Highmark proxy, though he had never personally dealt with Galloc or Preen.\n\nXarlus admitted that lawyers representing Serelda had visited the office multiple times during his tenure, though he had always been excluded from those meetings. He also confirmed that the only copy of the company's financial ledger remained at the now-sealed crime scene, making it inaccessible. Ozborn warned him to stay in his apartment and away from the Warlocks, and Xarlus pushed back, questioning whether the SPI even had the authority to tell him what to do. Ozborn bluffed confidently about having a warrant; Xarlus called the bluff just as confidently. The standoff ended with Ozborn promising to look into the possibility of resurrecting Kerwin on Xarlus's behalf, and Callie offering a quiet touch of divine healing to ease the pounding headache that had been building behind Xarlus's eyes as the carafe's lingering influence continued to unravel.\n\nThe sound of rapid footsteps on the stairs below cut the conversation short. Ozborn threw open the window for the group's escape, Vondal locked the apartment door behind them, and Ozborn himself leapt silently into a shadowed nook at the very top of the stairwell, clinging to the rafters like a spider. Moments later, a young tiefling wreathed in fire strode up the stairs two at a time and pounded on the locked door, announcing himself as a representative of the Infernal Order of [Asmodeus](../dossiers/asmodeus) and demanding that Xarlus Shale open up immediately. The party held their breath, scattered between the window ledge and the rafters, as the Warlocks arrived to claim their own piece of the investigation.",
+    "summary": "The morning began with the team assembling in the communal briefing room at [SPI Headquarters](../locales/spi-hq), where the real [Mallory](../dossiers/mallory)\u2014not his changeling double, [Eeoram](../dossiers/eeoram-sufur)\u2014emerged from his office to greet them. [Freki](../dossiers/freki), whose keen nose had grown attuned to the subtle synthetic scent of changelings, confirmed with quiet confidence that this was the genuine article: the same old dwarf, smelling of familiarity rather than artifice. Mallory wasted no time, tossing a heavy bag of mixed coin onto the table\u2014five hundred gold pieces worth of silver and gold\u2014and informing the group that receipts were expected upon their return.\n\nThe news came quickly and without ceremony: [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead that morning by his booking manager, and the Order of Mammon Warlocks had already sealed the building. Mallory pinned a series of magically-rendered portraits to the corkboard with practiced efficiency, each one so lifelike that only the faintest pencil shading betrayed the hand of an artist. He walked the team through the key players: [Serelda Voth](../dossiers/serelda-voth), Kerwin's former wife, who had filed a sweeping legal complaint against Callie Rockwell seeking two hundred thousand gold pieces in damages and the submission of the carafe as evidence; and the law firm [Vordache & Solm](../orgs/vordache-solm), who represented her and had apparently been strategizing around Kerwin's own preemptive legal filing for weeks.\n\nMallory explained that Kerwin's law firm, [Ercian & Brass](../orgs/ercian-brass), had already filed a brief arguing that voluntary and prolonged use of the carafe diminished the original seller's liability\u2014a legal argument, not yet precedent, but one that could help [Callie](../dossiers/callie)'s defense. He was clear about the limits of [SPI](../orgs/spi)'s involvement: they would protect Callie physically and facilitate her access to legal counsel, but they would not bury evidence or coerce witnesses. He recommended the firm [Perdition Mitigation](../orgs/perdition-mitigation), which had an office in [Abriymoch](../locales/abriymoch), and suggested Callie's family connections might already open that door.\n\n[Taelin Fosse](../dossiers/taelin-fosse) was identified as Callie's most valuable legal asset. As a trained legal professional who had spent years inside Kerwin's operation and had watched the carafe's influence erode her own mind, her testimony could transform a weak defense into a compelling story of fraud and manipulation. Mallory also flagged the bodyguards [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen) as persons of interest, noting that Galloc was likely a freelancer working through [Highmark Ventures](../orgs/highmark-ventures)\u2014the corporate arm of [Mammon](../dossiers/mammon) himself\u2014and that Preen, an extraordinarily skilled thief, was believed to be in possession of the missing carafe. [Bec](../dossiers/bec) was quietly warned not to be briefed on the Highmark angle until more was known about where his loyalties truly lay.\n\nThe briefing continued with a breakdown of the Harbor District's three competing factions. The Blues, anchored by the Dockworkers' Union and led by the pragmatic [Sorra Kell](../dossiers/sorra-kell), controlled the docks and the financial lifeblood of the region from their base at the Rusted Capstan. The Scarlets\u2014who called themselves the Asmodials\u2014operated out of the Ramshackle Ram, where a cold and calculating information broker named [Vordas Shek](../dossiers/vordas-shek) listened to everything from behind the bar. The Crimsons, led by the guarded and bitter [Ceth Aldras](../dossiers/ceth-aldras) at the Ember Keep, harbored a deep hatred for the Scarlets that felt rooted in something far older and more personal than mere rivalry.\n\nMallory also introduced [Thresh](../dossiers/thresh), a contract devil serving as the Harbor District's notary, who kept meticulous records of every legal filing in the area and would answer direct questions\u2014but only direct questions. He then outlined five investigative priorities: securing legal protection for Callie, clarifying the deal struck with Galloc, interviewing Kerwin's surviving staff before the Warlocks got to them, informing Serelda of her ex-husband's death, and investigating the contract draft left behind by the [Noffindorfs](../orgs/noffindorfs). [Vondal](../dossiers/vondal) raised a sharp legal observation\u2014if the carafe had compromised Kerwin's sanity, his divorce from Serelda might be legally invalid, meaning she could stand to inherit his entire estate and might have little reason to continue her lawsuit against Callie. Mallory agreed it was worth exploring and said he would discuss the angle with Taelin while the team was in the field.\n\nBefore the briefing concluded, Mallory attempted to conceal a final sheet of paper in his folder. [Ozborn](../dossiers/oz) noticed immediately and, with a dazzling double-bump maneuver that left even Mallory momentarily outmaneuvered, slipped the paper free and flung it behind his back to Bec. Mallory sighed and admitted Ozborn could have simply asked, to which Ozborn replied that there would be no fun in that. The paper turned out to be a crude, hand-written list featuring stick figures and frowny faces\u2014Mallory's charmingly informal personal notes on the investigation, complete with a tiny dagger drawn next to Galloc's name and a little dress sketched beside Serelda's. Bec was also handed a key to the [Trell](../locales/trell) office door, sparing the team any future acrobatic entries through windows.\n\nBefore departing, Callie slipped into the women's dormitory to check on [Cassandra](../dossiers/cassandra), who lay deeply asleep with dark circles carved beneath her eyes. Performing a quiet ritual of magical sensing, Callie discovered a powerful divine aura radiating from the sleeping woman\u2014one that seemed, impossibly, to cast a shadow that vanished the moment she looked for it directly. The aura was unmistakably Cassandra's own, not an external enchantment, and the group concluded she had likely spent weeks using her own magic to bypass her need for rest until the technique stopped working. They left her undisturbed, drawing the bed canopy closed to darken her corner of the room.\n\nThe team teleported back to Trell and arrived at the SPI's local branch office, where their contact [Vex](../dossiers/vex-morradine) greeted them with a freshly brewed cup of local herbal tea he described as an upgraded offering. Freki's sharp nose caught the unfamiliar, slightly sooty aftertaste of ingredients native to Trell's rocky terrain\u2014natural, but foreign. The party briefed Vex on Kerwin's death and Taelin's asylum, and the moment Highmark Ventures was mentioned, Vex went completely still. He recovered smoothly, but those paying close attention sensed a flicker of genuine uncertainty beneath his composed exterior\u2014not deception exactly, but the quiet discomfort of a man who hoped the answer to a question was no, without being entirely sure.\n\nVex provided two residential addresses on a scrap of paper\u2014one for [Xarlus Shale](../dossiers/xarlus-shale), Kerwin's finance manager, and one for Serelda Voth\u2014and advised the team to reach Xarlus before the Warlocks did. As they walked through the overcast, smoggy streets toward the older district where Xarlus lived, Vex filled in additional details about the factions. He revealed his own past as a Highmark debt collector, explaining with quiet confidence that the locals gave him a wide berth out of experience and fear. Meanwhile, Freki's ravens delivered a cryptic warning: SPI HQ lies at the center of the [flux](../locales/flux) storm, a place where neither Freki nor his enemies could draw on the power of nature\u2014the safest place from the flux, and yet profoundly dangerous for exactly that reason.\n\nThe team arrived at a hostel in a more developed part of the city, its cobblestone streets and multi-story stone buildings a marked contrast to the crumbling Harbor District. They found unit 36 on the third floor and knocked, waking a groggy and shirtless Xarlus Shale, whose large dark eyes were even dewier than usual with sleep. His apartment was startlingly humble for a man who managed the finances of a thriving commercial operation\u2014a small bed, a cooking pot, and three books leaning against the wall were the sum of his possessions. Freki quietly helped himself to one of the three books, a volume titled The Psychology of Money, and began reading it with his lips moving while the interrogation proceeded around him.\n\nOzborn and Vex took the lead, ushering the rest of the party into the hallway to conduct a more focused conversation. Ozborn broke the news of Kerwin's death plainly, and Xarlus received it with a kind of stunned, tech-bro optimism\u2014his first instinct was to suggest simply resurrecting his boss and asking him directly who had killed him, apparently unaware that Trell required a legal permit for such magic. He spoke warmly of Kerwin and the business, describing himself as deeply invested in its success and hoping to eventually become a partner. When pressed about Highmark Ventures, Xarlus confirmed that the company's security had been contracted through a shell company widely understood to be a Highmark proxy, though he had never personally dealt with Galloc or Preen.\n\nXarlus admitted that lawyers representing Serelda had visited the office multiple times during his tenure, though he had always been excluded from those meetings. He also confirmed that the only copy of the company's financial ledger remained at the now-sealed crime scene, making it inaccessible. Ozborn warned him to stay in his apartment and away from the Warlocks, and Xarlus pushed back, questioning whether the SPI even had the authority to tell him what to do. Ozborn bluffed confidently about having a warrant; Xarlus called the bluff just as confidently. The standoff ended with Ozborn promising to look into the possibility of resurrecting Kerwin on Xarlus's behalf, and Callie offering a quiet touch of divine healing to ease the pounding headache that had been building behind Xarlus's eyes as the carafe's lingering influence continued to unravel.\n\nThe sound of rapid footsteps on the stairs below cut the conversation short. Ozborn threw open the window for the group's escape, Vondal locked the apartment door behind them, and Ozborn himself leapt silently into a shadowed nook at the very top of the stairwell, clinging to the rafters like a spider. Moments later, a young tiefling wreathed in fire strode up the stairs two at a time and pounded on the locked door, announcing himself as a representative of the Infernal Order of [Asmodeus](../dossiers/asmodeus) and demanding that Xarlus Shale open up immediately. The party held their breath, scattered between the window ledge and the rafters, as the Warlocks arrived to claim their own piece of the investigation.",
     "title": "[18e06] Interview Interrupted",
     "when": "AC50 Vis 22"
   },
@@ -15949,9 +15976,31 @@
     "title": "Equilibrium"
   },
   {
+    "body": "The great city of [Phlegethos](phlegethos), and the judicial center of\n[Trell](trell), where the fates of corporations rise and fall through legal\nwarfare. Its iconic Crystalline Palace dominates the skyline&mdash;a gleaming\nmonument to wealth and power. This is where the boardrooms meet, where\ncontracts are signed, and where empires crumble under the weight of judicial\nverdicts.\n\n* [Serelda Voth](../dossiers/serelda-voth) comes from a minor branch of an\n  Abriymoch family, and filed her tort action against\n  [Callie](../dossiers/callie) in the Abriymoch court.\n* During a business trip to Abriymoch,\n  [Taelin Fosse](../dossiers/taelin-fosse)'s mind cleared long enough for her\n  to write herself a letter and buy a protective mask from a local alchemist.\n\nSee also: [Curses and Carafes](../events/case-18).\n",
+    "id": "locales/abriymoch",
+    "statbox": {
+      "case": [
+        "18"
+      ],
+      "nation": "[Trell](trell)",
+      "pois": [
+        "The Crystalline Palace",
+        "[Vordache & Solm](../orgs/vordache-solm)",
+        "[Ercian & Brass](../orgs/ercian-brass)",
+        "[Perdition Mitigation](../orgs/perdition-mitigation)"
+      ],
+      "region": "[Phlegethos](phlegethos)",
+      "type": "city"
+    },
+    "title": "Abriymoch"
+  },
+  {
     "body": "\n\nAecus is the name of the known world, consisting of eight nations:\n\n* W: [Cognitutus](cognitutus) and the [Infinite Ocean](ocean).\n* NW: the [Trell](trell) archipelago and the [Relentless Hurricane](hurricane).\n* N: the [Zephyr Federation](zephyr) in the [Ventosa Flatland](ventosa) and [Cliffs of Transcendance](cliffs), beyond which floats [Skyrealm](skyrealm).\n* NE: The [Radiant Union of Pelor](rup), an arid region consisting of the [Scorching Plains](plains) and [Desert of Ruin](desert), and bordering the [Endless Waste](waste).\n* E: The [Mountain and the Veldt](mountain), beyond which lies the [Everburn](everburn).\n* SE: The [Selva](selva), a vast rainforest leading into the [Jungle of Horrors](jungle).\n* S: The forests of [Elyria](elyria), which thicken southward into the [Deepwood](deepwood).\n* SW: The frozen undead nation of [Arallu](arallu), in which lies the [Forest of Shadows](forest-of-shadows), the [Acrid Marshes](marshes), the [Frozen Warrens](warrens), and the [Glacier of Titans](glacier).\n\nAnd in the center the [Flux](flux), an uninhabitable region bordering all nations.\n\nSee also [Aecus Concord](../orgs/ac), an organization founded in the wake of [The Vanishing](../events/the-vanishing).\n",
     "id": "locales/aecus",
     "image-map": "/equilibrium/assets/images/aecus-map.jpg",
+    "statbox": {
+      "type": "world"
+    },
     "title": "Aecus"
   },
   {
@@ -15969,6 +16018,13 @@
     "image-source": "https://www.pinterest.com/pin/224968943861315300/",
     "image2": "https://i.pinimg.com/originals/46/94/4d/46944d47137d55d4f0098820e08ead96.jpg",
     "image2-source": "https://www.pinterest.com/pin/aether-the-ethereal-realm--306385580910515124/",
+    "statbox": {
+      "case": [
+        "14"
+      ],
+      "nation": "[The Zephyr Federation](zephyr)",
+      "type": "city"
+    },
     "title": "Aether"
   },
   {
@@ -15994,6 +16050,14 @@
     "id": "locales/afterworld",
     "image": "https://i.pinimg.com/736x/a4/6f/71/a46f71be9acabae15ebf6b1748a50ee2.jpg",
     "image-source": "https://www.pinterest.com/pin/454089574908174759/",
+    "statbox": {
+      "case": [
+        "16",
+        "17",
+        "18"
+      ],
+      "type": "plane"
+    },
     "title": "The Afterworld"
   },
   {
@@ -16023,6 +16087,16 @@
     "id": "locales/alyeadu",
     "image": "https://i.pinimg.com/originals/1c/55/00/1c5500e20b3fdda6a0bf81f68ff68547.jpg",
     "image-source": "https://www.pinterest.com/pin/47358233562491935/",
+    "statbox": {
+      "case": [
+        "13",
+        "14",
+        "17",
+        "18"
+      ],
+      "nation": "[The Selva](selva)",
+      "type": "city"
+    },
     "title": "Alye'adu"
   },
   {
@@ -16032,6 +16106,12 @@
     "image-source": "https://www.pinterest.com/pin/402157441723898345/",
     "image2": "https://i.pinimg.com/originals/25/1e/fa/251efa803b3000751410f985ce1dc318.jpg",
     "image2-source": "https://www.pinterest.com/pin/328692472806935669/",
+    "statbox": {
+      "case": [
+        "11"
+      ],
+      "type": "city"
+    },
     "title": "Antigua"
   },
   {
@@ -16064,6 +16144,15 @@
     "image-spires": "https://i.pinimg.com/originals/65/d7/05/65d705f1f48822d52dcbbb03d4544aca.jpg",
     "image-spires-source": "https://www.pinterest.com/pin/38913984273249122/",
     "statbox": {
+      "case": [
+        "02",
+        "07",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
       "deities": [
         "vecna",
         "nerull"
@@ -16073,7 +16162,8 @@
         "N": "ocean",
         "NE": "flux",
         "SW": "glacier"
-      }
+      },
+      "type": "nation"
     },
     "title": "Arallu"
   },
@@ -16087,12 +16177,14 @@
         "Obsidian and crystal extraction",
         "Labor exploitation"
       ],
+      "nation": "[The Trell Archipelago](trell)",
       "pois": [
         "The Bronze Citadel"
       ],
       "rulers": [
         "[Zariel](../dossiers/zariel)"
-      ]
+      ],
+      "type": "island"
     },
     "title": "Avernus"
   },
@@ -16102,6 +16194,9 @@
     "image": "https://i.pinimg.com/originals/cd/a6/90/cda690886feb5902c507c5df341059b1.png",
     "image-source": "https://www.pinterest.com/pin/385691155590867399/",
     "image2-source": "https://www.pinterest.com/pin/382876405791743093/",
+    "statbox": {
+      "type": "region"
+    },
     "title": "Glorious Badlands"
   },
   {
@@ -16109,12 +16204,23 @@
     "id": "locales/bastion",
     "image": "https://i.pinimg.com/originals/6e/d8/03/6ed8031a90d59e485145147d4d0a572f.jpg",
     "image-source": "https://www.pinterest.com/pin/6544361939537432/",
+    "statbox": {
+      "type": "site"
+    },
     "title": "Bastion, Hall of Hyperion"
   },
   {
     "body": "TODO\n",
     "id": "locales/beastly-colosseum",
     "locale": "rup",
+    "statbox": {
+      "case": [
+        "01",
+        "15"
+      ],
+      "nation": "[The Radiant Union of Pelor](rup)",
+      "type": "site"
+    },
     "title": "Beastly Colosseum"
   },
   {
@@ -16128,13 +16234,15 @@
         "Enchanting",
         "Forbidden knowledge"
       ],
+      "nation": "[The Trell Archipelago](trell)",
       "pois": [
         "Kintyre",
         "Mephistar"
       ],
       "rulers": [
         "[Mephistopheles](../dossiers/mephistopheles)"
-      ]
+      ],
+      "type": "island"
     },
     "title": "Cania"
   },
@@ -16143,11 +16251,25 @@
     "id": "locales/chateau-de-mecant",
     "image": "https://i.pinimg.com/736x/1f/d9/09/1fd909667389749909f4c92c2b9914fb.jpg",
     "image-source": "https://www.pinterest.com/pin/213076626112688815/",
+    "statbox": {
+      "case": [
+        "15"
+      ],
+      "nation": "[Arallu](arallu)",
+      "type": "site"
+    },
     "title": "Ch\u00e2teau de M\u00e9cant"
   },
   {
     "body": "Along the northern edge of [Aecus](aecus) spans a mountain range with a cliff face jutting downward beyond what anyone has ever explored.\n",
     "id": "locales/cliffs",
+    "statbox": {
+      "case": [
+        "05"
+      ],
+      "nation": "[The Zephyr Federation](zephyr)",
+      "type": "region"
+    },
     "title": "Cliffs of Transcendance"
   },
   {
@@ -16166,6 +16288,12 @@
     "image": "https://i.pinimg.com/originals/3b/ad/62/3bad6293be0e4802b87463065e98b213.png",
     "image-source": "https://www.pinterest.com/pin/78320481014235853/",
     "statbox": {
+      "case": [
+        "10",
+        "11",
+        "17",
+        "18"
+      ],
       "deities": [
         "erathis",
         "avandra",
@@ -16187,7 +16315,8 @@
       ],
       "races": [
         "gnomes"
-      ]
+      ],
+      "type": "nation"
     },
     "title": "Cognitutus"
   },
@@ -16196,6 +16325,14 @@
     "id": "locales/deepwood",
     "image": "https://i.pinimg.com/originals/63/d4/b7/63d4b70c27637879d8961fc3ae967aae.jpg",
     "image-source": "https://www.pinterest.com/pin/538883911648484430/",
+    "statbox": {
+      "case": [
+        "12",
+        "13"
+      ],
+      "nation": "[Elyria](elyria)",
+      "type": "region"
+    },
     "title": "The Deepwood"
   },
   {
@@ -16209,6 +16346,12 @@
     "id": "locales/demonweb-pits",
     "image": "https://i.pinimg.com/originals/6a/39/ea/6a39ea5b459030dfe300a9f51d0f2c27.jpg",
     "image-source": "https://www.pinterest.com/pin/22095854407477163/",
+    "statbox": {
+      "case": [
+        "05"
+      ],
+      "type": "plane"
+    },
     "title": "The Demonweb Pits"
   },
   {
@@ -16217,6 +16360,13 @@
     "image": "https://i.pinimg.com/736x/c5/b0/1d/c5b01d49e6a2bcc96f59fc2dc442a7cb.jpg",
     "image-source": "https://www.pinterest.com/pin/84372193008684038/",
     "image2-source": "https://www.pinterest.com/pin/12877548912543942/",
+    "statbox": {
+      "case": [
+        "14"
+      ],
+      "nation": "[The Radiant Union of Pelor](rup)",
+      "type": "region"
+    },
     "title": "Desert of Ruin"
   },
   {
@@ -16230,12 +16380,14 @@
         "Middle-class commerce",
         "Retail"
       ],
+      "nation": "[The Trell Archipelago](trell)",
       "pois": [
         "Dis (the city)"
       ],
       "rulers": [
         "[Dispater](../dossiers/dispater)"
-      ]
+      ],
+      "type": "island"
     },
     "title": "Dis"
   },
@@ -16244,6 +16396,10 @@
     "id": "locales/dono",
     "image": "https://i.pinimg.com/736x/6e/de/86/6ede8639490a767c0f593c85b488dd7f.jpg",
     "image-source": "https://www.pinterest.com/pin/276901077078203153/",
+    "statbox": {
+      "nation": "[The Zephyr Federation](zephyr)",
+      "type": "city"
+    },
     "title": "Dono"
   },
   {
@@ -16251,6 +16407,10 @@
     "id": "locales/elyria",
     "nav-title": "Elyria",
     "statbox": {
+      "case": [
+        "12",
+        "16"
+      ],
       "deities": [
         "sehanine",
         "corellon"
@@ -16281,7 +16441,8 @@
       "regions": [
         "estanesse",
         "[Yggdrasil](../relics/yggdrasil)"
-      ]
+      ],
+      "type": "nation"
     },
     "title": "Elyria"
   },
@@ -16296,6 +16457,13 @@
     "id": "locales/elysium-sanctum",
     "image": "https://i.pinimg.com/736x/de/41/13/de41138d6526dcb337ec735d8575fd2f.jpg",
     "image-source": "https://www.pinterest.com/pin/817403401100502888/",
+    "statbox": {
+      "case": [
+        "15"
+      ],
+      "nation": "[Arallu](arallu)",
+      "type": "site"
+    },
     "title": "Elysium, Sanctum of the Reaped Harvest"
   },
   {
@@ -16330,11 +16498,28 @@
     "image3-up-high": "https://i.pinimg.com/originals/e7/7f/9c/e77f9c261951cc0285a33f30f54e01b7.jpg",
     "image3-up-high-source": "https://www.pinterest.com/pin/424886546076873590/",
     "image4-source": "https://www.pinterest.com/pin/29203097575991980/",
+    "statbox": {
+      "case": [
+        "12"
+      ],
+      "nation": "[Elyria](elyria)",
+      "type": "city"
+    },
     "title": "Estanesse"
   },
   {
     "body": "TODO\n",
     "id": "locales/euphoria",
+    "statbox": {
+      "case": [
+        "04",
+        "07",
+        "11",
+        "18"
+      ],
+      "nation": "[The Trell Archipelago](trell)",
+      "type": "city"
+    },
     "title": "Euphoria"
   },
   {
@@ -16346,6 +16531,9 @@
     "image-source": "https://www.pinterest.com/pin/blizzard-insider-39-art-of-the-firelands-wow--148055906493828586/",
     "image2": "https://i.pinimg.com/736x/ac/9a/ab/ac9aab45ec6f81a20b7fe07b0077c150.jpg",
     "image2-source": "https://www.pinterest.com/pin/145522631698570295/",
+    "statbox": {
+      "type": "region"
+    },
     "title": "The Everburn"
   },
   {
@@ -16377,6 +16565,15 @@
     "image-source": "https://pinterest.com/pin/573716440035538008/",
     "image2": "https://i.pinimg.com/originals/6b/ca/42/6bca424591b5ebcf2d3e68334165c8ce.jpg",
     "image2-source": "https://pinterest.com/pin/716564990698954485/",
+    "statbox": {
+      "case": [
+        "14",
+        "15",
+        "17"
+      ],
+      "nation": "[Arallu](arallu)",
+      "type": "site"
+    },
     "title": "Evershroud Manor"
   },
   {
@@ -16390,7 +16587,16 @@
     "id": "locales/feywild",
     "image": "https://i.pinimg.com/originals/75/69/93/7569937dc147a3652518e62f1ddf2351.png",
     "image-source": "https://www.pinterest.com/pin/576671927302447877/",
-    "title": "Feywild"
+    "nav-title": "Feywild",
+    "statbox": {
+      "case": [
+        "12",
+        "15",
+        "16"
+      ],
+      "type": "plane"
+    },
+    "title": "The Feywild"
   },
   {
     "body": "An uninhabitable zone bordering the nations.\n\nAll nations border the Flux, a nightmarish zone of ever-shifting reality. Those entering the Flux rarely survive, but those that do emerge changed and warped in unpredictable ways.\n\nNear the edges, the Flux appears to be a normal scrubland. But as one delves deeper, the earth heaves, air bursts to smoke, the sky rains acid, the night freezes the clouds which fall like boulders, and fires spring to life, coalescing into gargantuan forms. People's minds twist, and as they go mad they physically contort into shapes defying all sanity and reason.\n\nSometimes, [demons](../creatures/demons) emerge from the Flux to threaten those foolish enough to have settled nearby.\n\n[A tower](tower-of-orsus) is visible deep within the Flux, nearly touching the sky. Some say it contains vast wealth beyond mortal imaginings, but no one has survived an expedition there.\n\n## Wild Magic\n\nSome sorcerers skirt the edge of the Flux to practice a style of magic known as [wild magic](http://dnd5e.wikidot.com/sorcerer:wild-magic). Most others believe them to be insane.\n\n## Outbreaks\n\n[Mallory](../dossiers/mallory) tells the party that several new areas of Flux have emerged, including one where the [Stormherd](../orgs/stormherd) camp was, and another at the old SPI headquarters under [the Mountain](../locales/mountain). He says that their colleague [Audreth](../dossiers/audreth) has been dispatched to [Euphoria](../locales/euphoria) to research ways to combat their growth. Mallory stresses that the [SPI](../orgs/spi)'s new top priority is to *prevent*, or failing that, *contain* explosions of wild magic from now on (e.g., like [Cal](../dossiers/cal) tried to do by destroying the Flux weapon), until a way is found to reverse the Flux at these hotspots.\n\n* (after [case 05](../events/case-05)) The [Temple of Symmetry](../orgs/progression-of-symmetry) was ultimately sucked into the unstable vortex which was created when [Vondal](../dossiers/vondal) disrupted the Zenithal Summit. [Sonan the Scholar](../dossiers/sonan-the-scholar) is dead, from the wounds he suffered curing Vondal. [Ceowyn](../dossiers/ceowyn-mandragoran) wants a place where he can meditate in seclusion, as recompense.\n* (after [case 04](../events/case-04)) Growing where [Brian](../dossiers/brian-the-elder-brain) was.\n* (discovered during [case 03](../events/case-03)) Where [first SPI HQ was](../events/spi-fire).\n* (after [case 06](../events/case-06)) Where Stormherd camp was.\n* (after [case 08](../events/case-08)) Where circus was in the [RUP](../locales/rup).\n\n## The Crystalline Flux\n\nA surreal realm of structured chaos. See [Case 09](../events/case-09).\n",
@@ -16443,6 +16649,21 @@
     "image4": "https://i.pinimg.com/originals/df/eb/95/dfeb95e179df8492c4a20dcd2a4cff4d.jpg",
     "image4-source": "https://www.pinterest.com/pin/142567144440973549/",
     "statbox": {
+      "case": [
+        "04",
+        "05",
+        "06",
+        "07",
+        "09",
+        "10",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
       "neighbors": [
         {
           "N": "zephyr"
@@ -16473,7 +16694,8 @@
         "aberrations",
         "demons",
         "horrors"
-      ]
+      ],
+      "type": "region"
     },
     "title": "The Flux"
   },
@@ -16482,6 +16704,13 @@
     "id": "locales/forest-of-shadows",
     "image": "https://i.pinimg.com/originals/a9/7d/eb/a97debd06298f3381c290045ad505ecb.jpg",
     "image-source": "https://www.pinterest.com/pin/616148792784679816/",
+    "statbox": {
+      "case": [
+        "07"
+      ],
+      "nation": "[Arallu](arallu)",
+      "type": "region"
+    },
     "title": "Forest of Shadows"
   },
   {
@@ -16498,16 +16727,21 @@
     "image-floating-source": "https://www.pinterest.com/pin/535154368205135709/",
     "image-source": "https://www.pinterest.com/pin/415246028132706152/",
     "statbox": {
+      "case": [
+        "15"
+      ],
       "deities": [
         "oceanus",
         "hyperion",
         "tethys"
       ],
+      "nation": "[Arallu](arallu)",
       "neighbors": {
         "E": "deepwood",
         "N": "ocean",
         "NE": "arallu"
-      }
+      },
+      "type": "region"
     },
     "title": "Glacier of Titans"
   },
@@ -16516,6 +16750,14 @@
     "id": "locales/haven",
     "image": "https://i.pinimg.com/originals/76/a7/b7/76a7b71876df439a0e5ecdbba4cbfb6d.jpg",
     "image-source": "https://www.pinterest.com/pin/401735229270935885/",
+    "statbox": {
+      "case": [
+        "02",
+        "18"
+      ],
+      "nation": "[The Radiant Union of Pelor](rup)",
+      "type": "city"
+    },
     "title": "Haven"
   },
   {
@@ -16523,6 +16765,10 @@
     "id": "locales/howling-gyre",
     "image": "https://i.pinimg.com/originals/43/37/9a/43379a496dc53dc9309ebf4068ae550b.jpg",
     "image-source": "https://www.pinterest.com/pin/459719074444448005/",
+    "statbox": {
+      "nation": "[The Zephyr Federation](zephyr)",
+      "type": "region"
+    },
     "title": "The Howling Gyre"
   },
   {
@@ -16530,10 +16776,16 @@
     "id": "locales/hurricane",
     "image": "https://i.pinimg.com/736x/68/23/53/682353baa31e341dbae49cbd8a067ef2.jpg",
     "image-source": "https://www.pinterest.com/pin/730005420828124704/",
+    "statbox": {
+      "case": [
+        "07"
+      ],
+      "type": "region"
+    },
     "title": "The Relentless Hurricane"
   },
   {
-    "body": "\n",
+    "body": "\n  \n  \n    Type\n    \n      All\n      Nation\n      Region\n      Island\n      City/town\n      Site\n      Plane\n      Other\n    \n  \n  \n    Nation\n    \n      All\n      Zephyr Federation\n      Radiant Union of Pelor\n      Great Mountain\n      Selva\n      Elyria\n      Arallu\n      Cognitutus\n      Trell\n      Other/unknown\n    \n  \n\n\n\n\n\n",
     "id": "locales",
     "title": "Locales"
   },
@@ -16542,6 +16794,10 @@
     "id": "locales/jungle",
     "image": "https://i.pinimg.com/originals/28/e2/0b/28e20b8d03819f98756a7ec8f83ea9c7.jpg",
     "image-source": "https://www.pinterest.com/pin/337418197072628909/",
+    "statbox": {
+      "nation": "[The Selva](selva)",
+      "type": "region"
+    },
     "title": "Jungle of Horrors"
   },
   {
@@ -16554,6 +16810,7 @@
         "Diplomacy and arbitration",
         "Contract enforcement"
       ],
+      "nation": "[The Trell Archipelago](trell)",
       "pois": [
         "Malagarde",
         "Grenpoli",
@@ -16561,7 +16818,8 @@
       ],
       "rulers": [
         "[Baalzebul](../dossiers/baalzebul)"
-      ]
+      ],
+      "type": "island"
     },
     "title": "Maladomini"
   },
@@ -16576,13 +16834,15 @@
         "Mining and slavery",
         "Soul larvae trafficking"
       ],
+      "nation": "[The Trell Archipelago](trell)",
       "pois": [
         "The Undercroft",
         "The Hag markets"
       ],
       "rulers": [
         "[Glasya](../dossiers/glasya)"
-      ]
+      ],
+      "type": "island"
     },
     "title": "Malbolge"
   },
@@ -16595,12 +16855,22 @@
       }
     ],
     "id": "locales/marshes",
+    "statbox": {
+      "case": [
+        "17"
+      ],
+      "nation": "[Arallu](arallu)",
+      "type": "region"
+    },
     "title": "Acrid Marshes"
   },
   {
     "body": "An economic powerhouse steeped in ramshackle chaos, the island of Minauros serves as Trell's international commerce and financial hub, where ships laden with goods arrive and depart in constant motion. Despite Minauros's muddy and barren landscape, the harbor teems with activity: shipping magnates, merchants, smugglers, and black market operators all conduct business in close proximity, their interests overlapping in murky ways.\n\n[Mammon](../dossiers/mammon)'s greed drives cutthroat trade wars and debt slavery through credit crystals\u2014a system of indentured servitude where souls are \"minted\" and \"processed\" as currency. The island is the most cosmopolitan of all Trell's islands, attracting foreign traders and ambitious merchants. Yet beneath the bustling commercial facade lies the grinding poverty of those who lost in Mammon's ruthless game.\n\nSee also:\n* https://forgottenrealms.fandom.com/wiki/Minauros\n",
     "id": "locales/minauros",
     "statbox": {
+      "case": [
+        "18"
+      ],
       "known-for": [
         "Trade and commerce",
         "Import and export",
@@ -16608,12 +16878,14 @@
         "Extreme wealth inequality",
         "Soul indentured servitude"
       ],
+      "nation": "[The Trell Archipelago](trell)",
       "pois": [
         "Minauros"
       ],
       "rulers": [
         "[Mammon](../dossiers/mammon)"
-      ]
+      ],
+      "type": "island"
     },
     "title": "Minauros"
   },
@@ -16624,6 +16896,13 @@
     "image-source": "https://chroniclesrp.net/Folklore/Kal-Palthras",
     "nav-title": "The Mountain",
     "statbox": {
+      "case": [
+        "03",
+        "07",
+        "13",
+        "14",
+        "18"
+      ],
       "deities": [
         "moradin",
         "pelor"
@@ -16643,7 +16922,8 @@
       "regions": [
         "The Mountain",
         "The Veldt"
-      ]
+      ],
+      "type": "nation"
     },
     "title": "The Mountain and the Veldt"
   },
@@ -16657,12 +16937,14 @@
         "Exclusive enclaves",
         "Gated communities"
       ],
+      "nation": "[The Trell Archipelago](trell)",
       "pois": [
         "Malsheem"
       ],
       "rulers": [
         "[Asmodeus](../dossiers/asmodeus)"
-      ]
+      ],
+      "type": "island"
     },
     "title": "Nessus"
   },
@@ -16677,31 +16959,51 @@
     "id": "locales/oasis",
     "image": "https://i.pinimg.com/originals/b0/d5/56/b0d556289db36dfc2b8e293fc9ec443b.jpg",
     "image-source": "https://www.pinterest.com/pin/187321665743002265/",
+    "statbox": {
+      "case": [
+        "07",
+        "10",
+        "14"
+      ],
+      "nation": "[The Radiant Union of Pelor](rup)",
+      "type": "city"
+    },
     "title": "Oasis"
   },
   {
     "body": "The ocean to the west of [Aecus](aecus) spans beyond what anyone has ever dared to explore.\n",
     "id": "locales/ocean",
+    "statbox": {
+      "case": [
+        "10"
+      ],
+      "type": "region"
+    },
     "title": "The Infinite Ocean"
   },
   {
-    "body": "The island of Phlegethos is the judicial center of Trell, where the fates of corporations rise and fall through legal warfare. Abriymoch, with its iconic Crystalline Palace, dominates the skyline\u2014a gleaming monument to wealth and power. This is where the boardrooms meet, where contracts are signed, where empires crumble under the weight of judicial verdicts.\n\nLife on Phlegethos swings wildly between ecstatic highs and excruciating lows. A victorious megacorp might celebrate a landmark court ruling while another files for bankruptcy in the same hour. [Belial](../dossiers/belial) and [Fierna](../dossiers/fierna) oversee this arena of legal combat, profiting from the endless cycle of corporate conflict. The island is ringed with skyscrapers and gated wealth enclaves, where massive inequality is enshrined in the very architecture.\n\nSee also:\n* https://forgottenrealms.fandom.com/wiki/Phlegethos\n",
+    "body": "The island of Phlegethos is the judicial center of Trell, where the fates of corporations rise and fall through legal warfare. [Abriymoch](abriymoch), with its iconic Crystalline Palace, dominates the skyline\u2014a gleaming monument to wealth and power. This is where the boardrooms meet, where contracts are signed, where empires crumble under the weight of judicial verdicts.\n\nLife on Phlegethos swings wildly between ecstatic highs and excruciating lows. A victorious megacorp might celebrate a landmark court ruling while another files for bankruptcy in the same hour. [Belial](../dossiers/belial) and [Fierna](../dossiers/fierna) oversee this arena of legal combat, profiting from the endless cycle of corporate conflict. The island is ringed with skyscrapers and gated wealth enclaves, where massive inequality is enshrined in the very architecture.\n\nSee also:\n* https://forgottenrealms.fandom.com/wiki/Phlegethos\n",
     "id": "locales/phlegethos",
     "statbox": {
+      "case": [
+        "18"
+      ],
       "known-for": [
         "Law and litigation",
         "Corporate courts",
         "Wealth and luxury",
         "Victory and bankruptcy"
       ],
+      "nation": "[The Trell Archipelago](trell)",
       "pois": [
-        "Abriymoch",
+        "[Abriymoch](abriymoch)",
         "The Crystalline Palace"
       ],
       "rulers": [
         "[Belial](../dossiers/belial)",
         "[Fierna](../dossiers/fierna)"
-      ]
+      ],
+      "type": "island"
     },
     "title": "Phlegethos"
   },
@@ -16710,11 +17012,19 @@
     "id": "locales/plains",
     "image": "https://i.pinimg.com/236x/f9/a2/38/f9a238f92b8be0249504c09987c00bf8.jpg",
     "image-source": "https://www.pinterest.com/pin/123708321008020558/",
+    "statbox": {
+      "nation": "[The Radiant Union of Pelor](rup)",
+      "type": "region"
+    },
     "title": "The Scorching Plains"
   },
   {
     "body": "In the city of Porta, dragonborn soldiers keep the peace.\n\n* Interior of the city is divided into zones by clan.\n* There are 11 zones: metallic, chromatic and motley.\n* Many dragonborn want to live as close to Skyrealm as possible.\n* Any who fall from the cliffs are caught by the Great Buffer, an endless wind ward that prevents people from traversing too far downward into the shimmering haze.\n",
     "id": "locales/porta",
+    "statbox": {
+      "nation": "[The Zephyr Federation](zephyr)",
+      "type": "city"
+    },
     "title": "Porta"
   },
   {
@@ -16724,11 +17034,22 @@
     "image-source": "https://www.pinterest.com/pin/507077239296010829/",
     "image2": "https://i.pinimg.com/originals/10/eb/c5/10ebc52ca57875f029b51bd53c8ae36d.jpg",
     "image2-source": "https://www.pinterest.com/pin/380343131005845873/",
+    "statbox": {
+      "nation": "[The Zephyr Federation](zephyr)",
+      "type": "city"
+    },
     "title": "Prendo"
   },
   {
     "body": "A large town in northern Elyria, home to both humans and elves.\n\nIt is a prosperous city where the densely wooded forest gives way to more open plains.\n",
     "id": "locales/reenaseere",
+    "statbox": {
+      "case": [
+        "14"
+      ],
+      "nation": "[Elyria](elyria)",
+      "type": "city"
+    },
     "title": "Reena'seere"
   },
   {
@@ -16740,11 +17061,22 @@
       }
     ],
     "id": "locales/rockwell-manor",
+    "statbox": {
+      "case": [
+        "11"
+      ],
+      "nation": "[Cognitutus](cognitutus)",
+      "type": "site"
+    },
     "title": "Rockwell Manor"
   },
   {
     "body": "A shop dealing in magical goods and rare items, founded by [Callie](../dossiers/callie) and run by her longtime friend and assistant [Gavin Pepperpotts](../dossiers/gavin-pepperpotts). It is a place the Rockwell family has sold artifacts from.\n",
     "id": "locales/rockwells-stockwell",
+    "statbox": {
+      "nation": "[The Radiant Union of Pelor](rup)",
+      "type": "site"
+    },
     "title": "Rockwell's Stockwell"
   },
   {
@@ -16752,6 +17084,15 @@
     "id": "locales/rup",
     "nav-title": "RUP",
     "statbox": {
+      "case": [
+        "01",
+        "02",
+        "08",
+        "10",
+        "14",
+        "15",
+        "18"
+      ],
       "deities": [
         "pelor"
       ],
@@ -16773,7 +17114,8 @@
         "Oasis",
         "Triumph",
         "Refuge"
-      ]
+      ],
+      "type": "nation"
     },
     "title": "The Radiant Union of Pelor"
   },
@@ -16795,6 +17137,13 @@
     "image2": "https://i.pinimg.com/originals/94/40/0e/94400ec72320e425add8e0f9e59846f7.jpg",
     "image2-source": "https://www.pinterest.com/pin/52284045666122393/",
     "statbox": {
+      "case": [
+        "06",
+        "13",
+        "15",
+        "17",
+        "18"
+      ],
       "deities": [
         "kord",
         "gruumsh"
@@ -16811,7 +17160,8 @@
         "kobolds",
         "gnolls",
         "yikarians"
-      ]
+      ],
+      "type": "nation"
     },
     "title": "The Selva"
   },
@@ -16868,6 +17218,15 @@
     "image-spiral-pool-source": "https://www.pinterest.com/pin/572449802628423135/",
     "image-underground-lake": "https://i.pinimg.com/736x/13/19/1c/13191cd21dd6f8b05de5068ef8345317.jpg",
     "image-underground-lake-source": "https://www.pinterest.com/pin/14073817578346800/",
+    "statbox": {
+      "case": [
+        "14",
+        "15",
+        "17"
+      ],
+      "nation": "[Arallu](arallu)",
+      "type": "city"
+    },
     "title": "Sepulchralis"
   },
   {
@@ -16878,20 +17237,29 @@
     "image2": "https://i.pinimg.com/originals/8e/7e/31/8e7e315e342ad154ab9faf990066e770.png",
     "image2-source": "https://www.pinterest.com/pin/455426581066768626/",
     "statbox": {
+      "case": [
+        "14"
+      ],
       "cities": [
         "aether"
       ],
+      "nation": "[The Zephyr Federation](zephyr)",
       "races": [
         "dragons",
         "aarakocra",
         "gargoyles"
-      ]
+      ],
+      "type": "region"
     },
     "title": "Skyrealm"
   },
   {
     "body": "An ancient graveyard and mausoleum in the slums of [Sepulchralis](sepulchralis), haunted by ghosts. The agents sneaked past them during [Case 15](../events/case-15).\n",
     "id": "locales/soulbound-rest",
+    "statbox": {
+      "nation": "[Arallu](arallu)",
+      "type": "site"
+    },
     "title": "Soulbound Rest"
   },
   {
@@ -16929,6 +17297,23 @@
     "id": "locales/spi-hq",
     "image-map": "/equilibrium/assets/images/spi-map.jpg",
     "nav-title": "SPI HQ",
+    "statbox": {
+      "case": [
+        "01",
+        "02",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "14",
+        "15",
+        "16",
+        "18"
+      ],
+      "type": "site"
+    },
     "title": "SPI Headquarters"
   },
   {
@@ -16941,13 +17326,15 @@
         "Bitter cold and harsh labor",
         "Refugees and displaced persons"
       ],
+      "nation": "[The Trell Archipelago](trell)",
       "pois": [
         "Tantlin",
         "The Great Sea"
       ],
       "rulers": [
         "[Levistus](../dossiers/levistus)"
-      ]
+      ],
+      "type": "island"
     },
     "title": "Stygia"
   },
@@ -16966,10 +17353,16 @@
     "id": "locales/tower-of-orsus",
     "image": "https://i.pinimg.com/originals/b3/24/f4/b324f4e3533340718bc8713eaf233377.jpg",
     "image-source": "https://www.pinterest.com/pin/354165958183784504/",
+    "statbox": {
+      "case": [
+        "16"
+      ],
+      "type": "site"
+    },
     "title": "Tower of Orsus"
   },
   {
-    "body": "A fiendish island territory off the northwestern coast.\n\n* **Population:** Trell has a mixed population with an extreme degree of [class inequality](https://en.wikipedia.org/wiki/Class_conflict).\n* **Government:** [Military autocracy](https://en.wikipedia.org/wiki/Military_dictatorship). Trell has nine islands, each of which is ruled by an archfiend, with the largest island occupied by the archfiend [Asmodeus](../dossiers/asmodeus).\n* **Cities and culture:** While the government of Trell is oppressive by the standards of most other nations, it is nonetheless a haven for tieflings (a [bipedal](../glossary#bipedal) race cursed by an ancient contract with fiends). The warlocks of Trell, who have made pacts with the archdevils who rule the islands, enforce the law.\n\n## The Nine Islands\n\n| Island | Ruler | Megacorp |\n|--------|-------|----------|\n| [Avernus](../locales/avernus) | [Zariel](../dossiers/zariel) | Carapax Industries |\n| [Dis](../locales/dis) | [Dispater](../dossiers/dispater) | Omni Analytics |\n| [Minauros](../locales/minauros) | [Mammon](../dossiers/mammon) | Highmark Ventures |\n| [Phlegethos](../locales/phlegethos) | [Belial](../dossiers/belial) & [Fierna](../dossiers/fierna) | BlissCo |\n| [Stygia](../locales/stygia) | [Levistus](../dossiers/levistus) | Terminus Transport |\n| [Malbolge](../locales/malbolge) | [Glasya](../dossiers/glasya) | Venom Corp |\n| [Maladomini](../locales/maladomini) | [Baalzebul](../dossiers/baalzebul) | Perdition Mitigation |\n| [Cania](../locales/cania) | [Mephistopheles](../dossiers/mephistopheles) | Luminescence Holdings |\n| [Nessus](../locales/nessus) | [Asmodeus](../dossiers/asmodeus) | Gilt Consortium |\n\n* **Deities worshipped:** Religion is forbidden in Trell. But a few illicitly worship:\n  * [Melora](../dossiers/melora) (N; Nature, Tempest): goddess of wilderness and the sea\n",
+    "body": "A fiendish island territory off the northwestern coast.\n\n* **Population:** Trell has a mixed population with an extreme degree of [class inequality](https://en.wikipedia.org/wiki/Class_conflict).\n* **Government:** [Military autocracy](https://en.wikipedia.org/wiki/Military_dictatorship). Trell has nine islands, each of which is ruled by an archfiend, with the largest island occupied by the archfiend [Asmodeus](../dossiers/asmodeus).\n* **Cities and culture:** While the government of Trell is oppressive by the standards of most other nations, it is nonetheless a haven for tieflings (a [bipedal](../glossary#bipedal) race cursed by an ancient contract with fiends). The warlocks of Trell, who have made pacts with the archdevils who rule the islands, enforce the law.\n\n## The Nine Islands\n\n| Island | Ruler | Megacorp |\n|--------|-------|----------|\n| [Avernus](../locales/avernus) | [Zariel](../dossiers/zariel) | Carapax Industries |\n| [Dis](../locales/dis) | [Dispater](../dossiers/dispater) | Omni Analytics |\n| [Minauros](../locales/minauros) | [Mammon](../dossiers/mammon) | [Highmark Ventures](../orgs/highmark-ventures) |\n| [Phlegethos](../locales/phlegethos) | [Belial](../dossiers/belial) & [Fierna](../dossiers/fierna) | [BlissCo](../orgs/blissco) |\n| [Stygia](../locales/stygia) | [Levistus](../dossiers/levistus) | Terminus Transport |\n| [Malbolge](../locales/malbolge) | [Glasya](../dossiers/glasya) | Venom Corp |\n| [Maladomini](../locales/maladomini) | [Baalzebul](../dossiers/baalzebul) | [Perdition Mitigation](../orgs/perdition-mitigation) |\n| [Cania](../locales/cania) | [Mephistopheles](../dossiers/mephistopheles) | Luminescence Holdings |\n| [Nessus](../locales/nessus) | [Asmodeus](../dossiers/asmodeus) | Gilt Consortium |\n\n* **Deities worshipped:** Religion is forbidden in Trell. But a few illicitly worship:\n  * [Melora](../dossiers/melora) (N; Nature, Tempest): goddess of wilderness and the sea\n",
     "descriptions": [
       {
         "content": "Victor Rocksmith reported a political situation brewing, and a hurricane emerging from Trell toward Aether.",
@@ -16983,6 +17376,12 @@
     "image2-source": "https://www.pinterest.com/pin/274578908519205097/",
     "nav-title": "Trell",
     "statbox": {
+      "case": [
+        "04",
+        "07",
+        "14",
+        "18"
+      ],
       "deities": [
         "melora"
       ],
@@ -17010,7 +17409,8 @@
         "Maladomini",
         "Cania",
         "Nessus"
-      ]
+      ],
+      "type": "nation"
     },
     "title": "The Trell Archipelago"
   },
@@ -17023,6 +17423,14 @@
       }
     ],
     "id": "locales/triumph",
+    "statbox": {
+      "case": [
+        "14",
+        "17"
+      ],
+      "nation": "[The Radiant Union of Pelor](rup)",
+      "type": "city"
+    },
     "title": "Triumph"
   },
   {
@@ -17030,6 +17438,10 @@
     "id": "locales/ventosa",
     "image": "https://i.pinimg.com/originals/0c/5c/b2/0c5cb2dae62ad9689278679a96e2f1d3.jpg",
     "image-source": "https://www.pinterest.com/pin/207869339031398031/",
+    "statbox": {
+      "nation": "[The Zephyr Federation](zephyr)",
+      "type": "region"
+    },
     "title": "Ventosa Flatland"
   },
   {
@@ -17037,6 +17449,10 @@
     "id": "locales/warrens",
     "image": "https://i.pinimg.com/originals/5e/eb/4b/5eeb4b5e3d07ebeb9341120c37b86b56.jpg",
     "image-source": "https://www.pinterest.com/pin/1407443627206912/",
+    "statbox": {
+      "nation": "[Arallu](arallu)",
+      "type": "region"
+    },
     "title": "Frozen Warrens"
   },
   {
@@ -17049,6 +17465,9 @@
     "image4-source": "https://www.pinterest.com/pin/360991726391964189/",
     "image5-source": "https://www.pinterest.com/pin/598908450465472097/",
     "image6-source": "https://www.pinterest.com/pin/122512052352427613/",
+    "statbox": {
+      "type": "region"
+    },
     "title": "The Endless Waste"
   },
   {
@@ -17062,6 +17481,14 @@
     "id": "locales/xaos",
     "image": "https://i.pinimg.com/originals/e7/71/44/e7714443bdc9ad8481fe4a82161ca268.jpg",
     "image-source": "https://www.pinterest.com/pin/70437479904299/",
+    "statbox": {
+      "case": [
+        "06",
+        "18"
+      ],
+      "nation": "[The Selva](selva)",
+      "type": "city"
+    },
     "title": "Xaos"
   },
   {
@@ -17094,6 +17521,16 @@
     "id": "locales/xaryuvia",
     "image": "https://i.pinimg.com/736x/83/a6/fa/83a6fa58c250c88ac12f2780193cd284.jpg",
     "image-source": "https://www.pinterest.com/pin/underground-ruins--660129257856385016/",
+    "statbox": {
+      "case": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "nation": "[Arallu](arallu)",
+      "type": "site"
+    },
     "title": "Xaryuvia"
   },
   {
@@ -17103,6 +17540,11 @@
     "image-source": "https://www.pinterest.com/pin/283375001530435677/",
     "nav-title": "Zephyr",
     "statbox": {
+      "case": [
+        "05",
+        "14",
+        "18"
+      ],
       "cities": [
         "dono",
         "prendo"
@@ -17123,67 +17565,187 @@
       "races": [
         "dragonborn",
         "dragons"
-      ]
+      ],
+      "type": "nation"
     },
     "title": "The Zephyr Federation"
   },
   {
     "body": "TODO\n",
     "id": "orgs/ac",
+    "statbox": {
+      "case": [
+        "07",
+        "09",
+        "16",
+        "17",
+        "18"
+      ],
+      "locale": "aecus",
+      "type": "government"
+    },
     "title": "The Aecus Concord"
   },
   {
     "body": "A Selva tribe of lizardfolk. Very secretive.\n\nKnown members:\n* Leader: [Crae](../dossiers/crae)\n* [Semu'anya](../dossiers/semuanya)\n",
     "id": "orgs/blackscales",
     "nav-title": "Blackscales",
+    "statbox": {
+      "case": [
+        "06"
+      ],
+      "locale": "selva",
+      "type": "tribe"
+    },
     "title": "The Blackscales"
+  },
+  {
+    "aliases": [
+      "Blissco",
+      "BlissCo Legal"
+    ],
+    "body": "The megacorp of the archdevils [Belial](../dossiers/belial) and\n[Fierna](../dossiers/fierna), rulers of [Phlegethos](../locales/phlegethos).\nBlissCo peddles entertainment, luxury, and experiences, creating addictive\nescapism for the masses while hoarding true pleasure for the elite. Its\ninfluence extends into every vice and indulgence across [Trell](../locales/trell).\n\n## Euphoria\n\nBlissCo financed the resort town of [Euphoria](../locales/euphoria), and\ncontracted the [Noffindorfs](noffindorfs) to defeat the mind flayers who\ninfiltrated it. When it lost all communication with Euphoria, BlissCo hired the\n[SPI](spi) to find out why: see\n[Ingestion and Incoherency](../events/case-04). The imps\n[Belifax](../dossiers/belifax), [Salazin](../dossiers/salazin) and\n[Xoomish](../dossiers/xoomish) were BlissCo employees at the resort.\n\n## BlissCo Legal\n\nBlissCo's legal arm. The Voth family of [Abriymoch](../locales/abriymoch) is\nlinked to it, as are the Noffindorfs. In\n[Curses and Carafes](../events/case-18), [Serelda Voth](../dossiers/serelda-voth)\nsued [Callie](../dossiers/callie) over the cursed coffee carafe, and\n[Kerwin Ulvas](../dossiers/kerwin-ulvas) of\n[Ulvan Transitional Assets](ulvan-transitional-assets) was brokering the\nsub-licensing of BlissCo-patented production spells to a Noffindorf\nmanufacturing subsidiary.\n",
+    "id": "orgs/blissco",
+    "statbox": {
+      "case": [
+        "04",
+        "18"
+      ],
+      "hq": "[Phlegethos](../locales/phlegethos)",
+      "industry": [
+        "entertainment",
+        "luxury",
+        "resorts"
+      ],
+      "leader": [
+        "[Belial](../dossiers/belial)",
+        "[Fierna](../dossiers/fierna)"
+      ],
+      "locale": "trell",
+      "type": "company"
+    },
+    "title": "BlissCo"
   },
   {
     "body": "A Selva tribe of orcs.\n\nKnown members:\n* Leader: [Roark Boone](../dossiers/roark-boone)\n* [Grosh'mog](../dossiers/groshmog)\n* [Vuthos](../dossiers/vuthos)\n\n[Bruck](../dossiers/bruck) is not a member, but is on good terms with them.\n",
     "id": "orgs/blood-hand-orcs",
+    "statbox": {
+      "case": [
+        "06"
+      ],
+      "locale": "selva",
+      "type": "tribe"
+    },
     "title": "Blood Hand Orcs"
   },
   {
     "body": "A spirited vampire clan that directs their rage and passion toward any who wrong them.\n\nKnown members:\n* Leader: [Troile the Rebel](../dossiers/troile-the-rebel)\n",
     "id": "orgs/clan-brujah",
     "nav-title": "Brujah Clan",
+    "statbox": {
+      "case": [
+        "15"
+      ],
+      "locale": "arallu",
+      "type": "vampire clan"
+    },
     "title": "Brujah Clan"
   },
   {
     "body": "An ambitious vampire clan that lets nothing hold them back.\n\nKnown members:\n* Leader: [Goratrix Ceoris](../dossiers/goratrix-ceoris)\n* [Meerlinda Descant](../dossiers/meerlinda-descant)\n* [Calderon the Cold](../dossiers/calderon-the-cold)\n",
     "id": "orgs/clan-crispic",
     "nav-title": "Crispic Clan",
+    "statbox": {
+      "case": [
+        "15"
+      ],
+      "locale": "arallu",
+      "type": "vampire clan"
+    },
     "title": "Crispic Clan"
   },
   {
     "body": "A feral vampire clan that reveres the hunt.\n\nKnown members:\n* Leader: [Elloia Canarl](../dossiers/elloia-canarl)\n",
     "id": "orgs/clan-gangrel",
     "nav-title": "Gangrel Clan",
+    "statbox": {
+      "case": [
+        "15"
+      ],
+      "locale": "arallu",
+      "type": "vampire clan"
+    },
     "title": "Gangrel Clan"
   },
   {
     "body": "A deranged vampire clan that seemingly changes course on a whim.\n\nKnown members:\n* Leader: [Malak the Mad](../dossiers/malak-the-mad)\n",
     "id": "orgs/clan-malkavian",
     "nav-title": "Malkavian Clan",
+    "statbox": {
+      "case": [
+        "14",
+        "15"
+      ],
+      "locale": "arallu",
+      "type": "vampire clan"
+    },
     "title": "Malkavian Clan"
   },
   {
     "body": "A hideous vampire clan that embraces their monstrosity.\n\nKnown members:\n* Leader: [Orlok](../dossiers/orlok)\n",
     "id": "orgs/clan-nosferatu",
     "nav-title": "Nosferatu Clan",
+    "statbox": {
+      "case": [
+        "15"
+      ],
+      "locale": "arallu",
+      "type": "vampire clan"
+    },
     "title": "Nosferatu Clan"
   },
   {
     "body": "A hedonistic vampire clan that pursues art for art's sake.\n\nKnown members:\n* Leader: [Lestache de Lyarcourt](../dossiers/lestache-de-lyarcourt)\n* [Etria Leduc](../dossiers/etria-leduc)\n",
     "id": "orgs/clan-toreador",
     "nav-title": "Toreador Clan",
+    "statbox": {
+      "case": [
+        "14",
+        "15"
+      ],
+      "locale": "arallu",
+      "type": "vampire clan"
+    },
     "title": "Toreador Clan"
   },
   {
     "body": "A shrewd vampire clan with an air of nobility.\n\nKnown members:\n* Leader: [Enoch the Wise](../dossiers/enoch-the-wise)\n",
     "id": "orgs/clan-ventrue",
     "nav-title": "Ventrue Clan",
+    "statbox": {
+      "case": [
+        "15"
+      ],
+      "locale": "arallu",
+      "type": "vampire clan"
+    },
     "title": "Ventrue Clan"
+  },
+  {
+    "aliases": [
+      "Ercian and Brass"
+    ],
+    "body": "An [Abriymoch](../locales/abriymoch) law firm retained by\n[Kerwin Ulvas](../dossiers/kerwin-ulvas), who boasted of their protection and\nintended to countersue his ex-wife, [Serelda Voth](../dossiers/serelda-voth).\n\nErcian & Brass filed a preemptive brief arguing that voluntary and prolonged use\nof the cursed coffee carafe diminished the original seller's liability. It is a\nlegal argument, not yet precedent&mdash;but one that could help\n[Callie](../dossiers/callie)'s defense against Serelda's suit, brought by\n[Vordache & Solm](vordache-solm).\n\nSee also: [Curses and Carafes](../events/case-18).\n",
+    "id": "orgs/ercian-brass",
+    "statbox": {
+      "case": [
+        "18"
+      ],
+      "hq": "[Abriymoch](../locales/abriymoch)",
+      "locale": "trell",
+      "type": "law firm"
+    },
+    "title": "Ercian & Brass"
   },
   {
     "body": "## Known Members\n\n* [Rubinia Elka](../dossiers/rubinia-elka)\n* [Bronce Aldrimor](../dossiers/bronce-aldrimor)\n* [Zanic Corbinic](../dossiers/zanic-corbinic) (deceased)\n* [Lorelei Nocturne](../dossiers/lorelei-nocturne)\n",
@@ -17194,16 +17756,56 @@
       }
     ],
     "id": "orgs/esprit-repose",
+    "statbox": {
+      "case": [
+        "03",
+        "16",
+        "17",
+        "18"
+      ],
+      "locale": "mountain",
+      "type": "cult"
+    },
     "title": "Esprit Repose"
   },
   {
-    "body": "\n",
+    "aliases": [
+      "Highmark"
+    ],
+    "body": "The megacorp of the archdevil [Mammon](../dossiers/mammon), and the financial\nengine of [Minauros](../locales/minauros), the commercial heart of\n[Trell](../locales/trell). Highmark Ventures runs a financial system in which\ncredit crystals function as both currency and shackle: debt enslavement\nmasquerading as commerce.\n\nDebts that cannot be recovered through official channels go to Highmark's\nfreelance debt collectors, who are feared throughout Minauros.\n\n## Known associates\n\n* [Vex Morradine](../dossiers/vex-morradine), now the [SPI](spi)'s Minauros\n  contact, is a former Highmark debt collector&mdash;and goes very still\n  whenever Highmark is mentioned.\n* [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen), the bodyguards\n  of [Kerwin Ulvas](../dossiers/kerwin-ulvas), are believed to be Highmark\n  freelancers. [Ulvan Transitional Assets](ulvan-transitional-assets)\n  contracted its security through a shell company widely understood to be a\n  Highmark proxy.\n* The Abriymoch law firm [Vordache & Solm](vordache-solm) is linked to\n  Mammon's people, and buys up debtors to bind them into servitude.\n\nSee also: [Curses and Carafes](../events/case-18).\n",
+    "id": "orgs/highmark-ventures",
+    "statbox": {
+      "case": [
+        "18"
+      ],
+      "hq": "[Minauros](../locales/minauros)",
+      "industry": [
+        "finance",
+        "banking",
+        "credit"
+      ],
+      "leader": "[Mammon](../dossiers/mammon)",
+      "locale": "trell",
+      "type": "company"
+    },
+    "title": "Highmark Ventures"
+  },
+  {
+    "body": "\n  \n  \n    Type\n    \n      All\n      Company\n      Cult\n      Family\n      Government\n      Law firm\n      Military order\n      Monastic order\n      Syndicate\n      Tribe\n      Vampire clan\n      Other\n    \n  \n  \n    Locale\n    \n      All\n      International\n      Zephyr Federation\n      Radiant Union of Pelor\n      Great Mountain\n      Selva\n      Elyria\n      Arallu\n      Cognitutus\n      Trell\n      Other/unknown\n    \n  \n\n\n\n\n\n",
     "id": "orgs",
     "title": "Organizations"
   },
   {
     "body": "This military order of paladins maintains order and peace in the [Radiant Union of Pelor](../locales/rup).\n\nTheir hierarchy includes:\n\n* Defenders - paladins who maintain order in cities\n* Dawnguards - elite paladins who serve as personal guards to high officials\n* Lightweavers - battle clerics who support military operations\n* Duskwatchers - scouts and rangers who patrol borders\n\nTheir equipment features polished bronze, gold accents, and sun imagery. Their armor is designed to reflect sunlight brilliantly, serving both practical (heat management) and symbolic purposes.\n",
     "id": "orgs/luminous-defenders",
+    "statbox": {
+      "case": [
+        "08",
+        "09"
+      ],
+      "locale": "rup",
+      "type": "military order"
+    },
     "title": "Luminous Defenders"
   },
   {
@@ -17216,6 +17818,14 @@
     ],
     "id": "orgs/mad",
     "nav-title": "MAD",
+    "statbox": {
+      "case": [
+        "09",
+        "18"
+      ],
+      "locale": "aecus",
+      "type": "government"
+    },
     "title": "Military Aid and Defense (MAD)"
   },
   {
@@ -17228,6 +17838,15 @@
     ],
     "id": "orgs/malosi",
     "nav-title": "Malosi",
+    "statbox": {
+      "case": [
+        "06",
+        "13",
+        "14"
+      ],
+      "locale": "selva",
+      "type": "tribe"
+    },
     "title": "The Malosi"
   },
   {
@@ -17240,11 +17859,30 @@
     ],
     "id": "orgs/manufeai",
     "nav-title": "Manufeai",
+    "statbox": {
+      "case": [
+        "06"
+      ],
+      "locale": "selva",
+      "type": "tribe"
+    },
     "title": "The Manufeai"
   },
   {
     "body": "A family of gnome magical architects of considerable renown, and infamous for it. They build things with magic, and claim they never fail at their endeavors. Their servant is [Marigold Cogsworth](../dossiers/marigold-cogsworth).\n\nThey approached [Kerwin Ulvas](../dossiers/kerwin-ulvas) with a contract in [Curses and Carafes](../events/case-18).\n",
     "id": "orgs/noffindorfs",
+    "statbox": {
+      "case": [
+        "04",
+        "11",
+        "18"
+      ],
+      "locale": [
+        "cognitutus",
+        "trell"
+      ],
+      "type": "family"
+    },
     "title": "The Noffindorfs"
   },
   {
@@ -17276,13 +17914,47 @@
     ],
     "id": "orgs/ordnings-downfall",
     "statbox": {
-      "case": "17"
+      "case": [
+        "17"
+      ],
+      "locale": "arallu",
+      "type": "cult"
     },
     "title": "Ordning's Downfall"
   },
   {
+    "body": "The megacorp of the archdevil [Baalzebul](../dossiers/baalzebul), ruler of\n[Maladomini](../locales/maladomini). Perdition Mitigation is a vast insurance\nconglomerate, profiting from the endless contracts, NDAs, and arbitration\ndisputes that plague [Trell](../locales/trell)'s corporate landscape.\n\nWhen [Callie](../dossiers/callie) was sued by\n[Serelda Voth](../dossiers/serelda-voth), [Mallory](../dossiers/mallory)\nrecommended Perdition Mitigation's office in\n[Abriymoch](../locales/abriymoch) for her defense, suggesting that Callie's\nfamily connections might already open that door.\n\nSee also: [Curses and Carafes](../events/case-18).\n",
+    "id": "orgs/perdition-mitigation",
+    "statbox": {
+      "case": [
+        "18"
+      ],
+      "hq": "[Maladomini](../locales/maladomini)",
+      "industry": [
+        "insurance",
+        "law",
+        "arbitration"
+      ],
+      "leader": "[Baalzebul](../dossiers/baalzebul)",
+      "locale": "trell",
+      "offices": "[Abriymoch](../locales/abriymoch)",
+      "type": [
+        "company",
+        "law firm"
+      ]
+    },
+    "title": "Perdition Mitigation"
+  },
+  {
     "body": "A criminal syndicate in Haven, run by the beholder crime lord [Xaryu](../dossiers/xaryu).\n",
     "id": "orgs/perfect-order",
+    "statbox": {
+      "case": [
+        "01"
+      ],
+      "locale": "rup",
+      "type": "syndicate"
+    },
     "title": "Xaryu's Perfect Order"
   },
   {
@@ -17296,12 +17968,44 @@
     "id": "orgs/progression-of-symmetry",
     "image": "https://i.pinimg.com/originals/e4/64/0c/e4640c70177471f7198b9d315ceedf1b.jpg",
     "image-source": "https://www.pinterest.com/pin/689684130409705922/",
+    "statbox": {
+      "case": [
+        "05",
+        "17"
+      ],
+      "locale": "zephyr",
+      "type": "monastic order"
+    },
     "title": "The Progression of Symmetry"
   },
   {
     "body": "## Characters\n\nSee the [Characters\nspreadsheet](https://docs.google.com/spreadsheets/d/1lzAUsHm18l4yJp-zlpqUPrymxF2BL9-cxPHaOeEy92g/edit)\nfor some additional notes and details.\n\n### PC agents\n\n* [Bec Galere](../dossiers/bec)\n* [Callisto](../dossiers/cal)\n* [Calumnystra Rockwell](../dossiers/callie)\n* [Freki Sarin](../dossiers/freki)\n* [Ozborn Underfoot](../dossiers/oz)\n* [Vondal of the South Fireforges](../dossiers/vondal)\n\n### Former agents\n\n* [Sima Cordelia](../dossiers/sima)\n* [Tybalt Nightbreeze](../dossiers/tybalt)\n* [Ghensh Faass](../dossiers/ghensh){:style=\"opacity:0.1\"}\n\n### Management\n\n* [Rufus Mallory](../dossiers/mallory)\n* [Cassandra](../dossiers/cassandra)\n\n### NPC agents\n\n* [Audreth](../dossiers/audreth)\n* [Victor Rocksmith](../dossiers/victor-rocksmith)\n* [Lawrence Feathersworth](../dossiers/lawrence-feathersworth)\n* [Hengelimsh \"Squeaks\" McKraken](../dossiers/squeaks-mckraken)\n\n### Allies and informants\n\nMallory has a network of informants, though it is much reduced in recent times,\ndue to the calamity that recently befell the SPI. Many are afraid to be\nassociated with an organization which seems under direct assault from powerful\nand mysterious forces.\n\nStill, the SPI agents are working to rebuild this network of informants, who\ninclude:\n\n* [Contessa Alyssa Morvain](../dossiers/contessa-morvain)\n* [Rubinia Elka](../dossiers/rubinia-elka)\n* [Rollomorphus Rockwell](../dossiers/rollomorphus-rockwell)\n* [Linistreya Rockwell](../dossiers/linistreya-rockwell)\n\n**Cognitutus Board of Regents.** The current Board consists of\n[Garl Glittergold](../dossiers/garl-glittergold),\n[Rimona Kwalish](../dossiers/rimona-kwalish),\n[Schnartank Bombardine](../dossiers/schnartank-bombardine), and\n[Aurora Damasca](../dossiers/aurora-damasca). Aside from Bombardine,\nthey supported the [SPI's mission to the ocean depths](../events/case-11) to\nconfront the [aboleth](../creatures/aboleths) threat to\n[the city](../locales/cognitutus), with Kwalish lending them her twinked out\nsubmarine, and Aurora accompanying them as a munitions expert.\n\n### Criminals and villains\n\nThe SPI has faced many threats throughout its 50 year existence,\nand brought many criminals to justice, while others have escaped\ntheir just desserts... so far. Most recently, those include:\n\n| Case(s)                                           | Person                                                         |\n|---------------------------------------------------|----------------------------------------------------------------|\n| [01](../events/case-01) + [02](../events/case-02) | [Pulchritudinous Euryale](../dossiers/pulchritudinous-euryale) |\n| [03](../events/case-03)                           | [Zanic Corbinic](../dossiers/zanic-corbinic)                   |\n| [03](../events/case-03)                           | [Hollerd Aldrimor](../dossiers/hollerd-aldrimor)               |\n| [03](../events/case-03)                           | [Bronce Aldrimor](../dossiers/bronce-aldrimor)                 |\n| [04](../events/case-04)                           | [Brian the Elder Brain](../dossiers/brian-the-elder-brain)     |\n| [05](../events/case-05)                           | [Ra'faj](../dossiers/rafaj)                                    |\n| [06](../events/case-06)                           | [Solomon](../dossiers/solomon)                                 |\n| [07](../events/case-07)                           | [Alex Orbach](../dossiers/alex-orbach)                         |\n| [08](../events/case-08)                           | [Meroe](../dossiers/meroe)                                     |\n| [09](../events/case-09)                           | [The Balor](../dossiers/balor)                                 |\n| [10](../events/case-10)                           | [Anne \"Bonny\" Qin](../dossiers/bonny-qin)                      |\n| [07](../events/case-07), [10](../events/case-10)  | [Bram the Blithe](../dossiers/bram-the-blithe)                 |\n| [11](../events/case-11)                           | [The Aboleths](../creatures/aboleths)                          |\n| [12](../events/case-12)                           | [Isis Ra'ksh](../dossiers/isis-raksh)                          |\n| [12](../events/case-12)                           | [Peregrine Shackleton](../dossiers/peregrine-shackleton)       |\n| [12](../events/case-12)                           | [Eixam](../dossiers/eixam)                                     |\n| [12](../events/case-12)                           | [Zuggtmoy](../dossiers/zuggtmoy)                               |\n| [13](../events/case-13)                           | The [Malosi](../orgs/malosi): [Talos](../dossiers/talos) and [Andalla](../dossiers/andalla) |\n| [14](../events/case-14)                           | [Malachai Hawthorne](../dossiers/malachai-hawthorne)           |\n| [14](../events/case-14)                           | [Ilyana Nightshade](../dossiers/ilyana-nightshade)             |\n| [14](../events/case-14), [15](../events/case-15)  | [Malak the Mad](../dossiers/malak-the-mad)                     |\n| [15](../events/case-15)                           | [Goratrix Ceoris](../dossiers/goratrix-ceoris)                 |\n| [15](../events/case-15)                           | [Enoch the Wise](../dossiers/enoch-the-wise)                   |\n| [15](../events/case-15)                           | [Xaryu the Liberator](../dossiers/xaryu-undead)                |\n| [15](../events/case-15)                           | [Cronus the Brucolac](../dossiers/cronus)                      |\n\n## Evidence locker\n\n* **Amulet of Vecna's Lore.** A mummified hand amulet worn by a member of the necromancer cabal Esprit Repose, which is believed to imbue forbidden secrets to its wearer.\n* **Lamp of Seeming.** A mysterious and powerful lamp wielded by Ra'faj, an acolyte of the Progression of Symmetry, a monastic order at the top of the Cliffs of Transcendence.\n",
     "id": "orgs/spi",
     "nav-title": "SPI",
+    "statbox": {
+      "case": [
+        "01",
+        "02",
+        "03",
+        "04",
+        "05",
+        "06",
+        "07",
+        "08",
+        "09",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "locale": "aecus",
+      "type": "government"
+    },
     "title": "Supernatural Phenomenon Investigators (SPI)"
   },
   {
@@ -17313,14 +18017,65 @@
       }
     ],
     "id": "orgs/stormherd",
-    "nav": "Stormherd",
+    "nav-title": "Stormherd",
+    "statbox": {
+      "case": [
+        "06",
+        "07"
+      ],
+      "locale": "selva",
+      "type": "tribe"
+    },
     "title": "The Stormherd"
   },
   {
     "body": "Trade, Enforcement, Arbitration and Mediation (TEAM) is the diplomatic arm of\nthe A.C., facilitating diplomatic relations and fair trade between the nations.\nIt enforces its\n[arbitration](https://en.wikipedia.org/wiki/International_arbitration)\ndecisions, as well as international regulations, largely via threat of trade\nsanctions and embargoes, should a nation fail to comply. Which so far has been\nrare.\n",
     "id": "orgs/team",
     "nav-title": "TEAM",
+    "statbox": {
+      "case": [
+        "17",
+        "18"
+      ],
+      "locale": "aecus",
+      "type": "government"
+    },
     "title": "Trade, Enforcement, Arbitration and Mediation (TEAM)"
+  },
+  {
+    "body": "The brokerage firm of [Kerwin Ulvas](../dossiers/kerwin-ulvas), dealing in\nshipping, distressed acquisitions, and the legally murky licensing of\nbloodlocked spells: the [Trell](../locales/trell) practice of binding patented\nspells under infernal contract. At the time of Kerwin's death, he was brokering\nthe sub-licensing of a suite of [BlissCo](blissco)-patented production spells\nto a [Noffindorf](noffindorfs) manufacturing subsidiary&mdash;a deal he\nexpected would make him wealthy even by his own standards.\n\nThe firm occupies the third floor of a recently renovated building in the\nHarbor District of [Minauros](../locales/minauros), just down the street from\nthe [SPI](spi) branch office. Behind a large glass wall and a sign bearing a\nsteaming coffee mug, a busy staff of tieflings works in a deep, sulfurous,\nsickeningly sweet odor: the emanations of Kerwin's cursed coffee carafe, whose\nprolonged exposure left his employees unnaturally devoted to him.\n\nAfter Kerwin was found dead, the Warlocks of the Archfiend sealed the building.\n\n## Staff\n\n* [Kerwin Ulvas](../dossiers/kerwin-ulvas), proprietor (deceased)\n* [Taelin Fosse](../dossiers/taelin-fosse), head of contracts\n* [Xarlus Shale](../dossiers/xarlus-shale), finance manager\n* [Nalista Dorlies](../dossiers/nalista-dorlies), bookings manager\n\n## Associates\n\n* Security: [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen),\n  contracted through a shell company understood to be a proxy of\n  [Highmark Ventures](highmark-ventures).\n* Legal counsel: [Ercian & Brass](ercian-brass).\n\nSee also: [Curses and Carafes](../events/case-18).\n",
+    "id": "orgs/ulvan-transitional-assets",
+    "statbox": {
+      "case": [
+        "18"
+      ],
+      "hq": "[Minauros](../locales/minauros), Harbor District",
+      "industry": [
+        "brokerage",
+        "shipping",
+        "spell licensing"
+      ],
+      "leader": "[Kerwin Ulvas](../dossiers/kerwin-ulvas) (deceased)",
+      "locale": "trell",
+      "type": "company"
+    },
+    "title": "Ulvan Transitional Assets"
+  },
+  {
+    "aliases": [
+      "Vordache and Solm"
+    ],
+    "body": "A predatory corporate law firm of [Abriymoch](../locales/abriymoch), linked to\nthe people of [Mammon](../dossiers/mammon), and known for buying up debtors and\nbinding them into indefinite servitude. [Vex Morradine](../dossiers/vex-morradine)\nrecalls the firm selling a man into eleven years of labor over a debt that had\nstarted as a few hundred coins.\n\nVordache & Solm represents [Serelda Voth](../dossiers/serelda-voth) in her tort\nfiling in the Abriymoch court against [Callie](../dossiers/callie), seeking two\nhundred thousand gold pieces in damages and the submission of the cursed coffee\ncarafe as evidence. Its lawyers visited\n[Ulvan Transitional Assets](ulvan-transitional-assets) multiple times, and had\nbeen strategizing for weeks around the preemptive filing of\n[Ercian & Brass](ercian-brass), the firm representing\n[Kerwin Ulvas](../dossiers/kerwin-ulvas).\n\nSee also: [Curses and Carafes](../events/case-18).\n",
+    "id": "orgs/vordache-solm",
+    "statbox": {
+      "case": [
+        "18"
+      ],
+      "hq": "[Abriymoch](../locales/abriymoch)",
+      "locale": "trell",
+      "type": "law firm"
+    },
+    "title": "Vordache & Solm"
   },
   {
     "body": "A stone sacred to the [dwarven people](../creatures/dwarves), believed to be one of eight divine [relics](.) somehow central to the integrity of reality itself.\n\nLegend says it was forged by [Moradin](../dossiers/moradin), god of dwarves, and used to fuel the fire at the heart of the Great Mountain.\n\nTwo months ago, it was in the SPI's possession. They were studying it. Then the SPI exploded in flames one night\u2014it may or may not have been the Stone which was responsible... afterward, the Arkenstone was gone.\n\nThe SPI agents have since realized that the stone was reclaimed by Moradin; given to [Hyperion](../dossiers/hyperion), the Titan of Ice; embedded into the pommel of a sword; and gifted to Hyperion's adopted son [Callisto](../dossiers/cal) prior to sending him out into the world to purge the world of the [undead](../creatures/undead) scourge.\n",
