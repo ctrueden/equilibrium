@@ -88,10 +88,10 @@ summary: >-
   fruit while Freki investigated the garden with considerably more focus. The
   scent trail ended near the tomato plants, and after careful searching, Freki
   discovered a cleverly concealed trapdoor hidden beneath the disturbed dust of
-  the rooftop. Wary of traps, the two backed away and sent Ozborn's flying
-  monkey, Churro, to open it. Churro scratched at it, pawed it, and jumped on it
-  in mounting frustration until the door banged open on one of his leaps — and a
-  hand reached up from below.
+  the rooftop. Wary of traps, the two backed away and sent [Ozborn's flying
+  monkey](../dossiers/monkey), Churro, to open it. Churro scratched at it,
+  pawed it, and jumped on it in mounting frustration until the door banged open
+  on one of his leaps — and a hand reached up from below.
 
 
   Galloc climbed out of the trapdoor looking considerably less amused than he
@@ -134,7 +134,7 @@ summary: >-
   locked door. [Vex](../dossiers/vex-morradine) had gone home for the night and taken the only key with him,
   leaving behind nothing but an IOU note promising a visit to the locksmith.
   What followed was a prolonged and increasingly chaotic series of attempts to
-  gain entry: Vondal's familiar Murphy, in cat form, managed to pop a window
+  gain entry: Vondal's familiar [Murky](../dossiers/murky), in cat form, managed to pop a window
   latch and get inside, but the door remained stubbornly shut. Vondal attempted
   to manipulate the lock's internal mechanisms with a spectral hand,
   accidentally gumming up the tumblers with ectoplasm. By the time Freki and
@@ -673,7 +673,7 @@ scenes:
         The party discovers the office door is locked and [Vex](../dossiers/vex-morradine) has already left
         for the night.
       - >-
-        Vondal uses his familiar Murphy in cat form to pop a window latch and
+        Vondal uses his familiar [Murky](../dossiers/murky) in cat form to pop a window latch and
         climb inside.
       - >-
         Once inside, Vondal searches for a spare key but only finds an IOU note
@@ -838,6 +838,7 @@ npcs:
       One of Freki's ravens who assisted in the rooftop pursuit by scouting
       ahead and signaling the direction of Galloc's movements.
   - name: Churro
+    wiki: ../dossiers/monkey
     description: >-
       Ozborn's flying monkey companion, capable of scouting from the air and
       manipulating objects, though he possesses a short attention span and a
@@ -856,7 +857,8 @@ npcs:
       An SPI colleague who locked the local headquarters for the night and left,
       inadvertently locking his teammates out. He left an IOU note indicating
       the original key was lost.
-  - name: Murphy
+  - name: Murky
+    wiki: ../dossiers/murky
     description: >-
       Vondal's familiar, who took the form of a cat to infiltrate the locked
       headquarters through a window and assist in opening it from the inside.

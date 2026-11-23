@@ -29,4 +29,4 @@ descriptions:
       Now glows like a book light, so it can no longer benefit from invisibility.
 ---
 
-TODO - That flying monkey statue!
+[Ozborn](oz)'s flying monkey companion, who Oz gives different nicknames (always starting with C: Caesar, Constantine, Corneluphagus, Churro...) day by day. It takes the form of a statue most of the time, but when activated, grows in size and comes alive. It faithfully carries out Oz's commands, but nonetheless has a short attention span, and is easily distracted or frightened.
