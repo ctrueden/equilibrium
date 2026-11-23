@@ -1,6 +1,10 @@
 ---
 nav-title: MAD
 title: Military Aid and Defense (MAD)
+statbox:
+  type: government
+  locale: aecus
+  case: ["09", "18"]
 descriptions:
   - session: "09e04"
     content: |

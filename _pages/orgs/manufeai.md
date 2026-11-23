@@ -1,6 +1,10 @@
 ---
 nav-title: Manufeai
 title: The Manufeai
+statbox:
+  type: tribe
+  locale: selva
+  case: ["06"]
 descriptions:
   - session: "06e01"
     content: |

@@ -2,7 +2,9 @@
 title: Ordning's Downfall
 aliases: [Ordnings Downfall]
 statbox:
-  case: "17"
+  type: cult
+  locale: arallu
+  case: ["17"]
 descriptions:
   - session: "17e02"
     content: |

@@ -11,10 +11,10 @@ statbox:
 ---
 
 Blue-skinned tiefling and trained legal professional, who oversaw contracts
-for [Kerwin Ulvas](kerwin-ulvas) at Ulvan Transitional Assets for three years,
+for [Kerwin Ulvas](kerwin-ulvas) at [Ulvan Transitional Assets](../orgs/ulvan-transitional-assets) for three years,
 under the influence of his [carafe](../events/case-18).
 
-During a business trip to Abriymoch, her mind cleared long enough for her to
+During a business trip to [Abriymoch](../locales/abriymoch), her mind cleared long enough for her to
 write herself a letter laying out a plan to take the carafe from Kerwin. When
 he refused to give it up, she killed him ([18e04](../events/case-18e04)). Her
 pouch, carafe inside, was then stolen by [Preen](preen) while [Galloc](galloc)

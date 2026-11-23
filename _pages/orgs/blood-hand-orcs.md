@@ -1,5 +1,9 @@
 ---
 title: Blood Hand Orcs
+statbox:
+  type: tribe
+  locale: selva
+  case: ["06"]
 ---
 
 A Selva tribe of orcs.

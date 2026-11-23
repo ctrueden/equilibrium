@@ -26,18 +26,18 @@ summary: >-
   walked the team through the key players: [Serelda Voth](../dossiers/serelda-voth), Kerwin's former wife,
   who had filed a sweeping legal complaint against Callie Rockwell seeking two
   hundred thousand gold pieces in damages and the submission of the carafe as
-  evidence; and the law firm Vordache & Solm, who represented her and had
+  evidence; and the law firm [Vordache & Solm](../orgs/vordache-solm), who represented her and had
   apparently been strategizing around Kerwin's own preemptive legal filing for
   weeks.
 
 
-  Mallory explained that Kerwin's law firm, Ercian & Brass, had already filed a
+  Mallory explained that Kerwin's law firm, [Ercian & Brass](../orgs/ercian-brass), had already filed a
   brief arguing that voluntary and prolonged use of the carafe diminished the
   original seller's liability—a legal argument, not yet precedent, but one that
   could help [Callie](../dossiers/callie)'s defense. He was clear about the limits of [SPI](../orgs/spi)'s
   involvement: they would protect Callie physically and facilitate her access to
   legal counsel, but they would not bury evidence or coerce witnesses. He
-  recommended the firm Perdition Mitigation, which had an office in Abriymoch,
+  recommended the firm [Perdition Mitigation](../orgs/perdition-mitigation), which had an office in [Abriymoch](../locales/abriymoch),
   and suggested Callie's family connections might already open that door.
 
 
@@ -46,8 +46,8 @@ summary: >-
   watched the carafe's influence erode her own mind, her testimony could
   transform a weak defense into a compelling story of fraud and manipulation.
   Mallory also flagged the bodyguards [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen) as persons of interest,
-  noting that Galloc was likely a freelancer working through Highmark
-  Ventures—the corporate arm of [Mammon](../dossiers/mammon) himself—and that Preen, an
+  noting that Galloc was likely a freelancer working through [Highmark
+  Ventures](../orgs/highmark-ventures)—the corporate arm of [Mammon](../dossiers/mammon) himself—and that Preen, an
   extraordinarily skilled thief, was believed to be in possession of the missing
   carafe. [Bec](../dossiers/bec) was quietly warned not to be briefed on the Highmark angle until
   more was known about where his loyalties truly lay.
@@ -70,7 +70,7 @@ summary: >-
   outlined five investigative priorities: securing legal protection for Callie,
   clarifying the deal struck with Galloc, interviewing Kerwin's surviving staff
   before the Warlocks got to them, informing Serelda of her ex-husband's death,
-  and investigating the contract draft left behind by the Noffindorfs. [Vondal](../dossiers/vondal)
+  and investigating the contract draft left behind by the [Noffindorfs](../orgs/noffindorfs). [Vondal](../dossiers/vondal)
   raised a sharp legal observation—if the carafe had compromised Kerwin's
   sanity, his divorce from Serelda might be legally invalid, meaning she could
   stand to inherit his entire estate and might have little reason to continue
@@ -180,7 +180,7 @@ short_summary: >-
   [Mallory](../dossiers/mallory) at [SPI Headquarters](../locales/spi-hq)—confirmed genuine by [Freki](../dossiers/freki)'s nose—who informed
   them that [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead that morning, with the Warlocks of
   the Archfiend already sealing the scene. Mallory outlined the key players,
-  including Kerwin's ex-wife [Serelda Voth](../dossiers/serelda-voth) and her legal team at Vordache & Solm,
+  including Kerwin's ex-wife [Serelda Voth](../dossiers/serelda-voth) and her legal team at [Vordache & Solm](../orgs/vordache-solm),
   the potentially invaluable witness [Taelin Fosse](../dossiers/taelin-fosse), and the dangerous bodyguards
   [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen)—the latter believed to be in possession of the missing
   carafe. He assigned five investigative priorities, funded the team with five
@@ -199,7 +199,7 @@ short_summary: >-
   The team teleported to [Trell](../locales/trell), where their contact [Vex](../dossiers/vex-morradine) briefed them further and
   provided addresses for Kerwin's finance manager [Xarlus Shale](../dossiers/xarlus-shale) and Serelda Voth,
   urging them to reach Xarlus before the Warlocks did. A notable moment of
-  tension arose when Highmark Ventures was mentioned—Vex went briefly but
+  tension arose when [Highmark Ventures](../orgs/highmark-ventures) was mentioned—Vex went briefly but
   visibly still, betraying quiet unease beneath his composed exterior. The party
   found Xarlus in a surprisingly sparse apartment, groggy and stunned by the
   news of Kerwin's death, though his first instinct was to simply suggest
@@ -227,7 +227,7 @@ classic_summary: >-
 
 
   Teleporting to [Trell](../locales/trell), the group touched base with their local contact [Vex](../dossiers/vex-morradine), who
-  received the mention of Highmark Ventures with a stillness that spoke volumes,
+  received the mention of [Highmark Ventures](../orgs/highmark-ventures) with a stillness that spoke volumes,
   before setting out through smoggy streets toward the humble apartment of
   [Xarlus Shale](../dossiers/xarlus-shale), Kerwin's finance manager. They found him groggy, shirtless, and
   startlingly optimistic—his first instinct upon learning of his employer's
@@ -265,7 +265,7 @@ middle_english_summary: |-
   And laughter rang where candles lit!
 
   To [Trell](../locales/trell) they leapt through magic's door,
-  And [Vex](../dossiers/vex-morradine) stood still at Highmark's lore;
+  And [Vex](../dossiers/vex-morradine) stood still at [Highmark](../orgs/highmark-ventures)'s lore;
   Then [Xarlus](../dossiers/xarlus-shale), bleary, shirtless, pale,
   Did hear his master's mortal tale,
   And dreamed of life restored once more!
@@ -290,8 +290,8 @@ snarky_summary: >-
 
 
   The team then teleported to [Trell](../locales/trell), had a very normal conversation with their
-  contact [Vex](../dossiers/vex-morradine)—who definitely did not visibly short-circuit when Highmark
-  Ventures was mentioned—and proceeded to wake up a shirtless finance bro named
+  contact [Vex](../dossiers/vex-morradine)—who definitely did not visibly short-circuit when [Highmark
+  Ventures](../orgs/highmark-ventures) was mentioned—and proceeded to wake up a shirtless finance bro named
   [Xarlus Shale](../dossiers/xarlus-shale), whose apartment contained a bed, a pot, and three books, and
   whose first response to learning his boss was murdered was "have you
   considered just bringing him back to life?" Ozborn bluffed about having a
@@ -312,7 +312,7 @@ limerick_style_summary: |-
   A dagger by [Galloc](../dossiers/galloc) sufficed!
 
   To [Trell](../locales/trell) they arrived through the haze,
-  Where [Vex](../dossiers/vex-morradine) froze at Highmark's dark name;
+  Where [Vex](../dossiers/vex-morradine) froze at [Highmark](../orgs/highmark-ventures)'s dark name;
   He smoothed out his face,
   But they all saw the trace
   Of a man who knew more than he'd claim!
@@ -439,7 +439,7 @@ scenes:
       The party gathers for a morning briefing with [Mallory](../dossiers/mallory), who provides funds
       and intelligence regarding their mission in [Trell](../locales/trell).
     key_events:
-      - Freki changes his familiar, Murky, back into the form of a cat.
+      - Freki changes his familiar, [Murky](../dossiers/murky), back into the form of a cat.
       - >-
         The party meets with Mallory, confirming he is the original dwarf and
         not the changeling double, [Eeoram](../dossiers/eeoram-sufur), based on subtle differences in beard
@@ -449,7 +449,7 @@ scenes:
         worth of mixed currency for their mission expenses.
       - >-
         Mallory reveals that [Kerwin Ulvas](../dossiers/kerwin-ulvas) was found dead that morning, and the
-        building has been sealed by Order of Mammon warlocks.
+        building has been sealed by Order of [Mammon](../dossiers/mammon) warlocks.
       - >-
         Mallory begins a briefing using a corkboard, displaying magically-aided
         portraits of key figures including [Serelda Voth](../dossiers/serelda-voth), Callie Rockwell, and
@@ -462,7 +462,7 @@ scenes:
       - >-
         Mallory explains the legal situation regarding Serelda Voth's lawsuit
         and the potential defense strategies, including a preemptive filing by
-        Kerwin's law firm, Ercian & Brass.
+        Kerwin's law firm, [Ercian & Brass](../orgs/ercian-brass).
       - >-
         [Taelin Fosse](../dossiers/taelin-fosse) is identified as a crucial legal asset due to her
         professional background and firsthand experience with the carafe's
@@ -477,7 +477,7 @@ scenes:
     key_events:
       - >-
         Mallory details the background of Kerwin's bodyguards, [Galloc](../dossiers/galloc) and [Preen](../dossiers/preen),
-        linking them to Highmark Ventures.
+        linking them to [Highmark Ventures](../orgs/highmark-ventures).
       - >-
         The three primary harbor factions—the Blues (Dockworkers' Union), the
         Scarlets, and the Crimsons—are introduced along with their respective
@@ -547,7 +547,7 @@ scenes:
         surveillance.
       - >-
         Mallory notes that the carafe bears the signature markings of the
-        Noffindorfs, suggesting they are the creators.
+        [Noffindorfs](../orgs/noffindorfs), suggesting they are the creators.
       - >-
         The party considers the risks of reaching out to the volatile
         Noffindorfs to gain leverage.
@@ -619,7 +619,7 @@ scenes:
         in custody with the warlocks, but suggests Xarlus Shale may not yet have been found.
       - >-
         Freki communes with his ravens, [Hugin](../dossiers/hugin) and
-        [Munin](../dossiers/munin), who warn him that SPI HQ lies at the center
+        [Munin](../dossiers/munin), who warn him that [SPI HQ](../locales/spi-hq) lies at the center
         of the [flux](../locales/flux) storm and that he is not grounded in his power there.
   - title: Walking the Streets of Trell and Faction Briefing
     description: >-
@@ -686,7 +686,7 @@ scenes:
         noticed with Taelin.
       - >-
         Xarlus reveals he has worked for Kerwin for about a year and was deeply
-        invested in the success of Ulvan Transitional Assets, hoping to
+        invested in the success of [Ulvan Transitional Assets](../orgs/ulvan-transitional-assets), hoping to
         eventually become a partner.
       - >-
         Xarlus expresses shock at Kerwin's death and naively suggests using
@@ -812,6 +812,7 @@ npcs:
       faction. He harbors a deep hatred for the Scarlets and is noted for being
       guarded and uninterested in small talk.
   - name: Nalista Dorlies
+    wiki: ../dossiers/nalista-dorlies
     description: >-
       Kerwin Ulvas's booking manager who discovered his body and called the
       authorities. She is considered a key witness who is likely already in

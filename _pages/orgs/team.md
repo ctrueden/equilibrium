@@ -1,6 +1,10 @@
 ---
 nav-title: TEAM
 title: Trade, Enforcement, Arbitration and Mediation (TEAM)
+statbox:
+  type: government
+  locale: aecus
+  case: ["17", "18"]
 ---
 
 Trade, Enforcement, Arbitration and Mediation (TEAM) is the diplomatic arm of

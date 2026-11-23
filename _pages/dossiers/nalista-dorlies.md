@@ -10,7 +10,7 @@ statbox:
   case: ["18"]
 ---
 
-Bookings manager for [Kerwin Ulvas](kerwin-ulvas) at Ulvan Transitional Assets.
+Bookings manager for [Kerwin Ulvas](kerwin-ulvas) at [Ulvan Transitional Assets](../orgs/ulvan-transitional-assets).
 Refused to discuss Kerwin's personal life with the agents
 ([18e03](../events/case-18e03)). She found Kerwin's body, and called in the
 Warlocks of the Archfiend.

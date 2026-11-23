@@ -1,5 +1,9 @@
 ---
 title: Luminous Defenders
+statbox:
+  type: military order
+  locale: rup
+  case: ["08", "09"]
 ---
 
 This military order of paladins maintains order and peace in the [Radiant Union of Pelor](../locales/rup).

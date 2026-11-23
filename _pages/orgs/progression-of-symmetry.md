@@ -2,6 +2,10 @@
 title: The Progression of Symmetry
 image: https://i.pinimg.com/originals/e4/64/0c/e4640c70177471f7198b9d315ceedf1b.jpg
 image-source: https://www.pinterest.com/pin/689684130409705922/
+statbox:
+  type: monastic order
+  locale: zephyr
+  case: ["05", "17"]
 descriptions:
   - session: "05e01"
     content: |

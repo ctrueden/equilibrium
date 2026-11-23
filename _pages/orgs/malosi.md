@@ -1,6 +1,10 @@
 ---
 nav-title: Malosi
 title: The Malosi
+statbox:
+  type: tribe
+  locale: selva
+  case: ["06", "13", "14"]
 descriptions:
   - session: "06e03"
     content: |

@@ -28,7 +28,7 @@ persons_of_interest:
 
 ### Summary
 
-Mind flayers infiltrated BlissCo's resort town of Euphoria via underground tunnels from the Flux. Though they were defeated by the Noffindorfs, a gnomish wizard family, and the tunnels sealed with magical wards, a young Elder Brain was (unbeknownst to the gnomes) left orphaned beneath the surface. Over time, it fused with the gray ooze garbage disposals which were installed in the sewer system, and absorbed thousands of vacationers into its psionic network of terror.
+Mind flayers infiltrated [BlissCo](../orgs/blissco)'s resort town of Euphoria via underground tunnels from the Flux. Though they were defeated by the Noffindorfs, a gnomish wizard family, and the tunnels sealed with magical wards, a young Elder Brain was (unbeknownst to the gnomes) left orphaned beneath the surface. Over time, it fused with the gray ooze garbage disposals which were installed in the sewer system, and absorbed thousands of vacationers into its psionic network of terror.
 
 BlissCo hired the SPI to investigate why they had lost all communication with Euphoria. The agents discovered that the sewers were crawling with horrific entities that devoured people, transforming them into zombie elements of the psionic geological network. Sima received a mysterious but powerful vision which directed the party deep into the tunnel network where they found [the Elder Brain, who Vondal dubbed "Brian"](../dossiers/brian-the-elder-brain) in sympathy due to its Flux-oriented nature.
 

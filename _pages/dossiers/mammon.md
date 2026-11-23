@@ -6,7 +6,7 @@ statbox:
   race: devil
   gender: male
   alignment: lawful evil
-  affiliation: Highmark Ventures
+  affiliation: "[Highmark Ventures](../orgs/highmark-ventures)"
   allies:
   - Trade partners
   enemies:
@@ -15,7 +15,7 @@ statbox:
 
 Ruler of the [Trell](../locales/trell) island of [Minauros](../locales/minauros).
 
-Greed incarnate, Mammon cares for nothing but profit and accumulation. His island is the commercial heart of Trell, where all trade flows and no one is trusted. Through Highmark Ventures, he has created a financial system where credit crystals function as both currency and shackle—debt enslavement masquerading as commerce.
+Greed incarnate, Mammon cares for nothing but profit and accumulation. His island is the commercial heart of Trell, where all trade flows and no one is trusted. Through [Highmark Ventures](../orgs/highmark-ventures), he has created a financial system where credit crystals function as both currency and shackle—debt enslavement masquerading as commerce.
 
 Mammon is ruthlessly pragmatic. He does not concern himself with alliances born of ideology, only transactions that increase his wealth. Those who profit alongside him are temporary allies; those who cannot pay become his enemies, their souls converted to the currency of Trell itself.
 

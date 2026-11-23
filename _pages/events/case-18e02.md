@@ -675,7 +675,7 @@ npcs:
       A wealthy Tiefling woman from a minor branch of an Abriymoch family,
       representing 'old money.' She arrived at the SPI office to demand the
       recovery of a cursed coffee pot sold by Callie's family, serving legal
-      papers for a tort filing in Abderlock court. Her outrage is performative,
+      papers for a tort filing in Abriymoch court. Her outrage is performative,
       but her anger and frustration are genuine — and she may still care about
       her ex-husband despite claiming otherwise. The party suspects she is being
       coached by a larger institution.

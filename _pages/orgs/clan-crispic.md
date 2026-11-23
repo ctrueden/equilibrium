@@ -1,6 +1,10 @@
 ---
 nav-title: Crispic Clan
 title: Crispic Clan
+statbox:
+  type: vampire clan
+  locale: arallu
+  case: ["15"]
 ---
 
 An ambitious vampire clan that lets nothing hold them back.

@@ -1,5 +1,9 @@
 ---
 title: Esprit Repose
+statbox:
+  type: cult
+  locale: mountain
+  case: ["03", "16", "17", "18"]
 descriptions:
   - session: "03e03"
     content: |

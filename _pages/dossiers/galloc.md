@@ -11,7 +11,7 @@ statbox:
 ---
 
 Former dock security in Trell's harbor district, and bodyguard to
-[Kerwin Ulvas](kerwin-ulvas). Believed to freelance for Highmark Ventures,
+[Kerwin Ulvas](kerwin-ulvas). Believed to freelance for [Highmark Ventures](../orgs/highmark-ventures),
 the corporate arm of [Mammon](mammon).
 
 He stepped out of an alley to engage the agents in friendly conversation

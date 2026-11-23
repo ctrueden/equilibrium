@@ -1,6 +1,10 @@
 ---
-nav: Stormherd
+nav-title: Stormherd
 title: The Stormherd
+statbox:
+  type: tribe
+  locale: selva
+  case: ["06", "07"]
 descriptions:
   - session: "06e05"
     content: |

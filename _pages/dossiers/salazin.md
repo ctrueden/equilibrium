@@ -13,4 +13,4 @@ descriptions:
       Now the Rockwell family's imp servant, he brought Callie a summons from her parents.
 ---
 
-Once an employee of BlissCo at the [Euphoria](../locales/euphoria) resort, Salazin is now the Rockwell family imp due to a contract [Callie](callie) signed with him.
+Once an employee of [BlissCo](../orgs/blissco) at the [Euphoria](../locales/euphoria) resort, Salazin is now the Rockwell family imp due to a contract [Callie](callie) signed with him.

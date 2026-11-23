@@ -12,4 +12,4 @@ descriptions:
       Summoned by Callie, he whispered the legend of Melora to her and Bec, then offered them freshly baked blood cookies.
 ---
 
-A former employee of BlissCo at the [Euphoria](../locales/euphoria) resort, with whom [Tybalt Nightbreeze](tybalt) made a contract.
+A former employee of [BlissCo](../orgs/blissco) at the [Euphoria](../locales/euphoria) resort, with whom [Tybalt Nightbreeze](tybalt) made a contract.
