@@ -7,7 +7,6 @@ when: AC50 Vis 22
 session-number: 103
 session-date: 2026-09-19
 layout: session
-reviewed: false
 summary: >-
   The morning began with the team assembling in the communal briefing room at
   [SPI Headquarters](../locales/spi-hq), where the real [Mallory](../dossiers/mallory)—not his changeling double,
@@ -122,7 +121,7 @@ summary: >-
   additional details about the factions. He revealed his own past as a Highmark
   debt collector, explaining with quiet confidence that the locals gave him a
   wide berth out of experience and fear. Meanwhile, Freki's ravens delivered a
-  cryptic warning: Trell lay at the center of the flux storm, a place where
+  cryptic warning: SPI HQ lies at the center of the flux storm, a place where
   neither Freki nor his enemies could draw on the power of nature—the safest
   place from the flux, and yet profoundly dangerous for exactly that reason.
 
@@ -370,7 +369,7 @@ memorable_moments:
   - is_quote: false
     type: intriguing
     description: >-
-      Freki's ravens Hugin and Munin warn him that Trell lies at the center of
+      Freki's ravens Hugin and Munin warn him that SPI HQ lies at the center of
       the flux storm—the safest place from the flux, but profoundly dangerous
       because he is not grounded in his power there.
     speaker: ''
@@ -618,9 +617,9 @@ scenes:
         Vex notes that Melissa Dorleac is likely already in custody with the
         Warlocks, but suggests Xarlus Shale may not yet have been found.
       - >-
-        Freki communes with his ravens, [Hugin](../dossiers/hugin) and [Munin](../dossiers/munin), who warn him that Trell
-        lies at the center of the flux storm and that he is not grounded in his
-        power there.
+        Freki communes with his ravens, [Hugin](../dossiers/hugin) and
+        [Munin](../dossiers/munin), who warn him that SPI HQ lies at the center
+        of the flux storm and that he is not grounded in his power there.
   - title: Walking the Streets of Trell and Faction Briefing
     description: >-
       The party walks through the dilapidated streets of Trell with Vex, who
@@ -847,8 +846,8 @@ npcs:
       overseeing Highmark Ventures, his personal corporation.
   - name: Hugin and Munin
     description: >-
-      Mystical ravens associated with Freki that provide cryptic warnings,
-      telling him that Trell lies at the center of the flux storm and that he is
+      Mystical ravens associated with Freki that provide cryptic advice,
+      telling him that SPI HQ lies at the center of the flux storm and that he is
       not grounded in his power there, though neither is his enemy.
   - name: Hostel Receptionist
     description: >-
