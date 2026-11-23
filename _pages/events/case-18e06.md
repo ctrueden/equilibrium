@@ -121,7 +121,7 @@ summary: >-
   additional details about the factions. He revealed his own past as a Highmark
   debt collector, explaining with quiet confidence that the locals gave him a
   wide berth out of experience and fear. Meanwhile, Freki's ravens delivered a
-  cryptic warning: SPI HQ lies at the center of the flux storm, a place where
+  cryptic warning: SPI HQ lies at the center of the [flux](../locales/flux) storm, a place where
   neither Freki nor his enemies could draw on the power of nature—the safest
   place from the flux, and yet profoundly dangerous for exactly that reason.
 
@@ -619,7 +619,7 @@ scenes:
       - >-
         Freki communes with his ravens, [Hugin](../dossiers/hugin) and
         [Munin](../dossiers/munin), who warn him that SPI HQ lies at the center
-        of the flux storm and that he is not grounded in his power there.
+        of the [flux](../locales/flux) storm and that he is not grounded in his power there.
   - title: Walking the Streets of Trell and Faction Briefing
     description: >-
       The party walks through the dilapidated streets of Trell with Vex, who
@@ -854,13 +854,13 @@ npcs:
       A bored woman working the front desk of the hostel who confirms Xarlus
       Shale lives in unit 36 and directs the party to the stairs.
   - name: Infernal Order Warlock
+    wiki: ../dossiers/vael
     description: >-
       A young but exceptionally powerful tiefling wreathed in fire representing
       the Infernal Order of Asmodeus, who arrives at Xarlus's apartment door
       demanding entry as the session ends.
 locations:
   - name: SPI Headquarters
-
     wiki: ../locales/spi-hq
     description: >-
       The central base of operations for the Supernatural Phenomena
@@ -885,8 +885,8 @@ locations:
   - name: The Streets of Trell
     description: >-
       An overcast, smoggy, and dilapidated district where the buildings are
-      falling apart, chosen by the previous SPI manager to blend into the
-      criminal underworld.
+      falling apart, chosen by the [previous SPI manager](../dossiers/victor-rocksmith)
+      to blend into the criminal underworld.
   - name: The Rusted Capstan
     description: >-
       A tavern and unofficial union hall run by Sorra Kell, serving as the
