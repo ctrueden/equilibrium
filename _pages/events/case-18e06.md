@@ -19,7 +19,7 @@ summary: >-
 
 
   The news came quickly and without ceremony: [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead
-  that morning by his booking manager, and the Warlocks of the Archfiend had
+  that morning by his booking manager, and the Order of Mammon Warlocks had
   already sealed the building. Mallory pinned a series of magically-rendered
   portraits to the corkboard with practiced efficiency, each one so lifelike
   that only the faintest pencil shading betrayed the hand of an artist. He
@@ -190,10 +190,10 @@ short_summary: >-
   her his heir and undermining her lawsuit against [Callie](../dossiers/callie)—an angle Mallory
   agreed to explore with Taelin. Before departing, [Ozborn](../dossiers/oz) cheekily pickpocketed
   Mallory's personal notes—a charming hand-drawn sheet of stick figures and
-  dagger doodles—and Callie quietly checked on the mysteriously sleeping
-  [Cassandra](../dossiers/cassandra), whose own divine aura seemed to cast an impossible shadow,
-  suggesting she had been magically suppressing her need for rest until her body
-  finally gave out.
+  dagger doodles—and Callie quietly checked on the sleeping
+  [Cassandra](../dossiers/cassandra), whose own divine aura seemed to cast an
+  impossible shadow, suggesting she had been magically suppressing her need for
+  rest until her body finally gave out.
 
 
   The team teleported to [Trell](../locales/trell), where their contact [Vex](../dossiers/vex-morradine) briefed them further and
@@ -215,7 +215,7 @@ classic_summary: >-
   Last we left off, our investigators gathered at [SPI Headquarters](../locales/spi-hq) for a morning
   briefing with the real [Mallory](../dossiers/mallory)—confirmed genuine by [Freki](../dossiers/freki)'s ever-reliable
   nose—who wasted no time delivering grim news: [Kerwin Ulvas](../dossiers/kerwin-ulvas) had been found dead,
-  his building already sealed by the Warlocks of the Archfiend. Mallory laid out
+  his building already sealed by the Order of Mammon warlocks. Mallory laid out
   the full picture with characteristic efficiency: a vengeful ex-wife named
   [Serelda Voth](../dossiers/serelda-voth) pursuing a devastating lawsuit, a pair of dangerous bodyguards
   with ties to the corporate arm of [Mammon](../dossiers/mammon) himself, three feuding factions
@@ -242,7 +242,7 @@ classic_summary: >-
   Now, as the team balanced themselves between window ledges and rafters, a
   young tiefling wreathed in flame came pounding up the stairs—a representative
   of the Infernal Order of [Asmodeus](../dossiers/asmodeus), arriving to claim his own piece of the
-  investigation. With the Warlocks at the door and Xarlus on the other side of
+  investigation. With the warlocks at the door and Xarlus on the other side of
   it, our investigators find themselves caught between the law, the flames, and
   a mystery that grows more tangled with every floor they climb...
 middle_english_summary: |-
@@ -256,7 +256,7 @@ middle_english_summary: |-
   Five hundred gold to hold them fast;
   A carafe lost, a widow's wrath,
   A lawsuit carved a ruinous path,
-  And Warlocks sealed the doors shut fast!
+  And warlocks sealed the doors shut fast!
 
   Then [Ozborn](../dossiers/oz), swift of hand and wit,
   Did steal the page—Mallory submit!
@@ -327,7 +327,7 @@ limerick_style_summary: |-
   A tiefling in flames filled the air;
   The party held tight
   To the rafters in fright—
-  The Warlocks of [Asmodeus](../dossiers/asmodeus) were there!
+  A warlock of [Asmodeus](../dossiers/asmodeus) was there!
 memorable_moments:
   - is_quote: false
     type: funny
@@ -449,7 +449,7 @@ scenes:
         worth of mixed currency for their mission expenses.
       - >-
         Mallory reveals that [Kerwin Ulvas](../dossiers/kerwin-ulvas) was found dead that morning, and the
-        building has been sealed by Warlocks of the Archfiend.
+        building has been sealed by Order of Mammon warlocks.
       - >-
         Mallory begins a briefing using a corkboard, displaying magically-aided
         portraits of key figures including [Serelda Voth](../dossiers/serelda-voth), Callie Rockwell, and
@@ -495,11 +495,12 @@ scenes:
         Mallory advises the team on how to approach the various faction leaders,
         authorizing the use of gold for bribes and information broker fees.
       - >-
-        Mallory presents information on Melissa Dorleac and [Xarlus Shale](../dossiers/xarlus-shale), urging
-        the party to interview them before local authorities do.
+        Mallory presents information on [Nalista Dorlies](../dossiers/nalista-dorlies)
+        and [Xarlus Shale](../dossiers/xarlus-shale), urging the party to interview
+        them before local authorities do.
       - >-
-        [Thresh](../dossiers/thresh), a contract devil serving as Harbor District Notary, is
-        identified as a potential source of legal filing information.
+        [Thresh](../dossiers/thresh), a contract devil serving as Harbor District Notary,
+        is identified as a potential source of legal filing information.
       - >-
         The party is warned about potential conflicting loyalties regarding
         [Bec](../dossiers/bec)'s history with Highmark Ventures.
@@ -594,8 +595,8 @@ scenes:
   - title: Return to Trell and Briefing Vex
     description: >-
       The party teleports back to the Trell SPI office, where they coordinate
-      their next investigative steps with their local contact, [Vex](../dossiers/vex-morradine), over freshly
-      brewed tea.
+      their next investigative steps with their local contact,
+      [Vex](../dossiers/vex-morradine), over freshly brewed tea.
     key_events:
       - >-
         The party arrives at the Trell SPI office and is greeted by Vex, who
@@ -614,8 +615,8 @@ scenes:
         Vex provides the party with the personal residential addresses for
         Xarlus Shale and Serelda Voth on a scrap of paper.
       - >-
-        Vex notes that Melissa Dorleac is likely already in custody with the
-        Warlocks, but suggests Xarlus Shale may not yet have been found.
+        Vex notes that [Nalista Dorlies](../dossiers/nalista-dorlies) is likely already
+        in custody with the warlocks, but suggests Xarlus Shale may not yet have been found.
       - >-
         Freki communes with his ravens, [Hugin](../dossiers/hugin) and
         [Munin](../dossiers/munin), who warn him that SPI HQ lies at the center
@@ -810,7 +811,7 @@ npcs:
       A watchful, paranoid leader who runs the Ember Keep and the Crimson
       faction. He harbors a deep hatred for the Scarlets and is noted for being
       guarded and uninterested in small talk.
-  - name: Melissa Dorleac
+  - name: Nalista Dorlies
     description: >-
       Kerwin Ulvas's booking manager who discovered his body and called the
       authorities. She is considered a key witness who is likely already in
